@@ -1,0 +1,21 @@
+# Pastas de dependências e ambiente
+venv/
+__pycache__/
+
+# Controle de versão e IDEs
+.git
+.gitignore
+.idea/
+.DS_Store
+
+# Logs e arquivos temporários
+*.log
+tmp/
+
+# Documentação
+README.md
+
+# O próprio arquivo
+.dockerignore
+
+output/
