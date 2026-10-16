@@ -1,9 +1,14 @@
-FROM python:3.15-slim
-
-COPY . app/.
+FROM node:22-slim
 
 WORKDIR /app
 
-RUN ["pip", "install", "--no-cache-dir", "-r", "requirements.txt"]
+COPY package.json package-lock.json ./
+RUN npm ci
 
-ENTRYPOINT ["python", "main.py"]
+COPY tsconfig.json ./
+COPY src ./src
+RUN npm run build
+
+VOLUME ["/app/output", "/app/dedup"]
+
+CMD ["npm", "run", "scrape"]
