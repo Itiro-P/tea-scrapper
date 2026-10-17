@@ -1,7 +1,7 @@
 export const LANGUAGE = "pt";
 export const COUNTRY = "br";
 export const SEARCH_RESULTS_PER_TERM = 100;
-export const SUGGESTION_MAX_DEPTH = 2;
+export const SUGGESTION_MAX_DEPTH = 10;
 
 export const SEARCH_TERMS: Record<string, string[]> = {
   TDAH: [
@@ -106,7 +106,6 @@ export const OMIT_KEYS = new Set([
   "video",
   "videoImage",
   "comments",
-  "developerLegalName",
   "developerLegalName",
   "developerLegalEmail",
   "developerLegalAddress",
