@@ -4,7 +4,9 @@ export namespace Config {
     // Quantidade de requisições por segundo para evitar rate-limit do Google.
     export const THROTTLE = 10;
 
-    export const DEPTH = 10;
+    export const SEARCH_RESULTS_PER_TERM = 250;
+
+    export const DEPTH = 5;
 
     export const COUNTRY = "br";
     export const LANGUAGE = "pt";
@@ -86,7 +88,6 @@ export namespace Config {
             new Set([
             "discalculia",
             "dyscalculia",
-            "dificuldade em matemática",
             ]),
         ],
         [
@@ -94,7 +95,7 @@ export namespace Config {
             new Set([
             "altas habilidades",
             "superdotação",
-            "gifted", // pode trazer ruído (apps de presentes)
+            // "gifted" foi removido: a expansão gera sugestões sobre presentes e assuntos alheios a AHSD.
             // "ah/sd", // sigla ambígua
             ]),
         ],

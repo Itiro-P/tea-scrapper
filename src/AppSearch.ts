@@ -54,6 +54,7 @@ export default class AppSearch {
                 lang: Config.LANGUAGE,
                 country: Config.COUNTRY,
                 throttle: Config.THROTTLE,
+                num: Config.SEARCH_RESULTS_PER_TERM,
             });
             await Config.pause();
             return found;
@@ -63,12 +64,18 @@ export default class AppSearch {
         const appIds = [...new Set(results.map((result) => result.appId))];
         const apps: Record<string, unknown>[] = [];
         const failedAppIds: string[] = [];
+        const omittedAppIds: string[] = [];
 
         console.log(`\n== [${entry.group}] ${entry.term} (${appIds.length} apps)`);
         for (const [index, appId] of appIds.entries()) {
             const details = await this.getApp(appId);
             if (details === null) {
             failedAppIds.push(appId);
+            continue;
+            }
+            const genreId = details.genreId;
+            if (typeof genreId === "string" && Config.OMITTED_CATEGORIES.has(genreId)) {
+            omittedAppIds.push(appId);
             continue;
             }
             // cópia, porque o objeto do cache é compartilhado entre termos; rank = posição na busca
@@ -88,6 +95,7 @@ export default class AppSearch {
             parent: entry.parent,
             result_count: appIds.length,
             failed_app_ids: failedAppIds,
+            omitted_app_ids: omittedAppIds,
             },
             apps,
         };
