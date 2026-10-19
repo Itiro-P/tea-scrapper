@@ -120,7 +120,20 @@ export namespace Config {
             new Set([
             "síndrome de tourette",
             "tourette",
-            "tiques",
+            ]),
+        ],
+    ]);
+
+    // Sugestões observadas que desviam para serviços locais, sons ou jogos sem relação com o tema.
+    export const OMITTED_SUGGESTIONS = new Map<string, Set<string>>([
+        ["TEA", new Set(["autismo perto"])],
+        [
+            "TOURETTE",
+            new Set([
+                "signalement tiques",
+                "tiques para celular",
+                "tourette defense",
+                "tourettes guy soundboard",
             ]),
         ],
     ]);
@@ -147,14 +160,14 @@ export namespace Config {
         "GAME_STRATEGY",
         "GAME_WORD",
         "GAME_TRIVIA",
-        "HEALTH_AND_FITNESS",
+        // "HEALTH_AND_FITNESS",
         "HOUSE_AND_HOME",
         "MAPS_AND_NAVIGATION",
         "MUSIC_AND_AUDIO",
         "PARENTING",
         "PERSONALIZATION",
         "PHOTOGRAPHY",
-        "PRODUCTIVITY",
+        // "PRODUCTIVITY",
         "SHOPPING",
         "SOCIAL",
         "SPORTS",

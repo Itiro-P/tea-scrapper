@@ -1,5 +1,5 @@
-import gplay from "google-play-scraper";
 import { Config } from "./Config.js";
+import gplay from "./PlayStore.js";
 
 export interface TermEntry {
     term: string; // texto original (aparado), usado na busca
@@ -67,6 +67,7 @@ export default class SuggestionSnowball {
                     const term = suggestion.trim();
                     const key = this.normalize(term);
                     if (!key || results.has(key)) continue;
+                    if (Config.OMITTED_SUGGESTIONS.get(parent.group)?.has(key)) continue;
                     // a sugestão herda o grupo do pai e aponta para a chave do pai
                     results.set(key, { term, group: parent.group, depth, parent: parentKey });
                     nextFrontier.push(key);

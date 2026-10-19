@@ -1,7 +1,7 @@
 import { access, mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import gplay from "google-play-scraper";
 import { Config } from "./Config.js";
+import gplay from "./PlayStore.js";
 import type { TermEntry } from "./SuggestionSnowball.js";
 
 export interface AppSearchOptions {
