@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:18:49.226Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TEA",
+    "term": "teste de autismo adulto grátis",
+    "key": "teste de autismo adulto gratis",
+    "depth": 2,
+    "parent": "autismo teste",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Teste de sinais de autismo",
+      "description": "Olá, sou Zakhar, pai de uma menina com autismo. Esta aplicação foi desenvolvida para ajudar outros pais de crianças com TEA e aos profissionais que lidam com elas.\nO pedido é baseado em um teste ATEC do Instituto Americano de Pesquisa do Autismo. É projetado para crianças de 5 a 12 anos.\nPara crianças de 3-4 anos, você mesmo pode fazer o teste, antes da visita ao médico e do diagnóstico oficial, a fim de dissipar ou confirmar seus medos. \n---\nPara crianças de um ano e meio a três anos, utilize o teste rápido M-CHAT-R: https://www.autismspeaks.org/screen-your-child\n---\nComo funciona o teste?\n \nO teste é usado para analisar o progresso das melhorias em crianças com autismo ou para testes iniciais de crianças que podem ter um transtorno do espectro autista (TEA).\nQuanto menor o resultado do teste, menor é a probabilidade da criança ter um TEA. \nPor exemplo, se uma criança marcou 50 pontos em um teste e 2 meses depois recebeu 40 pontos em um teste repetido, a dinâmica é positiva.\nPara obter resultados mais precisos é melhor que pessoas diferentes participem no teste com a criança. Por exemplo, se um dia pai, mãe e o especialista do centro de reabilitação derem respostas diferentes, o número de pontos será diferente, pois a aplicação calculará a pontuação média para aquele dia e a exibirá no gráfico.\n---\nAdvertência!\nO teste ATEC não é um teste de diagnóstico médico! Sempre deve recurrir a um especialista.\nA aplicação não se destina a estabelecer o diagnóstico.\nSe você obteve mais de 30 pontos, deve contatar um especialista para fazer um diagnóstico preciso.",
+      "descriptionHTML": "Olá, sou Zakhar, pai de uma menina com autismo. Esta aplicação foi desenvolvida para ajudar outros pais de crianças com TEA e aos profissionais que lidam com elas.<br>O pedido é baseado em um teste ATEC do Instituto Americano de Pesquisa do Autismo. É projetado para crianças de 5 a 12 anos.<br>Para crianças de 3-4 anos, você mesmo pode fazer o teste, antes da visita ao médico e do diagnóstico oficial, a fim de dissipar ou confirmar seus medos. <br>---<br>Para crianças de um ano e meio a três anos, utilize o teste rápido M-CHAT-R: https://www.autismspeaks.org/screen-your-child<br>---<br>Como funciona o teste?<br> <br>O teste é usado para analisar o progresso das melhorias em crianças com autismo ou para testes iniciais de crianças que podem ter um transtorno do espectro autista (TEA).<br>Quanto menor o resultado do teste, menor é a probabilidade da criança ter um TEA. <br>Por exemplo, se uma criança marcou 50 pontos em um teste e 2 meses depois recebeu 40 pontos em um teste repetido, a dinâmica é positiva.<br>Para obter resultados mais precisos é melhor que pessoas diferentes participem no teste com a criança. Por exemplo, se um dia pai, mãe e o especialista do centro de reabilitação derem respostas diferentes, o número de pontos será diferente, pois a aplicação calculará a pontuação média para aquele dia e a exibirá no gráfico.<br>---<br>Advertência!<br>O teste ATEC não é um teste de diagnóstico médico! Sempre deve recurrir a um especialista.<br>A aplicação não se destina a estabelecer o diagnóstico.<br>Se você obteve mais de 30 pontos, deve contatar um especialista para fazer um diagnóstico preciso.",
+      "summary": "Verificar a existência de sinais de autismo e a dinâmica de reabilitação",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 176104,
+      "score": 4.2,
+      "scoreText": "4,2",
+      "ratings": 477,
+      "reviews": 70,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Criação de filhos",
+      "genreId": "PARENTING",
+      "categories": [
+        {
+          "name": "Criação de filhos",
+          "id": "PARENTING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "ru.atec",
+      "url": "https://play.google.com/store/apps/details?id=ru.atec&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Autism Test (Adult)",
+      "description": "O Transtorno do Espectro Autista é uma série de condições caracterizadas por dificuldades sociais, interesses restritos e padrões repetitivos de comportamento. Embora seja tipicamente diagnosticado na infância, um diagnóstico pode ser adiado até a idade adulta - especialmente para aqueles com autismo de alto funcionamento.\n\nSe você teve dificuldades ao longo da vida para entender os sentimentos de outras pessoas, manter hobbies peculiares, dificuldade com a interação social, manter uma agenda rígida ou é realmente bom em assuntos específicos - você pode ter Transtorno do Espectro Autista não diagnosticado.\n\nIsenção de responsabilidade: Este teste NÃO é um teste de diagnóstico. Um diagnóstico só pode ser fornecido por um profissional de saúde qualificado. Consulte um médico ou profissional de saúde mental se estiver preocupado com sua saúde mental.",
+      "descriptionHTML": "O Transtorno do Espectro Autista é uma série de condições caracterizadas por dificuldades sociais, interesses restritos e padrões repetitivos de comportamento. Embora seja tipicamente diagnosticado na infância, um diagnóstico pode ser adiado até a idade adulta - especialmente para aqueles com autismo de alto funcionamento.<br><br>Se você teve dificuldades ao longo da vida para entender os sentimentos de outras pessoas, manter hobbies peculiares, dificuldade com a interação social, manter uma agenda rígida ou é realmente bom em assuntos específicos - você pode ter Transtorno do Espectro Autista não diagnosticado.<br><br>Isenção de responsabilidade: Este teste NÃO é um teste de diagnóstico. Um diagnóstico só pode ser fornecido por um profissional de saúde qualificado. Consulte um médico ou profissional de saúde mental se estiver preocupado com sua saúde mental.",
+      "summary": "Avalie seu risco de Transtorno do Espectro Autista com um teste de triagem validado.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 53037,
+      "score": 4.46875,
+      "scoreText": "4,5",
+      "ratings": 903,
+      "reviews": 13,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.autismadult.test",
+      "url": "https://play.google.com/store/apps/details?id=com.autismadult.test&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Teste para Autismo-Fast Check",
+      "description": "O aplicativo “Autism Fast Check” foi desenvolvido para a avaliação abrangente dos sinais de autismo em crianças de 3 a 12 anos. Ele é baseado na escala ATEC (Autism Treatment Evaluation Checklist), criada pelo Autism Research Institute.\n\nO aplicativo permite que pais (ou cuidadores):\n•\trealizem um teste diagnóstico para identificar sinais de Transtorno do Espectro Autista (TEA);\n•\tacompanhem de forma independente a eficácia do tratamento e o progresso do desenvolvimento da criança;\n•\trecebam, se necessário, uma consulta gratuita com um especialista.\n\nO teste aborda diversos aspectos da vida da criança, como habilidades sociais, comunicação, características comportamentais e respostas sensoriais.\nO aplicativo “Autism Fast Check” ajuda a compreender melhor as necessidades individuais de cada criança com TEA e a fornecer recomendações apropriadas.",
+      "descriptionHTML": "O aplicativo “Autism Fast Check” foi desenvolvido para a avaliação abrangente dos sinais de autismo em crianças de 3 a 12 anos. Ele é baseado na escala ATEC (Autism Treatment Evaluation Checklist), criada pelo Autism Research Institute.<br><br>O aplicativo permite que pais (ou cuidadores):<br>•\trealizem um teste diagnóstico para identificar sinais de Transtorno do Espectro Autista (TEA);<br>•\tacompanhem de forma independente a eficácia do tratamento e o progresso do desenvolvimento da criança;<br>•\trecebam, se necessário, uma consulta gratuita com um especialista.<br><br>O teste aborda diversos aspectos da vida da criança, como habilidades sociais, comunicação, características comportamentais e respostas sensoriais.<br>O aplicativo “Autism Fast Check” ajuda a compreender melhor as necessidades individuais de cada criança com TEA e a fornecer recomendações apropriadas.",
+      "summary": "Teste para avaliar o autismo em crianças e a eficácia do tratamento",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8658,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Criação de filhos",
+      "genreId": "PARENTING",
+      "categories": [
+        {
+          "name": "Criação de filhos",
+          "id": "PARENTING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.autismFastCheck",
+      "url": "https://play.google.com/store/apps/details?id=com.app.autismFastCheck&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "40+ Testes Psicológicos",
+      "description": "· Mais de 40 testes psicológicos.\n· Testes de inteligência: QI\n· Testes com imagens\n· Análise detalhada das respostas\n· Complete tarefas e receba prêmios\n· Material com design moderno\n· Compartilhe seus resultados com a família e os amigos\n· Faça testes para depressão, tipos de personalidade, autoconfiança, capacidade de compreender as pessoas Conheça melhor seus pontos fortes e fracos. Compreenda as causas de conflitos familiares e mais.",
+      "descriptionHTML": "· Mais de 40 testes psicológicos.<br>· Testes de inteligência: QI<br>· Testes com imagens<br>· Análise detalhada das respostas<br>· Complete tarefas e receba prêmios<br>· Material com design moderno<br>· Compartilhe seus resultados com a família e os amigos<br>· Faça testes para depressão, tipos de personalidade, autoconfiança, capacidade de compreender as pessoas Conheça melhor seus pontos fortes e fracos. Compreenda as causas de conflitos familiares e mais.",
+      "summary": "Análise psicológica detalhada",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3769144,
+      "score": 4.52,
+      "scoreText": "4,5",
+      "ratings": 20513,
+      "reviews": 88,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.muraDev.psychotests",
+      "url": "https://play.google.com/store/apps/details?id=com.muraDev.psychotests&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "ABC Autismo",
+      "description": "ABC AUTISMO - Um mundo de atividades coloridas e pedagógicas para realizar e curtir!\n\nA diversão para os pequenos começa agora com o jogo ABC Autismo! Utilizando fundamentos da metodologia TEACCH tem como objetivo auxiliar no processo de aprendizagem de crianças autistas por meio de divertidas atividades!\n\nO aplicativo está disponível em três idiomas (inglês, espanhol e português), é baseado na metodologia TEACCH, possui 4 níveis de dificuldade e 40 fases interativas.\n\nUtilizado por professores, psicólogos e terapeutas para avaliar crianças autistas.",
+      "descriptionHTML": "ABC AUTISMO - Um mundo de atividades coloridas e pedagógicas para realizar e curtir!<br><br>A diversão para os pequenos começa agora com o jogo ABC Autismo! Utilizando fundamentos da metodologia TEACCH tem como objetivo auxiliar no processo de aprendizagem de crianças autistas por meio de divertidas atividades!<br><br>O aplicativo está disponível em três idiomas (inglês, espanhol e português), é baseado na metodologia TEACCH, possui 4 níveis de dificuldade e 40 fases interativas.<br><br>Utilizado por professores, psicólogos e terapeutas para avaliar crianças autistas.",
+      "summary": "Um divertido e educativo jogo destinado a auxiliar na aprendizagem de autistas.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 292800,
+      "score": 4.07,
+      "scoreText": "4,1",
+      "ratings": 1408,
+      "reviews": 434,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dokye.abcautismo",
+      "url": "https://play.google.com/store/apps/details?id=com.dokye.abcautismo&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Lira - TDAH & Autismo Feminino",
+      "description": "Suporte para mulheres com TDAH ou autismo\n\nA Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.\n\nMuitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.\n\nA Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.\n\nDesenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.\n\nMuitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.\n\nO que você pode fazer com a Lira:\n\n• Registrar sua energia e capacidade diariamente\n• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual\n• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento\n• Receber recomendações personalizadas com base nos seus registros\n• Reconhecer sinais precoces de burnout e sobrecarga\n• Explorar a relação entre TDAH, autismo e flutuações hormonais\n• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial\n\nMundo Interior: aprender através da experiência\n\nO Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.\n\nCriada para a vida real\n\nA Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.\n\nCriada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.\n\nEste aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.\n\nEstamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "descriptionHTML": "Suporte para mulheres com TDAH ou autismo<br><br>A Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.<br><br>Muitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.<br><br>A Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.<br><br>Desenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.<br><br>Muitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.<br><br>O que você pode fazer com a Lira:<br><br>• Registrar sua energia e capacidade diariamente<br>• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual<br>• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento<br>• Receber recomendações personalizadas com base nos seus registros<br>• Reconhecer sinais precoces de burnout e sobrecarga<br>• Explorar a relação entre TDAH, autismo e flutuações hormonais<br>• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial<br><br>Mundo Interior: aprender através da experiência<br><br>O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.<br><br>Criada para a vida real<br><br>A Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.<br><br>Criada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.<br><br>Este aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.<br><br>Estamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "summary": "Energia e apoio diário para mulheres com TDAH e autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10051,
+      "score": 4.4666667,
+      "scoreText": "4,5",
+      "ratings": 80,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "url": "https://play.google.com/store/apps/details?id=com.hugomeninoaguiar.mymobileapp&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Sinais de Alerta do Autismo",
+      "description": "Este jogo foi criado para ajudar pais e cuidadores a reconhecerem possíveis sinais de alerta do Transtorno do Espectro Autista (TEA) de forma simples e interativa. Em cada faixa etária, você responde perguntas rápidas sobre o comportamento da criança. A identificação precoce é essencial, pois permite iniciar o acompanhamento e o tratamento no momento certo, ajudando a criança a se desenvolver melhor. Ao final, o jogo apresenta um resultado que orienta a observação e indica quando buscar uma avaliação profissional.",
+      "descriptionHTML": "Este jogo foi criado para ajudar pais e cuidadores a reconhecerem possíveis sinais de alerta do Transtorno do Espectro Autista (TEA) de forma simples e interativa. Em cada faixa etária, você responde perguntas rápidas sobre o comportamento da criança. A identificação precoce é essencial, pois permite iniciar o acompanhamento e o tratamento no momento certo, ajudando a criança a se desenvolver melhor. Ao final, o jogo apresenta um resultado que orienta a observação e indica quando buscar uma avaliação profissional.",
+      "summary": "Ajuda pais a identificar sinais de TEA e orientar a observação precoce.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 514,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Conhecimentos",
+          "id": "GAME_TRIVIA"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.luquitoeseuamigoautista.sinaisdealertaparaoautismo",
+      "url": "https://play.google.com/store/apps/details?id=com.luquitoeseuamigoautista.sinaisdealertaparaoautismo&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Teste de psicotécnico Psikotes",
+      "description": "Desenvolvemos esses testes de psicotécnico para pessoas que querem se conhecer melhor. Ao responder às perguntas, você pode compreender seu mundo interior mais profundamente, obter respostas corretas para as perguntas que são importantes para você e tornar-se mais confiante em si mesmo.\n\nFizemos muito trabalho para coletar vários testes de Rorschach em um só lugar, especialmente para você. Esses testes de depressão foram compilados com a ajuda de psicólogos experientes e conselheiros de carreira profissional.\n\nUsando este aplicativo de teste de psicotécnico, você terá a oportunidade de:\n✔️ Descubra seu nível de raciocínio lógico com o teste de QI.\n✔️ Descubra seu destino profissional fazendo o teste de carreira.\n✔️ Identifique seu tipo de personalidade com aptitude test e OCD test.\n✔️ Trabalhe seu subconsciente com o TDAH teste.\n✔️ Faça um autoconhecimento.\n✔️ Descubra suas habilidades e talentos ocultos com um testes psicologicos.\n✔️Perceba quais atitudes mentais você carregou desde a infância com um IQ test.\n\nEste aplicativo de teste de depressão não só lhe dá a maneira de descobrir quem você é, mas também testa seu QI.\nVocê poderá descobrir sua mente passando por um teste de autoconhecimento.\n\nAo usar nossos aptitude test, você descobrirá:\n\n- Quão jovem é seu cérebro com o teste de QI.\n- Quão criativo e imaginativo você é com o OCD test.\n- Entenda se vale a pena entrar em contato com um especialista, com o TDAH teste.\n- Descubra que tipo de pensamento você tem com o IQ test.\n- Como você vê o mundo ao seu redor.\n- Entenda se você tem problemas com o childhood trauma test.\n\nEsses aptitude test você não apenas a entender a si mesmo, mas também serão um excelente exercício para o seu cérebro. Talvez no processo você encontre habilidades e talentos ocultos. Coisas acontecem!\n\nReunimos uma variedade de testes psicologicos em um aplicativo para sua conveniência. Você poderá descobrir sua mente passando por um TDAH teste.\n\nVocê é uma pessoa criativa?\nFaça o psychometric test e descubra o seu tipo de pensamento de acordo com a psicologia.\nEste é um OCD test, apenas algumas fotos e algumas perguntas.\n \nO teste de autoconhecimento ajuda você a descobrir o que realmente gosta de fazer, encontrar seu propósito e talvez até descobrir novos talentos.\n\nVocê se considera uma pessoa super lógica? Sim? Confira qual o seu nível de pensamento lógico fazendo este teste de QI.\n\nO aplicativo também inclui aptitude test de carreira. São testes sérios baseados em pesquisas globais. Eles ajudarão você a decidir sobre uma carreira ou propósito. Se você acha que apenas os adolescentes precisam, então está enganado.\n\nDescubra quais traumas psicológicos você tem. TDAH teste, OCD test e outros testes psicologicos podem ajudá-lo a entender se realmente há algo errado com você. Depois de fazer todos esses aptitude test, você poderá obter um panorama completo de sua saúde mental.\n\nPara quem são os nossos testes psicologicos?\n\n✔️Para pessoas que querem se conhecer melhor.\n✔️Para pessoas que querem mudar suas vidas.\n✔️Para pessoas que estão entediadas.\n✔️Para pessoas que procuram um simulador de cérebro.\n✔️Quem ama autoconhecimento.\n\n\nInstale o app de IQ test. Faça TDAH teste jogando e se divertindo.\n\nQuem sabe, você descubra que não é quem parece ser!",
+      "descriptionHTML": "Desenvolvemos esses testes de psicotécnico para pessoas que querem se conhecer melhor. Ao responder às perguntas, você pode compreender seu mundo interior mais profundamente, obter respostas corretas para as perguntas que são importantes para você e tornar-se mais confiante em si mesmo.<br><br>Fizemos muito trabalho para coletar vários testes de Rorschach em um só lugar, especialmente para você. Esses testes de depressão foram compilados com a ajuda de psicólogos experientes e conselheiros de carreira profissional.<br><br>Usando este aplicativo de teste de psicotécnico, você terá a oportunidade de:<br>✔️ Descubra seu nível de raciocínio lógico com o teste de QI.<br>✔️ Descubra seu destino profissional fazendo o teste de carreira.<br>✔️ Identifique seu tipo de personalidade com aptitude test e OCD test.<br>✔️ Trabalhe seu subconsciente com o TDAH teste.<br>✔️ Faça um autoconhecimento.<br>✔️ Descubra suas habilidades e talentos ocultos com um testes psicologicos.<br>✔️Perceba quais atitudes mentais você carregou desde a infância com um IQ test.<br><br>Este aplicativo de teste de depressão não só lhe dá a maneira de descobrir quem você é, mas também testa seu QI.<br>Você poderá descobrir sua mente passando por um teste de autoconhecimento.<br><br>Ao usar nossos aptitude test, você descobrirá:<br><br>- Quão jovem é seu cérebro com o teste de QI.<br>- Quão criativo e imaginativo você é com o OCD test.<br>- Entenda se vale a pena entrar em contato com um especialista, com o TDAH teste.<br>- Descubra que tipo de pensamento você tem com o IQ test.<br>- Como você vê o mundo ao seu redor.<br>- Entenda se você tem problemas com o childhood trauma test.<br><br>Esses aptitude test você não apenas a entender a si mesmo, mas também serão um excelente exercício para o seu cérebro. Talvez no processo você encontre habilidades e talentos ocultos. Coisas acontecem!<br><br>Reunimos uma variedade de testes psicologicos em um aplicativo para sua conveniência. Você poderá descobrir sua mente passando por um TDAH teste.<br><br>Você é uma pessoa criativa?<br>Faça o psychometric test e descubra o seu tipo de pensamento de acordo com a psicologia.<br>Este é um OCD test, apenas algumas fotos e algumas perguntas.<br> <br>O teste de autoconhecimento ajuda você a descobrir o que realmente gosta de fazer, encontrar seu propósito e talvez até descobrir novos talentos.<br><br>Você se considera uma pessoa super lógica? Sim? Confira qual o seu nível de pensamento lógico fazendo este teste de QI.<br><br>O aplicativo também inclui aptitude test de carreira. São testes sérios baseados em pesquisas globais. Eles ajudarão você a decidir sobre uma carreira ou propósito. Se você acha que apenas os adolescentes precisam, então está enganado.<br><br>Descubra quais traumas psicológicos você tem. TDAH teste, OCD test e outros testes psicologicos podem ajudá-lo a entender se realmente há algo errado com você. Depois de fazer todos esses aptitude test, você poderá obter um panorama completo de sua saúde mental.<br><br>Para quem são os nossos testes psicologicos?<br><br>✔️Para pessoas que querem se conhecer melhor.<br>✔️Para pessoas que querem mudar suas vidas.<br>✔️Para pessoas que estão entediadas.<br>✔️Para pessoas que procuram um simulador de cérebro.<br>✔️Quem ama autoconhecimento.<br><br><br>Instale o app de IQ test. Faça TDAH teste jogando e se divertindo.<br><br>Quem sabe, você descubra que não é quem parece ser!",
+      "summary": "Conheça-se! Teste de psicologia, QI, depressão, déficit de atenção e avaliação",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3536799,
+      "score": 3.911111,
+      "scoreText": "3,9",
+      "ratings": 24396,
+      "reviews": 1055,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.testgames.psyhologytests",
+      "url": "https://play.google.com/store/apps/details?id=com.testgames.psyhologytests&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Jade - Aprender Brincando",
+      "description": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.\nEnquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.\n\n🌟 Aprendizagem ativa em mundos temáticos\n\nOs jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.\n\n🎧 Experiência sonora e linguagem acessível\nAo tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.\n\n🎮 Jogos adaptativos\n\nO Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:\n\n• Pareamento e associação\n• Memória visual e auditiva\n• Completar figuras\n• Reconhecimento de formas e letras\n• Desafios cognitivos progressivos\nCom interface simples, toque intuitivo e imagens do cotidiano.\n\n🧩 Conteúdos multimídia\n\nInclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.\n\n👨‍👩‍👧 Para quem é o Jade App\n\nIdeal para:\n\n• Famílias\n• Professores e educadores\n• Psicopedagogos e terapeutas\n• Escolas públicas e privadas\n• Crianças e adolescentes que precisam de apoio cognitivo estruturado\nRecomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.\n\n📊 Recursos para adultos\n\nAcompanhe indicadores como:\n\n• Desempenho e evolução\n• Atenção e motivação\n• Impulsividade\n• Padrões motores\n• Habilidades cognitivas estimuladas\n\nOs relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.\n\n🔒 Seguro e sem anúncios\n\nO Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.\n\n🌍 Multilíngue\n\nDisponível em Português, Inglês e futuramente Espanhol e Árabe.\n\n💻 Onde usar\n\nO Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.\n\nDúvidas e suporte: contato@jadend.tech\nSaiba mais: https://jadend.tech\nInstagram: @jadendbr",
+      "descriptionHTML": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.<br>Enquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.<br><br>🌟 Aprendizagem ativa em mundos temáticos<br><br>Os jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.<br><br>🎧 Experiência sonora e linguagem acessível<br>Ao tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.<br><br>🎮 Jogos adaptativos<br><br>O Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:<br><br>• Pareamento e associação<br>• Memória visual e auditiva<br>• Completar figuras<br>• Reconhecimento de formas e letras<br>• Desafios cognitivos progressivos<br>Com interface simples, toque intuitivo e imagens do cotidiano.<br><br>🧩 Conteúdos multimídia<br><br>Inclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.<br><br>👨‍👩‍👧 Para quem é o Jade App<br><br>Ideal para:<br><br>• Famílias<br>• Professores e educadores<br>• Psicopedagogos e terapeutas<br>• Escolas públicas e privadas<br>• Crianças e adolescentes que precisam de apoio cognitivo estruturado<br>Recomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.<br><br>📊 Recursos para adultos<br><br>Acompanhe indicadores como:<br><br>• Desempenho e evolução<br>• Atenção e motivação<br>• Impulsividade<br>• Padrões motores<br>• Habilidades cognitivas estimuladas<br><br>Os relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.<br><br>🔒 Seguro e sem anúncios<br><br>O Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.<br><br>🌍 Multilíngue<br><br>Disponível em Português, Inglês e futuramente Espanhol e Árabe.<br><br>💻 Onde usar<br><br>O Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.<br><br>Dúvidas e suporte: contato@jadend.tech<br>Saiba mais: https://jadend.tech<br>Instagram: @jadendbr",
+      "summary": "Aprendizagem inclusiva com jogos cognitivos.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 171763,
+      "score": 3.34,
+      "scoreText": "3,3",
+      "ratings": 326,
+      "reviews": 127,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jadeautism.jadeautism",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeautism.jadeautism&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Jogos Infantis: Autismo e TEA",
+      "description": "Jogos Infantis: com suporte para crianças com Autismo e TEA. No Mundo da Isis você encontra diversão e aprendizado para crianças de 2 a 10 anos, com atividades especiais para autismo (TEA) e TDAH! 🎓💜\n\nMundo da Isis, a criança aprende brincando (letras, números, cores, memória, lógica e inglês) e conta com ferramentas de comunicação, fala, rotina e emoções pensadas para o TEA e o TDAH, com design acolhedor e calmo.\n\n💬 COMUNICAÇÃO (CAA) — a novidade mais pedida\nPrancha de comunicação com voz: a criança toca e o app fala por ela (quero, água, banheiro, dor, ajuda…), organizada por categorias e com prancha de emergência.\n• Os pais podem criar cartões com FOTOS REAIS (da família, da casa, dos objetos e pets)\n• E GRAVAR A PRÓPRIA VOZ em cada cartão — a criança ouve uma voz familiar\n• Tudo fica só no aparelho, protegido pelo PIN dos pais\n\n🗓️ ROTINA E REGULAÇÃO EMOCIONAL\n• Rotina do dia com horários, lembretes e recompensas\n• Emoções: a criança registra “como estou me sentindo”\n• Zona de Calma e Respira Comigo — respiração guiada para se acalmar\n\n📊 RELATÓRIO PARA OS PAIS (e terapeutas)\n• Evolução por habilidade, tempo de uso, emoções e conquistas\n• Análise feita por INTELIGÊNCIA ARTIFICIAL no próprio aparelho, sem enviar dados\n• Exporte um RELATÓRIO EM PDF para acompanhar em casa ou levar à terapia\n\n✨ INTELIGÊNCIA QUE SE ADAPTA\n• A dificuldade se ajusta ao ritmo da criança\n• Sugestão de “atividade de hoje” na tela inicial\n• Vozes narradas naturais em português e feedback gentil, sem punição\n\n🧠 JOGOS EDUCATIVOS\n• Formas e Cores, Sons e Letras, Palavras\n• Contagem e Quiz de Matemática\n• Memória (3 níveis), Lógica, Conhecimento e Quebra-Cabeça\n• Inglês para Crianças — primeiras palavras, leitura e soletração\n\n🎨 BRINCADEIRAS CRIATIVAS\n• Cozinhar, estourar bolhas e jogos de ação\n\n♿ FEITO PARA TODAS AS CRIANÇAS\nDesign acolhedor e calmo, acessibilidade (alto contraste, animações reduzidas), feedback de erro gentil e todas as fases liberadas — sem travar o que a criança já usa.\n\n💜 POR QUE OS PAIS CONFIAM\n• 100% gratuito, sem anúncios e sem coleta de dados\n• Processamento local — nada é enviado para servidores\n• Projeto independente, feito com carinho\n\nIdeal para educação infantil, alfabetização, pré-escola e crianças com TEA ou TDAH — em casa, na escola ou na terapia (fonoaudiologia, terapia ocupacional, psicopedagogia).\n\nBaixe agora o Mundo da Isis e dê ao seu filho um mundo de comunicação, emoções e aprendizado. 💜",
+      "descriptionHTML": "Jogos Infantis: com suporte para crianças com Autismo e TEA. No Mundo da Isis você encontra diversão e aprendizado para crianças de 2 a 10 anos, com atividades especiais para autismo (TEA) e TDAH! 🎓💜<br><br>Mundo da Isis, a criança aprende brincando (letras, números, cores, memória, lógica e inglês) e conta com ferramentas de comunicação, fala, rotina e emoções pensadas para o TEA e o TDAH, com design acolhedor e calmo.<br><br>💬 COMUNICAÇÃO (CAA) — a novidade mais pedida<br>Prancha de comunicação com voz: a criança toca e o app fala por ela (quero, água, banheiro, dor, ajuda…), organizada por categorias e com prancha de emergência.<br>• Os pais podem criar cartões com FOTOS REAIS (da família, da casa, dos objetos e pets)<br>• E GRAVAR A PRÓPRIA VOZ em cada cartão — a criança ouve uma voz familiar<br>• Tudo fica só no aparelho, protegido pelo PIN dos pais<br><br>🗓️ ROTINA E REGULAÇÃO EMOCIONAL<br>• Rotina do dia com horários, lembretes e recompensas<br>• Emoções: a criança registra “como estou me sentindo”<br>• Zona de Calma e Respira Comigo — respiração guiada para se acalmar<br><br>📊 RELATÓRIO PARA OS PAIS (e terapeutas)<br>• Evolução por habilidade, tempo de uso, emoções e conquistas<br>• Análise feita por INTELIGÊNCIA ARTIFICIAL no próprio aparelho, sem enviar dados<br>• Exporte um RELATÓRIO EM PDF para acompanhar em casa ou levar à terapia<br><br>✨ INTELIGÊNCIA QUE SE ADAPTA<br>• A dificuldade se ajusta ao ritmo da criança<br>• Sugestão de “atividade de hoje” na tela inicial<br>• Vozes narradas naturais em português e feedback gentil, sem punição<br><br>🧠 JOGOS EDUCATIVOS<br>• Formas e Cores, Sons e Letras, Palavras<br>• Contagem e Quiz de Matemática<br>• Memória (3 níveis), Lógica, Conhecimento e Quebra-Cabeça<br>• Inglês para Crianças — primeiras palavras, leitura e soletração<br><br>🎨 BRINCADEIRAS CRIATIVAS<br>• Cozinhar, estourar bolhas e jogos de ação<br><br>♿ FEITO PARA TODAS AS CRIANÇAS<br>Design acolhedor e calmo, acessibilidade (alto contraste, animações reduzidas), feedback de erro gentil e todas as fases liberadas — sem travar o que a criança já usa.<br><br>💜 POR QUE OS PAIS CONFIAM<br>• 100% gratuito, sem anúncios e sem coleta de dados<br>• Processamento local — nada é enviado para servidores<br>• Projeto independente, feito com carinho<br><br>Ideal para educação infantil, alfabetização, pré-escola e crianças com TEA ou TDAH — em casa, na escola ou na terapia (fonoaudiologia, terapia ocupacional, psicopedagogia).<br><br>Baixe agora o Mundo da Isis e dê ao seu filho um mundo de comunicação, emoções e aprendizado. 💜",
+      "summary": "Mundo da Isis jogos para autismo (TEA) e TDAH: comunicação, emoções e mais.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1060,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.mundodaisis",
+      "url": "https://play.google.com/store/apps/details?id=app.mundodaisis&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "HablemosTEA: Comunicação TEA",
+      "description": "Este aplicativo nasceu do amor, da experiência do dia a dia e do profundo desejo de apoiar mais famílias. Criado e desenvolvido por mãe e pai de uma criança com autismo, o HablemosTEA é uma ferramenta completa pensada para facilitar a comunicação, a compreensão e a expressão das emoções, sempre respeitando o ritmo e as necessidades únicas de cada pessoa.\n\nHablemosTEA é um espaço seguro e educativo criado para acompanhar as famílias no dia a dia. Atualmente, apoiamos famílias de diferentes partes do mundo e estamos presentes em mais de 20 países.\n\nPrincipais Recursos:\n\n• Comunicador Visual Avançado: Mais de 1.000 pictogramas claros e fáceis de identificar para expressar necessidades, emoções e escolhas em segundos.\n\n• Categorias Educativas: Mais de 35 categorias educativas organizadas estrategicamente para facilitar o aprendizado visual, a exploração temática e o desenvolvimento da linguagem.\n\n• Personalização Completa: Personalize o comunicador adicionando fotos reais de familiares, animais de estimação ou objetos do cotidiano.\n\n• Área de Minijogos: Mais de 30 minijogos interativos desenvolvidos especialmente para estimular a atenção, o raciocínio lógico e a aprendizagem de forma divertida e envolvente.\n\n• Materiais para Impressão: Baixe pictogramas e recursos visuais em PDF para continuar o aprendizado em casa, na escola ou durante terapias.\n\n• Estrutura e Autorregulação: Apoie a rotina diária com sequências visuais passo a passo e uma “Zona de Calma” dedicada para auxiliar em momentos de ansiedade ou superestimulação.\n\n• Teclado Visual e Voz Natural: Monte frases completas que o aplicativo lerá em voz alta com um tom acolhedor, amigável e natural.\n\n• Multilíngue: Totalmente adaptado para apoiar famílias em Espanhol, Inglês, Francês, Italiano e Português.\n\nPrivacidade e Segurança:\n\n• Ambiente seguro e sem distrações.\n• Não requer cadastro nem criação de conta.\n• Não coletamos dados pessoais.\n• A privacidade das famílias é uma prioridade.\n\nObservação importante:\nEste aplicativo não substitui terapias, diagnósticos ou o acompanhamento de profissionais da saúde ou da educação especializada. Seu objetivo é complementar o trabalho terapêutico e se tornar um apoio adicional para a comunicação e interação no dia a dia. Recomenda-se o uso com acompanhamento de adultos responsáveis, cuidadores ou terapeutas.",
+      "descriptionHTML": "Este aplicativo nasceu do amor, da experiência do dia a dia e do profundo desejo de apoiar mais famílias. Criado e desenvolvido por mãe e pai de uma criança com autismo, o HablemosTEA é uma ferramenta completa pensada para facilitar a comunicação, a compreensão e a expressão das emoções, sempre respeitando o ritmo e as necessidades únicas de cada pessoa.<br><br>HablemosTEA é um espaço seguro e educativo criado para acompanhar as famílias no dia a dia. Atualmente, apoiamos famílias de diferentes partes do mundo e estamos presentes em mais de 20 países.<br><br>Principais Recursos:<br><br>• Comunicador Visual Avançado: Mais de 1.000 pictogramas claros e fáceis de identificar para expressar necessidades, emoções e escolhas em segundos.<br><br>• Categorias Educativas: Mais de 35 categorias educativas organizadas estrategicamente para facilitar o aprendizado visual, a exploração temática e o desenvolvimento da linguagem.<br><br>• Personalização Completa: Personalize o comunicador adicionando fotos reais de familiares, animais de estimação ou objetos do cotidiano.<br><br>• Área de Minijogos: Mais de 30 minijogos interativos desenvolvidos especialmente para estimular a atenção, o raciocínio lógico e a aprendizagem de forma divertida e envolvente.<br><br>• Materiais para Impressão: Baixe pictogramas e recursos visuais em PDF para continuar o aprendizado em casa, na escola ou durante terapias.<br><br>• Estrutura e Autorregulação: Apoie a rotina diária com sequências visuais passo a passo e uma “Zona de Calma” dedicada para auxiliar em momentos de ansiedade ou superestimulação.<br><br>• Teclado Visual e Voz Natural: Monte frases completas que o aplicativo lerá em voz alta com um tom acolhedor, amigável e natural.<br><br>• Multilíngue: Totalmente adaptado para apoiar famílias em Espanhol, Inglês, Francês, Italiano e Português.<br><br>Privacidade e Segurança:<br><br>• Ambiente seguro e sem distrações.<br>• Não requer cadastro nem criação de conta.<br>• Não coletamos dados pessoais.<br>• A privacidade das famílias é uma prioridade.<br><br>Observação importante:<br>Este aplicativo não substitui terapias, diagnósticos ou o acompanhamento de profissionais da saúde ou da educação especializada. Seu objetivo é complementar o trabalho terapêutico e se tornar um apoio adicional para a comunicação e interação no dia a dia. Recomenda-se o uso com acompanhamento de adultos responsáveis, cuidadores ou terapeutas.",
+      "summary": "Ferramenta de comunicação visual personalizável para crianças com autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 30422,
+      "score": 4.571429,
+      "scoreText": "4,6",
+      "ratings": 87,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.martintavera.hablemostea",
+      "url": "https://play.google.com/store/apps/details?id=com.martintavera.hablemostea&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Comunicação Infantil: Autismo",
+      "description": "Um novo app desenvolvido para apoiar psicólogos, terapeutas e familiares no cuidado de crianças com autismo infantil, utilizando recursos visuais, comunicação alternativa e economia de fichas.\n\nEste aplicativo foi criado para facilitar a rotina de crianças com TEA (Transtorno do Espectro Autista), promovendo mais autonomia, organização e engajamento durante e após as sessões de terapia.\n\nCom uma interface intuitiva e lúdica, o app oferece ferramentas práticas baseadas em metodologias reconhecidas na psicologia infantil e nas intervenções em autismo.",
+      "descriptionHTML": "Um novo app desenvolvido para apoiar psicólogos, terapeutas e familiares no cuidado de crianças com autismo infantil, utilizando recursos visuais, comunicação alternativa e economia de fichas.<br><br>Este aplicativo foi criado para facilitar a rotina de crianças com TEA (Transtorno do Espectro Autista), promovendo mais autonomia, organização e engajamento durante e após as sessões de terapia.<br><br>Com uma interface intuitiva e lúdica, o app oferece ferramentas práticas baseadas em metodologias reconhecidas na psicologia infantil e nas intervenções em autismo.",
+      "summary": "Apoio no autismo infantil com comunicação alternativa, timer e fichas visuais.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8813,
+      "score": 4,
+      "scoreText": "4,0",
+      "ratings": 18,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.dmwaresolutions.meuabinha",
+      "url": "https://play.google.com/store/apps/details?id=com.dmwaresolutions.meuabinha&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "123 Autismo",
+      "description": "Mergulhe no divertido mundo de aprendizado dos fundamentos de Matemática do 123 Autismo.\n\nO aplicativo usa as premissas do ensino estruturado com o objetivo de auxiliar no processo de aprendizagem de crianças com autismo por meio de divertidas atividades. Disponível em 5 idiomas, com quatro níveis de dificuldade e 40 fases interativas.\n\nUtilizado por Professores e Terapeutas para ensinar crianças com Autismo.",
+      "descriptionHTML": "Mergulhe no divertido mundo de aprendizado dos fundamentos de Matemática do 123 Autismo.<br><br>O aplicativo usa as premissas do ensino estruturado com o objetivo de auxiliar no processo de aprendizagem de crianças com autismo por meio de divertidas atividades. Disponível em 5 idiomas, com quatro níveis de dificuldade e 40 fases interativas.<br><br>Utilizado por Professores e Terapeutas para ensinar crianças com Autismo.",
+      "summary": "Chegou a hora do seu pequeno autista aprender Matemática.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1606,
+      "score": 3.6666667,
+      "scoreText": "3,7",
+      "ratings": 9,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dokye.umdoistresautismo",
+      "url": "https://play.google.com/store/apps/details?id=com.dokye.umdoistresautismo&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Autism Test (Child)",
+      "description": "O transtorno do espectro do autismo é um espectro de transtornos com um núcleo compartilhado de sintomas, incluindo dificuldades com interação social, empatia, comunicação e comportamento flexível.\n\nSe você acredita que seu filho pode estar lidando com o transtorno do espectro autista, procure ajuda profissional imediatamente! Não pense que você tem que esperar por um diagnóstico para colocar seu filho em tratamento porque a intervenção precoce é muito importante. Peça ao seu médico de família ou pediatra para encaminhá-lo imediatamente a um especialista em autismo ou equipe de especialistas para uma avaliação abrangente.\n\nIsenção de responsabilidade: Este teste NÃO é um teste de diagnóstico. Um diagnóstico só pode ser fornecido por um profissional de saúde qualificado. Consulte um médico ou profissional de saúde mental se estiver preocupado com a saúde mental de uma criança.\n\nS Ehlers, C Gillberg, L Wing. Um questionário de triagem para a síndrome de Asperger e outros transtornos do espectro do autismo de alto funcionamento em crianças em idade escolar. J Autism Dev Disord. 1999; 29(2): 129-141.",
+      "descriptionHTML": "O transtorno do espectro do autismo é um espectro de transtornos com um núcleo compartilhado de sintomas, incluindo dificuldades com interação social, empatia, comunicação e comportamento flexível.<br><br>Se você acredita que seu filho pode estar lidando com o transtorno do espectro autista, procure ajuda profissional imediatamente! Não pense que você tem que esperar por um diagnóstico para colocar seu filho em tratamento porque a intervenção precoce é muito importante. Peça ao seu médico de família ou pediatra para encaminhá-lo imediatamente a um especialista em autismo ou equipe de especialistas para uma avaliação abrangente.<br><br>Isenção de responsabilidade: Este teste NÃO é um teste de diagnóstico. Um diagnóstico só pode ser fornecido por um profissional de saúde qualificado. Consulte um médico ou profissional de saúde mental se estiver preocupado com a saúde mental de uma criança.<br><br>S Ehlers, C Gillberg, L Wing. Um questionário de triagem para a síndrome de Asperger e outros transtornos do espectro do autismo de alto funcionamento em crianças em idade escolar. J Autism Dev Disord. 1999; 29(2): 129-141.",
+      "summary": "Avalie o risco de uma criança para o Transtorno do Espectro Autista com um teste validado.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 19561,
+      "score": 3.4,
+      "scoreText": "3,4",
+      "ratings": 141,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.autismchild.test",
+      "url": "https://play.google.com/store/apps/details?id=com.autismchild.test&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Virta7 - Autismo",
+      "description": "Aplicativo educacional em forma de jogo desenvolvido para individuos com autismo e dificuldades de aprendizagem.",
+      "descriptionHTML": "Aplicativo educacional em forma de jogo desenvolvido para individuos com autismo e dificuldades de aprendizagem.",
+      "summary": "App desenvolvida para individuos c/ autismo e dificuldades de aprendizagem.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 374,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 9,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mycompany.virta7day",
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.virta7day&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Testes psicológicos e quizzes",
+      "description": "App de psicologia com mais de 130 testes psicológicos e avaliações de personalidade.\nDescubra sua personalidade, emoções e relacionamentos através de autoavaliações psicológicas baseadas em teorias reais da psicologia. Cada teste foi criado para tornar a psicologia prática e envolvente – combinando autoanálise séria com momentos de diversão.\n\n🔎 Por que este app de psicologia?\n✅ 130+ testes psicológicos gratuitos e quiz de personalidade\n✅ Baseado em teorias psicológicas reais (Freud, Jung, Beck, Eysenck, Luscher)\n✅ Autoavaliações psicológicas profissionais para o crescimento pessoal\n✅ Quiz divertidos e avaliações psicológicas para suas pausas\n✅ Salve e consulte todo o histórico de testes com resultados e análises\n\nExplore categorias:\n😉 Personalidade & Traços\n• Teste de temperamento de Eysenck\n• Avaliação psicológica das cores de Luscher\n• Dominância dos hemisférios cerebrais\n• Descubra sua principal falha de personalidade\n\n❤️ Amor & Relacionamentos\n• Teste psicológico de compatibilidade e confiança\n• Teste de dependência emocional\n• Avaliação de ciúmes e controle\n• Seu parceiro realmente ama você?\n\n👨‍💻 Carreira & Motivação\n• Escala de orientação para o sucesso\n• Teste de mentalidade empreendedora\n• Avaliação psicológica de transição de carreira\n• Qual profissão combina com sua personalidade?\n\n🤯 Emoções & Mente\n• Inventário de depressão de Beck\n• Teste de inteligência emocional\n• Teste de QI rápido\n• Avaliação da idade psicológica vs real\n\n👪 Família & Papéis\n• Análise de satisfação conjugal\n• Teste de percepção parental\n• Relação emocional com os pais\n\n🧠 Cérebro & Cognição\n• Teste de erudição e conhecimento\n• Avaliação do estilo de pensamento criativo\n• Dominância do hemisfério esquerdo ou direito\n\n🇯🇵 Testes КОКО (microtestes japoneses com significado profundo)\n• O Pássaro Azul\n• Sussurros na Escuridão\n• Preso na Chuva\n\n🙂 Diversão\n• Qual animal vive na sua alma?\n• Qual emoção domina sua mente?\n• Teste de talentos ocultos\n• Você é uma tempestade ou uma brisa suave?\n\n🎯 Psicologia na prática\nEste aplicativo é mais do que entretenimento – é uma ferramenta de autoavaliação psicológica que ajuda você a fortalecer a inteligência emocional, compreender melhor os relacionamentos e descobrir traços ocultos. Seja para uma reflexão séria ou para um teste leve, sempre haverá algo adequado ao seu momento.\n\n🔥 Comece hoje mesmo com mais de 130 testes psicológicos gratuitos e quiz de personalidade. Explore a psicologia, divirta-se com os testes e evolua a cada resultado.",
+      "descriptionHTML": "App de psicologia com mais de 130 testes psicológicos e avaliações de personalidade.<br>Descubra sua personalidade, emoções e relacionamentos através de autoavaliações psicológicas baseadas em teorias reais da psicologia. Cada teste foi criado para tornar a psicologia prática e envolvente – combinando autoanálise séria com momentos de diversão.<br><br>🔎 Por que este app de psicologia?<br>✅ 130+ testes psicológicos gratuitos e quiz de personalidade<br>✅ Baseado em teorias psicológicas reais (Freud, Jung, Beck, Eysenck, Luscher)<br>✅ Autoavaliações psicológicas profissionais para o crescimento pessoal<br>✅ Quiz divertidos e avaliações psicológicas para suas pausas<br>✅ Salve e consulte todo o histórico de testes com resultados e análises<br><br>Explore categorias:<br>😉 Personalidade &amp; Traços<br>• Teste de temperamento de Eysenck<br>• Avaliação psicológica das cores de Luscher<br>• Dominância dos hemisférios cerebrais<br>• Descubra sua principal falha de personalidade<br><br>❤️ Amor &amp; Relacionamentos<br>• Teste psicológico de compatibilidade e confiança<br>• Teste de dependência emocional<br>• Avaliação de ciúmes e controle<br>• Seu parceiro realmente ama você?<br><br>👨‍💻 Carreira &amp; Motivação<br>• Escala de orientação para o sucesso<br>• Teste de mentalidade empreendedora<br>• Avaliação psicológica de transição de carreira<br>• Qual profissão combina com sua personalidade?<br><br>🤯 Emoções &amp; Mente<br>• Inventário de depressão de Beck<br>• Teste de inteligência emocional<br>• Teste de QI rápido<br>• Avaliação da idade psicológica vs real<br><br>👪 Família &amp; Papéis<br>• Análise de satisfação conjugal<br>• Teste de percepção parental<br>• Relação emocional com os pais<br><br>🧠 Cérebro &amp; Cognição<br>• Teste de erudição e conhecimento<br>• Avaliação do estilo de pensamento criativo<br>• Dominância do hemisfério esquerdo ou direito<br><br>🇯🇵 Testes КОКО (microtestes japoneses com significado profundo)<br>• O Pássaro Azul<br>• Sussurros na Escuridão<br>• Preso na Chuva<br><br>🙂 Diversão<br>• Qual animal vive na sua alma?<br>• Qual emoção domina sua mente?<br>• Teste de talentos ocultos<br>• Você é uma tempestade ou uma brisa suave?<br><br>🎯 Psicologia na prática<br>Este aplicativo é mais do que entretenimento – é uma ferramenta de autoavaliação psicológica que ajuda você a fortalecer a inteligência emocional, compreender melhor os relacionamentos e descobrir traços ocultos. Seja para uma reflexão séria ou para um teste leve, sempre haverá algo adequado ao seu momento.<br><br>🔥 Comece hoje mesmo com mais de 130 testes psicológicos gratuitos e quiz de personalidade. Explore a psicologia, divirta-se com os testes e evolua a cada resultado.",
+      "summary": "Cresça com testes psicológicos e testes de personalidade. Descubra-se hoje mesmo",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 7359762,
+      "score": 4.7554193,
+      "scoreText": "4,8",
+      "ratings": 164025,
+      "reviews": 7770,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.nixgames.psycho_tests",
+      "url": "https://play.google.com/store/apps/details?id=com.nixgames.psycho_tests&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Otsimo | Special Education",
+      "description": "Em destaque há mais de 300 dias!\n\nOtsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom's Choice Awards, Parent's Pick Awards, Education Alliance Finland, o prêmio Academics' Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.\n\nOs pais AMAM o Otsimo Special Education!\n\nCriados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:\nHistórias sociais,\nNúmeros e letras,\nVocabulário e palavras,\nEmoções e sentimentos,\nCores,\nMúsica e canto,\nAnimais e ambiente,\nVeículos e MUITO MAIS!\n\nCom a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.\n\nPor que você deveria experimentar o Otsimo Special Education em casa?\nCaminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.\nPersonalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.\nSem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.\n Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!\n\nPode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.\n\nOtsimo Premium\nO Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!\n\n O Otsimo Premium oferece:\nAcesso a mais de 100 jogos educativos\nAtualização regular de conteúdo\nCurrículo personalizado\nBoletins diários e semanais sobre os jogos jogados e para acompanhar o progresso\nSuporte multiplataforma\nRecurso para múltiplos usuários\nLivros de histórias sociais com dicas visuais e auditivas\nJogue offline a qualquer hora e em qualquer lugar\n\nPara o Otsimo Premium, oferecemos as seguintes assinaturas:\n1 mês a partir de US$ 20,99\n1 ano a partir de US$ 13,75/mês\nVitalícia a partir de US$ 229,99\n\nSe você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.\n\nAs assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.\n\nPara mais informações:\nPolítica de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html\nPolítica de Pagamento - https://otsimo.com/legal/payment.html",
+      "descriptionHTML": "Em destaque há mais de 300 dias!<br><br>Otsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom&#39;s Choice Awards, Parent&#39;s Pick Awards, Education Alliance Finland, o prêmio Academics&#39; Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.<br><br>Os pais AMAM o Otsimo Special Education!<br><br>Criados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:<br>Histórias sociais,<br>Números e letras,<br>Vocabulário e palavras,<br>Emoções e sentimentos,<br>Cores,<br>Música e canto,<br>Animais e ambiente,<br>Veículos e MUITO MAIS!<br><br>Com a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.<br><br>Por que você deveria experimentar o Otsimo Special Education em casa?<br>Caminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.<br>Personalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.<br>Sem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.<br> Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!<br><br>Pode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.<br><br>Otsimo Premium<br>O Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!<br><br> O Otsimo Premium oferece:<br>Acesso a mais de 100 jogos educativos<br>Atualização regular de conteúdo<br>Currículo personalizado<br>Boletins diários e semanais sobre os jogos jogados e para acompanhar o progresso<br>Suporte multiplataforma<br>Recurso para múltiplos usuários<br>Livros de histórias sociais com dicas visuais e auditivas<br>Jogue offline a qualquer hora e em qualquer lugar<br><br>Para o Otsimo Premium, oferecemos as seguintes assinaturas:<br>1 mês a partir de US$ 20,99<br>1 ano a partir de US$ 13,75/mês<br>Vitalícia a partir de US$ 229,99<br><br>Se você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.<br><br>As assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.<br><br>Para mais informações:<br>Política de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html<br>Política de Pagamento - https://otsimo.com/legal/payment.html",
+      "summary": "Jogos educativos certificados para dificuldades de aprendizagem, autismo e síndrome de Down.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 293973,
+      "score": 3.096774,
+      "scoreText": "3,1",
+      "ratings": 828,
+      "reviews": 14,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.otsimo.app",
+      "url": "https://play.google.com/store/apps/details?id=com.otsimo.app&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Testes de Visão",
+      "description": "👀 Teste sua Visão e Exercite seus Olhos!\n\nO aplicativo Testes de Visão é uma ferramenta educativa e recreativa gratuita para você avaliar sua percepção visual e praticar exercícios que ajudam a relaxar os olhos.\nCom uma interface simples e intuitiva, você pode realizar diferentes tipos de testes e desafios visuais de forma prática e divertida.\n\n💡 Educação e Conscientização Visual\n\nAprenda mais sobre como funciona sua visão e conheça testes usados para identificar possíveis alterações visuais.\nReceba dicas úteis sobre bem-estar ocular e hábitos saudáveis para seus olhos.\n\n📱 Como Funciona:\n\nMantenha seu dispositivo a cerca de 40 cm de distância.\n\nEscolha entre os testes disponíveis.\n\nSiga as instruções exibidas na tela.\n\n📝 Testes Disponíveis:\n\nAstigmatismo: Demonstra como a visão pode se comportar com diferentes distorções.\n\nMiopia: Mostra como a distância afeta a clareza da visão.\n\nAMD (Degeneração Macular Relacionada à Idade): Ilustra possíveis alterações visuais relacionadas à idade.\n\nDaltonismo: Simula a percepção de cores em diferentes condições visuais.\n\n🎯 Exercícios Visuais:\n\nInclui exercícios simples e divertidos para estimular o foco e o relaxamento dos olhos.\nPratique diariamente e descubra novas maneiras de cuidar da sua visão de forma lúdica.\n\nIdeal para todas as idades! O app também oferece imagens e atividades leves para o uso por crianças.\n\n⚠️ Aviso Importante:\n\nEste aplicativo não fornece diagnóstico médico nem substitui uma consulta profissional.\nPara qualquer dúvida ou alteração visual, consulte um oftalmologista.\n\n📲 Baixe agora e comece a cuidar melhor da sua visão de maneira simples, educativa e divertida!",
+      "descriptionHTML": "👀 Teste sua Visão e Exercite seus Olhos!<br><br>O aplicativo Testes de Visão é uma ferramenta educativa e recreativa gratuita para você avaliar sua percepção visual e praticar exercícios que ajudam a relaxar os olhos.<br>Com uma interface simples e intuitiva, você pode realizar diferentes tipos de testes e desafios visuais de forma prática e divertida.<br><br>💡 Educação e Conscientização Visual<br><br>Aprenda mais sobre como funciona sua visão e conheça testes usados para identificar possíveis alterações visuais.<br>Receba dicas úteis sobre bem-estar ocular e hábitos saudáveis para seus olhos.<br><br>📱 Como Funciona:<br><br>Mantenha seu dispositivo a cerca de 40 cm de distância.<br><br>Escolha entre os testes disponíveis.<br><br>Siga as instruções exibidas na tela.<br><br>📝 Testes Disponíveis:<br><br>Astigmatismo: Demonstra como a visão pode se comportar com diferentes distorções.<br><br>Miopia: Mostra como a distância afeta a clareza da visão.<br><br>AMD (Degeneração Macular Relacionada à Idade): Ilustra possíveis alterações visuais relacionadas à idade.<br><br>Daltonismo: Simula a percepção de cores em diferentes condições visuais.<br><br>🎯 Exercícios Visuais:<br><br>Inclui exercícios simples e divertidos para estimular o foco e o relaxamento dos olhos.<br>Pratique diariamente e descubra novas maneiras de cuidar da sua visão de forma lúdica.<br><br>Ideal para todas as idades! O app também oferece imagens e atividades leves para o uso por crianças.<br><br>⚠️ Aviso Importante:<br><br>Este aplicativo não fornece diagnóstico médico nem substitui uma consulta profissional.<br>Para qualquer dúvida ou alteração visual, consulte um oftalmologista.<br><br>📲 Baixe agora e comece a cuidar melhor da sua visão de maneira simples, educativa e divertida!",
+      "summary": "Teste Agora a Saúde dos Seus Olhos!",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 501557,
+      "score": 4.633663,
+      "scoreText": "4,6",
+      "ratings": 2762,
+      "reviews": 392,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.EmKsa.TestedeVisao",
+      "url": "https://play.google.com/store/apps/details?id=com.EmKsa.TestedeVisao&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Sylva: Autism & ADHD",
+      "description": "Você já tentou de tudo, nada funciona. Você não está fracassando, o suporte simplesmente não foi criado para o seu mundo.\n\nCriar um filho que vê e experimenta o mundo de forma diferente é algo completamente diferente de tudo que os livros ensinam. Cada manhã pode parecer uma batalha. Transições desencadeiam crises. Conselhos genéricos sobre criação de filhos não resolvem o problema.\n\nSylva é o aplicativo de apoio familiar para pais de crianças com autismo, TDAH e outros perfis neurodivergentes que estão cansados ​​de conselhos que não se encaixam.\n\nAjuda prática e personalizada, adaptada ao seu filho, à sua família e à sua realidade.\n\nCRIADO PARA A SUA REALIDADE, NÃO PARA A DE OUTRA PESSOA\n\nO Sylva entende os pontos fortes e as necessidades do seu filho, a dinâmica da sua família e os desafios diários, e oferece suporte prático e cotidiano, construído em torno da sua realidade. O suporte é sempre personalizado para a sua situação, não retirado de um manual genérico. Compreenda os momentos difíceis, aumente sua confiança como pai ou mãe e sinta-se preparado para reuniões com o coordenador de educação especial e professores. UMA ABORDAGEM PARA TODA A FAMÍLIA\n\nCriar um filho neurodivergente é difícil, e o impacto se estende ao seu relacionamento, ao seu bem-estar e à sua coparentalidade. O Sylva é um espaço para refletir sobre tudo isso.\n\nCONHEÇA SUA EQUIPE DE APOIO DO SYLVA\n\nO Sylva utiliza IA para dar suporte a cinco mentores, cada um focado em uma área diferente da vida familiar:\n\n- Ideias práticas para lidar com a vida familiar neurodivergente\n- Apoio para o seu relacionamento e coparentalidade\n- Seu próprio bem-estar e equilíbrio\n- Reflexão sobre si mesmo como pai/mãe e as experiências que o moldam\n\nRESULTADOS DE AVALIAÇÃO QUE VOCÊ PODE COMPARTILHAR COM SEU MÉDICO, COORDENADOR DE EDUCAÇÃO SENCO OU EQUIPE DE PSI (PAIS E MÉDICOS ADOLESCENTES E CRIANÇAS)\n\nO Sylva inclui mais de 65 questionários de avaliação gratuitos e validados para autismo, TDAH, ansiedade, depressão e condições relacionadas - os mesmos testes validados usados ​​pelo NHS (Serviço Nacional de Saúde do Reino Unido). Veja os resultados do seu filho em comparação com os limites clínicos publicados, acompanhe como os resultados mudam ao longo de semanas e meses e gere um perfil de pontos fortes e necessidades para compartilhar com professores e coordenadores de educação especial. Todos os testes de triagem são gratuitos. O Módulo de Triagem e Monitoramento da Sylva é um dispositivo médico de Classe I com marcação UKCA e registro na MHRA.\n\nPARA QUEM É A SYLVA?\n\nPais e cuidadores de crianças autistas, crianças com TDAH e outros perfis neurodivergentes que estão cansados ​​de conselhos que não se aplicam à sua realidade.\nFamílias que sentem que são as únicas que realmente entendem seus filhos.\nPais que desejam ir às reuniões com a escola ou com o coordenador de educação especial preparados e confiantes.\nPais que compartilham a responsabilidade e desejam estar em sintonia.\n\nO QUE POSSO PERGUNTAR À SYLVA?\n\nMeu filho não consegue se vestir sem ter uma crise. O que posso tentar?\n\nComo posso manter a calma quando tudo está se intensificando em casa?\n\nAjude-me a me preparar para uma reunião com a escola sobre as necessidades do meu filho. Meu parceiro e eu não estamos nos entendendo. Como podemos melhorar nosso relacionamento?\n\nA hora de dormir é um pesadelo, o que devo tentar hoje à noite?\n\nA escola não entende como é nossa vida em casa. Como posso explicar isso?\n\nExperimente o Sylva gratuitamente hoje mesmo.\n\nAviso: O Sylva é uma ferramenta de apoio ao bem-estar para pais e responsáveis. O Sylva não é uma ferramenta de diagnóstico ou tratamento, nem substitui a consulta médica. Procure ajuda profissional para qualquer preocupação urgente.\n\nInstruções de uso: https://app.mysylva.com/medical-device\n\nTermos de uso: https://www.mysylva.com/terms-of-service",
+      "descriptionHTML": "Você já tentou de tudo, nada funciona. Você não está fracassando, o suporte simplesmente não foi criado para o seu mundo.<br><br>Criar um filho que vê e experimenta o mundo de forma diferente é algo completamente diferente de tudo que os livros ensinam. Cada manhã pode parecer uma batalha. Transições desencadeiam crises. Conselhos genéricos sobre criação de filhos não resolvem o problema.<br><br>Sylva é o aplicativo de apoio familiar para pais de crianças com autismo, TDAH e outros perfis neurodivergentes que estão cansados ​​de conselhos que não se encaixam.<br><br>Ajuda prática e personalizada, adaptada ao seu filho, à sua família e à sua realidade.<br><br>CRIADO PARA A SUA REALIDADE, NÃO PARA A DE OUTRA PESSOA<br><br>O Sylva entende os pontos fortes e as necessidades do seu filho, a dinâmica da sua família e os desafios diários, e oferece suporte prático e cotidiano, construído em torno da sua realidade. O suporte é sempre personalizado para a sua situação, não retirado de um manual genérico. Compreenda os momentos difíceis, aumente sua confiança como pai ou mãe e sinta-se preparado para reuniões com o coordenador de educação especial e professores. UMA ABORDAGEM PARA TODA A FAMÍLIA<br><br>Criar um filho neurodivergente é difícil, e o impacto se estende ao seu relacionamento, ao seu bem-estar e à sua coparentalidade. O Sylva é um espaço para refletir sobre tudo isso.<br><br>CONHEÇA SUA EQUIPE DE APOIO DO SYLVA<br><br>O Sylva utiliza IA para dar suporte a cinco mentores, cada um focado em uma área diferente da vida familiar:<br><br>- Ideias práticas para lidar com a vida familiar neurodivergente<br>- Apoio para o seu relacionamento e coparentalidade<br>- Seu próprio bem-estar e equilíbrio<br>- Reflexão sobre si mesmo como pai/mãe e as experiências que o moldam<br><br>RESULTADOS DE AVALIAÇÃO QUE VOCÊ PODE COMPARTILHAR COM SEU MÉDICO, COORDENADOR DE EDUCAÇÃO SENCO OU EQUIPE DE PSI (PAIS E MÉDICOS ADOLESCENTES E CRIANÇAS)<br><br>O Sylva inclui mais de 65 questionários de avaliação gratuitos e validados para autismo, TDAH, ansiedade, depressão e condições relacionadas - os mesmos testes validados usados ​​pelo NHS (Serviço Nacional de Saúde do Reino Unido). Veja os resultados do seu filho em comparação com os limites clínicos publicados, acompanhe como os resultados mudam ao longo de semanas e meses e gere um perfil de pontos fortes e necessidades para compartilhar com professores e coordenadores de educação especial. Todos os testes de triagem são gratuitos. O Módulo de Triagem e Monitoramento da Sylva é um dispositivo médico de Classe I com marcação UKCA e registro na MHRA.<br><br>PARA QUEM É A SYLVA?<br><br>Pais e cuidadores de crianças autistas, crianças com TDAH e outros perfis neurodivergentes que estão cansados ​​de conselhos que não se aplicam à sua realidade.<br>Famílias que sentem que são as únicas que realmente entendem seus filhos.<br>Pais que desejam ir às reuniões com a escola ou com o coordenador de educação especial preparados e confiantes.<br>Pais que compartilham a responsabilidade e desejam estar em sintonia.<br><br>O QUE POSSO PERGUNTAR À SYLVA?<br><br>Meu filho não consegue se vestir sem ter uma crise. O que posso tentar?<br><br>Como posso manter a calma quando tudo está se intensificando em casa?<br><br>Ajude-me a me preparar para uma reunião com a escola sobre as necessidades do meu filho. Meu parceiro e eu não estamos nos entendendo. Como podemos melhorar nosso relacionamento?<br><br>A hora de dormir é um pesadelo, o que devo tentar hoje à noite?<br><br>A escola não entende como é nossa vida em casa. Como posso explicar isso?<br><br>Experimente o Sylva gratuitamente hoje mesmo.<br><br>Aviso: O Sylva é uma ferramenta de apoio ao bem-estar para pais e responsáveis. O Sylva não é uma ferramenta de diagnóstico ou tratamento, nem substitui a consulta médica. Procure ajuda profissional para qualquer preocupação urgente.<br><br>Instruções de uso: https://app.mysylva.com/medical-device<br><br>Termos de uso: https://www.mysylva.com/terms-of-service",
+      "summary": "Treinador neurodivergente",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2999,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.spicyminds.sylva",
+      "url": "https://play.google.com/store/apps/details?id=org.spicyminds.sylva&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Matraquinha: Autismo",
+      "description": "Recebeu o diagnóstico de Autismo (TEA) e não sabe por onde começar? Nós entendemos você.\n\nO dia a dia de uma família com uma criança autista pode ser desafiador. Quando a fala não vem de forma natural, a dificuldade da criança em expressar necessidades básicas, como fome, sede ou dor, gera frustração, choro e crises frequentes. O Matraquinha nasceu para acolher sua família, oferecendo ajuda prática e imediata para transformar esse silêncio em conexão.\n\nNosso aplicativo foi criado pensando na realidade da sua família. Ele é simples, e foi feito para que pais e cuidadores comecem a usar hoje mesmo, sem precisar de treinamentos. Nosso objetivo? Reduzir as crises de ansiedade da criança e dar a ela uma forma fácil de se comunicar com o mundo.\n\n★ COMO FUNCIONA NA PRÁTICA:\n\n• Dar Voz à Criança (Fim das Frustrações): Chega de adivinhar o que seu filho quer ou sente. Com um simples toque nas imagens da tela, o app fala por ele! Desde pedir água e a comida favorita até avisar que precisa ir ao banheiro. Essa comunicação rápida e clara diminui instantaneamente a frustração de não ser compreendido.\n\n• Rotina Visual para Reduzir Crises: A previsibilidade é o segredo para o conforto no Autismo. Crie rotinas visuais passo a passo para as atividades diárias (como escovar os dentes, tomar banho ou ir à escola). Saber o que vai acontecer reduz o estresse, a desregulação emocional e previne as crises de ansiedade.\n\n• Personalizado para a Sua Casa: O Matraquinha se adapta à vida da sua criança, e não o contrário. Tire e adicione fotos reais do quarto dela, do brinquedo favorito ou do cachorrinho de vocês para tornar a comunicação ainda mais familiar.\n\n• Apoio em Momentos Difíceis: Tenha na palma da mão pranchas rápidas para situações de emergência. Ajude seu filho a expressar emoções, apontar onde dói em situações de desconforto ou pedir ajuda de forma independente.\n\n★ COMO AJUDAMOS SUA FAMÍLIA:\n\n• Simples e Acolhedor: Criado por e para famílias atípicas, sem termos técnicos complicados.\n\n• Múltiplos Idiomas: Totalmente adaptado para Português, Inglês, Espanhol, Francês e Italiano.\n\n• Aprendizado e Inclusão: Histórias em quadrinhos divertidas com o André, o personagem autista da Turma da Mônica, além de seções lúdicas para ensinar cores e números.\n\n• 100% Adaptável: Escolha a visualização em lista ou grade, do jeito que for mais confortável para as características motoras e visuais do seu filho.\n\nCada toque no Matraquinha é uma vitória diária. É a garantia de ouvir os desejos, os medos e as alegrias de quem você mais ama.\n\nSe você está buscando apoio real para lidar com os desafios do TEA em casa, baixe o Matraquinha agora mesmo. Dê voz ao seu filho e traga mais tranquilidade para a sua rotina. Nós estamos juntos com a sua família nessa jornada!\n\nFale com a gente: Tem dúvidas, precisa de ajuda ou quer compartilhar uma vitória do seu filho com o app? \nEscreva para: help@matraquinha.com.br \nSugestões: matraquinha@matraquinha.com.br",
+      "descriptionHTML": "Recebeu o diagnóstico de Autismo (TEA) e não sabe por onde começar? Nós entendemos você.<br><br>O dia a dia de uma família com uma criança autista pode ser desafiador. Quando a fala não vem de forma natural, a dificuldade da criança em expressar necessidades básicas, como fome, sede ou dor, gera frustração, choro e crises frequentes. O Matraquinha nasceu para acolher sua família, oferecendo ajuda prática e imediata para transformar esse silêncio em conexão.<br><br>Nosso aplicativo foi criado pensando na realidade da sua família. Ele é simples, e foi feito para que pais e cuidadores comecem a usar hoje mesmo, sem precisar de treinamentos. Nosso objetivo? Reduzir as crises de ansiedade da criança e dar a ela uma forma fácil de se comunicar com o mundo.<br><br>★ COMO FUNCIONA NA PRÁTICA:<br><br>• Dar Voz à Criança (Fim das Frustrações): Chega de adivinhar o que seu filho quer ou sente. Com um simples toque nas imagens da tela, o app fala por ele! Desde pedir água e a comida favorita até avisar que precisa ir ao banheiro. Essa comunicação rápida e clara diminui instantaneamente a frustração de não ser compreendido.<br><br>• Rotina Visual para Reduzir Crises: A previsibilidade é o segredo para o conforto no Autismo. Crie rotinas visuais passo a passo para as atividades diárias (como escovar os dentes, tomar banho ou ir à escola). Saber o que vai acontecer reduz o estresse, a desregulação emocional e previne as crises de ansiedade.<br><br>• Personalizado para a Sua Casa: O Matraquinha se adapta à vida da sua criança, e não o contrário. Tire e adicione fotos reais do quarto dela, do brinquedo favorito ou do cachorrinho de vocês para tornar a comunicação ainda mais familiar.<br><br>• Apoio em Momentos Difíceis: Tenha na palma da mão pranchas rápidas para situações de emergência. Ajude seu filho a expressar emoções, apontar onde dói em situações de desconforto ou pedir ajuda de forma independente.<br><br>★ COMO AJUDAMOS SUA FAMÍLIA:<br><br>• Simples e Acolhedor: Criado por e para famílias atípicas, sem termos técnicos complicados.<br><br>• Múltiplos Idiomas: Totalmente adaptado para Português, Inglês, Espanhol, Francês e Italiano.<br><br>• Aprendizado e Inclusão: Histórias em quadrinhos divertidas com o André, o personagem autista da Turma da Mônica, além de seções lúdicas para ensinar cores e números.<br><br>• 100% Adaptável: Escolha a visualização em lista ou grade, do jeito que for mais confortável para as características motoras e visuais do seu filho.<br><br>Cada toque no Matraquinha é uma vitória diária. É a garantia de ouvir os desejos, os medos e as alegrias de quem você mais ama.<br><br>Se você está buscando apoio real para lidar com os desafios do TEA em casa, baixe o Matraquinha agora mesmo. Dê voz ao seu filho e traga mais tranquilidade para a sua rotina. Nós estamos juntos com a sua família nessa jornada!<br><br>Fale com a gente: Tem dúvidas, precisa de ajuda ou quer compartilhar uma vitória do seu filho com o app? <br>Escreva para: help@matraquinha.com.br <br>Sugestões: matraquinha@matraquinha.com.br",
+      "summary": "App de comunicação alternativa para pessoas com autismo!",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 637291,
+      "score": 3.160584,
+      "scoreText": "3,2",
+      "ratings": 1415,
+      "reviews": 661,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.phonegap.matraquinha",
+      "url": "https://play.google.com/store/apps/details?id=com.phonegap.matraquinha&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

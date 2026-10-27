@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:10:22.245Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "tourette",
+    "key": "tourette",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "µTorrent® -Baixador de Torrent",
+      "description": "uTorrent is the #1 Android torrents downloader in the Google Play Store with over 100 million downloads. \n\nµTorrent downloads files at high speeds using the BitTorrent hyper distribution communications protocol for peer-to-peer file sharing (\"\"P2P\"\"). Splitting the downloadable file into multiple parts and employing multi threading through seeding helps you download music, movies and video files many times faster.\n\nµTorrent is the official BitTorrent Android torrent downloader. Enjoy the most awesome torrent downloading experience with no speed or size limits when downloading.\n\nFast, light, and powerful: that’s the core of our torrent download technology. We developed uTorrent downloader around your mobile download needs.\n\nTop Features\n✔ Beautifully light, clean design\n✔ Simply download files directly to your phone/tablet\n✔ Share files & torrents with ease from your phone/tablet\n✔ No download speed limits and no torrent download size limits\n✔ Better music listening and video viewing experience with integrated music and video players\n✔ Translations in Pусский, Español, Italiano, Português do Brasil\n✔ Download free music, movie and videos from licensed content partners from BitTorrent Now \n\nNew Users \n✔ Look out for magnet links and click on them when searching for torrents online\n✔ Downloaded more than one music file in a torrent? Play them all at once as a playlist\n✔ Select files to download within a torrent to minimize your storage footprint\n✔ To get the best performance and avoid running up your data charges on mobile movie & music download, we recommend taking advantage of torrenting and seeding on Wifi-only mode whenever possible\n\nAdvanced Features\n✔ Wi-fi only mode to save on mobile data\n✔ Choose your file download location\n✔ Download torrents and download magnet links\n✔ Choose between deleting torrents only, or torrents & files\n\nFAQs \nVisit this page: http://help.utorrent.com/\n\nHelp & Support \nVisit the uTorrent forum at https://forum.utorrent.com/forum/1-utorrent-for-windows/\n\nLike us on Facebook \nhttp://www.facebook.com/bittorrent\n\nFollow us on Twitter \nhttp://twitter.com/bittorrent\n\nFeedback\nYour feedback is very important to us. Please email us directly at utandroid@bittorrent.com if you have any problems or requests. \n\nBrought to you by the µTorrent mobile team\n--Light. Limitless. µTorrent® for Android.\n\nBy downloading or using BitTorrent or uTorrent - torrent downloader client, you agree to the Terms of Use (http://www.bittorrent.com/legal/terms-of-use) and Privacy Policy (http://www.bittorrent.com/legal/privacy)",
+      "descriptionHTML": "uTorrent is the #1 Android torrents downloader in the Google Play Store with over 100 million downloads. <br><br>µTorrent downloads files at high speeds using the BitTorrent hyper distribution communications protocol for peer-to-peer file sharing (&quot;&quot;P2P&quot;&quot;). Splitting the downloadable file into multiple parts and employing multi threading through seeding helps you download music, movies and video files many times faster.<br><br>µTorrent is the official BitTorrent Android torrent downloader. Enjoy the most awesome torrent downloading experience with no speed or size limits when downloading.<br><br>Fast, light, and powerful: that’s the core of our torrent download technology. We developed uTorrent downloader around your mobile download needs.<br><br>Top Features<br>✔ Beautifully light, clean design<br>✔ Simply download files directly to your phone/tablet<br>✔ Share files &amp; torrents with ease from your phone/tablet<br>✔ No download speed limits and no torrent download size limits<br>✔ Better music listening and video viewing experience with integrated music and video players<br>✔ Translations in Pусский, Español, Italiano, Português do Brasil<br>✔ Download free music, movie and videos from licensed content partners from BitTorrent Now <br><br>New Users <br>✔ Look out for magnet links and click on them when searching for torrents online<br>✔ Downloaded more than one music file in a torrent? Play them all at once as a playlist<br>✔ Select files to download within a torrent to minimize your storage footprint<br>✔ To get the best performance and avoid running up your data charges on mobile movie &amp; music download, we recommend taking advantage of torrenting and seeding on Wifi-only mode whenever possible<br><br>Advanced Features<br>✔ Wi-fi only mode to save on mobile data<br>✔ Choose your file download location<br>✔ Download torrents and download magnet links<br>✔ Choose between deleting torrents only, or torrents &amp; files<br><br>FAQs <br>Visit this page: http://help.utorrent.com/<br><br>Help &amp; Support <br>Visit the uTorrent forum at https://forum.utorrent.com/forum/1-utorrent-for-windows/<br><br>Like us on Facebook <br>http://www.facebook.com/bittorrent<br><br>Follow us on Twitter <br>http://twitter.com/bittorrent<br><br>Feedback<br>Your feedback is very important to us. Please email us directly at utandroid@bittorrent.com if you have any problems or requests. <br><br>Brought to you by the µTorrent mobile team<br>--Light. Limitless. µTorrent® for Android.<br><br>By downloading or using BitTorrent or uTorrent - torrent downloader client, you agree to the Terms of Use (http://www.bittorrent.com/legal/terms-of-use) and Privacy Policy (http://www.bittorrent.com/legal/privacy)",
+      "summary": "#1 Torrent App for Android. The Official uTorrent App for Phones.",
+      "installs": "100.000.000+",
+      "minInstalls": 100000000,
+      "maxInstalls": 259096354,
+      "score": 4.7911925,
+      "scoreText": "4,8",
+      "ratings": 5414357,
+      "reviews": 240276,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Reproduzir e editar vídeos",
+      "genreId": "VIDEO_PLAYERS",
+      "categories": [
+        {
+          "name": "Reproduzir e editar vídeos",
+          "id": "VIDEO_PLAYERS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.utorrent.client",
+      "url": "https://play.google.com/store/apps/details?id=com.utorrent.client&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Chouette Tour - Dijon",
+      "description": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!\n\nMergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.\n\nSeja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!\n\nDestaques do aplicativo:\n\n- Rotas interativas pelas ruas de Dijon\n- Fatos históricos e anedotas\n- Realidade aumentada para viajar no tempo\n\nAcessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.\n\nSeja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "descriptionHTML": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!<br><br>Mergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.<br><br>Seja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!<br><br>Destaques do aplicativo:<br><br>- Rotas interativas pelas ruas de Dijon<br>- Fatos históricos e anedotas<br>- Realidade aumentada para viajar no tempo<br><br>Acessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.<br><br>Seja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "summary": "Explore Dijon com trilhas divertidas e realidade aumentada!",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 520,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "fr.chouettetour.chouettetour",
+      "url": "https://play.google.com/store/apps/details?id=fr.chouettetour.chouettetour&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Tournated: Sports Management",
+      "description": "Tournated – Shopify para Gestão Esportiva\n\nTournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.\n\nDescubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.\n\nPor que os atletas adoram\n- Encontre torneios próximos por esporte, data, país e federação esportiva.\n\n- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo\n- Placares ao vivo, classificações e classificações finais\n- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue\n\nPor que os organizadores nos escolhem\n- Crie eventos, grupos e sorteios de equipes em minutos\n- Gerencie clubes, treinadores, ligas e inscrições\n- Publique programações, resultados ao vivo, classificações e notícias\n- Use o portal web para configuração, atletas e torcedores usam o aplicativo\n\nMais do que apenas torneios\n- Experiências personalizadas com filtros de torneios e formações de grupos\n- Mantenha-se atualizado com as últimas notícias e explore galerias completas\n- Personalize seu aplicativo selecionando seu esporte favorito\n- O suporte multilíngue garante inclusão para todos os usuários\n\nEsportes suportados\nxadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "descriptionHTML": "Tournated – Shopify para Gestão Esportiva<br><br>Tournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.<br><br>Descubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.<br><br>Por que os atletas adoram<br>- Encontre torneios próximos por esporte, data, país e federação esportiva.<br><br>- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo<br>- Placares ao vivo, classificações e classificações finais<br>- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue<br><br>Por que os organizadores nos escolhem<br>- Crie eventos, grupos e sorteios de equipes em minutos<br>- Gerencie clubes, treinadores, ligas e inscrições<br>- Publique programações, resultados ao vivo, classificações e notícias<br>- Use o portal web para configuração, atletas e torcedores usam o aplicativo<br><br>Mais do que apenas torneios<br>- Experiências personalizadas com filtros de torneios e formações de grupos<br>- Mantenha-se atualizado com as últimas notícias e explore galerias completas<br>- Personalize seu aplicativo selecionando seu esporte favorito<br>- O suporte multilíngue garante inclusão para todos os usuários<br><br>Esportes suportados<br>xadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "summary": "Shopify para gestão esportiva",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5238,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Esportes",
+      "genreId": "SPORTS",
+      "categories": [
+        {
+          "name": "Esportes",
+          "id": "SPORTS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.tournated",
+      "url": "https://play.google.com/store/apps/details?id=com.app.tournated&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Teverun",
+      "description": "Este aplicativo tem muitas funções relacionadas a veículos, como monitorar o status de veículos em espera, definir parâmetros de veículos, gerenciamento de veículos e atualização sem fio.",
+      "descriptionHTML": "Este aplicativo tem muitas funções relacionadas a veículos, como monitorar o status de veículos em espera, definir parâmetros de veículos, gerenciamento de veículos e atualização sem fio.",
+      "summary": "Para usuários Teverun",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 32495,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "uni.UNI2202FAB",
+      "url": "https://play.google.com/store/apps/details?id=uni.UNI2202FAB&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Tournex",
+      "description": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆\n\nPronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.\n\n🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!\n\n🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.\n\n📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!\n\n⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.\n\nPor que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.\n\nBaixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "descriptionHTML": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆<br><br>Pronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.<br><br>🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!<br><br>🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.<br><br>📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!<br><br>⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.<br><br>Por que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.<br><br>Baixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "summary": "Vivencie o espírito dos eSports com a Tournex.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1626,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tournexapp",
+      "url": "https://play.google.com/store/apps/details?id=com.tournexapp&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "BTAir",
+      "description": "CHAUVET DJ, que tem uma longa história de desenvolvimento de tecnologias de iluminação de ponta, mais uma vez marcou o início de uma nova era de controle de iluminação sem fio com a introdução de BTAir, um aplicativo que usa a tecnologia sem fio Bluetooth® para controlar CHAUVET DJ Bluetooth® Tecnologia luzes habilitados - SlimPAR T12 BT, SlimPAR Q12 BT e colorband T3 BT - diretamente de um telefone ou tablet, sem qualquer hardware adicional necessário.",
+      "descriptionHTML": "CHAUVET DJ, que tem uma longa história de desenvolvimento de tecnologias de iluminação de ponta, mais uma vez marcou o início de uma nova era de controle de iluminação sem fio com a introdução de BTAir, um aplicativo que usa a tecnologia sem fio Bluetooth® para controlar CHAUVET DJ Bluetooth® Tecnologia luzes habilitados - SlimPAR T12 BT, SlimPAR Q12 BT e colorband T3 BT - diretamente de um telefone ou tablet, sem qualquer hardware adicional necessário.",
+      "summary": "Sem esforço controlar luzes específicas Chauvet DJ.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 42700,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.witer.bluetoothlight",
+      "url": "https://play.google.com/store/apps/details?id=com.witer.bluetoothlight&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "BitTorrent®- Torrent Downloads",
+      "description": "Encontre, baixe (torrent) e reproduza torrents no seu celular ou tablet com o aplicativo oficial BitTorrent® para Android. Obtenha o incrível torrent downloader sem velocidade de download ou limites de tamanho de download. Agora baixar torrents para o seu telefone é fácil.\n\nO Aplicativo BitTorrent para Android é uma maneira simples e bonita de descobrir, baixar e reproduzir vídeos / músicas em qualquer lugar.\n\nO Aplicativo BitTorrent para Android tem melhor desempenho, downloads mais rápidos e uma experiência de torrent móvel mais centrada no usuário.\n\nOuvimos seus comentários e atualizamos esta última versão com -\n✔ Belamente leve, design limpo\n✔ Modo somente Wi-Fi para economizar em dados móveis\n✔ Sem limites de velocidade e sem limites de tamanho\n✔ Fácil acesso à sua mídia com bibliotecas de música e vídeo integradas\n✔ Selecione arquivos para download em um torrent para minimizar a pegada de armazenamento\n✔ Melhor audição de música e experiência de visualização de vídeo com players de música e vídeo integrados\n✔ Desligamento automático (recurso Pro)\n\nMais recursos:\n✔ Escolha o local de download do arquivo ao adicionar um torrent\n✔ Baixar torrents e links magnéticos\n✔ Escolha entre excluir somente torrents ou torrents e arquivos\n✔ Traduções em Pусский, Español, Italiano, Português do Brasil\n✔ O mais recente em tecnologia de torrent core, continuamente atualizado por engenheiros dedicados de core torrent para maximizar o desempenho\n✔ Faça o download de torrents de música e vídeo licenciados e gratuitos dos parceiros de conteúdo da BitTorrent, como Moby e Public Enemy-- desde o início.\n✔ Baixou mais de um arquivo de música em um torrent? Reproduz todos de uma só vez como playlist\n✔ Melhorias no desempenho do download e estabilidade. Isso inclui a Prioridade de Pares Canônica (reduz o comprimento do salto entre você e seus pares no enxame de torrentes) e o manuseio mais rápido de dados de link magnético.\n\nFAQs\nVisite esta página: http://help.bittorrent.com/\n\nAjuda e Suporte\nVisite o fórum BitTorrent em https://forum.bittorrent.com/forum/5-bittorrent-client/\n\nCurta-nos no Facebook\nhttp://www.facebook.com/bittorrent\n\nSiga-nos no Twitter\nhttp://twitter.com/bittorrent\n\nFeedback\nSeu feedback é muito importante para nós. Por favor, envie-nos um email diretamente para btandroid@bittorrent.com se você tiver algum problema ou pedido.\n\nA equipe móvel do BitTorrent.\n\"Comprometido em construir um futuro sustentável para o conteúdo\".\n\nAo fazer o download ou usar o cliente BitTorrent ou uTorrent - torrent downloader, você concorda com os Termos de Uso (http://www.bittorrent.com/legal/terms-of-use) e com a Política de Privacidade (http: //www.bittorrent. com / legal / privacidade)",
+      "descriptionHTML": "Encontre, baixe (torrent) e reproduza torrents no seu celular ou tablet com o aplicativo oficial BitTorrent® para Android. Obtenha o incrível torrent downloader sem velocidade de download ou limites de tamanho de download. Agora baixar torrents para o seu telefone é fácil.<br><br>O Aplicativo BitTorrent para Android é uma maneira simples e bonita de descobrir, baixar e reproduzir vídeos / músicas em qualquer lugar.<br><br>O Aplicativo BitTorrent para Android tem melhor desempenho, downloads mais rápidos e uma experiência de torrent móvel mais centrada no usuário.<br><br>Ouvimos seus comentários e atualizamos esta última versão com -<br>✔ Belamente leve, design limpo<br>✔ Modo somente Wi-Fi para economizar em dados móveis<br>✔ Sem limites de velocidade e sem limites de tamanho<br>✔ Fácil acesso à sua mídia com bibliotecas de música e vídeo integradas<br>✔ Selecione arquivos para download em um torrent para minimizar a pegada de armazenamento<br>✔ Melhor audição de música e experiência de visualização de vídeo com players de música e vídeo integrados<br>✔ Desligamento automático (recurso Pro)<br><br>Mais recursos:<br>✔ Escolha o local de download do arquivo ao adicionar um torrent<br>✔ Baixar torrents e links magnéticos<br>✔ Escolha entre excluir somente torrents ou torrents e arquivos<br>✔ Traduções em Pусский, Español, Italiano, Português do Brasil<br>✔ O mais recente em tecnologia de torrent core, continuamente atualizado por engenheiros dedicados de core torrent para maximizar o desempenho<br>✔ Faça o download de torrents de música e vídeo licenciados e gratuitos dos parceiros de conteúdo da BitTorrent, como Moby e Public Enemy-- desde o início.<br>✔ Baixou mais de um arquivo de música em um torrent? Reproduz todos de uma só vez como playlist<br>✔ Melhorias no desempenho do download e estabilidade. Isso inclui a Prioridade de Pares Canônica (reduz o comprimento do salto entre você e seus pares no enxame de torrentes) e o manuseio mais rápido de dados de link magnético.<br><br>FAQs<br>Visite esta página: http://help.bittorrent.com/<br><br>Ajuda e Suporte<br>Visite o fórum BitTorrent em https://forum.bittorrent.com/forum/5-bittorrent-client/<br><br>Curta-nos no Facebook<br>http://www.facebook.com/bittorrent<br><br>Siga-nos no Twitter<br>http://twitter.com/bittorrent<br><br>Feedback<br>Seu feedback é muito importante para nós. Por favor, envie-nos um email diretamente para btandroid@bittorrent.com se você tiver algum problema ou pedido.<br><br>A equipe móvel do BitTorrent.<br>&quot;Comprometido em construir um futuro sustentável para o conteúdo&quot;.<br><br>Ao fazer o download ou usar o cliente BitTorrent ou uTorrent - torrent downloader, você concorda com os Termos de Uso (http://www.bittorrent.com/legal/terms-of-use) e com a Política de Privacidade (http: //www.bittorrent. com / legal / privacidade)",
+      "summary": "Encontre, baixe e transmita torrents em seu telefone ou tablet (aplicativo oficial)",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 55004016,
+      "score": 4.6296735,
+      "scoreText": "4,6",
+      "ratings": 952610,
+      "reviews": 31366,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Reproduzir e editar vídeos",
+      "genreId": "VIDEO_PLAYERS",
+      "categories": [
+        {
+          "name": "Reproduzir e editar vídeos",
+          "id": "VIDEO_PLAYERS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.bittorrent.client",
+      "url": "https://play.google.com/store/apps/details?id=com.bittorrent.client&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Turífico",
+      "description": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.\n\nFuncionalidades Principais para Jornadas Inesquecíveis:\n\nExplore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.\n\nVasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.\n\nAudioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.\n\nAudioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.\n\nInterface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!\n\nComece Sua Aventura Hoje!\n\nBaixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!\n\nExcluir uma conta de aplicativo:\nVocê pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "descriptionHTML": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.<br><br>Funcionalidades Principais para Jornadas Inesquecíveis:<br><br>Explore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.<br><br>Vasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.<br><br>Audioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.<br><br>Audioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.<br><br>Interface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!<br><br>Comece Sua Aventura Hoje!<br><br>Baixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!<br><br>Excluir uma conta de aplicativo:<br>Você pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "summary": "Tours de áudio autoguiados e guias da cidade para cidades, catedrais e museus",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15386,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tourific",
+      "url": "https://play.google.com/store/apps/details?id=com.tourific&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Turito- Live Learning App",
+      "description": "Você está se preparando para  IIT-JEE, NEET ou qualquer exame de admissão em engenharia ou medicina ou olimpíadas, NTSE, CBSE, ICSE e exames do conselho estadual?  Ou pretende se formar em  universidades estrangeiras ?\n\nEntão Turito é a opção completa para você! 👨‍🎓 \n\n Aprenda, pratique e domine  para ter sucesso em  IIT-JEE (Principal + Avançado), NEET, engenharia estadual e exames de admissão médica  junto com  NTSE, KVPY, Olimpíadas , CBSE, ICSE e outros exames do conselho estadual. Além disso, prepare-se para o SAT e o ACT para deixar sua marca na faculdade / universidade dos seus sonhos no exterior. \n\nO aplicativo de aprendizagem de Turito reúne o  melhor corpo docente, conteúdo bem estruturado, avaliações habilitadas por tecnologia e experiência de aprendizagem de classe mundial  para cada aluno. Abordagem de aprendizagem personalizada e cursos personalizados ajudam os alunos a aprender em sua conveniência e ritmo.\n\nCom o Turito, faça aulas online ao vivo, séries de testes, sessões de solução de dúvidas, avaliações, orientação pessoal e muito mais do conforto da sua casa!\nTurito oferece aos alunos recursos de aprendizagem online que os ajudam a aprender, praticar e dominar em movimento. Por meio de uma combinação perfeita de tecnologia e práticas de ensino-aprendizagem da nova era, Turito criou uma jornada de aprendizagem impactante para todos os tipos de alunos.\n\n-----------------------------------------\n\n Experimente você mesmo. Reserve uma aula de demonstração gratuita agora! \n\n------------------------------------------\nOferecemos uma preparação abrangente para construir uma base sólida em Física, Química, Matemática e Biologia para as aulas de 6 a 12, preparando assim para aceitar IIT-JEE (Principal + Avançado), NEET, outros exames competitivos e exames de bordo. Nosso corpo docente altamente qualificado e experiente se concentra no sucesso geral de cada aluno por meio de atenção personalizada e práticas de ensino-aprendizagem diferenciadas.\n\n Como Turito cria uma jornada de aprendizagem holística? \n\n💻  Aulas online interativas ao vivo  por membros do corpo docente que foram mentores de toppers\n\n👩‍🏫  SAT / ACT  cursos online regulares e de fim de semana e sessões individuais de tutoria online\n\n👨‍  vídeo aulas  gravadas de alta qualidade\n\n📕 Material de estudo bem estruturado -  conteúdo digital e eBooks  cobrindo todo o currículo do IIT-JEE, NEET, CBSE, ICSE e conselhos estaduais para as classes 6-10\n\n📝  Material de estudo exaustivo  e conteúdo digital para SAT e ACT\n\n👩🏿‍💻  Vídeos sob demanda  envolventes e interativos abrangendo todos os capítulos e tópicos de Física, Química, Matemática e Biologia para as aulas de 6 a 12\n\n📝 Prática exaustiva e série de testes, incluindo  Artigos de Prática Diária (DPPs), testes de tópicos, testes de capítulo e testes completos  com base no padrão de exame real\n\n📝  Trabalhos resolvidos de anos anteriores  para NEET e JEE, para melhorar a preparação para o exame\n\n📝 IIT-JEE e NEET  série de testes em toda a Índia  para avaliação de desempenho em nível nacional\n\n📊  Análise detalhada de desempenho  e relatórios\n\n👉  Caminho de aprendizagem personalizado  para melhorar a experiência de aprendizagem do aluno\n\n👩‍🏫  Orientação dedicada  junto com suporte acadêmico contínuo\n\n💭  Sessões regulares para esclarecimento de dúvidas \n\n O que mais? \n\n • Dicas e truques para resolver questões longas\n\n • Plano de estudo personalizado e estratégias para superar áreas de melhorias\n\n • Receba notificações em tempo real no aplicativo para aulas ao vivo, próximos cursos e recomendações organizadas apenas para você\n\n • Participe das aulas ao vivo ou assista às sessões gravadas, a qualquer hora de qualquer dispositivo\n\n • Obtenha orientação individual de nossos especialistas\n\n Escolha Turito como seu parceiro de aprendizagem inteligente! Baixe o aplicativo agora! \n\nEsteja você com o objetivo de quebrar JEE, NEET, Olympiads, CBSE, ICSE, conselhos estaduais, SAT ou ACT, a equipe Turito está empenhada em garantir que você alcance seus objetivos.\n\nE sim, a organização evolui continuamente para fornecer a você uma experiência de aprendizado impactante e, portanto, continuamos adicionando no aplicativo.\n\nO que você está esperando?  Baixe o aplicativo  e comece sua incrível jornada de aprendizado. 🎓🏆",
+      "descriptionHTML": "Você está se preparando para <b> IIT-JEE, NEET ou qualquer exame de admissão em engenharia ou medicina ou olimpíadas, NTSE, CBSE, ICSE e exames do conselho estadual? </b> Ou pretende se formar em <b> universidades estrangeiras ?<br><br>Então Turito é a opção completa para você! 👨‍🎓 </b><br><br><b> Aprenda, pratique e domine </b> para ter sucesso em <b> IIT-JEE (Principal + Avançado), NEET, engenharia estadual e exames de admissão médica </b> junto com <b> NTSE, KVPY, Olimpíadas , CBSE, ICSE e outros exames do conselho estadual. Além disso, prepare-se para o SAT e o ACT para deixar sua marca na faculdade / universidade dos seus sonhos no exterior. </b><br><br>O aplicativo de aprendizagem de Turito reúne o <b> melhor corpo docente, conteúdo bem estruturado, avaliações habilitadas por tecnologia e experiência de aprendizagem de classe mundial </b> para cada aluno. Abordagem de aprendizagem personalizada e cursos personalizados ajudam os alunos a aprender em sua conveniência e ritmo.<br><br>Com o Turito, faça aulas online ao vivo, séries de testes, sessões de solução de dúvidas, avaliações, orientação pessoal e muito mais do conforto da sua casa!<br>Turito oferece aos alunos recursos de aprendizagem online que os ajudam a aprender, praticar e dominar em movimento. Por meio de uma combinação perfeita de tecnologia e práticas de ensino-aprendizagem da nova era, Turito criou uma jornada de aprendizagem impactante para todos os tipos de alunos.<br><br>-----------------------------------------<br><br><b> Experimente você mesmo. Reserve uma aula de demonstração gratuita agora! </b><br><br>------------------------------------------<br>Oferecemos uma preparação abrangente para construir uma base sólida em Física, Química, Matemática e Biologia para as aulas de 6 a 12, preparando assim para aceitar IIT-JEE (Principal + Avançado), NEET, outros exames competitivos e exames de bordo. Nosso corpo docente altamente qualificado e experiente se concentra no sucesso geral de cada aluno por meio de atenção personalizada e práticas de ensino-aprendizagem diferenciadas.<br><br><b> Como Turito cria uma jornada de aprendizagem holística? </b><br><br>💻 <b> Aulas online interativas ao vivo </b> por membros do corpo docente que foram mentores de toppers<br><br>👩‍🏫 <b> SAT / ACT </b> cursos online regulares e de fim de semana e sessões individuais de tutoria online<br><br>👨‍ <b> vídeo aulas </b> gravadas de alta qualidade<br><br>📕 Material de estudo bem estruturado - <b> conteúdo digital e eBooks </b> cobrindo todo o currículo do IIT-JEE, NEET, CBSE, ICSE e conselhos estaduais para as classes 6-10<br><br>📝 <b> Material de estudo exaustivo </b> e conteúdo digital para SAT e ACT<br><br>👩🏿‍💻 <b> Vídeos sob demanda </b> envolventes e interativos abrangendo todos os capítulos e tópicos de Física, Química, Matemática e Biologia para as aulas de 6 a 12<br><br>📝 Prática exaustiva e série de testes, incluindo <b> Artigos de Prática Diária (DPPs), testes de tópicos, testes de capítulo e testes completos </b> com base no padrão de exame real<br><br>📝 <b> Trabalhos resolvidos de anos anteriores </b> para NEET e JEE, para melhorar a preparação para o exame<br><br>📝 IIT-JEE e NEET <b> série de testes em toda a Índia </b> para avaliação de desempenho em nível nacional<br><br>📊 <b> Análise detalhada de desempenho </b> e relatórios<br><br>👉 <b> Caminho de aprendizagem personalizado </b> para melhorar a experiência de aprendizagem do aluno<br><br>👩‍🏫 <b> Orientação dedicada </b> junto com suporte acadêmico contínuo<br><br>💭 <b> Sessões regulares para esclarecimento de dúvidas </b><br><br><b> O que mais? </b><br><br> • Dicas e truques para resolver questões longas<br><br> • Plano de estudo personalizado e estratégias para superar áreas de melhorias<br><br> • Receba notificações em tempo real no aplicativo para aulas ao vivo, próximos cursos e recomendações organizadas apenas para você<br><br> • Participe das aulas ao vivo ou assista às sessões gravadas, a qualquer hora de qualquer dispositivo<br><br> • Obtenha orientação individual de nossos especialistas<br><br><b> Escolha Turito como seu parceiro de aprendizagem inteligente! Baixe o aplicativo agora! </b><br><br>Esteja você com o objetivo de quebrar JEE, NEET, Olympiads, CBSE, ICSE, conselhos estaduais, SAT ou ACT, a equipe Turito está empenhada em garantir que você alcance seus objetivos.<br><br>E sim, a organização evolui continuamente para fornecer a você uma experiência de aprendizado impactante e, portanto, continuamos adicionando no aplicativo.<br><br>O que você está esperando? <b> Baixe o aplicativo </b> e comece sua incrível jornada de aprendizado. 🎓🏆",
+      "summary": "Aulas em vídeo ao vivo e sessões de treinamento on-line para o 11º, 12º IIT / JEE &amp; NEET",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 77539,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.yuppmaster",
+      "url": "https://play.google.com/store/apps/details?id=com.yuppmaster&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Knight Tour Trainer",
+      "description": "Knight Tour Trainer é um jogo de quebra-cabeça lógico inspirado no clássico problema do passeio do cavalo no xadrez.\n\nO objetivo é simples: mover um cavalo pelo tabuleiro de forma que cada casa seja visitada exatamente uma vez. O desafio aumenta conforme o tamanho do tabuleiro muda, exigindo planejamento, concentração e raciocínio lógico.\n\nRecursos:\n• Jogabilidade clássica do problema do passeio do cavalo\n• Diferentes tamanhos de tabuleiro e níveis de dificuldade\n• Interface limpa e sem distrações\n• Sem anúncios na versão atual\n\nKnight Tour Trainer foi desenvolvido para jogadores que apreciam jogos de quebra-cabeça tranquilos e desafios lógicos.",
+      "descriptionHTML": "Knight Tour Trainer é um jogo de quebra-cabeça lógico inspirado no clássico problema do passeio do cavalo no xadrez.<br><br>O objetivo é simples: mover um cavalo pelo tabuleiro de forma que cada casa seja visitada exatamente uma vez. O desafio aumenta conforme o tamanho do tabuleiro muda, exigindo planejamento, concentração e raciocínio lógico.<br><br>Recursos:<br>• Jogabilidade clássica do problema do passeio do cavalo<br>• Diferentes tamanhos de tabuleiro e níveis de dificuldade<br>• Interface limpa e sem distrações<br>• Sem anúncios na versão atual<br><br>Knight Tour Trainer foi desenvolvido para jogadores que apreciam jogos de quebra-cabeça tranquilos e desafios lógicos.",
+      "summary": "Um jogo de lógica baseado no clássico desafio do passeio do cavaleiro.",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 88,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.vmd.KnightTourApp",
+      "url": "https://play.google.com/store/apps/details?id=com.vmd.KnightTourApp&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "terneo",
+      "description": "Operar o seu Wi-Fi controlador de aquecimento terneo ™, onde quer que esteja - na cama, a bordo ou, no outro extremo do mundo. Use seu tempo-programação diária para economizar eletricidade. Alcançar o conforto impecável dentro de portas, graças às configurações de largura!\n\nOperar todas Wireless Aquecimento CONTROLADORES TERNEO ™ em um aplicativo. Você pode adicionar qualquer quantidade de dispositivos à sua conta. Mesmo se eles estão em salas diferentes. Mesmo se eles estão em casas diferentes. Você não quer personalizar cada controlador de aquecimento separadamente? Basta copiar configurações de um controlador de aquecimento para outro.\n\nIMPLEMENTAÇÃO DE AQUECIMENTO acordo com sua programação. Você pode adicionar até 16 intervalos de temperatura para cada dia.\n\nESTATÍSTICAS da dinâmica de aquecimento por dia, semana, mês ou ano. Analisar dados aquecimento passado e optimizar o programa de aquecimento no futuro.\n\nSAÍDA. Horário início de aquecimento a data de seu retorno das férias. Durante sua ausência, o controlador terneo aquecimento manterá set temperatura economia.\n\nInterface intuitiva. Período de serviço do dispositivo no modo de economia é destacada em verde, e o tempo de manter uma temperatura confortável é destaque amarelo e laranja.",
+      "descriptionHTML": "Operar o seu Wi-Fi controlador de aquecimento terneo ™, onde quer que esteja - na cama, a bordo ou, no outro extremo do mundo. Use seu tempo-programação diária para economizar eletricidade. Alcançar o conforto impecável dentro de portas, graças às configurações de largura!<br><br>Operar todas Wireless Aquecimento CONTROLADORES TERNEO ™ em um aplicativo. Você pode adicionar qualquer quantidade de dispositivos à sua conta. Mesmo se eles estão em salas diferentes. Mesmo se eles estão em casas diferentes. Você não quer personalizar cada controlador de aquecimento separadamente? Basta copiar configurações de um controlador de aquecimento para outro.<br><br>IMPLEMENTAÇÃO DE AQUECIMENTO acordo com sua programação. Você pode adicionar até 16 intervalos de temperatura para cada dia.<br><br>ESTATÍSTICAS da dinâmica de aquecimento por dia, semana, mês ou ano. Analisar dados aquecimento passado e optimizar o programa de aquecimento no futuro.<br><br>SAÍDA. Horário início de aquecimento a data de seu retorno das férias. Durante sua ausência, o controlador terneo aquecimento manterá set temperatura economia.<br><br>Interface intuitiva. Período de serviço do dispositivo no modo de economia é destacada em verde, e o tempo de manter uma temperatura confortável é destaque amarelo e laranja.",
+      "summary": "terneo - sistema de controle remoto de aquecimento eléctrico",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 40745,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Casa e decoração",
+      "genreId": "HOUSE_AND_HOME",
+      "categories": [
+        {
+          "name": "Casa e decoração",
+          "id": "HOUSE_AND_HOME"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hmarex.terneo",
+      "url": "https://play.google.com/store/apps/details?id=com.hmarex.terneo&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Crosstour",
+      "description": "Assistente de câmera de ação CROSSTOUR\n\nFácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,\nUsado para seus esportes e atividades ao ar livre.\n\nAgora mesmo!\nSinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,\nconecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,\ngerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.\nCrosstour, com você para desfrutar de uma vida melhor.\nEsperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.\n\nA Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.\nEsperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,\nContinuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.\n\nDispositivo de suporte:\n-CT8500\n-CT9000\n-CT9100\n-CT9500\n-CT9700\n\nCaracterística:\nPré-visualização ao vivo\nControle e configurações da câmera\n-Jogar, baixar, excluir e outras funções de gerenciamento\n- Compartilhamento de vídeo e foto\n-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação\n\nSiga-nos:\nSite: https://www.crosstour.co\nFacebook: https://www.facebook.com/crosstourworld\nTwitter: https://twitter.com/CrosstourCam\nInstagram: http://instagram.com/crosstour_official\nYoutube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "descriptionHTML": "Assistente de câmera de ação CROSSTOUR<br><br>Fácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,<br>Usado para seus esportes e atividades ao ar livre.<br><br>Agora mesmo!<br>Sinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,<br>conecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,<br>gerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.<br>Crosstour, com você para desfrutar de uma vida melhor.<br>Esperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.<br><br>A Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.<br>Esperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,<br>Continuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.<br><br>Dispositivo de suporte:<br>-CT8500<br>-CT9000<br>-CT9100<br>-CT9500<br>-CT9700<br><br>Característica:<br>Pré-visualização ao vivo<br>Controle e configurações da câmera<br>-Jogar, baixar, excluir e outras funções de gerenciamento<br>- Compartilhamento de vídeo e foto<br>-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação<br><br>Siga-nos:<br>Site: https://www.crosstour.co<br>Facebook: https://www.facebook.com/crosstourworld<br>Twitter: https://twitter.com/CrosstourCam<br>Instagram: http://instagram.com/crosstour_official<br>Youtube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "summary": "Assistente de câmera de ação CROSSTOUR",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 58014,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Fotografia",
+      "genreId": "PHOTOGRAPHY",
+      "categories": [
+        {
+          "name": "Fotografia",
+          "id": "PHOTOGRAPHY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.crosstour.actioncamera",
+      "url": "https://play.google.com/store/apps/details?id=com.crosstour.actioncamera&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Tour Expense Manager",
+      "description": "Tour Expense Manager — A maneira mais inteligente de dividir contas de viagem e controlar despesas em grupo\n\nPare de se preocupar com quem pagou o quê. O Tour Expense Manager é o aplicativo definitivo para controlar despesas de viagem e dividir contas entre amigos, famílias e grupos. Seja em uma viagem de carro, férias internacionais ou uma escapada de fim de semana, acompanhe cada centavo, dólar ou euro em um único aplicativo intuitivo.\n\nPOR QUE OS USUÁRIOS ADORAM\n✓ Funciona 100% offline — Não precisa de internet para controlar as despesas\n✓ Divida contas de 6 maneiras — Igual, Exato, Porcentagem, Compartilhamento, Proporcional ou Acerto de Contas\n✓ Multimoedas — 54 moedas globais com taxas de câmbio em tempo real\n✓ Pagamentos inteligentes — Minimiza os pagamentos para que todos acertem as contas mais rápido\n✓ Leitor de recibos — Anexe até 3 fotos por despesa\n✓ Marcação de localização — GPS + nomes reais de lugares (Coimbatore, Goa, Londres...)\n\nPERFEITO PARA\n• Viagens com amigos e viagens em grupo\n• Férias e reuniões familiares\n• Viagens de carro e divisão de combustível\n• Visitas corporativas e passeios em equipe\n• Mochileiros internacionais\n• Viagens em grupo da faculdade\n\nRECURSOS PODEROSOS\n\nControle todas as despesas\nAdicione despesas em segundos com a categorização automática inteligente. Digite \"gasolina\" → seleciona automaticamente Combustível. Digite \"jantar\" → seleção automática de Comida. 7 categorias integradas + categorias personalizadas.\n\n6 Tipos de Divisão Inteligente\nNem todos pagam o mesmo? Sem problemas:\n• Igual — Divisão justa clássica\n• Exato — Insira os valores exatos por pessoa\n• Percentual — Divisão proporcional à renda\n• Partes — 2 partes para adultos, 1 para crianças\n• Proporcional — Divisão baseada no peso\n• Pagar por pessoa — Uma pessoa paga 100%\n\nSuporte a Múltiplas Moedas\nViajando para o exterior? Insira as despesas em qualquer uma das 54 moedas (INR, USD, EUR, GBP, JPY, AED, SGD...) com conversão automática para a moeda base da sua viagem. Taxas de câmbio armazenadas em cache para uso offline.\n\n• Análise Visual\nVeja para onde foi seu dinheiro:\n• Gráfico de pizza por categoria (Alimentação, Combustível, Hospedagem...)\n• Gráfico de barras de gastos diários\n• Detalhamento da contribuição de cada membro\n• Progresso do orçamento com indicador visual\n• Comparação de viagens (qual viagem foi a mais barata?)\n\nLiquidação Inteligente de Dívidas\nNosso algoritmo calcula o número MÍNIMO de pagamentos necessários para quitar todas as dívidas. Chega de confusão com \"você paga a ele, ele paga a ela\". Links de pagamento com um toque para UPI, PayPal, Venmo e Cash App.\n\nGerenciamento de Recibos\nNunca mais perca uma conta. Anexe até 3 fotos de recibos por despesa via câmera ou galeria. Visualize-as em tela cheia com navegação por gestos.\n\nPlanejador de Itinerário\nPlaneje anotações diárias da sua viagem diretamente no aplicativo. Filtre as despesas por dia do itinerário para ver exatamente quanto você gastou no Dia 1 em comparação com o Dia 5.\n\nBackup na Nuvem (Pro)\nFaça login com o Google e faça backup dos seus dados no Google Drive. Backup automático após cada alteração. Restaure a qualquer momento em qualquer dispositivo.\n\nBloqueio Biométrico\nProteja seus dados financeiros com desbloqueio por impressão digital ou reconhecimento facial.\n\nExportar e Compartilhar\nGere relatórios em PDF ou planilhas do Excel com opções personalizáveis. Inclua despesas, saldos, liquidações, itinerário e até imagens de recibos (Pro).\n\nMODELO FREEMIUM\n• Gratuito: Até 3 viagens, com anúncios, backup manual\n• Pro: Viagens ilimitadas, sem anúncios, backup automático, exportação de recibos, suporte prioritário\n\nNÃO É NECESSÁRIO CADASTRO\nComece a monitorar imediatamente. Crie sua primeira viagem em 10 segundos. Faça login posteriormente apenas se desejar backup na nuvem.\n\nPERMISSÕES\n• Localização — Para marcar despesas com GPS (opcional)\n• Câmera — Para capturar fotos de recibos (opcional)\n• Biometria — Para segurança de bloqueio do aplicativo (opcional)\n• Internet — Para taxas de câmbio e backup na nuvem (opcional, funciona offline)\n\nIDIOMAS SUPORTADOS\nInglês (mais em breve)\n\nBaixe o Tour Expense Manager hoje mesmo e viaje sem estresse!",
+      "descriptionHTML": "Tour Expense Manager — A maneira mais inteligente de dividir contas de viagem e controlar despesas em grupo<br><br>Pare de se preocupar com quem pagou o quê. O Tour Expense Manager é o aplicativo definitivo para controlar despesas de viagem e dividir contas entre amigos, famílias e grupos. Seja em uma viagem de carro, férias internacionais ou uma escapada de fim de semana, acompanhe cada centavo, dólar ou euro em um único aplicativo intuitivo.<br><br>POR QUE OS USUÁRIOS ADORAM<br>✓ Funciona 100% offline — Não precisa de internet para controlar as despesas<br>✓ Divida contas de 6 maneiras — Igual, Exato, Porcentagem, Compartilhamento, Proporcional ou Acerto de Contas<br>✓ Multimoedas — 54 moedas globais com taxas de câmbio em tempo real<br>✓ Pagamentos inteligentes — Minimiza os pagamentos para que todos acertem as contas mais rápido<br>✓ Leitor de recibos — Anexe até 3 fotos por despesa<br>✓ Marcação de localização — GPS + nomes reais de lugares (Coimbatore, Goa, Londres...)<br><br>PERFEITO PARA<br>• Viagens com amigos e viagens em grupo<br>• Férias e reuniões familiares<br>• Viagens de carro e divisão de combustível<br>• Visitas corporativas e passeios em equipe<br>• Mochileiros internacionais<br>• Viagens em grupo da faculdade<br><br>RECURSOS PODEROSOS<br><br>Controle todas as despesas<br>Adicione despesas em segundos com a categorização automática inteligente. Digite &quot;gasolina&quot; → seleciona automaticamente Combustível. Digite &quot;jantar&quot; → seleção automática de Comida. 7 categorias integradas + categorias personalizadas.<br><br>6 Tipos de Divisão Inteligente<br>Nem todos pagam o mesmo? Sem problemas:<br>• Igual — Divisão justa clássica<br>• Exato — Insira os valores exatos por pessoa<br>• Percentual — Divisão proporcional à renda<br>• Partes — 2 partes para adultos, 1 para crianças<br>• Proporcional — Divisão baseada no peso<br>• Pagar por pessoa — Uma pessoa paga 100%<br><br>Suporte a Múltiplas Moedas<br>Viajando para o exterior? Insira as despesas em qualquer uma das 54 moedas (INR, USD, EUR, GBP, JPY, AED, SGD...) com conversão automática para a moeda base da sua viagem. Taxas de câmbio armazenadas em cache para uso offline.<br><br>• Análise Visual<br>Veja para onde foi seu dinheiro:<br>• Gráfico de pizza por categoria (Alimentação, Combustível, Hospedagem...)<br>• Gráfico de barras de gastos diários<br>• Detalhamento da contribuição de cada membro<br>• Progresso do orçamento com indicador visual<br>• Comparação de viagens (qual viagem foi a mais barata?)<br><br>Liquidação Inteligente de Dívidas<br>Nosso algoritmo calcula o número MÍNIMO de pagamentos necessários para quitar todas as dívidas. Chega de confusão com &quot;você paga a ele, ele paga a ela&quot;. Links de pagamento com um toque para UPI, PayPal, Venmo e Cash App.<br><br>Gerenciamento de Recibos<br>Nunca mais perca uma conta. Anexe até 3 fotos de recibos por despesa via câmera ou galeria. Visualize-as em tela cheia com navegação por gestos.<br><br>Planejador de Itinerário<br>Planeje anotações diárias da sua viagem diretamente no aplicativo. Filtre as despesas por dia do itinerário para ver exatamente quanto você gastou no Dia 1 em comparação com o Dia 5.<br><br>Backup na Nuvem (Pro)<br>Faça login com o Google e faça backup dos seus dados no Google Drive. Backup automático após cada alteração. Restaure a qualquer momento em qualquer dispositivo.<br><br>Bloqueio Biométrico<br>Proteja seus dados financeiros com desbloqueio por impressão digital ou reconhecimento facial.<br><br>Exportar e Compartilhar<br>Gere relatórios em PDF ou planilhas do Excel com opções personalizáveis. Inclua despesas, saldos, liquidações, itinerário e até imagens de recibos (Pro).<br><br>MODELO FREEMIUM<br>• Gratuito: Até 3 viagens, com anúncios, backup manual<br>• Pro: Viagens ilimitadas, sem anúncios, backup automático, exportação de recibos, suporte prioritário<br><br>NÃO É NECESSÁRIO CADASTRO<br>Comece a monitorar imediatamente. Crie sua primeira viagem em 10 segundos. Faça login posteriormente apenas se desejar backup na nuvem.<br><br>PERMISSÕES<br>• Localização — Para marcar despesas com GPS (opcional)<br>• Câmera — Para capturar fotos de recibos (opcional)<br>• Biometria — Para segurança de bloqueio do aplicativo (opcional)<br>• Internet — Para taxas de câmbio e backup na nuvem (opcional, funciona offline)<br><br>IDIOMAS SUPORTADOS<br>Inglês (mais em breve)<br><br>Baixe o Tour Expense Manager hoje mesmo e viaje sem estresse!",
+      "summary": "Gerenciador de despesas de grupo e divisão de contas para viagens. Acompanhe, divida e acerte as contas.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 616,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Finanças",
+      "genreId": "FINANCE",
+      "categories": [
+        {
+          "name": "Finanças",
+          "id": "FINANCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.sahoo.tourexpensemanager",
+      "url": "https://play.google.com/store/apps/details?id=com.sahoo.tourexpensemanager&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Rento2D Lite: jogo de dados MP",
+      "description": "Rento2D é a versão Lite do jogo original – otimizada para smartphones mais antigos e máxima duração da bateria.\n\nNessa versão lite não há animações pesadas ou efeitos, e o tabuleiro de jogo é 2D em vez de 3D. \n\nO jogo pode ser jogado por no mínimo 1 e no máximo 8 jogadores\n\nPara ganhar, você precisa aprimorar seus castelos, trocar terras, participar de leilões, girar a roleta da Sorte, entrar em Roletas Russas e, por fim, falir seus amigos. \n\nEsse jogo é multiplayer on-line, isso significa que você pode reunir toda a sua família para jogarem juntos – mesmo se estiverem em continentes diferentes.\n\nO jogo possui suporte a 5 modos de jogabilidade\n- Multiplayer em tempo real\n- Solo – contra nossa inteligência artificial\n- Jogo via WiFI – máximo de 4 jogadores\n- Passar para Jogar – no mesmo dispositivo smart\n- EQUIPES – os jogadores em todos os modos anteriores separados em 2, 3 ou 4 equipes",
+      "descriptionHTML": "Rento2D é a versão Lite do jogo original – otimizada para smartphones mais antigos e máxima duração da bateria.<br><br>Nessa versão lite não há animações pesadas ou efeitos, e o tabuleiro de jogo é 2D em vez de 3D. <br><br>O jogo pode ser jogado por no mínimo 1 e no máximo 8 jogadores<br><br>Para ganhar, você precisa aprimorar seus castelos, trocar terras, participar de leilões, girar a roleta da Sorte, entrar em Roletas Russas e, por fim, falir seus amigos. <br><br>Esse jogo é multiplayer on-line, isso significa que você pode reunir toda a sua família para jogarem juntos – mesmo se estiverem em continentes diferentes.<br><br>O jogo possui suporte a 5 modos de jogabilidade<br>- Multiplayer em tempo real<br>- Solo – contra nossa inteligência artificial<br>- Jogo via WiFI – máximo de 4 jogadores<br>- Passar para Jogar – no mesmo dispositivo smart<br>- EQUIPES – os jogadores em todos os modos anteriores separados em 2, 3 ou 4 equipes",
+      "summary": "Versão 2D lite do clássico jogo de dados - rápido para todos os smartphones",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 776150,
+      "score": 4.5,
+      "scoreText": "4,5",
+      "ratings": 6041,
+      "reviews": 52,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "net.boardgamesonline.Rento2D",
+      "url": "https://play.google.com/store/apps/details?id=net.boardgamesonline.Rento2D&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Litterati - The Global Team Cl",
+      "description": "Litterati é um aplicativo que capacita indivíduos a causar um impacto significativo e mensurável no meio ambiente.\n\nMuito mais do que apenas coletar lixo, a comunidade mundial de usuários de Litterati está construindo o mais poderoso conjunto de dados de multidões sobre o lixo já montado.\n\nEsses dados estão sendo usados ​​para:\n\n* Ajude as cidades a utilizar melhor seus serviços de gerenciamento de resíduos\n* Convença as empresas a mudar suas operações para serem mais sustentáveis\n* Arme indivíduos e organizações com provas para criar mudanças nas políticas governamentais\n\nLitterati também mostra o mapa do seu impacto positivo no meio ambiente\n\nVocê pode participar de desafios de limpeza global e criar desafios em sua comunidade, onde seus amigos, familiares, vizinhos, sistema escolar ou colegas de trabalho podem se unir para tornar sua área saudável, limpa e bonita.\n\nEste planeta que chamamos de lar é um grande lugar para nos mantermos limpos. Todos nós precisamos fazer a nossa parte.\n\nAqui está como o aplicativo Litterati funciona:\n\n* Tire uma foto de cada pedaço de lixo que você coletar e descartar\n* Litterati marcará geograficamente a foto automaticamente para você\n* Nossa ferramenta LitterAI adicionará tags a cada foto da ninhada para você confirmar ou alterar\n* Carregue as fotos no banco de dados Litterati\n* Acompanhe seu impacto pessoal, bem como o impacto total da comunidade Litterati\n\nParticipe hoje da comunidade global de Litterati para fazer parte de mais de 150.000 pessoas em mais de 116 países ao redor do mundo, no esforço combinado de limpar nosso planeta!",
+      "descriptionHTML": "Litterati é um aplicativo que capacita indivíduos a causar um impacto significativo e mensurável no meio ambiente.<br><br>Muito mais do que apenas coletar lixo, a comunidade mundial de usuários de Litterati está construindo o mais poderoso conjunto de dados de multidões sobre o lixo já montado.<br><br>Esses dados estão sendo usados ​​para:<br><br>* Ajude as cidades a utilizar melhor seus serviços de gerenciamento de resíduos<br>* Convença as empresas a mudar suas operações para serem mais sustentáveis<br>* Arme indivíduos e organizações com provas para criar mudanças nas políticas governamentais<br><br>Litterati também mostra o mapa do seu impacto positivo no meio ambiente<br><br>Você pode participar de desafios de limpeza global e criar desafios em sua comunidade, onde seus amigos, familiares, vizinhos, sistema escolar ou colegas de trabalho podem se unir para tornar sua área saudável, limpa e bonita.<br><br>Este planeta que chamamos de lar é um grande lugar para nos mantermos limpos. Todos nós precisamos fazer a nossa parte.<br><br>Aqui está como o aplicativo Litterati funciona:<br><br>* Tire uma foto de cada pedaço de lixo que você coletar e descartar<br>* Litterati marcará geograficamente a foto automaticamente para você<br>* Nossa ferramenta LitterAI adicionará tags a cada foto da ninhada para você confirmar ou alterar<br>* Carregue as fotos no banco de dados Litterati<br>* Acompanhe seu impacto pessoal, bem como o impacto total da comunidade Litterati<br><br>Participe hoje da comunidade global de Litterati para fazer parte de mais de 150.000 pessoas em mais de 116 países ao redor do mundo, no esforço combinado de limpar nosso planeta!",
+      "summary": "A comunidade Litterati está limpando a terra e criando um impacto mais inteligente através dos dados",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 129692,
+      "score": 4.818182,
+      "scoreText": "4,8",
+      "ratings": 629,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.litterati.android",
+      "url": "https://play.google.com/store/apps/details?id=org.litterati.android&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Quiz Art",
+      "description": "App com mais de 3000 questões baseadas em material de provas da CPA-10, CPA-20, CEA e CFP®️.",
+      "descriptionHTML": "App com mais de 3000 questões baseadas em material de provas da CPA-10, CPA-20, CEA e CFP®️.",
+      "summary": "App para intensificar as skills para as provasda CPA-10, CPA-20, CEA e CFP.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 40311,
+      "score": 3.1,
+      "scoreText": "3,1",
+      "ratings": 120,
+      "reviews": 75,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.firedevsolutionsit.quizart",
+      "url": "https://play.google.com/store/apps/details?id=com.firedevsolutionsit.quizart&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Nittio",
+      "description": "A Nittio é a plataforma que une tecnologia, vendas e conexão. Criada por e para produtores de eventos, entrega soluções personalizadas que aumentam a receita e transformam cada evento em uma experiência memorável e rentável.",
+      "descriptionHTML": "A Nittio é a plataforma que une tecnologia, vendas e conexão. Criada por e para produtores de eventos, entrega soluções personalizadas que aumentam a receita e transformam cada evento em uma experiência memorável e rentável.",
+      "summary": "Plataforma que une tecnologia, vendas e conexão",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6897,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.nittio.com.br",
+      "url": "https://play.google.com/store/apps/details?id=app.nittio.com.br&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "µTorrent® Pro - Torrent App",
+      "description": "Encontre torrents e baixe-os diretamente para seu telefone ou tablet, AD-FREE, com o aplicativo oficial uTorrent® Pro para Android - agora com recursos de economia de bateria e desligamento automático.\n\nAtualize para a versão Pro do aplicativo uTorrent® - dos inventores do protocolo uTorrent e do aplicativo uTorrent, o cliente uTorrent é o cliente número 1 de torrent no mundo.\n\nSabemos que você adora mídia - e que não quer estar preso à sua área de trabalho para aproveitá-la. Criamos este prático aplicativo de torrent Android para ajudar você a baixar e reproduzir o que você ama, onde quer que você esteja. E, como o aplicativo uTorrent Pro para Android é novo na loja do Google Play, você pode fazer upgrade com um preço especial inicial.\n\nIncluído no aplicativo Pro:\n✔ Não há anúncios de banner\n✔ Recurso Battery Saver que suspende torrents quando sua bateria fica abaixo de um nível predefinido\n✔ recurso de desligamento automático para economizar bateria + dados. Encerra automaticamente o torrent quando os downloads são feitos e o aplicativo está no fundo\n✔ Menor preço por tempo limitado\n\nMais recursos:\n✔ Belamente leve, design limpo\n✔ Modo somente Wi-Fi para economizar em dados móveis\n✔ Sem limites de velocidade e sem limites de tamanho\n✔ Fácil acesso à sua mídia com bibliotecas de música e vídeo integradas\n✔ Selecione arquivos para download em um torrent para minimizar a pegada de armazenamento\n✔ Melhor audição de música e experiência de visualização de vídeo com players de música e vídeo integrados\n✔ Escolha o local de download do arquivo ao adicionar um torrent\n✔ Baixar torrents e links magnéticos\n✔ Escolha entre excluir somente torrents ou torrents e arquivos\n\nRecursos de bônus:\n✔ Traduções em Pусский, Español, Italiano, Português do Brasil\n✔ O mais recente em tecnologia de torrent core, continuamente atualizado por engenheiros dedicados de core torrent para maximizar o desempenho\n✔ Faça o download de torrents de música e vídeo licenciados e gratuitos dos parceiros de conteúdo do uTorrent, como Moby e Public Enemy-- desde o início.\n✔ Baixou mais de um arquivo de música em um torrent? Reproduz todos de uma só vez como playlist\n✔ Melhorias no desempenho do download e estabilidade. Isso inclui a Prioridade de Pares Canônica (reduz o comprimento do salto entre você e seus pares no enxame de torrentes) e o manuseio mais rápido de dados de link magnético.\n\nFAQs\nVisite esta página: http://help.utorrent.com/\n\nAjuda e Suporte\nVisite o fórum móvel do uTorrent ou uTorrent em https://forum.utorrent.com/forum/8-utorrent-pro/\n\nCurta-nos no Facebook\nhttp://www.facebook.com/uTorrent\n\nSiga-nos no Twitter\nhttp://twitter.com/uTorrent\n\nFeedback\nSeu feedback é muito importante para nós. Por favor, envie-nos um e-mail diretamente para utandroidpro@bittorrent.com se tiver algum problema ou pedido.\n\nA equipe móvel do uTorrent.\n\"Comprometido em construir um futuro sustentável para o conteúdo\".\n\nAo fazer o download ou a utilização do cliente uTorrent ou uTorrent - torrent downloader, você concorda com os Termos de Uso (http://www.uTorrent.com/legal/terms-of-use) e com a Política de Privacidade (http: //www.uTorrent. com / legal / privacidade)",
+      "descriptionHTML": "Encontre torrents e baixe-os diretamente para seu telefone ou tablet, AD-FREE, com o aplicativo oficial uTorrent® Pro para Android - agora com recursos de economia de bateria e desligamento automático.<br><br>Atualize para a versão Pro do aplicativo uTorrent® - dos inventores do protocolo uTorrent e do aplicativo uTorrent, o cliente uTorrent é o cliente número 1 de torrent no mundo.<br><br>Sabemos que você adora mídia - e que não quer estar preso à sua área de trabalho para aproveitá-la. Criamos este prático aplicativo de torrent Android para ajudar você a baixar e reproduzir o que você ama, onde quer que você esteja. E, como o aplicativo uTorrent Pro para Android é novo na loja do Google Play, você pode fazer upgrade com um preço especial inicial.<br><br>Incluído no aplicativo Pro:<br>✔ Não há anúncios de banner<br>✔ Recurso Battery Saver que suspende torrents quando sua bateria fica abaixo de um nível predefinido<br>✔ recurso de desligamento automático para economizar bateria + dados. Encerra automaticamente o torrent quando os downloads são feitos e o aplicativo está no fundo<br>✔ Menor preço por tempo limitado<br><br>Mais recursos:<br>✔ Belamente leve, design limpo<br>✔ Modo somente Wi-Fi para economizar em dados móveis<br>✔ Sem limites de velocidade e sem limites de tamanho<br>✔ Fácil acesso à sua mídia com bibliotecas de música e vídeo integradas<br>✔ Selecione arquivos para download em um torrent para minimizar a pegada de armazenamento<br>✔ Melhor audição de música e experiência de visualização de vídeo com players de música e vídeo integrados<br>✔ Escolha o local de download do arquivo ao adicionar um torrent<br>✔ Baixar torrents e links magnéticos<br>✔ Escolha entre excluir somente torrents ou torrents e arquivos<br><br>Recursos de bônus:<br>✔ Traduções em Pусский, Español, Italiano, Português do Brasil<br>✔ O mais recente em tecnologia de torrent core, continuamente atualizado por engenheiros dedicados de core torrent para maximizar o desempenho<br>✔ Faça o download de torrents de música e vídeo licenciados e gratuitos dos parceiros de conteúdo do uTorrent, como Moby e Public Enemy-- desde o início.<br>✔ Baixou mais de um arquivo de música em um torrent? Reproduz todos de uma só vez como playlist<br>✔ Melhorias no desempenho do download e estabilidade. Isso inclui a Prioridade de Pares Canônica (reduz o comprimento do salto entre você e seus pares no enxame de torrentes) e o manuseio mais rápido de dados de link magnético.<br><br>FAQs<br>Visite esta página: http://help.utorrent.com/<br><br>Ajuda e Suporte<br>Visite o fórum móvel do uTorrent ou uTorrent em https://forum.utorrent.com/forum/8-utorrent-pro/<br><br>Curta-nos no Facebook<br>http://www.facebook.com/uTorrent<br><br>Siga-nos no Twitter<br>http://twitter.com/uTorrent<br><br>Feedback<br>Seu feedback é muito importante para nós. Por favor, envie-nos um e-mail diretamente para utandroidpro@bittorrent.com se tiver algum problema ou pedido.<br><br>A equipe móvel do uTorrent.<br>&quot;Comprometido em construir um futuro sustentável para o conteúdo&quot;.<br><br>Ao fazer o download ou a utilização do cliente uTorrent ou uTorrent - torrent downloader, você concorda com os Termos de Uso (http://www.uTorrent.com/legal/terms-of-use) e com a Política de Privacidade (http: //www.uTorrent. com / legal / privacidade)",
+      "summary": "Encontrar, baixar e jogar torrents com o μTorrent® app Pro oficial",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 517494,
+      "score": 4.696629,
+      "scoreText": "4,7",
+      "ratings": 44117,
+      "reviews": 2202,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Reproduzir e editar vídeos",
+      "genreId": "VIDEO_PLAYERS",
+      "categories": [
+        {
+          "name": "Reproduzir e editar vídeos",
+          "id": "VIDEO_PLAYERS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.utorrent.client.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.utorrent.client.pro&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Business Tour",
+      "description": "A jogada simples e divertida do \"Business Tour\" permite que você venha com muitas estratégias interessantes, venha a acordos com seus rivais e até mesmo entre em conspirações contra outros jogadores. Além disso, o jogo ajuda você a revelar suas qualidades empresariais internas. Precisamente por esta razão, crianças e adultos podem desfrutar desse jogo igualmente.\n\n\"Business Tour\" permite que você jogue um jogo de mesa clássico online com seus amigos. A principal vantagem do \"Business Tour\" é que é fácil aprender a jogar, mas isso não significa que seja fácil de ganhar. Você terá que usar toda a sua bravura e perspicácia empresarial para derrotar adversários reais. Dificuldade e imprevisibilidade tornam o jogo de mesa clássico mais interessante, e a jogabilidade é mais diversificada.\n\nCaracterísticas principais:\n[list][*]Modo online, 2-4 jogadores\n[*]Modo 2x2\n[*]Modo offline com bots\n[*]Modo offline com outros jogadores na mesma tela ou em telas diferentes\n[*]Convide amigos para jogar na mesma mesa\n[*]Tabelas de classificação\n[*]Modo de torneio[/list]",
+      "descriptionHTML": "A jogada simples e divertida do &quot;Business Tour&quot; permite que você venha com muitas estratégias interessantes, venha a acordos com seus rivais e até mesmo entre em conspirações contra outros jogadores. Além disso, o jogo ajuda você a revelar suas qualidades empresariais internas. Precisamente por esta razão, crianças e adultos podem desfrutar desse jogo igualmente.<br><br>&quot;Business Tour&quot; permite que você jogue um jogo de mesa clássico online com seus amigos. A principal vantagem do &quot;Business Tour&quot; é que é fácil aprender a jogar, mas isso não significa que seja fácil de ganhar. Você terá que usar toda a sua bravura e perspicácia empresarial para derrotar adversários reais. Dificuldade e imprevisibilidade tornam o jogo de mesa clássico mais interessante, e a jogabilidade é mais diversificada.<br><br>Características principais:<br>[list][*]Modo online, 2-4 jogadores<br>[*]Modo 2x2<br>[*]Modo offline com bots<br>[*]Modo offline com outros jogadores na mesma tela ou em telas diferentes<br>[*]Convide amigos para jogar na mesma mesa<br>[*]Tabelas de classificação<br>[*]Modo de torneio[/list]",
+      "summary": "Compete in Business Tour: The ultimate online multiplayer board game experience!",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2838432,
+      "score": 4.5531063,
+      "scoreText": "4,6",
+      "ratings": 43517,
+      "reviews": 1264,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiro",
+          "id": "GAME_BOARD"
+        },
+        {
+          "name": "Estratégia abstrata",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Diversos",
+          "id": null
+        },
+        {
+          "name": "Jogos de tabuleiro",
+          "id": null
+        },
+        {
+          "name": "Negócios e profissão",
+          "id": null
+        },
+        {
+          "name": "Império empresarial",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.eightfloor.business.tour.friends.board.dice.free",
+      "url": "https://play.google.com/store/apps/details?id=com.eightfloor.business.tour.friends.board.dice.free&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Tour Londrina",
+      "description": "O MELHOR DE LONDRINA, na palma da sua mão! 😱💙🤩😋 \nCom o Tour, você tem acesso a vouchers e lugares incríveis em Londrina para curtir do café da manhã ao jantar! É a oportunidade perfeita para descobrir novos sabores, conhecer lugares diferentes e viver momentos gostosos com quem você ama. \n\nAqui é simples: você compra um prato participante e ganha outro igual ou de menor valor. Sim, é isso mesmo. \n\nTem café charmoso ☕️, almoço caprichado 🍽️, burger pra matar a vontade 🍔, pizza no meio da semana 🍕, sobremesa daquelas 🍫… opção pra várias ocasiões. \n\nÉ o jeito mais inteligente, prático e delicioso de curtir Londrina, conhecer novos lugares e aproveitar experiências incríveis gastando menos. 💙 \n\n📲 Baixe agora o app do Tour Londrina e comece a usar hoje mesmo. Depois não diz que a gente não avisou… 😉✨ \nwww.tourlondrina.com.br",
+      "descriptionHTML": "O MELHOR DE LONDRINA, na palma da sua mão! 😱💙🤩😋 <br>Com o Tour, você tem acesso a vouchers e lugares incríveis em Londrina para curtir do café da manhã ao jantar! É a oportunidade perfeita para descobrir novos sabores, conhecer lugares diferentes e viver momentos gostosos com quem você ama. <br><br>Aqui é simples: você compra um prato participante e ganha outro igual ou de menor valor. Sim, é isso mesmo. <br><br>Tem café charmoso ☕️, almoço caprichado 🍽️, burger pra matar a vontade 🍔, pizza no meio da semana 🍕, sobremesa daquelas 🍫… opção pra várias ocasiões. <br><br>É o jeito mais inteligente, prático e delicioso de curtir Londrina, conhecer novos lugares e aproveitar experiências incríveis gastando menos. 💙 <br><br>📲 Baixe agora o app do Tour Londrina e comece a usar hoje mesmo. Depois não diz que a gente não avisou… 😉✨ <br>www.tourlondrina.com.br",
+      "summary": "O MELHOR de Londrina, na palma da sua mão!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 26121,
+      "score": 4.5964913,
+      "scoreText": "4,6",
+      "ratings": 57,
+      "reviews": 33,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comer e beber",
+      "genreId": "FOOD_AND_DRINK",
+      "categories": [
+        {
+          "name": "Comer e beber",
+          "id": "FOOD_AND_DRINK"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.tourlondrina",
+      "url": "https://play.google.com/store/apps/details?id=br.com.tourlondrina&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

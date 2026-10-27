@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:07:08.989Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "síndrome de tourette",
+    "key": "sindrome de tourette",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Chouette Tour - Dijon",
+      "description": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!\n\nMergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.\n\nSeja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!\n\nDestaques do aplicativo:\n\n- Rotas interativas pelas ruas de Dijon\n- Fatos históricos e anedotas\n- Realidade aumentada para viajar no tempo\n\nAcessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.\n\nSeja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "descriptionHTML": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!<br><br>Mergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.<br><br>Seja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!<br><br>Destaques do aplicativo:<br><br>- Rotas interativas pelas ruas de Dijon<br>- Fatos históricos e anedotas<br>- Realidade aumentada para viajar no tempo<br><br>Acessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.<br><br>Seja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "summary": "Explore Dijon com trilhas divertidas e realidade aumentada!",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 520,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "fr.chouettetour.chouettetour",
+      "url": "https://play.google.com/store/apps/details?id=fr.chouettetour.chouettetour&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Tinnitus Therapy Lite",
+      "description": "Sound Oasis® é líder mundial em sistemas de terapia de som. Levamos a sério a terapia do zumbido e esperamos que este aplicativo proporcione alívio para seus sintomas de zumbido. Esta versão Lite do aplicativo fornece uma amostra de nossos sons de alívio de zumbido eficazes, um temporizador de reprodução totalmente funcional e gerenciamento de volume suave.\n\nNa versão Pro, há uma grande variedade de sons para escolher e possui um equalizador de 10 bandas que permite personalizar as frequências de som de acordo com suas necessidades pessoais.\n\nComo funciona este aplicativo?\n\nOs sons neste aplicativo podem ser uma ferramenta eficaz para gerenciar seu zumbido usando terapia sonora e mascaramento de som para tornar os sintomas do zumbido menos perceptíveis. Esse efeito de mascaramento pode ser particularmente eficaz à noite, quando o ambiente ao redor é mais silencioso. Ao ouvir sons agradáveis, particularmente sons próximos ao nível de frequência de seus sintomas de zumbido, seu cérebro ouvirá predominantemente o som agradável em vez do ruído irritante do zumbido.\n\nCaracterísticas:\n\n6 SONS INCLUSOS:\n\n- Ruído Marrom\n- Ventoinha\n- Ruído branco de espectro total\n- Surf no oceano com ruído branco\n- Chuva com ruído branco\n- Transmita com Ruído Branco\n\nTEMPORIZADOR DE SESSÃO\n\n- Temporizador de sessão de 5 a 120 minutos com opção de terapia contínua.\n\nGERENCIAMENTO DE VOLUME SOFT-OFF\n\n- Controle de volume total com gerenciamento de volume soft-off.",
+      "descriptionHTML": "Sound Oasis® é líder mundial em sistemas de terapia de som. Levamos a sério a terapia do zumbido e esperamos que este aplicativo proporcione alívio para seus sintomas de zumbido. Esta versão Lite do aplicativo fornece uma amostra de nossos sons de alívio de zumbido eficazes, um temporizador de reprodução totalmente funcional e gerenciamento de volume suave.<br><br>Na versão Pro, há uma grande variedade de sons para escolher e possui um equalizador de 10 bandas que permite personalizar as frequências de som de acordo com suas necessidades pessoais.<br><br>Como funciona este aplicativo?<br><br>Os sons neste aplicativo podem ser uma ferramenta eficaz para gerenciar seu zumbido usando terapia sonora e mascaramento de som para tornar os sintomas do zumbido menos perceptíveis. Esse efeito de mascaramento pode ser particularmente eficaz à noite, quando o ambiente ao redor é mais silencioso. Ao ouvir sons agradáveis, particularmente sons próximos ao nível de frequência de seus sintomas de zumbido, seu cérebro ouvirá predominantemente o som agradável em vez do ruído irritante do zumbido.<br><br>Características:<br><br>6 SONS INCLUSOS:<br><br>- Ruído Marrom<br>- Ventoinha<br>- Ruído branco de espectro total<br>- Surf no oceano com ruído branco<br>- Chuva com ruído branco<br>- Transmita com Ruído Branco<br><br>TEMPORIZADOR DE SESSÃO<br><br>- Temporizador de sessão de 5 a 120 minutos com opção de terapia contínua.<br><br>GERENCIAMENTO DE VOLUME SOFT-OFF<br><br>- Controle de volume total com gerenciamento de volume soft-off.",
+      "summary": "Uma ampla variedade de sons para ajudá-lo a dormir e controlar seu zumbido.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 29315,
+      "score": 4.6,
+      "scoreText": "4,6",
+      "ratings": 96,
+      "reviews": 1,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.soundoasis.tinLiteV2",
+      "url": "https://play.google.com/store/apps/details?id=com.soundoasis.tinLiteV2&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Steady Hands - medidor tremor",
+      "description": "Steady Hands: monitor inteligente de tremor das mãos\n\nViver com tremor pode parecer imprevisível. Steady Hands é um app privado e fácil de usar, criado para ajudar você a acompanhar e entender sintomas relacionados ao Tremor Essencial, à doença de Parkinson ou a tremores gerais das mãos não associados a uma condição médica específica. Usando tecnologia com base científica integrada ao seu smartphone, o Steady Hands gera dados objetivos e confiáveis sobre seus tremores, ajudando você e seu profissional de saúde a tomar decisões mais informadas sobre seus cuidados.\n\nTenha informações mais detalhadas com os principais recursos:\n\n• Análise objetiva do tremor: Vá além das sensações subjetivas. O Steady Hands usa testes simples e guiados para medir seus padrões específicos de tremor, incluindo tremor de repouso, postural (ao manter uma posição) e cinético (durante o movimento).\n\n• Pontuação de estabilidade da mão: Após cada avaliação, receba uma pontuação clara de 1 (tremor extremo, baixa estabilidade) a 10 (sem tremor, estabilidade perfeita). Acompanhe seu progresso, identifique padrões e veja como tratamentos ou mudanças no estilo de vida afetam o tremor ao longo do tempo.\n\n• Reconhecimento avançado de padrões: Algoritmos avançados fornecem uma pontuação de similaridade que indica como as características do seu tremor se comparam a padrões típicos observados no Tremor Essencial e na doença de Parkinson. Isso oferece uma camada adicional de informação personalizada sobre seus sintomas.\n\n• Relatórios para compartilhar com seu médico: Exporte facilmente relatórios detalhados e fáceis de entender para discutir com seu profissional de saúde. Dados objetivos podem tornar as consultas mais produtivas e mostrar claramente seus sintomas entre os atendimentos.\n\nQuem pode se beneficiar?\n• Pessoas que acompanham Tremor Essencial ou doença de Parkinson\n• Cuidadores que buscam acompanhamento objetivo de sintomas\n• Profissionais que dependem de precisão (cirurgiões, arqueiros, atletas) e querem melhorar a estabilidade das mãos\n\nComo funciona:\n• Avaliações por desenho: Trace formas na tela do celular ou no papel para avaliar facilmente o tremor cinético.\n• Testes com sensores: Mantenha o smartphone parado por 30 segundos para medir tremor de repouso e postural.\n• Feedback imediato e claro: Veja seus resultados na hora e acompanhe melhor sua condição.\n\nObservação: Steady Hands é uma ferramenta de bem-estar e monitoramento, não um dispositivo médico autônomo de diagnóstico ou emergência. Consulte sempre profissionais de saúde para avaliações e decisões médicas.\n\nBaixe o Steady Hands hoje e tenha mais controle sobre o acompanhamento do seu tremor!\n[Versão mínima compatível do app: 4.0.12]",
+      "descriptionHTML": "<b>Steady Hands: monitor inteligente de tremor das mãos</b><br><br>Viver com tremor pode parecer imprevisível. <b>Steady Hands</b> é um app privado e fácil de usar, criado para ajudar você a acompanhar e entender sintomas relacionados ao Tremor Essencial, à doença de Parkinson ou a tremores gerais das mãos não associados a uma condição médica específica. Usando tecnologia com base científica integrada ao seu smartphone, o Steady Hands gera dados objetivos e confiáveis sobre seus tremores, ajudando você e seu profissional de saúde a tomar decisões mais informadas sobre seus cuidados.<br><br><b>Tenha informações mais detalhadas com os principais recursos:</b><br><br>• <b>Análise objetiva do tremor:</b> Vá além das sensações subjetivas. O Steady Hands usa testes simples e guiados para medir seus padrões específicos de tremor, incluindo tremor de repouso, postural (ao manter uma posição) e cinético (durante o movimento).<br><br>• <b>Pontuação de estabilidade da mão:</b> Após cada avaliação, receba uma pontuação clara de 1 (tremor extremo, baixa estabilidade) a 10 (sem tremor, estabilidade perfeita). Acompanhe seu progresso, identifique padrões e veja como tratamentos ou mudanças no estilo de vida afetam o tremor ao longo do tempo.<br><br>• <b>Reconhecimento avançado de padrões:</b> Algoritmos avançados fornecem uma pontuação de similaridade que indica como as características do seu tremor se comparam a padrões típicos observados no Tremor Essencial e na doença de Parkinson. Isso oferece uma camada adicional de informação personalizada sobre seus sintomas.<br><br>• <b>Relatórios para compartilhar com seu médico:</b> Exporte facilmente relatórios detalhados e fáceis de entender para discutir com seu profissional de saúde. Dados objetivos podem tornar as consultas mais produtivas e mostrar claramente seus sintomas entre os atendimentos.<br><br><b>Quem pode se beneficiar?</b><br>• Pessoas que acompanham Tremor Essencial ou doença de Parkinson<br>• Cuidadores que buscam acompanhamento objetivo de sintomas<br>• Profissionais que dependem de precisão (cirurgiões, arqueiros, atletas) e querem melhorar a estabilidade das mãos<br><br><b>Como funciona:</b><br>• <b>Avaliações por desenho:</b> Trace formas na tela do celular ou no papel para avaliar facilmente o tremor cinético.<br>• <b>Testes com sensores:</b> Mantenha o smartphone parado por 30 segundos para medir tremor de repouso e postural.<br>• <b>Feedback imediato e claro:</b> Veja seus resultados na hora e acompanhe melhor sua condição.<br><br><i>Observação: Steady Hands é uma ferramenta de bem-estar e monitoramento, não um dispositivo médico autônomo de diagnóstico ou emergência. Consulte sempre profissionais de saúde para avaliações e decisões médicas.</i><br><br><b>Baixe o Steady Hands hoje e tenha mais controle sobre o acompanhamento do seu tremor!</b><br>[Versão mínima compatível do app: 4.0.12]",
+      "summary": "Ferramenta para medir estabilidade da mão e tremor",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 16505,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.vilimed.Stable_hands",
+      "url": "https://play.google.com/store/apps/details?id=com.vilimed.Stable_hands&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Slow Down - Last Longer",
+      "description": "Slow Down é um procedimento multidimensional para tratar a disfunção sexual masculina de alta rápida ou prematura, basicamente um plano de treinamento para conhecer e controlar melhor o seu corpo.\n\nPor meio de vários exercícios naturais:\n\n- Exercícios de relaxamento\n- Respirando\n- Dessensibilização\n- Foco sensorial\n- Stop-start\n\nIsso o ajudará a reduzir seus níveis de ansiedade.\n\nO homem que realiza este tratamento será treinado para controlar seu reflexo de descarga e alcançará uma sexualidade plena e satisfatória tanto individualmente como em casal.\n\nDesenvolva o seu potencial, prolongue ao máximo o seu prazer e transforme os seus encontros numa experiência profunda e poderosa.\n\nPela primeira vez, foi criado um tratamento multimodal em um aplicativo, que lhe indicará e lembrará diariamente cada um dos exercícios que você deve fazer para superar o seu problema, e além disso você pode contar com a ajuda psicossexual prestada por uma equipe altamente especializada. profissional capacitado para esta finalidade.\n\nSlow Down foi criado por fisiologistas e sexologistas para permitir que você conheça e controle melhor seu corpo e mente enquanto treina para superar a urgência de atingir o clímax.",
+      "descriptionHTML": "Slow Down é um procedimento multidimensional para tratar a disfunção sexual masculina de alta rápida ou prematura, basicamente um plano de treinamento para conhecer e controlar melhor o seu corpo.<br><br>Por meio de vários exercícios naturais:<br><br>- Exercícios de relaxamento<br>- Respirando<br>- Dessensibilização<br>- Foco sensorial<br>- Stop-start<br><br>Isso o ajudará a reduzir seus níveis de ansiedade.<br><br>O homem que realiza este tratamento será treinado para controlar seu reflexo de descarga e alcançará uma sexualidade plena e satisfatória tanto individualmente como em casal.<br><br>Desenvolva o seu potencial, prolongue ao máximo o seu prazer e transforme os seus encontros numa experiência profunda e poderosa.<br><br>Pela primeira vez, foi criado um tratamento multimodal em um aplicativo, que lhe indicará e lembrará diariamente cada um dos exercícios que você deve fazer para superar o seu problema, e além disso você pode contar com a ajuda psicossexual prestada por uma equipe altamente especializada. profissional capacitado para esta finalidade.<br><br>Slow Down foi criado por fisiologistas e sexologistas para permitir que você conheça e controle melhor seu corpo e mente enquanto treina para superar a urgência de atingir o clímax.",
+      "summary": "Dure mais tempo, aproveite mais",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 33031,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.slowdown.app",
+      "url": "https://play.google.com/store/apps/details?id=com.slowdown.app&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Alívio do Zumbido: MyPattern",
+      "description": "O zumbido não vai parar. E não precisa.\n\nVocê não pode parar as ondas, mas pode aprender a surfá-las. O MyPattern ajuda seu cérebro a mudar a relação com o zumbido: não abafando o som, mas ensinando o cérebro a parar de tratá-lo como um alarme. Isso se chama habituação, e é assim que pessoas com zumbido recuperam sua atenção.\n\nIsto não é um único som em loop. É um programa completo de terapias sonoras e ferramentas mentais moldadas para você e o seu zumbido, junto com a história de por que seu cérebro não solta esse som e como afrouxar esse aperto.\n\n13 TERAPIAS SONORAS EM UM SÓ APP\n\nA maior biblioteca de sons para zumbido em um app, construída sobre abordagens da pesquisa publicada sobre zumbido.\n\n- Terapia Sonora com Notch (a clássica, baseada na pesquisa de Pantev 2010)\n- S Tones (estimulação por pulsos de 40 Hz)\n- Acoustic Coordinated Reset (dessincronização no estilo Tass)\n- CAABT, DFCRS, treinamento de discriminação auditiva\n- Personalizadas para o tom do seu zumbido\n\n...e mais\n\nCada ouvido é diferente. Explore a biblioteca, encontre o som que suaviza o seu e troque quando quiser.\n\nPERSONALIZADO EM MINUTOS\n\nUm teste de 60 segundos identifica a frequência, o tipo e a intensidade do seu zumbido. Suas terapias são ajustadas para você, não um padrão igual para todos.\n\nUM PROGRAMA QUE RECONSTRÓI SUA PAZ, DIA APÓS DIA\n\nA espinha dorsal do MyPattern é a TCC, a abordagem com a pesquisa mais sólida por trás. Lições diárias e curtas que se constroem umas sobre as outras, como os hábitos.\n\n- Lições em áudio sobre como o zumbido realmente funciona\n- Exercícios para estresse, sono e ansiedade\n- Check-ins diários para perceber o quanto você avançou\n- Conteúdo novo com frequência: sua prática se aprofunda com o tempo\n\nALÍVIO FÍSICO PARA OS PICOS\n\nÀs vezes o ruído aumenta com a tensão na mandíbula ou no pescoço. O MyPattern inclui exercícios práticos para soltá-la.\n\n- Tapping occipital\n- Inclinações laterais de pescoço sentado\n- Massagem no mastoide\n- Liberação da mandíbula (ATM)\n\nFERRAMENTAS SOS PARA OS MOMENTOS DIFÍCEIS\n\nPico às 3 da manhã? Sem foco? Sobrecarregado? Toque em SOS. Respiração guiada, exercícios de aterramento e áudios calmantes para atravessar a tempestade até ela passar. Porque ela passa.\n\nMILO, SEU COMPANHEIRO DE IA PARA O ZUMBIDO\n\nPergunte qualquer coisa sobre o seu zumbido, suas terapias ou os pensamentos que vêm com o ruído. O Milo se baseia em pesquisa publicada sobre zumbido, não em papo genérico de IA. O Milo é um assistente de IA e não dá conselhos médicos.\n\nPAISAGENS SONORAS PARA DORMIR\n\nChuva leve, trovões distantes, noite de verão, sonhos cósmicos. Paisagens sonoras feitas para ouvidos com zumbido, criadas para fazer companhia até o sono chegar.\n\nPROGRESSO QUE VOCÊ PODE VER\n\nSua sequência, seu tempo de terapia, suas tendências, seu calendário. A habituação é lenta como as estações do ano. Você não vê a mudança de um dia para o outro. Até que uma tarde você percebe que esqueceu de procurar o som.\n\nA CIÊNCIA, SIMPLIFICADA\n\nEm algum momento, seu cérebro arquivou esse som como ameaça. Por isso ele parece tão alto, tão urgente, tão impossível de ignorar. O MyPattern ajuda você a arquivá-lo de novo: de alarme a papel de parede, de sirene a tique-taque de relógio. O som pode ficar. A luta não precisa.\n\nIsso não acontece da noite para o dia. Exige prática diária. É exatamente para isso que o app foi feito.\n\nIMPORTANTE: O MyPattern não é um dispositivo médico e não se destina a diagnosticar, tratar, curar ou prevenir qualquer doença ou condição médica. Não substitui o acompanhamento profissional. Consulte um profissional de saúde qualificado sobre zumbido ou sintomas auditivos, especialmente se forem novos ou estiverem mudando.\n\nTermos e condições / EULA: https://www.mypattern.app/terms\nPolítica de privacidade: https://www.mypattern.app/privacy",
+      "descriptionHTML": "O zumbido não vai parar. E não precisa.<br><br>Você não pode parar as ondas, mas pode aprender a surfá-las. O MyPattern ajuda seu cérebro a mudar a relação com o zumbido: não abafando o som, mas ensinando o cérebro a parar de tratá-lo como um alarme. Isso se chama habituação, e é assim que pessoas com zumbido recuperam sua atenção.<br><br>Isto não é um único som em loop. É um programa completo de terapias sonoras e ferramentas mentais moldadas para você e o seu zumbido, junto com a história de por que seu cérebro não solta esse som e como afrouxar esse aperto.<br><br>13 TERAPIAS SONORAS EM UM SÓ APP<br><br>A maior biblioteca de sons para zumbido em um app, construída sobre abordagens da pesquisa publicada sobre zumbido.<br><br>- Terapia Sonora com Notch (a clássica, baseada na pesquisa de Pantev 2010)<br>- S Tones (estimulação por pulsos de 40 Hz)<br>- Acoustic Coordinated Reset (dessincronização no estilo Tass)<br>- CAABT, DFCRS, treinamento de discriminação auditiva<br>- Personalizadas para o tom do seu zumbido<br><br>...e mais<br><br>Cada ouvido é diferente. Explore a biblioteca, encontre o som que suaviza o seu e troque quando quiser.<br><br>PERSONALIZADO EM MINUTOS<br><br>Um teste de 60 segundos identifica a frequência, o tipo e a intensidade do seu zumbido. Suas terapias são ajustadas para você, não um padrão igual para todos.<br><br>UM PROGRAMA QUE RECONSTRÓI SUA PAZ, DIA APÓS DIA<br><br>A espinha dorsal do MyPattern é a TCC, a abordagem com a pesquisa mais sólida por trás. Lições diárias e curtas que se constroem umas sobre as outras, como os hábitos.<br><br>- Lições em áudio sobre como o zumbido realmente funciona<br>- Exercícios para estresse, sono e ansiedade<br>- Check-ins diários para perceber o quanto você avançou<br>- Conteúdo novo com frequência: sua prática se aprofunda com o tempo<br><br>ALÍVIO FÍSICO PARA OS PICOS<br><br>Às vezes o ruído aumenta com a tensão na mandíbula ou no pescoço. O MyPattern inclui exercícios práticos para soltá-la.<br><br>- Tapping occipital<br>- Inclinações laterais de pescoço sentado<br>- Massagem no mastoide<br>- Liberação da mandíbula (ATM)<br><br>FERRAMENTAS SOS PARA OS MOMENTOS DIFÍCEIS<br><br>Pico às 3 da manhã? Sem foco? Sobrecarregado? Toque em SOS. Respiração guiada, exercícios de aterramento e áudios calmantes para atravessar a tempestade até ela passar. Porque ela passa.<br><br>MILO, SEU COMPANHEIRO DE IA PARA O ZUMBIDO<br><br>Pergunte qualquer coisa sobre o seu zumbido, suas terapias ou os pensamentos que vêm com o ruído. O Milo se baseia em pesquisa publicada sobre zumbido, não em papo genérico de IA. O Milo é um assistente de IA e não dá conselhos médicos.<br><br>PAISAGENS SONORAS PARA DORMIR<br><br>Chuva leve, trovões distantes, noite de verão, sonhos cósmicos. Paisagens sonoras feitas para ouvidos com zumbido, criadas para fazer companhia até o sono chegar.<br><br>PROGRESSO QUE VOCÊ PODE VER<br><br>Sua sequência, seu tempo de terapia, suas tendências, seu calendário. A habituação é lenta como as estações do ano. Você não vê a mudança de um dia para o outro. Até que uma tarde você percebe que esqueceu de procurar o som.<br><br>A CIÊNCIA, SIMPLIFICADA<br><br>Em algum momento, seu cérebro arquivou esse som como ameaça. Por isso ele parece tão alto, tão urgente, tão impossível de ignorar. O MyPattern ajuda você a arquivá-lo de novo: de alarme a papel de parede, de sirene a tique-taque de relógio. O som pode ficar. A luta não precisa.<br><br>Isso não acontece da noite para o dia. Exige prática diária. É exatamente para isso que o app foi feito.<br><br>IMPORTANTE: O MyPattern não é um dispositivo médico e não se destina a diagnosticar, tratar, curar ou prevenir qualquer doença ou condição médica. Não substitui o acompanhamento profissional. Consulte um profissional de saúde qualificado sobre zumbido ou sintomas auditivos, especialmente se forem novos ou estiverem mudando.<br><br>Termos e condições / EULA: https://www.mypattern.app/terms<br>Política de privacidade: https://www.mypattern.app/privacy",
+      "summary": "Alívio do zumbido com terapia sonora e habituação comprovadas cientificamente.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3775,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.st14x.mypattern",
+      "url": "https://play.google.com/store/apps/details?id=com.st14x.mypattern&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Dtocantins",
+      "description": "Navegue pelo catálogo de produtos da  Distribuidora Tocantins e realize seus pedidos com total praticidade.\nAcompanhe seus pedidos, tenha acesso às suas notas fiscais e segunda-via de boletos.",
+      "descriptionHTML": "Navegue pelo catálogo de produtos da  Distribuidora Tocantins e realize seus pedidos com total praticidade.<br>Acompanhe seus pedidos, tenha acesso às suas notas fiscais e segunda-via de boletos.",
+      "summary": "Aplicativo de compras da Distribuidora Tocantins",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 898,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.dtocantins",
+      "url": "https://play.google.com/store/apps/details?id=br.com.dtocantins&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "KineStop: Adeus enjôo",
+      "description": "Você sofre de enjôo quando viaja? Este aplicativo será muito útil quando você estiver sofrendo desse sintoma.\n\nATUALIZAÇÃO: Embora os usuários do Android tenham desfrutado de uma experiência livre de enjoo com esse aplicativo por anos desde 2018, o mesmo conceito está chegando ao Apple iOS com o Vehicle Motion Cues.\n\n👉 Para evitar que o layout pare ou desapareça, desative todas as otimizações do sistema e permita que o aplicativo seja executado em segundo plano.\nAcesse https://dontkillmyapp.com/ para obter detalhes e guias.\n\nO enjôo acontece quando você viaja de carro, barco, avião. É um conflito entre os sinais de seus ouvidos e olhos.\nEsse processo faz com que uma toxina seja produzida em seu mecanismo de defesa. O que pode deixá-lo tonto, cansado e com náuseas.\n\nKineStop sincroniza seu ouvido com seus olhos simulando um horizonte e com a ajuda do movimento real do celular de seu filho.\n\nDemora alguns minutos para que os sintomas desapareçam. O melhor de tudo é que funciona e sem nenhum tipo de medicamento, o que pode causar diversos efeitos adversos, como por exemplo: sonolência.\"\n\nComo funciona?\n\nKineStop ajuda a curar o enjoo de movimentopara que você possa ler e assistir a filmes em suas viagens sem se sentir mal.\n\nO enjoo ocorre em viagens de carro, avião ou barco. Causa tontura, que geralmente passa assim que o movimento termina.\nQuando isso acontece, os sintomas mais comuns são fadiga, mal-estar, tontura e vômito.\n\nKineStop sincroniza seu ouvido com seus olhos simulando um horizonte e com a ajuda do movimento real do celular de seu filho.\n\nDemora alguns minutos para que os sintomas desapareçam. O melhor de tudo é que funciona e sem nenhum tipo de medicamento, o que pode causar diversos efeitos adversos, como por exemplo: sonolência.\n\nServiço de Acessibilidade\n\nPara exibir sinais de movimento em toda a tela, incluindo barras, notificações e tela de bloqueio, o aplicativo pode solicitar a ativação do serviço de acessibilidade KineStop. O aplicativo utiliza este serviço exclusivamente para melhorar a usabilidade do app e o efeito contra o enjoo de movimento (cinetose), e não coleta, armazena ou compartilha qualquer informação pessoal.",
+      "descriptionHTML": "Você sofre de enjôo quando viaja? Este aplicativo será muito útil quando você estiver sofrendo desse sintoma.<br><br>ATUALIZAÇÃO: Embora os usuários do Android tenham desfrutado de uma experiência livre de enjoo com esse aplicativo por anos desde 2018, o mesmo conceito está chegando ao Apple iOS com o Vehicle Motion Cues.<br><br>👉 Para evitar que o layout pare ou desapareça, desative todas as otimizações do sistema e permita que o aplicativo seja executado em segundo plano.<br>Acesse https://dontkillmyapp.com/ para obter detalhes e guias.<br><br>O enjôo acontece quando você viaja de carro, barco, avião. É um conflito entre os sinais de seus ouvidos e olhos.<br>Esse processo faz com que uma toxina seja produzida em seu mecanismo de defesa. O que pode deixá-lo tonto, cansado e com náuseas.<br><br>KineStop sincroniza seu ouvido com seus olhos simulando um horizonte e com a ajuda do movimento real do celular de seu filho.<br><br>Demora alguns minutos para que os sintomas desapareçam. O melhor de tudo é que funciona e sem nenhum tipo de medicamento, o que pode causar diversos efeitos adversos, como por exemplo: sonolência.&quot;<br><br>Como funciona?<br><br>KineStop ajuda a curar o enjoo de movimentopara que você possa ler e assistir a filmes em suas viagens sem se sentir mal.<br><br>O enjoo ocorre em viagens de carro, avião ou barco. Causa tontura, que geralmente passa assim que o movimento termina.<br>Quando isso acontece, os sintomas mais comuns são fadiga, mal-estar, tontura e vômito.<br><br>KineStop sincroniza seu ouvido com seus olhos simulando um horizonte e com a ajuda do movimento real do celular de seu filho.<br><br>Demora alguns minutos para que os sintomas desapareçam. O melhor de tudo é que funciona e sem nenhum tipo de medicamento, o que pode causar diversos efeitos adversos, como por exemplo: sonolência.<br><br><b>Serviço de Acessibilidade</b><br><br>Para exibir sinais de movimento em toda a tela, incluindo barras, notificações e tela de bloqueio, o aplicativo pode solicitar a ativação do serviço de acessibilidade KineStop. O aplicativo utiliza este serviço exclusivamente para melhorar a usabilidade do app e o efeito contra o enjoo de movimento (cinetose), e não coleta, armazena ou compartilha qualquer informação pessoal.",
+      "summary": "KineStop ajuda a curar o enjoo de movimentopara que",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1448746,
+      "score": 4.929348,
+      "scoreText": "4,9",
+      "ratings": 15053,
+      "reviews": 512,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.urbandroid.kinestop",
+      "url": "https://play.google.com/store/apps/details?id=com.urbandroid.kinestop&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Motor Otto de quatro tempos 3D",
+      "description": "Motor Otto de quatro tempos\nEsta animação apresenta o tipo de motor mais comumente utilizado em automóveis.\n\nCom as nossas apps, a aprendizagem torna-se uma experiência divertida.\n\nAs nossas cenas 3D foram desenhadas para alunos com idades entre os 8 e os 18 anos mas podem interessar a toda a gente.\n\n\nLínguas disponíveis:  English, American English, Deutsch, Français, Español, Русский, العربية, 日本語, 中文, 한국어, Italiano, Português, Svenska, Türkçe, Nederlands, Norsk, Polski, Magyar\n\nCom a mozaik3D App, disponível na loja Google Play, é possível aceder a mais de 1200 cenas 3D semelhantes.\n\n\nMozaik 3D Interativo\nAs nossas cenas completamente interativas podem ser rodadas, ampliadas ou visualizadas a partir de ângulos pré-definidos. Com as visualizações pré-definidas, é possível navegar facilmente através da cena inteira. Algumas das cenas 3D contêm um modo de Passeio, com a ajuda do qual é possível explorar a cena autonomamente. A maioria das nossas cenas 3D contém narrações e animações integradas. Incluem também legendas, exercícios animados divertidos e outros elementos visuais. As cenas 3D ficam disponíveis em várias línguas o que oferece também uma oportunidade de aprender e praticar línguas estrangeiras. \n\nUtilização e navegação\nRode a cena movendo o dedo sobre o ecrã. \nAmplie ou diminue a cena deslizando os dois dedos para perto ou para longe. \nMude o ponto de vista arrastando a cena com três dedos.\nToque nos botões que ficam na parte inferior para mudar entre as visualizações pré-definidas.\nSe for disponível numa visualização específica, utilize o joystick para passear pela cena.\nÉ possível mudar a língua e definir outras funções no menu de contexto.\nO menu de contexto pode ser acedido tocando os cantos inferiores.\nAtive o modo RV apertando o ícone dos óculos RV no canto direito inferior.\nEm modo RV, incline a cabeça para a esquerda ou para a direita para exibir o painel de navegação. Olhe para baixo para ligar ou desligar o movimento durante o Passeio.",
+      "descriptionHTML": "<u><b>Motor Otto de quatro tempos</b></u><br>Esta animação apresenta o tipo de motor mais comumente utilizado em automóveis.<br><br>Com as nossas apps, a aprendizagem torna-se uma experiência divertida.<br><br><b>As nossas cenas 3D foram desenhadas para alunos com idades entre os 8 e os 18 anos mas podem interessar a toda a gente.</b><br><br><br><b>Línguas disponíveis:</b>  English, American English, Deutsch, Français, Español, Русский, العربية, 日本語, 中文, 한국어, Italiano, Português, Svenska, Türkçe, Nederlands, Norsk, Polski, Magyar<br><br><u><b>Com a mozaik3D App, disponível na loja Google Play, é possível aceder a mais de 1200 cenas 3D semelhantes.</b></u><br><br><br><u><b>Mozaik 3D Interativo</b></u><br>As nossas cenas completamente interativas podem ser rodadas, ampliadas ou visualizadas a partir de ângulos pré-definidos. Com as visualizações pré-definidas, é possível navegar facilmente através da cena inteira. Algumas das cenas 3D contêm um modo de Passeio, com a ajuda do qual é possível explorar a cena autonomamente. A maioria das nossas cenas 3D contém narrações e animações integradas. Incluem também legendas, exercícios animados divertidos e outros elementos visuais. As cenas 3D ficam disponíveis em várias línguas o que oferece também uma oportunidade de aprender e praticar línguas estrangeiras. <br><br><u><b>Utilização e navegação</b></u><br>Rode a cena movendo o dedo sobre o ecrã. <br>Amplie ou diminue a cena deslizando os dois dedos para perto ou para longe. <br>Mude o ponto de vista arrastando a cena com três dedos.<br>Toque nos botões que ficam na parte inferior para mudar entre as visualizações pré-definidas.<br>Se for disponível numa visualização específica, utilize o joystick para passear pela cena.<br>É possível mudar a língua e definir outras funções no menu de contexto.<br>O menu de contexto pode ser acedido tocando os cantos inferiores.<br>Ative o modo RV apertando o ícone dos óculos RV no canto direito inferior.<br>Em modo RV, incline a cabeça para a esquerda ou para a direita para exibir o painel de navegação. Olhe para baixo para ligar ou desligar o movimento durante o Passeio.",
+      "summary": "As nossas apps 3D educacionais tornam a aprendizagem uma experiência divertida.",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 7446161,
+      "score": 4.394958,
+      "scoreText": "4,4",
+      "ratings": 35701,
+      "reviews": 1020,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.rendernet.ottoengine",
+      "url": "https://play.google.com/store/apps/details?id=com.rendernet.ottoengine&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Computador de SpanSet",
+      "description": "A calculadora amarração SpanSet ajuda você a carregar diariamente fixação. Esta ferramenta é o cálculo da amarração necessária fácil.",
+      "descriptionHTML": "A calculadora amarração SpanSet ajuda você a carregar diariamente fixação. Esta ferramenta é o cálculo da amarração necessária fácil.",
+      "summary": "A calculadora amarração SpanSet ajuda você a carregar diariamente fixação.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 188172,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "de.spanset.zurrkraft",
+      "url": "https://play.google.com/store/apps/details?id=de.spanset.zurrkraft&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Tying 3D Animated Useful Knots",
+      "description": "Você é um amante da independência e do faça-você-mesmo? Se SIM, você definitivamente precisa aprender a dar todos os nós. Amarrar nós é muito útil em sua vida. Existem muitos tipos de nós que você pode aplicar em trabalhos como plantio de árvores, pesca, construção, serviço militar, ...\n\nAtar Nós - Guias Úteis em 3D da \"Fácil de fazer tudo\" é o aplicativo para aprender a dar nós. De nós de barco, nós de pesca e nós de escalada a amarrar uma gravata ou até mesmo nós cirúrgicos - nós temos tudo sob controle.\n\nAcompanhe enquanto as cordas se amarram, mostrando apenas os passos essenciais, para que você consiga dominar um nó rapidamente. Vá para qualquer categoria para começar. Se você não souber por onde começar, tente começar com o básico.\n\nVocê pode aprender muito sobre como dar nós facilmente com este aplicativo. Os tutoriais são todos animados em 3D, muito claros e fáceis de seguir.\n\n* Muitos nós são classificados por categorias, como:\n- Nós básicos.\n- Nós de ligação.\n- Nós de barco.\n- Nós escalando.\n- Nós de pesca.\n- Nós de reconhecimento.\n- Engata nós.\n- Nós domésticos.\n- Nós de laços.\n- Nós de resgate.\n- Nós de rolhas.\n- Nós cirúrgicos.\n... e relacionado, atualizando continuamente os mais novos nós úteis.\n\n** Principais recursos do aplicativo Tying Knots:\n- Guias animados em 3D passo a passo.\n- Botão Repetir para cada etapa.\n- Descrição de cada tipo de nó.\n- Imagens realistas de cordas permitem que você experimente como a coisa real.",
+      "descriptionHTML": "Você é um amante da independência e do faça-você-mesmo? Se SIM, você definitivamente precisa aprender a dar todos os nós. Amarrar nós é muito útil em sua vida. Existem muitos tipos de nós que você pode aplicar em trabalhos como plantio de árvores, pesca, construção, serviço militar, ...<br><br>Atar Nós - Guias Úteis em 3D da &quot;Fácil de fazer tudo&quot; é o aplicativo para aprender a dar nós. De nós de barco, nós de pesca e nós de escalada a amarrar uma gravata ou até mesmo nós cirúrgicos - nós temos tudo sob controle.<br><br>Acompanhe enquanto as cordas se amarram, mostrando apenas os passos essenciais, para que você consiga dominar um nó rapidamente. Vá para qualquer categoria para começar. Se você não souber por onde começar, tente começar com o básico.<br><br>Você pode aprender muito sobre como dar nós facilmente com este aplicativo. Os tutoriais são todos animados em 3D, muito claros e fáceis de seguir.<br><br>* Muitos nós são classificados por categorias, como:<br>- Nós básicos.<br>- Nós de ligação.<br>- Nós de barco.<br>- Nós escalando.<br>- Nós de pesca.<br>- Nós de reconhecimento.<br>- Engata nós.<br>- Nós domésticos.<br>- Nós de laços.<br>- Nós de resgate.<br>- Nós de rolhas.<br>- Nós cirúrgicos.<br>... e relacionado, atualizando continuamente os mais novos nós úteis.<br><br>** Principais recursos do aplicativo Tying Knots:<br>- Guias animados em 3D passo a passo.<br>- Botão Repetir para cada etapa.<br>- Descrição de cada tipo de nó.<br>- Imagens realistas de cordas permitem que você experimente como a coisa real.",
+      "summary": "Aprenda a dar nós com guias passo a passo e tutoriais animados em 3D",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 43806,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.howtotieallknots",
+      "url": "https://play.google.com/store/apps/details?id=com.howtotieallknots&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Turífico",
+      "description": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.\n\nFuncionalidades Principais para Jornadas Inesquecíveis:\n\nExplore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.\n\nVasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.\n\nAudioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.\n\nAudioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.\n\nInterface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!\n\nComece Sua Aventura Hoje!\n\nBaixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!\n\nExcluir uma conta de aplicativo:\nVocê pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "descriptionHTML": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.<br><br>Funcionalidades Principais para Jornadas Inesquecíveis:<br><br>Explore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.<br><br>Vasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.<br><br>Audioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.<br><br>Audioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.<br><br>Interface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!<br><br>Comece Sua Aventura Hoje!<br><br>Baixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!<br><br>Excluir uma conta de aplicativo:<br>Você pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "summary": "Tours de áudio autoguiados e guias da cidade para cidades, catedrais e museus",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15386,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tourific",
+      "url": "https://play.google.com/store/apps/details?id=com.tourific&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Teste de Narcisismo",
+      "description": "Você busca admiração e reconhecimento?\nOu valoriza mais a empatia e a cooperação?\n\nO Teste de Narcisismo é uma autoavaliação estruturada, desenvolvida para ajudar você a explorar traços de personalidade narcisista de maneira equilibrada e objetiva.\n\nEste teste avalia:\n- Necessidade de ser admirado\n- Senso de superioridade\n- Níveis de empatia\n- Sensibilidade a críticas\n- Estilo de relacionamento interpessoal\n\nAo final do teste, você receberá:\n- Uma pontuação geral clara\n- Análise detalhada dos traços\n- Interpretação dos seus resultados\n- Insights sobre seus padrões de comportamento\n\nOs traços narcisistas existem em um espectro. Compreender sua posição nesse espectro pode aprimorar o autoconhecimento, os relacionamentos e o crescimento pessoal.\n\nRápido. Privado. Revelador.\n\nFaça o teste e tenha uma compreensão mais clara dos seus traços de personalidade.",
+      "descriptionHTML": "Você busca admiração e reconhecimento?<br>Ou valoriza mais a empatia e a cooperação?<br><br>O Teste de Narcisismo é uma autoavaliação estruturada, desenvolvida para ajudar você a explorar traços de personalidade narcisista de maneira equilibrada e objetiva.<br><br>Este teste avalia:<br>- Necessidade de ser admirado<br>- Senso de superioridade<br>- Níveis de empatia<br>- Sensibilidade a críticas<br>- Estilo de relacionamento interpessoal<br><br>Ao final do teste, você receberá:<br>- Uma pontuação geral clara<br>- Análise detalhada dos traços<br>- Interpretação dos seus resultados<br>- Insights sobre seus padrões de comportamento<br><br>Os traços narcisistas existem em um espectro. Compreender sua posição nesse espectro pode aprimorar o autoconhecimento, os relacionamentos e o crescimento pessoal.<br><br>Rápido. Privado. Revelador.<br><br>Faça o teste e tenha uma compreensão mais clara dos seus traços de personalidade.",
+      "summary": "Descubra seus traços narcisistas com esta rápida autoavaliação.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 869,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.byronsd.teste_narcisismo",
+      "url": "https://play.google.com/store/apps/details?id=com.byronsd.teste_narcisismo&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Não Deixe Para Depois",
+      "description": "Não Deixe Para Depois é um aplicativo devocional criado para ajudar você a lutar contra a preguiça e a procrastinação à luz da Palavra de Deus.\n\nBaseado no livro \"Não Deixe Para Depois\", o app oferece reflexões bíblicas práticas que confrontam os desafios do dia a dia e direcionam você para uma vida disciplinada, intencional e centrada em Cristo.\n\nVivemos em uma geração marcada por distrações e falta de foco. Este aplicativo é um convite para transformar sua rotina, usando melhor o tempo que Deus lhe deu e vivendo para Sua glória.\n\nO que você encontrará no app:\n\n• Devocionais diários baseados nas Escrituras\n• Versículos e reflexões práticas para aplicação real\n• Espaço para escrever observações e aprendizados\n• Desafios que incentivam disciplina e constância\n• Ferramentas para organizar sua rotina com propósito\n• Recursos para combater a procrastinação diariamente\n\nMais do que produtividade, este app promove uma vida transformada pela graça de Deus.\n\nNão se trata apenas de fazer mais, mas de viver melhor — com foco, disciplina e propósito eterno.\n\nComece hoje a vencer a procrastinação e a viver de forma intencional diante de Deus.",
+      "descriptionHTML": "Não Deixe Para Depois é um aplicativo devocional criado para ajudar você a lutar contra a preguiça e a procrastinação à luz da Palavra de Deus.<br><br>Baseado no livro &quot;Não Deixe Para Depois&quot;, o app oferece reflexões bíblicas práticas que confrontam os desafios do dia a dia e direcionam você para uma vida disciplinada, intencional e centrada em Cristo.<br><br>Vivemos em uma geração marcada por distrações e falta de foco. Este aplicativo é um convite para transformar sua rotina, usando melhor o tempo que Deus lhe deu e vivendo para Sua glória.<br><br>O que você encontrará no app:<br><br>• Devocionais diários baseados nas Escrituras<br>• Versículos e reflexões práticas para aplicação real<br>• Espaço para escrever observações e aprendizados<br>• Desafios que incentivam disciplina e constância<br>• Ferramentas para organizar sua rotina com propósito<br>• Recursos para combater a procrastinação diariamente<br><br>Mais do que produtividade, este app promove uma vida transformada pela graça de Deus.<br><br>Não se trata apenas de fazer mais, mas de viver melhor — com foco, disciplina e propósito eterno.<br><br>Comece hoje a vencer a procrastinação e a viver de forma intencional diante de Deus.",
+      "summary": "15 dias para desafiar o uso do seu tempo e vencer a procrastinação",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 80,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.base69a55a40fcc1127f4f6fdd40.app",
+      "url": "https://play.google.com/store/apps/details?id=com.base69a55a40fcc1127f4f6fdd40.app&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Rudiments Trainer",
+      "description": "Um aplicativo para treinamento de rudimentos e acentos supervisionado por um instrutor de bateria ativo.\n\nEste aplicativo inclui 39 rudimentos de bateria internacionais, abrangendo todos os 40 rudimentos padrão, exceto o Rolo de Múltiplos Rebotes.\n\nEle também inclui exercícios Accent4 para prática de controle de acentos.\n\nVocê pode ler a partitura, ouvir reproduções de referência e desenvolver sua técnica passo a passo.\n\nEsta grande atualização apresenta uma interface de usuário totalmente redesenhada para uma experiência mais limpa e intuitiva.\n\nO BPM em que você pratica e seu histórico de prática são salvos, para que você possa continuar de onde parou na próxima vez que abrir o aplicativo.\n\nAo fazer login, a sincronização com a nuvem também está disponível para que você possa compartilhar seu progresso com a versão web.\n\nPrincipais recursos:\n- 39 rudimentos de bateria\n- Exercícios de treinamento Accent4\n- Exibição da partitura e reprodução de referência\n- BPM salvo e histórico de prática\n- Sincronização com a nuvem e com a web ao fazer login\n\nDica de prática:\nComece em um andamento lento e concentre-se em movimentos limpos e som consistente.\n\nAssim que sua técnica estiver estável, aumente o BPM aos poucos.\nCom a prática diária, você poderá acompanhar seu progresso e melhorar gradualmente o controle do stick.",
+      "descriptionHTML": "Um aplicativo para treinamento de rudimentos e acentos supervisionado por um instrutor de bateria ativo.<br><br>Este aplicativo inclui 39 rudimentos de bateria internacionais, abrangendo todos os 40 rudimentos padrão, exceto o Rolo de Múltiplos Rebotes.<br><br>Ele também inclui exercícios Accent4 para prática de controle de acentos.<br><br>Você pode ler a partitura, ouvir reproduções de referência e desenvolver sua técnica passo a passo.<br><br>Esta grande atualização apresenta uma interface de usuário totalmente redesenhada para uma experiência mais limpa e intuitiva.<br><br>O BPM em que você pratica e seu histórico de prática são salvos, para que você possa continuar de onde parou na próxima vez que abrir o aplicativo.<br><br>Ao fazer login, a sincronização com a nuvem também está disponível para que você possa compartilhar seu progresso com a versão web.<br><br>Principais recursos:<br>- 39 rudimentos de bateria<br>- Exercícios de treinamento Accent4<br>- Exibição da partitura e reprodução de referência<br>- BPM salvo e histórico de prática<br>- Sincronização com a nuvem e com a web ao fazer login<br><br>Dica de prática:<br>Comece em um andamento lento e concentre-se em movimentos limpos e som consistente.<br><br>Assim que sua técnica estiver estável, aumente o BPM aos poucos.<br>Com a prática diária, você poderá acompanhar seu progresso e melhorar gradualmente o controle do stick.",
+      "summary": "Ferramenta prática que economiza BPM",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15098,
+      "score": 3.75,
+      "scoreText": "3,8",
+      "ratings": 26,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "net.paramusic.rudiments",
+      "url": "https://play.google.com/store/apps/details?id=net.paramusic.rudiments&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Swim Coach: Treinos de Natação",
+      "description": "Swim Coach é o app de treino de natação que oferece sessões divertidas, eficazes e totalmente personalizadas – para piscina, águas abertas e triatlo. Melhore sua técnica, ganhe resistência e nade mais rápido, seja qual for o seu objetivo.\n\nMais de 500.000 nadadores e triatletas no mundo inteiro treinam com o Swim Coach, com sessões motivadoras que nunca se repetem.\n\nComo funciona\n\n Escolha a distância, o foco (força, resistência, técnica, respiração ou completo) e o equipamento. Receba na hora uma sessão de natação estruturada e personalizada. Sincronize com seu relógio Garmin® (via Garmin Connect™), COROS® ou Wear OS™ e nade sem celular – seu treinador vai com você na água. \n\nPor que nadadores escolhem o Swim Coach\n\n Treino de natação personalizado: cada sessão é montada a partir do seu objetivo, nível e equipamento – nunca genérica, nunca repetitiva. Variedade infinita: mais de 50 exercícios de natação com combinações praticamente ilimitadas para acabar com o tédio na piscina. Rastreador e diário de natação: registre suas sessões, acompanhe seu progresso e veja estatísticas detalhadas, incluindo sua velocidade crítica de nado (CSS). Águas abertas e triatlo: da piscina à natação em águas abertas e ao treino de triatlo – sprint, olímpico ou Ironman. Sincronização com smartwatch: transferência perfeita para Garmin, COROS ou Wear OS – nade sem celular enquanto o treinador guia cada série. Sem anúncios e minimalista: design limpo, sem distrações – foco total no seu treino. Para todos: iniciantes ganhando confiança, nadadores masters cortando segundos, triatletas se preparando para a temporada. \n\nDesbloqueie ainda mais com o Swim Coach Pro\n\n Mais de 700 exercícios avançados Sessões específicas por equipamento (paddle, nadadeiras, pull buoy, prancha, snorkel) Planos de treino estruturados, incluindo planos de triatlo de 12 semanas e preparação para provas Registro de tempos de 50m a 1500m Séries de intervalo e controle de ritmo Estatísticas avançadas \n\nCrawl, costas, peito ou borboleta – o Swim Coach gera sessões e exercícios para todos os estilos e níveis.\n\nBaixe o Swim Coach hoje e nade mais rápido amanhã! O companheiro perfeito para a piscina, as águas abertas e seu progresso para a vida toda.",
+      "descriptionHTML": "<p><b>Swim Coach</b> é o app de treino de natação que oferece sessões divertidas, eficazes e totalmente personalizadas – para piscina, águas abertas e triatlo. Melhore sua técnica, ganhe resistência e nade mais rápido, seja qual for o seu objetivo.</p><br><br><p>Mais de <b>500.000 nadadores e triatletas</b> no mundo inteiro treinam com o Swim Coach, com sessões motivadoras que nunca se repetem.</p><br><br><p><b>Como funciona</b></p><br><br><ul> <li>Escolha a distância, o foco (força, resistência, técnica, respiração ou completo) e o equipamento.</li> <li>Receba na hora uma sessão de natação estruturada e personalizada.</li> <li>Sincronize com seu relógio Garmin® (via Garmin Connect™), COROS® ou Wear OS™ e nade sem celular – seu treinador vai com você na água.</li> </ul><br><br><p><b>Por que nadadores escolhem o Swim Coach</b></p><br><br><ul> <li><b>Treino de natação personalizado:</b> cada sessão é montada a partir do seu objetivo, nível e equipamento – nunca genérica, nunca repetitiva.</li> <li><b>Variedade infinita:</b> mais de 50 exercícios de natação com combinações praticamente ilimitadas para acabar com o tédio na piscina.</li> <li><b>Rastreador e diário de natação:</b> registre suas sessões, acompanhe seu progresso e veja estatísticas detalhadas, incluindo sua velocidade crítica de nado (CSS).</li> <li><b>Águas abertas e triatlo:</b> da piscina à natação em águas abertas e ao treino de triatlo – sprint, olímpico ou Ironman.</li> <li><b>Sincronização com smartwatch:</b> transferência perfeita para Garmin, COROS ou Wear OS – nade sem celular enquanto o treinador guia cada série.</li> <li><b>Sem anúncios e minimalista:</b> design limpo, sem distrações – foco total no seu treino.</li> <li><b>Para todos:</b> iniciantes ganhando confiança, nadadores masters cortando segundos, triatletas se preparando para a temporada.</li> </ul><br><br><p><b>Desbloqueie ainda mais com o Swim Coach Pro</b></p><br><br><ul> <li>Mais de 700 exercícios avançados</li> <li>Sessões específicas por equipamento (paddle, nadadeiras, pull buoy, prancha, snorkel)</li> <li>Planos de treino estruturados, incluindo planos de triatlo de 12 semanas e preparação para provas</li> <li>Registro de tempos de 50m a 1500m</li> <li>Séries de intervalo e controle de ritmo</li> <li>Estatísticas avançadas</li> </ul><br><br><p>Crawl, costas, peito ou borboleta – o Swim Coach gera sessões e exercícios para todos os estilos e níveis.</p><br><br><p><b>Baixe o Swim Coach hoje e nade mais rápido amanhã!</b> O companheiro perfeito para a piscina, as águas abertas e seu progresso para a vida toda.</p>",
+      "summary": "Treinos e planos de natação personalizados: piscina, águas abertas e triatlo",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 388613,
+      "score": 4.7647057,
+      "scoreText": "4,8",
+      "ratings": 2777,
+      "reviews": 106,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.gizmodus.myswimcoach",
+      "url": "https://play.google.com/store/apps/details?id=com.gizmodus.myswimcoach&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Mestre em nós",
+      "description": "Knots Master: Aprenda a amarrar mais de 180 nós com nossos tutoriais animados fáceis de seguir. Seja você iniciante ou um especialista em nós, o Knots Master tem algo a ensinar a você.\n\nCaracterísticas:\n\nMais de 180 tutoriais animados que cobrem uma ampla gama de nós, desde o nó de laçada simples até o nó de alça.\nInstruções passo a passo com imagens claras e texto fácil de seguir.\nDicas de segurança para ajudá-lo a amarrar nós com segurança e eficácia.\nPesquisa e filtragem para encontrar o nó que você está procurando rapidamente e facilmente.\nAcesso offline para que você possa aprender nós mesmo quando não tiver conexão com a Internet.\nAprenda nós de qualquer lugar\n\nO Knots Master é a maneira perfeita de aprender nós de qualquer lugar. Com seus tutoriais fáceis de seguir e sua ampla cobertura de tipos de nós, o Knots Master é a ferramenta perfeita para qualquer pessoa que queira aprender a amarrar nós.\n\nBaixe o Knots Master hoje e comece a aprender nós como um profissional!",
+      "descriptionHTML": "Knots Master: Aprenda a amarrar mais de 180 nós com nossos tutoriais animados fáceis de seguir. Seja você iniciante ou um especialista em nós, o Knots Master tem algo a ensinar a você.<br><br>Características:<br><br>Mais de 180 tutoriais animados que cobrem uma ampla gama de nós, desde o nó de laçada simples até o nó de alça.<br>Instruções passo a passo com imagens claras e texto fácil de seguir.<br>Dicas de segurança para ajudá-lo a amarrar nós com segurança e eficácia.<br>Pesquisa e filtragem para encontrar o nó que você está procurando rapidamente e facilmente.<br>Acesso offline para que você possa aprender nós mesmo quando não tiver conexão com a Internet.<br>Aprenda nós de qualquer lugar<br><br>O Knots Master é a maneira perfeita de aprender nós de qualquer lugar. Com seus tutoriais fáceis de seguir e sua ampla cobertura de tipos de nós, o Knots Master é a ferramenta perfeita para qualquer pessoa que queira aprender a amarrar nós.<br><br>Baixe o Knots Master hoje e comece a aprender nós como um profissional!",
+      "summary": "Aprenda mais de 180 técnicas de amarração com animações instrutivas!",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 68796,
+      "score": 4,
+      "scoreText": "4,0",
+      "ratings": 152,
+      "reviews": 9,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "knots3D.knots.tying.guide",
+      "url": "https://play.google.com/store/apps/details?id=knots3D.knots.tying.guide&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Street Diver",
+      "description": "Jogue o mais novo jogo Flip!\n\nSalte de uma incrível variedade de locais, da sua cidadezinha comum à tensão do Velho Oeste ou ao incrível mundo da ficção científica. Há toneladas de níveis para explorar! Pouse em alvos específicos, execute mortais frontais e mortais incríveis para ganhar mais pontos e seja recompensado por colidir!\n\nEXPLORE NOSSO MAPA DA SAGA\n• Complete níveis, ganhe estrelas e avance em nosso mapa da saga\n• Salte de cenários incríveis: do mundo viking a uma cidade no espaço, o universo é o seu playground!\n\nCOMPARTILHE SEUS MOMENTOS MAIS ENGRAÇADOS\n• Seja recompensado por colidir!\n• Compartilhe seus melhores saltos e suas falhas hilárias com seus amigos!\nNosso motor de física ragdoll garantirá momentos memoráveis!\n\nMUITA PERSONALIZAÇÃO E PERSONAGENS PARA DESBLOQUEAR\n• Desbloqueie personagens únicos: Rockstars, esportistas, zumbis, múmias, guerreiros... Mais de 50 personagens para você desbloquear!\n• Misture e combine partes do corpo e crie seu personagem único!\n\n • Novos conteúdos entregues regularmente!\n\n----------------------------------------\n\nEste jogo não requer conexão com a internet e pode ser jogado offline.\nEste jogo inclui compras opcionais dentro do jogo (inclui itens aleatórios).",
+      "descriptionHTML": "Jogue o mais novo jogo Flip!<br><br>Salte de uma incrível variedade de locais, da sua cidadezinha comum à tensão do Velho Oeste ou ao incrível mundo da ficção científica. Há toneladas de níveis para explorar! Pouse em alvos específicos, execute mortais frontais e mortais incríveis para ganhar mais pontos e seja recompensado por colidir!<br><br>EXPLORE NOSSO MAPA DA SAGA<br>• Complete níveis, ganhe estrelas e avance em nosso mapa da saga<br>• Salte de cenários incríveis: do mundo viking a uma cidade no espaço, o universo é o seu playground!<br><br>COMPARTILHE SEUS MOMENTOS MAIS ENGRAÇADOS<br>• Seja recompensado por colidir!<br>• Compartilhe seus melhores saltos e suas falhas hilárias com seus amigos!<br>Nosso motor de física ragdoll garantirá momentos memoráveis!<br><br>MUITA PERSONALIZAÇÃO E PERSONAGENS PARA DESBLOQUEAR<br>• Desbloqueie personagens únicos: Rockstars, esportistas, zumbis, múmias, guerreiros... Mais de 50 personagens para você desbloquear!<br>• Misture e combine partes do corpo e crie seu personagem único!<br><br> • Novos conteúdos entregues regularmente!<br><br>----------------------------------------<br><br>Este jogo não requer conexão com a internet e pode ser jogado offline.<br>Este jogo inclui compras opcionais dentro do jogo (inclui itens aleatórios).",
+      "summary": "O jogo FLIP definitivo!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 11913291,
+      "score": 4.17,
+      "scoreText": "4,2",
+      "ratings": 14176,
+      "reviews": 357,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Esportes",
+      "genreId": "GAME_SPORTS",
+      "categories": [
+        {
+          "name": "Esportes",
+          "id": "GAME_SPORTS"
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Lowpoly",
+          "id": null
+        },
+        {
+          "name": "Boneco de pano",
+          "id": null
+        },
+        {
+          "name": "Imersivo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.miniclip.flipworld",
+      "url": "https://play.google.com/store/apps/details?id=com.miniclip.flipworld&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Trinks Profissional",
+      "description": "Trinks Profissional é a rotina na palma da mão de administradores e profissionais. Sempre online.\n\nIntegrado ao sistema do Trinks, este aplicativo chegou para modernizar e facilitar o dia a dia de salões de beleza, barbearias, clínicas de estética, spas, esmalterias e qualquer outro negócio de beleza e bem-estar. \n\nAcesso fácil e rápido à agenda, controle de comissão e outras funções para cabeleireiros, barbeiros, manicures, esteticistas, massagistas e todos os profissionais da área.\n\nAGENDE SEUS COMPROMISSOS ONLINE\nMarque e visualize seus compromissos (diários, semanais, mensais), lance suas ausências, crie ou edite um serviço na própria agenda e inclua-se como assistente em algum serviço agendado.\n\nTENHA SUA LISTA DE CLIENTES À MÃO\nCadastre ou edite os dados do cliente, envie lembretes via WhatsApp e mensagens de aniversário com apenas um clique.\n\nFECHE A CONTA DO CLIENTE RAPIDAMENTE\nFinalize o atendimento e faça o fechamento de conta com todas as formas de pagamento, opção de adicionar produto, aplicar desconto, editar o preço e o serviço. Tudo fica registrado no sistema.\n\nMONITORE SUAS COMISSÕES\nAcompanhe de forma prática e detalhada as comissões recebidas e descontos oferecidos em cada atendimento. \n\nCHEGA DE ESQUECIMENTOS!\nCom as notificações, ajudamos você a lembrar quando um agendamento for cancelado e também quando o cliente chegar ao salão, solicitar um agendamento online, for aniversariante e mais.\n\nCONTROLE SUAS DESPESAS\nConfira o histórico de entrada e saída e os principais indicadores do seu negócio. No app Trinks Profissional, o administrador monitora toda a movimentação financeira no período que escolher.\n\nGESTÃO DE PROFISSIONAIS A UM CLIQUE \nSomente administradores podem cadastrar ou editar os dados do profissional, definir comissões e visualizar a carteira de todos os profissionais.\n\nPara usar o app Trinks Profissional, basta ter cadastro no sistema Trinks. Se você ainda não tem, cadastre-se em https://www.trinks.com/Login.\n\n*Profissional, caso não seja administrador do estabelecimento, solicite ao administrador o acesso ao aplicativo.\n\nLembre-se: essa é uma versão desenvolvida para os profissionais de beleza e bem-estar. Se deseja encontrar um estabelecimento próximo de você para agendar online um serviço como cliente, baixe o aplicativo “Trinks.com”.",
+      "descriptionHTML": "Trinks Profissional é a rotina na palma da mão de administradores e profissionais. Sempre online.<br><br>Integrado ao sistema do Trinks, este aplicativo chegou para modernizar e facilitar o dia a dia de salões de beleza, barbearias, clínicas de estética, spas, esmalterias e qualquer outro negócio de beleza e bem-estar. <br><br>Acesso fácil e rápido à agenda, controle de comissão e outras funções para cabeleireiros, barbeiros, manicures, esteticistas, massagistas e todos os profissionais da área.<br><br>AGENDE SEUS COMPROMISSOS ONLINE<br>Marque e visualize seus compromissos (diários, semanais, mensais), lance suas ausências, crie ou edite um serviço na própria agenda e inclua-se como assistente em algum serviço agendado.<br><br>TENHA SUA LISTA DE CLIENTES À MÃO<br>Cadastre ou edite os dados do cliente, envie lembretes via WhatsApp e mensagens de aniversário com apenas um clique.<br><br>FECHE A CONTA DO CLIENTE RAPIDAMENTE<br>Finalize o atendimento e faça o fechamento de conta com todas as formas de pagamento, opção de adicionar produto, aplicar desconto, editar o preço e o serviço. Tudo fica registrado no sistema.<br><br>MONITORE SUAS COMISSÕES<br>Acompanhe de forma prática e detalhada as comissões recebidas e descontos oferecidos em cada atendimento. <br><br>CHEGA DE ESQUECIMENTOS!<br>Com as notificações, ajudamos você a lembrar quando um agendamento for cancelado e também quando o cliente chegar ao salão, solicitar um agendamento online, for aniversariante e mais.<br><br>CONTROLE SUAS DESPESAS<br>Confira o histórico de entrada e saída e os principais indicadores do seu negócio. No app Trinks Profissional, o administrador monitora toda a movimentação financeira no período que escolher.<br><br>GESTÃO DE PROFISSIONAIS A UM CLIQUE <br>Somente administradores podem cadastrar ou editar os dados do profissional, definir comissões e visualizar a carteira de todos os profissionais.<br><br>Para usar o app Trinks Profissional, basta ter cadastro no sistema Trinks. Se você ainda não tem, cadastre-se em https://www.trinks.com/Login.<br><br>*Profissional, caso não seja administrador do estabelecimento, solicite ao administrador o acesso ao aplicativo.<br><br>Lembre-se: essa é uma versão desenvolvida para os profissionais de beleza e bem-estar. Se deseja encontrar um estabelecimento próximo de você para agendar online um serviço como cliente, baixe o aplicativo “Trinks.com”.",
+      "summary": "Trinks Profissional é a sua rotina na palma da mão. Acesso 24 horas a sua agenda",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 595711,
+      "score": 4.7983193,
+      "scoreText": "4,8",
+      "ratings": 5954,
+      "reviews": 1863,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Beleza",
+      "genreId": "BEAUTY",
+      "categories": [
+        {
+          "name": "Beleza",
+          "id": "BEAUTY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.trinks.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.trinks.pro&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Crosstour",
+      "description": "Assistente de câmera de ação CROSSTOUR\n\nFácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,\nUsado para seus esportes e atividades ao ar livre.\n\nAgora mesmo!\nSinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,\nconecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,\ngerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.\nCrosstour, com você para desfrutar de uma vida melhor.\nEsperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.\n\nA Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.\nEsperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,\nContinuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.\n\nDispositivo de suporte:\n-CT8500\n-CT9000\n-CT9100\n-CT9500\n-CT9700\n\nCaracterística:\nPré-visualização ao vivo\nControle e configurações da câmera\n-Jogar, baixar, excluir e outras funções de gerenciamento\n- Compartilhamento de vídeo e foto\n-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação\n\nSiga-nos:\nSite: https://www.crosstour.co\nFacebook: https://www.facebook.com/crosstourworld\nTwitter: https://twitter.com/CrosstourCam\nInstagram: http://instagram.com/crosstour_official\nYoutube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "descriptionHTML": "Assistente de câmera de ação CROSSTOUR<br><br>Fácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,<br>Usado para seus esportes e atividades ao ar livre.<br><br>Agora mesmo!<br>Sinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,<br>conecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,<br>gerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.<br>Crosstour, com você para desfrutar de uma vida melhor.<br>Esperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.<br><br>A Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.<br>Esperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,<br>Continuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.<br><br>Dispositivo de suporte:<br>-CT8500<br>-CT9000<br>-CT9100<br>-CT9500<br>-CT9700<br><br>Característica:<br>Pré-visualização ao vivo<br>Controle e configurações da câmera<br>-Jogar, baixar, excluir e outras funções de gerenciamento<br>- Compartilhamento de vídeo e foto<br>-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação<br><br>Siga-nos:<br>Site: https://www.crosstour.co<br>Facebook: https://www.facebook.com/crosstourworld<br>Twitter: https://twitter.com/CrosstourCam<br>Instagram: http://instagram.com/crosstour_official<br>Youtube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "summary": "Assistente de câmera de ação CROSSTOUR",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 58014,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Fotografia",
+      "genreId": "PHOTOGRAPHY",
+      "categories": [
+        {
+          "name": "Fotografia",
+          "id": "PHOTOGRAPHY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.crosstour.actioncamera",
+      "url": "https://play.google.com/store/apps/details?id=com.crosstour.actioncamera&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Ducha e Economize Água",
+      "description": "Gosta de tomar banhos longos? Ajude-se a tomar banhos mais curtos usando um timer de banho que vai te ajudar a se organizar e melhorar ao longo do tempo!\n\nCaracterísticas:\n\nTimer de banho que toca a cada etapa do seu banho.\nOuça músicas no seu app favorito (Spotify, Pandora, Tidal, YouTube Music, etc.) durante o banho sem interrupções!\nO recurso de leitura em voz alta (Text-to-Speech) lê as etapas do seu banho para você, para que saiba em qual etapa está sem precisar olhar!\nAs estatísticas de tempo de banho são registradas.\nEstatísticas do seu consumo de água também são acompanhadas, se você optar por compartilhar!\nNos avise se tiver algum feedback: bathtimerapp@gmail.com\nCompartilhe seu progresso com banhos mais curtos no Twitter: @Bathtimerapp\n\nBathtimer (também conhecido como Timer de Banho) é um timer de banho que ajuda você a tomar banhos mais curtos. Não é só um timer de banho - é um timer de intervalos para o banho! Banhos mais curtos não só economizam seu tempo, mas também economizam água. Se você quer economizar dinheiro ou se mora em uma região afetada pela seca, experimente adicionar um timer de banho à sua rotina!\n\nQuer economizar água? Você pode trocar para um chuveiro de baixo consumo de água, entrar no banho imediatamente ou tomar um banho mais curto com o Bathtimer! Se você deseja adotar um estilo de vida mais sustentável, economizando água, isso pode ser um desafio. Mas, uma vez que você tenha a meta de tomar um banho mais rápido, é necessário um jeito de executar esse plano! Com o Bathtimer, você pode criar um horário de banho previsível, definindo uma rotina para si mesmo, e o timer vai te ajudar a seguir essa rotina.",
+      "descriptionHTML": "Gosta de tomar banhos longos? Ajude-se a tomar banhos mais curtos usando um timer de banho que vai te ajudar a se organizar e melhorar ao longo do tempo!<br><br>Características:<br><br>Timer de banho que toca a cada etapa do seu banho.<br>Ouça músicas no seu app favorito (Spotify, Pandora, Tidal, YouTube Music, etc.) durante o banho sem interrupções!<br>O recurso de leitura em voz alta (Text-to-Speech) lê as etapas do seu banho para você, para que saiba em qual etapa está sem precisar olhar!<br>As estatísticas de tempo de banho são registradas.<br>Estatísticas do seu consumo de água também são acompanhadas, se você optar por compartilhar!<br>Nos avise se tiver algum feedback: bathtimerapp@gmail.com<br>Compartilhe seu progresso com banhos mais curtos no Twitter: @Bathtimerapp<br><br>Bathtimer (também conhecido como Timer de Banho) é um timer de banho que ajuda você a tomar banhos mais curtos. Não é só um timer de banho - é um timer de intervalos para o banho! Banhos mais curtos não só economizam seu tempo, mas também economizam água. Se você quer economizar dinheiro ou se mora em uma região afetada pela seca, experimente adicionar um timer de banho à sua rotina!<br><br>Quer economizar água? Você pode trocar para um chuveiro de baixo consumo de água, entrar no banho imediatamente ou tomar um banho mais curto com o Bathtimer! Se você deseja adotar um estilo de vida mais sustentável, economizando água, isso pode ser um desafio. Mas, uma vez que você tenha a meta de tomar um banho mais rápido, é necessário um jeito de executar esse plano! Com o Bathtimer, você pode criar um horário de banho previsível, definindo uma rotina para si mesmo, e o timer vai te ajudar a seguir essa rotina.",
+      "summary": "Duche na hora, sempre",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 14189,
+      "score": 4.121212,
+      "scoreText": "4,1",
+      "ratings": 213,
+      "reviews": 14,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.briancldo.Bathtimer",
+      "url": "https://play.google.com/store/apps/details?id=com.briancldo.Bathtimer&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

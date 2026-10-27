@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:09:35.863Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "signalement tiques",
+    "key": "signalement tiques",
+    "depth": 1,
+    "parent": "tiques",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Signalement TIQUE",
+      "description": "Ao longo dos anos, as doenças transmitidas por carrapatos se tornaram um grande problema de saúde pública. Várias equipes de cientistas se uniram para pedir a todos os voluntários franceses que participem do esforço de pesquisa, sinalizando em alguns momentos as picadas de carrapatos sofridas por humanos e animais. Uma maneira simples e útil de promover a ciência",
+      "descriptionHTML": "Ao longo dos anos, as doenças transmitidas por carrapatos se tornaram um grande problema de saúde pública. Várias equipes de cientistas se uniram para pedir a todos os voluntários franceses que participem do esforço de pesquisa, sinalizando em alguns momentos as picadas de carrapatos sofridas por humanos e animais. Uma maneira simples e útil de promover a ciência",
+      "summary": "Os relatórios de ticks permitem que você relate mordidas de ticks",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 77152,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.inra.VigiTic",
+      "url": "https://play.google.com/store/apps/details?id=com.inra.VigiTic&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Detector sinal Pro",
+      "description": "Solução completa para sinalizar problemas! Integre funções de telefone celular, estação base, WIFI, Bluetooth, GPS e detecção de campo magnético para rastrear a intensidade do sinal e as informações do dispositivo em tempo real para localizar com precisão o melhor ponto de sinal. Ele também vem com ferramentas poderosas, como consulta de velocidade, posicionamento preciso por GPS, rastreamento de rota e teste PING para atender totalmente às suas necessidades de detecção de sinal. Os dados do sensor estão ao seu alcance e o status do equipamento fica claro rapidamente. Especialista em detecção de sinal, especialista em escolta de comunicação ao seu lado!\n\n【Características】\n\n1. Sinal de telefone celular: detectar a intensidade do sinal do telefone móvel em tempo real, consultar informações do cartão SIM, operadora e outras informações, obter informações de localização da estação base, consultar informações da comunidade de serviço, obter força do sinal da comunidade, lac/tac/ci e outras informações da comunidade , procure informações da comunidade próxima, etc. Serviços de detecção de sinal;\n\n2. Sinal WIFI: Detecte a intensidade do sinal WIFI em tempo real, consulte informações WIFI, como intensidade do sinal, endereço MAC, canal, configuração IP, taxa de conexão e outras informações relacionadas, e obtenha sinal wifi e informações do canal, detecção de segurança wifi, conexão em Informações do dispositivo wifi;\n\n3. Sinal GPS: detecta informações do sinal GPS em tempo real e obtém informações de satélite, incluindo nome de nacionalidade (GPS dos EUA, Beidou chinês, Galileo da UE, GLONASS russo, sistema de satélite Quasi-Zenith japonês, IRNSS indiano), número de satélites, real- hora por satélite Localização, disponibilidade, latitude e longitude, endereço e outras informações;\n\n4. Sinal Bluetooth: detecta a intensidade do sinal Bluetooth em tempo real e obtém informações como o endereço MAC do Bluetooth atualmente conectado. Verifique a lista emparelhada, faça uma varredura para descobrir mais dispositivos e outras funções.\n\n5. Informações do sensor: Obtenha todos os dispositivos sensores disponíveis no dispositivo e leia seu valor atual, potência, precisão e outros dados relacionados em tempo real. E usado para aplicações práticas, como termômetros, bússolas, medidores de luz, barômetros, etc. para medições reais.\n\n6. Velocidade: Usado para consultar a velocidade de movimento do dispositivo atual, direção do movimento, número de satélites e outras informações.\n\n7. Campo magnético: detecção de campo magnético, alarme de limite;\n\n8. Rastreamento de rota: Consulte todos os servidores (rotas) passados do seu próprio endereço IP da Internet para o IP do site de destino. Contagem de saltos, IP, atraso, informações de rede interna e externa. Conveniente para calcular a qualidade atual da rede.\n\n9. Teste PING: teste a quantidade de conexões de rede, teste se o IP da rede alvo é acessível, o número de pacotes perdidos, jitter da rede e outras informações. Suporte à exibição de logs de teste.",
+      "descriptionHTML": "Solução completa para sinalizar problemas! Integre funções de telefone celular, estação base, WIFI, Bluetooth, GPS e detecção de campo magnético para rastrear a intensidade do sinal e as informações do dispositivo em tempo real para localizar com precisão o melhor ponto de sinal. Ele também vem com ferramentas poderosas, como consulta de velocidade, posicionamento preciso por GPS, rastreamento de rota e teste PING para atender totalmente às suas necessidades de detecção de sinal. Os dados do sensor estão ao seu alcance e o status do equipamento fica claro rapidamente. Especialista em detecção de sinal, especialista em escolta de comunicação ao seu lado!<br><br>【Características】<br><br>1. Sinal de telefone celular: detectar a intensidade do sinal do telefone móvel em tempo real, consultar informações do cartão SIM, operadora e outras informações, obter informações de localização da estação base, consultar informações da comunidade de serviço, obter força do sinal da comunidade, lac/tac/ci e outras informações da comunidade , procure informações da comunidade próxima, etc. Serviços de detecção de sinal;<br><br>2. Sinal WIFI: Detecte a intensidade do sinal WIFI em tempo real, consulte informações WIFI, como intensidade do sinal, endereço MAC, canal, configuração IP, taxa de conexão e outras informações relacionadas, e obtenha sinal wifi e informações do canal, detecção de segurança wifi, conexão em Informações do dispositivo wifi;<br><br>3. Sinal GPS: detecta informações do sinal GPS em tempo real e obtém informações de satélite, incluindo nome de nacionalidade (GPS dos EUA, Beidou chinês, Galileo da UE, GLONASS russo, sistema de satélite Quasi-Zenith japonês, IRNSS indiano), número de satélites, real- hora por satélite Localização, disponibilidade, latitude e longitude, endereço e outras informações;<br><br>4. Sinal Bluetooth: detecta a intensidade do sinal Bluetooth em tempo real e obtém informações como o endereço MAC do Bluetooth atualmente conectado. Verifique a lista emparelhada, faça uma varredura para descobrir mais dispositivos e outras funções.<br><br>5. Informações do sensor: Obtenha todos os dispositivos sensores disponíveis no dispositivo e leia seu valor atual, potência, precisão e outros dados relacionados em tempo real. E usado para aplicações práticas, como termômetros, bússolas, medidores de luz, barômetros, etc. para medições reais.<br><br>6. Velocidade: Usado para consultar a velocidade de movimento do dispositivo atual, direção do movimento, número de satélites e outras informações.<br><br>7. Campo magnético: detecção de campo magnético, alarme de limite;<br><br>8. Rastreamento de rota: Consulte todos os servidores (rotas) passados do seu próprio endereço IP da Internet para o IP do site de destino. Contagem de saltos, IP, atraso, informações de rede interna e externa. Conveniente para calcular a qualidade atual da rede.<br><br>9. Teste PING: teste a quantidade de conexões de rede, teste se o IP da rede alvo é acessível, o número de pacotes perdidos, jitter da rede e outras informações. Suporte à exibição de logs de teste.",
+      "summary": "Rastreie a intensidade do sinal e identifique o ponto ideal.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6764,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 246,
+      "reviews": 3,
+      "price": 20.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 20,99",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.lefan.signal.vip",
+      "url": "https://play.google.com/store/apps/details?id=com.lefan.signal.vip&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Detector Anti-Espião: AirTag",
+      "description": "Seu telefone já tem os sensores. O SentryRF os coloca para trabalhar.\n\nO SentryRF é o app de contravigilância com IA comportamental mais avançado para Android. Ele transforma seu telefone em um scanner profissional de WiFi e Bluetooth que detecta rastreadores ocultos, câmeras espiãs, drones, redes WiFi falsas, torres de celular falsas e outras ameaças de vigilância — com IA no próprio aparelho que aprende seu ambiente e melhora com o tempo.\n\n🔍 O QUE ELE ENCONTRA\n━━━━━━━━━━━━━━━━━━\n• Rastreadores ocultos — AirTags, Tile, SmartTags, Chipolo, tags do Google, iBeacons e rastreadores Bluetooth desconhecidos. Identifica dispositivos clonados e falsificados que escondem sua identidade.\n\n• Câmeras espiãs — Câmeras WiFi em redes ocultas, câmeras infravermelhas de visão noturna (detecção de cintilação IR por IA) e eletrônicos escondidos detectados por varredura física com sensores.\n\n• Dispositivos de vigilância — Óculos inteligentes com gravação, drones de vigilância com decodificação de telemetria, leitores de placas e equipamentos de escuta.\n\n• Ameaças de rede — Redes WiFi falsas que imitam as reais, tentativas de manipulação de rede e torres falsas que interceptam suas comunicações.\n\n• Ameaças comportamentais — Dispositivos que seguem você entre lugares, rastreadores plantados no seu carro ou pertences, vigilância coordenada em equipe e visitantes recorrentes no seu endereço.\n\n🛡️ COMO ELE PROTEGE VOCÊ\n━━━━━━━━━━━━━━━━━━━━━━━━\nIA no dispositivo — Vários modelos de IA trabalham juntos para separar ameaças reais de dispositivos inofensivos. A IA aprende com você: marque seus próprios aparelhos como seguros e ela entenderá melhor o que é normal na sua vida.\n\nLocalizador sonoro — Encontrou algo suspeito? O localizador guiado por IA apita mais rápido conforme você se aproxima, ajudando a achar fisicamente rastreadores escondidos em bolsas, veículos ou cômodos.\n\nVarredura física — O magnetômetro do seu telefone detecta eletrônicos escondidos atrás de paredes (câmeras, microfones, dispositivos RF). O microfone capta emissões ultrassônicas de circuitos de câmeras. O sensor de luz, com análise de frequência por IA, detecta iluminação infravermelha invisível de câmeras de visão noturna.\n\nMonitor de rede — Observa passivamente sua conexão WiFi em busca de interceptação, manipulação ou ataques de rede falsa. Sem VPN.\n\nRelatórios de evidência — Gere relatórios PDF à prova de adulteração com verificação criptográfica para a polícia ou processos judiciais. Cada relatório vem com um hash de verificação.\n\n⏱️ SEMPRE VIGILANDO\n━━━━━━━━━━━━━━━━━━━\n• Varredura em segundo plano 24/7, mesmo com o app fechado\n• Alertas instantâneos: som, vibração e notificação\n• Mapa: cada dispositivo detectado com histórico de movimento\n• Zonas seguras: defina áreas confiáveis em casa e no trabalho para reduzir alarmes falsos\n• Linha do tempo: revise meses de histórico para identificar padrões\n• Verificação do veículo: modo dedicado para procurar rastreadores no carro\n• Localização cooperativa com até três telefones e dispositivos WearOS\n\n🔒 100% PRIVADO\n━━━━━━━━━━━━━━━━\nTudo fica no seu telefone. Ponto.\n• Sem servidores na nuvem: toda a IA roda localmente\n• Sem contas: instale e comece a escanear\n• Sem coleta de dados: suas varreduras são só suas\n• Sem telemetria: não sabemos o que você encontra\n• Apague tudo com um toque, quando quiser\n\n👤 PARA QUEM É\n━━━━━━━━━━━━━━━━\nProfissionais de segurança. Sobreviventes de violência doméstica. Jornalistas. Executivos. Viajantes. Pais. Qualquer pessoa que leve a segurança pessoal a sério. Seja verificando um Airbnb em busca de câmeras escondidas ou seu carro em busca de rastreadores GPS, o SentryRF dá a você as ferramentas que os profissionais usam.\n\nPatente pendente — Pedido de patente dos EUA n.º 63/999,630\n\nTeste Pro gratuito de 7 dias. Sem cartão de crédito.",
+      "descriptionHTML": "Seu telefone já tem os sensores. O SentryRF os coloca para trabalhar.<br><br>O SentryRF é o app de contravigilância com IA comportamental mais avançado para Android. Ele transforma seu telefone em um scanner profissional de WiFi e Bluetooth que detecta rastreadores ocultos, câmeras espiãs, drones, redes WiFi falsas, torres de celular falsas e outras ameaças de vigilância — com IA no próprio aparelho que aprende seu ambiente e melhora com o tempo.<br><br>🔍 O QUE ELE ENCONTRA<br>━━━━━━━━━━━━━━━━━━<br>• Rastreadores ocultos — AirTags, Tile, SmartTags, Chipolo, tags do Google, iBeacons e rastreadores Bluetooth desconhecidos. Identifica dispositivos clonados e falsificados que escondem sua identidade.<br><br>• Câmeras espiãs — Câmeras WiFi em redes ocultas, câmeras infravermelhas de visão noturna (detecção de cintilação IR por IA) e eletrônicos escondidos detectados por varredura física com sensores.<br><br>• Dispositivos de vigilância — Óculos inteligentes com gravação, drones de vigilância com decodificação de telemetria, leitores de placas e equipamentos de escuta.<br><br>• Ameaças de rede — Redes WiFi falsas que imitam as reais, tentativas de manipulação de rede e torres falsas que interceptam suas comunicações.<br><br>• Ameaças comportamentais — Dispositivos que seguem você entre lugares, rastreadores plantados no seu carro ou pertences, vigilância coordenada em equipe e visitantes recorrentes no seu endereço.<br><br>🛡️ COMO ELE PROTEGE VOCÊ<br>━━━━━━━━━━━━━━━━━━━━━━━━<br>IA no dispositivo — Vários modelos de IA trabalham juntos para separar ameaças reais de dispositivos inofensivos. A IA aprende com você: marque seus próprios aparelhos como seguros e ela entenderá melhor o que é normal na sua vida.<br><br>Localizador sonoro — Encontrou algo suspeito? O localizador guiado por IA apita mais rápido conforme você se aproxima, ajudando a achar fisicamente rastreadores escondidos em bolsas, veículos ou cômodos.<br><br>Varredura física — O magnetômetro do seu telefone detecta eletrônicos escondidos atrás de paredes (câmeras, microfones, dispositivos RF). O microfone capta emissões ultrassônicas de circuitos de câmeras. O sensor de luz, com análise de frequência por IA, detecta iluminação infravermelha invisível de câmeras de visão noturna.<br><br>Monitor de rede — Observa passivamente sua conexão WiFi em busca de interceptação, manipulação ou ataques de rede falsa. Sem VPN.<br><br>Relatórios de evidência — Gere relatórios PDF à prova de adulteração com verificação criptográfica para a polícia ou processos judiciais. Cada relatório vem com um hash de verificação.<br><br>⏱️ SEMPRE VIGILANDO<br>━━━━━━━━━━━━━━━━━━━<br>• Varredura em segundo plano 24/7, mesmo com o app fechado<br>• Alertas instantâneos: som, vibração e notificação<br>• Mapa: cada dispositivo detectado com histórico de movimento<br>• Zonas seguras: defina áreas confiáveis em casa e no trabalho para reduzir alarmes falsos<br>• Linha do tempo: revise meses de histórico para identificar padrões<br>• Verificação do veículo: modo dedicado para procurar rastreadores no carro<br>• Localização cooperativa com até três telefones e dispositivos WearOS<br><br>🔒 100% PRIVADO<br>━━━━━━━━━━━━━━━━<br>Tudo fica no seu telefone. Ponto.<br>• Sem servidores na nuvem: toda a IA roda localmente<br>• Sem contas: instale e comece a escanear<br>• Sem coleta de dados: suas varreduras são só suas<br>• Sem telemetria: não sabemos o que você encontra<br>• Apague tudo com um toque, quando quiser<br><br>👤 PARA QUEM É<br>━━━━━━━━━━━━━━━━<br>Profissionais de segurança. Sobreviventes de violência doméstica. Jornalistas. Executivos. Viajantes. Pais. Qualquer pessoa que leve a segurança pessoal a sério. Seja verificando um Airbnb em busca de câmeras escondidas ou seu carro em busca de rastreadores GPS, o SentryRF dá a você as ferramentas que os profissionais usam.<br><br>Patente pendente — Pedido de patente dos EUA n.º 63/999,630<br><br>Teste Pro gratuito de 7 dias. Sem cartão de crédito.",
+      "summary": "Detector de rastreadores com IA: AirTags, câmeras espiãs, drones e WiFi falso",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 37412,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.sentryrf",
+      "url": "https://play.google.com/store/apps/details?id=app.sentryrf&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Signal Strength Scanner",
+      "description": "• Detecte e analise facilmente a intensidade do sinal SIM, do sinal Wi-Fi, do sinal Bluetooth, da precisão do GPS do seu telefone e até mesmo meça a intensidade do sinal sonoro do ambiente com esta ferramenta útil. \n\n• Obtenha dados em tempo real sobre a intensidade do sinal e conheça sua conectividade com gráficos detalhados e leituras precisas.\n\nConexão perdida? Sinal fraco? Enfrentando problemas de conectividade? Chamadas perdidas ou Wi-Fi lento? Verifique instantaneamente a intensidade do sinal em tempo real!\n\nPrincipais recursos:\n\n    • Sinal do telefone:meça a força do sinal SIM (dBm) atual para SIMs simples e duplos. Veja informações detalhadas do SIM e detalhes de chamadas próximas e monitore o sinal com gráficos fáceis de ler.\n\n    • Sinal de Wi-Fi:detecta e analisa a força do sinal de Wi-Fi com detalhes de Wi-Fi próximo. Rastreie sua rede Wi-Fi conectada, execute um teste de ping e veja os dispositivos conectados.\n\n    • Sinal Bluetooth: obtenha informações em tempo real sobre a intensidade do sinal de dispositivos Bluetooth próximos, incluindo detalhes adicionais de conexão.\n\n    • Sinal sonoro:monitore a força do sinal sonoro ambiente com um gráfico exibindo os níveis mínimo, médio e máximo. Com isso, o usuário pode ter uma ideia sobre o nível de ruído ao redor e também obter algumas informações sobre como proteger sua audição.\n\n    • Sinal GPS: meça a precisão da força do sinal GPS, garantindo a localização com dados GPS detalhados como latitude, longitude e precisão.\n\nEste aplicativo oferece uma maneira simples de monitorar e melhorar a conexão do seu telefone, seja para telefone, Wi-Fi, Bluetooth ou GPS.\n\nBaixe o aplicativo agora e obtenha informações sobre a conectividade do seu telefone!\n\n\n\tPermissões:\n\n\t1. Leia a permissão do estado do telefone\n\t- Exigimos essa permissão para obter informações de intensidade do sinal do SIM, servindo informações de células e células próximas.\n\n\t2. Permissão de localização\n\t- Exigimos essa permissão para obter detalhes de células próximas, para obter a intensidade do sinal Wi-Fi mais próximo e suas informações, para obter dispositivos Bluetooth próximos e para obter precisão de localização.\n\n\t3. Permissão nas proximidades\n\t- Exigimos esta permissão para digitalizar e descobrir dispositivos Bluetooth próximos.\n\n\t4. Permissão de microfone\n\t- Exigimos esta permissão para detectar a detecção da intensidade do ruído circundante.",
+      "descriptionHTML": "• Detecte e analise facilmente a intensidade do <strong>sinal SIM, do sinal Wi-Fi, do sinal Bluetooth, da precisão do GPS</strong> do seu telefone e até mesmo meça a <strong>intensidade do sinal sonoro</strong> do ambiente com esta ferramenta útil. <br><br>• Obtenha dados em tempo real sobre a intensidade do sinal e conheça sua conectividade com gráficos detalhados e leituras precisas.<br><br><strong>Conexão perdida? Sinal fraco? Enfrentando problemas de conectividade? Chamadas perdidas ou Wi-Fi lento? Verifique instantaneamente a intensidade do sinal em tempo real!</strong><br><br><strong>Principais recursos:</strong><br><br>    • <strong>Sinal do telefone:</strong>meça a <strong>força do sinal SIM</strong> (dBm) atual para SIMs simples e duplos. Veja informações detalhadas do SIM e detalhes de chamadas próximas e monitore o sinal com gráficos fáceis de ler.<br><br>    • <strong>Sinal de Wi-Fi:</strong>detecta e analisa a <strong>força do sinal de Wi-Fi</strong> com detalhes de Wi-Fi próximo. Rastreie sua rede Wi-Fi conectada, execute um teste de ping e veja os dispositivos conectados.<br><br>    • <strong>Sinal Bluetooth:</strong> obtenha informações em tempo real sobre a intensidade do sinal de <strong>dispositivos Bluetooth</strong> próximos, incluindo detalhes adicionais de conexão.<br><br>    • <strong>Sinal sonoro:</strong>monitore a <strong>força do sinal sonoro</strong> ambiente com um gráfico exibindo os níveis mínimo, médio e máximo. Com isso, o usuário pode ter uma ideia sobre o nível de ruído ao redor e também obter algumas informações sobre como proteger sua audição.<br><br>    • <strong>Sinal GPS:</strong> meça a precisão da <strong>força do sinal GPS, </strong>garantindo a localização com dados GPS detalhados como latitude, longitude e precisão.<br><br>Este aplicativo oferece uma maneira simples de monitorar e melhorar a conexão do seu telefone, seja para <strong>telefone, Wi-Fi, Bluetooth ou GPS.</strong><br><br><strong>Baixe o aplicativo agora </strong>e obtenha informações sobre a conectividade do seu telefone!<br><br><br>\t<strong>Permissões:</strong><br><br>\t1. Leia a permissão do estado do telefone<br>\t- Exigimos essa permissão para obter informações de intensidade do sinal do SIM, servindo informações de células e células próximas.<br><br>\t2. Permissão de localização<br>\t- Exigimos essa permissão para obter detalhes de células próximas, para obter a intensidade do sinal Wi-Fi mais próximo e suas informações, para obter dispositivos Bluetooth próximos e para obter precisão de localização.<br><br>\t3. Permissão nas proximidades<br>\t- Exigimos esta permissão para digitalizar e descobrir dispositivos Bluetooth próximos.<br><br>\t4. Permissão de microfone<br>\t- Exigimos esta permissão para detectar a detecção da intensidade do ruído circundante.",
+      "summary": "Monitoramento de sinais SIM, Wi-Fi, Bluetooth, GPS e som.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 99113,
+      "score": 3.7777777,
+      "scoreText": "3,8",
+      "ratings": 618,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.jba.signalscanner",
+      "url": "https://play.google.com/store/apps/details?id=com.jba.signalscanner&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "ClatScope (OSINT)",
+      "description": "📱 ClatScope\n\nKit de Ferramentas OSINT e Cibersegurança Tudo-em-Um\n\nTransforme seu celular em um Centro de Operações de Segurança (SOC) de bolso.\n\nInvestigue IPs, domínios, números de telefone, e-mails e exposições a violações em segundos.\n\n🔍 O que é o ClatScope?\n\nO ClatScope é um kit de ferramentas OSINT e cibersegurança desenvolvido para dispositivos móveis, projetado para investigações rápidas, éticas e práticas — sem linha de comando, sem configurações complexas.\n\nCriado para analistas de segurança, investigadores, jornalistas e usuários preocupados com a privacidade, o ClatScope fornece informações práticas onde quer que você esteja.\n\nEsta versão apresenta uma nova conta, interface modernizada, suporte expandido e grandes melhorias de usabilidade.\n\n🚀 Novidades desta versão\n\n• Interface totalmente redesenhada e mais intuitiva\n• Sistema integrado de suporte e feedback\n• Suporte a vários idiomas com configurações de tradução no aplicativo\n• Modos claro e escuro inteligentes com sincronização do sistema\n• Desempenho aprimorado e cache offline\n• Reconstruído em uma nova conta de desenvolvedor para estabilidade a longo prazo\n\n🔑 Principais benefícios\n\nInteligência rápida e focada em dispositivos móveis\n\nRealize investigações de IP, domínio, telefone e e-mail com um único toque — otimizado para velocidade e clareza.\n\nEnriquecimento multicanal\n\nValide números de telefone, verifique e-mails, correlacione nomes de usuário e revele rastros digitais relacionados.\n\nRelatórios claros e acionáveis\n\nSinalizadores de risco, resumos concisos e exportação com um toque facilitam a compreensão e o compartilhamento dos resultados.\n\nDesign com foco em ética\n\nA transparência na origem dos dados, os limites de uso justo e os fluxos de trabalho com reconhecimento de auditoria promovem o uso responsável.\n\n🧰 Destaques do Recurso\n\nInteligência de IP\nGeolocalização, detecção de ASN, contexto de hospedagem e descoberta de hosts próximos\n\nReconhecimento de Domínio\nWHOIS, DNS reverso, registros MX/SOA/NS, snapshots de certificados SSL\n\nVerificações de Exposição a Violações\nVerificação de e-mails e credenciais em relação a conjuntos de dados de violações conhecidas\n\nOSINT de Telefone\nValidação de formato, pesquisa de operadora, indicadores de país e roaming\n\nRastreamento de Nome de Usuário\nAparências em diversas plataformas, fóruns e sites de compartilhamento de texto\n\nKit de Ferramentas de Privacidade\nGerador de identidade descartável e orientações sobre higiene de IP\n\nInterface Inteligente\nModo claro e escuro, cache offline e consultas repetidas rápidas\n\n💡 Para Quem é Indicado\n\n• Busca de ameaças e análise da superfície de ataque para equipes de segurança\n• Reconhecimento e correlação de alvos para equipes de ataque\n• Investigações de fraude, abuso de marca e engenharia social\n• Verificação de fontes jornalísticas e due diligence\n• Verificações de segurança pessoal antes de clicar em links ou atender chamadas desconhecidas\n\n💳 Preços baseados em tokens (sem assinaturas)\n\nO ClatScope utiliza um sistema de tokens simples e transparente — sem assinaturas, sem cobranças recorrentes.\n\n• As ferramentas principais permanecem disponíveis gratuitamente\n• As pesquisas avançadas e com inteligência artificial utilizam tokens Clats\n• Os tokens são comprados somente quando necessário\n• Os tokens nunca expiram\n• Você mantém o controle total do uso e dos gastos\n\n🤝 Suporte e Feedback\n\nPrecisa de ajuda ou tem uma sugestão de recurso?\n\nRespondemos a todas as mensagens.\n\n📧 clatscope@techie.com\n\nSeu feedback influencia diretamente as atualizações futuras.\n\n⚠️ Aviso importante\n\nEste aplicativo pode não funcionar corretamente se uma VPN ou bloqueador de anúncios estiver ativo.\n\nSe você encontrar problemas, desative-os e tente novamente.\n\nO ClatScope destina-se exclusivamente a fins éticos, educacionais e de pesquisa.\n\nO uso indevido é estritamente proibido.\n\n🕯️ Dedicação\n\nO ClatScope foi criado no espírito de Joshua Clatney, cujo trabalho pioneiro e visão ajudaram a moldar este projeto.\n\nSeu compromisso com ferramentas de investigação acessíveis e éticas continua a guiar seu desenvolvimento.\n\nCódigos Abertos. Conclusões Claras.\n\nClatScope.",
+      "descriptionHTML": "📱 ClatScope<br><br>Kit de Ferramentas OSINT e Cibersegurança Tudo-em-Um<br><br>Transforme seu celular em um Centro de Operações de Segurança (SOC) de bolso.<br><br>Investigue IPs, domínios, números de telefone, e-mails e exposições a violações em segundos.<br><br>🔍 O que é o ClatScope?<br><br>O ClatScope é um kit de ferramentas OSINT e cibersegurança desenvolvido para dispositivos móveis, projetado para investigações rápidas, éticas e práticas — sem linha de comando, sem configurações complexas.<br><br>Criado para analistas de segurança, investigadores, jornalistas e usuários preocupados com a privacidade, o ClatScope fornece informações práticas onde quer que você esteja.<br><br>Esta versão apresenta uma nova conta, interface modernizada, suporte expandido e grandes melhorias de usabilidade.<br><br>🚀 Novidades desta versão<br><br>• Interface totalmente redesenhada e mais intuitiva<br>• Sistema integrado de suporte e feedback<br>• Suporte a vários idiomas com configurações de tradução no aplicativo<br>• Modos claro e escuro inteligentes com sincronização do sistema<br>• Desempenho aprimorado e cache offline<br>• Reconstruído em uma nova conta de desenvolvedor para estabilidade a longo prazo<br><br>🔑 Principais benefícios<br><br>Inteligência rápida e focada em dispositivos móveis<br><br>Realize investigações de IP, domínio, telefone e e-mail com um único toque — otimizado para velocidade e clareza.<br><br>Enriquecimento multicanal<br><br>Valide números de telefone, verifique e-mails, correlacione nomes de usuário e revele rastros digitais relacionados.<br><br>Relatórios claros e acionáveis<br><br>Sinalizadores de risco, resumos concisos e exportação com um toque facilitam a compreensão e o compartilhamento dos resultados.<br><br>Design com foco em ética<br><br>A transparência na origem dos dados, os limites de uso justo e os fluxos de trabalho com reconhecimento de auditoria promovem o uso responsável.<br><br>🧰 Destaques do Recurso<br><br>Inteligência de IP<br>Geolocalização, detecção de ASN, contexto de hospedagem e descoberta de hosts próximos<br><br>Reconhecimento de Domínio<br>WHOIS, DNS reverso, registros MX/SOA/NS, snapshots de certificados SSL<br><br>Verificações de Exposição a Violações<br>Verificação de e-mails e credenciais em relação a conjuntos de dados de violações conhecidas<br><br>OSINT de Telefone<br>Validação de formato, pesquisa de operadora, indicadores de país e roaming<br><br>Rastreamento de Nome de Usuário<br>Aparências em diversas plataformas, fóruns e sites de compartilhamento de texto<br><br>Kit de Ferramentas de Privacidade<br>Gerador de identidade descartável e orientações sobre higiene de IP<br><br>Interface Inteligente<br>Modo claro e escuro, cache offline e consultas repetidas rápidas<br><br>💡 Para Quem é Indicado<br><br>• Busca de ameaças e análise da superfície de ataque para equipes de segurança<br>• Reconhecimento e correlação de alvos para equipes de ataque<br>• Investigações de fraude, abuso de marca e engenharia social<br>• Verificação de fontes jornalísticas e due diligence<br>• Verificações de segurança pessoal antes de clicar em links ou atender chamadas desconhecidas<br><br>💳 Preços baseados em tokens (sem assinaturas)<br><br>O ClatScope utiliza um sistema de tokens simples e transparente — sem assinaturas, sem cobranças recorrentes.<br><br>• As ferramentas principais permanecem disponíveis gratuitamente<br>• As pesquisas avançadas e com inteligência artificial utilizam tokens Clats<br>• Os tokens são comprados somente quando necessário<br>• Os tokens nunca expiram<br>• Você mantém o controle total do uso e dos gastos<br><br>🤝 Suporte e Feedback<br><br>Precisa de ajuda ou tem uma sugestão de recurso?<br><br>Respondemos a todas as mensagens.<br><br>📧 clatscope@techie.com<br><br>Seu feedback influencia diretamente as atualizações futuras.<br><br>⚠️ Aviso importante<br><br>Este aplicativo pode não funcionar corretamente se uma VPN ou bloqueador de anúncios estiver ativo.<br><br>Se você encontrar problemas, desative-os e tente novamente.<br><br>O ClatScope destina-se exclusivamente a fins éticos, educacionais e de pesquisa.<br><br>O uso indevido é estritamente proibido.<br><br>🕯️ Dedicação<br><br>O ClatScope foi criado no espírito de Joshua Clatney, cujo trabalho pioneiro e visão ajudaram a moldar este projeto.<br><br>Seu compromisso com ferramentas de investigação acessíveis e éticas continua a guiar seu desenvolvimento.<br><br>Códigos Abertos. Conclusões Claras.<br><br>ClatScope.",
+      "summary": "Ferramenta OSINT poderosa para IP, DNS, WHOIS, telefone, e-mail e muito mais.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6213,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.olaowo.clatscope",
+      "url": "https://play.google.com/store/apps/details?id=com.olaowo.clatscope&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Signal Info: Monitor de Rede",
+      "description": "Signal Info é uma ferramenta profissional para monitorar e analisar a intensidade do sinal móvel e redes Wi-Fi. Ele ajuda você a medir a qualidade da conexão, acompanhar o desempenho celular e sem fio e analisar dados de sinal em tempo real para obter a melhor cobertura possível.\n\nPrincipais Recursos\n\n• Monitoramento preciso da intensidade do sinal do telefone com atualizações em tempo real.\n• Suporte para todos os tipos de rede: 2G, 3G, 4G LTE, 5G, GSM, CDMA, WCDMA, NR e redes Wi-Fi.\n• Suporte para Dual SIM com exibição independente de informações para cada cartão SIM.\n• Exibição de informações detalhadas sobre a rede atual, como intensidade do sinal, tipo de rede, Cell ID, PCI, TAC, frequência e outros dados suportados pelo dispositivo.\n• Registro de dados de sinal com localização geográfica (quando disponível) para monitorar o desempenho e analisar a qualidade da cobertura.\n• Varredura de redes próximas e exibição da intensidade do sinal para conexões celulares e Wi-Fi.\n• Histórico de medições para acompanhar alterações e identificar áreas com sinal fraco.\n• Informações meteorológicas: Previsão do tempo para as próximas 24 horas, incluindo temperatura, velocidade e direção do vento, umidade e chance de chuva (quando disponível).\n• Notificações persistentes mostrando o status da rede e a intensidade do sinal sem precisar abrir o aplicativo.\n• Interface simples e rápida com baixo consumo de bateria.\n\nIdeal Para\n\n• Medir a intensidade do sinal do telefone.\n• Analisar a qualidade da rede.\n• Monitorar o desempenho de redes 4G e 5G.\n• Analisar redes Wi-Fi.\n• Encontrar os locais com melhor cobertura.\n• Diagnosticar problemas de conexão.\n• Acompanhar o desempenho da rede em trânsito.\n\nPermissões Necessárias\n\n• Localização: Para exibir detalhes de redes Wi-Fi e certos dados de rede celular exigidos pelo Android.\n• Status do Telefone: Para ler as informações da rede atual e a intensidade do sinal.\n• Notificações: Para exibir continuamente o status do sinal e alertas.\n• Exceção de Otimização da Bateria (Opcional): Para garantir atualizações contínuas de sinal em segundo plano.\n\nBaixe o Signal Info agora para monitorar e analisar sinais de rede com precisão e descobrir a melhor cobertura móvel e Wi-Fi onde quer que você esteja!",
+      "descriptionHTML": "Signal Info é uma ferramenta profissional para monitorar e analisar a intensidade do sinal móvel e redes Wi-Fi. Ele ajuda você a medir a qualidade da conexão, acompanhar o desempenho celular e sem fio e analisar dados de sinal em tempo real para obter a melhor cobertura possível.<br><br>Principais Recursos<br><br>• Monitoramento preciso da intensidade do sinal do telefone com atualizações em tempo real.<br>• Suporte para todos os tipos de rede: 2G, 3G, 4G LTE, 5G, GSM, CDMA, WCDMA, NR e redes Wi-Fi.<br>• Suporte para Dual SIM com exibição independente de informações para cada cartão SIM.<br>• Exibição de informações detalhadas sobre a rede atual, como intensidade do sinal, tipo de rede, Cell ID, PCI, TAC, frequência e outros dados suportados pelo dispositivo.<br>• Registro de dados de sinal com localização geográfica (quando disponível) para monitorar o desempenho e analisar a qualidade da cobertura.<br>• Varredura de redes próximas e exibição da intensidade do sinal para conexões celulares e Wi-Fi.<br>• Histórico de medições para acompanhar alterações e identificar áreas com sinal fraco.<br>• Informações meteorológicas: Previsão do tempo para as próximas 24 horas, incluindo temperatura, velocidade e direção do vento, umidade e chance de chuva (quando disponível).<br>• Notificações persistentes mostrando o status da rede e a intensidade do sinal sem precisar abrir o aplicativo.<br>• Interface simples e rápida com baixo consumo de bateria.<br><br>Ideal Para<br><br>• Medir a intensidade do sinal do telefone.<br>• Analisar a qualidade da rede.<br>• Monitorar o desempenho de redes 4G e 5G.<br>• Analisar redes Wi-Fi.<br>• Encontrar os locais com melhor cobertura.<br>• Diagnosticar problemas de conexão.<br>• Acompanhar o desempenho da rede em trânsito.<br><br>Permissões Necessárias<br><br>• Localização: Para exibir detalhes de redes Wi-Fi e certos dados de rede celular exigidos pelo Android.<br>• Status do Telefone: Para ler as informações da rede atual e a intensidade do sinal.<br>• Notificações: Para exibir continuamente o status do sinal e alertas.<br>• Exceção de Otimização da Bateria (Opcional): Para garantir atualizações contínuas de sinal em segundo plano.<br><br>Baixe o Signal Info agora para monitorar e analisar sinais de rede com precisão e descobrir a melhor cobertura móvel e Wi-Fi onde quer que você esteja!",
+      "summary": "Monitore sinal 2G, 3G, 4G, 5G e Wi-Fi com dados detalhados de rede e clima.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4834,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.aldhobhani.SignalMonitor",
+      "url": "https://play.google.com/store/apps/details?id=com.aldhobhani.SignalMonitor&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Signal Spy - Signal Strengths!",
+      "description": "EXPERIMENTE O REVOLUTION SIGNAL SPY 3.0\n\n🎉 Novidades do Signal Spy 3.0 🎉\n\n🔄 Arquitetura convertida para Flutter, aprimorando as principais funcionalidades e oferecendo uma experiência de usuário mais suave e intuitiva.\n🌟 NOVA interface de usuário aprimorada, ajustada para o ecossistema Android moderno, tornando mais fácil e agradável navegar pelo aplicativo.\nSignal Spy sempre foi o aplicativo preferido para usuários do Google Fi, um verdadeiro companheiro para compreender e gerenciar conexões de rede de maneira eficaz. Com o lançamento do Signal Spy 3.0, estamos abrangendo um público mais amplo, estendendo os incríveis recursos do aplicativo a todos que desejam uma experiência de conectividade perfeita.\n\n🌐 Seu companheiro de conectividade\nDescubra uma interface de usuário revitalizada que não é apenas agradável à vista, mas também incrivelmente fácil de usar, graças à transição para o Flutter. A nova versão mantém os recursos essenciais que tornaram o Signal Spy um favorito, ao mesmo tempo que introduz uma série de melhorias que atendem às necessidades do usuário moderno do Android.\n\n📊 Mantenha-se informado com relatórios detalhados sobre seu histórico de conexão, recurso disponível para todos os nossos usuários. Aprofunde-se nos insights de sua conexão com cartões de histórico enriquecidos, um recurso exclusivo para nossos usuários Pro, que oferece uma visão abrangente de seu histórico de conexão de rede e ajuda você a tomar decisões informadas em relação à sua conectividade.\n\n🔎 Entre em contato com nossa Central de Ajuda dedicada para qualquer dúvida ou suporte que você possa precisar. Fique por dentro das últimas atualizações, perguntas frequentes e solicitações de recursos por meio de nossa página de suporte, garantindo que você esteja sempre atualizado.\n\n🚀 Atualize para o Signal Spy Pro e desfrute de uma experiência sem anúncios, permitindo uso ininterrupto e uma interface mais limpa.\n\n🌟 Junte-se à comunidade Signal Spy hoje e dê o primeiro passo para uma experiência de conectividade mais controlada e informada.",
+      "descriptionHTML": "EXPERIMENTE O REVOLUTION SIGNAL SPY 3.0<br><br>🎉 Novidades do Signal Spy 3.0 🎉<br><br>🔄 Arquitetura convertida para Flutter, aprimorando as principais funcionalidades e oferecendo uma experiência de usuário mais suave e intuitiva.<br>🌟 NOVA interface de usuário aprimorada, ajustada para o ecossistema Android moderno, tornando mais fácil e agradável navegar pelo aplicativo.<br>Signal Spy sempre foi o aplicativo preferido para usuários do Google Fi, um verdadeiro companheiro para compreender e gerenciar conexões de rede de maneira eficaz. Com o lançamento do Signal Spy 3.0, estamos abrangendo um público mais amplo, estendendo os incríveis recursos do aplicativo a todos que desejam uma experiência de conectividade perfeita.<br><br>🌐 Seu companheiro de conectividade<br>Descubra uma interface de usuário revitalizada que não é apenas agradável à vista, mas também incrivelmente fácil de usar, graças à transição para o Flutter. A nova versão mantém os recursos essenciais que tornaram o Signal Spy um favorito, ao mesmo tempo que introduz uma série de melhorias que atendem às necessidades do usuário moderno do Android.<br><br>📊 Mantenha-se informado com relatórios detalhados sobre seu histórico de conexão, recurso disponível para todos os nossos usuários. Aprofunde-se nos insights de sua conexão com cartões de histórico enriquecidos, um recurso exclusivo para nossos usuários Pro, que oferece uma visão abrangente de seu histórico de conexão de rede e ajuda você a tomar decisões informadas em relação à sua conectividade.<br><br>🔎 Entre em contato com nossa Central de Ajuda dedicada para qualquer dúvida ou suporte que você possa precisar. Fique por dentro das últimas atualizações, perguntas frequentes e solicitações de recursos por meio de nossa página de suporte, garantindo que você esteja sempre atualizado.<br><br>🚀 Atualize para o Signal Spy Pro e desfrute de uma experiência sem anúncios, permitindo uso ininterrupto e uma interface mais limpa.<br><br>🌟 Junte-se à comunidade Signal Spy hoje e dê o primeiro passo para uma experiência de conectividade mais controlada e informada.",
+      "summary": "Fique conectado: monitore a intensidade do sinal, WiFi e muito mais",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 392359,
+      "score": 3.090909,
+      "scoreText": "3,1",
+      "ratings": 1856,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.novvia.fispy",
+      "url": "https://play.google.com/store/apps/details?id=com.novvia.fispy&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Scanner WiFi - Analisador Rede",
+      "description": "Quem está usando o seu WiFi agora? Existem dispositivos que você não reconhece? O Sentinel NetProbe te dá a resposta em segundos.\n\nTransforme seu celular em um scanner de rede profissional e analisador WiFi. Seja para gerenciar sua rede doméstica, cuidar de um escritório pequeno ou simplesmente descobrir quem está dividindo sua internet — esta ferramenta foi feita para você.\n\n🔎 SCANNER DE REDE — ENCONTRE CADA DISPOSITIVO\nDescubra todos os dispositivos conectados ao seu WiFi. O Sentinel escaneia sua rede local e revela endereços IP, endereços MAC, nomes dos hosts e fabricantes. Dispositivos novos são marcados na hora para que você sempre saiba quando alguém se conecta à sua rede.\n\n📡 ANALISADOR WiFi — OTIMIZE SUA CONEXÃO\nPare de adivinhar por que sua internet está lenta. O analisador WiFi integrado mostra a intensidade do sinal em tempo real, uso de canais e interferências de redes próximas.\n\nRecursos:\n• Gráfico de histórico de sinal\n• Recomendação de canal\n• Medidor de qualidade de sinal\n• Suporte para bandas de 2.4 GHz e 5 GHz\n\n🛡️ SCANNER DE PORTAS E AUDITORIA DE SÉCURITÉ\nFaça varreduras de portas estilo Nmap direto do celular.\n\nTrês modos de varredura:\n• Rápido — As 20 portas mais críticas\n• Padrão — Os 100 serviços mais comuns\n• Amplo — Auditoria profunda de 1024 portas\n\n🧰 KIT DE FERRAMENTAS PROFISSIONAL\n• Teste de Ping • Consulta DNS • Whois • Traceroute • Wake-on-LAN\n\n📊 PAINEL EM TEMPO REAL\n📻 SCANNER BLUETOOTH\n\n🔒 PRIVACIDADE EM PRIMEIRO LUGAR\nTodas as varreduras rodam localmente no seu dispositivo.\n\nBaixe o Sentinel NetProbe — conheça sua rede, proteja sua privacidade.",
+      "descriptionHTML": "Quem está usando o seu WiFi agora? Existem dispositivos que você não reconhece? O Sentinel NetProbe te dá a resposta em segundos.<br><br>Transforme seu celular em um scanner de rede profissional e analisador WiFi. Seja para gerenciar sua rede doméstica, cuidar de um escritório pequeno ou simplesmente descobrir quem está dividindo sua internet — esta ferramenta foi feita para você.<br><br>🔎 SCANNER DE REDE — ENCONTRE CADA DISPOSITIVO<br>Descubra todos os dispositivos conectados ao seu WiFi. O Sentinel escaneia sua rede local e revela endereços IP, endereços MAC, nomes dos hosts e fabricantes. Dispositivos novos são marcados na hora para que você sempre saiba quando alguém se conecta à sua rede.<br><br>📡 ANALISADOR WiFi — OTIMIZE SUA CONEXÃO<br>Pare de adivinhar por que sua internet está lenta. O analisador WiFi integrado mostra a intensidade do sinal em tempo real, uso de canais e interferências de redes próximas.<br><br>Recursos:<br>• Gráfico de histórico de sinal<br>• Recomendação de canal<br>• Medidor de qualidade de sinal<br>• Suporte para bandas de 2.4 GHz e 5 GHz<br><br>🛡️ SCANNER DE PORTAS E AUDITORIA DE SÉCURITÉ<br>Faça varreduras de portas estilo Nmap direto do celular.<br><br>Três modos de varredura:<br>• Rápido — As 20 portas mais críticas<br>• Padrão — Os 100 serviços mais comuns<br>• Amplo — Auditoria profunda de 1024 portas<br><br>🧰 KIT DE FERRAMENTAS PROFISSIONAL<br>• Teste de Ping • Consulta DNS • Whois • Traceroute • Wake-on-LAN<br><br>📊 PAINEL EM TEMPO REAL<br>📻 SCANNER BLUETOOTH<br><br>🔒 PRIVACIDADE EM PRIMEIRO LUGAR<br>Todas as varreduras rodam localmente no seu dispositivo.<br><br>Baixe o Sentinel NetProbe — conheça sua rede, proteja sua privacidade.",
+      "summary": "Escaneie redes WiFi, encontre dispositivos e detecte portas abertas. Proteção!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10338,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.sentinel.netprobe",
+      "url": "https://play.google.com/store/apps/details?id=com.sentinel.netprobe&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Auxiliar de Hemocitômetro",
+      "description": "Faça a contagem de células com um hemocitômetro sem esforço!\n\nVocê já conhece a rotina - hora de contar células para seu experimento. Pegue o hemocitômetro e o contador mecânico estridente, prepare sua diluição, encha a câmara, então olhe pelo microscópio e comece a empurrar a alavanca. Chegue ao final de um quadrado, anote a contagem, reinicie o contador e repita. Por fim, tente se lembrar do cálculo correto e anote o resultado.\n\nE se você não precisasse do contador estridente? O papel de rascunho? Uma calculadora manual?\n\nClaro, você *poderia* obter um contador de células caro e sofisticado com descartáveis desperdiçadores. Mas por que fazer isso quando um aplicativo de US$5 é quase tão bom?\n\nO Hemocytometer Sidekick elimina esses incômodos. Registre um ou dois contadores para todas as amostras com cálculos automáticos (incluindo viabilidade, contador de sangue) e use a grade completa ou o quadrado central. Os dados são salvos para você, para que você possa gravá-los em seu caderno quando quiser.\n\nHemocytometer Sidekick, projetado desde o início por um biólogo, tornará sua vida no laboratório tão mais fácil que estou lhe oferecendo 10 medições gratuitas!\n\nCaracterísticas:\n- Otimizado para uso sem precisar olhar para a tela (botões grandes, sons, vibração)\n- Use ambas as câmaras e amplie a grade interna\n- Tipos de câmara: Básico, Neubauer aprimorado, Bürker-Türk/Thoma, Fuchs-Rosenthal, Jessen, Spiers-Levy, Malassez, Makler\n- Um ou dois contadores disponíveis, mais viabilidade e contador de sangue (RBC, WBC, plaquetas)\n- Contador de sangue diferencial para muitos tipos de glóbulos brancos\n- Pausa e som a cada 100 glóbulos contados\n- Cálculos automáticos\n- Profundidade da câmara ajustável\n- Resultados por e-mail\n- Suporte imediato",
+      "descriptionHTML": "Faça a contagem de células com um hemocitômetro sem esforço!<br><br>Você já conhece a rotina - hora de contar células para seu experimento. Pegue o hemocitômetro e o contador mecânico estridente, prepare sua diluição, encha a câmara, então olhe pelo microscópio e comece a empurrar a alavanca. Chegue ao final de um quadrado, anote a contagem, reinicie o contador e repita. Por fim, tente se lembrar do cálculo correto e anote o resultado.<br><br>E se você não precisasse do contador estridente? O papel de rascunho? Uma calculadora manual?<br><br>Claro, você *poderia* obter um contador de células caro e sofisticado com descartáveis desperdiçadores. Mas por que fazer isso quando um aplicativo de US$5 é quase tão bom?<br><br>O Hemocytometer Sidekick elimina esses incômodos. Registre um ou dois contadores para todas as amostras com cálculos automáticos (incluindo viabilidade, contador de sangue) e use a grade completa ou o quadrado central. Os dados são salvos para você, para que você possa gravá-los em seu caderno quando quiser.<br><br>Hemocytometer Sidekick, projetado desde o início por um biólogo, tornará sua vida no laboratório tão mais fácil que estou lhe oferecendo 10 medições gratuitas!<br><br>Características:<br>- Otimizado para uso sem precisar olhar para a tela (botões grandes, sons, vibração)<br>- Use ambas as câmaras e amplie a grade interna<br>- Tipos de câmara: Básico, Neubauer aprimorado, Bürker-Türk/Thoma, Fuchs-Rosenthal, Jessen, Spiers-Levy, Malassez, Makler<br>- Um ou dois contadores disponíveis, mais viabilidade e contador de sangue (RBC, WBC, plaquetas)<br>- Contador de sangue diferencial para muitos tipos de glóbulos brancos<br>- Pausa e som a cada 100 glóbulos contados<br>- Cálculos automáticos<br>- Profundidade da câmara ajustável<br>- Resultados por e-mail<br>- Suporte imediato",
+      "summary": "Contador de células moderno para hemocitômetro e hemograma sem esforço.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 51054,
+      "score": 4.7222223,
+      "scoreText": "4,7",
+      "ratings": 169,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.NicholasBauer.HemocytometerSidekick.XF",
+      "url": "https://play.google.com/store/apps/details?id=com.NicholasBauer.HemocytometerSidekick.XF&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "RF Detector- ReFi",
+      "description": "Proteja sua tranquilidade com o ReFi. Uma ferramenta segura e offline para encontrar dispositivos e câmeras escondidas.\n\nVocê está realmente sozinho?\n\nCâmeras espiãs escondidas, microfones não autorizados e rastreadores estão menores e mais fáceis de ocultar do que nunca. Seja em um hotel, um Airbnb ou uma reunião confidencial, sua privacidade importa.\n\nConheça o ReFi, seu detector de sinais de radiofrequência essencial, projetado para ajudar você a escanear seus arredores, localizar emissões eletrônicas suspeitas e proteger seu espaço pessoal.\n\nPor que escolher o ReFi?\n\nA maioria dos aplicativos de segurança exige permissões invasivas ou o envio de seus dados. Não nós. Nosso diferencial é um detector de radiofrequência que prioriza a privacidade. Acreditamos que uma ferramenta criada para proteger você nunca deve rastreá-lo.\n\nProcessamento 100% offline: Todas as varreduras acontecem inteiramente no seu dispositivo.\n\nSem necessidade de conta: Sem cadastro, sem e-mails, sem rastreamento.\n\nSem compartilhamento de dados: Nunca coletamos, vendemos ou compartilhamos suas métricas.\n\nPrincipais Recursos\nDetector de RF Inteligente: Detecta campos eletromagnéticos emitidos por dispositivos eletrônicos ocultos, lentes e dispositivos de escuta.\n\nScanner de Rede: Identifica dispositivos não autorizados conectados a redes Wi-Fi ou Bluetooth locais.\n\nVisualizador em Tempo Real: Gráficos de intensidade de sinal fáceis de ler mostram picos conforme você se aproxima de uma ameaça.\n\nAlertas Táteis e de Áudio: Receba feedback instantâneo de som e vibração para ajudar você a inspecionar um ambiente discretamente.\n\nIdeal para:\nViajantes: Inspecione casas de temporada e quartos de hotel.\n\nProfissionais: Proteja salas de conferência antes de discussões confidenciais.\n\nEntusiastas da Privacidade: Adicione uma camada extra de defesa diária contra vigilância.\n\nAviso: O ReFi usa o magnetômetro e os sensores sem fio integrados do seu telefone para localizar ameaças potenciais. Embora seja altamente eficaz como primeira linha de defesa, smartphones comuns não conseguem detectar todos os sinais inativos ou de nível militar.\n\nBaixe o ReFi hoje mesmo — proteja seu espaço e mantenha sua vida pessoal privada.",
+      "descriptionHTML": "Proteja sua tranquilidade com o ReFi. Uma ferramenta segura e offline para encontrar dispositivos e câmeras escondidas.<br><br>Você está realmente sozinho?<br><br>Câmeras espiãs escondidas, microfones não autorizados e rastreadores estão menores e mais fáceis de ocultar do que nunca. Seja em um hotel, um Airbnb ou uma reunião confidencial, sua privacidade importa.<br><br>Conheça o ReFi, seu detector de sinais de radiofrequência essencial, projetado para ajudar você a escanear seus arredores, localizar emissões eletrônicas suspeitas e proteger seu espaço pessoal.<br><br>Por que escolher o ReFi?<br><br>A maioria dos aplicativos de segurança exige permissões invasivas ou o envio de seus dados. Não nós. Nosso diferencial é um detector de radiofrequência que prioriza a privacidade. Acreditamos que uma ferramenta criada para proteger você nunca deve rastreá-lo.<br><br>Processamento 100% offline: Todas as varreduras acontecem inteiramente no seu dispositivo.<br><br>Sem necessidade de conta: Sem cadastro, sem e-mails, sem rastreamento.<br><br>Sem compartilhamento de dados: Nunca coletamos, vendemos ou compartilhamos suas métricas.<br><br>Principais Recursos<br>Detector de RF Inteligente: Detecta campos eletromagnéticos emitidos por dispositivos eletrônicos ocultos, lentes e dispositivos de escuta.<br><br>Scanner de Rede: Identifica dispositivos não autorizados conectados a redes Wi-Fi ou Bluetooth locais.<br><br>Visualizador em Tempo Real: Gráficos de intensidade de sinal fáceis de ler mostram picos conforme você se aproxima de uma ameaça.<br><br>Alertas Táteis e de Áudio: Receba feedback instantâneo de som e vibração para ajudar você a inspecionar um ambiente discretamente.<br><br>Ideal para:<br>Viajantes: Inspecione casas de temporada e quartos de hotel.<br><br>Profissionais: Proteja salas de conferência antes de discussões confidenciais.<br><br>Entusiastas da Privacidade: Adicione uma camada extra de defesa diária contra vigilância.<br><br>Aviso: O ReFi usa o magnetômetro e os sensores sem fio integrados do seu telefone para localizar ameaças potenciais. Embora seja altamente eficaz como primeira linha de defesa, smartphones comuns não conseguem detectar todos os sinais inativos ou de nível militar.<br><br>Baixe o ReFi hoje mesmo — proteja seu espaço e mantenha sua vida pessoal privada.",
+      "summary": "Detector de radiofrequência preciso com foco na privacidade.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10867,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.rf.signal.detector",
+      "url": "https://play.google.com/store/apps/details?id=com.rf.signal.detector&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "CryptoPulse AI - Crypto Signal",
+      "description": "CryptoPulse AI: Seu Companheiro Definitivo de Comércio de Criptomoedas 🚀💰\n\nVocê é apaixonado pelo mundo das criptomoedas? 🌐 Seja no comércio de futuros, holding, ou atividades no mercado spot, o CryptoPulse AI é o aplicativo perfeito para você. Com recursos abrangentes projetados para atender às necessidades de cada entusiasta de criptomoedas, este aplicativo fornece insights e sinais incomparáveis para um comércio bem-sucedido. 📊 Nossa análise tem uma taxa de sucesso de mais de 83%, garantindo que você tenha as melhores ferramentas para tomar decisões informadas. 📈\n\nAnálise Completa de Criptomoedas 🛠️📉\n\nCryptoPulse AI oferece uma análise técnica detalhada para todas as criptomoedas do mercado. Fique à frente com atualizações e previsões em tempo real. 📅 Nosso aplicativo inclui:\n\nAnálise Técnica de Criptomoedas: Utilize ferramentas avançadas como Índice de Força Relativa (RSI), Convergência/Divergência de Média Móvel (MACD), Bandas de Bollinger, Volume Balanceado (OBV) e Índice de Movimento Direcional (DMI).\nEstratégia de Comércio de Criptomoedas: Acesse estratégias comprovadas que atendem a diferentes estados do mercado.\nTendências do Mercado de Criptomoedas: Fique informado sobre as últimas tendências e movimentos do mercado. 📊\nPrevisão de Preços de Criptomoedas: Receba previsões de preços precisas para tomar decisões informadas. 💹\nSinais de Entrada e Saída 🔄📈\n\nNosso aplicativo fornece sinais de entrada precisos para todas as criptomoedas, adequados tanto para comércio de futuros quanto spot. Esses sinais são gerados usando algoritmos e modelos sofisticados, garantindo alta precisão e confiabilidade. 🤖\n\nSinais de Criptomoedas: Obtenha sinais oportunos para compra e venda. 🔔\nSinais de Comércio de Criptomoedas no Telegram: Junte-se ao nosso grupo no Telegram para receber sinais em tempo real. (Em Breve)\nSinais de Criptomoedas de Alta Precisão: Beneficie-se de sinais com precisão comprovada. ✅\nPrincipais Fornecedores de Sinais de Criptomoedas: Aproveite os sinais dos principais especialistas do setor. 🌟\nNotícias de Criptomoedas em Tempo Real 📰🌍\nFique atualizado com notícias instantâneas sobre criptomoedas. ⏰\n\nNotícias de Criptomoedas: Atualizações mais recentes do mercado e regulatórias. 🗞️\nTecnologia Blockchain: Aprenda os conceitos básicos. 📚\nBitcoin 101: Entenda o Bitcoin e outras criptomoedas importantes. 💡\nBenefícios da Assinatura 💼🎁\nAssine o CryptoPulse AI para ferramentas exclusivas:\n\nNoções Básicas de Comércio: Aprenda técnicas de comércio. 🧑‍🏫\nPadrões de Gráficos: Preveja movimentos do mercado. 📊\nSwing Trading: Estratégias eficazes. 🔄\nDicas para Day Trading: Dicas para o sucesso. 🌞\nCompre e Invista em Criptomoedas 💵📈\nCryptoPulse AI simplifica os investimentos em criptomoedas.\nCompre Criptomoedas: Compre facilmente. 💳\nMelhores Criptomoedas para Investir: Obtenha as melhores recomendações para 2024. 🏆\nFerramentas Avançadas de Comércio 🧰📉\nMelhore o comércio com ferramentas avançadas:\nIndicador Zig Zag: Identifique tendências. 🔀\nFractal de Williams: Encontre pontos de virada do mercado. 🔍\nWilliams %R: Avalie níveis de sobrecompra/sobrevenda. 📉\nIndicador Vortex (VI): Identifique novas tendências. 📈\nOscilador de Volume: Analise mudanças de volume. 📊\nFibonacci e mais de 1300 Indicadores: Melhore sua estratégia. 🔢\n\nBaixe o CryptoPulse AI hoje e leve seu comércio de criptomoedas para o próximo nível. 🚀📲 Com nossa análise abrangente, sinais precisos e atualizações em tempo real, você terá tudo o que precisa para ter sucesso no dinâmico mundo das criptomoedas. 🌐💰",
+      "descriptionHTML": "CryptoPulse AI: Seu Companheiro Definitivo de Comércio de Criptomoedas 🚀💰<br><br>Você é apaixonado pelo mundo das criptomoedas? 🌐 Seja no comércio de futuros, holding, ou atividades no mercado spot, o CryptoPulse AI é o aplicativo perfeito para você. Com recursos abrangentes projetados para atender às necessidades de cada entusiasta de criptomoedas, este aplicativo fornece insights e sinais incomparáveis para um comércio bem-sucedido. 📊 Nossa análise tem uma taxa de sucesso de mais de 83%, garantindo que você tenha as melhores ferramentas para tomar decisões informadas. 📈<br><br>Análise Completa de Criptomoedas 🛠️📉<br><br>CryptoPulse AI oferece uma análise técnica detalhada para todas as criptomoedas do mercado. Fique à frente com atualizações e previsões em tempo real. 📅 Nosso aplicativo inclui:<br><br>Análise Técnica de Criptomoedas: Utilize ferramentas avançadas como Índice de Força Relativa (RSI), Convergência/Divergência de Média Móvel (MACD), Bandas de Bollinger, Volume Balanceado (OBV) e Índice de Movimento Direcional (DMI).<br>Estratégia de Comércio de Criptomoedas: Acesse estratégias comprovadas que atendem a diferentes estados do mercado.<br>Tendências do Mercado de Criptomoedas: Fique informado sobre as últimas tendências e movimentos do mercado. 📊<br>Previsão de Preços de Criptomoedas: Receba previsões de preços precisas para tomar decisões informadas. 💹<br>Sinais de Entrada e Saída 🔄📈<br><br>Nosso aplicativo fornece sinais de entrada precisos para todas as criptomoedas, adequados tanto para comércio de futuros quanto spot. Esses sinais são gerados usando algoritmos e modelos sofisticados, garantindo alta precisão e confiabilidade. 🤖<br><br>Sinais de Criptomoedas: Obtenha sinais oportunos para compra e venda. 🔔<br>Sinais de Comércio de Criptomoedas no Telegram: Junte-se ao nosso grupo no Telegram para receber sinais em tempo real. (Em Breve)<br>Sinais de Criptomoedas de Alta Precisão: Beneficie-se de sinais com precisão comprovada. ✅<br>Principais Fornecedores de Sinais de Criptomoedas: Aproveite os sinais dos principais especialistas do setor. 🌟<br>Notícias de Criptomoedas em Tempo Real 📰🌍<br>Fique atualizado com notícias instantâneas sobre criptomoedas. ⏰<br><br>Notícias de Criptomoedas: Atualizações mais recentes do mercado e regulatórias. 🗞️<br>Tecnologia Blockchain: Aprenda os conceitos básicos. 📚<br>Bitcoin 101: Entenda o Bitcoin e outras criptomoedas importantes. 💡<br>Benefícios da Assinatura 💼🎁<br>Assine o CryptoPulse AI para ferramentas exclusivas:<br><br>Noções Básicas de Comércio: Aprenda técnicas de comércio. 🧑‍🏫<br>Padrões de Gráficos: Preveja movimentos do mercado. 📊<br>Swing Trading: Estratégias eficazes. 🔄<br>Dicas para Day Trading: Dicas para o sucesso. 🌞<br>Compre e Invista em Criptomoedas 💵📈<br>CryptoPulse AI simplifica os investimentos em criptomoedas.<br>Compre Criptomoedas: Compre facilmente. 💳<br>Melhores Criptomoedas para Investir: Obtenha as melhores recomendações para 2024. 🏆<br>Ferramentas Avançadas de Comércio 🧰📉<br>Melhore o comércio com ferramentas avançadas:<br>Indicador Zig Zag: Identifique tendências. 🔀<br>Fractal de Williams: Encontre pontos de virada do mercado. 🔍<br>Williams %R: Avalie níveis de sobrecompra/sobrevenda. 📉<br>Indicador Vortex (VI): Identifique novas tendências. 📈<br>Oscilador de Volume: Analise mudanças de volume. 📊<br>Fibonacci e mais de 1300 Indicadores: Melhore sua estratégia. 🔢<br><br>Baixe o CryptoPulse AI hoje e leve seu comércio de criptomoedas para o próximo nível. 🚀📲 Com nossa análise abrangente, sinais precisos e atualizações em tempo real, você terá tudo o que precisa para ter sucesso no dinâmico mundo das criptomoedas. 🌐💰",
+      "summary": "Ferramenta Definitiva de Sinais de Criptomoedas para Futuros, Spot e Notícias",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 95391,
+      "score": 4.55,
+      "scoreText": "4,6",
+      "ratings": 6971,
+      "reviews": 83,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.cryptopulse.android",
+      "url": "https://play.google.com/store/apps/details?id=app.cryptopulse.android&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Localizador de Sinal Móvel",
+      "description": "Encontre o compreenda o seu sinal como nunca antes.\nAqui estão as questões que o Mobile Signal Finder, uma aplicação gratuita, pode resolver por si.\n\nQuais são os parâmetros do meu sinal fraco atual?\nOnde é que estou a obter a melhor cobertura e ao sinal mais forte?\nQuais são as minhas tendências de cobertura móvel?\nOnde deverei ir para obter o sinal mais forte?\nQue operador de rede tem a melhor cobertura na minha localização?\n\nMapa de Cobertura Pessoal:\nVeja o seu mapa de cobertura pessoal da potência do sinal de telemóvel de 2G, 3G, 4G e 5G para ver dados do sinal pessoal da rede móvel em tempo real.\nMonitorize a sua cobertura por localização para descobrir onde o seu sinal é forte ou fraco.\n\nHistórico de Desempenho da Rede:\nVeja dados históricos sobre a potência de sinal das suas redes de 2G, 3G, 4G e 5G. Obtenha uma compreensão mais ampla do histórico do seu sinal de telemóvel vendo tendências de desempenho por dia, semana, mês, e desde sempre.\n\nMapa de Cobertura de Rede por Crowdsourcing:\nVeja o nosso mapa de cobertura obtido por crowdsourcing para encontrar as áreas com melhor cobertura perto de si. Filtre o mapa de crowdsourcing por tipo de rede e operador de rede móvel. Compare as suas leituras de cobertura pessoais com as leituras de crowdsourcing de outros. Pesquise o mapa para antecipar a cobertura antes da sua próxima viagem.\n\nA aplicação Mobile Signal Finder apoia a comunidade coletiva submetendo os seus dados de desempenho da rede à nossa base de dados de crowdsourcing. Quantos mais membros tivermos a contribuir, maior a cobertura e a precisão dos seus dados.\n\nNunca recolhemos emails ou números de telefone. No entanto, recolhemos dados de localização e desempenho da rede, que licenciamos a operadores de redes móveis e proprietários de torres de telemóvel, para que possam melhorar o desempenho e a cobertura da rede. Mas acima de tudo, nunca usamos quaisquer informações que tenhamos recolhido para o identificar pessoalmente para fins de publicidade ou outros.",
+      "descriptionHTML": "Encontre o compreenda o seu sinal como nunca antes.<br>Aqui estão as questões que o Mobile Signal Finder, uma aplicação gratuita, pode resolver por si.<br><br>Quais são os parâmetros do meu sinal fraco atual?<br>Onde é que estou a obter a melhor cobertura e ao sinal mais forte?<br>Quais são as minhas tendências de cobertura móvel?<br>Onde deverei ir para obter o sinal mais forte?<br>Que operador de rede tem a melhor cobertura na minha localização?<br><br><b>Mapa de Cobertura Pessoal:</b><br>Veja o seu mapa de cobertura pessoal da potência do sinal de telemóvel de 2G, 3G, 4G e 5G para ver dados do sinal pessoal da rede móvel em tempo real.<br>Monitorize a sua cobertura por localização para descobrir onde o seu sinal é forte ou fraco.<br><br><b>Histórico de Desempenho da Rede:</b><br>Veja dados históricos sobre a potência de sinal das suas redes de 2G, 3G, 4G e 5G. Obtenha uma compreensão mais ampla do histórico do seu sinal de telemóvel vendo tendências de desempenho por dia, semana, mês, e desde sempre.<br><br><b>Mapa de Cobertura de Rede por Crowdsourcing:</b><br>Veja o nosso mapa de cobertura obtido por crowdsourcing para encontrar as áreas com melhor cobertura perto de si. Filtre o mapa de crowdsourcing por tipo de rede e operador de rede móvel. Compare as suas leituras de cobertura pessoais com as leituras de crowdsourcing de outros. Pesquise o mapa para antecipar a cobertura antes da sua próxima viagem.<br><br>A aplicação Mobile Signal Finder apoia a comunidade coletiva submetendo os seus dados de desempenho da rede à nossa base de dados de crowdsourcing. Quantos mais membros tivermos a contribuir, maior a cobertura e a precisão dos seus dados.<br><br>Nunca recolhemos emails ou números de telefone. No entanto, recolhemos dados de localização e desempenho da rede, que licenciamos a operadores de redes móveis e proprietários de torres de telemóvel, para que possam melhorar o desempenho e a cobertura da rede. Mas acima de tudo, nunca usamos quaisquer informações que tenhamos recolhido para o identificar pessoalmente para fins de publicidade ou outros.",
+      "summary": "informações sobre cobertura móvel, histórico do sinal, localizador de sinal",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 815210,
+      "score": 3.7524753,
+      "scoreText": "3,8",
+      "ratings": 2357,
+      "reviews": 74,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.m2catalyst.signaltracker",
+      "url": "https://play.google.com/store/apps/details?id=com.m2catalyst.signaltracker&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Nxgen Signals",
+      "description": "Sempre quis uma criptografia, que pudesse fornecer as informações necessárias, aumentos ou diminuições, no preço de uma moeda. Agora, você entendeu.\n\nO melhor aplicativo de criptomoeda lá fora. Você pode rastrear facilmente qualquer moeda de sua preferência e obter informações detalhadas sobre ela. Nosso aplicativo mostra dados ao vivo dos melhores servidores que existem.\n\nEntão, por que esperar. Apenas vá lá e coloque suas mãos nisso.",
+      "descriptionHTML": "Sempre quis uma criptografia, que pudesse fornecer as informações necessárias, aumentos ou diminuições, no preço de uma moeda. Agora, você entendeu.<br><br>O melhor aplicativo de criptomoeda lá fora. Você pode rastrear facilmente qualquer moeda de sua preferência e obter informações detalhadas sobre ela. Nosso aplicativo mostra dados ao vivo dos melhores servidores que existem.<br><br>Então, por que esperar. Apenas vá lá e coloque suas mãos nisso.",
+      "summary": "Sinais criptográficos inteligentes, insights",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 19085,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Finanças",
+      "genreId": "FINANCE",
+      "categories": [
+        {
+          "name": "Finanças",
+          "id": "FINANCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.eblock6.nextgen",
+      "url": "https://play.google.com/store/apps/details?id=com.eblock6.nextgen&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Rastreador detector RF",
+      "description": "Detector de sinal RF - analise dados sem fio, campos e leituras de rede!Detector de sinal RF ajuda você a verificar conectividade sem fio, qualidade da rede, atividade de campo magnético, teste de frequência de áudio, ferramentas de cálculo e informações do dispositivo em um só app.\n\nDetector RF: analisador de frequência ajuda com cálculos práticos, detalhes de Wi-Fi, leituras celulares e ferramentas de monitoramento ao vivo. Rastreador de sinal RF reúne verificações de força da rede, visualização de cobertura e dados de diagnóstico em um espaço móvel mais limpo.\n\nFerramentas de análise sem fio e de campo:\n📡Detector de sinal RF - monitore detalhes de conexão, leituras magnéticas e qualidade da rede;\n📊Detector RF: analisador de frequência - calcule EIRP, ERP e perda em espaço livre;\n📶Rastreador de sinal RF - veja força da rede móvel, qualidade Wi-Fi e dados de cobertura;\n📻Detector de radiofrequência - use ferramentas para aprendizado e diagnóstico sem fio;\n🧲Detector de campo EM: app de sinal - confira leituras eletromagnéticas ao vivo com gráfico;\n🎚️Gerador de áudio - crie ondas senoidais, quadradas ou dente de serra com controles;\n🚀Teste de velocidade - meça download, latência, ping e qualidade de conexão;\n\nUse calculadoras, medidores, gráficos e ferramentas de rede em um lugar!Detector de radiofrequência é útil quando você quer estudar potência, ganho, perda, distância e frequência com entradas ajustáveis. O módulo calculadora pode estimar EIRP e ERP em dBm ou watts, e calcular FSPL em dB para aprendizado, verificação de antena e planejamento sem fio.\n\nDetector de campo EM: app de sinal usa sensores compatíveis do telefone para mostrar leituras ao vivo em µT, exibir mudanças em tempo real e manter um gráfico de histórico. O monitor de campo magnético pode iniciar ou parar a varredura, mostrar leituras magnéticas ao vivo e visualizar mudanças ambientais.\n\nComo as principais ferramentas funcionam:\n📲Abra detector RF: analisador de frequência e escolha a ferramenta que deseja usar;\n📡Use rastreador de sinal RF para revisar cobertura móvel, dados celulares ou detalhes Wi-Fi;\n📻Selecione detector de radiofrequência quando precisar de cálculos para estudo sem fio;\n🧲Abra detector de campo EM: app de sinal para monitorar leituras ao vivo em gráfico;\n🎚️Use o gerador de áudio para ajustar frequência, forma de onda, duty cycle e nível;\n💾Salve áudio gerado, reproduza gravações antigas ou gerencie arquivos pelo histórico;\n\n📶Informações celulares e Wi-Fi:\nO analisador celular pode mostrar força GSM e LTE, qualidade da rede, tipos de rede disponíveis, dados SIM, detalhes da operadora, informações de telefonia e hardware do dispositivo. A seção Wi-Fi ajuda a revisar RSSI, força dBm, SSID, BSSID, velocidade do link em Mbps e detalhes de frequência com gráficos ao vivo e mapa de cobertura aproximada.\n\nEntenda dados sem fio e leituras de sensores mais rápido!Este app combina cálculos sem fio, análise Wi-Fi, detalhes de rede móvel, monitoramento magnético, leituras EMF, ferramentas de áudio e teste de velocidade em uma ferramenta prática.\n\n🔒 Permissões usadas:\nACCESS_FINE_LOCATION e ACCESS_COARSE_LOCATION\nUsadas apenas para exibir informações aproximadas de cobertura de rede no mapa e acessar informações de Wi-Fi exigidas pelo Android.\n\nREAD_PHONE_STATE\nUsada para exibir informações do SIM, status da rede, detalhes da operadora e informações de telefonia disponíveis no dispositivo.",
+      "descriptionHTML": "<h3>Detector de sinal RF - analise dados sem fio, campos e leituras de rede!</h3>Detector de sinal RF ajuda você a verificar conectividade sem fio, qualidade da rede, atividade de campo magnético, teste de frequência de áudio, ferramentas de cálculo e informações do dispositivo em um só app.<br><br>Detector RF: analisador de frequência ajuda com cálculos práticos, detalhes de Wi-Fi, leituras celulares e ferramentas de monitoramento ao vivo. Rastreador de sinal RF reúne verificações de força da rede, visualização de cobertura e dados de diagnóstico em um espaço móvel mais limpo.<br><br><b>Ferramentas de análise sem fio e de campo:</b><br>📡Detector de sinal RF - monitore detalhes de conexão, leituras magnéticas e qualidade da rede;<br>📊Detector RF: analisador de frequência - calcule EIRP, ERP e perda em espaço livre;<br>📶Rastreador de sinal RF - veja força da rede móvel, qualidade Wi-Fi e dados de cobertura;<br>📻Detector de radiofrequência - use ferramentas para aprendizado e diagnóstico sem fio;<br>🧲Detector de campo EM: app de sinal - confira leituras eletromagnéticas ao vivo com gráfico;<br>🎚️Gerador de áudio - crie ondas senoidais, quadradas ou dente de serra com controles;<br>🚀Teste de velocidade - meça download, latência, ping e qualidade de conexão;<br><br><h3>Use calculadoras, medidores, gráficos e ferramentas de rede em um lugar!</h3>Detector de radiofrequência é útil quando você quer estudar potência, ganho, perda, distância e frequência com entradas ajustáveis. O módulo calculadora pode estimar EIRP e ERP em dBm ou watts, e calcular FSPL em dB para aprendizado, verificação de antena e planejamento sem fio.<br><br>Detector de campo EM: app de sinal usa sensores compatíveis do telefone para mostrar leituras ao vivo em µT, exibir mudanças em tempo real e manter um gráfico de histórico. O monitor de campo magnético pode iniciar ou parar a varredura, mostrar leituras magnéticas ao vivo e visualizar mudanças ambientais.<br><br><b>Como as principais ferramentas funcionam:</b><br>📲Abra detector RF: analisador de frequência e escolha a ferramenta que deseja usar;<br>📡Use rastreador de sinal RF para revisar cobertura móvel, dados celulares ou detalhes Wi-Fi;<br>📻Selecione detector de radiofrequência quando precisar de cálculos para estudo sem fio;<br>🧲Abra detector de campo EM: app de sinal para monitorar leituras ao vivo em gráfico;<br>🎚️Use o gerador de áudio para ajustar frequência, forma de onda, duty cycle e nível;<br>💾Salve áudio gerado, reproduza gravações antigas ou gerencie arquivos pelo histórico;<br><br><b>📶Informações celulares e Wi-Fi:</b><br>O analisador celular pode mostrar força GSM e LTE, qualidade da rede, tipos de rede disponíveis, dados SIM, detalhes da operadora, informações de telefonia e hardware do dispositivo. A seção Wi-Fi ajuda a revisar RSSI, força dBm, SSID, BSSID, velocidade do link em Mbps e detalhes de frequência com gráficos ao vivo e mapa de cobertura aproximada.<br><br><h3>Entenda dados sem fio e leituras de sensores mais rápido!</h3>Este app combina cálculos sem fio, análise Wi-Fi, detalhes de rede móvel, monitoramento magnético, leituras EMF, ferramentas de áudio e teste de velocidade em uma ferramenta prática.<br><br><b>🔒 Permissões usadas:</b><br>ACCESS_FINE_LOCATION e ACCESS_COARSE_LOCATION<br>Usadas apenas para exibir informações aproximadas de cobertura de rede no mapa e acessar informações de Wi-Fi exigidas pelo Android.<br><br>READ_PHONE_STATE<br>Usada para exibir informações do SIM, status da rede, detalhes da operadora e informações de telefonia disponíveis no dispositivo.",
+      "summary": "Calculadora RF, medidor EMF, análise Wi-Fi e teste velocidade em um app!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 324635,
+      "score": 2.4102564,
+      "scoreText": "2,4",
+      "ratings": 973,
+      "reviews": 16,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.sparkapps.rfsignal.ts",
+      "url": "https://play.google.com/store/apps/details?id=com.sparkapps.rfsignal.ts&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Signalscope: 5G & WiFi Meter",
+      "description": "As barras de sinal dizem uma coisa. Suas chamadas interrompidas, vídeos travando e Wi-Fi lento dizem outra. O Signalscope é um medidor de sinal em tempo real para 5G, LTE e Wi-Fi que mostra o que realmente está acontecendo — para que você possa encontrar o melhor local.\n\nPare de adivinhar. O Signalscope transforma seu celular Android em um medidor de sinal e analisador de rede limpo e em tempo real: um indicador de sinal em dBm ao vivo, a torre de celular à qual você está conectado, um analisador de canais Wi-Fi, um mapa de cobertura, testes de velocidade, gráficos e registros — tudo em uma única visualização organizada. Sem contas. Sem anúncios. Sem rastreamento.\n\nMEDIDOR DE SINAL EM TEMPO REAL (dBm)\n• Medidor de intensidade de sinal em tempo real em dBm, com código de cores por qualidade\n• Detecção de 2G, 3G, 4G LTE e 5G NR, incluindo 5G NSA/SA\n• Métricas completas: RSRP, RSRQ, SINR, RSSI, CQI, ASU e muito mais\n• Suporte a Dual-SIM onde o Android expõe os dados de rádio\n\nTORRES DE CELULAR 5G E LTE\n• Informações da célula servidora e das células vizinhas: CID, TAC, PCI, EARFCN, banda, MCC/MNC\n• Veja a qual torre e banda 5G ou LTE você está conectado\n• Desenvolvido para levantamentos de campo, solução de problemas e busca de sinal\n\nANALISADOR DE WI-FI\n• Analise redes Wi-Fi próximas: sinal, banda, canal e segurança\n• Visualização da congestão de canais em 2,4, 5 e 6 GHz\n• Encontre o canal Wi-Fi menos congestionado para o seu roteador ou ponto de acesso\n\nMAPA DE COBERTURA E ÁREAS SEM COBERTURA ZONAS\n• Veja sua localização e as torres próximas em um mapa de cobertura interativo\n• Percorra os cômodos para encontrar áreas sem sinal antes de fazer qualquer alteração\n• Compare SIMs, cômodos e locais para encontrar o sinal mais forte\n\nTESTE DE VELOCIDADE\n• Meça download, upload, ping e jitter, com histórico\n• Veja se sua conexão é realmente tão rápida quanto você paga\n\nREGISTRO, GRÁFICOS E EXPORTAÇÃO DE CSV\n• Registre sessões de sinal e visualize gráficos de RSRP, SINR e Wi-Fi ao longo do tempo\n• Exporte registros CSV limpos; alertas opcionais de sinal fraco durante o registro\n\nPRIVACIDADE INTEGRADA\n• 100% no seu dispositivo — sem conta, sem anúncios, sem rastreamento\n• Temas claro e escuro com cores dinâmicas do Material Design\n\nUm medidor de sinal, analisador de Wi-Fi, localizador de torres de celular 5G/LTE, mapa de cobertura, teste de velocidade e registro de sinal em um único aplicativo. Alguns campos de 5G NSA/SA, células vizinhas e torres dependem da sua versão do Android, telefone, operadora, SIM e das permissões que você conceder.",
+      "descriptionHTML": "As barras de sinal dizem uma coisa. Suas chamadas interrompidas, vídeos travando e Wi-Fi lento dizem outra. O Signalscope é um medidor de sinal em tempo real para 5G, LTE e Wi-Fi que mostra o que realmente está acontecendo — para que você possa encontrar o melhor local.<br><br>Pare de adivinhar. O Signalscope transforma seu celular Android em um medidor de sinal e analisador de rede limpo e em tempo real: um indicador de sinal em dBm ao vivo, a torre de celular à qual você está conectado, um analisador de canais Wi-Fi, um mapa de cobertura, testes de velocidade, gráficos e registros — tudo em uma única visualização organizada. Sem contas. Sem anúncios. Sem rastreamento.<br><br>MEDIDOR DE SINAL EM TEMPO REAL (dBm)<br>• Medidor de intensidade de sinal em tempo real em dBm, com código de cores por qualidade<br>• Detecção de 2G, 3G, 4G LTE e 5G NR, incluindo 5G NSA/SA<br>• Métricas completas: RSRP, RSRQ, SINR, RSSI, CQI, ASU e muito mais<br>• Suporte a Dual-SIM onde o Android expõe os dados de rádio<br><br>TORRES DE CELULAR 5G E LTE<br>• Informações da célula servidora e das células vizinhas: CID, TAC, PCI, EARFCN, banda, MCC/MNC<br>• Veja a qual torre e banda 5G ou LTE você está conectado<br>• Desenvolvido para levantamentos de campo, solução de problemas e busca de sinal<br><br>ANALISADOR DE WI-FI<br>• Analise redes Wi-Fi próximas: sinal, banda, canal e segurança<br>• Visualização da congestão de canais em 2,4, 5 e 6 GHz<br>• Encontre o canal Wi-Fi menos congestionado para o seu roteador ou ponto de acesso<br><br>MAPA DE COBERTURA E ÁREAS SEM COBERTURA ZONAS<br>• Veja sua localização e as torres próximas em um mapa de cobertura interativo<br>• Percorra os cômodos para encontrar áreas sem sinal antes de fazer qualquer alteração<br>• Compare SIMs, cômodos e locais para encontrar o sinal mais forte<br><br>TESTE DE VELOCIDADE<br>• Meça download, upload, ping e jitter, com histórico<br>• Veja se sua conexão é realmente tão rápida quanto você paga<br><br>REGISTRO, GRÁFICOS E EXPORTAÇÃO DE CSV<br>• Registre sessões de sinal e visualize gráficos de RSRP, SINR e Wi-Fi ao longo do tempo<br>• Exporte registros CSV limpos; alertas opcionais de sinal fraco durante o registro<br><br>PRIVACIDADE INTEGRADA<br>• 100% no seu dispositivo — sem conta, sem anúncios, sem rastreamento<br>• Temas claro e escuro com cores dinâmicas do Material Design<br><br>Um medidor de sinal, analisador de Wi-Fi, localizador de torres de celular 5G/LTE, mapa de cobertura, teste de velocidade e registro de sinal em um único aplicativo. Alguns campos de 5G NSA/SA, células vizinhas e torres dependem da sua versão do Android, telefone, operadora, SIM e das permissões que você conceder.",
+      "summary": "Medidor de sinal 5G/LTE em tempo real, analisador de Wi-Fi, torres de celular, teste de velocidade e zonas sem sinal.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 363,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.snowah.signalscope",
+      "url": "https://play.google.com/store/apps/details?id=com.snowah.signalscope&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Voice Analyzer",
+      "description": "Visualize o som em tempo real com este aplicativo de demonstração leve. Ele inclui:\n\n- Visualização do espectrograma: Exibe a frequência ao longo do tempo, representando a intensidade com cores.\n\n- Visualização da forma de onda: Mostra a amplitude do som em tempo real.\n\n- Gráficos: Quadro de eixo completo, layout compartilhado entre as visualizações e rótulos de eixo claros.\n\n- Telas grandes: Mais detalhes de tempo em tablets e dispositivos dobráveis; o espectrograma permanece suave quando ampliado.\n\n- Interface do usuário do sistema: De ponta a ponta com espaçamento seguro para recortes e barra de navegação; a barra de status combina com o fundo do aplicativo.\n\n- Modo de mesa: Dispositivos dobráveis ​​e flips semiabertos usam uma divisão 50/50 na dobradiça, sem arrastar para redimensionar e texto de status oculto para que os gráficos se alinhem com cada metade.\n\n- Layout do gráfico: Escolha até quatro painéis (layout para celular ou tela ampla), ajuste os eixos, a grade e a largura da caixa do espectrograma e defina as cores dos painéis (traços, trilhas do espectrograma, preenchimentos da banda de Hz do tom e quadrantes harmônicos). - Tema do aplicativo: Azul ou Material You (Android 12+); a caixa de diálogo do tema usa o mesmo estilo de botão Aplicar preenchido das configurações do gráfico.",
+      "descriptionHTML": "Visualize o som em tempo real com este aplicativo de demonstração leve. Ele inclui:<br><br>- Visualização do espectrograma: Exibe a frequência ao longo do tempo, representando a intensidade com cores.<br><br>- Visualização da forma de onda: Mostra a amplitude do som em tempo real.<br><br>- Gráficos: Quadro de eixo completo, layout compartilhado entre as visualizações e rótulos de eixo claros.<br><br>- Telas grandes: Mais detalhes de tempo em tablets e dispositivos dobráveis; o espectrograma permanece suave quando ampliado.<br><br>- Interface do usuário do sistema: De ponta a ponta com espaçamento seguro para recortes e barra de navegação; a barra de status combina com o fundo do aplicativo.<br><br>- Modo de mesa: Dispositivos dobráveis ​​e flips semiabertos usam uma divisão 50/50 na dobradiça, sem arrastar para redimensionar e texto de status oculto para que os gráficos se alinhem com cada metade.<br><br>- Layout do gráfico: Escolha até quatro painéis (layout para celular ou tela ampla), ajuste os eixos, a grade e a largura da caixa do espectrograma e defina as cores dos painéis (traços, trilhas do espectrograma, preenchimentos da banda de Hz do tom e quadrantes harmônicos). - Tema do aplicativo: Azul ou Material You (Android 12+); a caixa de diálogo do tema usa o mesmo estilo de botão Aplicar preenchido das configurações do gráfico.",
+      "summary": "Demonstração do analisador de voz de espectrograma e forma de onda",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7347,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Bibliotecas e demos",
+      "genreId": "LIBRARIES_AND_DEMO",
+      "categories": [
+        {
+          "name": "Bibliotecas e demos",
+          "id": "LIBRARIES_AND_DEMO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.drvoice.voiceanalyzer",
+      "url": "https://play.google.com/store/apps/details?id=com.drvoice.voiceanalyzer&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "SignalTracker",
+      "description": "Quão bom é o serviço da sua operadora atual? Este aplicativo mostra a intensidade do sinal e a velocidade de download em todos os locais importantes para você. Você pode usar um segundo chip para comparar com outra operadora. Os resultados são registrados no seu celular e, na versão Pro, são exibidos em mapas e gráficos.\n\nVocê também pode testar sua conexão Wi-Fi e decidir se vale a pena trocar sua linha fixa por um serviço somente móvel.\n\nEste aplicativo não exibe anúncios. O cadastro não é necessário, exceto na versão Pro.",
+      "descriptionHTML": "Quão bom é o serviço da sua operadora atual? Este aplicativo mostra a intensidade do sinal e a velocidade de download em todos os locais importantes para você. Você pode usar um segundo chip para comparar com outra operadora. Os resultados são registrados no seu celular e, na versão Pro, são exibidos em mapas e gráficos.<br><br>Você também pode testar sua conexão Wi-Fi e decidir se vale a pena trocar sua linha fixa por um serviço somente móvel.<br><br>Este aplicativo não exibe anúncios. O cadastro não é necessário, exceto na versão Pro.",
+      "summary": "Teste a velocidade e a intensidade do sinal da sua rede móvel",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15513,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.policytracker.speedtestapp",
+      "url": "https://play.google.com/store/apps/details?id=com.policytracker.speedtestapp&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "RF Analyzer",
+      "description": "O RF Analyzer transforma seu dispositivo Android em um analisador de espectro em tempo real para Rádio Definido por Software (SDR). Visualize e ouça sinais de rádio ao seu redor — desde rádio amador até sinais de transmissão e muito mais.\n\nSeja você um iniciante curioso ou um radioamador experiente, o RF Analyzer oferece uma maneira prática e interativa de explorar sinais de rádio.\n\nRECURSOS\n\n- Funciona com HackRF, RTL-SDR, Airspy, Airspy HF+, HydraSDR ou arquivos IQ pré-gravados\n- Visualize o espectro ao vivo (FFT) e gráficos de cascata\n- Demodule sinais AM, FM, SSB e CW\n- Grave amostras IQ brutas para análise offline\n- Gerenciador de favoritos completo para estações (frequências) e bandas\n- Baixe e sincronize o banco de dados de rádio de ondas curtas EiBi, spots POTA e SOTA\n- Interface Material Design moderna e responsiva\n- Navegue, amplie e sintonize as bandas\n- Ajuda contextual integrada e manual completo offline no aplicativo\n\nPREÇOS\n\nVocê pode experimentar todos os recursos gratuitamente durante o período de teste de 60 minutos (apenas o uso real do analisador é contabilizado - tempo suficiente para testar todos os recursos com todos os seus dispositivos).\n\nSe gostar, uma compra única no aplicativo desbloqueia a versão completa - sem assinaturas, sem contas, sem anúncios.\n\nEste aplicativo é um projeto feito por hobby, desenvolvido com paixão e incontáveis ​​horas de trabalho. Apoiar o aplicativo me ajuda a continuar desenvolvendo e aprimorando-o. Obrigado! 🙏\n\nREQUISITOS\n\n- Celular ou tablet Android (com suporte a USB OTG)\n- Hardware SDR compatível (HackRF, RTL-SDR, Airspy, Airspy HF+ ou HydraSDR)\n\n- Observação: RTL-SDR Blog v4 e RTL-SDR Direct Sampling são totalmente compatíveis.\n\n- Adaptador USB OTG (USB-A fêmea para USB-C para celulares modernos)\n\n- Isso não é necessário para SDRs com conector USB-C (por exemplo, o HydraSDR)\n\nSAIBA MAIS\n\nQuer se aprofundar? O manual completo do usuário está disponível com dicas de identificação de sinais, conceitos básicos de rádio amador e muito mais: https://demantz.github.io/RFAnalyzer/\n\nDivirta-se explorando, aprendendo e ouvindo sinais de rádio :)\n\n73!\n\n- Dennis (DM4NTZ), Heidelberg, Alemanha\n\nLICENÇA\n\nEste aplicativo é distribuído sob a Licença Pública Geral GNU v2. É um software livre e o código-fonte está disponível no GitHub.\n\nQUESTÕES LEGAIS\n\nObserve que não me responsabilizo por quaisquer problemas legais decorrentes do uso deste aplicativo. Seja responsável e cumpra as leis locais!",
+      "descriptionHTML": "O RF Analyzer transforma seu dispositivo Android em um analisador de espectro em tempo real para Rádio Definido por Software (SDR). Visualize e ouça sinais de rádio ao seu redor — desde rádio amador até sinais de transmissão e muito mais.<br><br>Seja você um iniciante curioso ou um radioamador experiente, o RF Analyzer oferece uma maneira prática e interativa de explorar sinais de rádio.<br><br>RECURSOS<br><br>- Funciona com HackRF, RTL-SDR, Airspy, Airspy HF+, HydraSDR ou arquivos IQ pré-gravados<br>- Visualize o espectro ao vivo (FFT) e gráficos de cascata<br>- Demodule sinais AM, FM, SSB e CW<br>- Grave amostras IQ brutas para análise offline<br>- Gerenciador de favoritos completo para estações (frequências) e bandas<br>- Baixe e sincronize o banco de dados de rádio de ondas curtas EiBi, spots POTA e SOTA<br>- Interface Material Design moderna e responsiva<br>- Navegue, amplie e sintonize as bandas<br>- Ajuda contextual integrada e manual completo offline no aplicativo<br><br>PREÇOS<br><br>Você pode experimentar todos os recursos gratuitamente durante o período de teste de 60 minutos (apenas o uso real do analisador é contabilizado - tempo suficiente para testar todos os recursos com todos os seus dispositivos).<br><br>Se gostar, uma compra única no aplicativo desbloqueia a versão completa - sem assinaturas, sem contas, sem anúncios.<br><br>Este aplicativo é um projeto feito por hobby, desenvolvido com paixão e incontáveis ​​horas de trabalho. Apoiar o aplicativo me ajuda a continuar desenvolvendo e aprimorando-o. Obrigado! 🙏<br><br>REQUISITOS<br><br>- Celular ou tablet Android (com suporte a USB OTG)<br>- Hardware SDR compatível (HackRF, RTL-SDR, Airspy, Airspy HF+ ou HydraSDR)<br><br>- Observação: RTL-SDR Blog v4 e RTL-SDR Direct Sampling são totalmente compatíveis.<br><br>- Adaptador USB OTG (USB-A fêmea para USB-C para celulares modernos)<br><br>- Isso não é necessário para SDRs com conector USB-C (por exemplo, o HydraSDR)<br><br>SAIBA MAIS<br><br>Quer se aprofundar? O manual completo do usuário está disponível com dicas de identificação de sinais, conceitos básicos de rádio amador e muito mais: https://demantz.github.io/RFAnalyzer/<br><br>Divirta-se explorando, aprendendo e ouvindo sinais de rádio :)<br><br>73!<br><br>- Dennis (DM4NTZ), Heidelberg, Alemanha<br><br>LICENÇA<br><br>Este aplicativo é distribuído sob a Licença Pública Geral GNU v2. É um software livre e o código-fonte está disponível no GitHub.<br><br>QUESTÕES LEGAIS<br><br>Observe que não me responsabilizo por quaisquer problemas legais decorrentes do uso deste aplicativo. Seja responsável e cumpra as leis locais!",
+      "summary": "Analise sinais de RF no Android com HackRF, RTL-SDR, Airspy (HF+) e HydraSDR.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 303680,
+      "score": 3.875,
+      "scoreText": "3,9",
+      "ratings": 1128,
+      "reviews": 25,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mantz_it.rfanalyzer",
+      "url": "https://play.google.com/store/apps/details?id=com.mantz_it.rfanalyzer&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Signal Advisor",
+      "description": "Este é um aplicativo para instalação profissional de amplificadores de sinal de celular, pode ajudá-lo a testar a intensidade do sinal e a banda de frequência da sua operadora e ajudar a encontrar a direção da estação base para que você possa escolher o amplificador de sinal de celular certo; ele também pode se conectar ao seu booster para ajustar o ganho do booster e monitorar o status operacional do dispositivo; ele suporta os sistemas de rede populares do mundo de várias operadoras; mesmo os não profissionais podem começar rapidamente por meio do APP e obter facilmente um sinal estável e melhor cobertura. É uma ferramenta auxiliar conveniente para sua casa e escritório!\nFunções básicas:\n- Ele pode testar a intensidade do sinal externo, tipo de rede, banda de frequência e encontrar a direção da estação base da sua operadora local para ajudá-lo a escolher o amplificador e as antenas corretos\n- Vídeos de instalação são fornecidos para orientá-lo na instalação do booster com mais facilidade\n- Serviço de chat ao vivo para ajudá-lo a resolver problemas com mais rapidez\n- Junte-se gratuitamente ao programa de afiliados para ganhar comissão\n- Registre-se como membro e tenha a chance de ganhar presentes\nFunção avançada:\n- Conecte-se ao seu booster via Bluetooth para monitorar a operação do booster\n- Ajuste o ganho manualmente via APP para fazer o booster funcionar com melhor desempenho\n- Exibição em tempo real da intensidade do sinal e potência de saída",
+      "descriptionHTML": "Este é um aplicativo para instalação profissional de amplificadores de sinal de celular, pode ajudá-lo a testar a intensidade do sinal e a banda de frequência da sua operadora e ajudar a encontrar a direção da estação base para que você possa escolher o amplificador de sinal de celular certo; ele também pode se conectar ao seu booster para ajustar o ganho do booster e monitorar o status operacional do dispositivo; ele suporta os sistemas de rede populares do mundo de várias operadoras; mesmo os não profissionais podem começar rapidamente por meio do APP e obter facilmente um sinal estável e melhor cobertura. É uma ferramenta auxiliar conveniente para sua casa e escritório!<br>Funções básicas:<br>- Ele pode testar a intensidade do sinal externo, tipo de rede, banda de frequência e encontrar a direção da estação base da sua operadora local para ajudá-lo a escolher o amplificador e as antenas corretos<br>- Vídeos de instalação são fornecidos para orientá-lo na instalação do booster com mais facilidade<br>- Serviço de chat ao vivo para ajudá-lo a resolver problemas com mais rapidez<br>- Junte-se gratuitamente ao programa de afiliados para ganhar comissão<br>- Registre-se como membro e tenha a chance de ganhar presentes<br>Função avançada:<br>- Conecte-se ao seu booster via Bluetooth para monitorar a operação do booster<br>- Ajuste o ganho manualmente via APP para fazer o booster funcionar com melhor desempenho<br>- Exibição em tempo real da intensidade do sinal e potência de saída",
+      "summary": "ferramenta de instalação de amplificador de sinal de celular",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 41474,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.phonetonetech.overseas",
+      "url": "https://play.google.com/store/apps/details?id=com.phonetonetech.overseas&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Song Key & Genre - BPM Finder",
+      "description": "O GenreKey ajuda você a encontrar o gênero, a tonalidade e o BPM de uma música em segundos. Reproduza músicas perto do seu celular ou carregue uma faixa de áudio e obtenha uma análise musical clara com correspondência de gênero, tonalidade, andamento e impressão digital sonora.\n\nUse o GenreKey como um localizador de tonalidade, gênero e BPM para DJs, produtores, músicos, dançarinos, criadores de conteúdo e amantes da música curiosos. Ele foi desenvolvido para qualquer pessoa que queira entender uma música rapidamente sem precisar abrir ferramentas de estúdio complicadas.\n\nO que você pode fazer com o GenreKey:\n\n• Descubra o gênero de uma música a partir de áudio ao vivo ou faixas carregadas\n• Detecte a tonalidade musical para mixagem, prática, canto ou produção\n• Obtenha BPM e andamento para sincronização de batidas, playlists, prática de dança e exercícios\n• Veja a confiança, o ritmo, o timbre, a harmonia, a energia, o groove e a intensidade\n• Explore tags de humor como aconchegante, hipnótico, envolvente e noturno\n• Veja gêneros relacionados e artistas similares com os resultados \"Soms como\"\n• Navegue por gêneros, faixas e artistas em alta\n• Confira as tendências musicais em diferentes países\n• Veja análises recentes e analise novamente quando necessário\n\nCriado para fluxos de trabalho musicais reais:\n\nDJs podem verificar a tonalidade e o BPM antes de mixar.\n\nProdutores podem estudar faixas de referência e as características de gênero.\n\nMúsicos podem entender harmonia e andamento mais rapidamente.\n\nDançarinos e criadores de conteúdo fitness podem combinar músicas por BPM.\n\nCriadores de conteúdo podem escolher músicas por humor, energia e estilo.\n\nOuvintes podem aprender o que faz uma música soar da maneira que soa.\n\nPor que GenreKey?\n\nMuitas ferramentas de análise musical mostram apenas o andamento. Algumas apenas encontram a tonalidade. O GenreKey oferece uma análise de faixas mais completa em um único resultado claro: gênero, tonalidade, BPM, atmosfera, energia, groove, calor, gêneros relacionados e artistas similares.\n\nUse-o antes de sets de DJ, sessões de produção musical, planejamento de playlists, prática de dança, exercícios, prática de canto ou simplesmente para descobrir novas músicas. Seja para detectar o andamento, encontrar a tonalidade, identificar o gênero ou analisar o áudio rapidamente, o GenreKey mantém o resultado simples e fácil de interpretar.\n\nComo funciona:\n\nToque para ouvir ou carregar uma faixa.\n\nDeixe o GenreKey analisar o áudio.\n\nVeja o gênero, a tonalidade, o BPM e a assinatura sonora.\n\nExplore artistas similares, gêneros relacionados e músicas em alta.\n\nO GenreKey foi feito para quem quer entender música mais rapidamente. Encontre o gênero. Detecte a tonalidade. Obtenha o BPM. Entenda o som.\n\nObservação: Os resultados podem variar de acordo com a qualidade do áudio, ruído de fundo, estrutura da música e complexidade da faixa.",
+      "descriptionHTML": "O GenreKey ajuda você a encontrar o gênero, a tonalidade e o BPM de uma música em segundos. Reproduza músicas perto do seu celular ou carregue uma faixa de áudio e obtenha uma análise musical clara com correspondência de gênero, tonalidade, andamento e impressão digital sonora.<br><br>Use o GenreKey como um localizador de tonalidade, gênero e BPM para DJs, produtores, músicos, dançarinos, criadores de conteúdo e amantes da música curiosos. Ele foi desenvolvido para qualquer pessoa que queira entender uma música rapidamente sem precisar abrir ferramentas de estúdio complicadas.<br><br>O que você pode fazer com o GenreKey:<br><br>• Descubra o gênero de uma música a partir de áudio ao vivo ou faixas carregadas<br>• Detecte a tonalidade musical para mixagem, prática, canto ou produção<br>• Obtenha BPM e andamento para sincronização de batidas, playlists, prática de dança e exercícios<br>• Veja a confiança, o ritmo, o timbre, a harmonia, a energia, o groove e a intensidade<br>• Explore tags de humor como aconchegante, hipnótico, envolvente e noturno<br>• Veja gêneros relacionados e artistas similares com os resultados &quot;Soms como&quot;<br>• Navegue por gêneros, faixas e artistas em alta<br>• Confira as tendências musicais em diferentes países<br>• Veja análises recentes e analise novamente quando necessário<br><br>Criado para fluxos de trabalho musicais reais:<br><br>DJs podem verificar a tonalidade e o BPM antes de mixar.<br><br>Produtores podem estudar faixas de referência e as características de gênero.<br><br>Músicos podem entender harmonia e andamento mais rapidamente.<br><br>Dançarinos e criadores de conteúdo fitness podem combinar músicas por BPM.<br><br>Criadores de conteúdo podem escolher músicas por humor, energia e estilo.<br><br>Ouvintes podem aprender o que faz uma música soar da maneira que soa.<br><br>Por que GenreKey?<br><br>Muitas ferramentas de análise musical mostram apenas o andamento. Algumas apenas encontram a tonalidade. O GenreKey oferece uma análise de faixas mais completa em um único resultado claro: gênero, tonalidade, BPM, atmosfera, energia, groove, calor, gêneros relacionados e artistas similares.<br><br>Use-o antes de sets de DJ, sessões de produção musical, planejamento de playlists, prática de dança, exercícios, prática de canto ou simplesmente para descobrir novas músicas. Seja para detectar o andamento, encontrar a tonalidade, identificar o gênero ou analisar o áudio rapidamente, o GenreKey mantém o resultado simples e fácil de interpretar.<br><br>Como funciona:<br><br>Toque para ouvir ou carregar uma faixa.<br><br>Deixe o GenreKey analisar o áudio.<br><br>Veja o gênero, a tonalidade, o BPM e a assinatura sonora.<br><br>Explore artistas similares, gêneros relacionados e músicas em alta.<br><br>O GenreKey foi feito para quem quer entender música mais rapidamente. Encontre o gênero. Detecte a tonalidade. Obtenha o BPM. Entenda o som.<br><br>Observação: Os resultados podem variar de acordo com a qualidade do áudio, ruído de fundo, estrutura da música e complexidade da faixa.",
+      "summary": "Descubra o gênero, a tonalidade e o BPM da música a partir de áudio ao vivo ou faixas enviadas.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2520,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.songkeyfinder.app",
+      "url": "https://play.google.com/store/apps/details?id=com.songkeyfinder.app&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

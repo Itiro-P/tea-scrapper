@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "collect_time": "2026-10-17T23:41:29.222Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISCALCULIA",
+    "term": "discalculia",
+    "key": "discalculia",
+    "depth": 0,
+    "parent": null,
+    "result_count": 14,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11398,
+      "score": 3.9,
+      "scoreText": "3,9",
+      "ratings": 38,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "DMX (DIP Switch) Calculator",
+      "description": "Este aplicativo permite que você obtenha as configurações corretas do dip-switch com um endereço DMX e vice-versa.\n\nCaracterísticas:\n· Tema claro/escuro;\n· Teclado integrado;\n· Você pode personalizar:\n    - número de interruptores;\n    - ordem dos interruptores;\n    - direção dos interruptores;\n    - valores dos passos;",
+      "descriptionHTML": "Este aplicativo permite que você obtenha as configurações corretas do dip-switch com um endereço DMX e vice-versa.<br><br>Características:<br>· Tema claro/escuro;<br>· Teclado integrado;<br>· Você pode personalizar:<br>    - número de interruptores;<br>    - ordem dos interruptores;<br>    - direção dos interruptores;<br>    - valores dos passos;",
+      "summary": "Este aplicativo permite que você obtenha as configurações do dip-switch com um endereço e vice-versa.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 132514,
+      "score": 4.8125,
+      "scoreText": "4,8",
+      "ratings": 258,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ilas.dmxcalculator",
+      "url": "https://play.google.com/store/apps/details?id=com.ilas.dmxcalculator&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Calculadora Gráfica Desmos",
+      "description": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.\n\nRecursos:\n\nGráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato \"y=\"!\n\nControles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.\n\nTabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.\n\nEstatística: encontre retas, parábolas e muito mais.\n\nAmpliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.\n\nPontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.\n\nCalculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.\n\nDesigualdades: plote desigualdades cartesianas e polares.\n\nAcessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.\n\nOffline: não é necessário acesso à Internet.\n\nAcesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "descriptionHTML": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.<br><br>Recursos:<br><br>Gráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato &quot;y=&quot;!<br><br>Controles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.<br><br>Tabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.<br><br>Estatística: encontre retas, parábolas e muito mais.<br><br>Ampliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.<br><br>Pontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.<br><br>Calculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.<br><br>Desigualdades: plote desigualdades cartesianas e polares.<br><br>Acessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.<br><br>Offline: não é necessário acesso à Internet.<br><br>Acesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "summary": "Plote funções e equações, crie tabelas, adicione controles e anime gráficos",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 10815478,
+      "score": 4.76,
+      "scoreText": "4,8",
+      "ratings": 36463,
+      "reviews": 220,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.desmos.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.desmos.calculator&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Calculadora Diluição: Auto",
+      "description": "Calculadora de Diluição calcula instantaneamente a proporção de mistura correta para snow foam, APC, shampoo automotivo e limpa rodas. Para detailing automotivo, estética automotiva, lavagem de carro e detalhadores profissionais.\n\nPare de adivinhar suas diluições. Seja você dono de um negócio de detailing, lave seu carro do dia a dia, ou tenha acabado de comprar sua primeira foam cannon, esta calculadora de diluição te dá quantidades exatas de produto e água, sempre.\n\nTRÊS FORMAS DE CALCULAR UMA PROPORÇÃO DE DILUIÇÃO\n- Volume Total: digite o tamanho do seu balde, frasco ou foam cannon e obtenha a divisão exata produto/água\n- Quantidade de Produto: já mediu o produto? Calcule quanta água adicionar\n- Quantidade de Água: frasco já cheio? Encontre a quantidade correta de produto\n\nSuporta proporções clássicas como 1:10, 1:20, 1:256 e formato percentual PIR. Presets rápidos para 500ml, 1L, 5L e 10L de foam cannons e baldes.\n\n400+ PRODUTOS DE CAR DETAILING E ESTÉTICA AUTOMOTIVA\nBanco de dados de diluições em crescimento em 13 categorias de detailing:\n- Pre-Wash e Snow Foam\n- Shampoo Automotivo\n- Multiuso (APC)\n- Limpa Rodas e Descontaminante Ferroso\n- Limpa Interior\n- Limpa Vidros\n- Dressing e Pretinho de Pneu\n- Quick Detailer\n- Desengraxante\n- Manutenção Cerâmica\n- Mais produtos personalizados\n\nProporções pré-carregadas de mais de 30 marcas líderes. Os nomes de produtos e as proporções são mostrados apenas para referência e não são endossados pelos fabricantes.\n\nCALCULADORA FOAM CANNON E SNOW FOAM\nConstruída para usuários de foam cannon. Digite o tamanho do seu frasco cannon e a proporção snow foam desejada, obtenha a mistura pre-wash exata em ml.\n\nAPC, SHAMPOO E DILUIÇÃO DE LIMPADOR\nAjuste seu multiuso com precisão, para limpeza pesada, seguro para interior ou vidros. Salve múltiplas diluições por produto.\n\nADICIONE SEUS PRODUTOS E PROPORÇÕES\nProduto não encontrado? Adicione e salve quantidade ilimitada de diluições personalizadas. Perfeito para rotinas de lavagem automotiva química e detalhadores profissionais construindo sua própria biblioteca de diluições.\n\nFAVORITOS E RECENTES\nFavorite seus produtos mais usados para acesso com um toque. Produtos recentes são rastreados automaticamente.\n\nTODAS AS UNIDADES, MÉTRICAS E IMPERIAIS\nMililitros, litros, US fluid ounces, US gallons, UK fluid ounces e UK gallons.\n\nFUNCIONA OFFLINE\nSem conta. Sem cadastro. Calculadora de diluição completa e banco de dados de produtos funcionam offline na garagem ou box de lavagem.\n\nUPGRADE AD-FREE OPCIONAL\nGrátis para usar. Compra única in-app remove anúncios para sempre.\n\nPARA QUEM\n- Profissionais de estética automotiva\n- Detalhadores móveis e fixos\n- Profissionais de car wash e valeting\n- Entusiastas de foam cannon e lavadoras de alta pressão\n- DIY car care e detailing de fim de semana\n\nPRINCIPAIS RECURSOS\n- Calculadora de diluição e calculadora de proporção de mistura\n- Suporte snow foam, APC, shampoo, limpa rodas\n- 400+ produtos de detailing pré-carregados\n- Proporções 1:X e formato percentual PIR\n- Produtos e proporções personalizados\n- Favoritos e histórico\n- Unidades métricas, US e UK\n- Offline, opção ad-free\n\nVEJA QUANTO CUSTA CADA MISTURA\nAtive os preços e veja quanto custa cada diluição. Insira o preço de um produto uma vez e a Detailution registra seus gastos automaticamente ao misturar, com detalhe por produto e por mês. Opcional e desativado por padrão.\n\nBaixe Calculadora de Diluição e misture cada produto de detailing perfeitamente, toda vez.",
+      "descriptionHTML": "Calculadora de Diluição calcula instantaneamente a proporção de mistura correta para snow foam, APC, shampoo automotivo e limpa rodas. Para detailing automotivo, estética automotiva, lavagem de carro e detalhadores profissionais.<br><br>Pare de adivinhar suas diluições. Seja você dono de um negócio de detailing, lave seu carro do dia a dia, ou tenha acabado de comprar sua primeira foam cannon, esta calculadora de diluição te dá quantidades exatas de produto e água, sempre.<br><br>TRÊS FORMAS DE CALCULAR UMA PROPORÇÃO DE DILUIÇÃO<br>- Volume Total: digite o tamanho do seu balde, frasco ou foam cannon e obtenha a divisão exata produto/água<br>- Quantidade de Produto: já mediu o produto? Calcule quanta água adicionar<br>- Quantidade de Água: frasco já cheio? Encontre a quantidade correta de produto<br><br>Suporta proporções clássicas como 1:10, 1:20, 1:256 e formato percentual PIR. Presets rápidos para 500ml, 1L, 5L e 10L de foam cannons e baldes.<br><br>400+ PRODUTOS DE CAR DETAILING E ESTÉTICA AUTOMOTIVA<br>Banco de dados de diluições em crescimento em 13 categorias de detailing:<br>- Pre-Wash e Snow Foam<br>- Shampoo Automotivo<br>- Multiuso (APC)<br>- Limpa Rodas e Descontaminante Ferroso<br>- Limpa Interior<br>- Limpa Vidros<br>- Dressing e Pretinho de Pneu<br>- Quick Detailer<br>- Desengraxante<br>- Manutenção Cerâmica<br>- Mais produtos personalizados<br><br>Proporções pré-carregadas de mais de 30 marcas líderes. Os nomes de produtos e as proporções são mostrados apenas para referência e não são endossados pelos fabricantes.<br><br>CALCULADORA FOAM CANNON E SNOW FOAM<br>Construída para usuários de foam cannon. Digite o tamanho do seu frasco cannon e a proporção snow foam desejada, obtenha a mistura pre-wash exata em ml.<br><br>APC, SHAMPOO E DILUIÇÃO DE LIMPADOR<br>Ajuste seu multiuso com precisão, para limpeza pesada, seguro para interior ou vidros. Salve múltiplas diluições por produto.<br><br>ADICIONE SEUS PRODUTOS E PROPORÇÕES<br>Produto não encontrado? Adicione e salve quantidade ilimitada de diluições personalizadas. Perfeito para rotinas de lavagem automotiva química e detalhadores profissionais construindo sua própria biblioteca de diluições.<br><br>FAVORITOS E RECENTES<br>Favorite seus produtos mais usados para acesso com um toque. Produtos recentes são rastreados automaticamente.<br><br>TODAS AS UNIDADES, MÉTRICAS E IMPERIAIS<br>Mililitros, litros, US fluid ounces, US gallons, UK fluid ounces e UK gallons.<br><br>FUNCIONA OFFLINE<br>Sem conta. Sem cadastro. Calculadora de diluição completa e banco de dados de produtos funcionam offline na garagem ou box de lavagem.<br><br>UPGRADE AD-FREE OPCIONAL<br>Grátis para usar. Compra única in-app remove anúncios para sempre.<br><br>PARA QUEM<br>- Profissionais de estética automotiva<br>- Detalhadores móveis e fixos<br>- Profissionais de car wash e valeting<br>- Entusiastas de foam cannon e lavadoras de alta pressão<br>- DIY car care e detailing de fim de semana<br><br>PRINCIPAIS RECURSOS<br>- Calculadora de diluição e calculadora de proporção de mistura<br>- Suporte snow foam, APC, shampoo, limpa rodas<br>- 400+ produtos de detailing pré-carregados<br>- Proporções 1:X e formato percentual PIR<br>- Produtos e proporções personalizados<br>- Favoritos e histórico<br>- Unidades métricas, US e UK<br>- Offline, opção ad-free<br><br>VEJA QUANTO CUSTA CADA MISTURA<br>Ative os preços e veja quanto custa cada diluição. Insira o preço de um produto uma vez e a Detailution registra seus gastos automaticamente ao misturar, com detalhe por produto e por mês. Opcional e desativado por padrão.<br><br>Baixe Calculadora de Diluição e misture cada produto de detailing perfeitamente, toda vez.",
+      "summary": "Calculadora diluição: estética automotiva, detailing, APC, snow foam",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1400,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Veículos",
+      "genreId": "AUTO_AND_VEHICLES",
+      "categories": [
+        {
+          "name": "Veículos",
+          "id": "AUTO_AND_VEHICLES"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.dilution.app.dilution",
+      "url": "https://play.google.com/store/apps/details?id=com.dilution.app.dilution&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Calculadora Plus: Tudo em Um",
+      "description": "Calculadora Plus é um aplicativo calculadora completa para Android que reúne calculadora básica, calculadora científica, calculadora de porcentagem, calculadora de impostos, conversor de moedas e unidades em um único app rápido e fácil de usar. Seja para matemática escolar, orçamento empresarial, engenharia, compras ou cálculos do dia a dia, o Calculadora Plus ajuda você a calcular com rapidez e precisão.\n\nEste aplicativo de calculadora multifuncional é ideal para:\n✔ Matemática básica e cálculos diários\n✔ Cálculos científicos e álgebra\n✔ Descontos e porcentagens em compras\n✔ Controle de orçamento, contas, impostos e despesas\n✔ Conversão de moedas e unidades\n✔ Controle financeiro e empresarial\n✔ Estudos e tarefas escolares\n✔ Equações em várias etapas com histórico\n✔ Uso confortável em movimento\n\nFunções Principais da Calculadora\n\nCalculadora Científica para Android\nResolva cálculos avançados com rapidez e clareza.\n✔ Parênteses e equações em múltiplas etapas\n✔ Potências e raiz quadrada\n✔ Logaritmos e cálculos exponenciais\n✔ Funções trigonométricas: sin, cos e tan\n✔ Fórmulas algébricas e científicas\n✔ Histórico de cálculos e memória\n\nIdeal para estudantes, engenheiros, profissionais e quem precisa de mais do que uma calculadora básica.\n\nCalculadora Inteligente para Uso Diário\nUse o Calculadora Plus para:\n✔ Contas e despesas pessoais\n✔ Totais de compras e descontos\n✔ Planejamento de orçamento\n✔ Gorjetas em restaurantes\n✔ Matemática doméstica\n✔ Cálculos rápidos no trabalho ou escola\n\nA interface leve com botões grandes oferece digitação rápida, resultados instantâneos e leitura confortável em celulares e tablets Android.\n\nCalculadora de Porcentagem e Impostos\n“Quanto é 20% de desconto?” ou “Qual gorjeta devo deixar?” O Calculadora Plus entrega respostas rápidas e precisas.\n✔ Descontos e promoções\n✔ Preços com impostos inclusos\n✔ Gorjetas e taxas de serviço\n✔ Aumento ou redução percentual\n✔ Margem de lucro e markup\n\nConversor de Moedas e Unidades\nConverta moedas e unidades sem sair da calculadora. Compare preços durante viagens e altere rapidamente entre unidades usadas no trabalho, escola, compras ou tarefas diárias.\n\nHistórico de Cálculos e Memória\nSalve e revise cálculos anteriores para conferir totais, acompanhar despesas, comparar números e evitar erros manuais.\n\nModo Multi-Janela\nAbra várias janelas da calculadora ao mesmo tempo para comparar totais, executar cálculos separados ou organizar orçamentos com mais eficiência.\n\nIdeal para:\n✔ Controle de despesas\n✔ Cálculos empresariais\n✔ Comparação de preços\n✔ Planejamento financeiro\n\nWidget de Calculadora para Tela Inicial Android\nAdicione o widget da calculadora na tela inicial para acesso rápido sem precisar abrir o aplicativo completo.\n\nNotas e Cálculos Salvos\nAdicione notas aos cálculos salvos para organizar despesas, transações, registros fiscais, orçamentos e conversões de moeda.\n\nTemas Personalizados e Leitura Confortável\nEscolha temas personalizáveis para melhorar a leitura durante o dia ou à noite.\n\nPara Quem o Calculadora Plus Foi Criado?\n✔ Estudantes e alunos\n✔ Profissionais e engenheiros\n✔ Pequenos empresários\n✔ Viajantes e consumidores\n✔ Pessoas que controlam orçamento e finanças pessoais\n\nPor Que Escolher o Calculadora Plus?\n✔ Calculadora científica e básica em um só aplicativo\n✔ Rápido, leve e fácil de usar\n✔ Cálculos de porcentagem, impostos e descontos\n✔ Conversor de moedas e unidades\n✔ Histórico de cálculos com notas e memória\n✔ Suporte multi-janela\n✔ Widget de acesso rápido\n✔ Aplicativo econômico no consumo de bateria\n\nSe você precisa de uma calculadora confiável para orçamento, impostos, compras, estudos, negócios ou matemática do dia a dia, o Calculadora Plus oferece ferramentas rápidas, práticas e precisas em um único aplicativo Android.",
+      "descriptionHTML": "<b>Calculadora Plus</b> é um aplicativo calculadora completa para Android que reúne calculadora básica, calculadora científica, calculadora de porcentagem, calculadora de impostos, conversor de moedas e unidades em um único app rápido e fácil de usar. Seja para matemática escolar, orçamento empresarial, engenharia, compras ou cálculos do dia a dia, o Calculadora Plus ajuda você a calcular com rapidez e precisão.<br><br><b>Este aplicativo de calculadora multifuncional é ideal para:</b><br>✔ Matemática básica e cálculos diários<br>✔ Cálculos científicos e álgebra<br>✔ Descontos e porcentagens em compras<br>✔ Controle de orçamento, contas, impostos e despesas<br>✔ Conversão de moedas e unidades<br>✔ Controle financeiro e empresarial<br>✔ Estudos e tarefas escolares<br>✔ Equações em várias etapas com histórico<br>✔ Uso confortável em movimento<br><br><b>Funções Principais da Calculadora</b><br><br><b>Calculadora Científica para Android</b><br>Resolva cálculos avançados com rapidez e clareza.<br>✔ Parênteses e equações em múltiplas etapas<br>✔ Potências e raiz quadrada<br>✔ Logaritmos e cálculos exponenciais<br>✔ Funções trigonométricas: sin, cos e tan<br>✔ Fórmulas algébricas e científicas<br>✔ Histórico de cálculos e memória<br><br>Ideal para estudantes, engenheiros, profissionais e quem precisa de mais do que uma calculadora básica.<br><br><b>Calculadora Inteligente para Uso Diário</b><br>Use o Calculadora Plus para:<br>✔ Contas e despesas pessoais<br>✔ Totais de compras e descontos<br>✔ Planejamento de orçamento<br>✔ Gorjetas em restaurantes<br>✔ Matemática doméstica<br>✔ Cálculos rápidos no trabalho ou escola<br><br>A interface leve com botões grandes oferece digitação rápida, resultados instantâneos e leitura confortável em celulares e tablets Android.<br><br><b>Calculadora de Porcentagem e Impostos</b><br>“Quanto é 20% de desconto?” ou “Qual gorjeta devo deixar?” O Calculadora Plus entrega respostas rápidas e precisas.<br>✔ Descontos e promoções<br>✔ Preços com impostos inclusos<br>✔ Gorjetas e taxas de serviço<br>✔ Aumento ou redução percentual<br>✔ Margem de lucro e markup<br><br><b>Conversor de Moedas e Unidades</b><br>Converta moedas e unidades sem sair da calculadora. Compare preços durante viagens e altere rapidamente entre unidades usadas no trabalho, escola, compras ou tarefas diárias.<br><br><b>Histórico de Cálculos e Memória</b><br>Salve e revise cálculos anteriores para conferir totais, acompanhar despesas, comparar números e evitar erros manuais.<br><br><b>Modo Multi-Janela</b><br>Abra várias janelas da calculadora ao mesmo tempo para comparar totais, executar cálculos separados ou organizar orçamentos com mais eficiência.<br><br>Ideal para:<br>✔ Controle de despesas<br>✔ Cálculos empresariais<br>✔ Comparação de preços<br>✔ Planejamento financeiro<br><br><b>Widget de Calculadora para Tela Inicial Android</b><br>Adicione o widget da calculadora na tela inicial para acesso rápido sem precisar abrir o aplicativo completo.<br><br><b>Notas e Cálculos Salvos</b><br>Adicione notas aos cálculos salvos para organizar despesas, transações, registros fiscais, orçamentos e conversões de moeda.<br><br><b>Temas Personalizados e Leitura Confortável</b><br>Escolha temas personalizáveis para melhorar a leitura durante o dia ou à noite.<br><br><b>Para Quem o Calculadora Plus Foi Criado?</b><br>✔ Estudantes e alunos<br>✔ Profissionais e engenheiros<br>✔ Pequenos empresários<br>✔ Viajantes e consumidores<br>✔ Pessoas que controlam orçamento e finanças pessoais<br><br><b>Por Que Escolher o Calculadora Plus?</b><br>✔ Calculadora científica e básica em um só aplicativo<br>✔ Rápido, leve e fácil de usar<br>✔ Cálculos de porcentagem, impostos e descontos<br>✔ Conversor de moedas e unidades<br>✔ Histórico de cálculos com notas e memória<br>✔ Suporte multi-janela<br>✔ Widget de acesso rápido<br>✔ Aplicativo econômico no consumo de bateria<br><br>Se você precisa de uma calculadora confiável para orçamento, impostos, compras, estudos, negócios ou matemática do dia a dia, o Calculadora Plus oferece ferramentas rápidas, práticas e precisas em um único aplicativo Android.",
+      "summary": "Calculadora completa: básica e científica, com histórico, unidades e moedas.",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 66412905,
+      "score": 4.8914914,
+      "scoreText": "4,9",
+      "ratings": 920098,
+      "reviews": 43644,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.digitalchemy.calculator.freedecimal",
+      "url": "https://play.google.com/store/apps/details?id=com.digitalchemy.calculator.freedecimal&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Calculadora King",
+      "description": "Calculadora King é uma calculadora gratuita e poderosa, criada para tornar os cálculos simples.\n\nO seu editor de expressões flexível permite introduzir, editar e resolver cálculos de forma natural. Mova o cursor para qualquer ponto de uma expressão para fazer alterações sem recomeçar, quer esteja a trabalhar com aritmética básica, frações, percentagens ou fórmulas mais avançadas. O realce a cores mantém as expressões legíveis, mesmo quando se tornam mais complexas.\n\nAlterne entre a vista simples e a científica rodando o dispositivo. Também pode ampliar o visor com um único toque para ver melhor.\n\nCalculadora King funciona em telemóveis e tablets de todos os tamanhos de ecrã. O histórico de cálculos está sempre disponível, para rever resultados anteriores, reutilizar expressões ou guardar valores na memória. Escolha entre dois modos de memória: memória clássica Guardar/Limpar, ou memória de calculadora comercial com os botões M+, M- e MRC — o estilo conhecido das caixas registadoras.\n\nA calculadora suporta ainda gráficos, números muito grandes e uma vasta gama de funções matemáticas. É totalmente gratuita, sem funcionalidades pagas para desbloquear e sem permissões desnecessárias.\n\nSeja estudante, engenheiro, professor ou simplesmente alguém que precisa de uma calculadora fiável todos os dias, Calculadora King tem as ferramentas de que precisa.\n\nFuncionalidades\n\n★ Editor de expressões flexível com edição completa por cursor.\n\n★ Suporte para frações: introduzir, editar, converter e calcular.\n\n★ Aritmética básica e avançada.\n\n★ Ordem correta das operações.\n\n★ Cálculos de percentagens.\n\n★ Suporte para números grandes.\n\n★ Botão ANS para reutilizar o último resultado.\n\n★ Histórico de cálculos.\n\n★ Dois modos de memória: Guardar/Limpar ou M+, M-, MRC.\n\n★ Funções trigonométricas (sin, cos, tan, asin, acos, atan, sinh, cosh, tanh).\n\n★ Potências e expoentes.\n\n★ Raiz quadrada e raiz cúbica.\n\n★ Fatorial e módulo.\n\n★ Funções logarítmicas.\n\n★ Valor absoluto, teto e piso.\n\n★ Modo de calculadora simples.\n\n★ Modo de calculadora científica.\n\n★ Gráficos de funções de uma variável.\n\n★ Gratuita para sempre.",
+      "descriptionHTML": "<b>Calculadora King</b> é uma calculadora gratuita e poderosa, criada para tornar os cálculos simples.<br><br>O seu editor de expressões flexível permite introduzir, editar e resolver cálculos de forma natural. Mova o cursor para qualquer ponto de uma expressão para fazer alterações sem recomeçar, quer esteja a trabalhar com aritmética básica, frações, percentagens ou fórmulas mais avançadas. O realce a cores mantém as expressões legíveis, mesmo quando se tornam mais complexas.<br><br>Alterne entre a vista simples e a científica rodando o dispositivo. Também pode ampliar o visor com um único toque para ver melhor.<br><br>Calculadora King funciona em telemóveis e tablets de todos os tamanhos de ecrã. O histórico de cálculos está sempre disponível, para rever resultados anteriores, reutilizar expressões ou guardar valores na memória. Escolha entre dois modos de memória: memória clássica Guardar/Limpar, ou memória de calculadora comercial com os botões M+, M- e MRC — o estilo conhecido das caixas registadoras.<br><br>A calculadora suporta ainda gráficos, números muito grandes e uma vasta gama de funções matemáticas. É totalmente gratuita, sem funcionalidades pagas para desbloquear e sem permissões desnecessárias.<br><br>Seja estudante, engenheiro, professor ou simplesmente alguém que precisa de uma calculadora fiável todos os dias, Calculadora King tem as ferramentas de que precisa.<br><br><b>Funcionalidades</b><br><br>★ Editor de expressões flexível com edição completa por cursor.<br><br>★ Suporte para frações: introduzir, editar, converter e calcular.<br><br>★ Aritmética básica e avançada.<br><br>★ Ordem correta das operações.<br><br>★ Cálculos de percentagens.<br><br>★ Suporte para números grandes.<br><br>★ Botão ANS para reutilizar o último resultado.<br><br>★ Histórico de cálculos.<br><br>★ Dois modos de memória: Guardar/Limpar ou M+, M-, MRC.<br><br>★ Funções trigonométricas (sin, cos, tan, asin, acos, atan, sinh, cosh, tanh).<br><br>★ Potências e expoentes.<br><br>★ Raiz quadrada e raiz cúbica.<br><br>★ Fatorial e módulo.<br><br>★ Funções logarítmicas.<br><br>★ Valor absoluto, teto e piso.<br><br>★ Modo de calculadora simples.<br><br>★ Modo de calculadora científica.<br><br>★ Gráficos de funções de uma variável.<br><br>★ Gratuita para sempre.",
+      "summary": "Calculadora fácil de usar, com todos os recursos que você precisa.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 771922,
+      "score": 4.75,
+      "scoreText": "4,8",
+      "ratings": 13546,
+      "reviews": 397,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.kingcalculator",
+      "url": "https://play.google.com/store/apps/details?id=com.kingcalculator&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "ClassCalc Calculadora Gráfica",
+      "description": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.\n\nPaying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:\n1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.\n2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.\n3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.\n\nList Of Features:\n\nScientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):\n\nAlgebra, Advanced Statistics, Trigonometry, Calculus\nFeatures: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder\n\nGraphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):\n\nGraphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (& Precalculus)\nFeatures: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes \n\nMatrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): \n\nLinear Algebra\nFeatures: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.\n\nWhy do we need accessibility permissions when you're joining test mode?\nIn order to give teachers full trust that the students can't access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don't collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student's end - no data is sent over.\n\nContact: Info@classcalc.com",
+      "descriptionHTML": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.<br><br>Paying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:<br>1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.<br>2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.<br>3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.<br><br>List Of Features:<br><br>Scientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):<br><br>Algebra, Advanced Statistics, Trigonometry, Calculus<br>Features: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder<br><br>Graphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):<br><br>Graphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (&amp; Precalculus)<br>Features: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes <br><br>Matrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): <br><br>Linear Algebra<br>Features: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.<br><br>Why do we need accessibility permissions when you&#39;re joining test mode?<br>In order to give teachers full trust that the students can&#39;t access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don&#39;t collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student&#39;s end - no data is sent over.<br><br>Contact: Info@classcalc.com",
+      "summary": "Gráfica, Estatística, Científica &amp; Matrizes. 100% gratuita. Sem anúncios.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 57444,
+      "score": 4.972973,
+      "scoreText": "5,0",
+      "ratings": 485,
+      "reviews": 26,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.classcalc.classcalc",
+      "url": "https://play.google.com/store/apps/details?id=com.classcalc.classcalc&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "NeoCalc: Calculadora de Voz",
+      "description": "🚀 NeoCalc – Calculadora de Voz e Calculadora Inteligente Completa\n\nNeoCalc é uma poderosa calculadora de voz e calculadora inteligente completa com mais de 15 ferramentas integradas. Fale ou digite qualquer cálculo e obtenha o resultado na hora. De parcelas de empréstimo e impostos a IMC, planejamento de investimentos e monitoramento diário de saúde — além de uma calculadora flutuante para multitarefa — tudo em um único app de calculadora rápido, gratuito e offline.\n── ── ── ── ── ── ── ── ── ──\n\n🎈 CALCULADORA FLUTUANTE — CALCULE SOBRE QUALQUER APP\n• Calculadora flutuante que fica na tela — use enquanto navega, conversa ou está em qualquer app\n• Arraste, redimensione e reposicione — encaixe do seu jeito na tela\n• Acesso rápido sem sair do que está fazendo\n• Perfeita para compras, dividir contas e multitarefa\n\n🎤 CALCULADORA DE VOZ — FALE PARA CALCULAR\n• Diga qualquer cálculo — \"50 mais 30\", \"15 por cento de 200\"\n• Reconhecimento de voz rápido e preciso\n• Resultados instantâneos, totalmente hands-free\n• Nenhum áudio é armazenado — privacidade total\n\n🔢 CALCULADORA SIMPLES + HISTÓRICO\n• Soma, subtração, multiplicação, divisão — cálculo instantâneo\n• Suporte a porcentagem e decimais\n• Histórico completo de cálculos — reveja e reutilize resultados anteriores\n• Interface limpa, sem anúncios forçados nas funções principais\n\n🏦 CALCULADORA DE PARCELAS E EMPRÉSTIMOS\n• Calculadora de parcelas para financiamento imobiliário, de veículo e empréstimo pessoal\n• Detalhamento da parcela mensal + juros totais + valor principal\n• Prazo e taxa de juros ajustáveis\n\n📈 CALCULADORA DE INVESTIMENTOS\n• Calculadora de valor futuro para aportes mensais recorrentes\n• Retorno de investimento em aporte único\n• Estimativa de patrimônio e retorno a longo prazo\n\n📊 MAIS FERRAMENTAS PODEROSAS\n✔ Calculadora de porcentagem e desconto\n✔ Calculadora de imposto — adicione ou remova imposto em qualquer alíquota instantaneamente\n✔ Calculadora de lucro e prejuízo — para negócios e trading\n✔ Calculadora de divisão de conta e gorjeta\n✔ Calculadora de idade — anos, meses e dias com precisão\n✔ Calculadora de IMC e verificador de peso ideal\n✔ Calculadora de calorias — monitor de consumo diário\n✔ Monitor de hidratação com lembretes\n✔ Conversor de unidades — comprimento, peso, temperatura e mais\n✔ Calculadora de juros\n\n📶 100% OFFLINE — SEM NECESSIDADE DE INTERNET\nFunciona sem Wi-Fi ou dados móveis. Rápida, leve e sempre disponível.\n\n🌗 MODO ESCURO E TEMAS PERSONALIZADOS\nModo escuro confortável para os olhos, tema rosa e outras opções de cor, com navegação suave e moderna.\n\n🔒 PRIVACIDADE EM PRIMEIRO LUGAR\nNenhum áudio é gravado ou armazenado. Nenhum dado pessoal é coletado. Sem rastreamento desnecessário.\n\n📲 Baixe o NeoCalc — calculadora de voz, calculadora flutuante e kit completo de ferramentas financeiras, tudo em um app rápido, gratuito e offline.",
+      "descriptionHTML": "🚀 NeoCalc – Calculadora de Voz e Calculadora Inteligente Completa<br><br>NeoCalc é uma poderosa calculadora de voz e calculadora inteligente completa com mais de 15 ferramentas integradas. Fale ou digite qualquer cálculo e obtenha o resultado na hora. De parcelas de empréstimo e impostos a IMC, planejamento de investimentos e monitoramento diário de saúde — além de uma calculadora flutuante para multitarefa — tudo em um único app de calculadora rápido, gratuito e offline.<br>── ── ── ── ── ── ── ── ── ──<br><br>🎈 CALCULADORA FLUTUANTE — CALCULE SOBRE QUALQUER APP<br>• Calculadora flutuante que fica na tela — use enquanto navega, conversa ou está em qualquer app<br>• Arraste, redimensione e reposicione — encaixe do seu jeito na tela<br>• Acesso rápido sem sair do que está fazendo<br>• Perfeita para compras, dividir contas e multitarefa<br><br>🎤 CALCULADORA DE VOZ — FALE PARA CALCULAR<br>• Diga qualquer cálculo — &quot;50 mais 30&quot;, &quot;15 por cento de 200&quot;<br>• Reconhecimento de voz rápido e preciso<br>• Resultados instantâneos, totalmente hands-free<br>• Nenhum áudio é armazenado — privacidade total<br><br>🔢 CALCULADORA SIMPLES + HISTÓRICO<br>• Soma, subtração, multiplicação, divisão — cálculo instantâneo<br>• Suporte a porcentagem e decimais<br>• Histórico completo de cálculos — reveja e reutilize resultados anteriores<br>• Interface limpa, sem anúncios forçados nas funções principais<br><br>🏦 CALCULADORA DE PARCELAS E EMPRÉSTIMOS<br>• Calculadora de parcelas para financiamento imobiliário, de veículo e empréstimo pessoal<br>• Detalhamento da parcela mensal + juros totais + valor principal<br>• Prazo e taxa de juros ajustáveis<br><br>📈 CALCULADORA DE INVESTIMENTOS<br>• Calculadora de valor futuro para aportes mensais recorrentes<br>• Retorno de investimento em aporte único<br>• Estimativa de patrimônio e retorno a longo prazo<br><br>📊 MAIS FERRAMENTAS PODEROSAS<br>✔ Calculadora de porcentagem e desconto<br>✔ Calculadora de imposto — adicione ou remova imposto em qualquer alíquota instantaneamente<br>✔ Calculadora de lucro e prejuízo — para negócios e trading<br>✔ Calculadora de divisão de conta e gorjeta<br>✔ Calculadora de idade — anos, meses e dias com precisão<br>✔ Calculadora de IMC e verificador de peso ideal<br>✔ Calculadora de calorias — monitor de consumo diário<br>✔ Monitor de hidratação com lembretes<br>✔ Conversor de unidades — comprimento, peso, temperatura e mais<br>✔ Calculadora de juros<br><br>📶 100% OFFLINE — SEM NECESSIDADE DE INTERNET<br>Funciona sem Wi-Fi ou dados móveis. Rápida, leve e sempre disponível.<br><br>🌗 MODO ESCURO E TEMAS PERSONALIZADOS<br>Modo escuro confortável para os olhos, tema rosa e outras opções de cor, com navegação suave e moderna.<br><br>🔒 PRIVACIDADE EM PRIMEIRO LUGAR<br>Nenhum áudio é gravado ou armazenado. Nenhum dado pessoal é coletado. Sem rastreamento desnecessário.<br><br>📲 Baixe o NeoCalc — calculadora de voz, calculadora flutuante e kit completo de ferramentas financeiras, tudo em um app rápido, gratuito e offline.",
+      "summary": "Calculadora de voz e flutuante, parcelas, imposto, IMC. 100% offline e grátis",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 13079,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.sukdeb.neocalc",
+      "url": "https://play.google.com/store/apps/details?id=com.sukdeb.neocalc&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "HydraCal: Hydraulic Calculator",
+      "description": "HydraCal – Calculadora Hidráulica para Engenheiros Profissionais\n\nO HydraCal é uma calculadora hidráulica profissional projetada para engenheiros hidráulicos, projetistas de sistemas, fabricantes de máquinas e profissionais de manutenção.\n\nProjete, calcule e analise sistemas hidráulicos rapidamente usando fórmulas de engenharia precisas em um aplicativo poderoso e fácil de usar.\n\nSeja para projetar um novo sistema hidráulico, solucionar problemas em uma máquina existente ou trabalhar em campo, o HydraCal fornece cálculos de engenharia rápidos, confiáveis ​​e profissionais.\n\nPOR QUE USAR O HYDRACAL?\n\n✅ Cálculos profissionais de engenharia hidráulica\n\n✅ Resultados precisos e confiáveis\n\n✅ Interface rápida e intuitiva\n\n✅ Suporte para unidades métricas e imperiais\n\n✅ Compra única\n\n✅ Acesso vitalício\n\n✅ Atualizações regulares\n\nCALCULADORAS INCLUSAS\n\n✅ Calculadora de Cilindro Hidráulico\n\nCalcule:\n• Força do Cilindro\n• Volume de Óleo\n• Velocidade do Cilindro\n• Tempo de Curso\n• Vazão de Retorno\n• Velocidade de Regeneração\n• Vazão de Regeneração\n• Tempo de Curso de Regeneração\n\n✅ Calculadora de Hidromotor\n\nCalcule:\n• Torque do Motor\n• Velocidade do Motor\n• Cilindrada do Motor\n• Vazão da Bomba\n• Potência Hidráulica\n• Potência Mecânica\n• Pressão Necessária\n\n✅ Calculadora de Vazão da Bomba\n\nCalcule rapidamente a vazão da bomba hidráulica para o seu sistema hidráulico.\n\n✅ Calculadora de Potência do Motor Elétrico\n\nCalcule a potência necessária do motor elétrico com base na pressão e vazão hidráulicas.\n\n✅ Calculadora de Resfriador Hidráulico\n\nCalcule:\n• Carga Térmica do Sistema\n• Capacidade Necessária do Resfriador\n\n✅ Calculadora de Acumulador Hidráulico\n\nDimensionamento avançado de acumuladores usando algoritmos de aproximação de gás real para resultados de engenharia de alta precisão.\n\nCalcule:\n• Volume Mínimo do Acumulador\n• Pressão de Pré-carga de Nitrogênio\n\n✅ Analisador de Tempo de Ciclo\n\nAnalise sistemas hidráulicos com suporte para até 15 cilindros.\n\nCalcule:\n• Tempo de Trabalho\n• Tempo de Retorno\n• Tempo Total do Ciclo\n\n✅ Calculadora de Descompressão\n\nCalcule o diâmetro do orifício de descompressão ou o tempo de descompressão para um projeto seguro de circuito hidráulico.\n\n✅ Calculadora de Queda Livre\n\nAvalie as cargas gravitacionais e determine se um sistema hidráulico sofrerá queda livre descontrolada.\n\n✅ ✅ Calculadora de Tubulação Hidráulica\n\nCalcule:\n• Velocidade do Fluxo\n• Regime de Fluxo\n• Perda de Pressão\n\n✅ Conversor de Unidades de Engenharia\n\nConverta unidades de engenharia métricas e imperiais instantaneamente.\n\nInclui 11 categorias de conversão que abrangem as unidades de engenharia mais comuns.\n\nDESENVOLVIDO PARA\n\n✅ Engenheiros Hidráulicos\n\n✅ Projetistas de Sistemas\n\n✅ Fabricantes de Máquinas\n\n✅ Hidráulica Móvel\n\n✅ Máquinas Industriais\n\n✅ Engenheiros de Serviço e Manutenção\n\nPOR QUE OS PROFISSIONAIS ESCOLHEM O HYDRACAL\n\nO HydraCal combina os cálculos de engenharia hidráulica mais usados ​​em um único aplicativo, eliminando a necessidade de planilhas, fórmulas manuais e múltiplas ferramentas de cálculo.\n\nDe cilindros hidráulicos e hidromotores a acumuladores, resfriadores, tubulações e análise completa do tempo de ciclo, o HydraCal ajuda os engenheiros a realizar cálculos precisos com mais rapidez e confiança.\n\nSe você trabalha com sistemas hidráulicos, o HydraCal é a ferramenta de engenharia completa projetada para economizar tempo, melhorar a precisão e aumentar a produtividade.",
+      "descriptionHTML": "HydraCal – Calculadora Hidráulica para Engenheiros Profissionais<br><br>O HydraCal é uma calculadora hidráulica profissional projetada para engenheiros hidráulicos, projetistas de sistemas, fabricantes de máquinas e profissionais de manutenção.<br><br>Projete, calcule e analise sistemas hidráulicos rapidamente usando fórmulas de engenharia precisas em um aplicativo poderoso e fácil de usar.<br><br>Seja para projetar um novo sistema hidráulico, solucionar problemas em uma máquina existente ou trabalhar em campo, o HydraCal fornece cálculos de engenharia rápidos, confiáveis ​​e profissionais.<br><br>POR QUE USAR O HYDRACAL?<br><br>✅ Cálculos profissionais de engenharia hidráulica<br><br>✅ Resultados precisos e confiáveis<br><br>✅ Interface rápida e intuitiva<br><br>✅ Suporte para unidades métricas e imperiais<br><br>✅ Compra única<br><br>✅ Acesso vitalício<br><br>✅ Atualizações regulares<br><br>CALCULADORAS INCLUSAS<br><br>✅ Calculadora de Cilindro Hidráulico<br><br>Calcule:<br>• Força do Cilindro<br>• Volume de Óleo<br>• Velocidade do Cilindro<br>• Tempo de Curso<br>• Vazão de Retorno<br>• Velocidade de Regeneração<br>• Vazão de Regeneração<br>• Tempo de Curso de Regeneração<br><br>✅ Calculadora de Hidromotor<br><br>Calcule:<br>• Torque do Motor<br>• Velocidade do Motor<br>• Cilindrada do Motor<br>• Vazão da Bomba<br>• Potência Hidráulica<br>• Potência Mecânica<br>• Pressão Necessária<br><br>✅ Calculadora de Vazão da Bomba<br><br>Calcule rapidamente a vazão da bomba hidráulica para o seu sistema hidráulico.<br><br>✅ Calculadora de Potência do Motor Elétrico<br><br>Calcule a potência necessária do motor elétrico com base na pressão e vazão hidráulicas.<br><br>✅ Calculadora de Resfriador Hidráulico<br><br>Calcule:<br>• Carga Térmica do Sistema<br>• Capacidade Necessária do Resfriador<br><br>✅ Calculadora de Acumulador Hidráulico<br><br>Dimensionamento avançado de acumuladores usando algoritmos de aproximação de gás real para resultados de engenharia de alta precisão.<br><br>Calcule:<br>• Volume Mínimo do Acumulador<br>• Pressão de Pré-carga de Nitrogênio<br><br>✅ Analisador de Tempo de Ciclo<br><br>Analise sistemas hidráulicos com suporte para até 15 cilindros.<br><br>Calcule:<br>• Tempo de Trabalho<br>• Tempo de Retorno<br>• Tempo Total do Ciclo<br><br>✅ Calculadora de Descompressão<br><br>Calcule o diâmetro do orifício de descompressão ou o tempo de descompressão para um projeto seguro de circuito hidráulico.<br><br>✅ Calculadora de Queda Livre<br><br>Avalie as cargas gravitacionais e determine se um sistema hidráulico sofrerá queda livre descontrolada.<br><br>✅ ✅ Calculadora de Tubulação Hidráulica<br><br>Calcule:<br>• Velocidade do Fluxo<br>• Regime de Fluxo<br>• Perda de Pressão<br><br>✅ Conversor de Unidades de Engenharia<br><br>Converta unidades de engenharia métricas e imperiais instantaneamente.<br><br>Inclui 11 categorias de conversão que abrangem as unidades de engenharia mais comuns.<br><br>DESENVOLVIDO PARA<br><br>✅ Engenheiros Hidráulicos<br><br>✅ Projetistas de Sistemas<br><br>✅ Fabricantes de Máquinas<br><br>✅ Hidráulica Móvel<br><br>✅ Máquinas Industriais<br><br>✅ Engenheiros de Serviço e Manutenção<br><br>POR QUE OS PROFISSIONAIS ESCOLHEM O HYDRACAL<br><br>O HydraCal combina os cálculos de engenharia hidráulica mais usados ​​em um único aplicativo, eliminando a necessidade de planilhas, fórmulas manuais e múltiplas ferramentas de cálculo.<br><br>De cilindros hidráulicos e hidromotores a acumuladores, resfriadores, tubulações e análise completa do tempo de ciclo, o HydraCal ajuda os engenheiros a realizar cálculos precisos com mais rapidez e confiança.<br><br>Se você trabalha com sistemas hidráulicos, o HydraCal é a ferramenta de engenharia completa projetada para economizar tempo, melhorar a precisão e aumentar a produtividade.",
+      "summary": "Calculadora hidráulica para cilindro, bomba, acumulador, resfriador e conversor de unidade.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7074,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mechmind.hydracal",
+      "url": "https://play.google.com/store/apps/details?id=com.mechmind.hydracal&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Dogl Precalculus",
+      "description": "Dogl Precalculus é seu aplicativo móvel amigável, projetado por professores universitários para ajudá-lo a conquistar conceitos de pré-cálculo por meio da resolução de problemas pequenos. Dogl Precalculus está apenas começando e adicionando novos materiais o tempo todo.\n\nAcelere seu aprendizado de pré-cálculo com Dogl:\n\n• A prática leva à perfeição: receba 100 problemas GRATUITOS para começar, sobre qualquer assunto. Além disso, desbloqueie 10 problemas gratuitos adicionais todas as semanas para manter suas habilidades afiadas.\n\n• Vá Ilimitado (Opcional): Está gostando do Dogl e quer dominar o Pré-cálculo mais rápido? Seja um dos nossos primeiros usuários e obtenha nossa tarifa introdutória especial para acesso de 4 meses e 1 ano.\n\n• Aprendizado Personalizado: Nosso aplicativo se adapta ao seu estilo de aprendizagem, adaptando os problemas com base no seu progresso.\n\n• Orientação Teacher's Eye™: Preso? Obtenha dicas visuais que o guiam sem revelar a resposta.\n\n• Livre de anúncios e focado na privacidade: não exibimos anúncios nem vendemos seus dados. Contamos com atualizadores felizes para manter o aplicativo funcionando.\n\n• Feito por Especialistas: Criado por professores universitários que entendem os desafios que os estudantes enfrentam.\n\n• Compatível com o novo currículo AP Precalculus.\n\nBaixe Dogl Precalculus hoje e libere seu potencial!",
+      "descriptionHTML": "Dogl Precalculus é seu aplicativo móvel amigável, projetado por professores universitários para ajudá-lo a conquistar conceitos de pré-cálculo por meio da resolução de problemas pequenos. Dogl Precalculus está apenas começando e adicionando novos materiais o tempo todo.<br><br>Acelere seu aprendizado de pré-cálculo com Dogl:<br><br>• A prática leva à perfeição: receba 100 problemas GRATUITOS para começar, sobre qualquer assunto. Além disso, desbloqueie 10 problemas gratuitos adicionais todas as semanas para manter suas habilidades afiadas.<br><br>• Vá Ilimitado (Opcional): Está gostando do Dogl e quer dominar o Pré-cálculo mais rápido? Seja um dos nossos primeiros usuários e obtenha nossa tarifa introdutória especial para acesso de 4 meses e 1 ano.<br><br>• Aprendizado Personalizado: Nosso aplicativo se adapta ao seu estilo de aprendizagem, adaptando os problemas com base no seu progresso.<br><br>• Orientação Teacher&#39;s Eye™: Preso? Obtenha dicas visuais que o guiam sem revelar a resposta.<br><br>• Livre de anúncios e focado na privacidade: não exibimos anúncios nem vendemos seus dados. Contamos com atualizadores felizes para manter o aplicativo funcionando.<br><br>• Feito por Especialistas: Criado por professores universitários que entendem os desafios que os estudantes enfrentam.<br><br>• Compatível com o novo currículo AP Precalculus.<br><br>Baixe Dogl Precalculus hoje e libere seu potencial!",
+      "summary": "O aplicativo Pré-cálculo feito por professores: conquiste o Pré-cálculo com uma prática rápida",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1679,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.dogl.precalc",
+      "url": "https://play.google.com/store/apps/details?id=app.dogl.precalc&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Calculadora Mobi Calculator",
+      "description": "Calculadora para cálculos simples e avançados com percentuais — sem anúncios!\n\nIdeal para cálculos do dia a dia, escolares e profissionais.\n\n• Cálculo de expressões matemáticas (baseado em algoritmo RPN, mas com interface tradicional — não é uma calculadora RPN!)\n• Percentuais — descontos, impostos, gorjetas e muito mais\n• Modo numérico: HEX, BIN e OCT (versão PRO até 64 bits)\n• Cálculo de tempo (dois modos disponíveis)\n• Funções trigonométricas com suporte a radianos, graus e formato DMS (graus-minutos-segundos)\n• Funções logarítmicas e outras funções científicas\n• Memória clássica (M+, M-, MR) e histórico completo de cálculos com comentários e compartilhamento\n• Agrupamento de dígitos para melhor leitura\n• Temas coloridos (skins)\n• Botões grandes e interface moderna, clara e fácil de usar\n• Altamente personalizável\n• SEM ANÚNCIOS!\n• Aplicativo leve e rápido — ocupa pouco espaço\n• Mais recursos serão adicionados. Fique ligado! 😉\n\nNome antigo: Cube Calculator\nA versão PRO está disponível no Google Play.",
+      "descriptionHTML": "Calculadora para cálculos simples e avançados com percentuais — sem anúncios!<br><br>Ideal para cálculos do dia a dia, escolares e profissionais.<br><br>• Cálculo de expressões matemáticas (baseado em algoritmo RPN, mas com interface tradicional — não é uma calculadora RPN!)<br>• Percentuais — descontos, impostos, gorjetas e muito mais<br>• Modo numérico: HEX, BIN e OCT (versão PRO até 64 bits)<br>• Cálculo de tempo (dois modos disponíveis)<br>• Funções trigonométricas com suporte a radianos, graus e formato DMS (graus-minutos-segundos)<br>• Funções logarítmicas e outras funções científicas<br>• Memória clássica (M+, M-, MR) e histórico completo de cálculos com comentários e compartilhamento<br>• Agrupamento de dígitos para melhor leitura<br>• Temas coloridos (skins)<br>• Botões grandes e interface moderna, clara e fácil de usar<br>• Altamente personalizável<br>• SEM ANÚNCIOS!<br>• Aplicativo leve e rápido — ocupa pouco espaço<br>• Mais recursos serão adicionados. Fique ligado! 😉<br><br>Nome antigo: Cube Calculator<br>A versão PRO está disponível no Google Play.",
+      "summary": "Calculadora grátis e sem anúncios, simples, científica e completa",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 7547588,
+      "score": 4.74,
+      "scoreText": "4,7",
+      "ratings": 87776,
+      "reviews": 766,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "my.android.calc",
+      "url": "https://play.google.com/store/apps/details?id=my.android.calc&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Mental Calculation and Math",
+      "description": "Você está em busca de um aplicativo de matemática mental, aplicativo de cálculo mental ou aplicativo de treinamento de cálculo para verificar sua velocidade de cálculo?\n\nMind Calculator é a melhor aplicação para você melhorar seu cálculo mental e habilidade de matemática mental.\n\nMind Calculator facilita o treinamento de habilidades de cálculo e matemática mental e velocidade matemática.\n\nMantenha seu cérebro ativo com o cálculo de números rapidamente em mente.\n\nVocê ficará satisfeito com este aplicativo simples de treinamento de cálculo mental. Se você gosta de matemática mental e tenta melhorar suas habilidades matemáticas.\n\nAs operações aritméticas básicas (adição, subtração, multiplicação, divisão) estão neste aplicativo de matemática mental para treinar seu cérebro.\n\nBem como outros jogos de treinamento de cálculo mental neste aplicativo Mental Maths.\n\nEste aplicativo de jogo de treinamento de matemática gratuito foi projetado para você, se você acha que pode calcular números imediatamente em sua mente.\n\nMind Calculator facilita o cálculo de grandes números em sua mente rapidamente.\n\nSe você é um aluno de matemática, pode usar este aplicativo para treinamento de cálculo.\n\n\n💡ALGUNS BENEFÍCIOS INTELIGENTES DA CALCULADORA MENTE\n\n▪️ Melhore a velocidade de seus cálculos matemáticos.\n\n▪️ Melhore sua velocidade de cálculo mental.\n\n▪️ Aumente suas habilidades matemáticas.\n\n▪️ Aumente suas habilidades de matemática mental.\n\n▪️Treinamento Operações matemáticas simples.\n\n▪️Treinamento Avançado de Operações Matemáticas.\n\n\nVamos aproveitar o jogo e manter seu cérebro ativo.\n\n\n📲COMO JOGAR:\n\n▪️ Selecione seu jogo de cálculo mental favorito.\n\n▪️ Encontre uma resposta rapidamente durante o período de tempo alocado.\n\n▪️ Lembre-se, o tempo diminui passo a passo.\n\n\nCATEGORIA:\n\n▪️MathsTraining.\n\n▪️ Matemática Mental.\n\n▪️Treinamento de matemática mental.\n\n▪️ Encontre a sequência matemática.\n\n▪️Melhorar a velocidade de cálculo.\n \n▪️Treinamento de Cálculo.\n\n▪️ Cálculo Mental.\n\n▪️Treinamento Cerebral.\n\n▪️Aplicativo de Educação",
+      "descriptionHTML": "Você está em busca de um aplicativo de matemática mental, aplicativo de cálculo mental ou aplicativo de treinamento de cálculo para verificar sua velocidade de cálculo?<br><br>Mind Calculator é a melhor aplicação para você melhorar seu cálculo mental e habilidade de matemática mental.<br><br>Mind Calculator facilita o treinamento de habilidades de cálculo e matemática mental e velocidade matemática.<br><br>Mantenha seu cérebro ativo com o cálculo de números rapidamente em mente.<br><br>Você ficará satisfeito com este aplicativo simples de treinamento de cálculo mental. Se você gosta de matemática mental e tenta melhorar suas habilidades matemáticas.<br><br>As operações aritméticas básicas (adição, subtração, multiplicação, divisão) estão neste aplicativo de matemática mental para treinar seu cérebro.<br><br>Bem como outros jogos de treinamento de cálculo mental neste aplicativo Mental Maths.<br><br>Este aplicativo de jogo de treinamento de matemática gratuito foi projetado para você, se você acha que pode calcular números imediatamente em sua mente.<br><br>Mind Calculator facilita o cálculo de grandes números em sua mente rapidamente.<br><br>Se você é um aluno de matemática, pode usar este aplicativo para treinamento de cálculo.<br><br><br>💡ALGUNS BENEFÍCIOS INTELIGENTES DA CALCULADORA MENTE<br><br>▪️ Melhore a velocidade de seus cálculos matemáticos.<br><br>▪️ Melhore sua velocidade de cálculo mental.<br><br>▪️ Aumente suas habilidades matemáticas.<br><br>▪️ Aumente suas habilidades de matemática mental.<br><br>▪️Treinamento Operações matemáticas simples.<br><br>▪️Treinamento Avançado de Operações Matemáticas.<br><br><br>Vamos aproveitar o jogo e manter seu cérebro ativo.<br><br><br>📲COMO JOGAR:<br><br>▪️ Selecione seu jogo de cálculo mental favorito.<br><br>▪️ Encontre uma resposta rapidamente durante o período de tempo alocado.<br><br>▪️ Lembre-se, o tempo diminui passo a passo.<br><br><br>CATEGORIA:<br><br>▪️MathsTraining.<br><br>▪️ Matemática Mental.<br><br>▪️Treinamento de matemática mental.<br><br>▪️ Encontre a sequência matemática.<br><br>▪️Melhorar a velocidade de cálculo.<br> <br>▪️Treinamento de Cálculo.<br><br>▪️ Cálculo Mental.<br><br>▪️Treinamento Cerebral.<br><br>▪️Aplicativo de Educação",
+      "summary": "Verifique sua velocidade de cálculo mental e matemática com o aplicativo de treinamento de cálculo",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 449,
+      "price": 12.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 12,99",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dmapps.mindcal.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.dmapps.mindcal.pro&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Scientific Calculator App",
+      "description": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.\n\nSe você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.\n\nEste aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.\n\n🔢 Recursos da Calculadora Científica\n\n• Funções avançadas de calculadora científica\n• Expressões algébricas e cálculos simbólicos\n• Funções trigonométricas: seno, cosseno, tangente\n• Funções logarítmicas: logaritmo, ln\n• Raiz quadrada, potência, porcentagem e constantes (π)\n• Cálculos com frações e decimais\n• Parênteses e expressões complexas\n• Cálculos com precisão arbitrária\n• Suporte para aritmética intervalar\n• Variáveis ​​e constantes matemáticas\n• Suporte para propagação de incertezas\n• Recursos de plotagem para funções matemáticas\n• Suporta valores numéricos grandes e pequenos\n• Uso offline da calculadora científica\n\n📐 Cálculos Suportados\n\n• Operações aritméticas básicas\n• Expressões algébricas e matemáticas\n• Cálculos trigonométricos\n• Funções logarítmicas e exponenciais\n• Fórmulas científicas e estatísticas\n• Cálculos matemáticos de alta precisão\n\n🎓 Quem Pode Usar Esta Calculadora Científica\n\n• Estudantes do ensino fundamental, médio e superior\n• Professores e educadores\n• Engenheiros e profissionais técnicos\n• Para quem precisa de um aplicativo de calculadora científica avançada\n\nEste aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "descriptionHTML": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.<br><br>Se você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.<br><br>Este aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.<br><br><b>🔢 Recursos da Calculadora Científica</b><br><br>• Funções avançadas de calculadora científica<br>• Expressões algébricas e cálculos simbólicos<br>• Funções trigonométricas: seno, cosseno, tangente<br>• Funções logarítmicas: logaritmo, ln<br>• Raiz quadrada, potência, porcentagem e constantes (π)<br>• Cálculos com frações e decimais<br>• Parênteses e expressões complexas<br>• Cálculos com precisão arbitrária<br>• Suporte para aritmética intervalar<br>• Variáveis ​​e constantes matemáticas<br>• Suporte para propagação de incertezas<br>• Recursos de plotagem para funções matemáticas<br>• Suporta valores numéricos grandes e pequenos<br>• Uso offline da calculadora científica<br><br>📐 Cálculos Suportados<br><br>• Operações aritméticas básicas<br>• Expressões algébricas e matemáticas<br>• Cálculos trigonométricos<br>• Funções logarítmicas e exponenciais<br>• Fórmulas científicas e estatísticas<br>• Cálculos matemáticos de alta precisão<br><br>🎓 Quem Pode Usar Esta Calculadora Científica<br><br>• Estudantes do ensino fundamental, médio e superior<br>• Professores e educadores<br>• Engenheiros e profissionais técnicos<br>• Para quem precisa de um aplicativo de calculadora científica avançada<br><br>Este aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "summary": "Aplicativo de calculadora científica fácil de usar para cálculos matemáticos avançados.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 181455,
+      "score": 3.6666667,
+      "scoreText": "3,7",
+      "ratings": 604,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.aicalc.scientific.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.aicalc.scientific.calculator&hl=pt&gl=br",
+      "rank": 14
+    }
+  ]
+}

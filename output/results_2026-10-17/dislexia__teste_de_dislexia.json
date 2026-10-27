@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:33:29.771Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISLEXIA",
+    "term": "teste de dislexia",
+    "key": "teste de dislexia",
+    "depth": 2,
+    "parent": "dislexia teste",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.\n\nA dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente \"aprimoram\" seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.\n\nAs pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.\n\nFERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.<br><br>A dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente &quot;aprimoram&quot; seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.<br><br>As pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.<br><br>FERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Dislexia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24936,
+      "score": 3.1666667,
+      "scoreText": "3,2",
+      "ratings": 68,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyslexia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11398,
+      "score": 3.9,
+      "scoreText": "3,9",
+      "ratings": 38,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Dyslexia Screening Test App",
+      "description": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\n\nO download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:\n-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia\n--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários\n--Um breve pré-teste para determinar se você pode estar em risco de dislexia\n--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo\n\n\n\nDepois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.\n \n----\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\nEste relatório inclui:\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n ----\n\nQuem deve usar o aplicativo Neurolearning Dyslexia Screening?\n\nAlunos com 7 anos ou mais que:\n- Luta para ler, escrever ou soletrar\n- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem\n- Leia devagar ou evite ler\n- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”\n- Levar mais tempo para concluir o trabalho ou os testes do que o esperado\n- Lute mais a cada ano à medida que a carga de trabalho se intensifica\n- Recebeu um resultado de triagem pouco claro ou confuso na escola\n\nAdultos até 70 anos que:\n- Atualmente luta com a leitura, escrita ou fala\n- Baixo desempenho no trabalho por motivos pouco claros\n- Lutaram na escola, mas nunca foram testados\n- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta\n- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos\n\n----\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br><br>O download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:<br>-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia<br>--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários<br>--Um breve pré-teste para determinar se você pode estar em risco de dislexia<br>--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo<br><br><br><br>Depois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.<br> <br>----<br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br>Este relatório inclui:<br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br> ----<br><br>Quem deve usar o aplicativo Neurolearning Dyslexia Screening?<br><br>Alunos com 7 anos ou mais que:<br>- Luta para ler, escrever ou soletrar<br>- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem<br>- Leia devagar ou evite ler<br>- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”<br>- Levar mais tempo para concluir o trabalho ou os testes do que o esperado<br>- Lute mais a cada ano à medida que a carga de trabalho se intensifica<br>- Recebeu um resultado de triagem pouco claro ou confuso na escola<br><br>Adultos até 70 anos que:<br>- Atualmente luta com a leitura, escrita ou fala<br>- Baixo desempenho no trabalho por motivos pouco claros<br>- Lutaram na escola, mas nunca foram testados<br>- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta<br>- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos<br><br>----<br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Nosso aplicativo de triagem e teste de dislexia testa adultos e crianças para dislexia.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21276,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.assessmentsv1paid",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.assessmentsv1paid&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "IQ Test - Teste de QI",
+      "description": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.\n\n- Este teste de QI é muito preciso.\n- O teste contém 30 questões muito importantes.\n- O limite de tempo de resolução é de 30 minutos.\n- Saber o resultado do teste é gratuito.\n- O resultado só poderá ser encontrado ao final da prova.\n- As questões do teste são muito equilibradas e bem escolhidas.",
+      "descriptionHTML": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.<br><br>- Este teste de QI é muito preciso.<br>- O teste contém 30 questões muito importantes.<br>- O limite de tempo de resolução é de 30 minutos.<br>- Saber o resultado do teste é gratuito.<br>- O resultado só poderá ser encontrado ao final da prova.<br>- As questões do teste são muito equilibradas e bem escolhidas.",
+      "summary": "Faça este teste de QI e descubra qual é a sua pontuação real de QI.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 710601,
+      "score": 4.259259,
+      "scoreText": "4,3",
+      "ratings": 3002,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iq.test.online.tools.store",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.online.tools.store&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Dyslexia Test: School & Pro",
+      "description": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\n\nEste relatório inclui:\n\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n\n\n----\n\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br><br>Este relatório inclui:<br><br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br><br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br><br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br><br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br><br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br><br><br>----<br><br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Triagem de dislexia para crianças e adultos",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3298,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.dyslexiaappforgroups",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.dyslexiaappforgroups&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "TestCircle: Closed Testing",
+      "description": "O TestCircle ajuda desenvolvedores independentes de Android a atenderem ao requisito de testes fechados do Google Play, que exige 12 testadores por 14 dias — uma das barreiras mais comuns para obter acesso à Play Store.\n\nJunte-se a um grupo de desenvolvedores e testem os apps uns dos outros por meio de um ciclo de testes fechado e estruturado. Cada ciclo é dividido em 5 fases de feedback ao longo de 14 dias, incluindo primeiras impressões, um teste rápido, funcionalidades principais, um segundo teste rápido e feedback final. Ao final do período de testes fechados, você receberá um resumo gerado por IA com todo o feedback recebido pelo seu app.\n\nBaseado em um verdadeiro compromisso mútuo, o TestCircle resolve o problema de testadores inativos durante a fase de testes fechados. Ao conectar você diretamente com outros desenvolvedores ativos, garantimos uma troca de testes confiável e bidirecional, onde todos têm interesse em participar ativamente para que você consiga 12 testadores que realmente compareçam.\n\nComo funciona:\n• Envie seu app e participe de um grupo de testes fechado ativo na plataforma.\n\n• Seja automaticamente conectado a outros desenvolvedores comprometidos com os 14 dias completos de testes. • Instale e teste os apps do seu grupo.\n• Compartilhe feedback estruturado em 5 fases simples durante os testes.\n\n• Receba feedback detalhado de outros testadores e um resumo gerado por IA para o seu próprio app.\n\n• Solicite acesso à produção no Play Console, usando seu relatório de feedback para preencher facilmente o questionário do Google.\n\nSe você conseguir acesso à produção após o ciclo de testes, seu app será exibido gratuitamente na seção \"Apps em Destaque\" do TestCircle!\n\nO TestCircle foi projetado para ser amigável aos desenvolvedores:\n• Sem anúncios, sem assinaturas e sem taxas de inscrição.\n\n• 14 dias de testes em grupo sincronizados são totalmente gratuitos.\n\n• Nosso recurso de Testes Individuais, complementar aos Testes em Grupo sincronizados, também é gratuito — teste outros apps para ganhar créditos e use-os para adicionar seu próprio app à lista de testes.\n\n• Os upgrades pagos para aumentar a visibilidade do seu app são totalmente opcionais e se aplicam somente aos Testes Individuais.\n\nSe você é um desenvolvedor independente e está enfrentando a exigência de 12 testadores do Google Play, o TestCircle é a solução estruturada, teste por teste, criada especificamente para ajudar você a desbloquear o acesso à produção.\n\nJunte-se a uma comunidade crescente de desenvolvedores sérios dispostos a ajudar uns aos outros e tornar o teste fechado de 14 dias com 12 testadores uma experiência tranquila e fácil!",
+      "descriptionHTML": "O TestCircle ajuda desenvolvedores independentes de Android a atenderem ao requisito de testes fechados do Google Play, que exige 12 testadores por 14 dias — uma das barreiras mais comuns para obter acesso à Play Store.<br><br>Junte-se a um grupo de desenvolvedores e testem os apps uns dos outros por meio de um ciclo de testes fechado e estruturado. Cada ciclo é dividido em 5 fases de feedback ao longo de 14 dias, incluindo primeiras impressões, um teste rápido, funcionalidades principais, um segundo teste rápido e feedback final. Ao final do período de testes fechados, você receberá um resumo gerado por IA com todo o feedback recebido pelo seu app.<br><br>Baseado em um verdadeiro compromisso mútuo, o TestCircle resolve o problema de testadores inativos durante a fase de testes fechados. Ao conectar você diretamente com outros desenvolvedores ativos, garantimos uma troca de testes confiável e bidirecional, onde todos têm interesse em participar ativamente para que você consiga 12 testadores que realmente compareçam.<br><br>Como funciona:<br>• Envie seu app e participe de um grupo de testes fechado ativo na plataforma.<br><br>• Seja automaticamente conectado a outros desenvolvedores comprometidos com os 14 dias completos de testes. • Instale e teste os apps do seu grupo.<br>• Compartilhe feedback estruturado em 5 fases simples durante os testes.<br><br>• Receba feedback detalhado de outros testadores e um resumo gerado por IA para o seu próprio app.<br><br>• Solicite acesso à produção no Play Console, usando seu relatório de feedback para preencher facilmente o questionário do Google.<br><br>Se você conseguir acesso à produção após o ciclo de testes, seu app será exibido gratuitamente na seção &quot;Apps em Destaque&quot; do TestCircle!<br><br>O TestCircle foi projetado para ser amigável aos desenvolvedores:<br>• Sem anúncios, sem assinaturas e sem taxas de inscrição.<br><br>• 14 dias de testes em grupo sincronizados são totalmente gratuitos.<br><br>• Nosso recurso de Testes Individuais, complementar aos Testes em Grupo sincronizados, também é gratuito — teste outros apps para ganhar créditos e use-os para adicionar seu próprio app à lista de testes.<br><br>• Os upgrades pagos para aumentar a visibilidade do seu app são totalmente opcionais e se aplicam somente aos Testes Individuais.<br><br>Se você é um desenvolvedor independente e está enfrentando a exigência de 12 testadores do Google Play, o TestCircle é a solução estruturada, teste por teste, criada especificamente para ajudar você a desbloquear o acesso à produção.<br><br>Junte-se a uma comunidade crescente de desenvolvedores sérios dispostos a ajudar uns aos outros e tornar o teste fechado de 14 dias com 12 testadores uma experiência tranquila e fácil!",
+      "summary": "Encontre 12 testadores para o teste fechado do Google Play e cumpra o requisito de 14 dias.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1519,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.greenant.testcircle",
+      "url": "https://play.google.com/store/apps/details?id=com.greenant.testcircle&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Teste de QI - Neuro Quest",
+      "description": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟\n\nDescubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.\n\n✨ O que oferecemos:\n\nTeste de QI certificado para todas as idades e níveis de habilidade.\nPerguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.\nResultados detalhados e análise personalizada do seu desempenho.\nComparação com outros usuários para ver como você se destaca!\n🚀 Por que escolher nosso aplicativo:\n\nDesenvolvimento científico com base em métodos reconhecidos internacionalmente.\nInterface intuitiva e amigável para uma experiência de usuário imersiva.\nTestes rápidos que se encaixam perfeitamente na sua rotina diária.\nDesbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.\n\n📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "descriptionHTML": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟<br><br>Descubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.<br><br>✨ O que oferecemos:<br><br>Teste de QI certificado para todas as idades e níveis de habilidade.<br>Perguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.<br>Resultados detalhados e análise personalizada do seu desempenho.<br>Comparação com outros usuários para ver como você se destaca!<br>🚀 Por que escolher nosso aplicativo:<br><br>Desenvolvimento científico com base em métodos reconhecidos internacionalmente.<br>Interface intuitiva e amigável para uma experiência de usuário imersiva.<br>Testes rápidos que se encaixam perfeitamente na sua rotina diária.<br>Desbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.<br><br>📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "summary": "Descubra seu QI com nosso super app! Testes desafiadores e resultados precisos.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5027,
+      "score": 3.9433963,
+      "scoreText": "3,9",
+      "ratings": 53,
+      "reviews": 45,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.qi.neuroquest",
+      "url": "https://play.google.com/store/apps/details?id=com.qi.neuroquest&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Dyslexia Reading Test",
+      "description": "Se você acredita que seu filho pode ter uma deficiência ou dislexia de leitura, selecioná-los de graça. Temos ajudado centenas de crianças inteligentes que lutaram com a leitura. O screener online Reading Tutor pode ajudar a identificar problemas de leitura específicas e recomendar um programa de treinamento eficaz, que vai ajudar o seu filho a desenvolver fluente, habilidades de decodificação automáticas. Quando decodificação se torna automática, a compreensão melhora drasticamente.\n\nA dislexia screener online Reading Tutor leva apenas 5 a 10 minutos para ser concluído. Você será fornecido com resultados imediatos da avaliação. Enquanto se aguardam os resultados, você pode solicitar uma chamada de nossos especialistas em leitura para ver se é um bom ajuste para ajudar seu filho. Se você acredita que seu filho pode ter uma dificuldade específica de leitura ou dislexia, selecioná-los de graça. O screener online Reading Tutor pode ajudar a diagnosticar problemas de leitura específicas e recomendar um programa de treinamento eficaz, que vai ajudar o seu filho a desenvolver fluente, habilidades de decodificação automáticas. Quando a leitura se torna automático ou fluente, compreensão melhora drasticamente.\n\nO teste de dislexia leva apenas 5 a 10 minutos para ser concluído. Você será fornecido com resultados imediatos da avaliação.\n\nDepois de completar o visualizador, você pode se inscrever para fazer uma avaliação gratuita do nosso software baseado Orton-Gillingham. Nosso software foi aprovado pelo Conselho de Administração da Educação Especial (CASE). Se você decidir escolher ORT, seu filho vai quase certamente começar a ver ganhos significativos após 30 horas de treinamento. Alunos com um IEP para sua dificuldade de aprendizagem são nossa especialidade.\n\nO Reading Assessment Tutor Online é patente pendente, e Copyright © online Reading Tutor 2014, 2015",
+      "descriptionHTML": "Se você acredita que seu filho pode ter uma deficiência ou dislexia de leitura, selecioná-los de graça. Temos ajudado centenas de crianças inteligentes que lutaram com a leitura. O screener online Reading Tutor pode ajudar a identificar problemas de leitura específicas e recomendar um programa de treinamento eficaz, que vai ajudar o seu filho a desenvolver fluente, habilidades de decodificação automáticas. Quando decodificação se torna automática, a compreensão melhora drasticamente.<br><br>A dislexia screener online Reading Tutor leva apenas 5 a 10 minutos para ser concluído. Você será fornecido com resultados imediatos da avaliação. Enquanto se aguardam os resultados, você pode solicitar uma chamada de nossos especialistas em leitura para ver se é um bom ajuste para ajudar seu filho. Se você acredita que seu filho pode ter uma dificuldade específica de leitura ou dislexia, selecioná-los de graça. O screener online Reading Tutor pode ajudar a diagnosticar problemas de leitura específicas e recomendar um programa de treinamento eficaz, que vai ajudar o seu filho a desenvolver fluente, habilidades de decodificação automáticas. Quando a leitura se torna automático ou fluente, compreensão melhora drasticamente.<br><br>O teste de dislexia leva apenas 5 a 10 minutos para ser concluído. Você será fornecido com resultados imediatos da avaliação.<br><br>Depois de completar o visualizador, você pode se inscrever para fazer uma avaliação gratuita do nosso software baseado Orton-Gillingham. Nosso software foi aprovado pelo Conselho de Administração da Educação Especial (CASE). Se você decidir escolher ORT, seu filho vai quase certamente começar a ver ganhos significativos após 30 horas de treinamento. Alunos com um IEP para sua dificuldade de aprendizagem são nossa especialidade.<br><br>O Reading Assessment Tutor Online é patente pendente, e Copyright © online Reading Tutor 2014, 2015",
+      "summary": "Se você acredita que seu filho pode ter uma deficiência de leitura, selecioná-los gratuitamente.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 47806,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.onlinereadingtutor",
+      "url": "https://play.google.com/store/apps/details?id=com.onlinereadingtutor&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "GALEXIA Mejora Fluidez Lectora",
+      "description": "Galexia é o aplicativo de tratamento de dislexia líder. Totalmente gratuito do início ao fim para um determinado usuário. Sem assinaturas ou pagamentos adicionais.\n\nTambém incorpora um modo para profissionais monitorarem o progresso de alunos e pacientes na melhora da fluência de leitura e dificuldades de fala. Como profissional, personalize os parâmetros de treinamento para cada usuário, grave as sessões e atividades e prepare as sessões seguintes com os recursos de estímulo para trabalhar.\n\nPara pessoas de todas as idades: crianças e adultos, Galexia é uma aplicação que suporta um programa de intervenção, baseado em evidências e validado cientificamente.\n\nO aplicativo foi aprovado em várias escolas por professores e especialistas em dislexia, fonoaudiologia e educação. Nosso aplicativo já apresentou milhares de histórias de sucesso, estimulando ainda mais o interesse pela leitura e pelas histórias infantis.\n\nO usuário se juntará a um colega alienígena que embarca em uma divertida e emocionante jornada intergaláctica da Terra ao seu planeta natal, Leximundo. A bordo da nave viajarás pela galáxia durante 24 sessões de jogo, nas quais realizarás várias atividades e mini-jogos que irão potenciar a aprendizagem e melhorar a fluência de leitura, num contexto muito divertido e divertido, superando todos os obstáculos que te são apresentados. encontrados ao longo do caminho: envolvendo OVNIs inimigos, resolvendo quebra-cabeças e quebra-cabeças, explorando planetas desconhecidos e muito mais.\n\nRecomendamos fortemente a leitura do manual do usuário incluído no aplicativo antes de começar.\n\nAplicativo disponível apenas para o espanhol e seu vocabulário.",
+      "descriptionHTML": "Galexia é o aplicativo de tratamento de dislexia líder. Totalmente gratuito do início ao fim para um determinado usuário. Sem assinaturas ou pagamentos adicionais.<br><br>Também incorpora um modo para profissionais monitorarem o progresso de alunos e pacientes na melhora da fluência de leitura e dificuldades de fala. Como profissional, personalize os parâmetros de treinamento para cada usuário, grave as sessões e atividades e prepare as sessões seguintes com os recursos de estímulo para trabalhar.<br><br>Para pessoas de todas as idades: crianças e adultos, Galexia é uma aplicação que suporta um programa de intervenção, baseado em evidências e validado cientificamente.<br><br>O aplicativo foi aprovado em várias escolas por professores e especialistas em dislexia, fonoaudiologia e educação. Nosso aplicativo já apresentou milhares de histórias de sucesso, estimulando ainda mais o interesse pela leitura e pelas histórias infantis.<br><br>O usuário se juntará a um colega alienígena que embarca em uma divertida e emocionante jornada intergaláctica da Terra ao seu planeta natal, Leximundo. A bordo da nave viajarás pela galáxia durante 24 sessões de jogo, nas quais realizarás várias atividades e mini-jogos que irão potenciar a aprendizagem e melhorar a fluência de leitura, num contexto muito divertido e divertido, superando todos os obstáculos que te são apresentados. encontrados ao longo do caminho: envolvendo OVNIs inimigos, resolvendo quebra-cabeças e quebra-cabeças, explorando planetas desconhecidos e muito mais.<br><br>Recomendamos fortemente a leitura do manual do usuário incluído no aplicativo antes de começar.<br><br>Aplicativo disponível apenas para o espanhol e seu vocabulário.",
+      "summary": "A dislexia em crianças e adultos e tem uma solução. aplicativo gratuito e educacional.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 168738,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.PambuDev.galexia",
+      "url": "https://play.google.com/store/apps/details?id=com.PambuDev.galexia&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "12 Testadores: Teste Fechado",
+      "description": "Consiga 12 Testadores para Seu Teste Fechado no Google Play\n\nO AppDadz ajuda desenvolvedores Android a concluir o teste fechado no Google Play com 15 testadores reais e suporte estruturado para testar seus aplicativos.\n\nNossos testadores instalam e testam seu aplicativo em seus próprios dispositivos Android e permanecem inscritos durante todo o período de 14 dias do teste fechado. Você pode acompanhar em tempo real a quantidade de testadores ativos diretamente no AppDadz.\n\nDurante o teste, você recebe:\n\n• 15 testadores reais para seu aplicativo Android\n• Suporte durante os 14 dias de teste fechado\n• Acompanhamento dos testadores ativos em tempo real\n• Capturas de tela diárias das atividades de teste\n• Comentários sobre o aplicativo e feedback dos testadores\n• Um relatório profissional de teste do aplicativo\n\nOs testadores fornecem feedback sobre a usabilidade, o desempenho, a navegação, o design e possíveis problemas do seu aplicativo. As capturas de tela diárias ajudam você a confirmar que as atividades de teste estão sendo realizadas de forma regular e consistente.\n\nApós a conclusão do teste, você recebe um relatório detalhado com as principais descobertas e os pontos que podem precisar de melhorias antes de solicitar o acesso de produção.\n\nTudo fica organizado em um só lugar, tornando o teste fechado no Google Play simples, transparente e fácil de gerenciar.\n\nO AppDadz é indicado para desenvolvedores que publicam aplicativos Android, Flutter, React Native ou Kotlin no Google Play.\n\nO AppDadz é um serviço independente e não possui afiliação nem vínculo oficial com o Google ou o Google Play.",
+      "descriptionHTML": "Consiga 12 Testadores para Seu Teste Fechado no Google Play<br><br>O AppDadz ajuda desenvolvedores Android a concluir o teste fechado no Google Play com 15 testadores reais e suporte estruturado para testar seus aplicativos.<br><br>Nossos testadores instalam e testam seu aplicativo em seus próprios dispositivos Android e permanecem inscritos durante todo o período de 14 dias do teste fechado. Você pode acompanhar em tempo real a quantidade de testadores ativos diretamente no AppDadz.<br><br>Durante o teste, você recebe:<br><br>• 15 testadores reais para seu aplicativo Android<br>• Suporte durante os 14 dias de teste fechado<br>• Acompanhamento dos testadores ativos em tempo real<br>• Capturas de tela diárias das atividades de teste<br>• Comentários sobre o aplicativo e feedback dos testadores<br>• Um relatório profissional de teste do aplicativo<br><br>Os testadores fornecem feedback sobre a usabilidade, o desempenho, a navegação, o design e possíveis problemas do seu aplicativo. As capturas de tela diárias ajudam você a confirmar que as atividades de teste estão sendo realizadas de forma regular e consistente.<br><br>Após a conclusão do teste, você recebe um relatório detalhado com as principais descobertas e os pontos que podem precisar de melhorias antes de solicitar o acesso de produção.<br><br>Tudo fica organizado em um só lugar, tornando o teste fechado no Google Play simples, transparente e fácil de gerenciar.<br><br>O AppDadz é indicado para desenvolvedores que publicam aplicativos Android, Flutter, React Native ou Kotlin no Google Play.<br><br>O AppDadz é um serviço independente e não possui afiliação nem vínculo oficial com o Google ou o Google Play.",
+      "summary": "Encontre testadores Android e acompanhe seu teste fechado de 14 dias.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7435,
+      "score": 4.8095236,
+      "scoreText": "4,8",
+      "ratings": 465,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.testers.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.testers.pro&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Dystherapy: Dyslexia Training",
+      "description": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?\n\nAprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)\n\nO aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.\n\nConveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.\n\nAbordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.\n\nConteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.\n\nInterativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.\n\nAcompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.\n\nConstrução da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.\n\nAcessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.\n\nConsistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.\n\nCaminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.\n\nAprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "descriptionHTML": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?<br><br>Aprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)<br><br>O aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.<br><br>Conveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.<br><br>Abordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.<br><br>Conteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.<br><br>Interativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.<br><br>Acompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.<br><br>Construção da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.<br><br>Acessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.<br><br>Consistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.<br><br>Caminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.<br><br>Aprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "summary": "Libere o poder da leitura com o Dystherapy, um envolvente aplicativo de treinamento para dislexia!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 22836,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.arda.dystherapy",
+      "url": "https://play.google.com/store/apps/details?id=com.arda.dystherapy&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Dyslexia Test & Tips",
+      "description": "O Teste e Dicas para Dislexia é o primeiro aplicativo do mundo que ajuda você a identificar rapidamente a dislexia e criar um perfil da pessoa testada.\n\nPARA QUEM?\n\nEste aplicativo é destinado a crianças, estudantes e adultos com dislexia ou com suspeita de dislexia. Você pode fazer o teste sozinho ou, como professor, pai, familiar ou colega, ajudar alguém que você acha que pode ter dislexia a fazer o teste.\n\nMesmo que você não tenha contato direto com alguém com dislexia, pode ser interessante dar uma olhada neste aplicativo para obter informações sobre o comportamento de pessoas com dislexia e entender o impacto que isso tem em suas vidas.\n\nTESTE DE DISLEXIA\nEste aplicativo foi desenvolvido com profundo amor e dedicação à área e com a intenção de compartilhar informações para que todos possam se beneficiar. Ao fazer o teste de dislexia sozinho ou ao permitir que familiares, amigos, colegas e vizinhos o façam, ficará claro em breve se há possibilidade de dislexia. E quanto antes, mais cedo poderá ser buscada ajuda profissional.\n\nIDENTIFICAÇÃO\nVocê tem a opção de primeiro fazer o teste rápido encontrado em “Identificação” antes de fazer o teste mais completo com 35 perguntas.\n\nO objetivo do aplicativo é obter rapidamente uma ideia se alguém apresenta algum sinal de dislexia. Quanto mais cedo a dislexia for reconhecida, mais cedo um plano de tratamento poderá ser implementado. Mas lembre-se, isso é uma indicação e não um diagnóstico.\n\nHá uma chance de você encontrar características comportamentais neste aplicativo que você não sabia que estavam associadas à dislexia.\n\nDICAS\nA ampla gama de dicas neste aplicativo pode contribuir para um futuro melhor para aqueles com dislexia. Na verdade, todos nós podemos nos beneficiar, sejamos disléxicos ou não, melhorando a maneira como nos comunicamos.\n\nO aplicativo foi amplamente testado por psicólogos e especialistas em dislexia. Crianças e (jovens) adultos que não são bons leitores são aconselhados a usar o aplicativo com a ajuda de alguém.",
+      "descriptionHTML": "O Teste e Dicas para Dislexia é o primeiro aplicativo do mundo que ajuda você a identificar rapidamente a dislexia e criar um perfil da pessoa testada.<br><br>PARA QUEM?<br><br>Este aplicativo é destinado a crianças, estudantes e adultos com dislexia ou com suspeita de dislexia. Você pode fazer o teste sozinho ou, como professor, pai, familiar ou colega, ajudar alguém que você acha que pode ter dislexia a fazer o teste.<br><br>Mesmo que você não tenha contato direto com alguém com dislexia, pode ser interessante dar uma olhada neste aplicativo para obter informações sobre o comportamento de pessoas com dislexia e entender o impacto que isso tem em suas vidas.<br><br>TESTE DE DISLEXIA<br>Este aplicativo foi desenvolvido com profundo amor e dedicação à área e com a intenção de compartilhar informações para que todos possam se beneficiar. Ao fazer o teste de dislexia sozinho ou ao permitir que familiares, amigos, colegas e vizinhos o façam, ficará claro em breve se há possibilidade de dislexia. E quanto antes, mais cedo poderá ser buscada ajuda profissional.<br><br>IDENTIFICAÇÃO<br>Você tem a opção de primeiro fazer o teste rápido encontrado em “Identificação” antes de fazer o teste mais completo com 35 perguntas.<br><br>O objetivo do aplicativo é obter rapidamente uma ideia se alguém apresenta algum sinal de dislexia. Quanto mais cedo a dislexia for reconhecida, mais cedo um plano de tratamento poderá ser implementado. Mas lembre-se, isso é uma indicação e não um diagnóstico.<br><br>Há uma chance de você encontrar características comportamentais neste aplicativo que você não sabia que estavam associadas à dislexia.<br><br>DICAS<br>A ampla gama de dicas neste aplicativo pode contribuir para um futuro melhor para aqueles com dislexia. Na verdade, todos nós podemos nos beneficiar, sejamos disléxicos ou não, melhorando a maneira como nos comunicamos.<br><br>O aplicativo foi amplamente testado por psicólogos e especialistas em dislexia. Crianças e (jovens) adultos que não são bons leitores são aconselhados a usar o aplicativo com a ajuda de alguém.",
+      "summary": "Teste de dislexia e dicas práticas para crianças e adultos.",
+      "installs": "1+",
+      "minInstalls": 1,
+      "maxInstalls": 4,
+      "price": 18.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 18,99",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "nl.appsenwebs.dyslexiatestandtips",
+      "url": "https://play.google.com/store/apps/details?id=nl.appsenwebs.dyslexiatestandtips&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Testora: Treino Cerebral",
+      "description": "Testora - compreenda como a sua mente funciona\n\nO seu cérebro pode crescer, adaptar-se e aprender em qualquer idade. Esta capacidade natural chama-se neuroplasticidade - e torna-se mais forte quando pratica treino cerebral regularmente.\n\nTestora é uma aplicação moderna de treino cerebral e testes de personalidade que ajuda adultos a explorar e desenvolver capacidades mentais, cognitivas e de QI através de testes, exercícios guiados curtos e ferramentas de auto-reflexão pensadas para o dia a dia.\n\nSe quer melhorar concentração, memória, atenção ou a sua forma mental, Testora oferece ferramentas claras e práticas para treinar a mente sem pressão.\n\nTestora foca-se em consciência, clareza e compreensão pessoal - não em velocidade, competição ou stress.\n\nSe isto lhe soa familiar, Testora foi criado para o ajudar a:\n\n• Ler um artigo completo sem perder o foco\n• Tomar decisões sem pensar demasiado\n• Sentir-se mais produtivo sem trabalhar mais horas\n• Sentir-se menos mentalmente cansado ao final do dia\n• Compreender porque reage intensamente em certas situações\n\nO que pode fazer com Testora:\n\n• Fazer testes de personalidade que exploram valores pessoais, equilíbrio emocional e objetivos de vida\n• Compreender porque a sua atenção diminui ou porque se sente mentalmente cansado\n• Melhorar foco, memória e atenção com exercícios cognitivos curtos\n• Resolver desafios de lógica e exercícios de pensamento\n• Descobrir novos treinos cerebrais adicionados semanalmente\n\nTestora foi pensado para a vida real:\n\n• Sessões curtas que cabem num dia ocupado\n• Explicações claras com ideias úteis para o dia a dia\n• Sem pressão ou competição\n• Criado para adultos focados em crescimento pessoal e saúde mental\n\nNão precisa de conhecimentos especiais - apenas curiosidade sobre a sua mente.\n\nCompreenda a sua mente.\nConstrua hábitos mentais consistentes.\nTreine o seu cérebro com Testora.",
+      "descriptionHTML": "Testora - compreenda como a sua mente funciona<br><br>O seu cérebro pode crescer, adaptar-se e aprender em qualquer idade. Esta capacidade natural chama-se neuroplasticidade - e torna-se mais forte quando pratica treino cerebral regularmente.<br><br>Testora é uma aplicação moderna de treino cerebral e testes de personalidade que ajuda adultos a explorar e desenvolver capacidades mentais, cognitivas e de QI através de testes, exercícios guiados curtos e ferramentas de auto-reflexão pensadas para o dia a dia.<br><br>Se quer melhorar concentração, memória, atenção ou a sua forma mental, Testora oferece ferramentas claras e práticas para treinar a mente sem pressão.<br><br>Testora foca-se em consciência, clareza e compreensão pessoal - não em velocidade, competição ou stress.<br><br>Se isto lhe soa familiar, Testora foi criado para o ajudar a:<br><br>• Ler um artigo completo sem perder o foco<br>• Tomar decisões sem pensar demasiado<br>• Sentir-se mais produtivo sem trabalhar mais horas<br>• Sentir-se menos mentalmente cansado ao final do dia<br>• Compreender porque reage intensamente em certas situações<br><br>O que pode fazer com Testora:<br><br>• Fazer testes de personalidade que exploram valores pessoais, equilíbrio emocional e objetivos de vida<br>• Compreender porque a sua atenção diminui ou porque se sente mentalmente cansado<br>• Melhorar foco, memória e atenção com exercícios cognitivos curtos<br>• Resolver desafios de lógica e exercícios de pensamento<br>• Descobrir novos treinos cerebrais adicionados semanalmente<br><br>Testora foi pensado para a vida real:<br><br>• Sessões curtas que cabem num dia ocupado<br>• Explicações claras com ideias úteis para o dia a dia<br>• Sem pressão ou competição<br>• Criado para adultos focados em crescimento pessoal e saúde mental<br><br>Não precisa de conhecimentos especiais - apenas curiosidade sobre a sua mente.<br><br>Compreenda a sua mente.<br>Construa hábitos mentais consistentes.<br>Treine o seu cérebro com Testora.",
+      "summary": "Treina IQ, memória e concentração com testes de personalidade",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5079,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.brain.training.testora",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.training.testora&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Fallacy: Jogos de Lógica",
+      "description": "Fallacy — App de Jogos Cerebrais, Treinamento Cerebral e Jogos de Lógica para Pensamento Crítico\n\nSeu cérebro comete erros de lógica e raciocínio todos os dias. Fallacy é o primeiro app de treinamento cerebral e jogos cerebrais que ensina falácias lógicas e vieses cognitivos através de jogos de lógica interativos, enigmas e desafios mentais divertidos.\n\nSe você procura jogos cerebrais que vão além de memória e velocidade, Fallacy é para você. Nosso treinamento cerebral foca no que realmente importa: raciocínio lógico, pensamento crítico e argumentação.\n\n🎯 POR QUE FALLACY É DIFERENTE DE OUTROS JOGOS CEREBRAIS?\n\nApps de treinamento cerebral como Lumosity, Peak, Elevate e Impulse treinam memória, atenção e velocidade. Mas nenhum oferece jogos de lógica focados em falácias lógicas, vieses cognitivos ou pensamento crítico. Fallacy é o único app de jogos cerebrais que combina treinamento cerebral com raciocínio lógico prático.\n\n📚 APRENDA 30+ FALÁCIAS LÓGICAS EM JOGOS INTERATIVOS\n\nDomine falácias lógicas como Ad Hominem, Falso Dilema, Apelo à Autoridade, Espantalho, Bola de Neve, Falsa Causa, Apelo à Emoção e muitas outras. Cada falácia inclui:\n• Definição clara e acessível em português\n• Exemplos práticos do cotidiano brasileiro\n• Exercícios interativos de raciocínio lógico\n• Aplicações reais em debates, notícias e redes sociais\n\n🧩 DESCUBRA 20+ VIESES COGNITIVOS EM DESAFIOS MENTAIS\n\nEntenda como vieses cognitivos como Efeito Ancoragem, Viés de Confirmação, Efeito Dunning-Kruger, Heurística de Disponibilidade, Viés do Sobrevivente e Efeito Halo influenciam suas decisões. O único app de jogos mentais e treinamento cerebral que combina falácias lógicas E vieses cognitivos em jogos cerebrais gamificados.\n\n⚡ MODO DEBATE — PRATIQUE ARGUMENTAÇÃO E PENSAMENTO CRÍTICO\n\nPratique pensamento crítico com temas reais! Cenários de debate baseados em notícias e discussões atuais do Brasil e do mundo. Identifique manipulações, fake news e argumentos falaciosos. Treine argumentação com lógica, clareza e evidências. Perfeito para melhorar comunicação e oratória.\n\n📰 MODO DESAFIO — IDENTIFIQUE FALÁCIAS EM NOTÍCIAS REAIS\n\nDeslize por manchetes reais para identificar falácias lógicas e vieses cognitivos em ação. Desenvolva raciocínio lógico e pensamento crítico aplicável ao seu dia a dia.\n\n🏆 RECURSOS DE TREINAMENTO CEREBRAL E JOGOS DE LÓGICA\n\n• 5 níveis progressivos de dificuldade para jogos cerebrais e enigmas\n• Desafios cronometrados de raciocínio lógico (10-30 segundos)\n• Exercícios cerebrais diários com sistema de sequência e streaks\n• Pontuação de QI de Precisão para medir sua evolução cognitiva\n• Acompanhamento de progresso em 30, 60 e 90 dias\n• Mais de 50 jogos de lógica, enigmas, quiz e desafios mentais\n• Interface intuitiva, moderna e envolvente\n\n👥 PERFEITO PARA TODOS QUE QUEREM TREINAR O CÉREBRO\n\n• Estudantes preparando para ENEM, vestibular, concursos públicos e OAB\n• Profissionais que tomam decisões estratégicas e querem treinar o cérebro\n• Advogados, debatedores e comunicadores que precisam de argumentação lógica\n• Entusiastas de jogos de lógica, quebra-cabeças, enigmas e desafios mentais\n• Professores e educadores que ensinam pensamento crítico e raciocínio\n• Qualquer pessoa que quer jogos cerebrais focados em inteligência e lógica\n\n🧪 BASEADO EM CIÊNCIA COGNITIVA\n\nFallacy combina psicologia cognitiva, lógica formal e economia comportamental em jogos cerebrais acessíveis. Cada exercício fortalece raciocínio lógico, pensamento crítico e tomada de decisão.\n\nBaixe grátis! Comece seu treinamento cerebral em jogos de lógica e pensamento crítico hoje.",
+      "descriptionHTML": "Fallacy — App de Jogos Cerebrais, Treinamento Cerebral e Jogos de Lógica para Pensamento Crítico<br><br>Seu cérebro comete erros de lógica e raciocínio todos os dias. Fallacy é o primeiro app de treinamento cerebral e jogos cerebrais que ensina falácias lógicas e vieses cognitivos através de jogos de lógica interativos, enigmas e desafios mentais divertidos.<br><br>Se você procura jogos cerebrais que vão além de memória e velocidade, Fallacy é para você. Nosso treinamento cerebral foca no que realmente importa: raciocínio lógico, pensamento crítico e argumentação.<br><br>🎯 POR QUE FALLACY É DIFERENTE DE OUTROS JOGOS CEREBRAIS?<br><br>Apps de treinamento cerebral como Lumosity, Peak, Elevate e Impulse treinam memória, atenção e velocidade. Mas nenhum oferece jogos de lógica focados em falácias lógicas, vieses cognitivos ou pensamento crítico. Fallacy é o único app de jogos cerebrais que combina treinamento cerebral com raciocínio lógico prático.<br><br>📚 APRENDA 30+ FALÁCIAS LÓGICAS EM JOGOS INTERATIVOS<br><br>Domine falácias lógicas como Ad Hominem, Falso Dilema, Apelo à Autoridade, Espantalho, Bola de Neve, Falsa Causa, Apelo à Emoção e muitas outras. Cada falácia inclui:<br>• Definição clara e acessível em português<br>• Exemplos práticos do cotidiano brasileiro<br>• Exercícios interativos de raciocínio lógico<br>• Aplicações reais em debates, notícias e redes sociais<br><br>🧩 DESCUBRA 20+ VIESES COGNITIVOS EM DESAFIOS MENTAIS<br><br>Entenda como vieses cognitivos como Efeito Ancoragem, Viés de Confirmação, Efeito Dunning-Kruger, Heurística de Disponibilidade, Viés do Sobrevivente e Efeito Halo influenciam suas decisões. O único app de jogos mentais e treinamento cerebral que combina falácias lógicas E vieses cognitivos em jogos cerebrais gamificados.<br><br>⚡ MODO DEBATE — PRATIQUE ARGUMENTAÇÃO E PENSAMENTO CRÍTICO<br><br>Pratique pensamento crítico com temas reais! Cenários de debate baseados em notícias e discussões atuais do Brasil e do mundo. Identifique manipulações, fake news e argumentos falaciosos. Treine argumentação com lógica, clareza e evidências. Perfeito para melhorar comunicação e oratória.<br><br>📰 MODO DESAFIO — IDENTIFIQUE FALÁCIAS EM NOTÍCIAS REAIS<br><br>Deslize por manchetes reais para identificar falácias lógicas e vieses cognitivos em ação. Desenvolva raciocínio lógico e pensamento crítico aplicável ao seu dia a dia.<br><br>🏆 RECURSOS DE TREINAMENTO CEREBRAL E JOGOS DE LÓGICA<br><br>• 5 níveis progressivos de dificuldade para jogos cerebrais e enigmas<br>• Desafios cronometrados de raciocínio lógico (10-30 segundos)<br>• Exercícios cerebrais diários com sistema de sequência e streaks<br>• Pontuação de QI de Precisão para medir sua evolução cognitiva<br>• Acompanhamento de progresso em 30, 60 e 90 dias<br>• Mais de 50 jogos de lógica, enigmas, quiz e desafios mentais<br>• Interface intuitiva, moderna e envolvente<br><br>👥 PERFEITO PARA TODOS QUE QUEREM TREINAR O CÉREBRO<br><br>• Estudantes preparando para ENEM, vestibular, concursos públicos e OAB<br>• Profissionais que tomam decisões estratégicas e querem treinar o cérebro<br>• Advogados, debatedores e comunicadores que precisam de argumentação lógica<br>• Entusiastas de jogos de lógica, quebra-cabeças, enigmas e desafios mentais<br>• Professores e educadores que ensinam pensamento crítico e raciocínio<br>• Qualquer pessoa que quer jogos cerebrais focados em inteligência e lógica<br><br>🧪 BASEADO EM CIÊNCIA COGNITIVA<br><br>Fallacy combina psicologia cognitiva, lógica formal e economia comportamental em jogos cerebrais acessíveis. Cada exercício fortalece raciocínio lógico, pensamento crítico e tomada de decisão.<br><br>Baixe grátis! Comece seu treinamento cerebral em jogos de lógica e pensamento crítico hoje.",
+      "summary": "Aprenda falácias lógicas e vieses cognitivos com jogos cerebrais divertidos",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 12261,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 179,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Conhecimentos",
+          "id": "GAME_TRIVIA"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.spotthefallacy.fallacygame",
+      "url": "https://play.google.com/store/apps/details?id=com.spotthefallacy.fallacygame&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Teste de QI:teste inteligência",
+      "description": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "descriptionHTML": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "summary": "Quão inteligente você é? Descubra sua inteligência (QI) agora!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 127952,
+      "score": 3.9756098,
+      "scoreText": "4,0",
+      "ratings": 878,
+      "reviews": 19,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.Ziddy.IQTest",
+      "url": "https://play.google.com/store/apps/details?id=com.Ziddy.IQTest&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Dementia & Cognitive Test",
+      "description": "Preocupado com lapsos de memória — seus ou de um ente querido? O Teste de Demência e Cognição ajuda você a monitorar a saúde cognitiva ao longo do tempo com exercícios curtos inspirados em tarefas neuropsicológicas padrão.\n\nO aplicativo não é uma ferramenta de diagnóstico. Ele foi desenvolvido para detectar mudanças precocemente e fornecer uma visão clara da sua saúde cognitiva ao longo do tempo.\n\n---\n\n10 TESTES, 5 DOMÍNIOS COGNITIVOS\nMemória, atenção, planejamento, orientação e emoções — avaliados por 10 exercícios curtos inspirados em tarefas neuropsicológicas padrão (Tempo de Reação, Teste de Trilhas, Planejamento Sequencial, Reconhecimento de Emoções e muito mais).\n\nPACOTES DE TESTES PARA TODOS OS TEMPOS\nRápido (3–4 min, 7 testes) ou Padrão (8–12 min, 10 testes) — escolha o que melhor se adapta à sua disponibilidade.\n\nTRIAGEM DE SINTOMAS\nUm questionário de 11 perguntas, com duração de aproximadamente 3 minutos, identifica sinais de alerta precoces que merecem atenção.\n\nPERFIL DE RISCO\nIdade, escolaridade, histórico familiar e fatores de saúde e estilo de vida se combinam em um Índice de Risco pessoal — Baixo, Moderado ou Alto — com os fatores contribuintes claramente listados.\n\nHISTÓRICO E TENDÊNCIAS\nHistórico local ilimitado com gráficos de 6 meses, 12 meses ou seu histórico completo, além de uma visão em radar de todos os cinco domínios monitorados, para que você possa ver se está estável, melhorando ou se é hora de prestar atenção.\n\nLEMBRETES QUE MANTÊM SUA CONSISTÊNCIA\nUm lembrete mensal para o teste e uma atualização anual do perfil — para que o monitoramento se torne um hábito, não um evento isolado.\n\nPRIVACIDADE EM PRIMEIRO LUGAR\nSem conta, sem nuvem. Todos os resultados dos testes e todos os detalhes do perfil permanecem no seu dispositivo.\n\n---\nO QUE ESTE APLICATIVO NÃO É\nO Teste de Demência e Cognição não diagnostica Alzheimer ou demência. Ele não substitui um exame médico. Considere-o como um sistema de alerta precoce para monitorar mudanças ao longo do tempo, não como uma ferramenta clínica.\n\n---\n\nCriado para adultos com mais de 45 anos, cuidadores e famílias com histórico de demência ou Alzheimer.\n\nUso gratuito, sem necessidade de cadastro.\n\nBaixe gratuitamente. Monitore sua saúde mental, um teste de cada vez.",
+      "descriptionHTML": "Preocupado com lapsos de memória — seus ou de um ente querido? O Teste de Demência e Cognição ajuda você a monitorar a saúde cognitiva ao longo do tempo com exercícios curtos inspirados em tarefas neuropsicológicas padrão.<br><br>O aplicativo não é uma ferramenta de diagnóstico. Ele foi desenvolvido para detectar mudanças precocemente e fornecer uma visão clara da sua saúde cognitiva ao longo do tempo.<br><br>---<br><br>10 TESTES, 5 DOMÍNIOS COGNITIVOS<br>Memória, atenção, planejamento, orientação e emoções — avaliados por 10 exercícios curtos inspirados em tarefas neuropsicológicas padrão (Tempo de Reação, Teste de Trilhas, Planejamento Sequencial, Reconhecimento de Emoções e muito mais).<br><br>PACOTES DE TESTES PARA TODOS OS TEMPOS<br>Rápido (3–4 min, 7 testes) ou Padrão (8–12 min, 10 testes) — escolha o que melhor se adapta à sua disponibilidade.<br><br>TRIAGEM DE SINTOMAS<br>Um questionário de 11 perguntas, com duração de aproximadamente 3 minutos, identifica sinais de alerta precoces que merecem atenção.<br><br>PERFIL DE RISCO<br>Idade, escolaridade, histórico familiar e fatores de saúde e estilo de vida se combinam em um Índice de Risco pessoal — Baixo, Moderado ou Alto — com os fatores contribuintes claramente listados.<br><br>HISTÓRICO E TENDÊNCIAS<br>Histórico local ilimitado com gráficos de 6 meses, 12 meses ou seu histórico completo, além de uma visão em radar de todos os cinco domínios monitorados, para que você possa ver se está estável, melhorando ou se é hora de prestar atenção.<br><br>LEMBRETES QUE MANTÊM SUA CONSISTÊNCIA<br>Um lembrete mensal para o teste e uma atualização anual do perfil — para que o monitoramento se torne um hábito, não um evento isolado.<br><br>PRIVACIDADE EM PRIMEIRO LUGAR<br>Sem conta, sem nuvem. Todos os resultados dos testes e todos os detalhes do perfil permanecem no seu dispositivo.<br><br>---<br>O QUE ESTE APLICATIVO NÃO É<br>O Teste de Demência e Cognição não diagnostica Alzheimer ou demência. Ele não substitui um exame médico. Considere-o como um sistema de alerta precoce para monitorar mudanças ao longo do tempo, não como uma ferramenta clínica.<br><br>---<br><br>Criado para adultos com mais de 45 anos, cuidadores e famílias com histórico de demência ou Alzheimer.<br><br>Uso gratuito, sem necessidade de cadastro.<br><br>Baixe gratuitamente. Monitore sua saúde mental, um teste de cada vez.",
+      "summary": "Risco de Alzheimer e Demência",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1543,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.adaptine.braintrack",
+      "url": "https://play.google.com/store/apps/details?id=com.adaptine.braintrack&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Diagnóstico Diferencial | DD",
+      "description": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  \nUm aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.\n\nO aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.\n\n✨ Principais recursos:\n   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  \n   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  \n   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  \n   📋 Anamnese e exame rápido – checklists e lembretes práticos  \n   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  \n   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  \n   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  \n   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  \n\nIdeal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.\n\n📩 Suporte: contact@rermedapps.com  \n🔒 Política de privacidade: https://rermedapps.com/privacy-policy  \n\n⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "descriptionHTML": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  <br>Um aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.<br><br>O aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.<br><br>✨ Principais recursos:<br>   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  <br>   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  <br>   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  <br>   📋 Anamnese e exame rápido – checklists e lembretes práticos  <br>   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  <br>   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  <br>   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  <br>   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  <br><br>Ideal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.<br><br>📩 Suporte: contact@rermedapps.com  <br>🔒 Política de privacidade: https://rermedapps.com/privacy-policy  <br><br>⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "summary": "Análise de sintomas e exames | Diagnóstico diferencial rápido | Guia clínico",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 182,
+      "price": 49.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 49,99",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.rermedapps.differentialdiagnosis",
+      "url": "https://play.google.com/store/apps/details?id=com.rermedapps.differentialdiagnosis&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "My Talents: Self Discovery",
+      "description": "Libere seu verdadeiro potencial com o My Talents — o aplicativo de crescimento pessoal e acompanhamento definitivo para ajudar você a desenvolver autoconsciência, construir confiança e descobrir seu propósito de vida.\n\nDesenvolvido com o suporte do Google, Microsoft e OpenAI, o My Talents oferece poderosos questionários de autoavaliação com resultados e um companheiro de IA inteligente e empático para uma transformação significativa.\n\nResponda a 18 poderosos questionários de autodescoberta — incluindo testes de personalidade e teste de carreira — para desbloquear insights. Seja para ganhar confiança, propósito ou clareza, sua transformação começa aqui.\n\n🤖 Conheça Erica — sua companheira de IA e coach digital\nErica é sua companheira de IA sempre disponível: inteligente, solidária e pronta para ajudar. Do planejamento de carreira ao coaching de inteligência emocional, Erica ajuda você a refletir, crescer e fazer escolhas melhores usando IA e ciência comportamental.\n\n🎯 Transforme sua vida com estes recursos GRATUITOS:\n✔️ 18 Questionários de Autodescoberta – Descubra sua trajetória profissional, valores, emoções e muito mais\n✔️ Relatórios de Orientação Personalizados – Conselhos perspicazes adaptados aos resultados do seu questionário\n✔️ Erica – Sua Companheira Emocional de IA – Apoia seu crescimento pessoal e bem-estar\n✔️ Ferramentas de Bem-Estar e Habilidades – Aumente o QE, a comunicação, a resiliência e a confiança\n✔️ Painel de Progresso – Visualize e acompanhe seu desenvolvimento pessoal ao longo do tempo\n✔️ Rastreador de Metas – Defina metas focadas e mantenha-se alinhado com seus objetivos de crescimento\n\n🧠 O que você ganhará:\n✔️ Aumente a autoconsciência a cada dia\n✔️ Construa confiança e tome atitude\n✔️ Fortaleça a inteligência emocional\n✔️ Explore uma autodescoberta poderosa\n✔️ Navegue pela carreira que melhor lhe convier\n✔️ Descubra o propósito e a direção da sua vida\n\n🌍 Desenvolvido pela ciência. Confiável globalmente. Meus talentos são:\n✅ Vencedor do Prêmio de Excelência em Tecnologia do Brandon Hall Group\n✅ Vencedor do Prêmio Candid Gold Transparency 2024\n✅ Usado em mais de 100 países por indivíduos, educadores e profissionais\n✅ Destaque em fóruns de pesquisa e inovação centrada no ser humano\n\nAcesse uma biblioteca de questionários elaborados por especialistas, um coach emocional de IA e ferramentas de crescimento pessoal — tudo em um único aplicativo.\n\n🔓 Comece grátis. Premium quando estiver pronto.\n✔️ Experimente todos os testes principais gratuitamente\n✔️ Receba insights guiados da Erica\n✔️ Explore recursos de bem-estar e crescimento\n\nFaça upgrade para Premium a qualquer momento para um coaching mais aprofundado, recursos avançados e ferramentas exclusivas de desenvolvimento pessoal.\n\n🚀 Comece a Crescer Hoje\nSe você está procurando um aplicativo de autodescoberta, testes de personalidade divertidos ou um coach de mentalidade com IA — o My Talents está aqui para apoiar sua jornada.\n\n📥 Baixe agora para fazer seu primeiro teste\n🤖 Receba insights personalizados do seu coach com IA\n🌱 Comece sua jornada rumo à confiança, clareza e propósito",
+      "descriptionHTML": "Libere seu verdadeiro potencial com o <font color=\"blue\">My Talents</font><b> — o aplicativo de crescimento pessoal e acompanhamento definitivo</b> para ajudar você a desenvolver autoconsciência, construir confiança e descobrir seu propósito de vida.<br><br>Desenvolvido com o suporte do Google, Microsoft e OpenAI, o My Talents oferece poderosos questionários de autoavaliação com resultados e um companheiro de IA inteligente e empático para uma transformação significativa.<br><br>Responda a 18 poderosos questionários de autodescoberta — incluindo testes de personalidade e teste de carreira — para desbloquear insights. Seja para ganhar confiança, propósito ou clareza, sua transformação começa aqui.<br><br><b>🤖 Conheça <font color=\"blue\">Erica</font> — sua companheira de IA e coach digital</b><br>Erica é sua companheira de IA sempre disponível: inteligente, solidária e pronta para ajudar. Do planejamento de carreira ao coaching de inteligência emocional, Erica ajuda você a refletir, crescer e fazer escolhas melhores usando IA e ciência comportamental.<br><br><b>🎯 Transforme sua vida com estes recursos GRATUITOS:</b><br>✔️ <b>18 Questionários de Autodescoberta</b> – Descubra sua trajetória profissional, valores, emoções e muito mais<br>✔️ <b>Relatórios de Orientação Personalizados</b> – Conselhos perspicazes adaptados aos resultados do seu questionário<br>✔️ <b>Erica – Sua Companheira Emocional de IA</b> – Apoia seu crescimento pessoal e bem-estar<br>✔️ <b>Ferramentas de Bem-Estar e Habilidades</b> – Aumente o QE, a comunicação, a resiliência e a confiança<br>✔️ <b>Painel de Progresso</b> – Visualize e acompanhe seu desenvolvimento pessoal ao longo do tempo<br>✔️ <b>Rastreador de Metas</b> – Defina metas focadas e mantenha-se alinhado com seus objetivos de crescimento<br><br><b>🧠 O que você ganhará:</b><br>✔️ Aumente a autoconsciência a cada dia<br>✔️ Construa confiança e tome atitude<br>✔️ Fortaleça a inteligência emocional<br>✔️ Explore uma autodescoberta poderosa<br>✔️ Navegue pela carreira que melhor lhe convier<br>✔️ Descubra o propósito e a direção da sua vida<br><br><b>🌍 Desenvolvido pela ciência. Confiável globalmente. Meus talentos são:</b><br>✅ <i>Vencedor do Prêmio de Excelência em Tecnologia do Brandon Hall Group</i><br>✅ <i>Vencedor do Prêmio Candid Gold Transparency 2024</i><br>✅ <i>Usado em mais de 100 países por indivíduos, educadores e profissionais</i><br>✅ <i>Destaque em fóruns de pesquisa e inovação centrada no ser humano</i><br><br>Acesse uma biblioteca de questionários elaborados por especialistas, um coach emocional de IA e ferramentas de crescimento pessoal — tudo em um único aplicativo.<br><br><b>🔓 Comece grátis. Premium quando estiver pronto.<br>✔️ Experimente todos os testes principais gratuitamente<br>✔️ Receba insights guiados da Erica<br>✔️ Explore recursos de bem-estar e crescimento<br><br>Faça upgrade para Premium a qualquer momento para um coaching mais aprofundado, recursos avançados e ferramentas exclusivas de desenvolvimento pessoal.<br><br><b>🚀 Comece a Crescer Hoje</b><br>Se você está procurando um aplicativo de autodescoberta, testes de personalidade divertidos ou um coach de mentalidade com IA — o My Talents está aqui para apoiar sua jornada.<br><br>📥 Baixe agora para fazer seu primeiro teste<br>🤖 Receba insights personalizados do seu coach com IA<br>🌱 Comece sua jornada rumo à confiança, clareza e propósito</b>",
+      "summary": "Melhore e transforme-se com questionários de autodescoberta e um poderoso companheiro de IA",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 57989,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.talenttransformation",
+      "url": "https://play.google.com/store/apps/details?id=com.talenttransformation&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Brainova: IQ Test & Logic Game",
+      "description": "Treine sua mente, melhore seu foco e concentração e desbloqueie todo o seu potencial com Brainova: Teste de QI e Jogo de Lógica — seu companheiro personalizado de fitness mental para jogos de cérebro e quebra-cabeças lógicos.\n\nSe você deseja aumentar a concentração, melhorar a memória, aprimorar a lógica e o raciocínio, ou simplesmente se manter mentalmente ativo, o Brainova oferece uma ampla variedade de jogos mentais inteligentes e quebra-cabeças lógicos inspirados cientificamente, projetados para desafiar e desenvolver sua mente.\n\nSeu cérebro é capaz de se adaptar e formar novos caminhos neurais em qualquer idade. Nossa plataforma ajuda você a aproveitar esse poder por meio de:\n• Jogos mentais: exercícios consistentes e direcionados que geram resultados reais ao longo do tempo.\n• Melhorar a memória: técnicas comprovadas para fortalecer a lembrança e retenção.\n• Foco: módulos de treinamento desenvolvidos para aumentar sua concentração e atenção mental\n\nExplore treinos cognitivos projetados especificamente para memória, atenção, resolução de problemas e agilidade mental. Nossas sessões rápidas se encaixam facilmente em qualquer rotina, tornando o treinamento diário simples, eficaz e divertido. Quer relaxar? Experimente nossos jogos mentais relaxantes para reduzir o estresse e restaurar a clareza mental.\n\nPrincipais recursos:\n• Jogos inteligentes para melhorar memória, foco, lógica e velocidade\n• Exercícios relaxantes para ajudar você a manter a calma e o equilíbrio\n• Planos de treinamento personalizados de acordo com seus objetivos\n• Testes de personalidade e cognitivos detalhados\n• Acompanhamento de progresso para manter a motivação\n• Adequado para todas as idades e níveis de habilidade\n\nAprofunde-se no seu psicológico com avaliações de personalidade e jogos de QI. Ao incorporar avaliações especializadas como o Teste de TDAH, um Teste de QI abrangente e vários módulos de teste cerebral — juntamente com desafios mentais estimulantes e quebra-cabeças lógicos complexos — essas ferramentas de autodescoberta ajudam você a entender melhor seus pontos fortes e identificar áreas de crescimento.\n\nSe você já teve dificuldade para manter o foco, lembrar detalhes importantes ou pensar com clareza sob pressão — Brainova está aqui para ajudar. É mais do que um aplicativo de jogos mentais — é uma ferramenta para crescimento mental e produtividade ao longo da vida.",
+      "descriptionHTML": "Treine sua mente, melhore seu foco e concentração e desbloqueie todo o seu potencial com Brainova: Teste de QI e Jogo de Lógica — seu companheiro personalizado de fitness mental para jogos de cérebro e quebra-cabeças lógicos.<br><br>Se você deseja aumentar a concentração, melhorar a memória, aprimorar a lógica e o raciocínio, ou simplesmente se manter mentalmente ativo, o Brainova oferece uma ampla variedade de jogos mentais inteligentes e quebra-cabeças lógicos inspirados cientificamente, projetados para desafiar e desenvolver sua mente.<br><br>Seu cérebro é capaz de se adaptar e formar novos caminhos neurais em qualquer idade. Nossa plataforma ajuda você a aproveitar esse poder por meio de:<br>• Jogos mentais: exercícios consistentes e direcionados que geram resultados reais ao longo do tempo.<br>• Melhorar a memória: técnicas comprovadas para fortalecer a lembrança e retenção.<br>• Foco: módulos de treinamento desenvolvidos para aumentar sua concentração e atenção mental<br><br>Explore treinos cognitivos projetados especificamente para memória, atenção, resolução de problemas e agilidade mental. Nossas sessões rápidas se encaixam facilmente em qualquer rotina, tornando o treinamento diário simples, eficaz e divertido. Quer relaxar? Experimente nossos jogos mentais relaxantes para reduzir o estresse e restaurar a clareza mental.<br><br>Principais recursos:<br>• Jogos inteligentes para melhorar memória, foco, lógica e velocidade<br>• Exercícios relaxantes para ajudar você a manter a calma e o equilíbrio<br>• Planos de treinamento personalizados de acordo com seus objetivos<br>• Testes de personalidade e cognitivos detalhados<br>• Acompanhamento de progresso para manter a motivação<br>• Adequado para todas as idades e níveis de habilidade<br><br>Aprofunde-se no seu psicológico com avaliações de personalidade e jogos de QI. Ao incorporar avaliações especializadas como o Teste de TDAH, um Teste de QI abrangente e vários módulos de teste cerebral — juntamente com desafios mentais estimulantes e quebra-cabeças lógicos complexos — essas ferramentas de autodescoberta ajudam você a entender melhor seus pontos fortes e identificar áreas de crescimento.<br><br>Se você já teve dificuldade para manter o foco, lembrar detalhes importantes ou pensar com clareza sob pressão — Brainova está aqui para ajudar. É mais do que um aplicativo de jogos mentais — é uma ferramenta para crescimento mental e produtividade ao longo da vida.",
+      "summary": "Teste seu QI e treine sua mente diariamente com jogos de lógica personalizados.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2392857,
+      "score": 4.844985,
+      "scoreText": "4,8",
+      "ratings": 23880,
+      "reviews": 326,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.fc.app.iq.brain.training.mind.games.logic.test.puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.app.iq.brain.training.mind.games.logic.test.puzzle&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

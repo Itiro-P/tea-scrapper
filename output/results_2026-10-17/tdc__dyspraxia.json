@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "collect_time": "2026-10-17T23:38:33.877Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TDC",
+    "term": "dyspraxia",
+    "key": "dyspraxia",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "DyxIA",
+      "description": "BEM-VINDO AO DYXIA: O ÁPICE DA EDUCAÇÃO PERSONALIZADA IMPULSIONADA PELA IA\n\nO DyxIA é uma plataforma educacional de classe mundial construída sobre mais de 10 anos de pesquisa académica e inovação pedagógica dedicada. Projetado para apoiar crianças no seu percurso de aprendizagem da leitura, da matemática, da escrita e do desenvolvimento cognitivo, o DyxIA representa a próxima geração de aprendizagem personalizada.\n\nA CIÊNCIA POR TRÁS DO SUCESSO\nAo contrário das ferramentas genéricas, o DyxIA utiliza modelos de IA exclusivos, desenvolvidos para compreender e adaptar-se às nuances dos diferentes estilos de aprendizagem. A nossa metodologia garante que cada interação seja fundamentada em estratégias educativas comprovadas para aumentar a eficácia da aprendizagem e o crescimento cognitivo nas crianças.\n\nESCALA E PERSONALIZAÇÃO SEM PARALELO\nCom mais de 250.000 níveis únicos e mais de 15 níveis de dificuldade granular para cada desafio, o DyxIA garante que cada criança recebe uma experiência perfeitamente adaptada à sua capacidade atual. Nenhuma criança avança até que tenha dominado o conceito atual, evitando a frustração e construindo uma base académica sólida.\n\nCOMPATIBILIDADE GLOBAL INIGUALÁVEL\nO DyxIA apoia 31 sistemas educativos e currículos globais diferentes através do mundo. Com uma biblioteca de mais de 4.000.000 de palavras em 12 línguas, é a ferramenta de aprendizagem mais completa disponível hoje para famílias que procuram apoio académico avançado.\n\nAPOIO BASEADO EM MÉTODOS PEDAGÓGICOS COMPROVADOS:\n\n- APRENDIZAGEM DA LEITURA: Algoritmos adaptativos que ajudam as crianças a dominar mais de 4 milhões de palavras através da consciência fonológica, comparação de padrões e reconhecimento visual.\n\n- MATEMÁTICA E LÓGICA: Simplificamos conceitos complexos através de jogos de lógica espacial, garantindo uma compreensão intuitiva de quantidade, sequência e aritmética em todos os níveis.\n\n- ESCRITA E COORDENAÇÃO MOTORA: Atividades focadas na precisão ajudam a otimizar o controlo motor, a coordenação olho-mão e a consciência espacial para uma melhor fluidez na escrita.\n\n- MEMÓRIA E CONCENTRAÇÃO: Módulos desenhados para melhorar a mémorização a curto e longo prazo através de técnicas de aprendizagem interativas e padrões de repetição comprovados.\n\nCARACTERÍSTICAS EDUCATIVAS CHAVE:\n\n1. 250.000+ NÍVEIS ÚNICOS: Um percurso de aprendizagem infinito que oferece variedade e mantém a criança envolvida.\n2. 31 SISTEMAS EDUCATIVOS GLOBAIS: Alinhado com as normas de 31 quadros educativos globais principais.\n3. 15+ NÍVEIS DE DIFICULDADE POR DESAFIO: Monitorização do tempo de hesitação e precisão para uma curva de aprendizagem suave e sem frustrações.\n4. MODELOS DE IA AVANÇADOS: Algoritmos especializados desenvolvidos ao longo de 10 anos para o apoio personalizado em tempo real mais preciso do mercado.\n5. 4.000.000+ PALAVRAS EM 12 LÍNGUAS: Base de dados linguística massiva para uma aprendizagem multilingue profunda em 12 línguas diferentes.\n6. ANÁLISE PREMIUM PARA OS PAIS: Relatórios diários detalhados que mostram o progresso exato e os marcos de aprendizagem atingidos.\n\nUM LEGADO DE SEGURANÇA E CRESCIMENTO ACADÉMICO\nO DyxIA baseia-se em 10 anos de investigação académica. Oferecemos um refúgio seguro onde as barreiras à aprendizagem transformam-se em pontos fortes académicos. Construímos a confiança necessária para uma vida inteira de sucesso.\n\nDESCARREGUE O DYXIA AGORA E EXPERIMENTE A FORÇA DA INOVAÇÃO DEDICADA.\n\nAVISO: O DyxIA é uma ferramenta de apoio educativo e NÃO é um dispositivo médico. Não fornece diagnóstico ou tratamento clínico. Consulte um profissional qualificado para orientação pedagógica ou diagnósticos especializados.",
+      "descriptionHTML": "BEM-VINDO AO DYXIA: O ÁPICE DA EDUCAÇÃO PERSONALIZADA IMPULSIONADA PELA IA<br><br>O DyxIA é uma plataforma educacional de classe mundial construída sobre mais de 10 anos de pesquisa académica e inovação pedagógica dedicada. Projetado para apoiar crianças no seu percurso de aprendizagem da leitura, da matemática, da escrita e do desenvolvimento cognitivo, o DyxIA representa a próxima geração de aprendizagem personalizada.<br><br>A CIÊNCIA POR TRÁS DO SUCESSO<br>Ao contrário das ferramentas genéricas, o DyxIA utiliza modelos de IA exclusivos, desenvolvidos para compreender e adaptar-se às nuances dos diferentes estilos de aprendizagem. A nossa metodologia garante que cada interação seja fundamentada em estratégias educativas comprovadas para aumentar a eficácia da aprendizagem e o crescimento cognitivo nas crianças.<br><br>ESCALA E PERSONALIZAÇÃO SEM PARALELO<br>Com mais de 250.000 níveis únicos e mais de 15 níveis de dificuldade granular para cada desafio, o DyxIA garante que cada criança recebe uma experiência perfeitamente adaptada à sua capacidade atual. Nenhuma criança avança até que tenha dominado o conceito atual, evitando a frustração e construindo uma base académica sólida.<br><br>COMPATIBILIDADE GLOBAL INIGUALÁVEL<br>O DyxIA apoia 31 sistemas educativos e currículos globais diferentes através do mundo. Com uma biblioteca de mais de 4.000.000 de palavras em 12 línguas, é a ferramenta de aprendizagem mais completa disponível hoje para famílias que procuram apoio académico avançado.<br><br>APOIO BASEADO EM MÉTODOS PEDAGÓGICOS COMPROVADOS:<br><br>- APRENDIZAGEM DA LEITURA: Algoritmos adaptativos que ajudam as crianças a dominar mais de 4 milhões de palavras através da consciência fonológica, comparação de padrões e reconhecimento visual.<br><br>- MATEMÁTICA E LÓGICA: Simplificamos conceitos complexos através de jogos de lógica espacial, garantindo uma compreensão intuitiva de quantidade, sequência e aritmética em todos os níveis.<br><br>- ESCRITA E COORDENAÇÃO MOTORA: Atividades focadas na precisão ajudam a otimizar o controlo motor, a coordenação olho-mão e a consciência espacial para uma melhor fluidez na escrita.<br><br>- MEMÓRIA E CONCENTRAÇÃO: Módulos desenhados para melhorar a mémorização a curto e longo prazo através de técnicas de aprendizagem interativas e padrões de repetição comprovados.<br><br>CARACTERÍSTICAS EDUCATIVAS CHAVE:<br><br>1. 250.000+ NÍVEIS ÚNICOS: Um percurso de aprendizagem infinito que oferece variedade e mantém a criança envolvida.<br>2. 31 SISTEMAS EDUCATIVOS GLOBAIS: Alinhado com as normas de 31 quadros educativos globais principais.<br>3. 15+ NÍVEIS DE DIFICULDADE POR DESAFIO: Monitorização do tempo de hesitação e precisão para uma curva de aprendizagem suave e sem frustrações.<br>4. MODELOS DE IA AVANÇADOS: Algoritmos especializados desenvolvidos ao longo de 10 anos para o apoio personalizado em tempo real mais preciso do mercado.<br>5. 4.000.000+ PALAVRAS EM 12 LÍNGUAS: Base de dados linguística massiva para uma aprendizagem multilingue profunda em 12 línguas diferentes.<br>6. ANÁLISE PREMIUM PARA OS PAIS: Relatórios diários detalhados que mostram o progresso exato e os marcos de aprendizagem atingidos.<br><br>UM LEGADO DE SEGURANÇA E CRESCIMENTO ACADÉMICO<br>O DyxIA baseia-se em 10 anos de investigação académica. Oferecemos um refúgio seguro onde as barreiras à aprendizagem transformam-se em pontos fortes académicos. Construímos a confiança necessária para uma vida inteira de sucesso.<br><br>DESCARREGUE O DYXIA AGORA E EXPERIMENTE A FORÇA DA INOVAÇÃO DEDICADA.<br><br>AVISO: O DyxIA é uma ferramenta de apoio educativo e NÃO é um dispositivo médico. Não fornece diagnóstico ou tratamento clínico. Consulte um profissional qualificado para orientação pedagógica ou diagnósticos especializados.",
+      "summary": "Aprendizagem IA para dislexia, discalculia, disgrafia e memória.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 176,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dyxia.app",
+      "url": "https://play.google.com/store/apps/details?id=com.dyxia.app&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Empire of Praxia",
+      "description": "Bem-vindo ao Império de Praxia, um MMORPG clássico em 2D com gráficos pixelados, onde a aventura espera por você em cada esquina! Entre em um vasto mundo de fantasia pixelado repleto de monstros perigosos, tesouros escondidos e outros aventureiros.\n\nJOGUE COM AMIGOS Praxia é um mundo multijogador vivo e pulsante. Encontre outros jogadores em tempo real, converse com eles, forme grupos e derrote os inimigos mais poderosos juntos.\n\nRECURSOS: • Gráficos autênticos em 2D com gráficos pixelados retrô e jogabilidade clássica de MMORPG. • Combate multijogador em tempo real e bate-papo global. • Vinculação perfeita de contas multiplataforma com o Login do Google. • Um mundo em constante expansão com monstros, mapas e tesouros!\n\nVocê tem o que é preciso para conquistar o Império de Praxia? Baixe agora e comece sua aventura!",
+      "descriptionHTML": "Bem-vindo ao Império de Praxia, um MMORPG clássico em 2D com gráficos pixelados, onde a aventura espera por você em cada esquina! Entre em um vasto mundo de fantasia pixelado repleto de monstros perigosos, tesouros escondidos e outros aventureiros.<br><br>JOGUE COM AMIGOS Praxia é um mundo multijogador vivo e pulsante. Encontre outros jogadores em tempo real, converse com eles, forme grupos e derrote os inimigos mais poderosos juntos.<br><br>RECURSOS: • Gráficos autênticos em 2D com gráficos pixelados retrô e jogabilidade clássica de MMORPG. • Combate multijogador em tempo real e bate-papo global. • Vinculação perfeita de contas multiplataforma com o Login do Google. • Um mundo em constante expansão com monstros, mapas e tesouros!<br><br>Você tem o que é preciso para conquistar o Império de Praxia? Baixe agora e comece sua aventura!",
+      "summary": "Um MMORPG clássico em 2D pixelado. Escolha sua classe, lute contra monstros e suba de nível!",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5752,
+      "score": 4.185185,
+      "scoreText": "4,2",
+      "ratings": 145,
+      "reviews": 11,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "RPG",
+      "genreId": "GAME_ROLE_PLAYING",
+      "categories": [
+        {
+          "name": "RPG",
+          "id": "GAME_ROLE_PLAYING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.josephcasas.empireofpraxia",
+      "url": "https://play.google.com/store/apps/details?id=com.josephcasas.empireofpraxia&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "MYdys - aid for dyslexia",
+      "description": "O MYdys da FACIL’iti ajuda pessoas com dificuldades de leitura a se tornarem mais autônomas: crianças, adolescentes, adultos e idosos.\nProjetado para oferecer suporte a usuários disléxicos, bem como a pessoas com desafios relacionados a TEA, deficiência visual, analfabetismo ou falantes não nativos, o MYdys oferece adaptações totalmente personalizadas, sem qualquer estigma.\n\nBasta tirar uma foto ou importar um PDF ou imagem. O MYdys detecta automaticamente o texto e o adapta às suas necessidades, graças a recursos como:\n- escolha da fonte,\n- ampliação de caracteres,\n- espaçamento entre palavras e linhas,\n- destaque de letras ou grupos de letras que possam causar confusão,\n- conversão automática de texto em fala,\n- tradução disponível em mais de 70 idiomas (inglês, espanhol, alemão, italiano, japonês, etc.).\n\nCom uma experiência de usuário simples e fluida, o MYdys auxilia você na aprendizagem, no trabalho ou na vida cotidiana.\n\nBaixe o MYdys agora e experimente a versão gratuita.",
+      "descriptionHTML": "O MYdys da FACIL’iti ajuda pessoas com dificuldades de leitura a se tornarem mais autônomas: crianças, adolescentes, adultos e idosos.<br>Projetado para oferecer suporte a usuários disléxicos, bem como a pessoas com desafios relacionados a TEA, deficiência visual, analfabetismo ou falantes não nativos, o MYdys oferece adaptações totalmente personalizadas, sem qualquer estigma.<br><br>Basta tirar uma foto ou importar um PDF ou imagem. O MYdys detecta automaticamente o texto e o adapta às suas necessidades, graças a recursos como:<br>- escolha da fonte,<br>- ampliação de caracteres,<br>- espaçamento entre palavras e linhas,<br>- destaque de letras ou grupos de letras que possam causar confusão,<br>- conversão automática de texto em fala,<br>- tradução disponível em mais de 70 idiomas (inglês, espanhol, alemão, italiano, japonês, etc.).<br><br>Com uma experiência de usuário simples e fluida, o MYdys auxilia você na aprendizagem, no trabalho ou na vida cotidiana.<br><br>Baixe o MYdys agora e experimente a versão gratuita.",
+      "summary": "Captura, lê e traduz texto com um clique para uma leitura simples e personalizada.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 54854,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Personalização",
+      "genreId": "PERSONALIZATION",
+      "categories": [
+        {
+          "name": "Personalização",
+          "id": "PERSONALIZATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.faciliti.appdys",
+      "url": "https://play.google.com/store/apps/details?id=com.faciliti.appdys&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "ReadFocus+: Dislexia/TDAH",
+      "description": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.\n\n─── COMO FUNCIONA ───\nConceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.\n\n─── DOIS MODOS DE FOCO ───\n• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual\n• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura\n\n─── TOTALMENTE AJUSTÁVEL ───\n• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte\n• Opacidade (10%–100%) – de um tom suave a uma cor intensa\n\n─── 10 TEMAS DE CORES ───\n• Brilho âmbar · Azul oceano · Amarelo clássico — grátis\n• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro\n\n─── RECURSOS PRO ───\n✓ Experiência sem anúncios\n✓ Todos os 7 temas premium desbloqueados\n✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)\n✓ Configurações completas da barra de foco\n✓ Manter tela acesa durante a leitura\n\n─── ONDE QUER QUE VOCÊ LEIA ───\n• Ebooks, PDFs, artigos acadêmicos\n• Artigos da web, blogs, apps de notícias\n• Anotações, livros didáticos, material de prova\n• Quadrinhos, mangá, webtoon, light novels\n• E-mails longos e históricos de conversa\n\n─── PERFEITO PARA ───\n• Estudantes, concurseiros e leitores frequentes\n• Pessoas com dislexia ou dificuldades de rastreamento visual\n• TDAH / déficit de atenção – menos distrações na leitura\n• Quem perde a linha ou relê o mesmo trecho\n• Qualquer um com vista cansada lendo no celular\n\n─── Também no Windows ───\nO mesmo apoio à leitura no PC — na Microsoft Store",
+      "descriptionHTML": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.<br><br>─── COMO FUNCIONA ───<br>Conceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.<br><br>─── DOIS MODOS DE FOCO ───<br>• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual<br>• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura<br><br>─── TOTALMENTE AJUSTÁVEL ───<br>• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte<br>• Opacidade (10%–100%) – de um tom suave a uma cor intensa<br><br>─── 10 TEMAS DE CORES ───<br>• Brilho âmbar · Azul oceano · Amarelo clássico — grátis<br>• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro<br><br>─── RECURSOS PRO ───<br>✓ Experiência sem anúncios<br>✓ Todos os 7 temas premium desbloqueados<br>✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)<br>✓ Configurações completas da barra de foco<br>✓ Manter tela acesa durante a leitura<br><br>─── ONDE QUER QUE VOCÊ LEIA ───<br>• Ebooks, PDFs, artigos acadêmicos<br>• Artigos da web, blogs, apps de notícias<br>• Anotações, livros didáticos, material de prova<br>• Quadrinhos, mangá, webtoon, light novels<br>• E-mails longos e históricos de conversa<br><br>─── PERFEITO PARA ───<br>• Estudantes, concurseiros e leitores frequentes<br>• Pessoas com dislexia ou dificuldades de rastreamento visual<br>• TDAH / déficit de atenção – menos distrações na leitura<br>• Quem perde a linha ou relê o mesmo trecho<br>• Qualquer um com vista cansada lendo no celular<br><br>─── Também no Windows ───<br>O mesmo apoio à leitura no PC — na Microsoft Store",
+      "summary": "Auxílio de leitura para dislexia e TDAH: realce a linha + máscara de leitura.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1335,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.codedac.readfocus",
+      "url": "https://play.google.com/store/apps/details?id=com.codedac.readfocus&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "DrPrax -Doctor Practice Online",
+      "description": "DrPrax é uma Plataforma de Gestão Contínua da Saúde que proporciona maior qualidade de vida para médicos e seus pacientes. Com o Dr. Prax, os médicos podem atender seus pacientes na clínica e oferecer consultas remotas. Os pacientes podem agendar consultas de acompanhamento na clínica ou consultar o médico remotamente. Todos os tipos de médicos, sejam alopáticos, ayurvédicos, homeopatas ou unani, podem usar isso para seus pacientes. Eles podem compartilhar registros médicos e de saúde com os médicos. Ajudamos os médicos a expandir seus consultórios, interagir com seus pacientes e retê-los, estando disponíveis para qualquer uma de suas necessidades médicas. Os médicos podem acessar a plataforma pela web e pelo aplicativo móvel.\n\nO aplicativo em si não fornece nenhum tipo de diagnóstico ou tratamento médico aos pacientes.\n\nDrPrax conecta pacientes a seus médicos para que consultem um profissional de saúde para aconselhamento, diagnóstico ou tratamento médico.\n\nNossa missão é capacitar especialistas em saúde com um meio digital aprimorado para que façam uso qualitativo de seu tempo e conhecimento, mantendo a assistência médica simples, acessível e econômica para seus pacientes.\n\nAlguns Benefícios para Médicos\n\nConquista de Novos Pacientes - Atrair novos pacientes para a clínica é um fator-chave para o crescimento da prática médica. O Dr. Prax permite que novos pacientes marquem consultas online com base na disponibilidade do médico.\n\nInteraja com os Pacientes - O tempo é o bem mais valioso hoje em dia, tanto para médicos quanto para pacientes. O Dr. Prax permite que os médicos gerenciem filas de forma eficaz e criem acompanhamentos para melhorar a experiência do paciente na clínica.\n\nFique com os Pacientes - Os pacientes gostam do atendimento personalizado dos Médicos. O Dr. Prax oferece a capacidade de Conhecer Seu Paciente (KYP) usando Registros de Pacientes Online e Consultas Remotas via Chat/Telefone com Gateway de Pagamento integrado.\n\nBenefícios para os Pacientes\nAssuma o Controle da Sua Saúde - É importante manter uma cópia digital dos seus Registros de Saúde - Histórico Médico e Relatórios. Em caso de Doenças Crônicas, o acompanhamento periódico regular com seu Médico é muito importante para uma vida mais saudável.\n\nMantenha o Histórico de Saúde - Certifique-se de sempre ter todos os seus registros e relatórios em um só lugar. O Dr. Prax oferece armazenamento de registros médicos para manter seu histórico médico.\n\nFaça acompanhamentos regulares - Consulte seu médico regularmente para levar uma vida mais saudável. O Dr. Prax permite que você marque consultas online facilmente ou consulte seu médico remotamente, conforme sua conveniência.\n\nConsultas remotas - Consulte seu médico por chat/telefone, no conforto de sua casa.\n\nGateway de pagamento integrado para facilitar o pagamento online.",
+      "descriptionHTML": "DrPrax é uma Plataforma de Gestão Contínua da Saúde que proporciona maior qualidade de vida para médicos e seus pacientes. Com o Dr. Prax, os médicos podem atender seus pacientes na clínica e oferecer consultas remotas. Os pacientes podem agendar consultas de acompanhamento na clínica ou consultar o médico remotamente. Todos os tipos de médicos, sejam alopáticos, ayurvédicos, homeopatas ou unani, podem usar isso para seus pacientes. Eles podem compartilhar registros médicos e de saúde com os médicos. Ajudamos os médicos a expandir seus consultórios, interagir com seus pacientes e retê-los, estando disponíveis para qualquer uma de suas necessidades médicas. Os médicos podem acessar a plataforma pela web e pelo aplicativo móvel.<br><br>O aplicativo em si não fornece nenhum tipo de diagnóstico ou tratamento médico aos pacientes.<br><br>DrPrax conecta pacientes a seus médicos para que consultem um profissional de saúde para aconselhamento, diagnóstico ou tratamento médico.<br><br>Nossa missão é capacitar especialistas em saúde com um meio digital aprimorado para que façam uso qualitativo de seu tempo e conhecimento, mantendo a assistência médica simples, acessível e econômica para seus pacientes.<br><br>Alguns Benefícios para Médicos<br><br>Conquista de Novos Pacientes - Atrair novos pacientes para a clínica é um fator-chave para o crescimento da prática médica. O Dr. Prax permite que novos pacientes marquem consultas online com base na disponibilidade do médico.<br><br>Interaja com os Pacientes - O tempo é o bem mais valioso hoje em dia, tanto para médicos quanto para pacientes. O Dr. Prax permite que os médicos gerenciem filas de forma eficaz e criem acompanhamentos para melhorar a experiência do paciente na clínica.<br><br>Fique com os Pacientes - Os pacientes gostam do atendimento personalizado dos Médicos. O Dr. Prax oferece a capacidade de Conhecer Seu Paciente (KYP) usando Registros de Pacientes Online e Consultas Remotas via Chat/Telefone com Gateway de Pagamento integrado.<br><br>Benefícios para os Pacientes<br>Assuma o Controle da Sua Saúde - É importante manter uma cópia digital dos seus Registros de Saúde - Histórico Médico e Relatórios. Em caso de Doenças Crônicas, o acompanhamento periódico regular com seu Médico é muito importante para uma vida mais saudável.<br><br>Mantenha o Histórico de Saúde - Certifique-se de sempre ter todos os seus registros e relatórios em um só lugar. O Dr. Prax oferece armazenamento de registros médicos para manter seu histórico médico.<br><br>Faça acompanhamentos regulares - Consulte seu médico regularmente para levar uma vida mais saudável. O Dr. Prax permite que você marque consultas online facilmente ou consulte seu médico remotamente, conforme sua conveniência.<br><br>Consultas remotas - Consulte seu médico por chat/telefone, no conforto de sua casa.<br><br>Gateway de pagamento integrado para facilitar o pagamento online.",
+      "summary": "DrPrax permite que médicos construam suas clínicas virtuais e tratem pacientes",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24427,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.proost.drprax",
+      "url": "https://play.google.com/store/apps/details?id=com.proost.drprax&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Dysia: copilot discalculia",
+      "description": "A Dysia foi criada para ajudar pessoas com discalculia a lidar com o dia a dia com mais confiança, menos stress e maior autonomia.\n\nSe os números lhe parecem confusos, se tem dificuldade em gerir o tempo, se as contas são uma fonte de stress ou se fazer cálculos de cabeça é complicado, a Dysia oferece-lhe ferramentas concebidas para situações reais. Quer tenha um diagnóstico, suspeite que tem sintomas ou simplesmente tenha dificuldade em lidar com números, a Dysia foi criada para si.\n\nO que é a discalculia?\n\nA discalculia é uma dificuldade de aprendizagem que afeta a compreensão dos números, a perceção do tempo, os cálculos, a gestão do dinheiro, a orientação e a confiança ao lidar com números.\nMuitas pessoas pesquisam o que é a discalculia ou perguntam-se por que motivo os números são mais difíceis para elas. A Dysia transforma este desafio em apoio prático para o dia a dia.\n\nA Dysia é uma aplicação de apoio focada nos adultos e nas necessidades do quotidiano.\nÉ um conjunto de ferramentas para a discalculia criado para ajudar a resolver problemas reais.\n\nConcebida para adultos com discalculia.\nA Dysia foi desenvolvida a pensar nos adultos: trabalho, compras, compromissos, transportes, restaurantes, dinheiro e autonomia.\n\nFuncionalidades incluídas na Dysia:\n\nFerramentas de tempo e relógio\nLeia as horas de um relógio analógico em formato digital\n\nConverta horas em formato AM/PM para o formato de 24 horas\nSaiba a que horas será o seu compromisso. Saiba a que horas deve sair para chegar a horas\nReduza a confusão relacionada com horários, prazos e reuniões\n\nFerramentas para dinheiro e compras\nPague na caixa com confiança\nUtilize corretamente notas e moedas\n\nCalcule gorjetas rapidamente\nVeja se um desconto vale realmente a pena\nCompare preços e números facilmente\n\nFerramentas para a discalculia no dia a dia\nCompare números instantaneamente\n\nReduza os erros em situações de pressão\nConcebida para aumentar a confiança\n\nComo lidar melhor com a discalculia?\nNão existe uma solução imediata, mas ferramentas práticas, estratégias, repetição e o apoio adequado podem tornar o dia a dia muito mais fácil.\n\nPor que razão os utilizadores escolhem a Dysia?\nRápida e fácil de utilizar\nCriada para situações reais da vida adulta\nÚtil tanto para pessoas com diagnóstico como para quem ainda não foi diagnosticado\n\nQuer se identifique como uma pessoa com discalculia, tenha um diagnóstico de discalculia ou simplesmente procure apoio para lidar melhor com números, a Dysia ajuda a transformar momentos difíceis em situações mais fáceis de gerir.\n\nO acesso às ferramentas da Dysia requer uma subscrição ativa.\nTermos de Utilização: https://chess.earium.org/terms-of-use",
+      "descriptionHTML": "A Dysia foi criada para ajudar pessoas com discalculia a lidar com o dia a dia com mais confiança, menos stress e maior autonomia.<br><br>Se os números lhe parecem confusos, se tem dificuldade em gerir o tempo, se as contas são uma fonte de stress ou se fazer cálculos de cabeça é complicado, a Dysia oferece-lhe ferramentas concebidas para situações reais. Quer tenha um diagnóstico, suspeite que tem sintomas ou simplesmente tenha dificuldade em lidar com números, a Dysia foi criada para si.<br><br>O que é a discalculia?<br><br>A discalculia é uma dificuldade de aprendizagem que afeta a compreensão dos números, a perceção do tempo, os cálculos, a gestão do dinheiro, a orientação e a confiança ao lidar com números.<br>Muitas pessoas pesquisam o que é a discalculia ou perguntam-se por que motivo os números são mais difíceis para elas. A Dysia transforma este desafio em apoio prático para o dia a dia.<br><br>A Dysia é uma aplicação de apoio focada nos adultos e nas necessidades do quotidiano.<br>É um conjunto de ferramentas para a discalculia criado para ajudar a resolver problemas reais.<br><br>Concebida para adultos com discalculia.<br>A Dysia foi desenvolvida a pensar nos adultos: trabalho, compras, compromissos, transportes, restaurantes, dinheiro e autonomia.<br><br>Funcionalidades incluídas na Dysia:<br><br>Ferramentas de tempo e relógio<br>Leia as horas de um relógio analógico em formato digital<br><br>Converta horas em formato AM/PM para o formato de 24 horas<br>Saiba a que horas será o seu compromisso. Saiba a que horas deve sair para chegar a horas<br>Reduza a confusão relacionada com horários, prazos e reuniões<br><br>Ferramentas para dinheiro e compras<br>Pague na caixa com confiança<br>Utilize corretamente notas e moedas<br><br>Calcule gorjetas rapidamente<br>Veja se um desconto vale realmente a pena<br>Compare preços e números facilmente<br><br>Ferramentas para a discalculia no dia a dia<br>Compare números instantaneamente<br><br>Reduza os erros em situações de pressão<br>Concebida para aumentar a confiança<br><br>Como lidar melhor com a discalculia?<br>Não existe uma solução imediata, mas ferramentas práticas, estratégias, repetição e o apoio adequado podem tornar o dia a dia muito mais fácil.<br><br>Por que razão os utilizadores escolhem a Dysia?<br>Rápida e fácil de utilizar<br>Criada para situações reais da vida adulta<br>Útil tanto para pessoas com diagnóstico como para quem ainda não foi diagnosticado<br><br>Quer se identifique como uma pessoa com discalculia, tenha um diagnóstico de discalculia ou simplesmente procure apoio para lidar melhor com números, a Dysia ajuda a transformar momentos difíceis em situações mais fáceis de gerir.<br><br>O acesso às ferramentas da Dysia requer uma subscrição ativa.<br>Termos de Utilização: https://chess.earium.org/terms-of-use",
+      "summary": "Discalculia Tools for Adults",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 252,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "org.earium.dysia.dyscalculia.dyscalculie",
+      "url": "https://play.google.com/store/apps/details?id=org.earium.dysia.dyscalculia.dyscalculie&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "DyslexyPlay - Lire & Jouer",
+      "description": "Dyslexy Play, o companheiro de leitura que se adapta a cada criança.\n\nDyslexy Play é um jogo educativo desenvolvido para ajudar crianças a aprender a ler em francês — especialmente crianças com dislexia — por meio de 18 minijogos variados, quatro mundos para explorar e um grupo de gatos para guiar.\n\nProjetado para dislexia, não apenas \"adaptado\"\n\n- Fonte OpenDyslexic em todo o jogo para uma leitura mais confortável.\n\n- Repetição espaçada: cada palavra aparece no momento certo para uma memorização duradoura.\n\n- Progressão suave e gradual, sem um cronômetro punitivo ou pressão desnecessária.\n\n- Cada minijogo começa com uma explicação simples, lida em voz alta por um mascote.\n\nQuatro mundos, uma jornada que cresce com a criança\nSelva, Aventura, Cidade e Oceano: cada mundo oferece seu próprio universo visual e vocabulário (animais, comida, casa, corpo, escola, roupas, natureza, etc.).\n\n18 maneiras diferentes de aprender palavras\nConstrução de palavras sílaba por sílaba, exercícios de memória, correspondência de palavras e imagens, corridas, batalhas contra chefões e muito mais — para que a leitura continue divertida e nunca se torne uma obrigação.\n\n- Sem anúncios, sem compras no aplicativo, sem coleta de dados.\n\n100% offline\nO Dyslexy Play funciona sem conexão com a internet e não se comunica com nenhum servidor: tudo permanece no dispositivo da criança.",
+      "descriptionHTML": "Dyslexy Play, o companheiro de leitura que se adapta a cada criança.<br><br>Dyslexy Play é um jogo educativo desenvolvido para ajudar crianças a aprender a ler em francês — especialmente crianças com dislexia — por meio de 18 minijogos variados, quatro mundos para explorar e um grupo de gatos para guiar.<br><br>Projetado para dislexia, não apenas &quot;adaptado&quot;<br><br>- Fonte OpenDyslexic em todo o jogo para uma leitura mais confortável.<br><br>- Repetição espaçada: cada palavra aparece no momento certo para uma memorização duradoura.<br><br>- Progressão suave e gradual, sem um cronômetro punitivo ou pressão desnecessária.<br><br>- Cada minijogo começa com uma explicação simples, lida em voz alta por um mascote.<br><br>Quatro mundos, uma jornada que cresce com a criança<br>Selva, Aventura, Cidade e Oceano: cada mundo oferece seu próprio universo visual e vocabulário (animais, comida, casa, corpo, escola, roupas, natureza, etc.).<br><br>18 maneiras diferentes de aprender palavras<br>Construção de palavras sílaba por sílaba, exercícios de memória, correspondência de palavras e imagens, corridas, batalhas contra chefões e muito mais — para que a leitura continue divertida e nunca se torne uma obrigação.<br><br>- Sem anúncios, sem compras no aplicativo, sem coleta de dados.<br><br>100% offline<br>O Dyslexy Play funciona sem conexão com a internet e não se comunica com nenhum servidor: tudo permanece no dispositivo da criança.",
+      "summary": "Aprenda a ler enquanto se diverte: 18 minijogos criados para disléxicos.",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 40,
+      "price": 10.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 10,99",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.elizkatech.dyslexyplay",
+      "url": "https://play.google.com/store/apps/details?id=com.elizkatech.dyslexyplay&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Dictio: Dicção e Oratória",
+      "description": "Quer falar com confiança e ter uma voz impactante? O Dictio é o seu treinador pessoal de dicção, articulação e oratória, baseado em um método prático de cartões de treinamento (flashcards).\n\nNosso aplicativo foi desenvolvido para quem valoriza a prática direta. Sem enrolação: apenas exercícios de fala comprovados que ajudam a eliminar a dicção \"presa\" e ensinam você a falar com clareza e autoridade.\n\nO que você encontra no Dictio? O app utiliza um sistema inteligente de cartões, divididos por categorias e tipos de desafios:\n\nCombinações Complexas: A base para aquecer seu aparelho fonador. Treine as junções de sons mais difíceis para que sua língua não trave mais.\n\nPalavras Difíceis: Uma seleção curada de palavras que costumam causar tropeços. Melhore sua articulação com exemplos práticos e reais.\n\nTrava-línguas: Uma biblioteca enorme — desde frases simples até textos profissionais para locutores, atores e palestrantes.\n\nTrês Níveis de Dificuldade: Evolua no seu ritmo, aumentando o desafio gradualmente:\n\nIniciante: Para aquecimento básico e uma pronúncia limpa.\n\nIntermediário: Para quem busca segurança no trabalho e em reuniões.\n\nAvançado: O nível máximo para quem quer dominar a comunicação como um profissional.\n\nPara quem é o Dictio?\n\nBlogueiros e Especialistas: Para gravar vídeos e stories com fluidez, sem erros ou vícios de linguagem.\n\nLíderes e Empreendedores: Para apresentações claras e negociações de sucesso.\n\nEstudantes: Para falar com segurança em exames, defesas de teses e seminários.\n\nVoz e Fala: Ideal para quem busca exercícios de fonoaudiologia para melhorar a performance vocal.\n\nA fala bonita é uma habilidade que qualquer pessoa pode desenvolver. Comece a treinar com o Dictio hoje e sinta a diferença na sua confiança ao dizer cada palavra!\n\nBaixe agora e transforme a sua comunicação!",
+      "descriptionHTML": "Quer falar com confiança e ter uma voz impactante? O Dictio é o seu treinador pessoal de dicção, articulação e oratória, baseado em um método prático de cartões de treinamento (flashcards).<br><br>Nosso aplicativo foi desenvolvido para quem valoriza a prática direta. Sem enrolação: apenas exercícios de fala comprovados que ajudam a eliminar a dicção &quot;presa&quot; e ensinam você a falar com clareza e autoridade.<br><br>O que você encontra no Dictio? O app utiliza um sistema inteligente de cartões, divididos por categorias e tipos de desafios:<br><br>Combinações Complexas: A base para aquecer seu aparelho fonador. Treine as junções de sons mais difíceis para que sua língua não trave mais.<br><br>Palavras Difíceis: Uma seleção curada de palavras que costumam causar tropeços. Melhore sua articulação com exemplos práticos e reais.<br><br>Trava-línguas: Uma biblioteca enorme — desde frases simples até textos profissionais para locutores, atores e palestrantes.<br><br>Três Níveis de Dificuldade: Evolua no seu ritmo, aumentando o desafio gradualmente:<br><br>Iniciante: Para aquecimento básico e uma pronúncia limpa.<br><br>Intermediário: Para quem busca segurança no trabalho e em reuniões.<br><br>Avançado: O nível máximo para quem quer dominar a comunicação como um profissional.<br><br>Para quem é o Dictio?<br><br>Blogueiros e Especialistas: Para gravar vídeos e stories com fluidez, sem erros ou vícios de linguagem.<br><br>Líderes e Empreendedores: Para apresentações claras e negociações de sucesso.<br><br>Estudantes: Para falar com segurança em exames, defesas de teses e seminários.<br><br>Voz e Fala: Ideal para quem busca exercícios de fonoaudiologia para melhorar a performance vocal.<br><br>A fala bonita é uma habilidade que qualquer pessoa pode desenvolver. Comece a treinar com o Dictio hoje e sinta a diferença na sua confiança ao dizer cada palavra!<br><br>Baixe agora e transforme a sua comunicação!",
+      "summary": "Melhore sua dicção e voz. Exercícios de oratória e trava-línguas",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 48158,
+      "score": 4.214286,
+      "scoreText": "4,2",
+      "ratings": 93,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.merkulofff.dictio",
+      "url": "https://play.google.com/store/apps/details?id=com.merkulofff.dictio&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Dystherapy: Dyslexia Training",
+      "description": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?\n\nAprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)\n\nO aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.\n\nConveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.\n\nAbordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.\n\nConteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.\n\nInterativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.\n\nAcompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.\n\nConstrução da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.\n\nAcessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.\n\nConsistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.\n\nCaminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.\n\nAprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "descriptionHTML": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?<br><br>Aprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)<br><br>O aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.<br><br>Conveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.<br><br>Abordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.<br><br>Conteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.<br><br>Interativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.<br><br>Acompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.<br><br>Construção da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.<br><br>Acessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.<br><br>Consistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.<br><br>Caminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.<br><br>Aprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "summary": "Libere o poder da leitura com o Dystherapy, um envolvente aplicativo de treinamento para dislexia!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 22836,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.arda.dystherapy",
+      "url": "https://play.google.com/store/apps/details?id=com.arda.dystherapy&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.\n\nA dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente \"aprimoram\" seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.\n\nAs pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.\n\nFERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.<br><br>A dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente &quot;aprimoram&quot; seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.<br><br>As pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.<br><br>FERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Dislexia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24936,
+      "score": 3.1666667,
+      "scoreText": "3,2",
+      "ratings": 68,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyslexia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Dosha - Meaningful psychology",
+      "description": "Dosha: sua prática interior.\nEste app não é sobre \"ficar melhor\". É sobre retornar a si mesmo - com gentileza, honestidade, sem pressa.\nAqui, o autocuidado se torna uma prática diária. Abaixo você verá como o Dosha ajuda você a notar sua natureza todos os dias.\n\nSuporte rápido em momentos difíceis\nPara quando ansiedade, raiva ou exaustão atingem de repente - no metrô, no trabalho, de madrugada. Esta seção ajuda a recuperar seu centro em 60 segundos. Exercícios curtos para diferentes estados: quando está esgotado mas precisa permanecer presente, quando a raiva parece imparável, ou quando o pânico se aproxima.\n\nDiário de emoções\nPara quem sente profundamente mas não consegue expressar em voz alta; sobrecarregado de pensamentos ou cansado do diálogo interno.\nEsta seção ajuda a liberar o que gira por dentro - sem filtros ou medo. Apenas escrever. Até 3 palavras, e você já sente alívio.\n\nCartas metafóricas\nPara quem busca orientação, valorizando profundidade em vez de previsões.\nAjuda a ver situações sob um novo ângulo. Cada carta é um espelho para seu insight.\n\nNotas de insight após as cartas\nPara quem nota pensamentos importantes mas os perde. Ajuda a preservar lampejos de compreensão enquanto estão frescos. Seu arquivo pessoal de sabedoria.\n\nCrie seu próprio baralho\nPara quem quer trabalhar com metáforas, imagens, citações ou perguntas pessoais; que sente que baralhos prontos não são exatamente \"seus\". Ajuda a criar um espaço que fala sua língua sob o lema: \"Você é o autor de sua prática interior\".\n\nArtigos de um psicólogo\nPara quem quer se compreender mais profundamente mas está cansado de teorias complexas e \"10 passos para o sucesso\". Esta seção ajuda a encontrar apoio no cotidiano através de textos curtos e sábios sobre ansiedade, fadiga, limites, descanso e mindfulness.\n\nDosha - Meaningful psychology não substitui ajuda psicológica profissional. Para dificuldades emocionais graves, consulte um especialista.",
+      "descriptionHTML": "Dosha: sua prática interior.<br>Este app não é sobre &quot;ficar melhor&quot;. É sobre retornar a si mesmo - com gentileza, honestidade, sem pressa.<br>Aqui, o autocuidado se torna uma prática diária. Abaixo você verá como o Dosha ajuda você a notar sua natureza todos os dias.<br><br>Suporte rápido em momentos difíceis<br>Para quando ansiedade, raiva ou exaustão atingem de repente - no metrô, no trabalho, de madrugada. Esta seção ajuda a recuperar seu centro em 60 segundos. Exercícios curtos para diferentes estados: quando está esgotado mas precisa permanecer presente, quando a raiva parece imparável, ou quando o pânico se aproxima.<br><br>Diário de emoções<br>Para quem sente profundamente mas não consegue expressar em voz alta; sobrecarregado de pensamentos ou cansado do diálogo interno.<br>Esta seção ajuda a liberar o que gira por dentro - sem filtros ou medo. Apenas escrever. Até 3 palavras, e você já sente alívio.<br><br>Cartas metafóricas<br>Para quem busca orientação, valorizando profundidade em vez de previsões.<br>Ajuda a ver situações sob um novo ângulo. Cada carta é um espelho para seu insight.<br><br>Notas de insight após as cartas<br>Para quem nota pensamentos importantes mas os perde. Ajuda a preservar lampejos de compreensão enquanto estão frescos. Seu arquivo pessoal de sabedoria.<br><br>Crie seu próprio baralho<br>Para quem quer trabalhar com metáforas, imagens, citações ou perguntas pessoais; que sente que baralhos prontos não são exatamente &quot;seus&quot;. Ajuda a criar um espaço que fala sua língua sob o lema: &quot;Você é o autor de sua prática interior&quot;.<br><br>Artigos de um psicólogo<br>Para quem quer se compreender mais profundamente mas está cansado de teorias complexas e &quot;10 passos para o sucesso&quot;. Esta seção ajuda a encontrar apoio no cotidiano através de textos curtos e sábios sobre ansiedade, fadiga, limites, descanso e mindfulness.<br><br>Dosha - Meaningful psychology não substitui ajuda psicológica profissional. Para dificuldades emocionais graves, consulte um especialista.",
+      "summary": "Autocuidado diário",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 40,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.nextmonthstudio.dosha",
+      "url": "https://play.google.com/store/apps/details?id=com.nextmonthstudio.dosha&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "DICS - IAS Training Institute",
+      "description": "Somos uma instituição educacional líder na Índia. DICS é uma marca dominante na indústria educacional em toda a PAN Índia. Depois de transmitir habilidades e conhecimentos a mais de 10.000 alunos por nossa equipe, a DICS embarcou em vários exames competitivos para aproveitar ao máximo seu potencial.",
+      "descriptionHTML": "Somos uma instituição educacional líder na Índia. DICS é uma marca dominante na indústria educacional em toda a PAN Índia. Depois de transmitir habilidades e conhecimentos a mais de 10.000 alunos por nossa equipe, a DICS embarcou em vários exames competitivos para aproveitar ao máximo seu potencial.",
+      "summary": "Online personalizado para exames competitivos ministrados por especialistas do setor.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10284,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.edmingle.delhiinstituteforcivilservices",
+      "url": "https://play.google.com/store/apps/details?id=com.edmingle.delhiinstituteforcivilservices&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Dyslexia Reader by MDA",
+      "description": "O Dyslexia Reader da MDA é um aplicativo de leitura que oferece histórias envolventes e suporte baseado em evidências para crianças de todas as idades. É uma ótima ferramenta para desenvolver a fluência e a leitura independente.\n\nO aplicativo pode ser um parceiro de leitura para crianças, fornecendo dicas e ajuda a cada passo do caminho. É uma maneira divertida de expandir o vocabulário enquanto descobrem o prazer da leitura.\n\nCom o Dyslexia Reader da MDA, os alunos podem ler seus livros didáticos importando PDFs ou tirando fotos dos livros. Isso promove a compreensão leitora, resultando em melhor desempenho acadêmico.\n\nExperimente o Dyslexia Reader da MDA gratuitamente por 14 dias e escolha um de nossos planos de assinatura acessíveis para continuar usando todos os seus recursos incríveis.\n\n+ Principais recursos\n- Baixe livros interessantes diretamente do aplicativo\n- Importe documentos PDF rapidamente para sua biblioteca\n- Não é necessária conexão ativa com a internet após o download\n- Compartilhe suas páginas já revisadas com outros usuários do Dyslexia Reader\n- Personalize as configurações facilmente\n- Integração perfeita com o teclado para revisão\n- Botões intuitivos para facilitar o entendimento\n- Suporte rápido por e-mail e chat\n- Análise de texto realista\n- Recurso de texto para fala de alta qualidade\n- Máscara de tela para auxiliar no foco\n- Destaque de texto sincronizado\n- Dicas disponíveis como palavras que rimam e imagens\n- Sobreposições coloridas para auxiliar leitores com Síndrome de Irlen\n- Divisão de palavras em sílabas\n- Famílias de palavras baseadas em sílabas\n- Velocidade e progresso configuráveis\n- Fluxos de usuário independentes e assistidos\n\nPor que usar o Dyslexia Reader da MDA?\n\n+ Use livros que você já possui\nUse qualquer livro adequado à idade. Você não precisa de PDFs especiais ou recursos da web e pode adicionar uma página simplesmente capturando uma imagem com texto. É possível adicionar várias páginas ao mesmo tempo.\n\n+ Baixe histórias emocionantes\nBaixe histórias para todos os níveis de leitura diretamente do aplicativo. As histórias envolventes, com imagens cativantes, motivam as crianças a ler.\n\n+ Dicas para incentivar a leitura\nQuando a criança tiver dificuldade para ler uma palavra específica, ela pode tocar no botão Dica. Isso garante que a criança não se desanime com uma palavra nova ou aparentemente difícil. Além disso, o uso de dicas também estimula a compreensão fonêmica e conceitual. Diversas dicas estão disponíveis no aplicativo:\n- Palavras e imagens que rimam\n- Dicas de famílias de palavras\n- Dicas para encontros consonantais iniciais, intermediários e finais\n\n+ Desenvolve habilidades de compreensão\nO recurso Construir ajuda a analisar as frases do texto e a focar nas unidades sintáticas menores. Isso permite que as crianças compreendam o texto com mais eficácia.\n\n+ Promove uma leitura sem estresse\nO aplicativo oferece três visualizações diferentes para o leitor.\n\n- A visualização de página mostra a página inteira\n- A visualização de frase mostra apenas uma frase por vez\n- A visualização de palavra mostra apenas uma palavra\n\n+ Promove a leitura sem distrações\n- Use o modo Texto Simples para remover as imagens de fundo e mostrar apenas o texto.\n- O botão Foco destaca uma única linha na página que contém a palavra atual a ser lida. Isso mantém o foco visual da criança na palavra destacada e ajuda a evitar a sobrecarga visual.\n\n+ Permite a leitura com os dedos\nO ícone de lápis na página de leitura ajuda a acompanhar as palavras que estão sendo lidas. Isso reduz as dificuldades de convergência e auxilia na coordenação motora. O ponteiro pode ser facilmente reposicionado tocando duas vezes na nova palavra.\n\nO Dyslexia Reader foi desenvolvido por uma equipe responsável por aplicativos de CAA premiados, em colaboração com a Madras Dyslexia Association (MDA). O aplicativo, baseado em mais de 20 anos de pesquisa realizada pela renomada MDA, emprega diversas estratégias de compreensão de leitura que permitem que as crianças leiam melhor.\n\nBaixe agora o Dyslexia Reader da MDA e ajude seu filho a melhorar a leitura, enquanto aprende a ler de forma independente.\n\nAdoraríamos receber seu feedback! Se tiver alguma dúvida ou sugestão, envie um e-mail para support@samartya.com.",
+      "descriptionHTML": "O Dyslexia Reader da MDA é um aplicativo de leitura que oferece histórias envolventes e suporte baseado em evidências para crianças de todas as idades. É uma ótima ferramenta para desenvolver a fluência e a leitura independente.<br><br>O aplicativo pode ser um parceiro de leitura para crianças, fornecendo dicas e ajuda a cada passo do caminho. É uma maneira divertida de expandir o vocabulário enquanto descobrem o prazer da leitura.<br><br>Com o Dyslexia Reader da MDA, os alunos podem ler seus livros didáticos importando PDFs ou tirando fotos dos livros. Isso promove a compreensão leitora, resultando em melhor desempenho acadêmico.<br><br>Experimente o Dyslexia Reader da MDA gratuitamente por 14 dias e escolha um de nossos planos de assinatura acessíveis para continuar usando todos os seus recursos incríveis.<br><br>+ Principais recursos<br>- Baixe livros interessantes diretamente do aplicativo<br>- Importe documentos PDF rapidamente para sua biblioteca<br>- Não é necessária conexão ativa com a internet após o download<br>- Compartilhe suas páginas já revisadas com outros usuários do Dyslexia Reader<br>- Personalize as configurações facilmente<br>- Integração perfeita com o teclado para revisão<br>- Botões intuitivos para facilitar o entendimento<br>- Suporte rápido por e-mail e chat<br>- Análise de texto realista<br>- Recurso de texto para fala de alta qualidade<br>- Máscara de tela para auxiliar no foco<br>- Destaque de texto sincronizado<br>- Dicas disponíveis como palavras que rimam e imagens<br>- Sobreposições coloridas para auxiliar leitores com Síndrome de Irlen<br>- Divisão de palavras em sílabas<br>- Famílias de palavras baseadas em sílabas<br>- Velocidade e progresso configuráveis<br>- Fluxos de usuário independentes e assistidos<br><br>Por que usar o Dyslexia Reader da MDA?<br><br>+ Use livros que você já possui<br>Use qualquer livro adequado à idade. Você não precisa de PDFs especiais ou recursos da web e pode adicionar uma página simplesmente capturando uma imagem com texto. É possível adicionar várias páginas ao mesmo tempo.<br><br>+ Baixe histórias emocionantes<br>Baixe histórias para todos os níveis de leitura diretamente do aplicativo. As histórias envolventes, com imagens cativantes, motivam as crianças a ler.<br><br>+ Dicas para incentivar a leitura<br>Quando a criança tiver dificuldade para ler uma palavra específica, ela pode tocar no botão Dica. Isso garante que a criança não se desanime com uma palavra nova ou aparentemente difícil. Além disso, o uso de dicas também estimula a compreensão fonêmica e conceitual. Diversas dicas estão disponíveis no aplicativo:<br>- Palavras e imagens que rimam<br>- Dicas de famílias de palavras<br>- Dicas para encontros consonantais iniciais, intermediários e finais<br><br>+ Desenvolve habilidades de compreensão<br>O recurso Construir ajuda a analisar as frases do texto e a focar nas unidades sintáticas menores. Isso permite que as crianças compreendam o texto com mais eficácia.<br><br>+ Promove uma leitura sem estresse<br>O aplicativo oferece três visualizações diferentes para o leitor.<br><br>- A visualização de página mostra a página inteira<br>- A visualização de frase mostra apenas uma frase por vez<br>- A visualização de palavra mostra apenas uma palavra<br><br>+ Promove a leitura sem distrações<br>- Use o modo Texto Simples para remover as imagens de fundo e mostrar apenas o texto.<br>- O botão Foco destaca uma única linha na página que contém a palavra atual a ser lida. Isso mantém o foco visual da criança na palavra destacada e ajuda a evitar a sobrecarga visual.<br><br>+ Permite a leitura com os dedos<br>O ícone de lápis na página de leitura ajuda a acompanhar as palavras que estão sendo lidas. Isso reduz as dificuldades de convergência e auxilia na coordenação motora. O ponteiro pode ser facilmente reposicionado tocando duas vezes na nova palavra.<br><br>O Dyslexia Reader foi desenvolvido por uma equipe responsável por aplicativos de CAA premiados, em colaboração com a Madras Dyslexia Association (MDA). O aplicativo, baseado em mais de 20 anos de pesquisa realizada pela renomada MDA, emprega diversas estratégias de compreensão de leitura que permitem que as crianças leiam melhor.<br><br>Baixe agora o Dyslexia Reader da MDA e ajude seu filho a melhorar a leitura, enquanto aprende a ler de forma independente.<br><br>Adoraríamos receber seu feedback! Se tiver alguma dúvida ou sugestão, envie um e-mail para support@samartya.com.",
+      "summary": "De um leitor esforçado a um leitor independente!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 16942,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.avaz.readerapp",
+      "url": "https://play.google.com/store/apps/details?id=com.avaz.readerapp&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Deep Dynamics",
+      "description": "Bem-vindo ao Deep Dynamics Ed-tech, sua porta de entrada para experiências de aprendizagem transformadoras projetadas para inflamar mentes e moldar futuros. Feito sob medida para alunos de todas as idades, este aplicativo Ed-tech oferece uma ampla variedade de cursos, aulas interativas e planos de estudo personalizados elaborados para atender a vários estilos de aprendizagem. Mergulhe profundamente nos assuntos, garantindo uma compreensão abrangente sob a orientação especializada da Deep Dynamics Ed-tech.\n\nAproveitando tecnologia de ponta, o aplicativo oferece experiências de aprendizagem adaptativas que se alinham aos estilos de aprendizagem individuais. Acompanhe seu progresso, estabeleça metas educacionais e participe de aplicativos do mundo real para reforçar sua compreensão e habilidades.\n\nNavegue perfeitamente por nossa interface amigável, acessando uma variedade de materiais e recursos de estudo. Quer você seja um estudante se preparando para exames ou um indivíduo apaixonado pela aprendizagem ao longo da vida, a Deep Dynamics Ed-tech é a chave para desbloquear um futuro repleto de sucesso educacional.\n\nJunte-se a uma comunidade vibrante de alunos, participe de discussões esclarecedoras e conecte-se com educadores experientes. Deep Dynamics Ed-tech não é apenas um aplicativo; é o seu companheiro de confiança na jornada para o aprendizado e a realização ao longo da vida.\n\nBaixe agora e deixe o Deep Dynamics Ed-tech ser o seu guia no caminho para a excelência acadêmica.",
+      "descriptionHTML": "Bem-vindo ao Deep Dynamics Ed-tech, sua porta de entrada para experiências de aprendizagem transformadoras projetadas para inflamar mentes e moldar futuros. Feito sob medida para alunos de todas as idades, este aplicativo Ed-tech oferece uma ampla variedade de cursos, aulas interativas e planos de estudo personalizados elaborados para atender a vários estilos de aprendizagem. Mergulhe profundamente nos assuntos, garantindo uma compreensão abrangente sob a orientação especializada da Deep Dynamics Ed-tech.<br><br>Aproveitando tecnologia de ponta, o aplicativo oferece experiências de aprendizagem adaptativas que se alinham aos estilos de aprendizagem individuais. Acompanhe seu progresso, estabeleça metas educacionais e participe de aplicativos do mundo real para reforçar sua compreensão e habilidades.<br><br>Navegue perfeitamente por nossa interface amigável, acessando uma variedade de materiais e recursos de estudo. Quer você seja um estudante se preparando para exames ou um indivíduo apaixonado pela aprendizagem ao longo da vida, a Deep Dynamics Ed-tech é a chave para desbloquear um futuro repleto de sucesso educacional.<br><br>Junte-se a uma comunidade vibrante de alunos, participe de discussões esclarecedoras e conecte-se com educadores experientes. Deep Dynamics Ed-tech não é apenas um aplicativo; é o seu companheiro de confiança na jornada para o aprendizado e a realização ao longo da vida.<br><br>Baixe agora e deixe o Deep Dynamics Ed-tech ser o seu guia no caminho para a excelência acadêmica.",
+      "summary": "Conecte-se com Deep Dynamics de maneira eficiente e transparente",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 37952,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "co.ted.huctd",
+      "url": "https://play.google.com/store/apps/details?id=co.ted.huctd&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Deepstash: Smarter Every Day!",
+      "description": "Aprenda algo novo em apenas 5 minutos por dia com resumos de livros e ideias cuidadosamente selecionadas dos livros mais populares do mundo, apresentadas por meio de belas ilustrações e uma experiência de leitura envolvente e prazerosa.\n\nPare de rolar a tela sem parar -> Baixe o Deepstash -> Use-o por 5 minutos por dia -> Torne-se a pessoa mais inteligente da sala.\n\nJunte-se a mais de 11 milhões de pessoas que estão descobrindo insights poderosos de livros como Hábitos Atômicos, A Psicologia do Dinheiro, Pense e Enriqueça e centenas de outros, todos condensados ​​em ideias concisas que você pode ler rapidamente.\n\n------\n\nO QUE TORNA O DEEPSTASH DIFERENTE\n\nO microaprendizado no Deepstash é apresentado em cartões de ideias com design elegante: notas visuais curtas que condensam pensamentos profundos de livros best-sellers em insights simples e memoráveis. Cada ideia é acompanhada por ilustrações impressionantes que fazem o aprendizado parecer menos uma obrigação e mais uma fonte de inspiração.\n\nSem bagunça. Sem distrações. Apenas conteúdo focado e envolvente que ajuda você a ficar mais inteligente a cada dia.\n\n------\n\nCONHECIMENTO GERAL E CRESCIMENTO PESSOAL\n\nIdeias são fundamentais para o seu bem-estar, seu crescimento pessoal e sua carreira. Ler ideias inspiradoras diariamente pode te tornar:\n- Mais inteligente (você conhecerá conceitos mais valiosos)\n- Mais criativo (você conseguirá conectar mais ideias)\n- Mais feliz (melhores hábitos, menos ansiedade)\n\nAlimente sua curiosidade e fique mais inteligente a cada dia.\n\n------\n\nCONTEÚDO E FEED PERSONALIZADOS\n\nEscolha os tópicos que te interessam: produtividade, liderança, psicologia, filosofia, conhecimento geral, marketing e muito mais. Conforme você lê e salva ideias, aprendemos o que te interessa e apresentamos o melhor conteúdo da nossa biblioteca selecionada de insights de livros renomados.\n\nVocê nem precisa se esforçar. Atualizamos suas recomendações várias vezes ao dia para que você nunca fique sem novas ideias.\n\n------\n\nGRATUITO E PRO: QUAL A DIFERENÇA?\n\n- Comece Grátis\nAcesse mais de 200.000 ideias poderosas de livros, artigos, podcasts e vídeos renomados\nCrie e compartilhe suas próprias ideias\n\n- Assine o Deepstash Pro\nSem anúncios - Leia sem interrupções\nOuça e cresça - Reprodução de áudio para todas as ideias\nBaixe suas ideias - Acesse sua biblioteca offline\nHistórico ilimitado - Volte a tudo o que você leu, organizado por dia\n\n------\n\nCONSTRUA SUA BIBLIOTECA DE CONHECIMENTO PESSOAL\n\nSalve os resumos e ideias que são importantes para você e organize-os em coleções. Crie pastas para projetos de trabalho, metas de crescimento pessoal ou tópicos pelos quais você é apaixonado. Pesquise e filtre suas ideias salvas a qualquer momento; elas estarão sempre à mão quando você precisar.\n\n------\n\nCOMPARTILHE SUAS DESCOBERTAS\n\nEncontrou uma ideia que vale a pena compartilhar? Compartilhe com seus amigos no WhatsApp, Facebook, Twitter, Instagram, TikTok, LinkedIn ou Quora. O formato conciso do Deepstash é perfeito para iniciar conversas.\n\n------\n\nPOR QUE NOSSOS USUÁRIOS AMAM O DEEPSTASH:\n\n\"Me ajudou a me desconectar das redes sociais. É excelente aprender algo novo e sinto que o tempo investido valeu a pena. Também dedico cerca de 10 minutos todas as manhãs para escolher um tópico e aproveitá-lo. Ótimo aplicativo, parabéns!\" - Ron Ronald\n\n\"Mesmo cinco minutos por dia podem melhorar seu raciocínio. Encontrei novas ideias e aprendi a aprimorar métodos existentes para me tornar mais motivado, confiante e feliz.\" - Ghazala Begum\n\n------\n\nO QUE A MÍDIA ESTÁ DIZENDO SOBRE NÓS:\n\n\"Aprenda bons hábitos, práticas de saúde e muito mais no seu tempo. Torna o crescimento pessoal gerenciável.\" - Mashable\n\n\"Mais de 200.000 ideias transformadoras ao seu alcance.\" - MacWorld\n\n\"O Deepstash é perfeito para empreendedores que querem se manter atualizados, mas têm pouco tempo.\" - Entrepreneur.com\n\n------\n\nBom para sua carreira.\n\nExcelente para sua vida.\n\nExperimente!\n\nLeia mais sobre nossos termos e condições aqui:\nTermos de serviço: https://deepstash.com/terms-of-service\nPolítica de privacidade: https://deepstash.com/privacy-policy",
+      "descriptionHTML": "Aprenda algo novo em apenas 5 minutos por dia com resumos de livros e ideias cuidadosamente selecionadas dos livros mais populares do mundo, apresentadas por meio de belas ilustrações e uma experiência de leitura envolvente e prazerosa.<br><br>Pare de rolar a tela sem parar -&gt; Baixe o Deepstash -&gt; Use-o por 5 minutos por dia -&gt; Torne-se a pessoa mais inteligente da sala.<br><br>Junte-se a mais de 11 milhões de pessoas que estão descobrindo insights poderosos de livros como Hábitos Atômicos, A Psicologia do Dinheiro, Pense e Enriqueça e centenas de outros, todos condensados ​​em ideias concisas que você pode ler rapidamente.<br><br>------<br><br>O QUE TORNA O DEEPSTASH DIFERENTE<br><br>O microaprendizado no Deepstash é apresentado em cartões de ideias com design elegante: notas visuais curtas que condensam pensamentos profundos de livros best-sellers em insights simples e memoráveis. Cada ideia é acompanhada por ilustrações impressionantes que fazem o aprendizado parecer menos uma obrigação e mais uma fonte de inspiração.<br><br>Sem bagunça. Sem distrações. Apenas conteúdo focado e envolvente que ajuda você a ficar mais inteligente a cada dia.<br><br>------<br><br>CONHECIMENTO GERAL E CRESCIMENTO PESSOAL<br><br>Ideias são fundamentais para o seu bem-estar, seu crescimento pessoal e sua carreira. Ler ideias inspiradoras diariamente pode te tornar:<br>- Mais inteligente (você conhecerá conceitos mais valiosos)<br>- Mais criativo (você conseguirá conectar mais ideias)<br>- Mais feliz (melhores hábitos, menos ansiedade)<br><br>Alimente sua curiosidade e fique mais inteligente a cada dia.<br><br>------<br><br>CONTEÚDO E FEED PERSONALIZADOS<br><br>Escolha os tópicos que te interessam: produtividade, liderança, psicologia, filosofia, conhecimento geral, marketing e muito mais. Conforme você lê e salva ideias, aprendemos o que te interessa e apresentamos o melhor conteúdo da nossa biblioteca selecionada de insights de livros renomados.<br><br>Você nem precisa se esforçar. Atualizamos suas recomendações várias vezes ao dia para que você nunca fique sem novas ideias.<br><br>------<br><br>GRATUITO E PRO: QUAL A DIFERENÇA?<br><br>- Comece Grátis<br>Acesse mais de 200.000 ideias poderosas de livros, artigos, podcasts e vídeos renomados<br>Crie e compartilhe suas próprias ideias<br><br>- Assine o Deepstash Pro<br>Sem anúncios - Leia sem interrupções<br>Ouça e cresça - Reprodução de áudio para todas as ideias<br>Baixe suas ideias - Acesse sua biblioteca offline<br>Histórico ilimitado - Volte a tudo o que você leu, organizado por dia<br><br>------<br><br>CONSTRUA SUA BIBLIOTECA DE CONHECIMENTO PESSOAL<br><br>Salve os resumos e ideias que são importantes para você e organize-os em coleções. Crie pastas para projetos de trabalho, metas de crescimento pessoal ou tópicos pelos quais você é apaixonado. Pesquise e filtre suas ideias salvas a qualquer momento; elas estarão sempre à mão quando você precisar.<br><br>------<br><br>COMPARTILHE SUAS DESCOBERTAS<br><br>Encontrou uma ideia que vale a pena compartilhar? Compartilhe com seus amigos no WhatsApp, Facebook, Twitter, Instagram, TikTok, LinkedIn ou Quora. O formato conciso do Deepstash é perfeito para iniciar conversas.<br><br>------<br><br>POR QUE NOSSOS USUÁRIOS AMAM O DEEPSTASH:<br><br>&quot;Me ajudou a me desconectar das redes sociais. É excelente aprender algo novo e sinto que o tempo investido valeu a pena. Também dedico cerca de 10 minutos todas as manhãs para escolher um tópico e aproveitá-lo. Ótimo aplicativo, parabéns!&quot; - Ron Ronald<br><br>&quot;Mesmo cinco minutos por dia podem melhorar seu raciocínio. Encontrei novas ideias e aprendi a aprimorar métodos existentes para me tornar mais motivado, confiante e feliz.&quot; - Ghazala Begum<br><br>------<br><br>O QUE A MÍDIA ESTÁ DIZENDO SOBRE NÓS:<br><br>&quot;Aprenda bons hábitos, práticas de saúde e muito mais no seu tempo. Torna o crescimento pessoal gerenciável.&quot; - Mashable<br><br>&quot;Mais de 200.000 ideias transformadoras ao seu alcance.&quot; - MacWorld<br><br>&quot;O Deepstash é perfeito para empreendedores que querem se manter atualizados, mas têm pouco tempo.&quot; - Entrepreneur.com<br><br>------<br><br>Bom para sua carreira.<br><br>Excelente para sua vida.<br><br>Experimente!<br><br>Leia mais sobre nossos termos e condições aqui:<br>Termos de serviço: https://deepstash.com/terms-of-service<br>Política de privacidade: https://deepstash.com/privacy-policy",
+      "summary": "Conhecimento e livros em pequenas doses. Resumos de livros e ideias principais em 5 minutos por dia.",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 6208541,
+      "score": 4.725979,
+      "scoreText": "4,7",
+      "ratings": 197291,
+      "reviews": 405,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.deepstash",
+      "url": "https://play.google.com/store/apps/details?id=com.deepstash&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "DIS",
+      "description": "O aplicativo \"DIS\" é uma solução de e-learning que ajuda a escola a implementar o ensino à distância e fornece uma experiência de aprendizagem on-line interativa para os alunos usando sala de aula virtual, compartilhamento digital de arquivos, testes e tarefas interativos e muito mais.\nComo a inscrição do \"DIS 'pode ser benéfica para alunos e pais?\n- Os alunos podem assistir a aulas on-line interativas ao vivo, onde podem interagir com os professores remotamente.\n- Os alunos recebem documentos, arquivos e materiais didáticos de diferentes tipos e formatos.\n- Os professores podem se comunicar com os alunos e seus pais a qualquer momento e enviar mensagens personalizadas ou salvas.\n- Alunos e pais podem acompanhar o atendimento por meio do aplicativo.\n- Os alunos recebem tarefas e podem resolvê-las e enviá-las online.\n- Os alunos podem resolver testes e questionários online e obter suas pontuações instantaneamente.\n- Alunos e pais têm acesso instantâneo às notas e relatórios.\n- Pais e alunos podem votar em qualquer tópico importante criado por professores.\n- Cursos e datas de exames são bem organizados em um calendário.",
+      "descriptionHTML": "O aplicativo &quot;DIS&quot; é uma solução de e-learning que ajuda a escola a implementar o ensino à distância e fornece uma experiência de aprendizagem on-line interativa para os alunos usando sala de aula virtual, compartilhamento digital de arquivos, testes e tarefas interativos e muito mais.<br>Como a inscrição do &quot;DIS &#39;pode ser benéfica para alunos e pais?<br>- Os alunos podem assistir a aulas on-line interativas ao vivo, onde podem interagir com os professores remotamente.<br>- Os alunos recebem documentos, arquivos e materiais didáticos de diferentes tipos e formatos.<br>- Os professores podem se comunicar com os alunos e seus pais a qualquer momento e enviar mensagens personalizadas ou salvas.<br>- Alunos e pais podem acompanhar o atendimento por meio do aplicativo.<br>- Os alunos recebem tarefas e podem resolvê-las e enviá-las online.<br>- Os alunos podem resolver testes e questionários online e obter suas pontuações instantaneamente.<br>- Alunos e pais têm acesso instantâneo às notas e relatórios.<br>- Pais e alunos podem votar em qualquer tópico importante criado por professores.<br>- Cursos e datas de exames são bem organizados em um calendário.",
+      "summary": "O aplicativo DIS é uma solução de e-learning",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3247,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "pharossolutions.app.schoolapp.home.damiettaInternational",
+      "url": "https://play.google.com/store/apps/details?id=pharossolutions.app.schoolapp.home.damiettaInternational&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Diagnóstico Diferencial | DD",
+      "description": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  \nUm aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.\n\nO aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.\n\n✨ Principais recursos:\n   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  \n   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  \n   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  \n   📋 Anamnese e exame rápido – checklists e lembretes práticos  \n   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  \n   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  \n   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  \n   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  \n\nIdeal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.\n\n📩 Suporte: contact@rermedapps.com  \n🔒 Política de privacidade: https://rermedapps.com/privacy-policy  \n\n⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "descriptionHTML": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  <br>Um aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.<br><br>O aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.<br><br>✨ Principais recursos:<br>   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  <br>   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  <br>   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  <br>   📋 Anamnese e exame rápido – checklists e lembretes práticos  <br>   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  <br>   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  <br>   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  <br>   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  <br><br>Ideal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.<br><br>📩 Suporte: contact@rermedapps.com  <br>🔒 Política de privacidade: https://rermedapps.com/privacy-policy  <br><br>⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "summary": "Análise de sintomas e exames | Diagnóstico diferencial rápido | Guia clínico",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 182,
+      "price": 49.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 49,99",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.rermedapps.differentialdiagnosis",
+      "url": "https://play.google.com/store/apps/details?id=com.rermedapps.differentialdiagnosis&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11398,
+      "score": 3.9,
+      "scoreText": "3,9",
+      "ratings": 38,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Fixando: Não sabe? Não invente",
+      "description": "Não sabe? Não invente!\n\nA Fixando é a plataforma online de serviços para quem não gosta de inventar. Em simultâneo, é a melhor forma de aproximar os especialistas das pessoas que procuram serviços.\n\nNa Fixando vai encontrar mais de 50.000 especialistas\ne 1200 categorias de serviços, com total segurança e rapidez, para realizar qualquer tipo de projeto que necessite (Serviços para a Casa, Eventos, Bem-Estar, Animais, Serviços Domésticos, Assistência Técnica e Outros). \n\nEm 2018, 2019, 2020, 2021 e 2022 vencemos os Prémios 5 Estrelas de Melhor Plataforma Online de Contratação de Serviços!\n\nOs nossos especialistas têm uma avaliação média de 4.7 estrelas, com mais de 6000 avaliações. Leia abaixo o que dizem os nossos utilizadores!\n\n“Profissional muito competente. Trabalho impecável. Recomendo.” - Ana, montagem de mobília\n\n“Muito bom atendimento, super rápido em resolver o meu problema, obrigado.” - Sérgio, instalação ou substituição de esquentador\n\n“Gostei muito do trabalho do Sr. Um senhor honesto, com vontade de trabalhar e de resolver o problema. Muito prestável e pontual. Recomendo.” - Carla, canalização\n\nA Fixando foi fundada em 2017 e está atualmente a operar em Portugal, Alemanha, Áustria, Suíça, Espanha, México, Chile, República Dominicana, Irlanda, Singapura, Nova Zelândia e Canadá.\n\nChame um especialista hoje!",
+      "descriptionHTML": "Não sabe? Não invente!<br><br>A Fixando é a plataforma online de serviços para quem não gosta de inventar. Em simultâneo, é a melhor forma de aproximar os especialistas das pessoas que procuram serviços.<br><br>Na Fixando vai encontrar mais de 50.000 especialistas<br>e 1200 categorias de serviços, com total segurança e rapidez, para realizar qualquer tipo de projeto que necessite (Serviços para a Casa, Eventos, Bem-Estar, Animais, Serviços Domésticos, Assistência Técnica e Outros). <br><br>Em 2018, 2019, 2020, 2021 e 2022 vencemos os Prémios 5 Estrelas de Melhor Plataforma Online de Contratação de Serviços!<br><br>Os nossos especialistas têm uma avaliação média de 4.7 estrelas, com mais de 6000 avaliações. Leia abaixo o que dizem os nossos utilizadores!<br><br>“Profissional muito competente. Trabalho impecável. Recomendo.” - Ana, montagem de mobília<br><br>“Muito bom atendimento, super rápido em resolver o meu problema, obrigado.” - Sérgio, instalação ou substituição de esquentador<br><br>“Gostei muito do trabalho do Sr. Um senhor honesto, com vontade de trabalhar e de resolver o problema. Muito prestável e pontual. Recomendo.” - Carla, canalização<br><br>A Fixando foi fundada em 2017 e está atualmente a operar em Portugal, Alemanha, Áustria, Suíça, Espanha, México, Chile, República Dominicana, Irlanda, Singapura, Nova Zelândia e Canadá.<br><br>Chame um especialista hoje!",
+      "summary": "A plataforma de serviços para quem não gosta de inventar",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 138117,
+      "score": 4.45,
+      "scoreText": "4,4",
+      "ratings": 1491,
+      "reviews": 44,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.fixandoapp.live",
+      "url": "https://play.google.com/store/apps/details?id=com.fixandoapp.live&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

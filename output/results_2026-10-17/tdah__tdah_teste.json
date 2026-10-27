@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:17:57.821Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TDAH",
+    "term": "tdah teste",
+    "key": "tdah teste",
+    "depth": 1,
+    "parent": "tdah",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Teste TDAH: triagem adultos",
+      "description": "Faça o teste de TDAH para adultos (ASRS v1.1 da OMS). Triagem privada em cerca de 3 minutos: atenção, impulsividade e hiperatividade. Não é diagnóstico.\n\nVocê se pergunta “Eu tenho TDAH?” Este app apresenta a Adult ADHD Self-Report Scale (ASRS v1.1), desenvolvida com a Organização Mundial da Saúde. São 18 perguntas. A Parte A é o rastreio de 6 itens usado em pesquisa clínica. A Parte B traz pistas extras. Você vê um resultado claro para levar a um profissional.\n\nRecursos\n\nTeste de TDAH para adultos em cerca de 3 minutos. Pontuação ASRS v1.1 (corte da Parte A: 4 de 6). Triagem, não um quiz aleatório. Desatenção, impulsividade e hiperatividade. Privado: as respostas ficam neste aparelho. Funciona totalmente offline. Interface simples em 15 idiomas. Fontes no app (OMS / Workgroup on Adult ADHD).\n\nMétodo\n\nA ASRS v1.1 é um instrumento de triagem do TDAH em adultos. O app apresenta esse instrumento para autoconhecimento. Não diagnostica TDAH nem outros transtornos.\n\nPara quem é\n\nAdultos que se perguntam “eu tenho TDAH?”, estudantes com problemas de concentração, profissionais com dificuldade de organização ou impulsividade, quem quer uma autoavaliação científica antes de marcar consulta.\n\nBaixe Teste TDAH e faça uma triagem de TDAH para adultos hoje. Se os sintomas atrapalham o dia a dia, fale com um profissional qualificado.\n\nEste teste para adultos ajuda a notar padrões de déficit de atenção, hiperatividade e impulsividade. Questionário ASRS, autoteste, triagem OMS: rápido, privado, sem diagnóstico.",
+      "descriptionHTML": "Faça o teste de TDAH para adultos (ASRS v1.1 da OMS). Triagem privada em cerca de 3 minutos: atenção, impulsividade e hiperatividade. Não é diagnóstico.<br><br>Você se pergunta “Eu tenho TDAH?” Este app apresenta a Adult ADHD Self-Report Scale (ASRS v1.1), desenvolvida com a Organização Mundial da Saúde. São 18 perguntas. A Parte A é o rastreio de 6 itens usado em pesquisa clínica. A Parte B traz pistas extras. Você vê um resultado claro para levar a um profissional.<br><br>Recursos<br><br>Teste de TDAH para adultos em cerca de 3 minutos. Pontuação ASRS v1.1 (corte da Parte A: 4 de 6). Triagem, não um quiz aleatório. Desatenção, impulsividade e hiperatividade. Privado: as respostas ficam neste aparelho. Funciona totalmente offline. Interface simples em 15 idiomas. Fontes no app (OMS / Workgroup on Adult ADHD).<br><br>Método<br><br>A ASRS v1.1 é um instrumento de triagem do TDAH em adultos. O app apresenta esse instrumento para autoconhecimento. Não diagnostica TDAH nem outros transtornos.<br><br>Para quem é<br><br>Adultos que se perguntam “eu tenho TDAH?”, estudantes com problemas de concentração, profissionais com dificuldade de organização ou impulsividade, quem quer uma autoavaliação científica antes de marcar consulta.<br><br>Baixe Teste TDAH e faça uma triagem de TDAH para adultos hoje. Se os sintomas atrapalham o dia a dia, fale com um profissional qualificado.<br><br>Este teste para adultos ajuda a notar padrões de déficit de atenção, hiperatividade e impulsividade. Questionário ASRS, autoteste, triagem OMS: rápido, privado, sem diagnóstico.",
+      "summary": "Triagem OMS ASRS v1.1 para adultos: atenção, impulsividade e hiperatividade.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11860,
+      "score": 4.702381,
+      "scoreText": "4,7",
+      "ratings": 114,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.vadeapps.testetdah",
+      "url": "https://play.google.com/store/apps/details?id=com.vadeapps.testetdah&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "TDAH",
+      "description": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.\n\nE muito mais recursos como...\n\n• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual\n• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade\n• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo\n• Dicas úteis para realizar suas tarefas e aumentar a produtividade\n• Técnicas de Organização, Saúde e Estudos\n• Suporte para vários idiomas, incluindo inglês, espanhol e português\n• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "descriptionHTML": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.<br><br>E muito mais recursos como...<br><br>• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual<br>• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade<br>• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo<br>• Dicas úteis para realizar suas tarefas e aumentar a produtividade<br>• Técnicas de Organização, Saúde e Estudos<br>• Suporte para vários idiomas, incluindo inglês, espanhol e português<br>• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "summary": "Auxiliar crianças e adultos com TDAH",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 147235,
+      "score": 4.36,
+      "scoreText": "4,4",
+      "ratings": 390,
+      "reviews": 99,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "tk.tdah",
+      "url": "https://play.google.com/store/apps/details?id=tk.tdah&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "ADHD Tests for Adults",
+      "description": "Testes de TDAH para Adultos – Aplicativo de Autoavaliação\n\nVocê já se perguntou se pode ter TDAH?\n\nTodo mundo parece estar falando sobre isso, e você só quer saber por si mesmo. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em adultos. Cada teste foi desenvolvido para ajudar você a explorar os sintomas associados ao Transtorno de Déficit de Atenção com Hiperatividade (TDAH), como foco, atenção e impulsividade.\n\nVocê recebe resultados instantâneos após cada teste. Você pode refazê-los sempre que quiser para refletir sobre como seus sintomas podem mudar. O aplicativo é fácil de usar, privado e gratuito para baixar.\n\nPrincipais Recursos\n\n🧩 Testes e Questionários de TDAH – Diversas autoavaliações curtas para adultos.\n\n⚡ Resultados Instantâneos – Respostas claras assim que você terminar um teste.\n\n🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar seu dia a dia.\n\n🔒 Privado e Seguro – Seus resultados ficam armazenados no seu dispositivo, visíveis apenas para você.\n\n🎯 Feito para Adultos – Focado na autoavaliação de TDAH em adultos.\n\n💸 Assinatura Acessível – Experimente os testes de TDAH agora mesmo.\n\nPor que escolher este aplicativo?\n\nLinguagem simples e direta, sem jargões médicos.\n\nAcesso acessível a todos os testes de TDAH.\n\nRefaça os testes a qualquer momento para refletir sobre seus resultados.\n\nDesign amigável e fácil de usar.\n\nAviso Legal\n\nEste aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se seus resultados sugerirem TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de tratamento.\n\nComece Hoje\n\nBaixe agora o Teste de TDAH para Adultos. Faça seu primeiro teste de TDAH, verifique seus sintomas e comece a entender seu foco, atenção e saúde mental em minutos.",
+      "descriptionHTML": "Testes de TDAH para Adultos – Aplicativo de Autoavaliação<br><br>Você já se perguntou se pode ter TDAH?<br><br>Todo mundo parece estar falando sobre isso, e você só quer saber por si mesmo. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em adultos. Cada teste foi desenvolvido para ajudar você a explorar os sintomas associados ao Transtorno de Déficit de Atenção com Hiperatividade (TDAH), como foco, atenção e impulsividade.<br><br>Você recebe resultados instantâneos após cada teste. Você pode refazê-los sempre que quiser para refletir sobre como seus sintomas podem mudar. O aplicativo é fácil de usar, privado e gratuito para baixar.<br><br>Principais Recursos<br><br>🧩 Testes e Questionários de TDAH – Diversas autoavaliações curtas para adultos.<br><br>⚡ Resultados Instantâneos – Respostas claras assim que você terminar um teste.<br><br>🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar seu dia a dia.<br><br>🔒 Privado e Seguro – Seus resultados ficam armazenados no seu dispositivo, visíveis apenas para você.<br><br>🎯 Feito para Adultos – Focado na autoavaliação de TDAH em adultos.<br><br>💸 Assinatura Acessível – Experimente os testes de TDAH agora mesmo.<br><br>Por que escolher este aplicativo?<br><br>Linguagem simples e direta, sem jargões médicos.<br><br>Acesso acessível a todos os testes de TDAH.<br><br>Refaça os testes a qualquer momento para refletir sobre seus resultados.<br><br>Design amigável e fácil de usar.<br><br>Aviso Legal<br><br>Este aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se seus resultados sugerirem TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de tratamento.<br><br>Comece Hoje<br><br>Baixe agora o Teste de TDAH para Adultos. Faça seu primeiro teste de TDAH, verifique seus sintomas e comece a entender seu foco, atenção e saúde mental em minutos.",
+      "summary": "Faça agora mesmo uma autoavaliação de TDAH para adultos. Verifique seu foco, atenção e sintomas.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 631,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.MeddyTech.adhd_test_adult",
+      "url": "https://play.google.com/store/apps/details?id=com.MeddyTech.adhd_test_adult&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "TDAH Test+",
+      "description": "O ADHD Test + é um teste rápido para a detecção do TDAH (Attention Deficit Hyperactivity Disorder) em crianças e adultos, com base nos critérios diagnósticos estabelecidos pelo DSM e CID.\n\nNo ADHD Test + você também encontrará todas as informações essenciais relevantes que você precisa para entender esse distúrbio do neurodesenvolvimento, o mais comum na infância e na adolescência.\n\nVocê terá acesso às últimas notícias publicadas sobre TDAH na mídia científica e informativa, atualizadas a cada dia, bem como vídeos e guias para download em PDF.\n\nADHD Test + foi projetado e supervisionado por psicólogos licenciados como um aplicativo informativo para ajudar a identificar o TDAH em crianças e adultos, seguindo os mais atuais padrões científicos estabelecidos pelas classificações diagnósticas do DSM e do ICD.\n\nPode ser útil para pais, educadores, alunos e profissionais de saúde mental que precisam identificar ou aprender mais sobre esse transtorno.\n\nEm nenhum caso, a utilização deste aplicativo ou os resultados obtidos nas provas que são disponibilizadas podem substituir uma avaliação profissional adequada.",
+      "descriptionHTML": "O ADHD Test + é um teste rápido para a detecção do TDAH (Attention Deficit Hyperactivity Disorder) em crianças e adultos, com base nos critérios diagnósticos estabelecidos pelo DSM e CID.<br><br>No ADHD Test + você também encontrará todas as informações essenciais relevantes que você precisa para entender esse distúrbio do neurodesenvolvimento, o mais comum na infância e na adolescência.<br><br>Você terá acesso às últimas notícias publicadas sobre TDAH na mídia científica e informativa, atualizadas a cada dia, bem como vídeos e guias para download em PDF.<br><br>ADHD Test + foi projetado e supervisionado por psicólogos licenciados como um aplicativo informativo para ajudar a identificar o TDAH em crianças e adultos, seguindo os mais atuais padrões científicos estabelecidos pelas classificações diagnósticas do DSM e do ICD.<br><br>Pode ser útil para pais, educadores, alunos e profissionais de saúde mental que precisam identificar ou aprender mais sobre esse transtorno.<br><br>Em nenhum caso, a utilização deste aplicativo ou os resultados obtidos nas provas que são disponibilizadas podem substituir uma avaliação profissional adequada.",
+      "summary": "Teste de base científica para a detecção de TDAH em crianças e adultos",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 70989,
+      "score": 3.5294118,
+      "scoreText": "3,5",
+      "ratings": 305,
+      "reviews": 15,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.newandromo.dev1502125.app1882380",
+      "url": "https://play.google.com/store/apps/details?id=com.newandromo.dev1502125.app1882380&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "ADHD Test",
+      "description": "Você acha difícil se concentrar? Você sente a necessidade de se mover constantemente ou interromper os outros? Se esses problemas estão afetando negativamente sua vida diária, isso pode ser um sinal de TDAH (Transtorno de Déficit de Atenção/Hiperatividade). Enquanto os sintomas de TDAH geralmente começam na infância, o TDAH pode continuar até a adolescência e a idade adulta.\n\nEste teste de TDAH foi desenvolvido para ajudá-lo a identificar a possibilidade de TDAH. Este aplicativo usa o Adult ADHD Self-Report Scale.\n\nIsenção de responsabilidade: Este teste NÃO é aplicável a crianças e também NÃO é um teste de diagnóstico. Consulte seu médico se estiver preocupado com o TDAH.",
+      "descriptionHTML": "Você acha difícil se concentrar? Você sente a necessidade de se mover constantemente ou interromper os outros? Se esses problemas estão afetando negativamente sua vida diária, isso pode ser um sinal de TDAH (Transtorno de Déficit de Atenção/Hiperatividade). Enquanto os sintomas de TDAH geralmente começam na infância, o TDAH pode continuar até a adolescência e a idade adulta.<br><br>Este teste de TDAH foi desenvolvido para ajudá-lo a identificar a possibilidade de TDAH. Este aplicativo usa o Adult ADHD Self-Report Scale.<br><br>Isenção de responsabilidade: Este teste NÃO é aplicável a crianças e também NÃO é um teste de diagnóstico. Consulte seu médico se estiver preocupado com o TDAH.",
+      "summary": "Avalie seus sintomas de TDAH Adulto com um simples teste de triagem, validado.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 178416,
+      "score": 4.0333333,
+      "scoreText": "4,0",
+      "ratings": 1819,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.adhd.adhdtest",
+      "url": "https://play.google.com/store/apps/details?id=com.adhd.adhdtest&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "ADHD Test",
+      "description": "ADHD Test e uma ferramenta de autoavaliacao criada para adolescentes e adultos para ajudar a identificar caracteristicas normalmente associadas ao Transtorno de Defice de Atencao e Hiperatividade (ADHD).\n\nO teste baseia se em padroes de comportamento amplamente reconhecidos como falta de atencao, impulsividade, hiperatividade, dificuldade de concentracao, organizacao e regulacao emocional. Apos concluir o questionario, os utilizadores recebem resultados imediatos para apoiar a consciencia e a reflexao pessoal.\n\nEsta aplicacao destina se apenas a fins educativos e de autoconhecimento. Nao fornece um diagnostico medico e nao substitui uma avaliacao profissional. Se os resultados indicarem dificuldades significativas que afetem a vida diaria, recomenda se a consulta de um profissional de saude qualificado.\n\nFuncoes\n- Questionario rapido e simples\n- Resultados e feedback imediatos\n- Interpretacao clara e direta\n- Totalmente privado e anonimo\n- Criado para adolescentes e adultos\n\nUtilize o ADHD Test para compreender melhor os desafios relacionados com a atencao e reconhecer quando a orientacao profissional pode ser util.",
+      "descriptionHTML": "ADHD Test e uma ferramenta de autoavaliacao criada para adolescentes e adultos para ajudar a identificar caracteristicas normalmente associadas ao Transtorno de Defice de Atencao e Hiperatividade (ADHD).<br><br>O teste baseia se em padroes de comportamento amplamente reconhecidos como falta de atencao, impulsividade, hiperatividade, dificuldade de concentracao, organizacao e regulacao emocional. Apos concluir o questionario, os utilizadores recebem resultados imediatos para apoiar a consciencia e a reflexao pessoal.<br><br>Esta aplicacao destina se apenas a fins educativos e de autoconhecimento. Nao fornece um diagnostico medico e nao substitui uma avaliacao profissional. Se os resultados indicarem dificuldades significativas que afetem a vida diaria, recomenda se a consulta de um profissional de saude qualificado.<br><br>Funcoes<br>- Questionario rapido e simples<br>- Resultados e feedback imediatos<br>- Interpretacao clara e direta<br>- Totalmente privado e anonimo<br>- Criado para adolescentes e adultos<br><br>Utilize o ADHD Test para compreender melhor os desafios relacionados com a atencao e reconhecer quando a orientacao profissional pode ser util.",
+      "summary": "Autoavaliacao para identificar caracteristicas de ADHD em adolescentes e adultos",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1186,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.byronsd.tdah_bsd",
+      "url": "https://play.google.com/store/apps/details?id=com.byronsd.tdah_bsd&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Adult ADHD Test",
+      "description": "Você acha difícil se concentrar? Você se sente inquieto, em constante movimento ou tem vontade de incomodar os outros?\n\nSe esses sintomas interferirem na sua vida diária, podem ser sinais de TDAH (Transtorno de Déficit de Atenção/Hiperatividade).\n\nO TDAH também pode ocorrer em adultos e uma avaliação precisa é necessária para um manejo adequado.\n\nEste aplicativo é um teste de autodiagnóstico para TDAH em adultos que avalia a possibilidade de TDAH por meio de perguntas simples. Você pode rastrear o TDAH verificando os principais sintomas, como problemas de atenção, hiperatividade e impulsividade.\n\n\nRecursos do aplicativo:\n\n- Autodiagnóstico rápido e simples de TDAH\n- Usa escala de autorrelato de TDAH para adultos\n- Testes para déficit de atenção e hiperatividade\n- Explicação detalhada dos sintomas de TDAH\n\n\nRecomendado para:\n\n- Aqueles preocupados com a diminuição da atenção\n- Aqueles que querem verificar seus problemas de concentração\n- Aqueles preocupados com sintomas de hiperatividade e impulsividade\n- Aqueles que desejam verificar o TDAH em adultos\n\n\nNota: Este aplicativo não é uma ferramenta de diagnóstico profissional e não substitui a consulta profissional. Se você está preocupado com o TDAH, consulte um médico.",
+      "descriptionHTML": "Você acha difícil se concentrar? Você se sente inquieto, em constante movimento ou tem vontade de incomodar os outros?<br><br>Se esses sintomas interferirem na sua vida diária, podem ser sinais de TDAH (Transtorno de Déficit de Atenção/Hiperatividade).<br><br>O TDAH também pode ocorrer em adultos e uma avaliação precisa é necessária para um manejo adequado.<br><br>Este aplicativo é um teste de autodiagnóstico para TDAH em adultos que avalia a possibilidade de TDAH por meio de perguntas simples. Você pode rastrear o TDAH verificando os principais sintomas, como problemas de atenção, hiperatividade e impulsividade.<br><br><br>Recursos do aplicativo:<br><br>- Autodiagnóstico rápido e simples de TDAH<br>- Usa escala de autorrelato de TDAH para adultos<br>- Testes para déficit de atenção e hiperatividade<br>- Explicação detalhada dos sintomas de TDAH<br><br><br>Recomendado para:<br><br>- Aqueles preocupados com a diminuição da atenção<br>- Aqueles que querem verificar seus problemas de concentração<br>- Aqueles preocupados com sintomas de hiperatividade e impulsividade<br>- Aqueles que desejam verificar o TDAH em adultos<br><br><br>Nota: Este aplicativo não é uma ferramenta de diagnóstico profissional e não substitui a consulta profissional. Se você está preocupado com o TDAH, consulte um médico.",
+      "summary": "Teste simples de autodiagnóstico para TDAH em adultos usando a escala ASRS",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6698,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.bluesky2.adhdtest",
+      "url": "https://play.google.com/store/apps/details?id=com.bluesky2.adhdtest&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Lira - TDAH & Autismo Feminino",
+      "description": "Suporte para mulheres com TDAH ou autismo\n\nA Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.\n\nMuitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.\n\nA Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.\n\nDesenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.\n\nMuitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.\n\nO que você pode fazer com a Lira:\n\n• Registrar sua energia e capacidade diariamente\n• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual\n• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento\n• Receber recomendações personalizadas com base nos seus registros\n• Reconhecer sinais precoces de burnout e sobrecarga\n• Explorar a relação entre TDAH, autismo e flutuações hormonais\n• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial\n\nMundo Interior: aprender através da experiência\n\nO Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.\n\nCriada para a vida real\n\nA Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.\n\nCriada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.\n\nEste aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.\n\nEstamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "descriptionHTML": "Suporte para mulheres com TDAH ou autismo<br><br>A Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.<br><br>Muitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.<br><br>A Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.<br><br>Desenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.<br><br>Muitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.<br><br>O que você pode fazer com a Lira:<br><br>• Registrar sua energia e capacidade diariamente<br>• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual<br>• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento<br>• Receber recomendações personalizadas com base nos seus registros<br>• Reconhecer sinais precoces de burnout e sobrecarga<br>• Explorar a relação entre TDAH, autismo e flutuações hormonais<br>• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial<br><br>Mundo Interior: aprender através da experiência<br><br>O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.<br><br>Criada para a vida real<br><br>A Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.<br><br>Criada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.<br><br>Este aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.<br><br>Estamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "summary": "Energia e apoio diário para mulheres com TDAH e autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10051,
+      "score": 4.4666667,
+      "scoreText": "4,5",
+      "ratings": 80,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "url": "https://play.google.com/store/apps/details?id=com.hugomeninoaguiar.mymobileapp&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "ADHD Test For Adults",
+      "description": "\"Será que sou só eu, ou isso é TDAH?\" Faça um teste rápido de TDAH baseado em evidências científicas e obtenha respostas claras em cerca de 3 minutos — sem e-mails, sem julgamentos. Um verdadeiro teste de saúde mental, não um questionário aleatório.\n\nUm verdadeiro teste, não um quiz do BuzzFeed\n• Teste de TDAH validado e avaliação de sintomas para adultos\n• Triagem online para transtornos de desatenção, hiperatividade e TDAH combinado\n• Informações sobre autismo, ansiedade, depressão e personalidade em um único aplicativo\n• Sinais claros e próximos passos para um diagnóstico, não rótulos vagos\n\nCriado para adultos, mulheres, adolescentes e crianças\nO TDAH se manifesta de forma diferente em cada pessoa — especialmente em mulheres e meninas que não foram diagnosticadas na infância. Este teste abrange o quadro completo, desde os sinais na infância até os sintomas na idade adulta, para que você finalmente entenda o que está acontecendo.\n\nPrivado e instantâneo\nSem cadastro. Sem compartilhamento de dados. Responda honestamente, receba seus resultados na hora e faça um teste confiável antes de agendar um diagnóstico.\n\nSe perguntando \"Será que tenho TDAH?\" Pare de adivinhar. Faça o teste e obtenha a clareza que você procura.",
+      "descriptionHTML": "&quot;Será que sou só eu, ou isso é TDAH?&quot; Faça um teste rápido de TDAH baseado em evidências científicas e obtenha respostas claras em cerca de 3 minutos — sem e-mails, sem julgamentos. Um verdadeiro teste de saúde mental, não um questionário aleatório.<br><br>Um verdadeiro teste, não um quiz do BuzzFeed<br>• Teste de TDAH validado e avaliação de sintomas para adultos<br>• Triagem online para transtornos de desatenção, hiperatividade e TDAH combinado<br>• Informações sobre autismo, ansiedade, depressão e personalidade em um único aplicativo<br>• Sinais claros e próximos passos para um diagnóstico, não rótulos vagos<br><br>Criado para adultos, mulheres, adolescentes e crianças<br>O TDAH se manifesta de forma diferente em cada pessoa — especialmente em mulheres e meninas que não foram diagnosticadas na infância. Este teste abrange o quadro completo, desde os sinais na infância até os sintomas na idade adulta, para que você finalmente entenda o que está acontecendo.<br><br>Privado e instantâneo<br>Sem cadastro. Sem compartilhamento de dados. Responda honestamente, receba seus resultados na hora e faça um teste confiável antes de agendar um diagnóstico.<br><br>Se perguntando &quot;Será que tenho TDAH?&quot; Pare de adivinhar. Faça o teste e obtenha a clareza que você procura.",
+      "summary": "Questionário de triagem para TDAH: sintomas e saúde mental",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 27158,
+      "score": 4.818182,
+      "scoreText": "4,8",
+      "ratings": 906,
+      "reviews": 0,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "io.mindist.test",
+      "url": "https://play.google.com/store/apps/details?id=io.mindist.test&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "ADD ADHD Test: Symptom Checker",
+      "description": "Descubra o seu perfil cerebral único com o teste definitivo para TDAH\n\nVocê se pergunta constantemente: \"Será que tenho TDAH?\" ou sente que está fora de sintonia com o seu potencial? Você não está sozinho. Nosso teste abrangente para TDAH foi desenvolvido para trazer clareza. Seja para adultos, mulheres ou simplesmente para entender seus padrões de foco, este aplicativo oferece uma experiência de avaliação profunda e cientificamente embasada.\n\nAvaliação detalhada para cada neurotipo\nEste não é apenas um teste rápido de TDAH. Oferecemos uma avaliação robusta que analisa todo o espectro de sintomas. Ao contrário de um teste básico de TDAH, mergulhamos nas nuances da experiência neurodivergente.\n\n- Teste para TDAH desatento: Tem dificuldade para se concentrar? Verificamos a dispersão da atenção e a névoa mental.\n\n- Teste para TDAH hiperativo: Sua mente está constantemente agitada? Avaliamos a inquietação física e interna.\n\n- Teste para TDAH do tipo combinado: Muitas pessoas apresentam ambos os tipos. Analisamos a combinação de sintomas.\n\nAlém dos sintomas padrão\nVamos além das listas de verificação padrão. Nossa avaliação abrange:\n- Teste de Disfunção Executiva: Você sabe o que fazer, mas não consegue começar? Testamos a paralisia de tarefas.\n\n- Teste de TDAH para Desregulação Emocional e Disforia Sensível à Rejeição (DSR): A Disforia Sensível à Rejeição é real. Exploramos sua intensidade emocional.\n\n- Teste de Mascaramento do TDAH: Especialmente importante para o teste de TDAH em mulheres, analisamos como você pode estar escondendo suas dificuldades.\n\n- Teste de Anel de Fogo do TDAH: Explore padrões intensos e de superestimulação.\n\n- Hiperfoco: Não é apenas um déficit; é um paradoxo. Analisamos sua capacidade de concentração.\n\nTriagem Especializada\n- Teste de TDAH para Mulheres e Meninas: Os sintomas costumam ser diferentes em mulheres. Nosso teste de TDAH para mulheres considera comportamentos internalizantes e mascaramento.\n\n- Teste de TDAH para Adultos: A vida adulta com TDAH é difícil. Nos concentramos em organização, cegueira temporal e gerenciamento da vida.\n\n- Padrões da Infância: Como o TDAH começa cedo, incluímos uma seção retrospectiva relevante para a perspectiva do teste de TDAH para crianças e adolescentes, ajudando os adultos a rastrear as raízes até a infância.\n\nEsclarecimento sobre Condições Concomitantes\nÉ comum ter dúvidas sobre a sobreposição de sintomas.\n\n- Teste de TDAH vs. Ansiedade: É preocupação ou apenas o cérebro acelerado do TDAH?\n\n- Teste de TDAH vs. Autismo: Explore o espectro do TDAH.\n\n- Teste de Transtorno Bipolar vs. TDAH: Diferencie entre ciclos de humor e regulação da atenção.\n\n- Teste de Neurodivergência: Uma visão mais ampla de como seu cérebro funciona.\n\nPor que fazer esta avaliação online de TDAH?\n\n- Teste de TDAH gratuito: Obtenha informações de nível profissional sem custos adicionais.\n\n- Resultados imediatos: Sem listas de espera. Receba seus resultados de triagem instantaneamente.\n\n- Relatório abrangente: Compreenda seus pontos fortes e dificuldades em 8 categorias principais.\n\n- Primeiro passo para o diagnóstico: Embora seja uma ferramenta de triagem, ela fornece dados que você pode compartilhar com um psiquiatra.\n\nPerguntas Frequentes que Ajudamos a Responder:\n- \"Onde posso fazer o teste para TDAH?\" Comece aqui e use seu relatório para obter uma indicação profissional.\n- \"Como posso fazer o teste para TDAH?\" Este aplicativo é o seu ponto de partida acessível.\n- \"Quem diagnostica o TDAH?\" Orientamos você sobre os próximos passos, seja um diagnóstico particular de TDAH ou testes neuropsicológicos.\n- \"O plano de saúde cobre o teste para TDAH?\" Oferecemos uma alternativa gratuita para a triagem inicial.\n- \"Teste para TDAH grave ou leve?\" Avaliamos a gravidade em diversos domínios.\n\nDê o primeiro passo hoje mesmo. Se você está procurando um teste para sintomas de TDAH, tem dúvidas sobre características específicas como o \"teste do espectro do TDAH\" ou simplesmente precisa de respostas, nosso aplicativo está aqui para ajudar. Baixe agora e pare de adivinhar.",
+      "descriptionHTML": "Descubra o seu perfil cerebral único com o teste definitivo para TDAH<br><br>Você se pergunta constantemente: &quot;Será que tenho TDAH?&quot; ou sente que está fora de sintonia com o seu potencial? Você não está sozinho. Nosso teste abrangente para TDAH foi desenvolvido para trazer clareza. Seja para adultos, mulheres ou simplesmente para entender seus padrões de foco, este aplicativo oferece uma experiência de avaliação profunda e cientificamente embasada.<br><br>Avaliação detalhada para cada neurotipo<br>Este não é apenas um teste rápido de TDAH. Oferecemos uma avaliação robusta que analisa todo o espectro de sintomas. Ao contrário de um teste básico de TDAH, mergulhamos nas nuances da experiência neurodivergente.<br><br>- Teste para TDAH desatento: Tem dificuldade para se concentrar? Verificamos a dispersão da atenção e a névoa mental.<br><br>- Teste para TDAH hiperativo: Sua mente está constantemente agitada? Avaliamos a inquietação física e interna.<br><br>- Teste para TDAH do tipo combinado: Muitas pessoas apresentam ambos os tipos. Analisamos a combinação de sintomas.<br><br>Além dos sintomas padrão<br>Vamos além das listas de verificação padrão. Nossa avaliação abrange:<br>- Teste de Disfunção Executiva: Você sabe o que fazer, mas não consegue começar? Testamos a paralisia de tarefas.<br><br>- Teste de TDAH para Desregulação Emocional e Disforia Sensível à Rejeição (DSR): A Disforia Sensível à Rejeição é real. Exploramos sua intensidade emocional.<br><br>- Teste de Mascaramento do TDAH: Especialmente importante para o teste de TDAH em mulheres, analisamos como você pode estar escondendo suas dificuldades.<br><br>- Teste de Anel de Fogo do TDAH: Explore padrões intensos e de superestimulação.<br><br>- Hiperfoco: Não é apenas um déficit; é um paradoxo. Analisamos sua capacidade de concentração.<br><br>Triagem Especializada<br>- Teste de TDAH para Mulheres e Meninas: Os sintomas costumam ser diferentes em mulheres. Nosso teste de TDAH para mulheres considera comportamentos internalizantes e mascaramento.<br><br>- Teste de TDAH para Adultos: A vida adulta com TDAH é difícil. Nos concentramos em organização, cegueira temporal e gerenciamento da vida.<br><br>- Padrões da Infância: Como o TDAH começa cedo, incluímos uma seção retrospectiva relevante para a perspectiva do teste de TDAH para crianças e adolescentes, ajudando os adultos a rastrear as raízes até a infância.<br><br>Esclarecimento sobre Condições Concomitantes<br>É comum ter dúvidas sobre a sobreposição de sintomas.<br><br>- Teste de TDAH vs. Ansiedade: É preocupação ou apenas o cérebro acelerado do TDAH?<br><br>- Teste de TDAH vs. Autismo: Explore o espectro do TDAH.<br><br>- Teste de Transtorno Bipolar vs. TDAH: Diferencie entre ciclos de humor e regulação da atenção.<br><br>- Teste de Neurodivergência: Uma visão mais ampla de como seu cérebro funciona.<br><br>Por que fazer esta avaliação online de TDAH?<br><br>- Teste de TDAH gratuito: Obtenha informações de nível profissional sem custos adicionais.<br><br>- Resultados imediatos: Sem listas de espera. Receba seus resultados de triagem instantaneamente.<br><br>- Relatório abrangente: Compreenda seus pontos fortes e dificuldades em 8 categorias principais.<br><br>- Primeiro passo para o diagnóstico: Embora seja uma ferramenta de triagem, ela fornece dados que você pode compartilhar com um psiquiatra.<br><br>Perguntas Frequentes que Ajudamos a Responder:<br>- &quot;Onde posso fazer o teste para TDAH?&quot; Comece aqui e use seu relatório para obter uma indicação profissional.<br>- &quot;Como posso fazer o teste para TDAH?&quot; Este aplicativo é o seu ponto de partida acessível.<br>- &quot;Quem diagnostica o TDAH?&quot; Orientamos você sobre os próximos passos, seja um diagnóstico particular de TDAH ou testes neuropsicológicos.<br>- &quot;O plano de saúde cobre o teste para TDAH?&quot; Oferecemos uma alternativa gratuita para a triagem inicial.<br>- &quot;Teste para TDAH grave ou leve?&quot; Avaliamos a gravidade em diversos domínios.<br><br>Dê o primeiro passo hoje mesmo. Se você está procurando um teste para sintomas de TDAH, tem dúvidas sobre características específicas como o &quot;teste do espectro do TDAH&quot; ou simplesmente precisa de respostas, nosso aplicativo está aqui para ajudar. Baixe agora e pare de adivinhar.",
+      "summary": "Será que tenho TDAH? Faça nosso teste completo e gratuito de TDAH, desenvolvido para adultos.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 660,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "attention.deficit.add.adhd.test",
+      "url": "https://play.google.com/store/apps/details?id=attention.deficit.add.adhd.test&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "TDAH - Pesquisa cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados ao TDAH.\n\nO Transtorno do Déficit de Atenção com Hiperatividade (TDAH) ou sem hiperatividade (TDA) é um distúrbio do desenvolvimento neurológico que aparece durante a infância (TDAH infantil) e, se não for tratado adequadamente, pode ter repercussões durante a adolescência e até na idade adulta. Os sintomas do TDAH em crianças e adolescentes afetam o comportamento e são caracterizados pela presença de distrações moderadas ou graves, curtos períodos de atenção, nervosismo e agitação, instabilidade emocional e comportamentos impulsivos. Esse distúrbio pode afetar negativamente a vida acadêmica e social da criança ou adolescente com TDAH, reduzindo seu desempenho na escola e prejudicando suas relações sociais.\n\nAs pessoas que vivem com TDAH podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, inibição, monitoramento, memória visual de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com o Transtorno do Déficit de Atenção. A Pesquisa Cognitiva sobre o TDAH é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas ao TDAH, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nCondições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados ao TDAH.<br><br>O Transtorno do Déficit de Atenção com Hiperatividade (TDAH) ou sem hiperatividade (TDA) é um distúrbio do desenvolvimento neurológico que aparece durante a infância (TDAH infantil) e, se não for tratado adequadamente, pode ter repercussões durante a adolescência e até na idade adulta. Os sintomas do TDAH em crianças e adolescentes afetam o comportamento e são caracterizados pela presença de distrações moderadas ou graves, curtos períodos de atenção, nervosismo e agitação, instabilidade emocional e comportamentos impulsivos. Esse distúrbio pode afetar negativamente a vida acadêmica e social da criança ou adolescente com TDAH, reduzindo seu desempenho na escola e prejudicando suas relações sociais.<br><br>As pessoas que vivem com TDAH podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, inibição, monitoramento, memória visual de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com o Transtorno do Déficit de Atenção. A Pesquisa Cognitiva sobre o TDAH é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas ao TDAH, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre o TDAH",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 60176,
+      "score": 2.8076923,
+      "scoreText": "2,8",
+      "ratings": 160,
+      "reviews": 10,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.adhd",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.adhd&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "ADHD Tests for Children",
+      "description": "Testes de TDAH para Crianças – Aplicativo de Autoavaliação\n\nVocê já se perguntou se seu filho pode ter TDAH?\n\nProfessores, amigos e pais falam sobre isso cada vez mais, e você só quer respostas claras. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em crianças. Cada teste foi desenvolvido para ajudar pais e responsáveis ​​a explorar possíveis sintomas do Transtorno de Déficit de Atenção com Hiperatividade (TDAH), incluindo foco, atenção e impulsividade.\n\nVocê recebe resultados instantâneos após cada teste. Os testes podem ser refeitos a qualquer momento, ajudando você a refletir sobre o comportamento do seu filho à medida que ele muda. O aplicativo é simples, privado e está disponível com uma assinatura acessível.\n\nPrincipais Recursos\n\n🧩 Testes e Questionários de TDAH – Autoavaliações curtas desenvolvidas para crianças.\n\n⚡ Resultados Instantâneos – Feedback claro logo após a conclusão de um teste.\n\n🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar o aprendizado e a vida diária.\n\n🔒 Privado e Seguro – Todos os resultados ficam armazenados no seu dispositivo, visíveis apenas para você.\n\n👪 Para Pais e Responsáveis ​​– Criado especificamente para a triagem de TDAH em crianças.\n\n💳 Assinatura Acessível – Obtenha acesso completo a todos os autotestes de TDAH.\n\nPor que escolher este aplicativo?\n\nLinguagem simples e fácil de entender para os pais.\n\nAcesso ilimitado a todos os autotestes de TDAH com uma única assinatura.\n\nRefaça os testes a qualquer momento para comparação.\n\nDesign simples e intuitivo.\n\nAviso Legal\n\nEste aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se os resultados do seu filho sugerirem possível TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de apoio.\n\nComece hoje mesmo\n\nBaixe agora o Teste de TDAH para Crianças. Faça seu primeiro teste de TDAH, verifique possíveis sintomas e comece a entender com confiança o foco, a atenção e o comportamento do seu filho.",
+      "descriptionHTML": "Testes de TDAH para Crianças – Aplicativo de Autoavaliação<br><br>Você já se perguntou se seu filho pode ter TDAH?<br><br>Professores, amigos e pais falam sobre isso cada vez mais, e você só quer respostas claras. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em crianças. Cada teste foi desenvolvido para ajudar pais e responsáveis ​​a explorar possíveis sintomas do Transtorno de Déficit de Atenção com Hiperatividade (TDAH), incluindo foco, atenção e impulsividade.<br><br>Você recebe resultados instantâneos após cada teste. Os testes podem ser refeitos a qualquer momento, ajudando você a refletir sobre o comportamento do seu filho à medida que ele muda. O aplicativo é simples, privado e está disponível com uma assinatura acessível.<br><br>Principais Recursos<br><br>🧩 Testes e Questionários de TDAH – Autoavaliações curtas desenvolvidas para crianças.<br><br>⚡ Resultados Instantâneos – Feedback claro logo após a conclusão de um teste.<br><br>🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar o aprendizado e a vida diária.<br><br>🔒 Privado e Seguro – Todos os resultados ficam armazenados no seu dispositivo, visíveis apenas para você.<br><br>👪 Para Pais e Responsáveis ​​– Criado especificamente para a triagem de TDAH em crianças.<br><br>💳 Assinatura Acessível – Obtenha acesso completo a todos os autotestes de TDAH.<br><br>Por que escolher este aplicativo?<br><br>Linguagem simples e fácil de entender para os pais.<br><br>Acesso ilimitado a todos os autotestes de TDAH com uma única assinatura.<br><br>Refaça os testes a qualquer momento para comparação.<br><br>Design simples e intuitivo.<br><br>Aviso Legal<br><br>Este aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se os resultados do seu filho sugerirem possível TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de apoio.<br><br>Comece hoje mesmo<br><br>Baixe agora o Teste de TDAH para Crianças. Faça seu primeiro teste de TDAH, verifique possíveis sintomas e comece a entender com confiança o foco, a atenção e o comportamento do seu filho.",
+      "summary": "Faça testes de TDAH para crianças. Avaliações rápidas de foco, atenção e comportamento.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 448,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.MeddyTech.adhd_test_children",
+      "url": "https://play.google.com/store/apps/details?id=com.MeddyTech.adhd_test_children&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "TDAH Test",
+      "description": "O Teste de TDAH Conifo é um aplicativo de orientação pessoal com perguntas do dia a dia sobre atenção, organização, impulsividade e inquietação.\n\nO aplicativo apresenta um teste dinâmico com uma seleção variável de perguntas em cada sessão, garantindo uma experiência única. As perguntas são escritas em um estilo mais natural e acessível, com foco em situações reais do cotidiano.\n\nImportante: Este aplicativo não fornece um diagnóstico médico ou psicológico. Seu propósito é apenas orientar e informar. Se você tiver dúvidas sobre atenção, impulsividade ou funcionamento diário, consulte um profissional qualificado.\n\nEste aplicativo foi desenvolvido para pessoas que desejam refletir sobre certos padrões de comportamento em contextos cotidianos, como trabalho, estudo, organização pessoal ou gerenciamento do tempo.",
+      "descriptionHTML": "O Teste de TDAH Conifo é um aplicativo de orientação pessoal com perguntas do dia a dia sobre atenção, organização, impulsividade e inquietação.<br><br>O aplicativo apresenta um teste dinâmico com uma seleção variável de perguntas em cada sessão, garantindo uma experiência única. As perguntas são escritas em um estilo mais natural e acessível, com foco em situações reais do cotidiano.<br><br>Importante: Este aplicativo não fornece um diagnóstico médico ou psicológico. Seu propósito é apenas orientar e informar. Se você tiver dúvidas sobre atenção, impulsividade ou funcionamento diário, consulte um profissional qualificado.<br><br>Este aplicativo foi desenvolvido para pessoas que desejam refletir sobre certos padrões de comportamento em contextos cotidianos, como trabalho, estudo, organização pessoal ou gerenciamento do tempo.",
+      "summary": "Teste de orientação com perguntas do dia a dia sobre atenção e impulsividade.",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 61,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.conifo.tdahtest",
+      "url": "https://play.google.com/store/apps/details?id=com.conifo.tdahtest&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "TDAH – Dépistage Médical",
+      "description": "Entender o processo de triagem e diagnóstico do TDAH nem sempre é fácil. Este aplicativo do Instituto para o Bem-Estar Mental guia você passo a passo, de forma clara, humana e com total confidencialidade.\n\nO QUE O APLICATIVO FAZ?\n\n• Explica o processo, da triagem ao acompanhamento do tratamento, em linguagem simples.\n\n• Ajuda você a verificar sua elegibilidade antes de agendar uma consulta, com algumas perguntas de orientação (isso não é um diagnóstico).\n\n• Prepara uma mensagem de solicitação de consulta pré-preenchida que você pode enviar com um toque pelo Doctolib.\n\n• Permite que você acompanhe seu progresso no seu próprio ritmo.\n\nUM PROCESSO GUIADO, PASSO A PASSO\n\nO aplicativo guia você por todo o processo: conexão com o Doctolib, compreensão do processo, verificação da sua elegibilidade, revisão das informações de cobertura, redação da sua mensagem e envio. Tudo é explicado; nada é deixado ao acaso.\n\nSEUS DADOS PERTENCEM A VOCÊ\n\nA confidencialidade é fundamental:\n\n• Sem servidor. Nenhum dado de saúde é transmitido.\n\n• As informações que você insere permanecem criptografadas no seu telefone (AES-256).\n\n• Sem rastreadores, sem publicidade, sem ferramentas de análise.\n\n• Você pode excluir tudo permanentemente a qualquer momento com um único toque.\n\nO agendamento de consultas e o envio de mensagens são feitos através da sua conta Doctolib: o aplicativo simplesmente redireciona você para lá e prepara sua mensagem. Ele nunca gerencia seus dados de login do Doctolib.\n\nPARA QUEM É?\n\nPara adultos que estão considerando a possibilidade de ter TDAH e desejam um processo claro, seguro e sem compromisso antes de tomar qualquer decisão.\n\nIMPORTANTE\n\nEste aplicativo é uma ferramenta de informação e orientação. Ele não realiza diagnósticos e não substitui uma consulta médica. Somente um médico pode fazer um diagnóstico. Em caso de emergência, ligue para 15 (SAMU) ou 112.\n\nPublicado pela StableMinds para o Instituto de Bem-Estar Mental (Castelnau-le-Lez).",
+      "descriptionHTML": "Entender o processo de triagem e diagnóstico do TDAH nem sempre é fácil. Este aplicativo do Instituto para o Bem-Estar Mental guia você passo a passo, de forma clara, humana e com total confidencialidade.<br><br>O QUE O APLICATIVO FAZ?<br><br>• Explica o processo, da triagem ao acompanhamento do tratamento, em linguagem simples.<br><br>• Ajuda você a verificar sua elegibilidade antes de agendar uma consulta, com algumas perguntas de orientação (isso não é um diagnóstico).<br><br>• Prepara uma mensagem de solicitação de consulta pré-preenchida que você pode enviar com um toque pelo Doctolib.<br><br>• Permite que você acompanhe seu progresso no seu próprio ritmo.<br><br>UM PROCESSO GUIADO, PASSO A PASSO<br><br>O aplicativo guia você por todo o processo: conexão com o Doctolib, compreensão do processo, verificação da sua elegibilidade, revisão das informações de cobertura, redação da sua mensagem e envio. Tudo é explicado; nada é deixado ao acaso.<br><br>SEUS DADOS PERTENCEM A VOCÊ<br><br>A confidencialidade é fundamental:<br><br>• Sem servidor. Nenhum dado de saúde é transmitido.<br><br>• As informações que você insere permanecem criptografadas no seu telefone (AES-256).<br><br>• Sem rastreadores, sem publicidade, sem ferramentas de análise.<br><br>• Você pode excluir tudo permanentemente a qualquer momento com um único toque.<br><br>O agendamento de consultas e o envio de mensagens são feitos através da sua conta Doctolib: o aplicativo simplesmente redireciona você para lá e prepara sua mensagem. Ele nunca gerencia seus dados de login do Doctolib.<br><br>PARA QUEM É?<br><br>Para adultos que estão considerando a possibilidade de ter TDAH e desejam um processo claro, seguro e sem compromisso antes de tomar qualquer decisão.<br><br>IMPORTANTE<br><br>Este aplicativo é uma ferramenta de informação e orientação. Ele não realiza diagnósticos e não substitui uma consulta médica. Somente um médico pode fazer um diagnóstico. Em caso de emergência, ligue para 15 (SAMU) ou 112.<br><br>Publicado pela StableMinds para o Instituto de Bem-Estar Mental (Castelnau-le-Lez).",
+      "summary": "Entenda o processo de triagem para TDAH e prepare seu pedido de agendamento.",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 23,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "fr.stableminds.tdah",
+      "url": "https://play.google.com/store/apps/details?id=fr.stableminds.tdah&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Priorify: TDAH & Mente Leve",
+      "description": "Sua mente está barulhenta demais para começar algo?\nVocê se sente paralisado por uma lista interminável de coisas que \"deveria\" estar fazendo?\n\nO Priorify é um santuário disfarçado de organizador. Criado para quem lida com TDAH, ansiedade e burnout, ele ajuda você a limpar a bagunça mental no seu próprio ritmo. Sem sequências obrigatórias e sem exigir que você seja uma máquina.\n\n🧠 DESABAFO MENTAL\nNão tente organizar o caos na sua cabeça. Apenas descarregue tudo aqui. Nosso companheiro de IA vai ouvir sem julgamentos e ajudar você a conter o pânico explorando suas reações naturais.\n\n🎯 ENCONTRE SUA MOTIVAÇÃO\nAssim que o ruído diminuir, ajudamos você a descobrir o verdadeiro desejo positivo por trás do seu estresse. Mude do estado de pânico para o que você realmente quer.\n\n🌿 DEIXANDO IR\nReveja pensamentos passados e solte-os com segurança. Veja suas preocupações se dissolverem fisicamente na tela, provando ao seu cérebro que ele não precisa mais carregar esse peso morto.\n\n🔋 RESPEITA SUA ENERGIA\nEstá exausto hoje? O Priorify se adapta à sua capacidade. Toque em \"Descanso\", e nós desfocamos e escondemos as cargas pesadas na hora, mostrando apenas o que você consegue lidar agora.\n\n📊 REFLEXÕES SEM CULPA\nZero notas de desempenho. Apenas um reflexo visual e gentil de como sua energia mental foi gasta na semana, ajudando você a se entender melhor sem sentir vergonha.\n\nZero pressão. Baixe o Priorify e recupere sua paz de espírito hoje.",
+      "descriptionHTML": "Sua mente está barulhenta demais para começar algo?<br>Você se sente paralisado por uma lista interminável de coisas que &quot;deveria&quot; estar fazendo?<br><br>O Priorify é um santuário disfarçado de organizador. Criado para quem lida com TDAH, ansiedade e burnout, ele ajuda você a limpar a bagunça mental no seu próprio ritmo. Sem sequências obrigatórias e sem exigir que você seja uma máquina.<br><br>🧠 DESABAFO MENTAL<br>Não tente organizar o caos na sua cabeça. Apenas descarregue tudo aqui. Nosso companheiro de IA vai ouvir sem julgamentos e ajudar você a conter o pânico explorando suas reações naturais.<br><br>🎯 ENCONTRE SUA MOTIVAÇÃO<br>Assim que o ruído diminuir, ajudamos você a descobrir o verdadeiro desejo positivo por trás do seu estresse. Mude do estado de pânico para o que você realmente quer.<br><br>🌿 DEIXANDO IR<br>Reveja pensamentos passados e solte-os com segurança. Veja suas preocupações se dissolverem fisicamente na tela, provando ao seu cérebro que ele não precisa mais carregar esse peso morto.<br><br>🔋 RESPEITA SUA ENERGIA<br>Está exausto hoje? O Priorify se adapta à sua capacidade. Toque em &quot;Descanso&quot;, e nós desfocamos e escondemos as cargas pesadas na hora, mostrando apenas o que você consegue lidar agora.<br><br>📊 REFLEXÕES SEM CULPA<br>Zero notas de desempenho. Apenas um reflexo visual e gentil de como sua energia mental foi gasta na semana, ajudando você a se entender melhor sem sentir vergonha.<br><br>Zero pressão. Baixe o Priorify e recupere sua paz de espírito hoje.",
+      "summary": "Limpe sua mente. Nós transformamos pensamentos caóticos em foco e calma.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2300,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.taskgenious",
+      "url": "https://play.google.com/store/apps/details?id=com.taskgenious&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Teste de TDAH: ASRS",
+      "description": "Faça o ASRS v1.1, o questionário de autoavaliação para triagem de TDAH em adultos desenvolvido com a Organização Mundial da Saúde. As dezoito perguntas levam cerca de cinco minutos. As seis primeiras dão o resultado de triagem usado pelos profissionais de saúde, e as outras doze completam o quadro mais amplo de desatenção, hiperatividade e impulsividade.\n\nEste app não diagnostica TDAH. O diagnóstico exige uma avaliação clínica, que geralmente inclui seu histórico desde a infância. O que o ASRS mostra é se suas respostas se aproximam o bastante do padrão para que valha a pena buscar uma avaliação.\n\nO que você recebe\n\n• O ASRS v1.1 completo, com o texto exatamente como foi validado\n• O resultado de triagem da Parte A, o que ele significa e o que fazer a seguir\n• Sua pontuação na Parte B, para o quadro mais amplo de sintomas\n• Uma nota particular sobre o seu resultado, digitada ou ditada\n• Um relatório em PDF para o seu médico, com suas respostas e como o resultado foi obtido\n• Uma imagem do seu resultado para compartilhar\n• Bloqueio por PIN ou Face ID\n\nPrivacidade desde a concepção\n\nSuas respostas, seu resultado e suas notas ficam no seu celular. Não é preciso criar conta, não há anúncios e você pode excluir tudo em Configurações a qualquer momento.",
+      "descriptionHTML": "Faça o ASRS v1.1, o questionário de autoavaliação para triagem de TDAH em adultos desenvolvido com a Organização Mundial da Saúde. As dezoito perguntas levam cerca de cinco minutos. As seis primeiras dão o resultado de triagem usado pelos profissionais de saúde, e as outras doze completam o quadro mais amplo de desatenção, hiperatividade e impulsividade.<br><br>Este app não diagnostica TDAH. O diagnóstico exige uma avaliação clínica, que geralmente inclui seu histórico desde a infância. O que o ASRS mostra é se suas respostas se aproximam o bastante do padrão para que valha a pena buscar uma avaliação.<br><br>O que você recebe<br><br>• O ASRS v1.1 completo, com o texto exatamente como foi validado<br>• O resultado de triagem da Parte A, o que ele significa e o que fazer a seguir<br>• Sua pontuação na Parte B, para o quadro mais amplo de sintomas<br>• Uma nota particular sobre o seu resultado, digitada ou ditada<br>• Um relatório em PDF para o seu médico, com suas respostas e como o resultado foi obtido<br>• Uma imagem do seu resultado para compartilhar<br>• Bloqueio por PIN ou Face ID<br><br>Privacidade desde a concepção<br><br>Suas respostas, seu resultado e suas notas ficam no seu celular. Não é preciso criar conta, não há anúncios e você pode excluir tudo em Configurações a qualquer momento.",
+      "summary": "Triagem de TDAH em adultos que médicos usam, com relatório PDF para a consulta.",
+      "installs": "0+",
+      "minInstalls": 0,
+      "maxInstalls": 0,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.elomia.adhd",
+      "url": "https://play.google.com/store/apps/details?id=com.elomia.adhd&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Teste de sinais de autismo",
+      "description": "Olá, sou Zakhar, pai de uma menina com autismo. Esta aplicação foi desenvolvida para ajudar outros pais de crianças com TEA e aos profissionais que lidam com elas.\nO pedido é baseado em um teste ATEC do Instituto Americano de Pesquisa do Autismo. É projetado para crianças de 5 a 12 anos.\nPara crianças de 3-4 anos, você mesmo pode fazer o teste, antes da visita ao médico e do diagnóstico oficial, a fim de dissipar ou confirmar seus medos. \n---\nPara crianças de um ano e meio a três anos, utilize o teste rápido M-CHAT-R: https://www.autismspeaks.org/screen-your-child\n---\nComo funciona o teste?\n \nO teste é usado para analisar o progresso das melhorias em crianças com autismo ou para testes iniciais de crianças que podem ter um transtorno do espectro autista (TEA).\nQuanto menor o resultado do teste, menor é a probabilidade da criança ter um TEA. \nPor exemplo, se uma criança marcou 50 pontos em um teste e 2 meses depois recebeu 40 pontos em um teste repetido, a dinâmica é positiva.\nPara obter resultados mais precisos é melhor que pessoas diferentes participem no teste com a criança. Por exemplo, se um dia pai, mãe e o especialista do centro de reabilitação derem respostas diferentes, o número de pontos será diferente, pois a aplicação calculará a pontuação média para aquele dia e a exibirá no gráfico.\n---\nAdvertência!\nO teste ATEC não é um teste de diagnóstico médico! Sempre deve recurrir a um especialista.\nA aplicação não se destina a estabelecer o diagnóstico.\nSe você obteve mais de 30 pontos, deve contatar um especialista para fazer um diagnóstico preciso.",
+      "descriptionHTML": "Olá, sou Zakhar, pai de uma menina com autismo. Esta aplicação foi desenvolvida para ajudar outros pais de crianças com TEA e aos profissionais que lidam com elas.<br>O pedido é baseado em um teste ATEC do Instituto Americano de Pesquisa do Autismo. É projetado para crianças de 5 a 12 anos.<br>Para crianças de 3-4 anos, você mesmo pode fazer o teste, antes da visita ao médico e do diagnóstico oficial, a fim de dissipar ou confirmar seus medos. <br>---<br>Para crianças de um ano e meio a três anos, utilize o teste rápido M-CHAT-R: https://www.autismspeaks.org/screen-your-child<br>---<br>Como funciona o teste?<br> <br>O teste é usado para analisar o progresso das melhorias em crianças com autismo ou para testes iniciais de crianças que podem ter um transtorno do espectro autista (TEA).<br>Quanto menor o resultado do teste, menor é a probabilidade da criança ter um TEA. <br>Por exemplo, se uma criança marcou 50 pontos em um teste e 2 meses depois recebeu 40 pontos em um teste repetido, a dinâmica é positiva.<br>Para obter resultados mais precisos é melhor que pessoas diferentes participem no teste com a criança. Por exemplo, se um dia pai, mãe e o especialista do centro de reabilitação derem respostas diferentes, o número de pontos será diferente, pois a aplicação calculará a pontuação média para aquele dia e a exibirá no gráfico.<br>---<br>Advertência!<br>O teste ATEC não é um teste de diagnóstico médico! Sempre deve recurrir a um especialista.<br>A aplicação não se destina a estabelecer o diagnóstico.<br>Se você obteve mais de 30 pontos, deve contatar um especialista para fazer um diagnóstico preciso.",
+      "summary": "Verificar a existência de sinais de autismo e a dinâmica de reabilitação",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 176104,
+      "score": 4.2,
+      "scoreText": "4,2",
+      "ratings": 477,
+      "reviews": 70,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Criação de filhos",
+      "genreId": "PARENTING",
+      "categories": [
+        {
+          "name": "Criação de filhos",
+          "id": "PARENTING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "ru.atec",
+      "url": "https://play.google.com/store/apps/details?id=ru.atec&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Visual Memory Test",
+      "description": "Você consegue superar seu cérebro? 🧠 Desafie sua memória visual agora!\n\nTreine seu cérebro com este viciante teste de memória visual inspirado na ciência cognitiva real. Seja você um estudante, um entusiasta do treinamento cerebral ou apenas curioso sobre suas próprias habilidades mentais, este jogo é uma maneira divertida de explorar os limites da sua memória de trabalho.\n\nBaseado em princípios de memória espacial e atenção, respaldados por pesquisas, o jogo desafia você a recordar padrões.\n\n🎮 Como funciona\n\n🟦 As peças são brevemente destacadas em uma sequência aleatória\n👁️ Concentre-se e memorize suas posições\n🔢 Toque nas peças na ordem correta\n📈 Passe de nível para aumentar a dificuldade\n🧠 Cada rodada aumenta sua concentração e consciência espacial\n\nQuanto mais rápido e preciso você jogar, mais fundo você se aprofundará no labirinto da memória. É como flexões para o seu cérebro!\n\n🎯 Principais Recursos\n\n✅ Dificuldade progressiva do iniciante ao gênio\n✅ Design visual limpo e minimalista\n✅ Acompanha seu nível mais alto e seu desempenho médio\n\n📊 Insights Cognitivos\n\nDesenvolve a memória de trabalho e o controle da atenção\n\nMelhora o raciocínio espacial por meio da recordação de padrões\n\nÓtimo para treinar o foco, especialmente para estudantes e profissionais\n\nEntenda o desempenho da sua memória ao longo do tempo\n\n👩‍🏫 Para quem é?\n\n🧠 Fãs de treinamento cerebral\n👨‍👩‍👧 Famílias que adoram desafios amigáveis\n🧩 Amantes de quebra-cabeças e jogadores casuais\n👨‍🏫 Professores que desejam demonstrações de memória do mundo real\n\n🔥 Seja para aprimorar sua mente ou comprovar sua vantagem cognitiva, este teste de memória visual irá desafiá-lo, treiná-lo e surpreendê-lo. Você está pronto para aprimorar sua memória?",
+      "descriptionHTML": "Você consegue superar seu cérebro? 🧠 Desafie sua memória visual agora!<br><br>Treine seu cérebro com este viciante teste de memória visual inspirado na ciência cognitiva real. Seja você um estudante, um entusiasta do treinamento cerebral ou apenas curioso sobre suas próprias habilidades mentais, este jogo é uma maneira divertida de explorar os limites da sua memória de trabalho.<br><br>Baseado em princípios de memória espacial e atenção, respaldados por pesquisas, o jogo desafia você a recordar padrões.<br><br>🎮 Como funciona<br><br>🟦 As peças são brevemente destacadas em uma sequência aleatória<br>👁️ Concentre-se e memorize suas posições<br>🔢 Toque nas peças na ordem correta<br>📈 Passe de nível para aumentar a dificuldade<br>🧠 Cada rodada aumenta sua concentração e consciência espacial<br><br>Quanto mais rápido e preciso você jogar, mais fundo você se aprofundará no labirinto da memória. É como flexões para o seu cérebro!<br><br>🎯 Principais Recursos<br><br>✅ Dificuldade progressiva do iniciante ao gênio<br>✅ Design visual limpo e minimalista<br>✅ Acompanha seu nível mais alto e seu desempenho médio<br><br>📊 Insights Cognitivos<br><br>Desenvolve a memória de trabalho e o controle da atenção<br><br>Melhora o raciocínio espacial por meio da recordação de padrões<br><br>Ótimo para treinar o foco, especialmente para estudantes e profissionais<br><br>Entenda o desempenho da sua memória ao longo do tempo<br><br>👩‍🏫 Para quem é?<br><br>🧠 Fãs de treinamento cerebral<br>👨‍👩‍👧 Famílias que adoram desafios amigáveis<br>🧩 Amantes de quebra-cabeças e jogadores casuais<br>👨‍🏫 Professores que desejam demonstrações de memória do mundo real<br><br>🔥 Seja para aprimorar sua mente ou comprovar sua vantagem cognitiva, este teste de memória visual irá desafiá-lo, treiná-lo e surpreendê-lo. Você está pronto para aprimorar sua memória?",
+      "summary": "Afie seu cérebro testando e melhorando sua memória visual!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2673,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.visualmemorytest",
+      "url": "https://play.google.com/store/apps/details?id=com.visualmemorytest&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "ADHD Organizer: Llama Life",
+      "description": "Llama Life é um planejador e organizador de tarefas diárias, projetado para ajudar você a se concentrar em UMA tarefa por vez — assim, você não apenas cria listas, mas realmente as CONCLUI!\n\nO Llama Life permite que você defina um cronômetro para *cada* tarefa. Esse conceito é chamado de \"timeboxing\" e a ideia é criar uma restrição (positiva) em torno do tempo que temos para fazer algo. O objetivo é tentar dedicar 100% da nossa atenção a uma tarefa até que o cronômetro zere. Isso ajuda a aumentar o foco e nos dá o espaço mental para pensar em UMA coisa por vez.\n\nO Llama Life também mostra o seu Tempo Total da Lista e o tempo estimado de conclusão, para que você possa ter mais consciência da passagem do tempo e planejar seu dia.\n\nTambém adoramos celebrar as conquistas, grandes ou pequenas, então, muito importante, você ganha confete (eba!) ao concluir uma tarefa. Você também pode personalizar com cores e emojis para ter bastante variedade e manter tudo divertido e interessante!\n\nA Llama Life oferece um período de teste gratuito de 7 dias, com opção de assinatura mensal ou anual.\n\nFico muito feliz por você estar aqui e torço pelo seu sucesso!\n\nAtenciosamente,\nMarie\nFundadora da Llama Life",
+      "descriptionHTML": "Llama Life é um planejador e organizador de tarefas diárias, projetado para ajudar você a se concentrar em UMA tarefa por vez — assim, você não apenas cria listas, mas realmente as CONCLUI!<br><br>O Llama Life permite que você defina um cronômetro para *cada* tarefa. Esse conceito é chamado de &quot;timeboxing&quot; e a ideia é criar uma restrição (positiva) em torno do tempo que temos para fazer algo. O objetivo é tentar dedicar 100% da nossa atenção a uma tarefa até que o cronômetro zere. Isso ajuda a aumentar o foco e nos dá o espaço mental para pensar em UMA coisa por vez.<br><br>O Llama Life também mostra o seu Tempo Total da Lista e o tempo estimado de conclusão, para que você possa ter mais consciência da passagem do tempo e planejar seu dia.<br><br>Também adoramos celebrar as conquistas, grandes ou pequenas, então, muito importante, você ganha confete (eba!) ao concluir uma tarefa. Você também pode personalizar com cores e emojis para ter bastante variedade e manter tudo divertido e interessante!<br><br>A Llama Life oferece um período de teste gratuito de 7 dias, com opção de assinatura mensal ou anual.<br><br>Fico muito feliz por você estar aqui e torço pelo seu sucesso!<br><br>Atenciosamente,<br>Marie<br>Fundadora da Llama Life",
+      "summary": "Planejador de rotina diária e lista de tarefas para TDAH. Defina cronômetros de contagem regressiva para ajudar no foco.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 25323,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.llamaapp",
+      "url": "https://play.google.com/store/apps/details?id=com.llamaapp&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Recordo: TDAH Agenda & Notas",
+      "description": "Sobrecarregado pelos próprios pensamentos? Recordo é uma agenda e planner para TDAH que funciona como um segundo cérebro: é só falar, e a IA transforma tudo o que está na sua cabeça em lista de tarefas, lembretes e um plano para hoje.\n\nCriei o Recordo porque tenho TDAH e todos os outros planners pareciam lição de casa. Sem configuração, sem formulários. Fale, digite ou tire uma foto, e a IA organiza tudo em tarefas, notas e ideias.\n\n* 💬 É SÓ FALAR. A IA FAZ O RESTO *\n- Despeje tudo o que está na cabeça por voz, texto ou foto. O modo de voz mãos livres continua ouvindo enquanto você pensa em voz alta.\n- A IA transforma isso em tarefas com datas, lembretes e checklists, ou salva como nota.\n- \"Qual era aquela ideia que eu tive na terça passada?\" Pergunte do seu jeito e a IA encontra.\n- Compartilhe textos ou imagens de qualquer app direto para o Recordo.\n- Escolha a personalidade do seu coach: O Piloto divide as tarefas em passos minúsculos, O Parceiro é um amigo caloroso que te entende sem julgamento, O Motivador transforma as obrigações em jogo.\n\n* 🎯 UMA TAREFA DE CADA VEZ *\nOlhando para uma lista de 50 tarefas sem fazer nada? O Recordo mostra só a próxima tarefa.\n- O Modo Momentum dá a cada tarefa um Plano, um Coach e um temporizador de foco: tudo o que você precisa para começar.\n- O Coach IA divide tarefas grandes em um checklist de micro passos e ajuda você a retomar depois de uma distração.\n- A priorização inteligente avalia a urgência, para você não precisar decidir.\n- Lembretes gentis no horário que você escolher, pensados para a cegueira temporal.\n- Widget na tela inicial: veja sua próxima tarefa e anote uma ideia com um toque.\n\n* 📅 PLANEJE SEU DIA *\n- Visão de calendário por Dia, 3 dias ou Semana, com suas tarefas como blocos de tempo.\n- Conecte o Google Agenda para ver suas reuniões ao lado das tarefas e receber um aviso quando os planos se sobrepõem.\n- Mostre suas tarefas do Recordo em qualquer app de calendário com um link privado.\n\n* 🗂️ PROJETOS *\n- Agrupe tarefas e notas em projetos com cores, cada um com uma meta opcional.\n- Filtre sua lista por projeto e separe trabalho, casa e projetos pessoais.\n- Compartilhe um projeto com seu parceiro, sua parceira ou sua família. Todos adicionam e concluem tarefas, e todos recebem os lembretes. Quem você convida participa de graça.\n\n* 🧘 ROTINAS E HÁBITOS QUE PEGAM DE VERDADE *\n- Rotina da manhã e rotina da noite com tarefas recorrentes que avançam sozinhas.\n- Rastreador de hábitos para TDAH com progresso visual, para cada pequena vitória parecer real.\n- Feito para os dias de pouca dopamina.\n\n* 🤖 UM COACH QUE CONHECE VOCÊ *\n- Conte ao Recordo onde você trava (dificuldade para começar, o tempo voa, opções demais) e o coach se adapta.\n- Memória: o coach lembra o que você conta, como \"de manhã é difícil para mim\", e planeja levando isso em conta. Dá para desativar quando quiser.\n- Automações: deixe o coach planejar seu dia, preparar o dia seguinte ou passar as tarefas não concluídas para hoje, no horário que você definir.\n\n* 🔄 VINDO DE OUTRO APP? *\nImporte suas tarefas abertas e projetos do Todoist em poucos toques. Vindo do Tiimo, Goblin Tools, Structured ou Habitica? O Recordo junta uma lista de tarefas com IA, notas para esvaziar a cabeça, rotinas e um temporizador de foco em um só app feito para TDAH.\n\n* ❤️ POR QUE O RECORDO *\n- CHAT EM PRIMEIRO LUGAR: Se você sabe mandar mensagem, sabe usar.\n- A IA ORGANIZA POR VOCÊ: Sem tags ou pastas manuais.\n- ZERO CONFIGURAÇÃO: Comece assim que baixar.\n- FEITO PARA A DISFUNÇÃO EXECUTIVA: Menos decisões, passos menores, lembretes gentis.\n\nSeus dados são seus. Sem anúncios, sem venda de dados.\n\nBaixe o Recordo, pare de procrastinar e dê ao seu cérebro com TDAH um segundo cérebro que acompanha o ritmo dele.",
+      "descriptionHTML": "Sobrecarregado pelos próprios pensamentos? Recordo é uma agenda e planner para TDAH que funciona como um segundo cérebro: é só falar, e a IA transforma tudo o que está na sua cabeça em lista de tarefas, lembretes e um plano para hoje.<br><br>Criei o Recordo porque tenho TDAH e todos os outros planners pareciam lição de casa. Sem configuração, sem formulários. Fale, digite ou tire uma foto, e a IA organiza tudo em tarefas, notas e ideias.<br><br>* 💬 É SÓ FALAR. A IA FAZ O RESTO *<br>- Despeje tudo o que está na cabeça por voz, texto ou foto. O modo de voz mãos livres continua ouvindo enquanto você pensa em voz alta.<br>- A IA transforma isso em tarefas com datas, lembretes e checklists, ou salva como nota.<br>- &quot;Qual era aquela ideia que eu tive na terça passada?&quot; Pergunte do seu jeito e a IA encontra.<br>- Compartilhe textos ou imagens de qualquer app direto para o Recordo.<br>- Escolha a personalidade do seu coach: O Piloto divide as tarefas em passos minúsculos, O Parceiro é um amigo caloroso que te entende sem julgamento, O Motivador transforma as obrigações em jogo.<br><br>* 🎯 UMA TAREFA DE CADA VEZ *<br>Olhando para uma lista de 50 tarefas sem fazer nada? O Recordo mostra só a próxima tarefa.<br>- O Modo Momentum dá a cada tarefa um Plano, um Coach e um temporizador de foco: tudo o que você precisa para começar.<br>- O Coach IA divide tarefas grandes em um checklist de micro passos e ajuda você a retomar depois de uma distração.<br>- A priorização inteligente avalia a urgência, para você não precisar decidir.<br>- Lembretes gentis no horário que você escolher, pensados para a cegueira temporal.<br>- Widget na tela inicial: veja sua próxima tarefa e anote uma ideia com um toque.<br><br>* 📅 PLANEJE SEU DIA *<br>- Visão de calendário por Dia, 3 dias ou Semana, com suas tarefas como blocos de tempo.<br>- Conecte o Google Agenda para ver suas reuniões ao lado das tarefas e receber um aviso quando os planos se sobrepõem.<br>- Mostre suas tarefas do Recordo em qualquer app de calendário com um link privado.<br><br>* 🗂️ PROJETOS *<br>- Agrupe tarefas e notas em projetos com cores, cada um com uma meta opcional.<br>- Filtre sua lista por projeto e separe trabalho, casa e projetos pessoais.<br>- Compartilhe um projeto com seu parceiro, sua parceira ou sua família. Todos adicionam e concluem tarefas, e todos recebem os lembretes. Quem você convida participa de graça.<br><br>* 🧘 ROTINAS E HÁBITOS QUE PEGAM DE VERDADE *<br>- Rotina da manhã e rotina da noite com tarefas recorrentes que avançam sozinhas.<br>- Rastreador de hábitos para TDAH com progresso visual, para cada pequena vitória parecer real.<br>- Feito para os dias de pouca dopamina.<br><br>* 🤖 UM COACH QUE CONHECE VOCÊ *<br>- Conte ao Recordo onde você trava (dificuldade para começar, o tempo voa, opções demais) e o coach se adapta.<br>- Memória: o coach lembra o que você conta, como &quot;de manhã é difícil para mim&quot;, e planeja levando isso em conta. Dá para desativar quando quiser.<br>- Automações: deixe o coach planejar seu dia, preparar o dia seguinte ou passar as tarefas não concluídas para hoje, no horário que você definir.<br><br>* 🔄 VINDO DE OUTRO APP? *<br>Importe suas tarefas abertas e projetos do Todoist em poucos toques. Vindo do Tiimo, Goblin Tools, Structured ou Habitica? O Recordo junta uma lista de tarefas com IA, notas para esvaziar a cabeça, rotinas e um temporizador de foco em um só app feito para TDAH.<br><br>* ❤️ POR QUE O RECORDO *<br>- CHAT EM PRIMEIRO LUGAR: Se você sabe mandar mensagem, sabe usar.<br>- A IA ORGANIZA POR VOCÊ: Sem tags ou pastas manuais.<br>- ZERO CONFIGURAÇÃO: Comece assim que baixar.<br>- FEITO PARA A DISFUNÇÃO EXECUTIVA: Menos decisões, passos menores, lembretes gentis.<br><br>Seus dados são seus. Sem anúncios, sem venda de dados.<br><br>Baixe o Recordo, pare de procrastinar e dê ao seu cérebro com TDAH um segundo cérebro que acompanha o ritmo dele.",
+      "summary": "Planner com IA: lista de tarefas, lembretes, hábitos e temporizador de foco",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 27075,
+      "score": 4.733333,
+      "scoreText": "4,7",
+      "ratings": 322,
+      "reviews": 1,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.recordo.adhd",
+      "url": "https://play.google.com/store/apps/details?id=app.recordo.adhd&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

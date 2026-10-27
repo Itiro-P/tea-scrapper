@@ -1,0 +1,974 @@
+[
+  [
+    "autismo",
+    {
+      "term": "autismo",
+      "group": "TEA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "autism",
+    {
+      "term": "autism",
+      "group": "TEA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "transtorno do espectro autista",
+    {
+      "term": "transtorno do espectro autista",
+      "group": "TEA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "espectro autista",
+    {
+      "term": "espectro autista",
+      "group": "TEA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "tdah",
+    {
+      "term": "tdah",
+      "group": "TDAH",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "deficit de atencao",
+    {
+      "term": "déficit de atenção",
+      "group": "TDAH",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "transtorno do deficit de atencao com hiperatividade",
+    {
+      "term": "transtorno do déficit de atenção com hiperatividade",
+      "group": "TDAH",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "adhd",
+    {
+      "term": "adhd",
+      "group": "TDAH",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "transtorno do desenvolvimento da linguagem",
+    {
+      "term": "transtorno do desenvolvimento da linguagem",
+      "group": "TDL",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "atraso de linguagem",
+    {
+      "term": "atraso de linguagem",
+      "group": "TDL",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "atraso na fala",
+    {
+      "term": "atraso na fala",
+      "group": "TDL",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "developmental language disorder",
+    {
+      "term": "developmental language disorder",
+      "group": "TDL",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dislexia",
+    {
+      "term": "dislexia",
+      "group": "DISLEXIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dyslexia",
+    {
+      "term": "dyslexia",
+      "group": "DISLEXIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "transtorno de leitura",
+    {
+      "term": "transtorno de leitura",
+      "group": "DISLEXIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dispraxia",
+    {
+      "term": "dispraxia",
+      "group": "TDC",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dyspraxia",
+    {
+      "term": "dyspraxia",
+      "group": "TDC",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "transtorno do desenvolvimento da coordenacao",
+    {
+      "term": "transtorno do desenvolvimento da coordenação",
+      "group": "TDC",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "discalculia",
+    {
+      "term": "discalculia",
+      "group": "DISCALCULIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dyscalculia",
+    {
+      "term": "dyscalculia",
+      "group": "DISCALCULIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "altas habilidades",
+    {
+      "term": "altas habilidades",
+      "group": "AHSD",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "superdotacao",
+    {
+      "term": "superdotação",
+      "group": "AHSD",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "disgrafia",
+    {
+      "term": "disgrafia",
+      "group": "DISGRAFIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dysgraphia",
+    {
+      "term": "dysgraphia",
+      "group": "DISGRAFIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "dificuldade de escrita",
+    {
+      "term": "dificuldade de escrita",
+      "group": "DISGRAFIA",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "deficiencia intelectual",
+    {
+      "term": "deficiência intelectual",
+      "group": "DI",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "intellectual disability",
+    {
+      "term": "intellectual disability",
+      "group": "DI",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "sindrome de tourette",
+    {
+      "term": "síndrome de tourette",
+      "group": "TOURETTE",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "tourette",
+    {
+      "term": "tourette",
+      "group": "TOURETTE",
+      "depth": 0,
+      "parent": null
+    }
+  ],
+  [
+    "autismo app",
+    {
+      "term": "autismo app",
+      "group": "TEA",
+      "depth": 1,
+      "parent": "autismo"
+    }
+  ],
+  [
+    "autismo jogos",
+    {
+      "term": "autismo jogos",
+      "group": "TEA",
+      "depth": 1,
+      "parent": "autismo"
+    }
+  ],
+  [
+    "autismo teste",
+    {
+      "term": "autismo teste",
+      "group": "TEA",
+      "depth": 1,
+      "parent": "autismo"
+    }
+  ],
+  [
+    "tdah teste",
+    {
+      "term": "tdah teste",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "tdah"
+    }
+  ],
+  [
+    "tdah rotina",
+    {
+      "term": "tdah rotina",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "tdah"
+    }
+  ],
+  [
+    "tdah jogos",
+    {
+      "term": "tdah jogos",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "tdah"
+    }
+  ],
+  [
+    "tdah app",
+    {
+      "term": "tdah app",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "tdah"
+    }
+  ],
+  [
+    "adhd planner",
+    {
+      "term": "adhd planner",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "adhd"
+    }
+  ],
+  [
+    "adhd apps for adults",
+    {
+      "term": "adhd apps for adults",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "adhd"
+    }
+  ],
+  [
+    "adhd games",
+    {
+      "term": "adhd games",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "adhd"
+    }
+  ],
+  [
+    "adhd reader",
+    {
+      "term": "adhd reader",
+      "group": "TDAH",
+      "depth": 1,
+      "parent": "adhd"
+    }
+  ],
+  [
+    "dislexia jogos em portugues",
+    {
+      "term": "dislexia jogos em português",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dislexia"
+    }
+  ],
+  [
+    "dislexia app",
+    {
+      "term": "dislexia app",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dislexia"
+    }
+  ],
+  [
+    "dislexia gratis",
+    {
+      "term": "dislexia gratis",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dislexia"
+    }
+  ],
+  [
+    "dislexia teste",
+    {
+      "term": "dislexia teste",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dislexia"
+    }
+  ],
+  [
+    "dyslexia font",
+    {
+      "term": "dyslexia font",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dyslexia"
+    }
+  ],
+  [
+    "dyslexia apps",
+    {
+      "term": "dyslexia apps",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dyslexia"
+    }
+  ],
+  [
+    "dyslexia apps for kids",
+    {
+      "term": "dyslexia apps for kids",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dyslexia"
+    }
+  ],
+  [
+    "dyslexia overlay",
+    {
+      "term": "dyslexia overlay",
+      "group": "DISLEXIA",
+      "depth": 1,
+      "parent": "dyslexia"
+    }
+  ],
+  [
+    "discalculia trainer",
+    {
+      "term": "discalculia trainer",
+      "group": "DISCALCULIA",
+      "depth": 1,
+      "parent": "discalculia"
+    }
+  ],
+  [
+    "dyscalculia apps for adults",
+    {
+      "term": "dyscalculia apps for adults",
+      "group": "DISCALCULIA",
+      "depth": 1,
+      "parent": "dyscalculia"
+    }
+  ],
+  [
+    "dyscalculia games",
+    {
+      "term": "dyscalculia games",
+      "group": "DISCALCULIA",
+      "depth": 1,
+      "parent": "dyscalculia"
+    }
+  ],
+  [
+    "dyscalculia calculator",
+    {
+      "term": "dyscalculia calculator",
+      "group": "DISCALCULIA",
+      "depth": 1,
+      "parent": "dyscalculia"
+    }
+  ],
+  [
+    "teste de altas habilidades",
+    {
+      "term": "teste de altas habilidades",
+      "group": "AHSD",
+      "depth": 1,
+      "parent": "altas habilidades"
+    }
+  ],
+  [
+    "teste de superdotacao",
+    {
+      "term": "teste de superdotação",
+      "group": "AHSD",
+      "depth": 1,
+      "parent": "superdotacao"
+    }
+  ],
+  [
+    "dysgraphia apps",
+    {
+      "term": "dysgraphia apps",
+      "group": "DISGRAFIA",
+      "depth": 1,
+      "parent": "dysgraphia"
+    }
+  ],
+  [
+    "tourettes",
+    {
+      "term": "tourettes",
+      "group": "TOURETTE",
+      "depth": 1,
+      "parent": "tourette"
+    }
+  ],
+  [
+    "tourette's syndrome",
+    {
+      "term": "tourette's syndrome",
+      "group": "TOURETTE",
+      "depth": 1,
+      "parent": "tourette"
+    }
+  ],
+  [
+    "autismo apps en espanol gratis",
+    {
+      "term": "autismo apps en espanol gratis",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo app"
+    }
+  ],
+  [
+    "hablemos tea autismo app",
+    {
+      "term": "hablemos tea autismo app",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo app"
+    }
+  ],
+  [
+    "app autismo italiano gratis",
+    {
+      "term": "app autismo italiano gratis",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo app"
+    }
+  ],
+  [
+    "caju app autismo",
+    {
+      "term": "caju app autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo app"
+    }
+  ],
+  [
+    "jogos para autismo",
+    {
+      "term": "jogos para autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo jogos"
+    }
+  ],
+  [
+    "jogos educativos autismo",
+    {
+      "term": "jogos educativos autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo jogos"
+    }
+  ],
+  [
+    "jogos educativos para autismo",
+    {
+      "term": "jogos educativos para autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo jogos"
+    }
+  ],
+  [
+    "jogos infantis autismo",
+    {
+      "term": "jogos infantis autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo jogos"
+    }
+  ],
+  [
+    "teste de autismo adulto",
+    {
+      "term": "teste de autismo adulto",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo teste"
+    }
+  ],
+  [
+    "teste para autismo",
+    {
+      "term": "teste para autismo",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo teste"
+    }
+  ],
+  [
+    "teste de autismo adulto gratis",
+    {
+      "term": "teste de autismo adulto grátis",
+      "group": "TEA",
+      "depth": 2,
+      "parent": "autismo teste"
+    }
+  ],
+  [
+    "teste de tdah gratis",
+    {
+      "term": "teste de tdah grátis",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah teste"
+    }
+  ],
+  [
+    "teste tdah adulto",
+    {
+      "term": "teste tdah adulto",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah teste"
+    }
+  ],
+  [
+    "teste tdah adulto gratis",
+    {
+      "term": "teste tdah adulto grátis",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah teste"
+    }
+  ],
+  [
+    "teste para tdah",
+    {
+      "term": "teste para tdah",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah teste"
+    }
+  ],
+  [
+    "super planner rotina tdah",
+    {
+      "term": "super planner rotina tdah",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah rotina"
+    }
+  ],
+  [
+    "jogos para tdah",
+    {
+      "term": "jogos para tdah",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah jogos"
+    }
+  ],
+  [
+    "jogos para tdah adulto",
+    {
+      "term": "jogos para tdah adulto",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah jogos"
+    }
+  ],
+  [
+    "jogos para tdah infantil",
+    {
+      "term": "jogos para tdah infantil",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah jogos"
+    }
+  ],
+  [
+    "jogos tdah gratis",
+    {
+      "term": "jogos tdah grátis",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah jogos"
+    }
+  ],
+  [
+    "app para tdah",
+    {
+      "term": "app para tdah",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah app"
+    }
+  ],
+  [
+    "app para tdah gratis",
+    {
+      "term": "app para tdah gratis",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah app"
+    }
+  ],
+  [
+    "apps para tdah",
+    {
+      "term": "apps para tdah",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah app"
+    }
+  ],
+  [
+    "app tdah gratis",
+    {
+      "term": "app tdah gratis",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "tdah app"
+    }
+  ],
+  [
+    "adhd planner for adults free",
+    {
+      "term": "adhd planner for adults free",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd planner"
+    }
+  ],
+  [
+    "adhd planner app",
+    {
+      "term": "adhd planner app",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd planner"
+    }
+  ],
+  [
+    "adhd planner for adults",
+    {
+      "term": "adhd planner for adults",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd planner"
+    }
+  ],
+  [
+    "adhd planner for kids",
+    {
+      "term": "adhd planner for kids",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd planner"
+    }
+  ],
+  [
+    "adhd apps for adults free",
+    {
+      "term": "adhd apps for adults free",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd apps for adults"
+    }
+  ],
+  [
+    "adhd cleaning apps for adults",
+    {
+      "term": "adhd cleaning apps for adults",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd apps for adults"
+    }
+  ],
+  [
+    "adhd music apps for adults",
+    {
+      "term": "adhd music apps for adults",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd apps for adults"
+    }
+  ],
+  [
+    "adhd games for kids free",
+    {
+      "term": "adhd games for kids free",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd games"
+    }
+  ],
+  [
+    "adhd games for adults",
+    {
+      "term": "adhd games for adults",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd games"
+    }
+  ],
+  [
+    "adhd games offline",
+    {
+      "term": "adhd games offline",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd games"
+    }
+  ],
+  [
+    "adhd games for kids",
+    {
+      "term": "adhd games for kids",
+      "group": "TDAH",
+      "depth": 2,
+      "parent": "adhd games"
+    }
+  ],
+  [
+    "app para dislexia",
+    {
+      "term": "app para dislexia",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dislexia app"
+    }
+  ],
+  [
+    "dislexia app gratis en espanol",
+    {
+      "term": "dislexia app gratis en español",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dislexia app"
+    }
+  ],
+  [
+    "teste de dislexia",
+    {
+      "term": "teste de dislexia",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dislexia teste"
+    }
+  ],
+  [
+    "dyslexia font keyboard",
+    {
+      "term": "dyslexia font keyboard",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia font"
+    }
+  ],
+  [
+    "dyslexia fonts",
+    {
+      "term": "dyslexia fonts",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia font"
+    }
+  ],
+  [
+    "open dyslexia font",
+    {
+      "term": "open dyslexia font",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia font"
+    }
+  ],
+  [
+    "dyslexia apps for adults",
+    {
+      "term": "dyslexia apps for adults",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia apps"
+    }
+  ],
+  [
+    "dyslexia apps for adults spelling",
+    {
+      "term": "dyslexia apps for adults spelling",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia apps"
+    }
+  ],
+  [
+    "dyslexia apps free",
+    {
+      "term": "dyslexia apps free",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia apps"
+    }
+  ],
+  [
+    "dyslexia apps for kids free",
+    {
+      "term": "dyslexia apps for kids free",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia apps for kids"
+    }
+  ],
+  [
+    "screen overlay dyslexia",
+    {
+      "term": "screen overlay dyslexia",
+      "group": "DISLEXIA",
+      "depth": 2,
+      "parent": "dyslexia overlay"
+    }
+  ],
+  [
+    "adhd games for adults free",
+    {
+      "term": "adhd games for adults free",
+      "group": "TDAH",
+      "depth": 3,
+      "parent": "adhd games for adults"
+    }
+  ],
+  [
+    "propel adhd games for adults",
+    {
+      "term": "propel adhd games for adults",
+      "group": "TDAH",
+      "depth": 3,
+      "parent": "adhd games for adults"
+    }
+  ],
+  [
+    "dyslexic fonts",
+    {
+      "term": "dyslexic fonts",
+      "group": "DISLEXIA",
+      "depth": 3,
+      "parent": "dyslexia fonts"
+    }
+  ],
+  [
+    "opendyslexic font for android",
+    {
+      "term": "opendyslexic font for android",
+      "group": "DISLEXIA",
+      "depth": 3,
+      "parent": "open dyslexia font"
+    }
+  ],
+  [
+    "opendyslexic font",
+    {
+      "term": "opendyslexic font",
+      "group": "DISLEXIA",
+      "depth": 3,
+      "parent": "open dyslexia font"
+    }
+  ]
+]

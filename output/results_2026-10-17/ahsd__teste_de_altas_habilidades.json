@@ -1,0 +1,688 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:41:24.911Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "AHSD",
+    "term": "teste de altas habilidades",
+    "key": "teste de altas habilidades",
+    "depth": 1,
+    "parent": "altas habilidades",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "40+ Testes Psicológicos",
+      "description": "· Mais de 40 testes psicológicos.\n· Testes de inteligência: QI\n· Testes com imagens\n· Análise detalhada das respostas\n· Complete tarefas e receba prêmios\n· Material com design moderno\n· Compartilhe seus resultados com a família e os amigos\n· Faça testes para depressão, tipos de personalidade, autoconfiança, capacidade de compreender as pessoas Conheça melhor seus pontos fortes e fracos. Compreenda as causas de conflitos familiares e mais.",
+      "descriptionHTML": "· Mais de 40 testes psicológicos.<br>· Testes de inteligência: QI<br>· Testes com imagens<br>· Análise detalhada das respostas<br>· Complete tarefas e receba prêmios<br>· Material com design moderno<br>· Compartilhe seus resultados com a família e os amigos<br>· Faça testes para depressão, tipos de personalidade, autoconfiança, capacidade de compreender as pessoas Conheça melhor seus pontos fortes e fracos. Compreenda as causas de conflitos familiares e mais.",
+      "summary": "Análise psicológica detalhada",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3769144,
+      "score": 4.52,
+      "scoreText": "4,5",
+      "ratings": 20513,
+      "reviews": 88,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.muraDev.psychotests",
+      "url": "https://play.google.com/store/apps/details?id=com.muraDev.psychotests&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Teste de QI (Português)",
+      "description": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.\n\nO QUE VOCÊ RECEBE\n- Um teste de QI completo em português com tarefas realistas de várias categorias\n- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está\n- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos\n- Depois de cada categoria, suas respostas certas e erradas\n- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações\n- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês\n- Pro sem anúncios, como compra única: você não precisa de assinatura\n\nO QUE O TESTE DE QI MEDE\nInspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:\n- Raciocínio perceptual\n- Velocidade de processamento\n- Memória de trabalho\n- Compreensão verbal\n- Raciocínio numérico\n- Pensamento lógico\n\nVocê resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.\n\nO QUE É UM TESTE DE QI?\nUm teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!\n\nTREINO CEREBRAL E PREPARAÇÃO\nVai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.\n\nPARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE\nQuer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.\nResumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.\n\nPRO: DESBLOQUEIE TUDO\nO app IQ Test é gratuito. O Pro é opcional e desbloqueia:\n- Todos os testes de QI\n- Todas as explicações e soluções\n- Todos os exercícios\n- Estatísticas detalhadas\n\nCom o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em \"Pagamentos e assinaturas\".\n\nTermos de uso: https://iqtest-app.de/terms-and-conditions/\nPolítica de privacidade: https://iqtest-app.de/privacy-policy/",
+      "descriptionHTML": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.<br><br>O QUE VOCÊ RECEBE<br>- Um teste de QI completo em português com tarefas realistas de várias categorias<br>- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está<br>- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos<br>- Depois de cada categoria, suas respostas certas e erradas<br>- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações<br>- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês<br>- Pro sem anúncios, como compra única: você não precisa de assinatura<br><br>O QUE O TESTE DE QI MEDE<br>Inspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:<br>- Raciocínio perceptual<br>- Velocidade de processamento<br>- Memória de trabalho<br>- Compreensão verbal<br>- Raciocínio numérico<br>- Pensamento lógico<br><br>Você resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.<br><br>O QUE É UM TESTE DE QI?<br>Um teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!<br><br>TREINO CEREBRAL E PREPARAÇÃO<br>Vai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.<br><br>PARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE<br>Quer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.<br>Resumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.<br><br>PRO: DESBLOQUEIE TUDO<br>O app IQ Test é gratuito. O Pro é opcional e desbloqueia:<br>- Todos os testes de QI<br>- Todas as explicações e soluções<br>- Todos os exercícios<br>- Estatísticas detalhadas<br><br>Com o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em &quot;Pagamentos e assinaturas&quot;.<br><br>Termos de uso: https://iqtest-app.de/terms-and-conditions/<br>Política de privacidade: https://iqtest-app.de/privacy-policy/",
+      "summary": "Quão inteligente você é? Faça parte do ótimo teste de QI",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1129023,
+      "score": 4.2677164,
+      "scoreText": "4,3",
+      "ratings": 4780,
+      "reviews": 371,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "de.paulstelzer.iqtest",
+      "url": "https://play.google.com/store/apps/details?id=de.paulstelzer.iqtest&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Teste de QI: Raciocínio Lógico",
+      "description": "Quer descobrir seu QI e desafiar sua mente? Teste de QI: Raciocínio Lógico combina um teste de QI grátis em português com jogos de raciocínio lógico, desafios de lógica, memória e concentração. Faça o teste, veja seu resultado e continue treinando com jogos mentais criados para adultos.\n\n🧠 TESTE DE QI GRÁTIS EM PORTUGUÊS\n\nResponda a 40 perguntas de lógica, padrões, sequências, raciocínio abstrato, matemática e percepção visual. O teste de QI leva aproximadamente 30 minutos e apresenta uma estimativa do seu quociente de inteligência.\n\nUse este teste de inteligência para:\n• descobrir seu nível de QI;\n• avaliar seu raciocínio lógico;\n• identificar seus pontos fortes;\n• desafiar sua capacidade mental;\n• comparar sua evolução ao longo do tempo.\n\nO resultado do teste de QI é educativo e indicado para entretenimento, autoavaliação e treino mental. Não substitui uma avaliação psicológica ou profissional.\n\n🪙 COMECE GRÁTIS E DESBLOQUEIE MAIS TESTES\n\nFaça seu primeiro teste de QI grátis sem pagar. Depois, consiga moedas dentro do aplicativo e use-as para realizar novos testes de QI também gratuitamente. Continue jogando, resolvendo desafios mentais e treinando raciocínio lógico para avançar no seu ritmo.\n\n🎯 JOGOS DE RACIOCÍNIO LÓGICO\n\nDepois do teste de QI, continue treinando com jogos de raciocínio lógico e jogos de QI que colocam sua mente à prova. Resolva sequências, matrizes, figuras, padrões visuais, problemas matemáticos e quebra-cabeças de lógica.\n\nEncontre:\n• jogos de lógica para adultos;\n• desafios de raciocínio;\n• jogos de inteligência;\n• jogos de memória para adultos;\n• testes de atenção e concentração;\n• quebra-cabeças matemáticos;\n• exercícios de pensamento rápido;\n• jogos mentais para treinar o cérebro.\n\nCada desafio estimula análise, atenção, agilidade mental, resolução de problemas e pensamento crítico.\n\n🔍 TESTE DE RACIOCÍNIO LÓGICO E PADRÕES VISUAIS\n\nVocê consegue descobrir qual figura completa a sequência? Identificar a peça diferente? Resolver uma matriz lógica? Este teste de lógica trabalha raciocínio abstrato, inteligência espacial e reconhecimento de padrões — habilidades presentes em testes de QI, testes cognitivos e provas de raciocínio lógico.\n\n📈 TREINE O CÉREBRO E ACOMPANHE SEU PROGRESSO\n\nPratique todos os dias com sessões rápidas de treino cerebral. Acompanhe seus resultados, repita desafios e veja sua evolução em lógica, memória, concentração e velocidade mental.\n\nHá níveis do iniciante ao avançado, com novos desafios para exercitar o cérebro, melhorar sua atenção e manter a mente ativa.\n\nJogue no celular ou tablet e escolha entre um teste de inteligência completo e jogos de lógica rápidos. Os desafios são ideais para adultos, estudantes e fãs de matemática, sequências, quebra-cabeças e jogos offline de raciocínio mental.\n\n🎓 RACIOCÍNIO LÓGICO PARA PROVAS E TESTES\n\nOs exercícios também podem ajudar quem deseja praticar para testes de aptidão, testes psicotécnicos, concursos públicos, entrevistas e processos seletivos. Treine com questões de lógica, sequências, formas, números e problemas semelhantes aos encontrados em avaliações de raciocínio.\n\n⭐ POR QUE BAIXAR ESTE TESTE DE QI?\n\n• teste de QI em português;\n• primeiro teste grátis sem pagar;\n• mais testes disponíveis com moedas;\n• 40 perguntas e resultado estimado;\n• jogos de raciocínio lógico;\n• jogos de QI e inteligência;\n• desafios matemáticos e visuais;\n• treino de memória e concentração;\n• diferentes níveis de dificuldade;\n• acompanhamento da sua evolução;\n• desafios e jogos mentais para adultos;\n• treino mental sempre disponível.\n\nSe você procura teste de QI grátis, teste de inteligência, jogo de QI, jogos de raciocínio, teste de lógica ou exercícios para treinar o cérebro, este aplicativo reúne tudo em um só lugar.\n\nBaixe grátis Teste de QI: Raciocínio Lógico, descubra seu resultado e comece a resolver jogos de QI, quebra-cabeças e desafios mentais. Teste sua inteligência, melhore seu raciocínio lógico e mantenha o cérebro ativo todos os dias.",
+      "descriptionHTML": "Quer descobrir seu QI e desafiar sua mente? Teste de QI: Raciocínio Lógico combina um teste de QI grátis em português com jogos de raciocínio lógico, desafios de lógica, memória e concentração. Faça o teste, veja seu resultado e continue treinando com jogos mentais criados para adultos.<br><br>🧠 TESTE DE QI GRÁTIS EM PORTUGUÊS<br><br>Responda a 40 perguntas de lógica, padrões, sequências, raciocínio abstrato, matemática e percepção visual. O teste de QI leva aproximadamente 30 minutos e apresenta uma estimativa do seu quociente de inteligência.<br><br>Use este teste de inteligência para:<br>• descobrir seu nível de QI;<br>• avaliar seu raciocínio lógico;<br>• identificar seus pontos fortes;<br>• desafiar sua capacidade mental;<br>• comparar sua evolução ao longo do tempo.<br><br>O resultado do teste de QI é educativo e indicado para entretenimento, autoavaliação e treino mental. Não substitui uma avaliação psicológica ou profissional.<br><br>🪙 COMECE GRÁTIS E DESBLOQUEIE MAIS TESTES<br><br>Faça seu primeiro teste de QI grátis sem pagar. Depois, consiga moedas dentro do aplicativo e use-as para realizar novos testes de QI também gratuitamente. Continue jogando, resolvendo desafios mentais e treinando raciocínio lógico para avançar no seu ritmo.<br><br>🎯 JOGOS DE RACIOCÍNIO LÓGICO<br><br>Depois do teste de QI, continue treinando com jogos de raciocínio lógico e jogos de QI que colocam sua mente à prova. Resolva sequências, matrizes, figuras, padrões visuais, problemas matemáticos e quebra-cabeças de lógica.<br><br>Encontre:<br>• jogos de lógica para adultos;<br>• desafios de raciocínio;<br>• jogos de inteligência;<br>• jogos de memória para adultos;<br>• testes de atenção e concentração;<br>• quebra-cabeças matemáticos;<br>• exercícios de pensamento rápido;<br>• jogos mentais para treinar o cérebro.<br><br>Cada desafio estimula análise, atenção, agilidade mental, resolução de problemas e pensamento crítico.<br><br>🔍 TESTE DE RACIOCÍNIO LÓGICO E PADRÕES VISUAIS<br><br>Você consegue descobrir qual figura completa a sequência? Identificar a peça diferente? Resolver uma matriz lógica? Este teste de lógica trabalha raciocínio abstrato, inteligência espacial e reconhecimento de padrões — habilidades presentes em testes de QI, testes cognitivos e provas de raciocínio lógico.<br><br>📈 TREINE O CÉREBRO E ACOMPANHE SEU PROGRESSO<br><br>Pratique todos os dias com sessões rápidas de treino cerebral. Acompanhe seus resultados, repita desafios e veja sua evolução em lógica, memória, concentração e velocidade mental.<br><br>Há níveis do iniciante ao avançado, com novos desafios para exercitar o cérebro, melhorar sua atenção e manter a mente ativa.<br><br>Jogue no celular ou tablet e escolha entre um teste de inteligência completo e jogos de lógica rápidos. Os desafios são ideais para adultos, estudantes e fãs de matemática, sequências, quebra-cabeças e jogos offline de raciocínio mental.<br><br>🎓 RACIOCÍNIO LÓGICO PARA PROVAS E TESTES<br><br>Os exercícios também podem ajudar quem deseja praticar para testes de aptidão, testes psicotécnicos, concursos públicos, entrevistas e processos seletivos. Treine com questões de lógica, sequências, formas, números e problemas semelhantes aos encontrados em avaliações de raciocínio.<br><br>⭐ POR QUE BAIXAR ESTE TESTE DE QI?<br><br>• teste de QI em português;<br>• primeiro teste grátis sem pagar;<br>• mais testes disponíveis com moedas;<br>• 40 perguntas e resultado estimado;<br>• jogos de raciocínio lógico;<br>• jogos de QI e inteligência;<br>• desafios matemáticos e visuais;<br>• treino de memória e concentração;<br>• diferentes níveis de dificuldade;<br>• acompanhamento da sua evolução;<br>• desafios e jogos mentais para adultos;<br>• treino mental sempre disponível.<br><br>Se você procura teste de QI grátis, teste de inteligência, jogo de QI, jogos de raciocínio, teste de lógica ou exercícios para treinar o cérebro, este aplicativo reúne tudo em um só lugar.<br><br>Baixe grátis Teste de QI: Raciocínio Lógico, descubra seu resultado e comece a resolver jogos de QI, quebra-cabeças e desafios mentais. Teste sua inteligência, melhore seu raciocínio lógico e mantenha o cérebro ativo todos os dias.",
+      "summary": "Teste de QI grátis em português: jogos de QI e desafios de raciocínio lógico.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2674539,
+      "score": 4.740638,
+      "scoreText": "4,7",
+      "ratings": 35521,
+      "reviews": 2326,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Lógica",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iq.test.maths.intelligence.logic.iqtest",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.maths.intelligence.logic.iqtest&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Testes psicológicos e quizzes",
+      "description": "App de psicologia com mais de 130 testes psicológicos e avaliações de personalidade.\nDescubra sua personalidade, emoções e relacionamentos através de autoavaliações psicológicas baseadas em teorias reais da psicologia. Cada teste foi criado para tornar a psicologia prática e envolvente – combinando autoanálise séria com momentos de diversão.\n\n🔎 Por que este app de psicologia?\n✅ 130+ testes psicológicos gratuitos e quiz de personalidade\n✅ Baseado em teorias psicológicas reais (Freud, Jung, Beck, Eysenck, Luscher)\n✅ Autoavaliações psicológicas profissionais para o crescimento pessoal\n✅ Quiz divertidos e avaliações psicológicas para suas pausas\n✅ Salve e consulte todo o histórico de testes com resultados e análises\n\nExplore categorias:\n😉 Personalidade & Traços\n• Teste de temperamento de Eysenck\n• Avaliação psicológica das cores de Luscher\n• Dominância dos hemisférios cerebrais\n• Descubra sua principal falha de personalidade\n\n❤️ Amor & Relacionamentos\n• Teste psicológico de compatibilidade e confiança\n• Teste de dependência emocional\n• Avaliação de ciúmes e controle\n• Seu parceiro realmente ama você?\n\n👨‍💻 Carreira & Motivação\n• Escala de orientação para o sucesso\n• Teste de mentalidade empreendedora\n• Avaliação psicológica de transição de carreira\n• Qual profissão combina com sua personalidade?\n\n🤯 Emoções & Mente\n• Inventário de depressão de Beck\n• Teste de inteligência emocional\n• Teste de QI rápido\n• Avaliação da idade psicológica vs real\n\n👪 Família & Papéis\n• Análise de satisfação conjugal\n• Teste de percepção parental\n• Relação emocional com os pais\n\n🧠 Cérebro & Cognição\n• Teste de erudição e conhecimento\n• Avaliação do estilo de pensamento criativo\n• Dominância do hemisfério esquerdo ou direito\n\n🇯🇵 Testes КОКО (microtestes japoneses com significado profundo)\n• O Pássaro Azul\n• Sussurros na Escuridão\n• Preso na Chuva\n\n🙂 Diversão\n• Qual animal vive na sua alma?\n• Qual emoção domina sua mente?\n• Teste de talentos ocultos\n• Você é uma tempestade ou uma brisa suave?\n\n🎯 Psicologia na prática\nEste aplicativo é mais do que entretenimento – é uma ferramenta de autoavaliação psicológica que ajuda você a fortalecer a inteligência emocional, compreender melhor os relacionamentos e descobrir traços ocultos. Seja para uma reflexão séria ou para um teste leve, sempre haverá algo adequado ao seu momento.\n\n🔥 Comece hoje mesmo com mais de 130 testes psicológicos gratuitos e quiz de personalidade. Explore a psicologia, divirta-se com os testes e evolua a cada resultado.",
+      "descriptionHTML": "App de psicologia com mais de 130 testes psicológicos e avaliações de personalidade.<br>Descubra sua personalidade, emoções e relacionamentos através de autoavaliações psicológicas baseadas em teorias reais da psicologia. Cada teste foi criado para tornar a psicologia prática e envolvente – combinando autoanálise séria com momentos de diversão.<br><br>🔎 Por que este app de psicologia?<br>✅ 130+ testes psicológicos gratuitos e quiz de personalidade<br>✅ Baseado em teorias psicológicas reais (Freud, Jung, Beck, Eysenck, Luscher)<br>✅ Autoavaliações psicológicas profissionais para o crescimento pessoal<br>✅ Quiz divertidos e avaliações psicológicas para suas pausas<br>✅ Salve e consulte todo o histórico de testes com resultados e análises<br><br>Explore categorias:<br>😉 Personalidade &amp; Traços<br>• Teste de temperamento de Eysenck<br>• Avaliação psicológica das cores de Luscher<br>• Dominância dos hemisférios cerebrais<br>• Descubra sua principal falha de personalidade<br><br>❤️ Amor &amp; Relacionamentos<br>• Teste psicológico de compatibilidade e confiança<br>• Teste de dependência emocional<br>• Avaliação de ciúmes e controle<br>• Seu parceiro realmente ama você?<br><br>👨‍💻 Carreira &amp; Motivação<br>• Escala de orientação para o sucesso<br>• Teste de mentalidade empreendedora<br>• Avaliação psicológica de transição de carreira<br>• Qual profissão combina com sua personalidade?<br><br>🤯 Emoções &amp; Mente<br>• Inventário de depressão de Beck<br>• Teste de inteligência emocional<br>• Teste de QI rápido<br>• Avaliação da idade psicológica vs real<br><br>👪 Família &amp; Papéis<br>• Análise de satisfação conjugal<br>• Teste de percepção parental<br>• Relação emocional com os pais<br><br>🧠 Cérebro &amp; Cognição<br>• Teste de erudição e conhecimento<br>• Avaliação do estilo de pensamento criativo<br>• Dominância do hemisfério esquerdo ou direito<br><br>🇯🇵 Testes КОКО (microtestes japoneses com significado profundo)<br>• O Pássaro Azul<br>• Sussurros na Escuridão<br>• Preso na Chuva<br><br>🙂 Diversão<br>• Qual animal vive na sua alma?<br>• Qual emoção domina sua mente?<br>• Teste de talentos ocultos<br>• Você é uma tempestade ou uma brisa suave?<br><br>🎯 Psicologia na prática<br>Este aplicativo é mais do que entretenimento – é uma ferramenta de autoavaliação psicológica que ajuda você a fortalecer a inteligência emocional, compreender melhor os relacionamentos e descobrir traços ocultos. Seja para uma reflexão séria ou para um teste leve, sempre haverá algo adequado ao seu momento.<br><br>🔥 Comece hoje mesmo com mais de 130 testes psicológicos gratuitos e quiz de personalidade. Explore a psicologia, divirta-se com os testes e evolua a cada resultado.",
+      "summary": "Cresça com testes psicológicos e testes de personalidade. Descubra-se hoje mesmo",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 7359762,
+      "score": 4.7554193,
+      "scoreText": "4,8",
+      "ratings": 164025,
+      "reviews": 7770,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.nixgames.psycho_tests",
+      "url": "https://play.google.com/store/apps/details?id=com.nixgames.psycho_tests&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Teste de psicotécnico Psikotes",
+      "description": "Desenvolvemos esses testes de psicotécnico para pessoas que querem se conhecer melhor. Ao responder às perguntas, você pode compreender seu mundo interior mais profundamente, obter respostas corretas para as perguntas que são importantes para você e tornar-se mais confiante em si mesmo.\n\nFizemos muito trabalho para coletar vários testes de Rorschach em um só lugar, especialmente para você. Esses testes de depressão foram compilados com a ajuda de psicólogos experientes e conselheiros de carreira profissional.\n\nUsando este aplicativo de teste de psicotécnico, você terá a oportunidade de:\n✔️ Descubra seu nível de raciocínio lógico com o teste de QI.\n✔️ Descubra seu destino profissional fazendo o teste de carreira.\n✔️ Identifique seu tipo de personalidade com aptitude test e OCD test.\n✔️ Trabalhe seu subconsciente com o TDAH teste.\n✔️ Faça um autoconhecimento.\n✔️ Descubra suas habilidades e talentos ocultos com um testes psicologicos.\n✔️Perceba quais atitudes mentais você carregou desde a infância com um IQ test.\n\nEste aplicativo de teste de depressão não só lhe dá a maneira de descobrir quem você é, mas também testa seu QI.\nVocê poderá descobrir sua mente passando por um teste de autoconhecimento.\n\nAo usar nossos aptitude test, você descobrirá:\n\n- Quão jovem é seu cérebro com o teste de QI.\n- Quão criativo e imaginativo você é com o OCD test.\n- Entenda se vale a pena entrar em contato com um especialista, com o TDAH teste.\n- Descubra que tipo de pensamento você tem com o IQ test.\n- Como você vê o mundo ao seu redor.\n- Entenda se você tem problemas com o childhood trauma test.\n\nEsses aptitude test você não apenas a entender a si mesmo, mas também serão um excelente exercício para o seu cérebro. Talvez no processo você encontre habilidades e talentos ocultos. Coisas acontecem!\n\nReunimos uma variedade de testes psicologicos em um aplicativo para sua conveniência. Você poderá descobrir sua mente passando por um TDAH teste.\n\nVocê é uma pessoa criativa?\nFaça o psychometric test e descubra o seu tipo de pensamento de acordo com a psicologia.\nEste é um OCD test, apenas algumas fotos e algumas perguntas.\n \nO teste de autoconhecimento ajuda você a descobrir o que realmente gosta de fazer, encontrar seu propósito e talvez até descobrir novos talentos.\n\nVocê se considera uma pessoa super lógica? Sim? Confira qual o seu nível de pensamento lógico fazendo este teste de QI.\n\nO aplicativo também inclui aptitude test de carreira. São testes sérios baseados em pesquisas globais. Eles ajudarão você a decidir sobre uma carreira ou propósito. Se você acha que apenas os adolescentes precisam, então está enganado.\n\nDescubra quais traumas psicológicos você tem. TDAH teste, OCD test e outros testes psicologicos podem ajudá-lo a entender se realmente há algo errado com você. Depois de fazer todos esses aptitude test, você poderá obter um panorama completo de sua saúde mental.\n\nPara quem são os nossos testes psicologicos?\n\n✔️Para pessoas que querem se conhecer melhor.\n✔️Para pessoas que querem mudar suas vidas.\n✔️Para pessoas que estão entediadas.\n✔️Para pessoas que procuram um simulador de cérebro.\n✔️Quem ama autoconhecimento.\n\n\nInstale o app de IQ test. Faça TDAH teste jogando e se divertindo.\n\nQuem sabe, você descubra que não é quem parece ser!",
+      "descriptionHTML": "Desenvolvemos esses testes de psicotécnico para pessoas que querem se conhecer melhor. Ao responder às perguntas, você pode compreender seu mundo interior mais profundamente, obter respostas corretas para as perguntas que são importantes para você e tornar-se mais confiante em si mesmo.<br><br>Fizemos muito trabalho para coletar vários testes de Rorschach em um só lugar, especialmente para você. Esses testes de depressão foram compilados com a ajuda de psicólogos experientes e conselheiros de carreira profissional.<br><br>Usando este aplicativo de teste de psicotécnico, você terá a oportunidade de:<br>✔️ Descubra seu nível de raciocínio lógico com o teste de QI.<br>✔️ Descubra seu destino profissional fazendo o teste de carreira.<br>✔️ Identifique seu tipo de personalidade com aptitude test e OCD test.<br>✔️ Trabalhe seu subconsciente com o TDAH teste.<br>✔️ Faça um autoconhecimento.<br>✔️ Descubra suas habilidades e talentos ocultos com um testes psicologicos.<br>✔️Perceba quais atitudes mentais você carregou desde a infância com um IQ test.<br><br>Este aplicativo de teste de depressão não só lhe dá a maneira de descobrir quem você é, mas também testa seu QI.<br>Você poderá descobrir sua mente passando por um teste de autoconhecimento.<br><br>Ao usar nossos aptitude test, você descobrirá:<br><br>- Quão jovem é seu cérebro com o teste de QI.<br>- Quão criativo e imaginativo você é com o OCD test.<br>- Entenda se vale a pena entrar em contato com um especialista, com o TDAH teste.<br>- Descubra que tipo de pensamento você tem com o IQ test.<br>- Como você vê o mundo ao seu redor.<br>- Entenda se você tem problemas com o childhood trauma test.<br><br>Esses aptitude test você não apenas a entender a si mesmo, mas também serão um excelente exercício para o seu cérebro. Talvez no processo você encontre habilidades e talentos ocultos. Coisas acontecem!<br><br>Reunimos uma variedade de testes psicologicos em um aplicativo para sua conveniência. Você poderá descobrir sua mente passando por um TDAH teste.<br><br>Você é uma pessoa criativa?<br>Faça o psychometric test e descubra o seu tipo de pensamento de acordo com a psicologia.<br>Este é um OCD test, apenas algumas fotos e algumas perguntas.<br> <br>O teste de autoconhecimento ajuda você a descobrir o que realmente gosta de fazer, encontrar seu propósito e talvez até descobrir novos talentos.<br><br>Você se considera uma pessoa super lógica? Sim? Confira qual o seu nível de pensamento lógico fazendo este teste de QI.<br><br>O aplicativo também inclui aptitude test de carreira. São testes sérios baseados em pesquisas globais. Eles ajudarão você a decidir sobre uma carreira ou propósito. Se você acha que apenas os adolescentes precisam, então está enganado.<br><br>Descubra quais traumas psicológicos você tem. TDAH teste, OCD test e outros testes psicologicos podem ajudá-lo a entender se realmente há algo errado com você. Depois de fazer todos esses aptitude test, você poderá obter um panorama completo de sua saúde mental.<br><br>Para quem são os nossos testes psicologicos?<br><br>✔️Para pessoas que querem se conhecer melhor.<br>✔️Para pessoas que querem mudar suas vidas.<br>✔️Para pessoas que estão entediadas.<br>✔️Para pessoas que procuram um simulador de cérebro.<br>✔️Quem ama autoconhecimento.<br><br><br>Instale o app de IQ test. Faça TDAH teste jogando e se divertindo.<br><br>Quem sabe, você descubra que não é quem parece ser!",
+      "summary": "Conheça-se! Teste de psicologia, QI, depressão, déficit de atenção e avaliação",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3536799,
+      "score": 3.911111,
+      "scoreText": "3,9",
+      "ratings": 24396,
+      "reviews": 1055,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.testgames.psyhologytests",
+      "url": "https://play.google.com/store/apps/details?id=com.testgames.psyhologytests&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Teste de amizade: teste BFF",
+      "description": "Todos nós queremos ser cercado por amigos. A verdadeira amizade é precioso para todos nós. Você já se perguntou qual seu amigo é verdadeiramente o seu BFF (melhor amigo para sempre)?\n\nAgora, você tem um aplicativo para testar a força de sua amizade com os seus amigos e obter a sua pontuação de amizade. Este aplicativo pode não só ser usado como um teste de compatibilidade, mas também irá mantê-lo envolvido e entretido ao longo do caminho.\n\n\nComo funciona o aplicativo BFF Amizade teste?\n\nO processo é simples. Você só precisa digitar o seu e o nome do seu amigo na BFF Amizade para iniciar o teste de compatibilidade amizade. Você, então, responder a 10 perguntas simples sobre sua amizade neste questionário brincalhão. No final deste divertimento pequeno quiz você pode ver a pontuação amizade no medidor amigo.\n\n\nO que é especial sobre o quiz BFF? Que tipo de perguntas podem esperar aqui?\n\nO quiz amizade tenta cobrir todos os aspectos deste vínculo BFF especial. As questões giram em torno de quanto você sabe sobre seus amigos, o quanto você confia neles e como sua presença em sua vida que você se sinta. Cada pergunta é projetado cuidadosamente para ajudá-lo a avaliar a solidez desse vínculo amizade e como compatível você é com esta pessoa. As perguntas ajudá-lo a perceber se você já está no nível de BFF com este amigo ou se o seu vínculo amizade precisa de um pouco mais de trabalho.\n\n\nQuantas vezes eu posso fazer o teste?\n\nVocê pode fazer o teste quantas vezes quiser. Você pode fazer o teste BFF para cada amigo seu. O aplicativo oferece 4 conjuntos de questões únicas. Isto permite-lhe fazer o teste amizade novamente, mesmo para o mesmo amigo. Estamos constantemente em processo de adicionar mais conteúdo para o aplicativo BFF Amizade. Nosso objetivo é garantir que você nunca se cansar, mesmo se você fazer o teste pela décima vez.\n\n\nPosso partilhar a pontuação amizade com o meu amigo?\n\nAbsolutamente! Você não só pode compartilhar os resultados do teste de BFF com seus amigos mais próximos, mas você ainda tem que compartilhar o resultado com o mundo. O aplicativo oferece várias opções de ações no final do quiz.\n\nCompartilhar o resultado e testemunho de sua amizade real com seus amigos e peço-lhes para compartilhar o seu resultado, e para isso, tudo o que tem a fazer é responder às perguntas divertido Trivia Quiz do aplicativo de teste BFF.\n\nO quiz amizade metros é livre para todos os usuários para jogar. Não há nenhum custo para jogar este questionário ou para verificar a pontuação no medidor de amigos após o final do questionário BFF teste. O que você está esperando? Instale o BFF Friendship Test App com testes divertidos amizade, verifique o seu vínculo amizade, compatibilidade e compartilhar com amigos para celebrar a amizade com seus amigos.\n\nPor favor, note que o aplicativo BFF teste foi desenvolvido apenas para diversão e entretenimento propósito e não tem nenhuma intenção de ferir o utilizador ou de qualquer aplicativo feelings.The usa um algoritmo numérico e deve ser usado apenas para diversão ou entretenimento e não devem ser tratados de outra forma.\n\nEstamos constantemente trabalhando duro para tornar o aplicativo \"BFF Test\" melhor e mais divertido para você e seus verdadeiros amigos. Precisamos do seu apoio constante para ir. Sinta-se livre para nos enviar um e-mail para quaisquer dúvidas / sugestões / problemas ou se você apenas quer dizer oi. Gostaríamos muito de ouvir de você. Desfrute de seus amigos do quiz aplicativo, você pode jogar tantos testes como você quer!",
+      "descriptionHTML": "Todos nós queremos ser cercado por amigos. A verdadeira amizade é precioso para todos nós. Você já se perguntou qual seu amigo é verdadeiramente o seu BFF (melhor amigo para sempre)?<br><br>Agora, você tem um aplicativo para testar a força de sua amizade com os seus amigos e obter a sua pontuação de amizade. Este aplicativo pode não só ser usado como um teste de compatibilidade, mas também irá mantê-lo envolvido e entretido ao longo do caminho.<br><br><br>Como funciona o aplicativo BFF Amizade teste?<br><br>O processo é simples. Você só precisa digitar o seu e o nome do seu amigo na BFF Amizade para iniciar o teste de compatibilidade amizade. Você, então, responder a 10 perguntas simples sobre sua amizade neste questionário brincalhão. No final deste divertimento pequeno quiz você pode ver a pontuação amizade no medidor amigo.<br><br><br>O que é especial sobre o quiz BFF? Que tipo de perguntas podem esperar aqui?<br><br>O quiz amizade tenta cobrir todos os aspectos deste vínculo BFF especial. As questões giram em torno de quanto você sabe sobre seus amigos, o quanto você confia neles e como sua presença em sua vida que você se sinta. Cada pergunta é projetado cuidadosamente para ajudá-lo a avaliar a solidez desse vínculo amizade e como compatível você é com esta pessoa. As perguntas ajudá-lo a perceber se você já está no nível de BFF com este amigo ou se o seu vínculo amizade precisa de um pouco mais de trabalho.<br><br><br>Quantas vezes eu posso fazer o teste?<br><br>Você pode fazer o teste quantas vezes quiser. Você pode fazer o teste BFF para cada amigo seu. O aplicativo oferece 4 conjuntos de questões únicas. Isto permite-lhe fazer o teste amizade novamente, mesmo para o mesmo amigo. Estamos constantemente em processo de adicionar mais conteúdo para o aplicativo BFF Amizade. Nosso objetivo é garantir que você nunca se cansar, mesmo se você fazer o teste pela décima vez.<br><br><br>Posso partilhar a pontuação amizade com o meu amigo?<br><br>Absolutamente! Você não só pode compartilhar os resultados do teste de BFF com seus amigos mais próximos, mas você ainda tem que compartilhar o resultado com o mundo. O aplicativo oferece várias opções de ações no final do quiz.<br><br>Compartilhar o resultado e testemunho de sua amizade real com seus amigos e peço-lhes para compartilhar o seu resultado, e para isso, tudo o que tem a fazer é responder às perguntas divertido Trivia Quiz do aplicativo de teste BFF.<br><br>O quiz amizade metros é livre para todos os usuários para jogar. Não há nenhum custo para jogar este questionário ou para verificar a pontuação no medidor de amigos após o final do questionário BFF teste. O que você está esperando? Instale o BFF Friendship Test App com testes divertidos amizade, verifique o seu vínculo amizade, compatibilidade e compartilhar com amigos para celebrar a amizade com seus amigos.<br><br>Por favor, note que o aplicativo BFF teste foi desenvolvido apenas para diversão e entretenimento propósito e não tem nenhuma intenção de ferir o utilizador ou de qualquer aplicativo feelings.The usa um algoritmo numérico e deve ser usado apenas para diversão ou entretenimento e não devem ser tratados de outra forma.<br><br>Estamos constantemente trabalhando duro para tornar o aplicativo &quot;BFF Test&quot; melhor e mais divertido para você e seus verdadeiros amigos. Precisamos do seu apoio constante para ir. Sinta-se livre para nos enviar um e-mail para quaisquer dúvidas / sugestões / problemas ou se você apenas quer dizer oi. Gostaríamos muito de ouvir de você. Desfrute de seus amigos do quiz aplicativo, você pode jogar tantos testes como você quer!",
+      "summary": "teste BFF é um jogo divertido quando você está entediado.",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 13935292,
+      "score": 4.6827173,
+      "scoreText": "4,7",
+      "ratings": 131920,
+      "reviews": 6962,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.happyverse.bfftest",
+      "url": "https://play.google.com/store/apps/details?id=com.happyverse.bfftest&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "IQ Test - Teste de QI",
+      "description": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.\n\n- Este teste de QI é muito preciso.\n- O teste contém 30 questões muito importantes.\n- O limite de tempo de resolução é de 30 minutos.\n- Saber o resultado do teste é gratuito.\n- O resultado só poderá ser encontrado ao final da prova.\n- As questões do teste são muito equilibradas e bem escolhidas.",
+      "descriptionHTML": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.<br><br>- Este teste de QI é muito preciso.<br>- O teste contém 30 questões muito importantes.<br>- O limite de tempo de resolução é de 30 minutos.<br>- Saber o resultado do teste é gratuito.<br>- O resultado só poderá ser encontrado ao final da prova.<br>- As questões do teste são muito equilibradas e bem escolhidas.",
+      "summary": "Faça este teste de QI e descubra qual é a sua pontuação real de QI.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 710601,
+      "score": 4.259259,
+      "scoreText": "4,3",
+      "ratings": 3002,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iq.test.online.tools.store",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.online.tools.store&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Personality & Psychology Tests",
+      "description": "Embarque em uma jornada de autodescoberta e bem-estar mental com nosso aplicativo de avaliação de personalidade e saúde mental de última geração. Projetada para iniciantes e entusiastas da psicologia, esta ferramenta oferece um mergulho profundo em sua composição psicológica, fornecendo insights que ajudam você a compreender seus traços de personalidade, estado de saúde mental e muito mais. Esteja você procurando se encontrar, refletir sobre suas características pessoais ou explorar testes interessantes e divertidos, nosso aplicativo é o seu guia definitivo para uma melhor compreensão de si mesmo e dos outros.\n\nRecursos detalhados:\n\n1. Ampla gama de testes de personalidade:\nNosso aplicativo apresenta uma variedade de questionários e testes de personalidade baseados em estruturas psicológicas renomadas, como as teorias de Myers-Briggs e Carl Jung. Os usuários podem descobrir se são extrovertidos ou introvertidos, determinar seu tipo de personalidade entre os 16 perfis diferentes e explorar testes de temperamento aprofundados que investigam tendências e comportamentos pessoais.\n\n2. Avaliações de saúde mental:\nO bem-estar mental é crucial para uma vida equilibrada. Nosso aplicativo inclui testes psicológicos abrangentes que ajudam os usuários a avaliar sua inteligência emocional, verificar sinais de depressão com um específico \"Estou deprimido?\" testar e avaliar possíveis sintomas de TDAH. Esses testes são ferramentas essenciais para quem reflete sobre sua saúde mental e busca formas de melhorá-la.\n\n3. Orientação de carreira:\nEscolher a carreira certa pode ser uma decisão de mudança de vida. Nossos testes de carreira oferecem aconselhamento personalizado com base em suas avaliações de personalidade, ajudando você a encontrar planos de carreira que se alinhem com seus pontos fortes e interesses inatos. Esse recurso é particularmente benéfico para usuários que buscam alinhar sua vida profissional com suas características pessoais.\n\n4. Insights de relacionamento:\nCompreender a dinâmica das relações pessoais pode levar a interações mais saudáveis. Nosso aplicativo oferece testes que identificam tendências de manipulação, reconhecem sinais de um parceiro abusivo e exploram as linguagens do amor. Este segmento é crucial para desenvolver relacionamentos saudáveis ​​e reconhecer padrões prejudiciais.\n\n5. Avaliação da Procrastinação e da Síndrome do Impostor:\nDescubra como a procrastinação afeta sua produtividade e descubra sentimentos de síndrome do impostor que podem estar minando sua confiança. Nossas ferramentas são projetadas para ajudar os usuários a gerenciar esses problemas comuns de maneira eficaz, promovendo um estilo de vida mais saudável e produtivo.\n\n6. Formatos de teste interativos e envolventes:\nGarantimos que os testes psicológicos não sejam apenas informativos, mas também envolventes. O aplicativo apresenta uma variedade de formatos de teste que tornam o processo de descoberta agradável e interativo, garantindo que os usuários não apenas aprendam sobre si mesmos, mas também se divirtam com o processo.\n\n7. Acompanhamento histórico e análise de progresso:\nCom nosso recurso de histórico, os usuários podem acompanhar seu progresso ao longo do tempo, revisitar testes concluídos e continuar avaliações inacabadas. Esta funcionalidade é inestimável para aqueles comprometidos com o autoaperfeiçoamento a longo prazo e o desenvolvimento pessoal contínuo.\n\n8. Projetado para adolescentes e adultos:\nNossos testes psicológicos são adaptados para adolescentes e adultos, oferecendo conteúdo envolvente e informativo. Quer você seja um adolescente explorando sua identidade ou um adulto reavaliando suas escolhas de vida, nosso aplicativo fornece informações valiosas que são relevantes para o seu estágio de vida.\n\nNossa ferramenta abrangente de avaliação de personalidade e saúde mental é mais do que apenas um aplicativo; é um companheiro em sua jornada para a autodescoberta e a melhoria da saúde mental. Ao integrar extensas pesquisas psicológicas em testes fáceis de usar, oferecemos uma plataforma que ajuda você a se conhecer melhor, a encontrar seu verdadeiro potencial e a refletir sobre sua vida pessoal e profissional. Junte-se a milhares de usuários que transformaram suas vidas com nossas avaliações criteriosas.",
+      "descriptionHTML": "Embarque em uma jornada de autodescoberta e bem-estar mental com nosso aplicativo de avaliação de personalidade e saúde mental de última geração. Projetada para iniciantes e entusiastas da psicologia, esta ferramenta oferece um mergulho profundo em sua composição psicológica, fornecendo insights que ajudam você a compreender seus traços de personalidade, estado de saúde mental e muito mais. Esteja você procurando se encontrar, refletir sobre suas características pessoais ou explorar testes interessantes e divertidos, nosso aplicativo é o seu guia definitivo para uma melhor compreensão de si mesmo e dos outros.<br><br>Recursos detalhados:<br><br>1. Ampla gama de testes de personalidade:<br>Nosso aplicativo apresenta uma variedade de questionários e testes de personalidade baseados em estruturas psicológicas renomadas, como as teorias de Myers-Briggs e Carl Jung. Os usuários podem descobrir se são extrovertidos ou introvertidos, determinar seu tipo de personalidade entre os 16 perfis diferentes e explorar testes de temperamento aprofundados que investigam tendências e comportamentos pessoais.<br><br>2. Avaliações de saúde mental:<br>O bem-estar mental é crucial para uma vida equilibrada. Nosso aplicativo inclui testes psicológicos abrangentes que ajudam os usuários a avaliar sua inteligência emocional, verificar sinais de depressão com um específico &quot;Estou deprimido?&quot; testar e avaliar possíveis sintomas de TDAH. Esses testes são ferramentas essenciais para quem reflete sobre sua saúde mental e busca formas de melhorá-la.<br><br>3. Orientação de carreira:<br>Escolher a carreira certa pode ser uma decisão de mudança de vida. Nossos testes de carreira oferecem aconselhamento personalizado com base em suas avaliações de personalidade, ajudando você a encontrar planos de carreira que se alinhem com seus pontos fortes e interesses inatos. Esse recurso é particularmente benéfico para usuários que buscam alinhar sua vida profissional com suas características pessoais.<br><br>4. Insights de relacionamento:<br>Compreender a dinâmica das relações pessoais pode levar a interações mais saudáveis. Nosso aplicativo oferece testes que identificam tendências de manipulação, reconhecem sinais de um parceiro abusivo e exploram as linguagens do amor. Este segmento é crucial para desenvolver relacionamentos saudáveis ​​e reconhecer padrões prejudiciais.<br><br>5. Avaliação da Procrastinação e da Síndrome do Impostor:<br>Descubra como a procrastinação afeta sua produtividade e descubra sentimentos de síndrome do impostor que podem estar minando sua confiança. Nossas ferramentas são projetadas para ajudar os usuários a gerenciar esses problemas comuns de maneira eficaz, promovendo um estilo de vida mais saudável e produtivo.<br><br>6. Formatos de teste interativos e envolventes:<br>Garantimos que os testes psicológicos não sejam apenas informativos, mas também envolventes. O aplicativo apresenta uma variedade de formatos de teste que tornam o processo de descoberta agradável e interativo, garantindo que os usuários não apenas aprendam sobre si mesmos, mas também se divirtam com o processo.<br><br>7. Acompanhamento histórico e análise de progresso:<br>Com nosso recurso de histórico, os usuários podem acompanhar seu progresso ao longo do tempo, revisitar testes concluídos e continuar avaliações inacabadas. Esta funcionalidade é inestimável para aqueles comprometidos com o autoaperfeiçoamento a longo prazo e o desenvolvimento pessoal contínuo.<br><br>8. Projetado para adolescentes e adultos:<br>Nossos testes psicológicos são adaptados para adolescentes e adultos, oferecendo conteúdo envolvente e informativo. Quer você seja um adolescente explorando sua identidade ou um adulto reavaliando suas escolhas de vida, nosso aplicativo fornece informações valiosas que são relevantes para o seu estágio de vida.<br><br>Nossa ferramenta abrangente de avaliação de personalidade e saúde mental é mais do que apenas um aplicativo; é um companheiro em sua jornada para a autodescoberta e a melhoria da saúde mental. Ao integrar extensas pesquisas psicológicas em testes fáceis de usar, oferecemos uma plataforma que ajuda você a se conhecer melhor, a encontrar seu verdadeiro potencial e a refletir sobre sua vida pessoal e profissional. Junte-se a milhares de usuários que transformaram suas vidas com nossas avaliações criteriosas.",
+      "summary": "Descubra sua psique com testes de personalidade e testes de saúde mental",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 249068,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.lovelyappie.selfexplore",
+      "url": "https://play.google.com/store/apps/details?id=com.lovelyappie.selfexplore&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Teste de QI:teste inteligência",
+      "description": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "descriptionHTML": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "summary": "Quão inteligente você é? Descubra sua inteligência (QI) agora!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 127952,
+      "score": 3.9756098,
+      "scoreText": "4,0",
+      "ratings": 878,
+      "reviews": 19,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.Ziddy.IQTest",
+      "url": "https://play.google.com/store/apps/details?id=com.Ziddy.IQTest&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Teste de QI - Neuro Quest",
+      "description": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟\n\nDescubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.\n\n✨ O que oferecemos:\n\nTeste de QI certificado para todas as idades e níveis de habilidade.\nPerguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.\nResultados detalhados e análise personalizada do seu desempenho.\nComparação com outros usuários para ver como você se destaca!\n🚀 Por que escolher nosso aplicativo:\n\nDesenvolvimento científico com base em métodos reconhecidos internacionalmente.\nInterface intuitiva e amigável para uma experiência de usuário imersiva.\nTestes rápidos que se encaixam perfeitamente na sua rotina diária.\nDesbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.\n\n📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "descriptionHTML": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟<br><br>Descubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.<br><br>✨ O que oferecemos:<br><br>Teste de QI certificado para todas as idades e níveis de habilidade.<br>Perguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.<br>Resultados detalhados e análise personalizada do seu desempenho.<br>Comparação com outros usuários para ver como você se destaca!<br>🚀 Por que escolher nosso aplicativo:<br><br>Desenvolvimento científico com base em métodos reconhecidos internacionalmente.<br>Interface intuitiva e amigável para uma experiência de usuário imersiva.<br>Testes rápidos que se encaixam perfeitamente na sua rotina diária.<br>Desbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.<br><br>📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "summary": "Descubra seu QI com nosso super app! Testes desafiadores e resultados precisos.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5027,
+      "score": 3.9433963,
+      "scoreText": "3,9",
+      "ratings": 53,
+      "reviews": 45,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.qi.neuroquest",
+      "url": "https://play.google.com/store/apps/details?id=com.qi.neuroquest&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "O Teste Psicológico de Lüscher",
+      "description": "Realize um teste psicológico gratuito, rápido e preciso com o renomado Teste Psicológico de Lüscher. Em poucos minutos, este teste psicológico ajuda a identificar ansiedades, tensões e até características fisiológicas, com base na escolha das cores. O resultado revela aspectos emocionais e físicos, permitindo uma análise profunda dos seus estados psicofisiológicos.\n\nIdeal para quem busca testes de personalidade rápidos, nossa ferramenta é inclusiva, funcionando bem até para usuários com daltonismo. Obtenha interpretações detalhadas e exporte seus resultados em PDF para análise posterior.\n\nBaixe agora o teste gratuito e conheça melhor a sua personalidade de maneira simples e eficaz!",
+      "descriptionHTML": "Realize um teste psicológico gratuito, rápido e preciso com o renomado Teste Psicológico de Lüscher. Em poucos minutos, este teste psicológico ajuda a identificar ansiedades, tensões e até características fisiológicas, com base na escolha das cores. O resultado revela aspectos emocionais e físicos, permitindo uma análise profunda dos seus estados psicofisiológicos.<br><br>Ideal para quem busca testes de personalidade rápidos, nossa ferramenta é inclusiva, funcionando bem até para usuários com daltonismo. Obtenha interpretações detalhadas e exporte seus resultados em PDF para análise posterior.<br><br>Baixe agora o teste gratuito e conheça melhor a sua personalidade de maneira simples e eficaz!",
+      "summary": "Teste de Personalidade Psicológico Gratuito e Rápido - Descubra Mais Sobre Si",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 113299,
+      "score": 4.67,
+      "scoreText": "4,7",
+      "ratings": 735,
+      "reviews": 195,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.teste.cores",
+      "url": "https://play.google.com/store/apps/details?id=com.teste.cores&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Teste Cerebral",
+      "description": "Teste de QI - Jogos de Treinamento Cerebral. 14 jogos cerebrais, teste de personalidade EQ &.\n\nDescubra seu QI em 15 minutos, treine a memória e o foco com 14 minijogos inspirados na ciência, faça avaliações de EQ e personalidade e suba no ranking global — todos os exercícios cognitivos em um aplicativo moderno e premium.\n\n[TESTE DE QI]\n- 30 perguntas não verbais, cronômetro de 15 minutos\n- Banco de 82 geradores — cada teste é único, sem necessidade de memorização\n- Escala de QI de 55 a 160 com classificação escolar e percentil ajustado por idade\n- Raciocínio de padrões, sequências, rotações, lógica, espacial e visual\n- Compartilhe seu resultado com amigos\n\n[14 JOGOS CEREBRAIS — 7 DOMÍNIOS COGNITIVOS]\n\nMemória: Jogo de Cartas, Jogo da Memória Numérica, Dual N-Back (adaptativo N=1-9)\nVelocidade: Speed ​​Tap, Tempo de Reação (Deary 2001), Number Rush\nLógica & Matemática: Matriz de Padrões, Matemática Rápida, Cálculo em Cadeia\nAtenção: Palavra Colorida (Stroop), Busca Visual (Treisman 1980), Trilhas\nLinguagem & Espacial: Palavras Embaralhadas, Rotação de Formas\n\nDificuldade adaptativa — 3 acertos seguidos te fazem subir de nível, 2 erros te fazem descer. Sempre desafiador, nunca frustrante.\n\n[8 JOGOS CLÁSSICOS DE ARCADE — INTEGRADOS]\nBrick Breaker (multibola + giro), Snake, Pong (IA derrotável), Block Puzzle, Space Shooter (ondas de chefões), Minesweeper (5 níveis), 2048, Flappy Bird.\n\nTodo o progresso é salvo. Sem anúncios entre os jogos.\n\n[TESTE DE QE & PERSONALIDADE]\nTeste de QE — Os 5 pilares de Goleman, 25 perguntas: autoconhecimento, autorregulação, motivação, empatia, habilidades sociais.\n\n16 Tipos de Personalidade — As 4 dimensões de Jung (E/I, S/N, T/F, J/P), 20 perguntas.\n\n[DESAFIO DIÁRIO & SEQUÊNCIAS]\n- 5 jogos diários (3 no Modo Sênior), mesmo desafio no mundo todo\n- Marcos de sequência de 7, 30 e 100 dias\n- Lembrete matinal opcional\n\n[RANKING GLOBAL]\n- Placares de líderes de QI de todos os tempos e semanais\n- Composto — QI (40%) + 14 jogos de raciocínio (60%), desbloqueado após 7 jogos de raciocínio\n- Top 50 com bandeiras dos países, classificação pessoal sempre visível\n\n[MODO SÊNIOR]\nTexto 1,3x maior, limites de tempo 2x, feedback encorajador. Dificuldade limitada ao Nível 3 para um ritmo mais tranquilo. Base de pesquisa: estudo ACTIVE (NIH).\n\n[POR QUE TESTE DE QI - JOGOS DE TREINAMENTO CEREBRAL]\n- Mais de 25 exercícios cognitivos em um aplicativo premium\n- Design moderno e editorial com um impressionante modo escuro\n- Funciona offline para todos os jogos de treinamento\n- Mais de 60 idiomas, otimizado para celulares e tablets\n- Privacidade em primeiro lugar — dados locais por padrão, classificação opcional\n\nAviso: Apenas para entretenimento e exercício cognitivo geral. Não se trata de uma avaliação clínica de QI. As pontuações de QI são estimativas teóricas e não equivalem a testes administrados por profissionais.",
+      "descriptionHTML": "Teste de QI - Jogos de Treinamento Cerebral. 14 jogos cerebrais, teste de personalidade EQ &amp;.<br><br>Descubra seu QI em 15 minutos, treine a memória e o foco com 14 minijogos inspirados na ciência, faça avaliações de EQ e personalidade e suba no ranking global — todos os exercícios cognitivos em um aplicativo moderno e premium.<br><br>[TESTE DE QI]<br>- 30 perguntas não verbais, cronômetro de 15 minutos<br>- Banco de 82 geradores — cada teste é único, sem necessidade de memorização<br>- Escala de QI de 55 a 160 com classificação escolar e percentil ajustado por idade<br>- Raciocínio de padrões, sequências, rotações, lógica, espacial e visual<br>- Compartilhe seu resultado com amigos<br><br>[14 JOGOS CEREBRAIS — 7 DOMÍNIOS COGNITIVOS]<br><br>Memória: Jogo de Cartas, Jogo da Memória Numérica, Dual N-Back (adaptativo N=1-9)<br>Velocidade: Speed ​​Tap, Tempo de Reação (Deary 2001), Number Rush<br>Lógica &amp; Matemática: Matriz de Padrões, Matemática Rápida, Cálculo em Cadeia<br>Atenção: Palavra Colorida (Stroop), Busca Visual (Treisman 1980), Trilhas<br>Linguagem &amp; Espacial: Palavras Embaralhadas, Rotação de Formas<br><br>Dificuldade adaptativa — 3 acertos seguidos te fazem subir de nível, 2 erros te fazem descer. Sempre desafiador, nunca frustrante.<br><br>[8 JOGOS CLÁSSICOS DE ARCADE — INTEGRADOS]<br>Brick Breaker (multibola + giro), Snake, Pong (IA derrotável), Block Puzzle, Space Shooter (ondas de chefões), Minesweeper (5 níveis), 2048, Flappy Bird.<br><br>Todo o progresso é salvo. Sem anúncios entre os jogos.<br><br>[TESTE DE QE &amp; PERSONALIDADE]<br>Teste de QE — Os 5 pilares de Goleman, 25 perguntas: autoconhecimento, autorregulação, motivação, empatia, habilidades sociais.<br><br>16 Tipos de Personalidade — As 4 dimensões de Jung (E/I, S/N, T/F, J/P), 20 perguntas.<br><br>[DESAFIO DIÁRIO &amp; SEQUÊNCIAS]<br>- 5 jogos diários (3 no Modo Sênior), mesmo desafio no mundo todo<br>- Marcos de sequência de 7, 30 e 100 dias<br>- Lembrete matinal opcional<br><br>[RANKING GLOBAL]<br>- Placares de líderes de QI de todos os tempos e semanais<br>- Composto — QI (40%) + 14 jogos de raciocínio (60%), desbloqueado após 7 jogos de raciocínio<br>- Top 50 com bandeiras dos países, classificação pessoal sempre visível<br><br>[MODO SÊNIOR]<br>Texto 1,3x maior, limites de tempo 2x, feedback encorajador. Dificuldade limitada ao Nível 3 para um ritmo mais tranquilo. Base de pesquisa: estudo ACTIVE (NIH).<br><br>[POR QUE TESTE DE QI - JOGOS DE TREINAMENTO CEREBRAL]<br>- Mais de 25 exercícios cognitivos em um aplicativo premium<br>- Design moderno e editorial com um impressionante modo escuro<br>- Funciona offline para todos os jogos de treinamento<br>- Mais de 60 idiomas, otimizado para celulares e tablets<br>- Privacidade em primeiro lugar — dados locais por padrão, classificação opcional<br><br>Aviso: Apenas para entretenimento e exercício cognitivo geral. Não se trata de uma avaliação clínica de QI. As pontuações de QI são estimativas teóricas e não equivalem a testes administrados por profissionais.",
+      "summary": "Teste de QI + 14 jogos cerebrais + teste de personalidade EQ &amp;",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8643,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.smartwho.smartbrain",
+      "url": "https://play.google.com/store/apps/details?id=com.smartwho.smartbrain&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Psychological Tests 1",
+      "description": "Testes Psicológicos 1 é a primeira parte de uma coleção de testes cognitivos disponíveis em globalmindtests.com.\n\nO aplicativo concentra-se em medir a velocidade de reação, a atenção, a coordenação e o desempenho sob pressão, utilizando tarefas simples e bem definidas.\n\nTestes incluídos:\n\nTeste de Tempo de Reação – pressione o mais rápido possível quando um estímulo visual aparecer.\n\nTeste de Reação a Cores e Sons – responda a sinais visuais e auditivos sob pressão de tempo.\n\nTeste de Piorkowski – uma tarefa clássica de atenção baseada em varredura visual e concentração.\n\nTeste da Cruz – uma tarefa de coordenação olho-mão que mede a precisão e o controle da resposta.\n\nCada teste fornece resultados claros com base na precisão e no tempo de reação.\n\nMais testes cognitivos e versões estendidas estão disponíveis em globalmindtests.com.\n\nEste aplicativo destina-se apenas a fins de autoconhecimento e treinamento e não fornece diagnóstico médico ou clínico.",
+      "descriptionHTML": "Testes Psicológicos 1 é a primeira parte de uma coleção de testes cognitivos disponíveis em globalmindtests.com.<br><br>O aplicativo concentra-se em medir a velocidade de reação, a atenção, a coordenação e o desempenho sob pressão, utilizando tarefas simples e bem definidas.<br><br>Testes incluídos:<br><br>Teste de Tempo de Reação – pressione o mais rápido possível quando um estímulo visual aparecer.<br><br>Teste de Reação a Cores e Sons – responda a sinais visuais e auditivos sob pressão de tempo.<br><br>Teste de Piorkowski – uma tarefa clássica de atenção baseada em varredura visual e concentração.<br><br>Teste da Cruz – uma tarefa de coordenação olho-mão que mede a precisão e o controle da resposta.<br><br>Cada teste fornece resultados claros com base na precisão e no tempo de reação.<br><br>Mais testes cognitivos e versões estendidas estão disponíveis em globalmindtests.com.<br><br>Este aplicativo destina-se apenas a fins de autoconhecimento e treinamento e não fornece diagnóstico médico ou clínico.",
+      "summary": "Testes de tempo de reação, atenção e coordenação",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2202,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Arcade",
+      "genreId": "GAME_ARCADE",
+      "categories": [
+        {
+          "name": "Arcade",
+          "id": "GAME_ARCADE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.strusinskitests.pl",
+      "url": "https://play.google.com/store/apps/details?id=com.strusinskitests.pl&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Psychological Tests: Who Am I?",
+      "description": "O aplicativo Quem Sou Eu? oferece testes psicológicos para autoconhecimento. Explore sua personalidade, estado emocional e relacionamentos com questionários baseados em métodos psicológicos consagrados. Escolha um tema, responda às perguntas e receba seus resultados com explicações e recomendações.\n\nO aplicativo inclui mais de 25 avaliações psicológicas reconhecidas em uma variedade de tópicos, e adicionamos novos testes regularmente.\n\n🧠 Emoções, depressão e ansiedade\nEntenda seu humor e seus sentimentos. Um teste de depressão ajuda você a analisar melhor seu bem-estar, enquanto um teste de ansiedade explora preocupações e tensões internas. Explore seu estado emocional, tendências à agressividade e reações a situações difíceis. Um teste de inteligência emocional ajuda você a avaliar como reconhece e gerencia suas próprias emoções e as dos outros.\n\n🪞 Caráter, personalidade e autoestima\nSaiba mais sobre seus pontos fortes, hábitos e prioridades pessoais. Um teste de autoestima ajuda você a explorar como se vê e o quanto confia em suas habilidades. Testes de perfeccionismo e impulsividade revelam como a busca pela perfeição e a tomada de decisões rápidas se manifestam em suas respostas. Explore a tomada de riscos, a cautela e o locus de controle — o quanto você atribui os eventos da sua vida às suas próprias ações ou a circunstâncias externas.\n\n🔎 Atenção e TDAH\nUm teste de TDAH ajuda você a avaliar sinais de desatenção, hiperatividade e impulsividade e a entender melhor como eles podem se manifestar no dia a dia.\n\n💬 Comunicação, empatia e conflito\nEntenda melhor como você interage com os outros. Um teste de empatia explora sua sensibilidade aos sentimentos alheios, enquanto um teste de assertividade analisa como você expressa suas opiniões e defende seus limites pessoais. Avalie suas habilidades de comunicação, sua tendência a ceder e sua abordagem a conflitos: como você reage a desacordos e encontra pontos em comum.\n\n❤️ Relacionamentos, ciúme e família\nReflita sobre como você se sente em relação ao seu parceiro(a). Testes psicológicos de relacionamento abrangem a comunicação entre parceiros, o ciúme e a satisfação conjugal. Veja situações familiares sob uma perspectiva diferente e descubra tópicos que vocês gostariam de discutir juntos.\n\n🎯 Interesses e motivação profissional\nExplore seus interesses profissionais e o que te impulsiona. Um teste de interesses de carreira ajuda você a considerar suas opções profissionais, enquanto um teste de motivação para conquistas explora sua abordagem em relação a metas e sucesso. Avalie sua independência e habilidades de organização para entender melhor como você trabalha.\n\nComece com um tópico que seja importante para você agora. Faça testes de personalidade em inglês e descubra mais sobre si mesmo a cada resultado.\n\n💡 Recomendações personalizadas\nApós concluir um teste, você recebe sugestões personalizadas de quais testes fazer em seguida. O aplicativo usa seus resultados e perfil demográfico para recomendar tópicos para uma autodescoberta mais profunda.\n\n✨ Resultados com análise por IA\nObtenha explicações claras dos seus resultados e explore o significado das suas respostas. A análise opcional por IA ajuda você a identificar conexões entre suas respostas, entender melhor suas reações e receber recomendações personalizadas para o seu crescimento pessoal.\n\n🔒 Privacidade sem cadastro\nFaça testes psicológicos sem contas ou senhas. Você decide se deseja preencher o questionário introdutório para receber sugestões personalizadas e pode editar ou excluir suas respostas. Abra o aplicativo, escolha um teste e concentre-se em si mesmo.\n\n🔒 Privacidade sem cadastro ⚠️ Importante\nEste aplicativo tem fins informativos e educacionais. Não é um dispositivo médico e não se destina a diagnosticar, tratar ou prevenir doenças. Os testes psicológicos são questionários simplificados de autoavaliação, não exames clínicos. Consulte um profissional de saúde para obter aconselhamento médico, diagnóstico e tratamento. A análise gerada por IA pode conter erros e não substitui o aconselhamento profissional.",
+      "descriptionHTML": "O aplicativo Quem Sou Eu? oferece testes psicológicos para autoconhecimento. Explore sua personalidade, estado emocional e relacionamentos com questionários baseados em métodos psicológicos consagrados. Escolha um tema, responda às perguntas e receba seus resultados com explicações e recomendações.<br><br>O aplicativo inclui mais de 25 avaliações psicológicas reconhecidas em uma variedade de tópicos, e adicionamos novos testes regularmente.<br><br>🧠 Emoções, depressão e ansiedade<br>Entenda seu humor e seus sentimentos. Um teste de depressão ajuda você a analisar melhor seu bem-estar, enquanto um teste de ansiedade explora preocupações e tensões internas. Explore seu estado emocional, tendências à agressividade e reações a situações difíceis. Um teste de inteligência emocional ajuda você a avaliar como reconhece e gerencia suas próprias emoções e as dos outros.<br><br>🪞 Caráter, personalidade e autoestima<br>Saiba mais sobre seus pontos fortes, hábitos e prioridades pessoais. Um teste de autoestima ajuda você a explorar como se vê e o quanto confia em suas habilidades. Testes de perfeccionismo e impulsividade revelam como a busca pela perfeição e a tomada de decisões rápidas se manifestam em suas respostas. Explore a tomada de riscos, a cautela e o locus de controle — o quanto você atribui os eventos da sua vida às suas próprias ações ou a circunstâncias externas.<br><br>🔎 Atenção e TDAH<br>Um teste de TDAH ajuda você a avaliar sinais de desatenção, hiperatividade e impulsividade e a entender melhor como eles podem se manifestar no dia a dia.<br><br>💬 Comunicação, empatia e conflito<br>Entenda melhor como você interage com os outros. Um teste de empatia explora sua sensibilidade aos sentimentos alheios, enquanto um teste de assertividade analisa como você expressa suas opiniões e defende seus limites pessoais. Avalie suas habilidades de comunicação, sua tendência a ceder e sua abordagem a conflitos: como você reage a desacordos e encontra pontos em comum.<br><br>❤️ Relacionamentos, ciúme e família<br>Reflita sobre como você se sente em relação ao seu parceiro(a). Testes psicológicos de relacionamento abrangem a comunicação entre parceiros, o ciúme e a satisfação conjugal. Veja situações familiares sob uma perspectiva diferente e descubra tópicos que vocês gostariam de discutir juntos.<br><br>🎯 Interesses e motivação profissional<br>Explore seus interesses profissionais e o que te impulsiona. Um teste de interesses de carreira ajuda você a considerar suas opções profissionais, enquanto um teste de motivação para conquistas explora sua abordagem em relação a metas e sucesso. Avalie sua independência e habilidades de organização para entender melhor como você trabalha.<br><br>Comece com um tópico que seja importante para você agora. Faça testes de personalidade em inglês e descubra mais sobre si mesmo a cada resultado.<br><br>💡 Recomendações personalizadas<br>Após concluir um teste, você recebe sugestões personalizadas de quais testes fazer em seguida. O aplicativo usa seus resultados e perfil demográfico para recomendar tópicos para uma autodescoberta mais profunda.<br><br>✨ Resultados com análise por IA<br>Obtenha explicações claras dos seus resultados e explore o significado das suas respostas. A análise opcional por IA ajuda você a identificar conexões entre suas respostas, entender melhor suas reações e receber recomendações personalizadas para o seu crescimento pessoal.<br><br>🔒 Privacidade sem cadastro<br>Faça testes psicológicos sem contas ou senhas. Você decide se deseja preencher o questionário introdutório para receber sugestões personalizadas e pode editar ou excluir suas respostas. Abra o aplicativo, escolha um teste e concentre-se em si mesmo.<br><br>🔒 Privacidade sem cadastro ⚠️ Importante<br>Este aplicativo tem fins informativos e educacionais. Não é um dispositivo médico e não se destina a diagnosticar, tratar ou prevenir doenças. Os testes psicológicos são questionários simplificados de autoavaliação, não exames clínicos. Consulte um profissional de saúde para obter aconselhamento médico, diagnóstico e tratamento. A análise gerada por IA pode conter erros e não substitui o aconselhamento profissional.",
+      "summary": "Testes psicológicos: personalidade, TDAH, depressão, autoestima, relacionamentos",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 635,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.softunity.whoami.app",
+      "url": "https://play.google.com/store/apps/details?id=com.softunity.whoami.app&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Brainova: IQ Test & Logic Game",
+      "description": "Treine sua mente, melhore seu foco e concentração e desbloqueie todo o seu potencial com Brainova: Teste de QI e Jogo de Lógica — seu companheiro personalizado de fitness mental para jogos de cérebro e quebra-cabeças lógicos.\n\nSe você deseja aumentar a concentração, melhorar a memória, aprimorar a lógica e o raciocínio, ou simplesmente se manter mentalmente ativo, o Brainova oferece uma ampla variedade de jogos mentais inteligentes e quebra-cabeças lógicos inspirados cientificamente, projetados para desafiar e desenvolver sua mente.\n\nSeu cérebro é capaz de se adaptar e formar novos caminhos neurais em qualquer idade. Nossa plataforma ajuda você a aproveitar esse poder por meio de:\n• Jogos mentais: exercícios consistentes e direcionados que geram resultados reais ao longo do tempo.\n• Melhorar a memória: técnicas comprovadas para fortalecer a lembrança e retenção.\n• Foco: módulos de treinamento desenvolvidos para aumentar sua concentração e atenção mental\n\nExplore treinos cognitivos projetados especificamente para memória, atenção, resolução de problemas e agilidade mental. Nossas sessões rápidas se encaixam facilmente em qualquer rotina, tornando o treinamento diário simples, eficaz e divertido. Quer relaxar? Experimente nossos jogos mentais relaxantes para reduzir o estresse e restaurar a clareza mental.\n\nPrincipais recursos:\n• Jogos inteligentes para melhorar memória, foco, lógica e velocidade\n• Exercícios relaxantes para ajudar você a manter a calma e o equilíbrio\n• Planos de treinamento personalizados de acordo com seus objetivos\n• Testes de personalidade e cognitivos detalhados\n• Acompanhamento de progresso para manter a motivação\n• Adequado para todas as idades e níveis de habilidade\n\nAprofunde-se no seu psicológico com avaliações de personalidade e jogos de QI. Ao incorporar avaliações especializadas como o Teste de TDAH, um Teste de QI abrangente e vários módulos de teste cerebral — juntamente com desafios mentais estimulantes e quebra-cabeças lógicos complexos — essas ferramentas de autodescoberta ajudam você a entender melhor seus pontos fortes e identificar áreas de crescimento.\n\nSe você já teve dificuldade para manter o foco, lembrar detalhes importantes ou pensar com clareza sob pressão — Brainova está aqui para ajudar. É mais do que um aplicativo de jogos mentais — é uma ferramenta para crescimento mental e produtividade ao longo da vida.",
+      "descriptionHTML": "Treine sua mente, melhore seu foco e concentração e desbloqueie todo o seu potencial com Brainova: Teste de QI e Jogo de Lógica — seu companheiro personalizado de fitness mental para jogos de cérebro e quebra-cabeças lógicos.<br><br>Se você deseja aumentar a concentração, melhorar a memória, aprimorar a lógica e o raciocínio, ou simplesmente se manter mentalmente ativo, o Brainova oferece uma ampla variedade de jogos mentais inteligentes e quebra-cabeças lógicos inspirados cientificamente, projetados para desafiar e desenvolver sua mente.<br><br>Seu cérebro é capaz de se adaptar e formar novos caminhos neurais em qualquer idade. Nossa plataforma ajuda você a aproveitar esse poder por meio de:<br>• Jogos mentais: exercícios consistentes e direcionados que geram resultados reais ao longo do tempo.<br>• Melhorar a memória: técnicas comprovadas para fortalecer a lembrança e retenção.<br>• Foco: módulos de treinamento desenvolvidos para aumentar sua concentração e atenção mental<br><br>Explore treinos cognitivos projetados especificamente para memória, atenção, resolução de problemas e agilidade mental. Nossas sessões rápidas se encaixam facilmente em qualquer rotina, tornando o treinamento diário simples, eficaz e divertido. Quer relaxar? Experimente nossos jogos mentais relaxantes para reduzir o estresse e restaurar a clareza mental.<br><br>Principais recursos:<br>• Jogos inteligentes para melhorar memória, foco, lógica e velocidade<br>• Exercícios relaxantes para ajudar você a manter a calma e o equilíbrio<br>• Planos de treinamento personalizados de acordo com seus objetivos<br>• Testes de personalidade e cognitivos detalhados<br>• Acompanhamento de progresso para manter a motivação<br>• Adequado para todas as idades e níveis de habilidade<br><br>Aprofunde-se no seu psicológico com avaliações de personalidade e jogos de QI. Ao incorporar avaliações especializadas como o Teste de TDAH, um Teste de QI abrangente e vários módulos de teste cerebral — juntamente com desafios mentais estimulantes e quebra-cabeças lógicos complexos — essas ferramentas de autodescoberta ajudam você a entender melhor seus pontos fortes e identificar áreas de crescimento.<br><br>Se você já teve dificuldade para manter o foco, lembrar detalhes importantes ou pensar com clareza sob pressão — Brainova está aqui para ajudar. É mais do que um aplicativo de jogos mentais — é uma ferramenta para crescimento mental e produtividade ao longo da vida.",
+      "summary": "Teste seu QI e treine sua mente diariamente com jogos de lógica personalizados.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2392857,
+      "score": 4.844985,
+      "scoreText": "4,8",
+      "ratings": 23880,
+      "reviews": 326,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.fc.app.iq.brain.training.mind.games.logic.test.puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.fc.app.iq.brain.training.mind.games.logic.test.puzzle&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Impulse - Jogos para o cérebro",
+      "description": "Treine seu cérebro. Descubra-se. Torne-se mais afiado.\nO Impulse é mais do que um app de treinamento cerebral — é um kit completo para entender como sua mente funciona e desenvolvê-la em sua versão mais forte.\n\nDificuldade em manter o foco? Esquece as coisas facilmente? Sente que seu cérebro pode fazer mais? É aí que o Impulse entra.\n\nTREINE O QUE SEU CÉREBRO MAIS PRECISA\nO Impulse cria um plano de treinamento diário personalizado voltado para as áreas cerebrais que você mais precisa:\n- Memória e velocidade de processamento\n- Atenção e foco\n- Cálculo mental\n- Resolução de problemas\nNossos jogos inspirados na ciência são desafiadores o suficiente para manter seu progresso e simples o suficiente para serem aproveitados todos os dias — em qualquer idade ou nível de habilidade.\n\nDESCUBRA SEU PERFIL COGNITIVO\nAprofunde-se com uma biblioteca de testes de autoconhecimento que revelam como sua mente realmente funciona:\n- Testes de QI e pontos fortes cognitivos\n- Tipo de personalidade e insights sobre arquétipos\n- Testes de inteligência emocional e autoconsciência\nCada teste vem com recomendações personalizadas para que você saiba exatamente em quais áreas se concentrar e como crescer.\n\nACOMPANHE SEU CRESCIMENTO\n- Veja as tendências do seu desempenho ao longo do tempo\n- Obtenha insights acionáveis — não apenas pontuações\n- Mantenha-se motivado com sequências e relatórios de progresso\n\nPOR QUE O IMPULSE\nA maioria dos apps cerebrais só te oferece jogos. O Impulse também te dá uma compreensão mais profunda de você mesmo.\nTreine de forma mais inteligente e mantenha-se afiado para a vida toda.\nJunte-se a 100 milhões de pessoas em todo o mundo que tornaram o Impulse parte de sua rotina diária.\n\nO Impulse oferece um teste gratuito de 3 dias com acesso completo a todos os jogos - sem anúncios, sem interrupções. Se você optar pela assinatura, a taxa será exibida no app antes de concluir o pagamento. O pagamento será cobrado em sua conta do Google na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual. Você pode gerenciar sua assinatura e desativar a renovação automática a qualquer momento nas Configurações da conta do Google.\n\nTermos de Serviço: https://brainimpulse.me/app/tos.html\nPolítica de Privacidade: https://brainimpulse.me/app/privacy_policy.html\nContato: support@brainimpulse.me",
+      "descriptionHTML": "Treine seu cérebro. Descubra-se. Torne-se mais afiado.<br>O Impulse é mais do que um app de treinamento cerebral — é um kit completo para entender como sua mente funciona e desenvolvê-la em sua versão mais forte.<br><br>Dificuldade em manter o foco? Esquece as coisas facilmente? Sente que seu cérebro pode fazer mais? É aí que o Impulse entra.<br><br>TREINE O QUE SEU CÉREBRO MAIS PRECISA<br>O Impulse cria um plano de treinamento diário personalizado voltado para as áreas cerebrais que você mais precisa:<br>- Memória e velocidade de processamento<br>- Atenção e foco<br>- Cálculo mental<br>- Resolução de problemas<br>Nossos jogos inspirados na ciência são desafiadores o suficiente para manter seu progresso e simples o suficiente para serem aproveitados todos os dias — em qualquer idade ou nível de habilidade.<br><br>DESCUBRA SEU PERFIL COGNITIVO<br>Aprofunde-se com uma biblioteca de testes de autoconhecimento que revelam como sua mente realmente funciona:<br>- Testes de QI e pontos fortes cognitivos<br>- Tipo de personalidade e insights sobre arquétipos<br>- Testes de inteligência emocional e autoconsciência<br>Cada teste vem com recomendações personalizadas para que você saiba exatamente em quais áreas se concentrar e como crescer.<br><br>ACOMPANHE SEU CRESCIMENTO<br>- Veja as tendências do seu desempenho ao longo do tempo<br>- Obtenha insights acionáveis — não apenas pontuações<br>- Mantenha-se motivado com sequências e relatórios de progresso<br><br>POR QUE O IMPULSE<br>A maioria dos apps cerebrais só te oferece jogos. O Impulse também te dá uma compreensão mais profunda de você mesmo.<br>Treine de forma mais inteligente e mantenha-se afiado para a vida toda.<br>Junte-se a 100 milhões de pessoas em todo o mundo que tornaram o Impulse parte de sua rotina diária.<br><br>O Impulse oferece um teste gratuito de 3 dias com acesso completo a todos os jogos - sem anúncios, sem interrupções. Se você optar pela assinatura, a taxa será exibida no app antes de concluir o pagamento. O pagamento será cobrado em sua conta do Google na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual. Você pode gerenciar sua assinatura e desativar a renovação automática a qualquer momento nas Configurações da conta do Google.<br><br>Termos de Serviço: https://brainimpulse.me/app/tos.html<br>Política de Privacidade: https://brainimpulse.me/app/privacy_policy.html<br>Contato: support@brainimpulse.me",
+      "summary": "Jogos de QI e Enigmas Mentais",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 25706056,
+      "score": 4.776436,
+      "scoreText": "4,8",
+      "ratings": 655530,
+      "reviews": 14215,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "gen.tech.impulse.android",
+      "url": "https://play.google.com/store/apps/details?id=gen.tech.impulse.android&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "IQ Test Score & Training",
+      "description": "Teste de QI e Treinamento Cerebral – Meça e Aprimore Sua Inteligência\nVocê quer saber seu QI e melhorar seu raciocínio lógico?\n\nBem-vindo ao Teste de QI e Treinamento Cerebral, o aplicativo definitivo para desafiar seu cérebro e impulsionar suas habilidades cognitivas.\n\n🎯 Descubra seu QI e treine seu cérebro\nFaça testes de QI inspirados em testes profissionais e desafie sua lógica, raciocínio e habilidades de resolução de problemas.\n\nAprimore seu desempenho com exercícios diários de treinamento cerebral.\n\n🧩 Questões reais no estilo de testes de QI\nResolva quebra-cabeças inspirados em testes de QI reais, incluindo padrões, sequências, grades lógicas e desafios de resolução de problemas.\n\nCada teste foi desenvolvido para avaliar sua capacidade de raciocínio e ajudá-lo a melhorar com o tempo.\n\n✨ O que você vai receber:\n🧠 Testes de QI precisos e sistema de pontuação\n📊 Resultados detalhados e acompanhamento do desempenho\n🎯 Exercícios de treinamento cerebral para melhorar seu QI\n🧩 Vários níveis, do iniciante ao avançado\n⚡ Testes rápidos e desafios diários\n🎮 Quebra-cabeças e jogos de lógica envolventes\n\n👥 Para quem é este aplicativo?\n\n• Estudantes se preparando para exames\n• Pessoas que adoram quebra-cabeças e jogos de lógica\n• Usuários que desejam testar seu QI\n• Qualquer pessoa que queira melhorar o desempenho cerebral\n\n🚀 Benefícios que você obterá:\n• Descubra sua pontuação de QI\n• Melhore o raciocínio lógico\n• Aprimore suas habilidades de resolução de problemas\n• Aumente a velocidade mental\n• Treine seu cérebro diariamente\n\n🔒 Experiência simples e intuitiva\n✔ Não requer cadastro\n✔ Leve e rápido\n✔ Fácil de usar\n\n🌟 Teste sua inteligência e melhore seu cérebro\nBaixe o Teste de QI e Treinamento agora e desafie sua mente todos os dias 🚀",
+      "descriptionHTML": "Teste de QI e Treinamento Cerebral – Meça e Aprimore Sua Inteligência<br>Você quer saber seu QI e melhorar seu raciocínio lógico?<br><br>Bem-vindo ao Teste de QI e Treinamento Cerebral, o aplicativo definitivo para desafiar seu cérebro e impulsionar suas habilidades cognitivas.<br><br>🎯 Descubra seu QI e treine seu cérebro<br>Faça testes de QI inspirados em testes profissionais e desafie sua lógica, raciocínio e habilidades de resolução de problemas.<br><br>Aprimore seu desempenho com exercícios diários de treinamento cerebral.<br><br>🧩 Questões reais no estilo de testes de QI<br>Resolva quebra-cabeças inspirados em testes de QI reais, incluindo padrões, sequências, grades lógicas e desafios de resolução de problemas.<br><br>Cada teste foi desenvolvido para avaliar sua capacidade de raciocínio e ajudá-lo a melhorar com o tempo.<br><br>✨ O que você vai receber:<br>🧠 Testes de QI precisos e sistema de pontuação<br>📊 Resultados detalhados e acompanhamento do desempenho<br>🎯 Exercícios de treinamento cerebral para melhorar seu QI<br>🧩 Vários níveis, do iniciante ao avançado<br>⚡ Testes rápidos e desafios diários<br>🎮 Quebra-cabeças e jogos de lógica envolventes<br><br>👥 Para quem é este aplicativo?<br><br>• Estudantes se preparando para exames<br>• Pessoas que adoram quebra-cabeças e jogos de lógica<br>• Usuários que desejam testar seu QI<br>• Qualquer pessoa que queira melhorar o desempenho cerebral<br><br>🚀 Benefícios que você obterá:<br>• Descubra sua pontuação de QI<br>• Melhore o raciocínio lógico<br>• Aprimore suas habilidades de resolução de problemas<br>• Aumente a velocidade mental<br>• Treine seu cérebro diariamente<br><br>🔒 Experiência simples e intuitiva<br>✔ Não requer cadastro<br>✔ Leve e rápido<br>✔ Fácil de usar<br><br>🌟 Teste sua inteligência e melhore seu cérebro<br>Baixe o Teste de QI e Treinamento agora e desafie sua mente todos os dias 🚀",
+      "summary": "Teste seu QI, aprimore seu raciocínio lógico e exercite seu cérebro com desafios diários.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2323,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iq.test.score.game",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.score.game&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Teste de Personalidade:16Tipos",
+      "description": "Queres finalmente perceber o que te torna... TU?\n\nO Teste de Personalidade: 16 Tipos é mais do que um simples teste. É uma forma divertida e perspicaz de descobrir o âmago de quem tu és. Baseado em abordagens psicológicas fundamentais, o nosso teste rápido ajuda-te a desvendar os teus traços únicos e revela a qual dos 16 tipos de personalidade centrais pertences.\n\nAlcança um conhecimento mais profundo de ti mesmo 🧠\n\nJá te perguntaste porque sentes energia depois de uma festa, enquanto um amigo precisa de ficar sozinho para recarregar? Ou porque preferes um plano detalhado, enquanto outros prosperam na espontaneidade? O nosso teste de personalidade foi concebido para responder a estas perguntas, explorando:\n\nComo obténs a tua energia: És Introvertido(a) ou Extrovertido(a)?\n\nComo vês o mundo: Focas-te em factos concretos ou em possibilidades futuras?\n\nComo tomas decisões: Baseias-te na lógica ou nos valores pessoais?\n\nComo vives a tua vida: Preferes estrutura ou flexibilidade?\n\nRápido, fácil e revelador ✨\n\nEsquece os questionários longos e complicados. O nosso teste de personalidade tem 20 perguntas rápidas que a maioria das pessoas termina em cerca de 3 minutos. Sem cronómetro, sem pressão. Apenas respostas honestas para te ajudar a começar a tua jornada de autoconhecimento.\n\nO que vais obter:\n\n✅ Análise Profunda: Vai além de um simples rótulo. Obtém uma análise aprofundada do teu tipo de personalidade, incluindo as tuas motivações centrais e a tua visão do mundo.\n\n🌟 Os Teus Superpoderes: Descobre os teus maiores pontos fortes e aprende a usá-los no teu dia a dia.\n\n🌱 Como Crescer: Recebe dicas personalizadas para o teu desenvolvimento pessoal, ajudando-te a compreender os teus pontos cegos e a libertar todo o teu potencial.\n\n💼 Onde Brilhas: Obtém insights sobre percursos de carreira e ambientes de trabalho onde o teu tipo de personalidade tem mais probabilidade de sucesso.\n\n❤️ Tu e os Outros: Compreende como o teu tipo de personalidade interage com os outros em relacionamentos, amizades e equipas.\n\nExplora todos os 16 Tipos de Personalidade:\n\nA nossa aplicação oferece descrições detalhadas para todos os 16 tipos. Mesmo depois de encontrares o teu, podes explorar os outros para compreenderes melhor os teus amigos, família e colegas. Os tipos em destaque incluem:\n\nO(A) Executor(a)\n\nO(A) Inspetor(a)\n\nO(A) Anfitrião(ã)\n\nO(A) Protetor(a)\n\nO(A) Dínamo\n\nO(A) Artesão(ã)\n\nO(A) Animador(a)\n\nO(A) Artista\n\nO(A) Comandante\n\nO(A) Estratega\n\nO(A) Inovador(a)\n\nO(A) Lógico(a)\n\nO(A) Mentor(a)\n\nO(A) Conselheiro(a)\n\nO(A) Ativista\n\nO(A) Idealista\n\nPorquê escolher a nossa aplicação?\n\nCriámos uma ferramenta simples, bonita e respeitosa para a autoexploração. Focamo-nos em fornecer insights positivos e práticos que podes usar para melhorar a tua vida, a tua carreira e os teus relacionamentos.\n\nEstás pronto(a) para descobrir os teus traços e alcançar um novo nível de autoconsciência?\n\nDescarrega o Teste de Personalidade: 16 Tipos hoje e começa a tua jornada!\n\nAviso Legal: Esta aplicação destina-se exclusivamente a fins educativos e de entretenimento. Não substitui o aconselhamento, diagnóstico ou tratamento psicológico profissional. A estrutura dos 16 tipos de personalidade é um modelo para a compreensão da personalidade e não está afiliada à marca registada MBTI®.",
+      "descriptionHTML": "Queres finalmente perceber o que te torna... TU?<br><br>O Teste de Personalidade: 16 Tipos é mais do que um simples teste. É uma forma divertida e perspicaz de descobrir o âmago de quem tu és. Baseado em abordagens psicológicas fundamentais, o nosso teste rápido ajuda-te a desvendar os teus traços únicos e revela a qual dos 16 tipos de personalidade centrais pertences.<br><br>Alcança um conhecimento mais profundo de ti mesmo 🧠<br><br>Já te perguntaste porque sentes energia depois de uma festa, enquanto um amigo precisa de ficar sozinho para recarregar? Ou porque preferes um plano detalhado, enquanto outros prosperam na espontaneidade? O nosso teste de personalidade foi concebido para responder a estas perguntas, explorando:<br><br>Como obténs a tua energia: És Introvertido(a) ou Extrovertido(a)?<br><br>Como vês o mundo: Focas-te em factos concretos ou em possibilidades futuras?<br><br>Como tomas decisões: Baseias-te na lógica ou nos valores pessoais?<br><br>Como vives a tua vida: Preferes estrutura ou flexibilidade?<br><br>Rápido, fácil e revelador ✨<br><br>Esquece os questionários longos e complicados. O nosso teste de personalidade tem 20 perguntas rápidas que a maioria das pessoas termina em cerca de 3 minutos. Sem cronómetro, sem pressão. Apenas respostas honestas para te ajudar a começar a tua jornada de autoconhecimento.<br><br>O que vais obter:<br><br>✅ Análise Profunda: Vai além de um simples rótulo. Obtém uma análise aprofundada do teu tipo de personalidade, incluindo as tuas motivações centrais e a tua visão do mundo.<br><br>🌟 Os Teus Superpoderes: Descobre os teus maiores pontos fortes e aprende a usá-los no teu dia a dia.<br><br>🌱 Como Crescer: Recebe dicas personalizadas para o teu desenvolvimento pessoal, ajudando-te a compreender os teus pontos cegos e a libertar todo o teu potencial.<br><br>💼 Onde Brilhas: Obtém insights sobre percursos de carreira e ambientes de trabalho onde o teu tipo de personalidade tem mais probabilidade de sucesso.<br><br>❤️ Tu e os Outros: Compreende como o teu tipo de personalidade interage com os outros em relacionamentos, amizades e equipas.<br><br>Explora todos os 16 Tipos de Personalidade:<br><br>A nossa aplicação oferece descrições detalhadas para todos os 16 tipos. Mesmo depois de encontrares o teu, podes explorar os outros para compreenderes melhor os teus amigos, família e colegas. Os tipos em destaque incluem:<br><br>O(A) Executor(a)<br><br>O(A) Inspetor(a)<br><br>O(A) Anfitrião(ã)<br><br>O(A) Protetor(a)<br><br>O(A) Dínamo<br><br>O(A) Artesão(ã)<br><br>O(A) Animador(a)<br><br>O(A) Artista<br><br>O(A) Comandante<br><br>O(A) Estratega<br><br>O(A) Inovador(a)<br><br>O(A) Lógico(a)<br><br>O(A) Mentor(a)<br><br>O(A) Conselheiro(a)<br><br>O(A) Ativista<br><br>O(A) Idealista<br><br>Porquê escolher a nossa aplicação?<br><br>Criámos uma ferramenta simples, bonita e respeitosa para a autoexploração. Focamo-nos em fornecer insights positivos e práticos que podes usar para melhorar a tua vida, a tua carreira e os teus relacionamentos.<br><br>Estás pronto(a) para descobrir os teus traços e alcançar um novo nível de autoconsciência?<br><br>Descarrega o Teste de Personalidade: 16 Tipos hoje e começa a tua jornada!<br><br>Aviso Legal: Esta aplicação destina-se exclusivamente a fins educativos e de entretenimento. Não substitui o aconselhamento, diagnóstico ou tratamento psicológico profissional. A estrutura dos 16 tipos de personalidade é um modelo para a compreensão da personalidade e não está afiliada à marca registada MBTI®.",
+      "summary": "Descobre quem és. Faz o nosso teste rápido e gratuito e encontra o teu tipo!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 18328,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.furkansoyler.personality_trait_test",
+      "url": "https://play.google.com/store/apps/details?id=com.furkansoyler.personality_trait_test&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Testes de Lógica: QI e Jogos",
+      "description": "Agilize sua lógica e desafie sua mente com muitos jogos e quebra-cabeças para o cérebro. Formatos clássicos de testes de QI, além de provas originais que você não vai encontrar em nenhum outro lugar. Cada teste é 100% visual e sem palavras, por isso é culturalmente neutro e pode ser jogado em qualquer idioma:\n\n★ Sequências de números, letras e alfanuméricas\n★ Dominós\n★ Formas, triângulos, quadrados e retângulos\n★ Matrizes de Raven e matrizes de padrões\n★ Encontrar o diferente e analogias\n★ Grades, equações e contagem de repetições\n★ Planificações de cubo e dobradura de papel\n★ Imagens espelhadas e rotações\n★ Cubos empilhados e raciocínio espacial\n★ Mecanismos de engrenagens e balanças\n★ Torre de Hanói\n★ Quebra-cabeças de montagem de objetos\n★ Bandeiras, cartas e rodas de números\n★ E muito mais, com novos jogos adicionados regularmente!\n\n🧠 Avaliação de QI\nCada teste tem 10 perguntas fixas: apenas sua primeira tentativa em cada teste conta para o cálculo do seu QI, e quanto mais testes você completar, mais precisa fica a estimativa. Descubra também seu perfil cognitivo detalhado (Números, Formas, Espacial, Lógica, Atenção) para saber onde você se destaca, e compartilhe com amigos. (Apenas para fins de entretenimento — não é uma avaliação clínica ou de diagnóstico.)\n\n📅 Desafio Diário\n5 novas perguntas por dia, iguais para todos os jogadores. Suba no ranking diário e no ranking móvel de 7 dias. Atenção: começar uma partida já conta como jogada naquele dia, mesmo que você a abandone antes do fim!\n\n🧩 Quebra-cabeças Diários\n8 quebra-cabeças diferentes, um novo por dia para cada um deles, igual para todos os jogadores, com sua própria sequência de dias:\n★ Neurônios — posicione neurônios que nunca se tocam\n★ Binário — preencha a grade com 1s e 0s, nunca 3 iguais seguidos\n★ Setas — descubra números escondidos pelas diferenças entre células\n★ Sudoku — de 1 a 6 em cada linha, coluna e bloco\n★ Caminho — trace um caminho que passa por todas as células em ordem\n★ Kakuro — complete cada soma sem repetir um dígito\n★ Arranha-céus — descubra as alturas pelo número de prédios visíveis\n★ Terrenos — divida a grade em retângulos de acordo com as marcações\n\n🏁 Modo Competição\nResponda ao maior número possível de perguntas seguidas! Elas são geradas aleatoriamente a cada vez, permitindo uma rejogabilidade ilimitada — mas um único erro encerra a partida. 10 pontos por resposta correta, mais até 10 pontos de bônus dependendo da sua velocidade.\n\n🤝 Modo Multijogador\nTreine sem pressão contra amigos ou adversários controlados por inteligência artificial — apenas um resultado no final, sem nenhum ranking envolvido. No modo ranqueado, enfrente jogadores reais do mundo todo em um formato diferente, com ranking mensal — tanto individual quanto por país!\n\n🏆 Classificações\nFaça login no Google Play Games para salvar suas pontuações e subir no ranking em todos os modos — diário, 7 dias, competição e multijogador.\n\nGrátis para jogar, com uma atualização opcional sem anúncios.\n\nPor que baixar este aplicativo? Ideal para o treinamento cerebral e quebra-cabeças mentais, mas também para se preparar para:\n✔ Processos seletivos (testes de raciocínio abstrato, diagramático, numérico e mecânico ao estilo Bennett)\n✔ Concursos e provas\n✔ Testes psicotécnicos (perguntas ao estilo WISC, WAIS e Cattell)\n✔ Testes de aptidão e admissão (incluindo perguntas ao estilo Mensa)\n✔ Enigmas, raciocínio lógico e reconhecimento de padrões\n✔ Exercícios de cálculo mental\n\nBaixe o aplicativo agora e descubra o quão afiada sua lógica realmente é!",
+      "descriptionHTML": "Agilize sua lógica e desafie sua mente com muitos jogos e quebra-cabeças para o cérebro. Formatos clássicos de testes de QI, além de provas originais que você não vai encontrar em nenhum outro lugar. Cada teste é 100% visual e sem palavras, por isso é culturalmente neutro e pode ser jogado em qualquer idioma:<br><br>★ Sequências de números, letras e alfanuméricas<br>★ Dominós<br>★ Formas, triângulos, quadrados e retângulos<br>★ Matrizes de Raven e matrizes de padrões<br>★ Encontrar o diferente e analogias<br>★ Grades, equações e contagem de repetições<br>★ Planificações de cubo e dobradura de papel<br>★ Imagens espelhadas e rotações<br>★ Cubos empilhados e raciocínio espacial<br>★ Mecanismos de engrenagens e balanças<br>★ Torre de Hanói<br>★ Quebra-cabeças de montagem de objetos<br>★ Bandeiras, cartas e rodas de números<br>★ E muito mais, com novos jogos adicionados regularmente!<br><br>🧠 Avaliação de QI<br>Cada teste tem 10 perguntas fixas: apenas sua primeira tentativa em cada teste conta para o cálculo do seu QI, e quanto mais testes você completar, mais precisa fica a estimativa. Descubra também seu perfil cognitivo detalhado (Números, Formas, Espacial, Lógica, Atenção) para saber onde você se destaca, e compartilhe com amigos. (Apenas para fins de entretenimento — não é uma avaliação clínica ou de diagnóstico.)<br><br>📅 Desafio Diário<br>5 novas perguntas por dia, iguais para todos os jogadores. Suba no ranking diário e no ranking móvel de 7 dias. Atenção: começar uma partida já conta como jogada naquele dia, mesmo que você a abandone antes do fim!<br><br>🧩 Quebra-cabeças Diários<br>8 quebra-cabeças diferentes, um novo por dia para cada um deles, igual para todos os jogadores, com sua própria sequência de dias:<br>★ Neurônios — posicione neurônios que nunca se tocam<br>★ Binário — preencha a grade com 1s e 0s, nunca 3 iguais seguidos<br>★ Setas — descubra números escondidos pelas diferenças entre células<br>★ Sudoku — de 1 a 6 em cada linha, coluna e bloco<br>★ Caminho — trace um caminho que passa por todas as células em ordem<br>★ Kakuro — complete cada soma sem repetir um dígito<br>★ Arranha-céus — descubra as alturas pelo número de prédios visíveis<br>★ Terrenos — divida a grade em retângulos de acordo com as marcações<br><br>🏁 Modo Competição<br>Responda ao maior número possível de perguntas seguidas! Elas são geradas aleatoriamente a cada vez, permitindo uma rejogabilidade ilimitada — mas um único erro encerra a partida. 10 pontos por resposta correta, mais até 10 pontos de bônus dependendo da sua velocidade.<br><br>🤝 Modo Multijogador<br>Treine sem pressão contra amigos ou adversários controlados por inteligência artificial — apenas um resultado no final, sem nenhum ranking envolvido. No modo ranqueado, enfrente jogadores reais do mundo todo em um formato diferente, com ranking mensal — tanto individual quanto por país!<br><br>🏆 Classificações<br>Faça login no Google Play Games para salvar suas pontuações e subir no ranking em todos os modos — diário, 7 dias, competição e multijogador.<br><br>Grátis para jogar, com uma atualização opcional sem anúncios.<br><br>Por que baixar este aplicativo? Ideal para o treinamento cerebral e quebra-cabeças mentais, mas também para se preparar para:<br>✔ Processos seletivos (testes de raciocínio abstrato, diagramático, numérico e mecânico ao estilo Bennett)<br>✔ Concursos e provas<br>✔ Testes psicotécnicos (perguntas ao estilo WISC, WAIS e Cattell)<br>✔ Testes de aptidão e admissão (incluindo perguntas ao estilo Mensa)<br>✔ Enigmas, raciocínio lógico e reconhecimento de padrões<br>✔ Exercícios de cálculo mental<br><br>Baixe o aplicativo agora e descubra o quão afiada sua lógica realmente é!",
+      "summary": "Testes de lógica, QI e novos quebra-cabeças diários. Ranking mundial!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 11558795,
+      "score": 4.35,
+      "scoreText": "4,3",
+      "ratings": 69620,
+      "reviews": 3249,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "fr.testsintelligence",
+      "url": "https://play.google.com/store/apps/details?id=fr.testsintelligence&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Reflex: treinamento cerebral",
+      "description": "Treinando seu cérebro\n\nReflex é um programa de treinamento cerebral que ajuda a manter um cérebro saudável e eficaz. um curso que foi especialmente criado para aprimorar suas habilidades de resolução de problemas, matemática e atenção enquanto se diverte com os jogos.\n\nCaracterísticas:\nJogos e quebra-cabeças inteligentes projetados especificamente para treinar uma variedade de habilidades, desde foco e reação até matemática.\nUm curso que é adaptado às suas necessidades e interesses e inclui exercícios diários.\nRastreamento detalhado de melhorias: gráficos, classificações, calendário e tarefas na guia de estatísticas.\nUm aumento gradual na dificuldade ajudará você a melhorar e interagir mais, e sua atividade será rastreada em seu próprio perfil.\nEmblemas de conquista para o seu perfil.\nO uso do aplicativo é gratuito.\n\nUtilize Reflex para um treino cerebral eficiente e agradável e aumento de produtividade!\n\nNunca é cedo ou tarde demais para se divertir com jogos mentais que podem aumentar rapidamente suas habilidades cognitivas. Liberte todo o potencial do seu cérebro com mais de 15 jogos cerebrais personalizados.\n\nEste aplicativo oferece uma variedade de jogos de quebra-cabeças, quebra-cabeças e exercícios relacionados a esportes que desafiarão suas habilidades de tomada de decisão, foco e concentração, velocidade de processamento de informações, tempo de reação, pensamento lógico, visão periférica e resistência ao estresse. Você também vai se divertir enquanto melhora sua agilidade mental e desempenho.\n\nEste jogo irá ajudá-lo a desenvolver seu poder cerebral e velocidade de reação de uma forma divertida e envolvente. Você pode acompanhar seu progresso, competir com outros usuários e compartilhar seus resultados com seus amigos. Baixe este aplicativo hoje e prepare-se para desafiar a si mesmo!",
+      "descriptionHTML": "Treinando seu cérebro<br><br>Reflex é um programa de treinamento cerebral que ajuda a manter um cérebro saudável e eficaz. um curso que foi especialmente criado para aprimorar suas habilidades de resolução de problemas, matemática e atenção enquanto se diverte com os jogos.<br><br>Características:<br>Jogos e quebra-cabeças inteligentes projetados especificamente para treinar uma variedade de habilidades, desde foco e reação até matemática.<br>Um curso que é adaptado às suas necessidades e interesses e inclui exercícios diários.<br>Rastreamento detalhado de melhorias: gráficos, classificações, calendário e tarefas na guia de estatísticas.<br>Um aumento gradual na dificuldade ajudará você a melhorar e interagir mais, e sua atividade será rastreada em seu próprio perfil.<br>Emblemas de conquista para o seu perfil.<br>O uso do aplicativo é gratuito.<br><br>Utilize Reflex para um treino cerebral eficiente e agradável e aumento de produtividade!<br><br>Nunca é cedo ou tarde demais para se divertir com jogos mentais que podem aumentar rapidamente suas habilidades cognitivas. Liberte todo o potencial do seu cérebro com mais de 15 jogos cerebrais personalizados.<br><br>Este aplicativo oferece uma variedade de jogos de quebra-cabeças, quebra-cabeças e exercícios relacionados a esportes que desafiarão suas habilidades de tomada de decisão, foco e concentração, velocidade de processamento de informações, tempo de reação, pensamento lógico, visão periférica e resistência ao estresse. Você também vai se divertir enquanto melhora sua agilidade mental e desempenho.<br><br>Este jogo irá ajudá-lo a desenvolver seu poder cerebral e velocidade de reação de uma forma divertida e envolvente. Você pode acompanhar seu progresso, competir com outros usuários e compartilhar seus resultados com seus amigos. Baixe este aplicativo hoje e prepare-se para desafiar a si mesmo!",
+      "summary": "Exercícios para treinar o cérebro: reação, concentração e memória",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 436322,
+      "score": 4.712871,
+      "scoreText": "4,7",
+      "ratings": 11160,
+      "reviews": 128,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "brain.reaction.concentration",
+      "url": "https://play.google.com/store/apps/details?id=brain.reaction.concentration&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:41:27.228Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "AHSD",
+    "term": "gifted iq app",
+    "key": "gifted iq app",
+    "depth": 2,
+    "parent": "gifted iq",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "GiftedIQ",
+      "description": "GiftedIQ é uma rede social profissional criada exclusivamente para indivíduos altamente talentosos. É um espaço seletivo e meritocrático onde o único requisito de entrada é a aprovação em um teste psicométrico avançado, garantindo que todos os membros compartilhem o mesmo nível de comprometimento e propósito.\n\nNossa missão é criar um ecossistema voltado para a mente, onde pessoas inteligentes interagem e aprendem umas com as outras.\n\nA GiftedIQ está se consolidando como uma comunidade global de consultores independentes. Cada usuário pode contribuir com sua perspectiva para os desafios estratégicos propostos pelas empresas, oferecer opiniões, propor soluções e fornecer consultoria direta. As melhores respostas são recompensadas com prêmios em dinheiro, maior visibilidade na rede e acesso a oportunidades profissionais exclusivas.\n\nUma plataforma onde sua maneira de pensar se torna seu maior trunfo.",
+      "descriptionHTML": "GiftedIQ é uma rede social profissional criada exclusivamente para indivíduos altamente talentosos. É um espaço seletivo e meritocrático onde o único requisito de entrada é a aprovação em um teste psicométrico avançado, garantindo que todos os membros compartilhem o mesmo nível de comprometimento e propósito.<br><br>Nossa missão é criar um ecossistema voltado para a mente, onde pessoas inteligentes interagem e aprendem umas com as outras.<br><br>A GiftedIQ está se consolidando como uma comunidade global de consultores independentes. Cada usuário pode contribuir com sua perspectiva para os desafios estratégicos propostos pelas empresas, oferecer opiniões, propor soluções e fornecer consultoria direta. As melhores respostas são recompensadas com prêmios em dinheiro, maior visibilidade na rede e acesso a oportunidades profissionais exclusivas.<br><br>Uma plataforma onde sua maneira de pensar se torna seu maior trunfo.",
+      "summary": "Uma rede social projetada para pessoas com altas capacidades intelectuais.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11007,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.giftediq.app",
+      "url": "https://play.google.com/store/apps/details?id=com.giftediq.app&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "iQiD",
+      "description": "O iQiD é um aplicativo de login único que permite aos usuários acessar facilmente plataformas públicas e privadas, além de muitos outros serviços essenciais. Você também pode fazer upload e verificar seus documentos de identidade físicos, reduzindo a necessidade de inserir suas informações manualmente.\n\nO iQiD permite que você:\n\nDigitalize seus documentos de identidade, incluindo seus dados biométricos.\n\nUse nossa biblioteca de documentos para manter todos os seus documentos em um só lugar.\n\nFaça login com um único perfil em todas as plataformas com a integração SSO do iQiD.\n\nConsulte suas contas e serviços públicos.\n\nMantenha tudo em um só lugar.",
+      "descriptionHTML": "O iQiD é um aplicativo de login único que permite aos usuários acessar facilmente plataformas públicas e privadas, além de muitos outros serviços essenciais. Você também pode fazer upload e verificar seus documentos de identidade físicos, reduzindo a necessidade de inserir suas informações manualmente.<br><br>O iQiD permite que você:<br><br>Digitalize seus documentos de identidade, incluindo seus dados biométricos.<br><br>Use nossa biblioteca de documentos para manter todos os seus documentos em um só lugar.<br><br>Faça login com um único perfil em todas as plataformas com a integração SSO do iQiD.<br><br>Consulte suas contas e serviços públicos.<br><br>Mantenha tudo em um só lugar.",
+      "summary": "aplicativo de logon único, garantindo acesso fácil e seguro a documentos essenciais.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 216,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Negócios",
+      "genreId": "BUSINESS",
+      "categories": [
+        {
+          "name": "Negócios",
+          "id": "BUSINESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.singlesignon",
+      "url": "https://play.google.com/store/apps/details?id=com.app.singlesignon&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Gifted for CogAT, OLSAT, CCAT",
+      "description": "O aplicativo Preparação para Testes de Superdotação aprimora as habilidades cognitivas do seu filho. Ele contém milhares de questões para os testes CogAT, NNAT, OLSAT e CCAT que seu filho vai adorar resolver e que fortalecerão suas habilidades não verbais, verbais e quantitativas. Também ajudará você a identificar as dificuldades do seu filho e a ajudá-lo a superá-las. As questões deste aplicativo de preparação para testes de superdotação são baseadas nos padrões mais recentes dos testes Cognitive Abilities Test, Otis-Lennon School Ability Test, Naglieri Nonverbal Ability Test e Canadian Cognitive Abilities Test.\n\nIndependentemente de você pretender que seu filho faça o CCAT, NNAT, OLSAT ou CogAT, as questões do aplicativo Gifted Talented Test Prep o ajudarão a aprimorar suas habilidades de raciocínio abstrato.\n\nBaterias separadas nesses exames cognitivos avaliam as habilidades cognitivas gerais usando tarefas verbais, quantitativas e não verbais.\n\n> Quantitativo (Analogias Numéricas, Quebra-cabeças Numéricos, Sequências Numéricas)\n> Verbal (Analogias de Imagens, Completar Frases, Classificação de Imagens)\n> Não Verbal (Matrizes de Figuras, Dobradura de Papel, Classificação de Figuras)\n\nO Gifted ajudará os pais a se prepararem para o CogAT G&T, OLSAT, NNAT e CCAT, auxiliando seus filhos a dominar as habilidades necessárias para obterem sucesso nesses testes de habilidades cognitivas. Este aplicativo online de preparação para os testes CCAT, NNAT, OLSAT e CogAT oferece mais de 42.000 questões práticas para alunos do jardim de infância ao 8º ano, além de testes práticos gratuitos.\n\nAvalie os pontos fortes e fracos cognitivos do seu filho, identifique áreas que precisam ser aprimoradas e ajude-o a se preparar de forma mais eficaz para os testes CogAT, OLSAT, CCAT e NNAT. A versão gratuita deste aplicativo de preparação para o teste CogAT inclui mais de 300 questões gratuitas para alunos do jardim de infância ao 8º ano.\n\nCom este aplicativo de preparação para testes para alunos superdotados, você pode ajudar seu pequeno aluno a compreender melhor o conteúdo da pré-escola ou do ensino fundamental. Pratique com as folhas de exercícios do CogAT, NNAT, OLSAT e CCAT canadense para o jardim de infância, 1º, 2º, 3º, 4º, 5º, 6º, 7º e 8º ano e elimine as dificuldades dele/dela.\n\nMais de 42.000 questões práticas para os testes CogAT, CCAT, OLSAT e Nalgeri ~ Este aplicativo de prática para testes de habilidades cognitivas oferece uma ampla variedade de questões de todos os 9 tipos de perguntas para a preparação de programas de educação para superdotados.\n\nExperiência de Aprendizagem Personalizada ~ Trabalha habilidades cognitivas gerais e específicas. Desenvolve habilidades de raciocínio lógico para a preparação para os testes NNAT, OLSAT, CCAT e CogAT.\n\nTestes Práticos Ilimitados ~ Você pode personalizar a preparação criando testes de todas as 9 categorias e ajudar seu filho superdotado na busca por habilidades cognitivas do jardim de infância ao 8º ano.\n\nTestes Diários ~ Domine o padrão mais recente dos testes NNAT, CCAT, OLSAT e CogAT do 8º ano ao jardim de infância e familiarize-se com o formato do teste de avaliação de habilidades cognitivas.\n\nExplicações Detalhadas ~ Permite que os usuários comparem e compreendam as respostas de seus testes práticos do CogAT. O QuestionDNA mede o raciocínio e as habilidades de resolução de problemas em testes práticos online.\n\nAcompanhe e Analise o Progresso Diário do seu Filho ~ Análises no aplicativo para avaliar o QI (quociente intelectual), o desempenho acadêmico e o desenvolvimento cognitivo do seu filho.\n\nRevisão Regular de Erros em Testes Práticos ~ Com a revisão diária, seu filho pode trabalhar especificamente para melhorar suas dificuldades na preparação para o CogAT, CCAT e OLSAT, sentindo-se mais confiante no dia da prova.\n\nVocê pode consultar nossa política de privacidade em https://gifted.achieve.ai/policy/privacy e nossos termos de uso em https://gifted.achieve.ai/policy/terms",
+      "descriptionHTML": "O aplicativo <b>Preparação para Testes de Superdotação</b> aprimora as habilidades cognitivas do seu filho. Ele contém milhares de questões para os testes CogAT, NNAT, OLSAT e CCAT que seu filho vai adorar resolver e que fortalecerão suas habilidades não verbais, verbais e quantitativas. Também ajudará você a identificar as dificuldades do seu filho e a ajudá-lo a superá-las. As questões deste aplicativo de preparação para testes de superdotação são baseadas nos padrões mais recentes dos testes Cognitive Abilities Test, Otis-Lennon School Ability Test, Naglieri Nonverbal Ability Test e Canadian Cognitive Abilities Test.<br><br>Independentemente de você pretender que seu filho faça o CCAT, NNAT, OLSAT ou CogAT, as questões do aplicativo Gifted Talented Test Prep o ajudarão a aprimorar suas habilidades de raciocínio abstrato.<br><br>Baterias separadas nesses exames cognitivos avaliam as habilidades cognitivas gerais usando tarefas verbais, quantitativas e não verbais.<br><br>&gt; Quantitativo (Analogias Numéricas, Quebra-cabeças Numéricos, Sequências Numéricas)<br>&gt; Verbal (Analogias de Imagens, Completar Frases, Classificação de Imagens)<br>&gt; Não Verbal (Matrizes de Figuras, Dobradura de Papel, Classificação de Figuras)<br><br>O Gifted ajudará os pais a se prepararem para o CogAT G&amp;T, OLSAT, NNAT e CCAT, auxiliando seus filhos a dominar as habilidades necessárias para obterem sucesso nesses testes de habilidades cognitivas. Este aplicativo online de preparação para os testes CCAT, NNAT, OLSAT e CogAT oferece mais de 42.000 questões práticas para alunos do jardim de infância ao 8º ano, além de testes práticos gratuitos.<br><br>Avalie os pontos fortes e fracos cognitivos do seu filho, identifique áreas que precisam ser aprimoradas e ajude-o a se preparar de forma mais eficaz para os testes CogAT, OLSAT, CCAT e NNAT. A versão gratuita deste aplicativo de preparação para o teste CogAT inclui mais de 300 questões gratuitas para alunos do jardim de infância ao 8º ano.<br><br>Com este aplicativo de preparação para testes para alunos superdotados, você pode ajudar seu pequeno aluno a compreender melhor o conteúdo da pré-escola ou do ensino fundamental. Pratique com as folhas de exercícios do CogAT, NNAT, OLSAT e CCAT canadense para o jardim de infância, 1º, 2º, 3º, 4º, 5º, 6º, 7º e 8º ano e elimine as dificuldades dele/dela.<br><br><b>Mais de 42.000 questões práticas para os testes CogAT, CCAT, OLSAT e Nalgeri</b> ~ Este aplicativo de prática para testes de habilidades cognitivas oferece uma ampla variedade de questões de todos os 9 tipos de perguntas para a preparação de programas de educação para superdotados.<br><br><b>Experiência de Aprendizagem Personalizada</b> ~ Trabalha habilidades cognitivas gerais e específicas. Desenvolve habilidades de raciocínio lógico para a preparação para os testes NNAT, OLSAT, CCAT e CogAT.<br><br><b>Testes Práticos Ilimitados</b> ~ Você pode personalizar a preparação criando testes de todas as 9 categorias e ajudar seu filho superdotado na busca por habilidades cognitivas do jardim de infância ao 8º ano.<br><br><b>Testes Diários</b> ~ Domine o padrão mais recente dos testes NNAT, CCAT, OLSAT e CogAT do 8º ano ao jardim de infância e familiarize-se com o formato do teste de avaliação de habilidades cognitivas.<br><br><b>Explicações Detalhadas</b> ~ Permite que os usuários comparem e compreendam as respostas de seus testes práticos do CogAT. O QuestionDNA mede o raciocínio e as habilidades de resolução de problemas em testes práticos online.<br><br><b>Acompanhe e Analise o Progresso Diário do seu Filho</b> ~ Análises no aplicativo para avaliar o QI (quociente intelectual), o desempenho acadêmico e o desenvolvimento cognitivo do seu filho.<br><br><b>Revisão Regular de Erros em Testes Práticos</b> ~ Com a revisão diária, seu filho pode trabalhar especificamente para melhorar suas dificuldades na preparação para o CogAT, CCAT e OLSAT, sentindo-se mais confiante no dia da prova.<br><br>Você pode consultar nossa política de privacidade em https://gifted.achieve.ai/policy/privacy e nossos termos de uso em https://gifted.achieve.ai/policy/terms",
+      "summary": "Mais de 42 mil perguntas práticas para CogAT, NNAT, OLSAT e CCAT | Do jardim de infância à 8ª série",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 18011,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cogat_gifted",
+      "url": "https://play.google.com/store/apps/details?id=com.cogat_gifted&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "IQ Test Score & Training",
+      "description": "Teste de QI e Treinamento Cerebral – Meça e Aprimore Sua Inteligência\nVocê quer saber seu QI e melhorar seu raciocínio lógico?\n\nBem-vindo ao Teste de QI e Treinamento Cerebral, o aplicativo definitivo para desafiar seu cérebro e impulsionar suas habilidades cognitivas.\n\n🎯 Descubra seu QI e treine seu cérebro\nFaça testes de QI inspirados em testes profissionais e desafie sua lógica, raciocínio e habilidades de resolução de problemas.\n\nAprimore seu desempenho com exercícios diários de treinamento cerebral.\n\n🧩 Questões reais no estilo de testes de QI\nResolva quebra-cabeças inspirados em testes de QI reais, incluindo padrões, sequências, grades lógicas e desafios de resolução de problemas.\n\nCada teste foi desenvolvido para avaliar sua capacidade de raciocínio e ajudá-lo a melhorar com o tempo.\n\n✨ O que você vai receber:\n🧠 Testes de QI precisos e sistema de pontuação\n📊 Resultados detalhados e acompanhamento do desempenho\n🎯 Exercícios de treinamento cerebral para melhorar seu QI\n🧩 Vários níveis, do iniciante ao avançado\n⚡ Testes rápidos e desafios diários\n🎮 Quebra-cabeças e jogos de lógica envolventes\n\n👥 Para quem é este aplicativo?\n\n• Estudantes se preparando para exames\n• Pessoas que adoram quebra-cabeças e jogos de lógica\n• Usuários que desejam testar seu QI\n• Qualquer pessoa que queira melhorar o desempenho cerebral\n\n🚀 Benefícios que você obterá:\n• Descubra sua pontuação de QI\n• Melhore o raciocínio lógico\n• Aprimore suas habilidades de resolução de problemas\n• Aumente a velocidade mental\n• Treine seu cérebro diariamente\n\n🔒 Experiência simples e intuitiva\n✔ Não requer cadastro\n✔ Leve e rápido\n✔ Fácil de usar\n\n🌟 Teste sua inteligência e melhore seu cérebro\nBaixe o Teste de QI e Treinamento agora e desafie sua mente todos os dias 🚀",
+      "descriptionHTML": "Teste de QI e Treinamento Cerebral – Meça e Aprimore Sua Inteligência<br>Você quer saber seu QI e melhorar seu raciocínio lógico?<br><br>Bem-vindo ao Teste de QI e Treinamento Cerebral, o aplicativo definitivo para desafiar seu cérebro e impulsionar suas habilidades cognitivas.<br><br>🎯 Descubra seu QI e treine seu cérebro<br>Faça testes de QI inspirados em testes profissionais e desafie sua lógica, raciocínio e habilidades de resolução de problemas.<br><br>Aprimore seu desempenho com exercícios diários de treinamento cerebral.<br><br>🧩 Questões reais no estilo de testes de QI<br>Resolva quebra-cabeças inspirados em testes de QI reais, incluindo padrões, sequências, grades lógicas e desafios de resolução de problemas.<br><br>Cada teste foi desenvolvido para avaliar sua capacidade de raciocínio e ajudá-lo a melhorar com o tempo.<br><br>✨ O que você vai receber:<br>🧠 Testes de QI precisos e sistema de pontuação<br>📊 Resultados detalhados e acompanhamento do desempenho<br>🎯 Exercícios de treinamento cerebral para melhorar seu QI<br>🧩 Vários níveis, do iniciante ao avançado<br>⚡ Testes rápidos e desafios diários<br>🎮 Quebra-cabeças e jogos de lógica envolventes<br><br>👥 Para quem é este aplicativo?<br><br>• Estudantes se preparando para exames<br>• Pessoas que adoram quebra-cabeças e jogos de lógica<br>• Usuários que desejam testar seu QI<br>• Qualquer pessoa que queira melhorar o desempenho cerebral<br><br>🚀 Benefícios que você obterá:<br>• Descubra sua pontuação de QI<br>• Melhore o raciocínio lógico<br>• Aprimore suas habilidades de resolução de problemas<br>• Aumente a velocidade mental<br>• Treine seu cérebro diariamente<br><br>🔒 Experiência simples e intuitiva<br>✔ Não requer cadastro<br>✔ Leve e rápido<br>✔ Fácil de usar<br><br>🌟 Teste sua inteligência e melhore seu cérebro<br>Baixe o Teste de QI e Treinamento agora e desafie sua mente todos os dias 🚀",
+      "summary": "Teste seu QI, aprimore seu raciocínio lógico e exercite seu cérebro com desafios diários.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2323,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iq.test.score.game",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.score.game&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "NEXTBAND IQ",
+      "description": "NEXTBAND IQ é um aplicativo de gerenciamento de rede Wi-Fi doméstico fácil de usar. Controle sua casa inteligente com recursos como controle dos pais, criação de redes para convidados, monitoramento do uso da rede e segurança da rede.",
+      "descriptionHTML": "NEXTBAND IQ é um aplicativo de gerenciamento de rede Wi-Fi doméstico fácil de usar. Controle sua casa inteligente com recursos como controle dos pais, criação de redes para convidados, monitoramento do uso da rede e segurança da rede.",
+      "summary": "NEXTBAND IQ oferece aos assinantes controle de seu Wi-Fi com este aplicativo fácil de usar.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2498,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.fpb.smarthome",
+      "url": "https://play.google.com/store/apps/details?id=com.fpb.smarthome&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "IQ Test & Puzzles",
+      "description": "🧠 Treine seu cérebro com quebra-cabeças divertidos e desafios de QI!\n\nPrepare-se para testar sua inteligência e aprimorar suas habilidades cerebrais com uma coleção de quebra-cabeças divertidos e desafiadores. Este jogo combina diferentes tipos de jogos cerebrais projetados para melhorar a lógica, a memória, o foco e a capacidade de resolver problemas.\n\nSe você gosta de testes de QI, quebra-cabeças lógicos, objetos escondidos ou jogos de números, este aplicativo oferece desafios emocionantes para todos.\n\n🎯 Categorias de jogos\n\n🔹 Desafios\n👀 Itens idênticos\nTeste sua observação e suas habilidades.\n\n👻 Fantasma escondido\nObserve atentamente e descubra o fantasma escondido.\n\n🔢 Desafio de números\nTeste seu foco encontrando números.\n\n🛒 Lista de compras\nLembre-se dos itens e encontre-os.\n\n🔹 Quebra-cabeças\n🧠 Teste de QI\nResolva quebra-cabeças complexos projetados para medir sua lógica e inteligência.\n\n🍬 Classificação de doces\nClassifique doces coloridos nos recipientes corretos.\n\n✏️ Quebra-cabeça de uma linha\nDesenhe uma única linha para completar o quebra-cabeça sem levantar o dedo.\n\n➗ Quebra-cabeça\nAprimore suas habilidades matemáticas com equações divertidas e desafiadoras.\n\nBaixe agora o jogo Teste de QI e Quebra-cabeças e comece a treinar seu cérebro hoje mesmo!",
+      "descriptionHTML": "🧠 Treine seu cérebro com quebra-cabeças divertidos e desafios de QI!<br><br>Prepare-se para testar sua inteligência e aprimorar suas habilidades cerebrais com uma coleção de quebra-cabeças divertidos e desafiadores. Este jogo combina diferentes tipos de jogos cerebrais projetados para melhorar a lógica, a memória, o foco e a capacidade de resolver problemas.<br><br>Se você gosta de testes de QI, quebra-cabeças lógicos, objetos escondidos ou jogos de números, este aplicativo oferece desafios emocionantes para todos.<br><br>🎯 Categorias de jogos<br><br>🔹 Desafios<br>👀 Itens idênticos<br>Teste sua observação e suas habilidades.<br><br>👻 Fantasma escondido<br>Observe atentamente e descubra o fantasma escondido.<br><br>🔢 Desafio de números<br>Teste seu foco encontrando números.<br><br>🛒 Lista de compras<br>Lembre-se dos itens e encontre-os.<br><br>🔹 Quebra-cabeças<br>🧠 Teste de QI<br>Resolva quebra-cabeças complexos projetados para medir sua lógica e inteligência.<br><br>🍬 Classificação de doces<br>Classifique doces coloridos nos recipientes corretos.<br><br>✏️ Quebra-cabeça de uma linha<br>Desenhe uma única linha para completar o quebra-cabeça sem levantar o dedo.<br><br>➗ Quebra-cabeça<br>Aprimore suas habilidades matemáticas com equações divertidas e desafiadoras.<br><br>Baixe agora o jogo Teste de QI e Quebra-cabeças e comece a treinar seu cérebro hoje mesmo!",
+      "summary": "Aprimore sua mente com testes de QI, quebra-cabeças e desafios divertidos!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2795,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.wkg.iq.test",
+      "url": "https://play.google.com/store/apps/details?id=com.wkg.iq.test&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "IQ Logic: Brain Training",
+      "description": "🧠 IQ Logic: Treinamento Cerebral\n\nDesafie sua mente com quebra-cabeças lógicos criados para aprimorar o raciocínio, o reconhecimento de padrões e a capacidade de resolver problemas.\n\nRECURSOS\n- Quebra-cabeças lógicos no estilo IQ com dificuldade crescente\n- Dicas de IA e soluções passo a passo\n- Quebra-cabeças infinitos para treinamento cerebral diário\n- Acompanhe seu progresso ao longo do tempo\n\nNOTA IMPORTANTE\nEste aplicativo oferece quebra-cabeças no estilo IQ apenas para fins de entretenimento e treinamento.\n\nEle não fornece uma pontuação oficial de QI.",
+      "descriptionHTML": "🧠 IQ Logic: Treinamento Cerebral<br><br>Desafie sua mente com quebra-cabeças lógicos criados para aprimorar o raciocínio, o reconhecimento de padrões e a capacidade de resolver problemas.<br><br>RECURSOS<br>- Quebra-cabeças lógicos no estilo IQ com dificuldade crescente<br>- Dicas de IA e soluções passo a passo<br>- Quebra-cabeças infinitos para treinamento cerebral diário<br>- Acompanhe seu progresso ao longo do tempo<br><br>NOTA IMPORTANTE<br>Este aplicativo oferece quebra-cabeças no estilo IQ apenas para fins de entretenimento e treinamento.<br><br>Ele não fornece uma pontuação oficial de QI.",
+      "summary": "Exercite seu cérebro com quebra-cabeças lógicos no estilo QI e dicas de IA.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 685,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.brotherai.iqai",
+      "url": "https://play.google.com/store/apps/details?id=com.brotherai.iqai&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "IQ Test - Full Aptitude Test",
+      "description": "Desbloqueie seu QI com nosso aplicativo de teste de QI!\n\nDescubra seu Quociente de Inteligência (QI) com nosso aplicativo completo de teste de QI. Oferecendo um teste rápido de 4 minutos, este aplicativo fornece uma pontuação instantânea que mostra sua posição na distribuição normal. Além disso, você poderá revisar quais perguntas respondeu corretamente e incorretamente, ajudando você a entender seus pontos fortes e áreas que precisam ser aprimoradas.\n\nNosso teste de QI foi desenvolvido com perguntas de diversas fontes renomadas, garantindo uma avaliação completa. Com um foco um pouco maior em habilidades matemáticas, este aplicativo permite que você melhore por meio de exercícios estratégicos e prática.\n\nPrincipais recursos:\n\n- Teste de QI rápido: Faça um breve teste de 4 minutos para uma estimativa rápida do seu QI.\n\n- Resultados instantâneos: Receba uma pontuação de QI imediata e veja sua posição na distribuição normal.\n- Feedback detalhado: Acesse informações sobre quais perguntas foram respondidas corretamente ou incorretamente.\n\n- Foco em matemática: Aprimore suas habilidades matemáticas por meio de perguntas e exercícios direcionados.\n\n- Teste de inteligência real: Derivado de fontes famosas para fornecer uma avaliação genuína do seu QI.\n\n- Por que escolher nosso aplicativo de teste de QI?\n\n- Configurações de acessibilidade adicionadas recentemente.\n\n- Desafio de QI: Desafie-se e descubra seu verdadeiro potencial intelectual.\n\n- Teste Cerebral: Estimule seu cérebro e aprimore suas habilidades cognitivas.\n\n- Quiz de Gênio: Descubra se você tem o que é preciso para ser um gênio.\n\n- Teste Inteligente: Meça sua inteligência com nossos recursos de teste inteligentes.\n\n- Desafio Mental: Expanda seus limites mentais e desenvolva sua inteligência.\n\n- Quiz Cerebral: Faça nosso quiz cerebral e veja sua pontuação.\n\n- Pontuação de QI: Obtenha uma pontuação de QI precisa com feedback detalhado.\n\n- Medição de QI: Meça seu QI com precisão com nossos testes bem elaborados.\n\n- Desbloqueie seu potencial e aprimore sua inteligência com nosso aplicativo de teste de QI hoje mesmo.",
+      "descriptionHTML": "Desbloqueie seu QI com nosso aplicativo de teste de QI!<br><br>Descubra seu Quociente de Inteligência (QI) com nosso aplicativo completo de teste de QI. Oferecendo um teste rápido de 4 minutos, este aplicativo fornece uma pontuação instantânea que mostra sua posição na distribuição normal. Além disso, você poderá revisar quais perguntas respondeu corretamente e incorretamente, ajudando você a entender seus pontos fortes e áreas que precisam ser aprimoradas.<br><br>Nosso teste de QI foi desenvolvido com perguntas de diversas fontes renomadas, garantindo uma avaliação completa. Com um foco um pouco maior em habilidades matemáticas, este aplicativo permite que você melhore por meio de exercícios estratégicos e prática.<br><br>Principais recursos:<br><br>- Teste de QI rápido: Faça um breve teste de 4 minutos para uma estimativa rápida do seu QI.<br><br>- Resultados instantâneos: Receba uma pontuação de QI imediata e veja sua posição na distribuição normal.<br>- Feedback detalhado: Acesse informações sobre quais perguntas foram respondidas corretamente ou incorretamente.<br><br>- Foco em matemática: Aprimore suas habilidades matemáticas por meio de perguntas e exercícios direcionados.<br><br>- Teste de inteligência real: Derivado de fontes famosas para fornecer uma avaliação genuína do seu QI.<br><br>- Por que escolher nosso aplicativo de teste de QI?<br><br>- Configurações de acessibilidade adicionadas recentemente.<br><br>- Desafio de QI: Desafie-se e descubra seu verdadeiro potencial intelectual.<br><br>- Teste Cerebral: Estimule seu cérebro e aprimore suas habilidades cognitivas.<br><br>- Quiz de Gênio: Descubra se você tem o que é preciso para ser um gênio.<br><br>- Teste Inteligente: Meça sua inteligência com nossos recursos de teste inteligentes.<br><br>- Desafio Mental: Expanda seus limites mentais e desenvolva sua inteligência.<br><br>- Quiz Cerebral: Faça nosso quiz cerebral e veja sua pontuação.<br><br>- Pontuação de QI: Obtenha uma pontuação de QI precisa com feedback detalhado.<br><br>- Medição de QI: Meça seu QI com precisão com nossos testes bem elaborados.<br><br>- Desbloqueie seu potencial e aprimore sua inteligência com nosso aplicativo de teste de QI hoje mesmo.",
+      "summary": "Pontuação real de QI e perguntas do teste",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3599,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.blueiq.test",
+      "url": "https://play.google.com/store/apps/details?id=com.blueiq.test&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "ChatGPT",
+      "description": "Obtenha respostas instantâneas e inspiração em qualquer lugar com o aplicativo oficial do ChatGPT.\n\nEste aplicativo é gratuito e traz para você as melhorias do modelo mais recente da OpenAI, incluindo acesso ao GPT-4o, nosso modelo mais avançado.\n\nCom o ChatGPT no bolso, você terá:\n\n· Modo Voz: toque no ícone dos Fones de ouvidos para falar em qualquer lugar, solicitar uma história de ninar para sua família ou solucionar um debate durante o jantar.\n· Carregamento de fotos: transcreva uma receita escrita à mão ou faça uma pergunta sobre um monumento.  \n· Inspiração criativa: descubra ideias de presente de aniversário ou crie um cartão de parabéns personalizado.\n· Consultoria personalizada: elabore uma resposta diferenciada ou pondere sobre uma situação complicada.\n· Aprendizado personalizado: explique a uma criança que adora dinossauros o que é eletricidade ou relembre algum acontecimento histórico com praticidade.\n· Assessoria profissional: gere ideias de divulgação ou um plano de negócios.\n· Respostas instantâneas: obtenha sugestões de receitas mesmo com poucos ingredientes.\n\nJunte-se a milhões de usuários e experimente o aplicativo mais interessante do mundo. Baixe o ChatGPT hoje mesmo.\n\nTermos de uso: https://openai.com/terms",
+      "descriptionHTML": "Obtenha respostas instantâneas e inspiração em qualquer lugar com o aplicativo oficial do ChatGPT.<br><br>Este aplicativo é gratuito e traz para você as melhorias do modelo mais recente da OpenAI, incluindo acesso ao GPT-4o, nosso modelo mais avançado.<br><br>Com o ChatGPT no bolso, você terá:<br><br>· Modo Voz: toque no ícone dos Fones de ouvidos para falar em qualquer lugar, solicitar uma história de ninar para sua família ou solucionar um debate durante o jantar.<br>· Carregamento de fotos: transcreva uma receita escrita à mão ou faça uma pergunta sobre um monumento.  <br>· Inspiração criativa: descubra ideias de presente de aniversário ou crie um cartão de parabéns personalizado.<br>· Consultoria personalizada: elabore uma resposta diferenciada ou pondere sobre uma situação complicada.<br>· Aprendizado personalizado: explique a uma criança que adora dinossauros o que é eletricidade ou relembre algum acontecimento histórico com praticidade.<br>· Assessoria profissional: gere ideias de divulgação ou um plano de negócios.<br>· Respostas instantâneas: obtenha sugestões de receitas mesmo com poucos ingredientes.<br><br>Junte-se a milhões de usuários e experimente o aplicativo mais interessante do mundo. Baixe o ChatGPT hoje mesmo.<br><br>Termos de uso: https://openai.com/terms",
+      "summary": "Seu assistente de IA para escrita, pesquisa, geração de imagens e muito mais",
+      "installs": "1.000.000.000+",
+      "minInstalls": 1000000000,
+      "maxInstalls": 1650673945,
+      "score": 4.847599,
+      "scoreText": "4,8",
+      "ratings": 64941129,
+      "reviews": 384952,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.openai.chatgpt",
+      "url": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "IQ Test - Teste de QI",
+      "description": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.\n\n- Este teste de QI é muito preciso.\n- O teste contém 30 questões muito importantes.\n- O limite de tempo de resolução é de 30 minutos.\n- Saber o resultado do teste é gratuito.\n- O resultado só poderá ser encontrado ao final da prova.\n- As questões do teste são muito equilibradas e bem escolhidas.",
+      "descriptionHTML": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.<br><br>- Este teste de QI é muito preciso.<br>- O teste contém 30 questões muito importantes.<br>- O limite de tempo de resolução é de 30 minutos.<br>- Saber o resultado do teste é gratuito.<br>- O resultado só poderá ser encontrado ao final da prova.<br>- As questões do teste são muito equilibradas e bem escolhidas.",
+      "summary": "Faça este teste de QI e descubra qual é a sua pontuação real de QI.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 710601,
+      "score": 4.259259,
+      "scoreText": "4,3",
+      "ratings": 3002,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iq.test.online.tools.store",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.online.tools.store&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "iQ Delivery",
+      "description": "Escolha o seu melhor restaurante na cidade de Iqaluit e deixe os motoristas do IQ Delivery levarem sua comida favorita até sua porta em nenhum momento. Experimente hoje\nVocê teve um longo dia e não tem vontade de cozinhar? Tire um dia de folga para relaxar e deixe o motorista do IQ Delivery cuidar de você. Nunca foi tão fácil pedir sua comida favorita. Com o IQ Delivery App, você terá acesso a muitos dos seus pratos favoritos com apenas alguns cliques.\nExplore do conforto de sua casa, escritório ou qualquer outro lugar em Iqaluit, escolha um dos restaurantes incríveis na cidade de Iqaluit e deixe-nos levar sua comida até sua porta. O IQ Delivery Driver está pronto para iluminar o seu dia com sua comida favorita à sua porta. Sua felicidade é o que importa.\nBaixe o IQ Delivery Customer App hoje e aproveite o acesso a todos os seus restaurantes favoritos em Iqaluit na conveniência de sua casa, escritório ou de qualquer lugar. Deixe o IQ Delivery Driver trazer sua comida rapidamente.",
+      "descriptionHTML": "Escolha o seu melhor restaurante na cidade de Iqaluit e deixe os motoristas do IQ Delivery levarem sua comida favorita até sua porta em nenhum momento. Experimente hoje<br>Você teve um longo dia e não tem vontade de cozinhar? Tire um dia de folga para relaxar e deixe o motorista do IQ Delivery cuidar de você. Nunca foi tão fácil pedir sua comida favorita. Com o IQ Delivery App, você terá acesso a muitos dos seus pratos favoritos com apenas alguns cliques.<br>Explore do conforto de sua casa, escritório ou qualquer outro lugar em Iqaluit, escolha um dos restaurantes incríveis na cidade de Iqaluit e deixe-nos levar sua comida até sua porta. O IQ Delivery Driver está pronto para iluminar o seu dia com sua comida favorita à sua porta. Sua felicidade é o que importa.<br>Baixe o IQ Delivery Customer App hoje e aproveite o acesso a todos os seus restaurantes favoritos em Iqaluit na conveniência de sua casa, escritório ou de qualquer lugar. Deixe o IQ Delivery Driver trazer sua comida rapidamente.",
+      "summary": "Escolha o seu restaurante e deixe que o IQ Delivery traga sua comida até você em um piscar de olhos.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4826,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comer e beber",
+      "genreId": "FOOD_AND_DRINK",
+      "categories": [
+        {
+          "name": "Comer e beber",
+          "id": "FOOD_AND_DRINK"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iqdelivery",
+      "url": "https://play.google.com/store/apps/details?id=com.iqdelivery&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Kids IQ World",
+      "description": "Dos criadores de aplicativos educativos divertidos e envolventes, apresentamos o Kids IQ World – um jogo de aprendizagem empolgante, especialmente desenvolvido para tornar o estudo prazeroso para os pequenos.\n\nO Kids IQ World reúne diversas disciplinas escolares em um ambiente lúdico, ajudando as crianças a aprenderem de forma mais rápida e inteligente por meio de jogos e atividades interativas.\n\nEste jogo educativo abrange áreas-chave de aprendizagem, como matemática, conhecimentos gerais e conceitos básicos de ciências.\n\nOs jogos de matemática ajudam as crianças a praticar números, contagem, comparações, operações básicas, formas, tempo e medidas, desenvolvendo suas habilidades de raciocínio lógico e resolução de problemas.\n\nAs atividades de geografia apresentam às crianças o mundo ao seu redor, incluindo lugares, direções, relevo, bandeiras e localizações, ampliando sua consciência sobre o planeta.\n\nOs jogos de ciências ajudam as crianças a compreender a natureza, os animais, os materiais, os planetas, os ímãs, a temperatura e os estados da matéria, incentivando a curiosidade e a observação.\n\nO Kids IQ World foi desenvolvido de acordo com os padrões de aprendizagem da educação infantil, sendo perfeito tanto para uso em sala de aula quanto para prática em casa.",
+      "descriptionHTML": "Dos criadores de aplicativos educativos divertidos e envolventes, apresentamos o Kids IQ World – um jogo de aprendizagem empolgante, especialmente desenvolvido para tornar o estudo prazeroso para os pequenos.<br><br>O Kids IQ World reúne diversas disciplinas escolares em um ambiente lúdico, ajudando as crianças a aprenderem de forma mais rápida e inteligente por meio de jogos e atividades interativas.<br><br>Este jogo educativo abrange áreas-chave de aprendizagem, como matemática, conhecimentos gerais e conceitos básicos de ciências.<br><br>Os jogos de matemática ajudam as crianças a praticar números, contagem, comparações, operações básicas, formas, tempo e medidas, desenvolvendo suas habilidades de raciocínio lógico e resolução de problemas.<br><br>As atividades de geografia apresentam às crianças o mundo ao seu redor, incluindo lugares, direções, relevo, bandeiras e localizações, ampliando sua consciência sobre o planeta.<br><br>Os jogos de ciências ajudam as crianças a compreender a natureza, os animais, os materiais, os planetas, os ímãs, a temperatura e os estados da matéria, incentivando a curiosidade e a observação.<br><br>O Kids IQ World foi desenvolvido de acordo com os padrões de aprendizagem da educação infantil, sendo perfeito tanto para uso em sala de aula quanto para prática em casa.",
+      "summary": "Aprenda matemática, ciências e geografia através de jogos divertidos!",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 537,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.wkg.kidsiqworld",
+      "url": "https://play.google.com/store/apps/details?id=com.wkg.kidsiqworld&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "IQ-DA",
+      "description": "Capacite sua jornada odontológica com IQ-DA\n\nIQ-DA é o seu aplicativo de gerenciamento de eventos personalizado para dentistas e estudantes de odontologia no Iraque. Encontre e registre-se facilmente em uma ampla variedade de eventos odontológicos, incluindo:\n\nConferências e Seminários\nWorkshops e treinamento prático\nEventos de rede\nProgramas de educação continuada\nRecursos que você vai adorar:\n\nDescoberta de eventos: acesse uma lista abrangente dos próximos eventos odontológicos.\nInterface amigável: navegue no aplicativo com facilidade e encontre o que você precisa rapidamente.\nRegistro rápido: inscreva-se em eventos diretamente no aplicativo.\nExperiência Personalizada: Receba sugestões de eventos com base nos seus interesses.\nNotificações em tempo real: Receba atualizações e lembretes sobre seus eventos registrados.\nMapas interativos: localize eventos e obtenha direções sem esforço.\nNetworking profissional: conecte-se com outros profissionais e especialistas do setor.\nPor que IQ-DA?\n\nFique à frente: mantenha-se atualizado sobre os últimos desenvolvimentos em odontologia.\nAvanço na carreira: Participe de eventos que aumentem seus conhecimentos e habilidades.\nConstrução de comunidade: envolva-se com uma comunidade de profissionais com ideias semelhantes.\nBaixe o IQ-DA agora e dê o próximo passo em sua carreira odontológica!",
+      "descriptionHTML": "Capacite sua jornada odontológica com IQ-DA<br><br>IQ-DA é o seu aplicativo de gerenciamento de eventos personalizado para dentistas e estudantes de odontologia no Iraque. Encontre e registre-se facilmente em uma ampla variedade de eventos odontológicos, incluindo:<br><br>Conferências e Seminários<br>Workshops e treinamento prático<br>Eventos de rede<br>Programas de educação continuada<br>Recursos que você vai adorar:<br><br>Descoberta de eventos: acesse uma lista abrangente dos próximos eventos odontológicos.<br>Interface amigável: navegue no aplicativo com facilidade e encontre o que você precisa rapidamente.<br>Registro rápido: inscreva-se em eventos diretamente no aplicativo.<br>Experiência Personalizada: Receba sugestões de eventos com base nos seus interesses.<br>Notificações em tempo real: Receba atualizações e lembretes sobre seus eventos registrados.<br>Mapas interativos: localize eventos e obtenha direções sem esforço.<br>Networking profissional: conecte-se com outros profissionais e especialistas do setor.<br>Por que IQ-DA?<br><br>Fique à frente: mantenha-se atualizado sobre os últimos desenvolvimentos em odontologia.<br>Avanço na carreira: Participe de eventos que aumentem seus conhecimentos e habilidades.<br>Construção de comunidade: envolva-se com uma comunidade de profissionais com ideias semelhantes.<br>Baixe o IQ-DA agora e dê o próximo passo em sua carreira odontológica!",
+      "summary": "Descubra, explore e participe de eventos odontológicos em todo o Iraque sem esforço.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8235,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iqda.ios",
+      "url": "https://play.google.com/store/apps/details?id=com.iqda.ios&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Teste de QI e enigmas: Cryptex",
+      "description": "Cryptex Challenge é um teste de QI em forma de jogo: são 60 enigmas de lógica, e sua pontuação sobe a cada um que você resolve. Segundo o próprio jogo, 90% das pessoas conseguem passar do primeiro nível, mas só 5% chegam ao fim do último.\n\nCinco níveis, cada um mais difícil que o anterior\nOs enigmas estão divididos em 5 níveis de dificuldade crescente. Cada resposta certa abre o criptex e leva você ao próximo. O primeiro nível ensina como o jogo funciona. No quinto, o teste de QI fica difícil de verdade, e até quem joga bem trava. Esse é o Cryptex Challenge: um desafio de QI que se vence passo a passo.\n\nO que você vai resolver\nCada enigma é uma imagem com uma regra escondida. Descubra o próximo número de uma sequência. Conte os quadrados escondidos em uma única figura. Descubra o que os números de três triângulos têm em comum. A maioria são enigmas matemáticos e charadas com números, feitos de sequências, somas e formas. Alguns pedem raciocínio fora da caixa, com letras e palavras onde você esperava números.\n\nAqui não conta a velocidade do dedo na tela, e sim a qualidade do raciocínio lógico. Se você curte jogos de lógica e raciocínio que parecem simples e não são, este jogo é para você.\n\nSua pontuação de QI sobe enquanto você joga\nVocê não precisa esperar o fim para ver o resultado. O QI (ou IQ, na sigla em inglês) é calculado durante o jogo: cada enigma resolvido soma pontos, e cada dica usada diminui quanto aquele enigma vale. Resolva sem dicas para ganhar as três estrelas, e de primeira para levar a recompensa completa.\n\nNa tela Dados você vê quantos enigmas resolveu, quantos com três estrelas, quantas vezes apertou TESTAR e quanta ajuda usou. Assim, as estatísticas mostram não só até onde você chegou, mas também como chegou lá.\n\nComo jogar\nO criptex é um cilindro com rodas giratórias que só abre quando o código certo fica alinhado. Observe a imagem, gire as rodas para montar a resposta e aperte TESTAR. Resposta certa: o criptex abre. Resposta errada: o enigma passa a valer um pouco menos, então olhe duas vezes antes de apertar TESTAR.\n\nCada enigma tem duas dicas, Ajuda breve e Ajuda grande, além da Solução completa. São enigmas com resposta, então você nunca fica sem saída.\n\nRecursos\n• 60 enigmas com números, sequências, formas e letras.\n• 120 dicas no total e a solução de cada enigma.\n• Uma pontuação que sobe a cada enigma resolvido.\n• Até três estrelas por enigma e estatísticas detalhadas.\n• Funciona offline, até no avião.\n• Ocupa a tela inteira em tablets.\n• Menus, dicas e soluções em português, e mais 27 idiomas.\n• Jogo gratuito, com anúncios e sem compras no app.\n\nPerguntas antes de começar\n\nÉ um teste de QI de verdade?\nÉ um jogo, e sua pontuação segue a escala do próprio jogo. Todo mundo começa com 55, e cada enigma resolvido soma até 2 pontos, menos quando você usa ajuda ou erra. O resultado mostra como você se sai com lógica e números, não o que um psicólogo mediria.\n\nDá para jogar offline?\nSim. Todos os enigmas funcionam sem internet. Só os anúncios e o vídeo que abre o próximo enigma precisam de conexão.\n\nPara quem é?\nPara adultos que curtem enigmas, charadas e jogos de lógica. Se você quer um jogo de QI com linha de chegada, é este: 60 enigmas, 5 níveis e um resultado final.\n\nE se eu travar?\nUse a Ajuda breve, depois a Ajuda grande e, por fim, a Solução. Cada uma diminui o que o enigma rende. De vez em quando, você também pode assistir a um vídeo curto para abrir o próximo enigma e voltar a este depois. Pular não custa nada: o enigma pulado continua valendo tudo até você voltar.\n\nSessenta enigmas. Cinco níveis. Um teste de QI. Gire a primeira roda e veja até onde você chega.",
+      "descriptionHTML": "Cryptex Challenge é um teste de QI em forma de jogo: são 60 enigmas de lógica, e sua pontuação sobe a cada um que você resolve. Segundo o próprio jogo, 90% das pessoas conseguem passar do primeiro nível, mas só 5% chegam ao fim do último.<br><br>Cinco níveis, cada um mais difícil que o anterior<br>Os enigmas estão divididos em 5 níveis de dificuldade crescente. Cada resposta certa abre o criptex e leva você ao próximo. O primeiro nível ensina como o jogo funciona. No quinto, o teste de QI fica difícil de verdade, e até quem joga bem trava. Esse é o Cryptex Challenge: um desafio de QI que se vence passo a passo.<br><br>O que você vai resolver<br>Cada enigma é uma imagem com uma regra escondida. Descubra o próximo número de uma sequência. Conte os quadrados escondidos em uma única figura. Descubra o que os números de três triângulos têm em comum. A maioria são enigmas matemáticos e charadas com números, feitos de sequências, somas e formas. Alguns pedem raciocínio fora da caixa, com letras e palavras onde você esperava números.<br><br>Aqui não conta a velocidade do dedo na tela, e sim a qualidade do raciocínio lógico. Se você curte jogos de lógica e raciocínio que parecem simples e não são, este jogo é para você.<br><br>Sua pontuação de QI sobe enquanto você joga<br>Você não precisa esperar o fim para ver o resultado. O QI (ou IQ, na sigla em inglês) é calculado durante o jogo: cada enigma resolvido soma pontos, e cada dica usada diminui quanto aquele enigma vale. Resolva sem dicas para ganhar as três estrelas, e de primeira para levar a recompensa completa.<br><br>Na tela Dados você vê quantos enigmas resolveu, quantos com três estrelas, quantas vezes apertou TESTAR e quanta ajuda usou. Assim, as estatísticas mostram não só até onde você chegou, mas também como chegou lá.<br><br>Como jogar<br>O criptex é um cilindro com rodas giratórias que só abre quando o código certo fica alinhado. Observe a imagem, gire as rodas para montar a resposta e aperte TESTAR. Resposta certa: o criptex abre. Resposta errada: o enigma passa a valer um pouco menos, então olhe duas vezes antes de apertar TESTAR.<br><br>Cada enigma tem duas dicas, Ajuda breve e Ajuda grande, além da Solução completa. São enigmas com resposta, então você nunca fica sem saída.<br><br>Recursos<br>• 60 enigmas com números, sequências, formas e letras.<br>• 120 dicas no total e a solução de cada enigma.<br>• Uma pontuação que sobe a cada enigma resolvido.<br>• Até três estrelas por enigma e estatísticas detalhadas.<br>• Funciona offline, até no avião.<br>• Ocupa a tela inteira em tablets.<br>• Menus, dicas e soluções em português, e mais 27 idiomas.<br>• Jogo gratuito, com anúncios e sem compras no app.<br><br>Perguntas antes de começar<br><br>É um teste de QI de verdade?<br>É um jogo, e sua pontuação segue a escala do próprio jogo. Todo mundo começa com 55, e cada enigma resolvido soma até 2 pontos, menos quando você usa ajuda ou erra. O resultado mostra como você se sai com lógica e números, não o que um psicólogo mediria.<br><br>Dá para jogar offline?<br>Sim. Todos os enigmas funcionam sem internet. Só os anúncios e o vídeo que abre o próximo enigma precisam de conexão.<br><br>Para quem é?<br>Para adultos que curtem enigmas, charadas e jogos de lógica. Se você quer um jogo de QI com linha de chegada, é este: 60 enigmas, 5 níveis e um resultado final.<br><br>E se eu travar?<br>Use a Ajuda breve, depois a Ajuda grande e, por fim, a Solução. Cada uma diminui o que o enigma rende. De vez em quando, você também pode assistir a um vídeo curto para abrir o próximo enigma e voltar a este depois. Pular não custa nada: o enigma pulado continua valendo tudo até você voltar.<br><br>Sessenta enigmas. Cinco níveis. Um teste de QI. Gire a primeira roda e veja até onde você chega.",
+      "summary": "Teste de QI: charadas e jogos de lógica. A pontuação de QI sobe a cada acerto.",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 6858305,
+      "score": 4.39779,
+      "scoreText": "4,4",
+      "ratings": 84183,
+      "reviews": 1942,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Lógica",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Realista",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "brain.teasers.logic.puzzles.riddles",
+      "url": "https://play.google.com/store/apps/details?id=brain.teasers.logic.puzzles.riddles&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Google Assistente",
+      "description": "Google Assistente: seu ajudante por voz. \n\nReceba ajuda com tarefas diárias usando apenas sua voz. Com o Google Assistente, é fácil:\n\n- Controlar seu smartphone: abra apps, ajuste configurações, ligue a lanterna e muito mais.\n- Comunicação: faça ligações, envie mensagens e gerencie e-mails sem mexer nem um dedo.\n- Organizar o dia a dia: crie lembretes e listas, faça perguntas ou encontre os melhores trajetos.\n- Gerenciar sua casa inteligente: controle iluminação, termostatos e outros dispositivos de qualquer lugar.*\n\nNovo! Agora, o Gemini (antigo Bard) pode ser seu principal assistente no smartphone! É só ativar o serviço diretamente no Google Assistente.\n\nO Gemini é um assistente de IA experimental que oferece acesso direto à mais moderna família de IA do Google. Ele traz novas formas de praticidade para sua vida, além das ações que você já usa no Google Assistente.\n\nAlgumas ações não vão funcionar imediatamente, mas estamos trabalhando para oferecer mais suporte em breve. Você poderá mudar de volta para o Google Assistente nas configurações do app.\n\nA ativação do Gemini está sendo lançada em dispositivos e países selecionados - ative o Gemini no Google Assistente ou faça o download do app Gemini.\nSaiba mais sobre disponibilidade: \nhttps://support.google.com/?p=gemini_app_requirements_android  \n\n*É necessário usar dispositivos compatíveis",
+      "descriptionHTML": "Google Assistente: seu ajudante por voz. <br><br>Receba ajuda com tarefas diárias usando apenas sua voz. Com o Google Assistente, é fácil:<br><br>- Controlar seu smartphone: abra apps, ajuste configurações, ligue a lanterna e muito mais.<br>- Comunicação: faça ligações, envie mensagens e gerencie e-mails sem mexer nem um dedo.<br>- Organizar o dia a dia: crie lembretes e listas, faça perguntas ou encontre os melhores trajetos.<br>- Gerenciar sua casa inteligente: controle iluminação, termostatos e outros dispositivos de qualquer lugar.*<br><br>Novo! Agora, o Gemini (antigo Bard) pode ser seu principal assistente no smartphone! É só ativar o serviço diretamente no Google Assistente.<br><br>O Gemini é um assistente de IA experimental que oferece acesso direto à mais moderna família de IA do Google. Ele traz novas formas de praticidade para sua vida, além das ações que você já usa no Google Assistente.<br><br>Algumas ações não vão funcionar imediatamente, mas estamos trabalhando para oferecer mais suporte em breve. Você poderá mudar de volta para o Google Assistente nas configurações do app.<br><br>A ativação do Gemini está sendo lançada em dispositivos e países selecionados - ative o Gemini no Google Assistente ou faça o download do app Gemini.<br>Saiba mais sobre disponibilidade: <br>https://support.google.com/?p=gemini_app_requirements_android  <br><br>*É necessário usar dispositivos compatíveis",
+      "summary": "Faça tudo de forma mais fácil e rápida",
+      "installs": "5.000.000.000+",
+      "minInstalls": 5000000000,
+      "maxInstalls": 6189877415,
+      "score": 4.205762,
+      "scoreText": "4,2",
+      "ratings": 1364544,
+      "reviews": 29789,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.google.android.apps.googleassistant",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.apps.googleassistant&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "iQ Viewer",
+      "description": "O iQ Viewer é um aplicativo de reprodução de câmera de painel para telefones celulares para operar a câmera de painel UltraDash por meio de uma conexão de rede sem fio entre um telefone celular. As funções incluem transmissão ao vivo a uma curta distância, função de gravação de controle remoto, configurações de menu operacional, reprodução de vídeo, download de vídeo para o telefone celular e compartilhamento com seus amigos ou seguradoras.\n\nModelo compatível: UltraDash Z3+ / UltraDash S3.",
+      "descriptionHTML": "O iQ Viewer é um aplicativo de reprodução de câmera de painel para telefones celulares para operar a câmera de painel UltraDash por meio de uma conexão de rede sem fio entre um telefone celular. As funções incluem transmissão ao vivo a uma curta distância, função de gravação de controle remoto, configurações de menu operacional, reprodução de vídeo, download de vídeo para o telefone celular e compartilhamento com seus amigos ou seguradoras.<br><br>Modelo compatível: UltraDash Z3+ / UltraDash S3.",
+      "summary": "Fornecendo solução para a segurança de condução, um carro de cada vez.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3159,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Veículos",
+      "genreId": "AUTO_AND_VEHICLES",
+      "categories": [
+        {
+          "name": "Veículos",
+          "id": "AUTO_AND_VEHICLES"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ultradash.dashcam",
+      "url": "https://play.google.com/store/apps/details?id=com.ultradash.dashcam&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Teste de QI (Português)",
+      "description": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.\n\nO QUE VOCÊ RECEBE\n- Um teste de QI completo em português com tarefas realistas de várias categorias\n- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está\n- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos\n- Depois de cada categoria, suas respostas certas e erradas\n- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações\n- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês\n- Pro sem anúncios, como compra única: você não precisa de assinatura\n\nO QUE O TESTE DE QI MEDE\nInspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:\n- Raciocínio perceptual\n- Velocidade de processamento\n- Memória de trabalho\n- Compreensão verbal\n- Raciocínio numérico\n- Pensamento lógico\n\nVocê resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.\n\nO QUE É UM TESTE DE QI?\nUm teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!\n\nTREINO CEREBRAL E PREPARAÇÃO\nVai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.\n\nPARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE\nQuer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.\nResumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.\n\nPRO: DESBLOQUEIE TUDO\nO app IQ Test é gratuito. O Pro é opcional e desbloqueia:\n- Todos os testes de QI\n- Todas as explicações e soluções\n- Todos os exercícios\n- Estatísticas detalhadas\n\nCom o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em \"Pagamentos e assinaturas\".\n\nTermos de uso: https://iqtest-app.de/terms-and-conditions/\nPolítica de privacidade: https://iqtest-app.de/privacy-policy/",
+      "descriptionHTML": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.<br><br>O QUE VOCÊ RECEBE<br>- Um teste de QI completo em português com tarefas realistas de várias categorias<br>- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está<br>- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos<br>- Depois de cada categoria, suas respostas certas e erradas<br>- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações<br>- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês<br>- Pro sem anúncios, como compra única: você não precisa de assinatura<br><br>O QUE O TESTE DE QI MEDE<br>Inspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:<br>- Raciocínio perceptual<br>- Velocidade de processamento<br>- Memória de trabalho<br>- Compreensão verbal<br>- Raciocínio numérico<br>- Pensamento lógico<br><br>Você resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.<br><br>O QUE É UM TESTE DE QI?<br>Um teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!<br><br>TREINO CEREBRAL E PREPARAÇÃO<br>Vai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.<br><br>PARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE<br>Quer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.<br>Resumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.<br><br>PRO: DESBLOQUEIE TUDO<br>O app IQ Test é gratuito. O Pro é opcional e desbloqueia:<br>- Todos os testes de QI<br>- Todas as explicações e soluções<br>- Todos os exercícios<br>- Estatísticas detalhadas<br><br>Com o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em &quot;Pagamentos e assinaturas&quot;.<br><br>Termos de uso: https://iqtest-app.de/terms-and-conditions/<br>Política de privacidade: https://iqtest-app.de/privacy-policy/",
+      "summary": "Quão inteligente você é? Faça parte do ótimo teste de QI",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1129023,
+      "score": 4.2677164,
+      "scoreText": "4,3",
+      "ratings": 4780,
+      "reviews": 371,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "de.paulstelzer.iqtest",
+      "url": "https://play.google.com/store/apps/details?id=de.paulstelzer.iqtest&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "SmartLife: Smart Living",
+      "description": "「SmartLife」 Seu assistente de IA para uma vida cotidiana mais simples e inteligente\n\n【Controle】 Gerencie todos os seus dispositivos com um toque ou simplesmente pergunte — é muito fácil.\n\n【Segurança】 Monitoramento em tempo real e alertas inteligentes mantêm sua casa segura 24 horas por dia, 7 dias por semana.\n\n【Energia】 Acompanhe o consumo e economize na conta com informações inteligentes sobre energia.\n\n【Agenda】 Mantenha-se organizado com tarefas compartilhadas e lembretes oportunos para toda a família.\n\n【Ferramentas de IA para a Vida】 Fitness, nutrição, resumos de reuniões, cuidados com animais de estimação, tradução e muito mais — tudo o que você precisa, em um só lugar.",
+      "descriptionHTML": "「SmartLife」 Seu assistente de IA para uma vida cotidiana mais simples e inteligente<br><br>【Controle】 Gerencie todos os seus dispositivos com um toque ou simplesmente pergunte — é muito fácil.<br><br>【Segurança】 Monitoramento em tempo real e alertas inteligentes mantêm sua casa segura 24 horas por dia, 7 dias por semana.<br><br>【Energia】 Acompanhe o consumo e economize na conta com informações inteligentes sobre energia.<br><br>【Agenda】 Mantenha-se organizado com tarefas compartilhadas e lembretes oportunos para toda a família.<br><br>【Ferramentas de IA para a Vida】 Fitness, nutrição, resumos de reuniões, cuidados com animais de estimação, tradução e muito mais — tudo o que você precisa, em um só lugar.",
+      "summary": "Vida Inteligente",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 54239662,
+      "score": 4.8334804,
+      "scoreText": "4,8",
+      "ratings": 1371152,
+      "reviews": 11135,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tuya.smartlife",
+      "url": "https://play.google.com/store/apps/details?id=com.tuya.smartlife&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Tuya: Smart Life, Smart Living",
+      "description": "Tuya — Seu Assistente Inteligente para uma Vida Inteligente com Inteligência Artificial\n\nTuya é mais do que um gerenciador de casa inteligente — é o seu assistente inteligente completo com inteligência artificial para uma vida inteligente. Aprimoramos todas as ferramentas essenciais para casas inteligentes com tecnologia de IA de ponta, tornando mais fácil do que nunca gerenciar, automatizar e proteger sua casa conectada com inteligência e simplicidade sem precedentes.\n\nVamos além do controle básico de dispositivos. Tuya desbloqueia um mundo de ferramentas poderosas de IA projetadas para todos os aspectos da sua vida inteligente, do trabalho e produtividade à vida diária, cuidados com animais de estimação e expressão criativa. Explore uma nova maneira de viver, trabalhar e criar com os recursos de IA em constante expansão do Tuya.\n\nFerramentas Essenciais de IA para uma Vida Inteligente\n\n- Controle da Casa Inteligente: Toque na tela ou envie comandos de voz simples para conectar e gerenciar todas as suas luzes, fechaduras, câmeras e eletrodomésticos inteligentes de diferentes marcas. A otimização por IA garante um controle suave e responsivo dos dispositivos inteligentes em uma rede estável.\n\n- Rotinas Automatizadas: Crie automações personalizadas com IA, acionadas por horário, clima externo, status do dispositivo ou seus hábitos diários. Sua casa pode se ajustar automaticamente sem intervenção manual, liberando seu tempo livre.\n- Segurança Residencial: Desfrute do monitoramento em tempo real da sua casa por IA 24 horas por dia, 7 dias por semana. O sistema envia alertas instantâneos para atividades anormais e permite a reprodução rápida de gravações para proteger totalmente sua família e propriedade.\n\n- Análise de Energia: Monitore com precisão o consumo de energia da sua casa em tempo real e receba sugestões personalizadas geradas por IA para reduzir os custos de eletricidade e sua pegada de carbono.\n\nExplore Mais Ferramentas de IA para o Seu Dia a Dia Inteligente\n\n- Eficiência com IA: Três ferramentas de IA integradas para aumentar a produtividade no trabalho e em casa\n\n- Anotações com IA: Grave, transcreva e resuma automaticamente o áudio de reuniões e palestras. Combine com nosso hardware exclusivo (disponível apenas para envio nos EUA) para experiências de gravação profissionais.\n\n- Lista de Tarefas com IA: Bloco de notas compartilhado para tarefas familiares, unificando todos os cronogramas da casa, acompanhando tarefas diárias e enviando lembretes automáticos para que você nunca perca compromissos importantes.\n\n- Tradução com IA: Tradução de voz e texto em tempo real que elimina barreiras linguísticas, perfeita para reuniões multilíngues, comunicação intercultural e viagens.\n- AI Calorie: Fotografe qualquer refeição para obter valores calóricos estimados instantaneamente como referência. A IA também cria planos alimentares personalizados para auxiliar na perda de peso, alimentação balanceada ou manutenção do peso. Apenas para referência — consulte um profissional antes de tomar qualquer decisão médica ou dietética.\n- AI Pet Know: Obtenha insights baseados em IA sobre o estado e o humor de seus animais de estimação. Ela pode identificar raças de animais, analisar suas emoções em tempo real e reconhecer animais exóticos, oferecendo sugestões gerais de cuidados diários.\n\n- AI Vibe Coding: Construído com base no modelo de linguagem HeyTuya, desenvolvido pela própria Tuya, você pode criar Agentes de IA exclusivos e personalizados. Eles ajudam a automatizar cenas de casa inteligente e horários diários para se adequarem aos seus hábitos de vida personalizados.\n\n- AI Lens: Poderosa ferramenta universal de reconhecimento visual. Basta apontar sua câmera para qualquer objeto, planta ou animal e você receberá informações de identificação completas e detalhadas em um segundo.\n\n- AI Generate: Crie conteúdo original impressionante com dois módulos criativos principais: Gerador de Fotos com IA e Gerador de Vídeos com IA. Centenas de modelos populares prontos permitem que você produza imagens e vídeos curtos personalizados em minutos.\n\nPronto para experimentar o futuro da vida inteligente? Experimente a Tuya AI hoje mesmo e deixe a IA transformar a maneira como você vive, trabalha e cria.",
+      "descriptionHTML": "Tuya — Seu Assistente Inteligente para uma Vida Inteligente com Inteligência Artificial<br><br>Tuya é mais do que um gerenciador de casa inteligente — é o seu assistente inteligente completo com inteligência artificial para uma vida inteligente. Aprimoramos todas as ferramentas essenciais para casas inteligentes com tecnologia de IA de ponta, tornando mais fácil do que nunca gerenciar, automatizar e proteger sua casa conectada com inteligência e simplicidade sem precedentes.<br><br>Vamos além do controle básico de dispositivos. Tuya desbloqueia um mundo de ferramentas poderosas de IA projetadas para todos os aspectos da sua vida inteligente, do trabalho e produtividade à vida diária, cuidados com animais de estimação e expressão criativa. Explore uma nova maneira de viver, trabalhar e criar com os recursos de IA em constante expansão do Tuya.<br><br>Ferramentas Essenciais de IA para uma Vida Inteligente<br><br>- Controle da Casa Inteligente: Toque na tela ou envie comandos de voz simples para conectar e gerenciar todas as suas luzes, fechaduras, câmeras e eletrodomésticos inteligentes de diferentes marcas. A otimização por IA garante um controle suave e responsivo dos dispositivos inteligentes em uma rede estável.<br><br>- Rotinas Automatizadas: Crie automações personalizadas com IA, acionadas por horário, clima externo, status do dispositivo ou seus hábitos diários. Sua casa pode se ajustar automaticamente sem intervenção manual, liberando seu tempo livre.<br>- Segurança Residencial: Desfrute do monitoramento em tempo real da sua casa por IA 24 horas por dia, 7 dias por semana. O sistema envia alertas instantâneos para atividades anormais e permite a reprodução rápida de gravações para proteger totalmente sua família e propriedade.<br><br>- Análise de Energia: Monitore com precisão o consumo de energia da sua casa em tempo real e receba sugestões personalizadas geradas por IA para reduzir os custos de eletricidade e sua pegada de carbono.<br><br>Explore Mais Ferramentas de IA para o Seu Dia a Dia Inteligente<br><br>- Eficiência com IA: Três ferramentas de IA integradas para aumentar a produtividade no trabalho e em casa<br><br>- Anotações com IA: Grave, transcreva e resuma automaticamente o áudio de reuniões e palestras. Combine com nosso hardware exclusivo (disponível apenas para envio nos EUA) para experiências de gravação profissionais.<br><br>- Lista de Tarefas com IA: Bloco de notas compartilhado para tarefas familiares, unificando todos os cronogramas da casa, acompanhando tarefas diárias e enviando lembretes automáticos para que você nunca perca compromissos importantes.<br><br>- Tradução com IA: Tradução de voz e texto em tempo real que elimina barreiras linguísticas, perfeita para reuniões multilíngues, comunicação intercultural e viagens.<br>- AI Calorie: Fotografe qualquer refeição para obter valores calóricos estimados instantaneamente como referência. A IA também cria planos alimentares personalizados para auxiliar na perda de peso, alimentação balanceada ou manutenção do peso. Apenas para referência — consulte um profissional antes de tomar qualquer decisão médica ou dietética.<br>- AI Pet Know: Obtenha insights baseados em IA sobre o estado e o humor de seus animais de estimação. Ela pode identificar raças de animais, analisar suas emoções em tempo real e reconhecer animais exóticos, oferecendo sugestões gerais de cuidados diários.<br><br>- AI Vibe Coding: Construído com base no modelo de linguagem HeyTuya, desenvolvido pela própria Tuya, você pode criar Agentes de IA exclusivos e personalizados. Eles ajudam a automatizar cenas de casa inteligente e horários diários para se adequarem aos seus hábitos de vida personalizados.<br><br>- AI Lens: Poderosa ferramenta universal de reconhecimento visual. Basta apontar sua câmera para qualquer objeto, planta ou animal e você receberá informações de identificação completas e detalhadas em um segundo.<br><br>- AI Generate: Crie conteúdo original impressionante com dois módulos criativos principais: Gerador de Fotos com IA e Gerador de Vídeos com IA. Centenas de modelos populares prontos permitem que você produza imagens e vídeos curtos personalizados em minutos.<br><br>Pronto para experimentar o futuro da vida inteligente? Experimente a Tuya AI hoje mesmo e deixe a IA transformar a maneira como você vive, trabalha e cria.",
+      "summary": "Vida inteligente, estilo de vida inteligente com o Tuya AI Smart Home Manager. Explore mais ferramentas de IA!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 31029931,
+      "score": 4.770351,
+      "scoreText": "4,8",
+      "ratings": 542619,
+      "reviews": 4689,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tuya.smart",
+      "url": "https://play.google.com/store/apps/details?id=com.tuya.smart&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Gigahood IQ",
+      "description": "Gigahood IQ é um aplicativo móvel para casa inteligente que permite aos assinantes gerenciar totalmente sua rede doméstica. Este aplicativo oferece controle dos pais, segurança de rede, configuração de redes Wi-Fi para convidados e gerenciamento de seu SSID.",
+      "descriptionHTML": "Gigahood IQ é um aplicativo móvel para casa inteligente que permite aos assinantes gerenciar totalmente sua rede doméstica. Este aplicativo oferece controle dos pais, segurança de rede, configuração de redes Wi-Fi para convidados e gerenciamento de seu SSID.",
+      "summary": "Gigahood IQ é um aplicativo móvel doméstico inteligente e fácil de usar.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 487,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Casa e decoração",
+      "genreId": "HOUSE_AND_HOME",
+      "categories": [
+        {
+          "name": "Casa e decoração",
+          "id": "HOUSE_AND_HOME"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hcigigahood.smarthome",
+      "url": "https://play.google.com/store/apps/details?id=com.hcigigahood.smarthome&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

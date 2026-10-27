@@ -1,4 +1,7 @@
 node_modules/
 dist/
-output/
 dedup/
+venv/
+.venv/
+__pycache__/
+*.egg-info/

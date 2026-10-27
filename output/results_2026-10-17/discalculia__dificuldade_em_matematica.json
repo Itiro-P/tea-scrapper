@@ -1,0 +1,804 @@
+{
+  "meta": {
+    "collect_time": "2026-10-17T23:44:57.182Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISCALCULIA",
+    "term": "dificuldade em matemática",
+    "key": "dificuldade em matematica",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Matematicando Olimpíada",
+      "description": "Este é um jogo educativo desenvolvido para dispositivos moveis (mobile) onde trabalhamos inicialmente com as operações básicas de matemática (SOMA, SUBTRAÇÃO, MULTIPLICAÇÃO E DIVISÃO) buscando inserir a este entretenimento o ensinamento da matemática que servirá de base para toda a cadeia de aprendizado do indivíduo tornando-se assim uma forma atrativa, inovadora e prazerosa de aprender.\n* Através do jogo MATEMATICANDO será aplicado um novo método batizado de LCN, que faz uso de um conjunto de técnica já existente e conhecida dentro e fora da área da educação. A primeira e principal é a atividade Lúdica que tem como objetivo produzir prazer quando de sua execução, ou seja, divertir o praticante durante o aprendizado. \n* A segunda é a Cromoterapia uma prática da utilização das cores para auxiliar as  crianças a encontrar com mais segurança as respostas correspondentes às operações e a terceira a Neolinguística onde posicionamos as operações e respostas na diagonal formando uma espécie de espiral girando da esquerda para direita se movimentando de cima para baixo, com isso leva ao exercitar os dois lados do cérebro para reprogramá-la através de uma linguagem que os neurônios possam entendê-lo e colocá-lo em prática.\nO jogo MATEMATICANDO será apresentado em interface Multi-Touch para iOS e Android e contemplará níveis de dificuldades que proporcionará ao usuário uma imersão no jogo através de sua colocação (rankings e matriz de conquista) local e global que contabilizará o número de acertos e o tempo de cada etapa criando expectativas de uma disputa saudável com os colegas, proporcionando ao usuário inconscientemente o conhecimento matemático, que antes era tão difícil de atingir com métodos tradicionais de ensino.",
+      "descriptionHTML": "Este é um jogo educativo desenvolvido para dispositivos moveis (mobile) onde trabalhamos inicialmente com as operações básicas de matemática (SOMA, SUBTRAÇÃO, MULTIPLICAÇÃO E DIVISÃO) buscando inserir a este entretenimento o ensinamento da matemática que servirá de base para toda a cadeia de aprendizado do indivíduo tornando-se assim uma forma atrativa, inovadora e prazerosa de aprender.<br>* Através do jogo MATEMATICANDO será aplicado um novo método batizado de LCN, que faz uso de um conjunto de técnica já existente e conhecida dentro e fora da área da educação. A primeira e principal é a atividade Lúdica que tem como objetivo produzir prazer quando de sua execução, ou seja, divertir o praticante durante o aprendizado. <br>* A segunda é a Cromoterapia uma prática da utilização das cores para auxiliar as  crianças a encontrar com mais segurança as respostas correspondentes às operações e a terceira a Neolinguística onde posicionamos as operações e respostas na diagonal formando uma espécie de espiral girando da esquerda para direita se movimentando de cima para baixo, com isso leva ao exercitar os dois lados do cérebro para reprogramá-la através de uma linguagem que os neurônios possam entendê-lo e colocá-lo em prática.<br>O jogo MATEMATICANDO será apresentado em interface Multi-Touch para iOS e Android e contemplará níveis de dificuldades que proporcionará ao usuário uma imersão no jogo através de sua colocação (rankings e matriz de conquista) local e global que contabilizará o número de acertos e o tempo de cada etapa criando expectativas de uma disputa saudável com os colegas, proporcionando ao usuário inconscientemente o conhecimento matemático, que antes era tão difícil de atingir com métodos tradicionais de ensino.",
+      "summary": "Matematicando - Somente modulo para Treinamento",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 152432,
+      "score": 4.33,
+      "scoreText": "4,3",
+      "ratings": 963,
+      "reviews": 487,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "air.MatematicandoEducation",
+      "url": "https://play.google.com/store/apps/details?id=air.MatematicandoEducation&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Matific Matemática",
+      "description": "Matific é um programa de matemática premiado que comprovou ajudar a melhorar as pontuações dos alunos nos testes de matemática em 34%. A plataforma é projetada por especialistas em educação matemática para crianças do mundo inteiro e é baseado em uma vasta experiência com ensino e pesquisa pedagógica. É focado no ensino de habilidades matemáticas básicas para crianças de uma forma divertida, educacional e interativa.\n\nAo cobrir todos os tópicos do currículo anual, a Matific desenvolve excelência em matemática e habilidades de resolução de problemas por meio de interações gamificadas. Escolhido por professores e diretores de escolas primárias em todo o mundo, Matific é o produto perfeito para desenvolver excelência matemática e intuição científica desde cedo. Temos milhares de atividades matemáticas intuitivas e adaptativas, cujo foco é cobrir e aprimorar as habilidades matemáticas básicas que eles devem aprender no ano letivo.\n\nSeu filho encontrará as seguintes habilidades e tópicos matemáticos básicos enquanto aprende por meio da Matific:\n\nÁlgebra\nAdição e subtração\nComparação\nContar\nAnalise de dados\nOperações decimais\nDecimais\nFrações\nGeometria\nSuperfície e área\nMedidas\nMultiplicação e divisão\nOperações mistas\nDinheiro\nPadrões\nPorcentagens\nResolução de problemas\nLer e escrever dígitos\nClima\nFiguras bidimensionais e muito mais!\n\nEDUCAÇÃO FINANCEIRA PARA OS ANOS 4–9\nDesenvolva habilidades práticas para a vida com atividades sobre dinheiro e orçamento, escolhas de consumo, segurança digital e fraudes, empréstimos e juros e planejamento para o futuro.\n\nCaracterísticas da Matific:\n\nConteúdo para crianças do jardim de infância à nona série\nAtividades projetadas para desenvolver as principais habilidades matemáticas\nPromove o aluno a descobrir a matemática por si mesmo\nSuporte integrado, que acompanha o aluno na aprendizagem\nAlinhado ao currículo\nRecompensa os alunos com premiações divertidas e interativas\nEnsina matemática em um sistema educacional progressivo e espiral\n\nMatific oferece a experiência educacional perfeita combinando diversão e aprendizado. Junte-se aos seus filhos nesta aventura extraordinária, que vai inventivar eles a amarem a matemática!\n\n“Esse tipo de programa, que dá aos alunos oportunidades de explorar e experimentar ideias matemáticas específicas, é raro e muito mais valioso para meus alunos do que um tutorial ou site de prática de habilidades. Lições com Matific constroem senso de número e raciocínio matemático muito melhores do que as lições de livros didáticos padrão. ” Cathy F. Califórnia\n\n\"A Matific é estimulante, inovadora e de alta qualidade. Muitas aplicações fazem à educação o que a agricultura faz aos alimentos: tornam-na eficiente, plana e de baixa qualidade. Matific realmente se destaca\"\", John D. (Reino Unido)\n\nPolítica de privacidade: https://www.matific.com/home/privacy/\nTermos e Condições: https://www.matific.com/home/terms/\n\nConheça o impacto da Matific baseado em evidências:\nhttps://www.matific.com/home/why-matific/research-and-efficacy/",
+      "descriptionHTML": "Matific é um programa de matemática premiado que comprovou ajudar a melhorar as pontuações dos alunos nos testes de matemática em 34%. A plataforma é projetada por especialistas em educação matemática para crianças do mundo inteiro e é baseado em uma vasta experiência com ensino e pesquisa pedagógica. É focado no ensino de habilidades matemáticas básicas para crianças de uma forma divertida, educacional e interativa.<br><br>Ao cobrir todos os tópicos do currículo anual, a Matific desenvolve excelência em matemática e habilidades de resolução de problemas por meio de interações gamificadas. Escolhido por professores e diretores de escolas primárias em todo o mundo, Matific é o produto perfeito para desenvolver excelência matemática e intuição científica desde cedo. Temos milhares de atividades matemáticas intuitivas e adaptativas, cujo foco é cobrir e aprimorar as habilidades matemáticas básicas que eles devem aprender no ano letivo.<br><br>Seu filho encontrará as seguintes habilidades e tópicos matemáticos básicos enquanto aprende por meio da Matific:<br><br>Álgebra<br>Adição e subtração<br>Comparação<br>Contar<br>Analise de dados<br>Operações decimais<br>Decimais<br>Frações<br>Geometria<br>Superfície e área<br>Medidas<br>Multiplicação e divisão<br>Operações mistas<br>Dinheiro<br>Padrões<br>Porcentagens<br>Resolução de problemas<br>Ler e escrever dígitos<br>Clima<br>Figuras bidimensionais e muito mais!<br><br>EDUCAÇÃO FINANCEIRA PARA OS ANOS 4–9<br>Desenvolva habilidades práticas para a vida com atividades sobre dinheiro e orçamento, escolhas de consumo, segurança digital e fraudes, empréstimos e juros e planejamento para o futuro.<br><br>Características da Matific:<br><br>Conteúdo para crianças do jardim de infância à nona série<br>Atividades projetadas para desenvolver as principais habilidades matemáticas<br>Promove o aluno a descobrir a matemática por si mesmo<br>Suporte integrado, que acompanha o aluno na aprendizagem<br>Alinhado ao currículo<br>Recompensa os alunos com premiações divertidas e interativas<br>Ensina matemática em um sistema educacional progressivo e espiral<br><br>Matific oferece a experiência educacional perfeita combinando diversão e aprendizado. Junte-se aos seus filhos nesta aventura extraordinária, que vai inventivar eles a amarem a matemática!<br><br>“Esse tipo de programa, que dá aos alunos oportunidades de explorar e experimentar ideias matemáticas específicas, é raro e muito mais valioso para meus alunos do que um tutorial ou site de prática de habilidades. Lições com Matific constroem senso de número e raciocínio matemático muito melhores do que as lições de livros didáticos padrão. ” Cathy F. Califórnia<br><br>&quot;A Matific é estimulante, inovadora e de alta qualidade. Muitas aplicações fazem à educação o que a agricultura faz aos alimentos: tornam-na eficiente, plana e de baixa qualidade. Matific realmente se destaca&quot;&quot;, John D. (Reino Unido)<br><br>Política de privacidade: https://www.matific.com/home/privacy/<br>Termos e Condições: https://www.matific.com/home/terms/<br><br>Conheça o impacto da Matific baseado em evidências:<br>https://www.matific.com/home/why-matific/research-and-efficacy/",
+      "summary": "Jogos matemáticos para crianças no ensino fundamental.",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 6876487,
+      "score": 4.3948774,
+      "scoreText": "4,4",
+      "ratings": 30850,
+      "reviews": 8972,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.slatescience.Matific",
+      "url": "https://play.google.com/store/apps/details?id=com.slatescience.Matific&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Matemática: Somar, Subtrair",
+      "description": "Deseja melhorar as habilidades matemáticas do seu filho? ❓ Que tal ajudá-lo a dominar a matemática com divertidos jogos de matemática grátis? ✔️ O Jogos Matemáticos é a maneira perfeita de ajudar as crianças a aprender habilidades matemáticas da maneira mais fácil! 🚀\n\nO nosso jogo de matemática para crianças é divertido, gratuito e não tem anúncios! ✔️ Resolva uma grande variedade de quebra-cabeças e desafios matemáticos usando apenas aritmética básica. Adquira novas habilidades, adição ➕ subtração ➖, multiplicação ✖️ divisão ➗, e aprenda matemática avançada como frações, decimais e operações mistas. É incrivelmente divertido jogar com esta coleção de jogos de matemática para toda a família. E o melhor de tudo: totalmente GRÁTIS!\n\n👉 Os jogos matemáticos fazem com que o seu filho se apaixone pela matemática. As crianças adoram chamar-lhe um jogo de mais menos. 🥰 Se procura jogos de matemática para a classe 3 ou jogos de matemática para crianças dos 8 aos 10 anos de idade, encontrará este jogo de matemática que satisfaz todas as suas necessidades. 📙 Esta aplicação matemática tem jogos de números, jogos de adição, jogos de multiplicação, jogos de mesa, e muito mais jogos matemáticos divertidos para crianças. \n\n🔆 Razões para descarregar este jogo de matemática: \n• Tem uma variedade de opções de jogos de matemática. \n• A dificuldade dos jogos de matemática vai desde o simples jogo mais menos a jogos de divisão e multiplicação difíceis. \n• Este jogo de matemática tem um ambiente amigável para as crianças, sem distracções\n• O ambiente de aprendizagem é muito confortável para crianças e novos alunos. \n• Todos os jogos de matemática têm uma opção de aprendizagem, se as crianças acharem difícil de resolver, podem tocar no botão Aprender e ver como resolver um problema de matemática passo a passo.\n\nO nosso jogo matemático inclui muitos jogos divertidos para aprendizado constante. 🎓 Oferecemos jogos para crianças, jogos de subtração, jogos de multiplicação, jogos de divisão, frações, decimais, raízes quadradas, expoentes e operação mista, tudo em um único jogo. ✏️ Com operações mistas, você coloca seu conhecimento à prova praticando adição, subtração, multiplicação, divisão, tudo em um único modo!\n\n📌 Jogos de matemática para crianças devem ser divertidos! 🎯 O nosso aplicativo educacional é adequado para crianças no jardim de infância e no ensino fundamental e, é claro, qualquer adolescente ou adulto que esteja interessado em treinar o cérebro e melhorar as habilidades matemáticas! 🤩\n\n👉 O que você está esperando? Baixe agora mesmo o mais divertido jogo de matemática gratuitamente. 🔥",
+      "descriptionHTML": "Deseja melhorar as habilidades matemáticas do seu filho? ❓ Que tal ajudá-lo a dominar a matemática com divertidos jogos de matemática grátis? ✔️ O Jogos Matemáticos é a maneira perfeita de ajudar as crianças a aprender habilidades matemáticas da maneira mais fácil! 🚀<br><br>O nosso jogo de matemática para crianças é divertido, gratuito e não tem anúncios! ✔️ Resolva uma grande variedade de quebra-cabeças e desafios matemáticos usando apenas aritmética básica. Adquira novas habilidades, adição ➕ subtração ➖, multiplicação ✖️ divisão ➗, e aprenda matemática avançada como frações, decimais e operações mistas. É incrivelmente divertido jogar com esta coleção de jogos de matemática para toda a família. E o melhor de tudo: totalmente GRÁTIS!<br><br>👉 Os jogos matemáticos fazem com que o seu filho se apaixone pela matemática. As crianças adoram chamar-lhe um jogo de mais menos. 🥰 Se procura jogos de matemática para a classe 3 ou jogos de matemática para crianças dos 8 aos 10 anos de idade, encontrará este jogo de matemática que satisfaz todas as suas necessidades. 📙 Esta aplicação matemática tem jogos de números, jogos de adição, jogos de multiplicação, jogos de mesa, e muito mais jogos matemáticos divertidos para crianças. <br><br>🔆 Razões para descarregar este jogo de matemática: <br>• Tem uma variedade de opções de jogos de matemática. <br>• A dificuldade dos jogos de matemática vai desde o simples jogo mais menos a jogos de divisão e multiplicação difíceis. <br>• Este jogo de matemática tem um ambiente amigável para as crianças, sem distracções<br>• O ambiente de aprendizagem é muito confortável para crianças e novos alunos. <br>• Todos os jogos de matemática têm uma opção de aprendizagem, se as crianças acharem difícil de resolver, podem tocar no botão Aprender e ver como resolver um problema de matemática passo a passo.<br><br>O nosso jogo matemático inclui muitos jogos divertidos para aprendizado constante. 🎓 Oferecemos jogos para crianças, jogos de subtração, jogos de multiplicação, jogos de divisão, frações, decimais, raízes quadradas, expoentes e operação mista, tudo em um único jogo. ✏️ Com operações mistas, você coloca seu conhecimento à prova praticando adição, subtração, multiplicação, divisão, tudo em um único modo!<br><br>📌 Jogos de matemática para crianças devem ser divertidos! 🎯 O nosso aplicativo educacional é adequado para crianças no jardim de infância e no ensino fundamental e, é claro, qualquer adolescente ou adulto que esteja interessado em treinar o cérebro e melhorar as habilidades matemáticas! 🤩<br><br>👉 O que você está esperando? Baixe agora mesmo o mais divertido jogo de matemática gratuitamente. 🔥",
+      "summary": "Jogos Matemáticos para Criança, Saiba Adição, Subtração, Multiplicação e Divisão",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 50864647,
+      "score": 4.406571,
+      "scoreText": "4,4",
+      "ratings": 72183,
+      "reviews": 2627,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division",
+      "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.math.games.kids.addition.subtraction.multiplication.division&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Jogos de matemática",
+      "description": "Melhores jogos gratuitos de matemática para crianças e adultos.\n\nIdiomas: inglês, espanhol, alemão, italiano, português\n\nCaracterísticas :\n- Jogos de adição\n- Jogos de subtração\n- Jogos de multiplicação e tabelas de multiplicação\n- Divisão jogos e divisão tabelas\n\nOs jogos são tão simples e fáceis, mesmo que as crianças mais jovens possam jogar. O melhor jogo de prática de matemática para treinar seu cérebro e é projetado para todas as idades, incluindo crianças, meninas e meninos, adultos, incluindo pais e avós. Jogos de multiplicação e divisão mais fáceis com jogos adicionais e de subtração. Os jogos de matemática podem ser aprendizado educacional para crianças ou aplicativo de treinamento de cérebro para adultos. Matemática básica e simples de adição, subtração, multiplicação e divisão com planilhas coloridas.\n\nProjetado para todos os smartphones e tablets, não é necessária conexão à internet. Agora baixe e jogue gratuitamente no Android!\n\nBaixe o nosso jogo de matemática agora do Google Play e compartilhe este incrível jogo para praticar matemática",
+      "descriptionHTML": "Melhores jogos gratuitos de matemática para crianças e adultos.<br><br>Idiomas: inglês, espanhol, alemão, italiano, português<br><br>Características :<br>- Jogos de adição<br>- Jogos de subtração<br>- Jogos de multiplicação e tabelas de multiplicação<br>- Divisão jogos e divisão tabelas<br><br>Os jogos são tão simples e fáceis, mesmo que as crianças mais jovens possam jogar. O melhor jogo de prática de matemática para treinar seu cérebro e é projetado para todas as idades, incluindo crianças, meninas e meninos, adultos, incluindo pais e avós. Jogos de multiplicação e divisão mais fáceis com jogos adicionais e de subtração. Os jogos de matemática podem ser aprendizado educacional para crianças ou aplicativo de treinamento de cérebro para adultos. Matemática básica e simples de adição, subtração, multiplicação e divisão com planilhas coloridas.<br><br>Projetado para todos os smartphones e tablets, não é necessária conexão à internet. Agora baixe e jogue gratuitamente no Android!<br><br>Baixe o nosso jogo de matemática agora do Google Play e compartilhe este incrível jogo para praticar matemática",
+      "summary": "Jogo matemático - Adição, subtração, multiplicação e divisão",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 70400611,
+      "score": 4.6106963,
+      "scoreText": "4,6",
+      "ratings": 295217,
+      "reviews": 18713,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.GamesForKids.Mathgames.MultiplicationTables",
+      "url": "https://play.google.com/store/apps/details?id=com.GamesForKids.Mathgames.MultiplicationTables&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Jogo de Matemática, Crossmath",
+      "description": "Os MELHORES jogos de palavras cruzadas de matemática GRÁTIS para você! Relaxe e treine seu cérebro com quebra-cabeças numéricos! Jogue o jogo em qualquer lugar, a qualquer hora!\n\nO Cross Math Game é mais desafiador do que parece! Este envolvente jogo de quebra-cabeça numérico testa suas habilidades matemáticas com uma série de equações que desafiam o cérebro. Resolva quebra-cabeças de matemática cruzada usando adição, subtração, multiplicação e divisão enquanto aprimora sua lógica e pensamento crítico. Cada nível do jogo numérico oferece um novo desafio de palavras cruzadas de matemática, tornando-o uma maneira divertida e gratificante de treinar seu cérebro.\n\nCom uma variedade de quebra-cabeças de matemática, níveis de dificuldade e desafios lógicos, este jogo de palavras cruzadas de matemática oferece a maneira perfeita de testar e melhorar suas habilidades matemáticas. Prepare-se para jogar, pensar e resolver seu caminho através de emocionantes desafios de jogos de matemática!\n\nPrincipais recursos deste jogo de palavras cruzadas de matemática e quebra-cabeças de matemática cruzada\n- Desfazer ilimitado. Cometeu um erro de matemática? Não se preocupe, basta um clique para desfazê-lo!\n- Estatísticas. Acompanhe seu progresso matemático com um registro detalhado do jogo. Monitore sua melhora em habilidades matemáticas e busque novas pontuações altas a cada jogo de palavras cruzadas matemáticas!\n- Fontes grandes e modo escuro. Preocupado com números pequenos? Quer jogar o quebra-cabeça cerebral na hora de dormir? Sem problemas! Habilite as configurações de fontes grandes e modo escuro para uma melhor experiência de visualização. Agora você pode se concentrar no jogo de quebra-cabeça matemático sem forçar os olhos!\n- Tabela de classificação. Você é um jogador competitivo de quebra-cabeça matemático? Desafie-se no Modo Infinito e confira sua classificação na tabela de classificação global de poder matemático. Veja como você se compara aos amantes da matemática do mundo todo!\n\nDestaques deste jogo de palavras cruzadas e quebra-cabeças matemáticos\n- Escolha os níveis de dificuldade matemática: fácil, médio, difícil e especialista.\n- Desafio diário de quebra-cabeça matemático. Uma palavra cruzada matemática por dia mantém o neurologista longe.\n- Modo Infinito. Neste modo de jogo de quebra-cabeça matemático, os erros matemáticos não serão verificados antes de você finalmente enviar suas respostas do jogo. Quanto mais níveis de palavras cruzadas de matemática você completar sem erros, maior será sua pontuação no jogo de matemática.\n- Eventos temáticos de números e aventuras matemáticas. Quer desafiar suas habilidades de lógica matemática em eventos de jogos de quebra-cabeça de números por tempo limitado? Experimente agora para desbloquear seus emblemas especiais!\n- Corrida de estrelas de quebra-cabeça de matemática. Compita com outros jogadores de palavras cruzadas de matemática para ganhar recompensas!\n- Power-ups úteis. O jogo de quebra-cabeça de matemática cruzada apresenta uma variedade de power-ups que podem ajudá-lo a resolver o jogo de quebra-cabeça de números mais rápido. Esses power-ups podem dar dicas, notas avançadas, etc.\n\nCom todos esses recursos, este jogo de quebra-cabeça de números de palavras cruzadas de matemática certamente lhe proporcionará horas de diversão com quebra-cabeças de números e desafios matemáticos envolventes. Com este desafiador jogo de quebra-cabeça de números, você pode dominar rapidamente as habilidades de lógica e se tornar um mestre em matemática em pouco tempo!\n\nAproveite os jogos de quebra-cabeça de matemática e treine seu cérebro agora! O jogo de quebra-cabeça de matemática cruzada é a maneira perfeita de testar suas habilidades de resolução de problemas enquanto se diverte. Então, o que você está esperando?\n\nPolítica de Privacidade: https://crossmath.gurugame.ai/policy.html\nTermos de Serviço: https://crossmath.gurugame.ai/termsofservice.html",
+      "descriptionHTML": "<b>Os MELHORES jogos de palavras cruzadas de matemática GRÁTIS para você! Relaxe e treine seu cérebro com quebra-cabeças numéricos! Jogue o jogo em qualquer lugar, a qualquer hora!</b><br><br>O Cross Math Game é mais desafiador do que parece! Este envolvente jogo de quebra-cabeça numérico testa suas habilidades matemáticas com uma série de equações que desafiam o cérebro. Resolva quebra-cabeças de matemática cruzada usando adição, subtração, multiplicação e divisão enquanto aprimora sua lógica e pensamento crítico. Cada nível do jogo numérico oferece um novo desafio de palavras cruzadas de matemática, tornando-o uma maneira divertida e gratificante de treinar seu cérebro.<br><br>Com uma variedade de quebra-cabeças de matemática, níveis de dificuldade e desafios lógicos, este jogo de palavras cruzadas de matemática oferece a maneira perfeita de testar e melhorar suas habilidades matemáticas. Prepare-se para jogar, pensar e resolver seu caminho através de emocionantes desafios de jogos de matemática!<br><br><b>Principais recursos deste jogo de palavras cruzadas de matemática e quebra-cabeças de matemática cruzada</b><br>- <b>Desfazer ilimitado</b>. Cometeu um erro de matemática? Não se preocupe, basta um clique para desfazê-lo!<br>- <b>Estatísticas</b>. Acompanhe seu progresso matemático com um registro detalhado do jogo. Monitore sua melhora em habilidades matemáticas e busque novas pontuações altas a cada jogo de palavras cruzadas matemáticas!<br>- <b>Fontes grandes e modo escuro</b>. Preocupado com números pequenos? Quer jogar o quebra-cabeça cerebral na hora de dormir? Sem problemas! Habilite as configurações de fontes grandes e modo escuro para uma melhor experiência de visualização. Agora você pode se concentrar no jogo de quebra-cabeça matemático sem forçar os olhos!<br>- <b>Tabela de classificação</b>. Você é um jogador competitivo de quebra-cabeça matemático? Desafie-se no Modo Infinito e confira sua classificação na tabela de classificação global de poder matemático. Veja como você se compara aos amantes da matemática do mundo todo!<br><br><b>Destaques deste jogo de palavras cruzadas e quebra-cabeças matemáticos</b><br>- Escolha os níveis de dificuldade matemática: fácil, médio, difícil e especialista.<br>- Desafio diário de quebra-cabeça matemático. Uma palavra cruzada matemática por dia mantém o neurologista longe.<br>- Modo Infinito. Neste modo de jogo de quebra-cabeça matemático, os erros matemáticos não serão verificados antes de você finalmente enviar suas respostas do jogo. Quanto mais níveis de palavras cruzadas de matemática você completar sem erros, maior será sua pontuação no jogo de matemática.<br>- Eventos temáticos de números e aventuras matemáticas. Quer desafiar suas habilidades de lógica matemática em eventos de jogos de quebra-cabeça de números por tempo limitado? Experimente agora para desbloquear seus emblemas especiais!<br>- Corrida de estrelas de quebra-cabeça de matemática. Compita com outros jogadores de palavras cruzadas de matemática para ganhar recompensas!<br>- Power-ups úteis. O jogo de quebra-cabeça de matemática cruzada apresenta uma variedade de power-ups que podem ajudá-lo a resolver o jogo de quebra-cabeça de números mais rápido. Esses power-ups podem dar dicas, notas avançadas, etc.<br><br>Com todos esses recursos, este jogo de quebra-cabeça de números de palavras cruzadas de matemática certamente lhe proporcionará horas de diversão com quebra-cabeças de números e desafios matemáticos envolventes. Com este desafiador jogo de quebra-cabeça de números, você pode dominar rapidamente as habilidades de lógica e se tornar um mestre em matemática em pouco tempo!<br><br>Aproveite os jogos de quebra-cabeça de matemática e treine seu cérebro agora! O jogo de quebra-cabeça de matemática cruzada é a maneira perfeita de testar suas habilidades de resolução de problemas enquanto se diverte. Então, o que você está esperando?<br><br>Política de Privacidade: https://crossmath.gurugame.ai/policy.html<br>Termos de Serviço: https://crossmath.gurugame.ai/termsofservice.html",
+      "summary": "Quebra-cabeça de matemática Cross viciante p/ treinar o cérebro e relaxar!",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 52023104,
+      "score": 4.8936067,
+      "scoreText": "4,9",
+      "ratings": 888817,
+      "reviews": 6055,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Lógica",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "math.puzzle.games.crossmath.number.puzzles.free",
+      "url": "https://play.google.com/store/apps/details?id=math.puzzle.games.crossmath.number.puzzles.free&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Mestre em Cálculo Mental",
+      "description": "Chega de depender da calculadora do celular!\n\nVocê já passou por aquela situação onde a conta do restaurante chega, você precisa calcular um desconto no shopping ou estimar um custo rápido e todo mundo fica travado procurando o celular? Com o Mental Math, você muda esse jogo. Torne-se a pessoa que entrega o resultado antes mesmo dos outros desbloquearem a tela.\n\nO upgrade que seu cérebro precisava O cálculo mental é mais do que matemática – é uma superpoder cognitivo. Ele aumenta sua concentração, sua autoconfiança e garante um \"status\" diferenciado no dia a dia. Quem calcula de cabeça com rapidez transmite competência, agilidade de raciocínio e autoridade em qualquer conversa ou negociação.\n\nPor que escolher o Mental Math?\n\n• Foco total na vida real: Esqueça contas abstratas. Temos mais de 500 problemas em formato de texto baseados em situações reais: finanças, gerenciamento de tempo, compras e lógica.\n\n• Evolução passo a passo: São 12 níveis estruturados que levam você do básico às tarefas mais complexas. Você aprende o método para resolver grandes desafios mentalmente.\n\n• Velocidade máxima: Nosso treinamento é focado em reduzir seu tempo de reação. Treine seu cérebro para reconhecer padrões numéricos em vez de apenas contar nos dedos.\n\n• Status e Agilidade: Sinta a satisfação de dominar os números. Impressione colegas, amigos e a si mesmo com sua nova agilidade mental.\n\nDestaques do App:\n\n• 12 Níveis de Aprendizado: Uma jornada completa da matemática básica até a \"classe mestre\" do cotidiano.\n\n• Mais de 500 Tarefas: Uma enorme variedade de problemas práticos e contextualizados.\n\n• Acompanhamento de Progresso: Veja sua velocidade aumentar a cada dia com estatísticas claras.\n\n• Design Clean: Sem distrações. Foco total no seu treinamento cerebral.\nPare de chutar. Comece a saber.\n\nSeja para manter a mente afiada, se preparar para uma entrevista de emprego ou apenas desfrutar da liberdade de não depender de tecnologia para contas simples: o Mental Math é seu treinador pessoal.\n\nBaixe agora o Mental Math e domine o mundo dos números!",
+      "descriptionHTML": "<b>Chega de depender da calculadora do celular!</b><br><br>Você já passou por aquela situação onde a conta do restaurante chega, você precisa calcular um desconto no shopping ou estimar um custo rápido e todo mundo fica travado procurando o celular? Com o Mental Math, você muda esse jogo. Torne-se a pessoa que entrega o resultado antes mesmo dos outros desbloquearem a tela.<br><br><b>O upgrade que seu cérebro precisava</b> O cálculo mental é mais do que matemática – é uma superpoder cognitivo. Ele aumenta sua concentração, sua autoconfiança e garante um &quot;status&quot; diferenciado no dia a dia. Quem calcula de cabeça com rapidez transmite competência, agilidade de raciocínio e autoridade em qualquer conversa ou negociação.<br><br><b>Por que escolher o Mental Math?</b><br><br>• Foco total na vida real: Esqueça contas abstratas. Temos mais de 500 problemas em formato de texto baseados em situações reais: finanças, gerenciamento de tempo, compras e lógica.<br><br>• Evolução passo a passo: São 12 níveis estruturados que levam você do básico às tarefas mais complexas. Você aprende o método para resolver grandes desafios mentalmente.<br><br>• Velocidade máxima: Nosso treinamento é focado em reduzir seu tempo de reação. Treine seu cérebro para reconhecer padrões numéricos em vez de apenas contar nos dedos.<br><br>• Status e Agilidade: Sinta a satisfação de dominar os números. Impressione colegas, amigos e a si mesmo com sua nova agilidade mental.<br><br><b>Destaques do App:</b><br><br>• 12 Níveis de Aprendizado: Uma jornada completa da matemática básica até a &quot;classe mestre&quot; do cotidiano.<br><br>• Mais de 500 Tarefas: Uma enorme variedade de problemas práticos e contextualizados.<br><br>• Acompanhamento de Progresso: Veja sua velocidade aumentar a cada dia com estatísticas claras.<br><br>• Design Clean: Sem distrações. Foco total no seu treinamento cerebral.<br>Pare de chutar. Comece a saber.<br><br>Seja para manter a mente afiada, se preparar para uma entrevista de emprego ou apenas desfrutar da liberdade de não depender de tecnologia para contas simples: o Mental Math é seu treinador pessoal.<br><br><b>Baixe agora o Mental Math e domine o mundo dos números!</b>",
+      "summary": "Calcule rápido no dia a dia",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1935555,
+      "score": 4.68,
+      "scoreText": "4,7",
+      "ratings": 8124,
+      "reviews": 189,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.fivedaysweekend.math",
+      "url": "https://play.google.com/store/apps/details?id=com.fivedaysweekend.math&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Jogos de matemática & Frações",
+      "description": " Exercícios de matemática \nPerguntas básicas de matemática gratuitas adequadas para alunos, crianças, meninos, meninas, adultos, pais, avós para praticar matemática, aprender matemática e exercitar seu cérebro!\n\nJogos de matemática\nAjude as crianças a aprender a somar, subtrair, multiplicar, dividir,geometria em um nível adequado para todas as faixas etárias, para o jardim de infância, escola primária, crianças e crianças mais velhas. Você pode selecionar tarefas da lista e criar teste de matemática, o que o torna as crianças têm mais probabilidade de aprender matemática. Aprender brincando é muito mais eficaz!\n\n Problemas matematicos \nSe você é um estudante universitário, o aplicativo pode ajudá-lo a aprender e resolver problemas matemáticos. O aplicativo irá ajudá-lo a dominar a matemática básica em um curto espaço de tempo. Se você é um adulto, você pode treinar seu cérebro e resolver o teste de matemática! Cada tarefa tem uma resposta que explica passo a passo a solução!\n\n Aprender matemática \nO aplicativo ajuda as crianças a adquirir o hábito de aprender e praticar matemática todos os dias. Seja ativo e resolva o teste para obter recompensas interessantes, ganhar pontos e desbloquear novos níveis e classificações!\n\nJogos matemáticos\nJogue jogos de matemática e resolva problemas de matemática!\n\nApp educacional de matemática\n1. Testes de matemática - aprender matemática enquanto se diverte é o mais eficaz\n2. Matemática para crianças - aprenda operações matemáticas básicas como adição, subtração, multiplicação, divisão\n3. O treinamento do cérebro em matemática e os testes de matemática irão ajudá-lo a melhorar suas habilidades matemáticas e serão um ótimo treinamento para o seu cérebro!\n4. Testes de matemática - escolha tarefas da lista e faça testes de matemática. Você pode se preparar rapidamente para um exame!\n5. Problemas matematicos - o aplicativo contém questões mais difíceis e pode ser uma boa ajuda para quem estuda na universidade!\n\nJuego de matematicas\n1. App matemática com um bom design!\n2. Cada tarefa tem uma resposta que explica a solução passo a passo\n3. Adequado para crianças no jardim de infância, escola primária, escola secundária, universidade e adultos\n4. Problemas matemáticos desafiadores!\n5. Aprender matemática gratuitamente\n\nTestes de matemática\nMelhore as habilidades matemáticas com testes educacionais de matemática. Divirta-se com divertidos testes de matemática!\n\nApp matemática\nVocê está procurando um aplicativo de matemática para ajudar as crianças a praticar matemática? A matemática básica é o melhor de todos os aplicativos de matemática, baixe e experimente!\n\n Exercício de matemática \nPratique questões matemáticas para crianças de todas as idades. Treine seu cérebro com jogos matemáticos fáceis e melhore suas habilidades matemáticas!\n\nJogo de matemática\nDeixe os testes de matemática gratuitos ajudá-lo. Jogos matemáticos gratuitos adequados para todos os dispositivos.\n\nTópicos de matemática\n\nClasse 1\n- adição e subtração\n- números romanos\n\nClasse 2\n- multiplicação e divisão\n- conversão de unidade\n- ordem de operações\n\nClasse 3\n- percentagens\n- elementos\n- poderes e raízes\n- frações\n- adicionar frações\n- subtraindo frações\n- frações decimais\n- álgebra\n- geometria\n\nClasse 4-8\n- equações\n- sistema de equações\n- figuras básicas de geometria\n- geometria sólida\n\nColegial: \n- logaritmos\n- fórmulas de multiplicação curtas\n- teorema de senos e cossenos\n- sequências\n- geometria analítica\n- polinômios",
+      "descriptionHTML": "<b> Exercícios de matemática </b><br>Perguntas básicas de matemática gratuitas adequadas para alunos, crianças, meninos, meninas, adultos, pais, avós para praticar matemática, aprender matemática e exercitar seu cérebro!<br><br><b>Jogos de matemática</b><br>Ajude as crianças a aprender a somar, subtrair, multiplicar, dividir,geometria em um nível adequado para todas as faixas etárias, para o jardim de infância, escola primária, crianças e crianças mais velhas. Você pode selecionar tarefas da lista e criar teste de matemática, o que o torna as crianças têm mais probabilidade de aprender matemática. Aprender brincando é muito mais eficaz!<br><br><b> Problemas matematicos </b><br>Se você é um estudante universitário, o aplicativo pode ajudá-lo a aprender e resolver problemas matemáticos. O aplicativo irá ajudá-lo a dominar a matemática básica em um curto espaço de tempo. Se você é um adulto, você pode treinar seu cérebro e resolver o teste de matemática! Cada tarefa tem uma resposta que explica passo a passo a solução!<br><br><b> Aprender matemática </b><br>O aplicativo ajuda as crianças a adquirir o hábito de aprender e praticar matemática todos os dias. Seja ativo e resolva o teste para obter recompensas interessantes, ganhar pontos e desbloquear novos níveis e classificações!<br><br><b>Jogos matemáticos</b><br>Jogue jogos de matemática e resolva problemas de matemática!<br><br><b>App educacional de matemática</b><br>1. Testes de matemática - aprender matemática enquanto se diverte é o mais eficaz<br>2. Matemática para crianças - aprenda operações matemáticas básicas como adição, subtração, multiplicação, divisão<br>3. O treinamento do cérebro em matemática e os testes de matemática irão ajudá-lo a melhorar suas habilidades matemáticas e serão um ótimo treinamento para o seu cérebro!<br>4. Testes de matemática - escolha tarefas da lista e faça testes de matemática. Você pode se preparar rapidamente para um exame!<br>5. Problemas matematicos - o aplicativo contém questões mais difíceis e pode ser uma boa ajuda para quem estuda na universidade!<br><br><b>Juego de matematicas</b><br>1. App matemática com um bom design!<br>2. Cada tarefa tem uma resposta que explica a solução passo a passo<br>3. Adequado para crianças no jardim de infância, escola primária, escola secundária, universidade e adultos<br>4. Problemas matemáticos desafiadores!<br>5. Aprender matemática gratuitamente<br><br><b>Testes de matemática</b><br>Melhore as habilidades matemáticas com testes educacionais de matemática. Divirta-se com divertidos testes de matemática!<br><br><b>App matemática</b><br>Você está procurando um aplicativo de matemática para ajudar as crianças a praticar matemática? A matemática básica é o melhor de todos os aplicativos de matemática, baixe e experimente!<br><br><b> Exercício de matemática </b><br>Pratique questões matemáticas para crianças de todas as idades. Treine seu cérebro com jogos matemáticos fáceis e melhore suas habilidades matemáticas!<br><br><b>Jogo de matemática</b><br>Deixe os testes de matemática gratuitos ajudá-lo. Jogos matemáticos gratuitos adequados para todos os dispositivos.<br><br><b>Tópicos de matemática</b><br><br>Classe 1<br>- adição e subtração<br>- números romanos<br><br>Classe 2<br>- multiplicação e divisão<br>- conversão de unidade<br>- ordem de operações<br><br>Classe 3<br>- percentagens<br>- elementos<br>- poderes e raízes<br>- frações<br>- adicionar frações<br>- subtraindo frações<br>- frações decimais<br>- álgebra<br>- geometria<br><br>Classe 4-8<br>- equações<br>- sistema de equações<br>- figuras básicas de geometria<br>- geometria sólida<br><br>Colegial: <br>- logaritmos<br>- fórmulas de multiplicação curtas<br>- teorema de senos e cossenos<br>- sequências<br>- geometria analítica<br>- polinômios",
+      "summary": "Matemática  - Aprenda matemática e jogue jogos de matemática!",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 5373764,
+      "score": 4.8052435,
+      "scoreText": "4,8",
+      "ratings": 62031,
+      "reviews": 2456,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.companyname.MaturaMatematyka",
+      "url": "https://play.google.com/store/apps/details?id=com.companyname.MaturaMatematyka&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Tabuada: Matematica atividade",
+      "description": "Aprenda a tabuada com jogos de matemática de multiplicação para crianças! 👩‍🏫\n\nDescubra uma maneira fácil e sem estresse de dominar a multiplicação com jogos de matemática. Aprenda por meio de prática, quebra-cabeças e desafios empolgantes projetados para todas as idades.\n\n🎮 Modos de Jogo Empolgantes\nNosso aplicativo torna a prática da tabuada interativa e livre de frustrações:\n\n➖ Modo de Estudo: Veja cartas claras e simples com a tabuada de multiplicação do 1 ao 30 para memorizar os fatos facilmente. \n➖ Modo de Teste: Desafie-se com três tipos de desafios diferentes: Teste, Verdadeiro ou Falso, ou Entrada direta. \n➖ Modo de Treinamento: Personalize sua prática! Escolha sua operação: Multiplicação, Divisão, Adição e Subtração - e selecione qualquer intervalo de números até 1000!\n\nApós cada teste, você tem a oportunidade de revisar suas respostas, ver seus erros e trabalhar nos seus pontos fracos. \n\nEsse sistema inteligente torna este jogo educativo uma ótima ferramenta para obter resultados rápidos de aritmética mental e arrasar nos exames escolares! 📈\n\n🧠 Treinamento Cerebral & Minijogos\n\nPara tornar sua jornada de aprendizado ainda mais poderosa, adicionamos vários enigmas que estimulam a memória, o foco e a lógica. Todos esses jogos de multiplicação ajudam a desenvolver o cérebro, permitindo que você se lembre das coisas muito mais rápido e aprenda a pensar fora da caixa!\n\nVocê pode fazer uma pausa nas lições e desfrutar de palavras cruzadas matemáticas inteligentes, jogos de memória, quebra-cabeças clássicos com palitos de fósforo ou jogos populares como 2048 e Sudoku. Ter uma tabuada divertida no dia a dia é o segredo para evoluir a mente.\n\n🎓 Cursos Especializados\nQuer se tornar um verdadeiro mago da matemática? Explore nossos cursos especiais passo a passo:\n\n⚡ Princípios de aritmética mental para contagem rápida \n💡 Dicas e truques essenciais para dominar a tabuada \n➕ Domine a contagem rápida com cursos focados em cálculos mentais\n\nNossos jogos de multiplicação ajudam as crianças a aprenderem a multiplicar enquanto se divertem! 🥇\n\n🌟 Principais Recursos do Aplicativo: \n✅ Interface simples e intuitiva para todas as idades, com jogos de matemática interativos \n✅ Treinamento até 1000 envolvendo multiplicação, divisão, adição e subtração \n✅ Flashcards práticos com a tabuada de multiplicação do 1 ao 30 \n✅ Cursos poderosos de aritmética mental e guías de cálculo básico \n✅ Seção de jogos legais: Sudoku, 2048, palitos de fósforo, memória e muitos outros \n✅ Sistema inteligente para analisar erros e revisar as respostas corretas \n✅ Um jogo educativo de multiplicação 100% livre de estresse para crianças\n\nInstale este jogo agora mesmo - mantenha seu cérebro em perfeita forma com o melhor jogo educativo para crianças e famílias. Pratique todos os dias, afie sua mente e descubra como uma tabuada divertida associada a jogos de matemática pode ser incrível!",
+      "descriptionHTML": "Aprenda a <u>tabuada</u> com <u>jogos de matemática</u> de multiplicação para crianças! 👩‍🏫<br><br>Descubra uma maneira fácil e sem estresse de dominar a multiplicação com jogos de matemática. Aprenda por meio de prática, quebra-cabeças e desafios empolgantes projetados para todas as idades.<br><br><b>🎮 Modos de Jogo Empolgantes</b><br>Nosso aplicativo torna a prática da tabuada interativa e livre de frustrações:<br><br>➖ <b>Modo de Estudo:</b> Veja cartas claras e simples com a tabuada de multiplicação do 1 ao 30 para memorizar os fatos facilmente. <br>➖ <b>Modo de Teste:</b> Desafie-se com três tipos de desafios diferentes: <i>Teste, Verdadeiro ou Falso, ou Entrada direta.</i> <br>➖ <b>Modo de Treinamento:</b> Personalize sua prática! Escolha sua operação: Multiplicação, Divisão, Adição e Subtração - e selecione qualquer intervalo de números até 1000!<br><br>Após cada teste, você tem a oportunidade de revisar suas respostas, ver seus erros e trabalhar nos seus pontos fracos. <br><br>Esse sistema inteligente torna este jogo educativo uma ótima ferramenta para obter resultados rápidos de aritmética mental e arrasar nos exames escolares! 📈<br><br><b>🧠 Treinamento Cerebral &amp; Minijogos</b><br><br>Para tornar sua jornada de aprendizado ainda mais poderosa, adicionamos vários enigmas que estimulam a memória, o foco e a lógica. Todos esses jogos de multiplicação ajudam a desenvolver o cérebro, permitindo que você se lembre das coisas muito mais rápido e aprenda a pensar fora da caixa!<br><br>Você pode fazer uma pausa nas lições e desfrutar de palavras cruzadas matemáticas inteligentes, jogos de memória, quebra-cabeças clássicos com palitos de fósforo ou jogos populares como 2048 e Sudoku. Ter uma tabuada divertida no dia a dia é o segredo para evoluir a mente.<br><br><b>🎓 Cursos Especializados</b><br>Quer se tornar um verdadeiro mago da matemática? Explore nossos cursos especiais passo a passo:<br><br>⚡ Princípios de aritmética mental para contagem rápida <br>💡 Dicas e truques essenciais para dominar a tabuada <br>➕ Domine a contagem rápida com cursos focados em cálculos mentais<br><br>Nossos jogos de multiplicação ajudam as crianças a aprenderem a multiplicar enquanto se divertem! 🥇<br><br><b>🌟 Principais Recursos do Aplicativo:</b> <br>✅ Interface simples e intuitiva para todas as idades, com jogos de matemática interativos <br>✅ Treinamento até 1000 envolvendo multiplicação, divisão, adição e subtração <br>✅ Flashcards práticos com a tabuada de multiplicação do 1 ao 30 <br>✅ Cursos poderosos de aritmética mental e guías de cálculo básico <br>✅ Seção de jogos legais: Sudoku, 2048, palitos de fósforo, memória e muitos outros <br>✅ Sistema inteligente para analisar erros e revisar as respostas corretas <br>✅ Um jogo educativo de multiplicação 100% livre de estresse para crianças<br><br>Instale este jogo agora mesmo - mantenha seu cérebro em perfeita forma com o melhor jogo educativo para crianças e famílias. Pratique todos os dias, afie sua mente e descubra como uma tabuada divertida associada a jogos de matemática pode ser incrível!",
+      "summary": "Aprenda a tabuada e aritmética mental com uma matemática muito divertida!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 49986869,
+      "score": 4.4734063,
+      "scoreText": "4,5",
+      "ratings": 260805,
+      "reviews": 3733,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "de.softan.multiplication.table",
+      "url": "https://play.google.com/store/apps/details?id=de.softan.multiplication.table&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Jogos de Matemática:MathHeist",
+      "description": "Afie sua mente com MathHeist, a coleção 3 em 1 de desafios matemáticos. Domine Crossmath, soma 10 e cálculo mental rápido jogando totalmente offline.\n\nQuer você prefira relaxar com um jogo de números tranquilo ou testar seus reflexos com cálculos contra o relógio, MathHeist reúne três modos para exercitar sua inteligência:\n\n🧩 1. CRUZADAS MATEMÁTICAS (CROSSMATH)\nA combinação clássica entre raciocínio de palavras cruzadas e dedução numérica. Preencha grades onde equações horizontais e verticais se cruzam.\n• 120 níveis desenvolvidos à mão em 4 níveis de dificuldade: Iniciante, Intermediário, Avançado e Especialista.\n• Grades de cálculo entrelaçadas que exigem o posicionamento exato dos números disponíveis.\n• Recursos para desfazer, refazer e dicas inteligentes para auxiliar seu raciocínio.\n• Estimula o raciocínio dedutivo e a confiança no cálculo cotidiano.\n\n🔟 2. TENS (COMBINE NÚMEROS & SOMA 10)\nUm passatempo relaxante e estratégico inspirado na combinação de pares numéricos. Conecte peças adjacentes que somem exatamente 10 para limpar o tabuleiro.\n• 120 níveis em 4 tamanhos de grade: 5x5, 6x6, 8x8 e 10x10.\n• Conecte na horizontal, vertical ou diagonal para esvaziar linhas e avançar.\n• Tabuleiros 100% solucionáveis com animações visuais fluidas e satisfatórias.\n• Tranquilidade aliada ao reconhecimento de padrões matemáticos.\n\n⚡ 3. SPEED QUIZ (CÁLCULO MENTAL RÁPIDO)\nAumente sua agilidade de raciocínio com exercícios dinâmicos de aritmética.\n• 100 níveis progressivos organizados em 10 capítulos temáticos.\n• Prática completa com adição, subtração, multiplicação e divisão até 1000.\n• Multiplicadores de sequência de até 3.0x e bônus de agilidade para respostas precisas.\n• Desenvolva reflexos rápidos e cálculos mentais precisos no dia a dia.\n\n🎯 DESAFIOS DIÁRIOS E PLACAR MUNDIAL\n• 8 novos desafios diários em todos os modos de jogo.\n• Mantenha sua sequência ativa, ganhe XP e desbloqueie conquistas exclusivas.\n• Dispute posições com apaixonados por lógica matemática no placar global.\n\n🌟 PROJETADO PARA O SEU TREINO CEREBRAL\n• 100% Offline: Jogue em qualquer lugar sem necessidade de Wi-Fi ou dados móveis.\n• Toque Sensorial: Resposta tátil precisa e animações polidas em cada ação.\n• Otimizado para Tablets: Grades adaptáveis em telas de celulares, tablets e dobráveis.\n• 29 Idiomas Disponíveis: Interface traduzida para jogadores do mundo inteiro.\n• Curva Suave: Desafios ajustados para estudantes, adultos e entusiastas.\n\nComprove como os jogos de matemática offline tornam o exercício mental diário prazeroso.\n\nComece hoje sua jornada de treino mental com MathHeist!",
+      "descriptionHTML": "Afie sua mente com MathHeist, a coleção 3 em 1 de desafios matemáticos. Domine Crossmath, soma 10 e cálculo mental rápido jogando totalmente offline.<br><br>Quer você prefira relaxar com um jogo de números tranquilo ou testar seus reflexos com cálculos contra o relógio, MathHeist reúne três modos para exercitar sua inteligência:<br><br>🧩 1. CRUZADAS MATEMÁTICAS (CROSSMATH)<br>A combinação clássica entre raciocínio de palavras cruzadas e dedução numérica. Preencha grades onde equações horizontais e verticais se cruzam.<br>• 120 níveis desenvolvidos à mão em 4 níveis de dificuldade: Iniciante, Intermediário, Avançado e Especialista.<br>• Grades de cálculo entrelaçadas que exigem o posicionamento exato dos números disponíveis.<br>• Recursos para desfazer, refazer e dicas inteligentes para auxiliar seu raciocínio.<br>• Estimula o raciocínio dedutivo e a confiança no cálculo cotidiano.<br><br>🔟 2. TENS (COMBINE NÚMEROS &amp; SOMA 10)<br>Um passatempo relaxante e estratégico inspirado na combinação de pares numéricos. Conecte peças adjacentes que somem exatamente 10 para limpar o tabuleiro.<br>• 120 níveis em 4 tamanhos de grade: 5x5, 6x6, 8x8 e 10x10.<br>• Conecte na horizontal, vertical ou diagonal para esvaziar linhas e avançar.<br>• Tabuleiros 100% solucionáveis com animações visuais fluidas e satisfatórias.<br>• Tranquilidade aliada ao reconhecimento de padrões matemáticos.<br><br>⚡ 3. SPEED QUIZ (CÁLCULO MENTAL RÁPIDO)<br>Aumente sua agilidade de raciocínio com exercícios dinâmicos de aritmética.<br>• 100 níveis progressivos organizados em 10 capítulos temáticos.<br>• Prática completa com adição, subtração, multiplicação e divisão até 1000.<br>• Multiplicadores de sequência de até 3.0x e bônus de agilidade para respostas precisas.<br>• Desenvolva reflexos rápidos e cálculos mentais precisos no dia a dia.<br><br>🎯 DESAFIOS DIÁRIOS E PLACAR MUNDIAL<br>• 8 novos desafios diários em todos os modos de jogo.<br>• Mantenha sua sequência ativa, ganhe XP e desbloqueie conquistas exclusivas.<br>• Dispute posições com apaixonados por lógica matemática no placar global.<br><br>🌟 PROJETADO PARA O SEU TREINO CEREBRAL<br>• 100% Offline: Jogue em qualquer lugar sem necessidade de Wi-Fi ou dados móveis.<br>• Toque Sensorial: Resposta tátil precisa e animações polidas em cada ação.<br>• Otimizado para Tablets: Grades adaptáveis em telas de celulares, tablets e dobráveis.<br>• 29 Idiomas Disponíveis: Interface traduzida para jogadores do mundo inteiro.<br>• Curva Suave: Desafios ajustados para estudantes, adultos e entusiastas.<br><br>Comprove como os jogos de matemática offline tornam o exercício mental diário prazeroso.<br><br>Comece hoje sua jornada de treino mental com MathHeist!",
+      "summary": "Crossmath, soma 10 e cálculo mental. Treine seu cérebro totalmente offline.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6353,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.bimql.mathematica",
+      "url": "https://play.google.com/store/apps/details?id=com.bimql.mathematica&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "MathVs - Duelos de matemática",
+      "description": "MathVersus é um jogo Multiplayer online de matemática para todas as idades, que permite usuários aprenderem ou se desafiarem em partidas Online 1v1 de multiplicação, adição, subtração e divisão.\nVença partidas, suba de rank e prove seu valor ou jogue casualmente!\nAlém de partidas ranquedas, você também pode criar salas personalizadas de até 6 jogadores para desafiar, brincar ou apenas aprender junto com os amigos, filhos e familiáres operações de matemática.",
+      "descriptionHTML": "MathVersus é um jogo Multiplayer online de matemática para todas as idades, que permite usuários aprenderem ou se desafiarem em partidas Online 1v1 de multiplicação, adição, subtração e divisão.<br>Vença partidas, suba de rank e prove seu valor ou jogue casualmente!<br>Além de partidas ranquedas, você também pode criar salas personalizadas de até 6 jogadores para desafiar, brincar ou apenas aprender junto com os amigos, filhos e familiáres operações de matemática.",
+      "summary": "Multiplayer, desafie outros jogadores em operações de matemática e seja o melhor",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7836,
+      "score": 4.584615,
+      "scoreText": "4,6",
+      "ratings": 112,
+      "reviews": 41,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.mathversus.android",
+      "url": "https://play.google.com/store/apps/details?id=com.mathversus.android&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Matemática - Bacharelado",
+      "description": "Seu pacote completo de estudos para dominar a matemática. Quer melhorar suas notas, praticar para provas ou resolver seus exercícios? O High School Math é a plataforma educacional abrangente que guia você passo a passo por álgebra, geometria, trigonometria e cálculo.\n\nTudo o que o aplicativo inclui:\n\n* Visualizador Gráfico de Funções: Visualize equações em tempo real, analise parábolas, retas, funções trigonométricas e encontre pontos-chave instantaneamente.\n\n* Geometria Plana Interativa: Explore figuras bidimensionais, calcule áreas, perímetros, ângulos e teoremas fundamentais visualmente.\n\n* Pratique com Quizzes: Resolva exercícios interativos de matemática com um sistema de dificuldade progressiva que se adapta ao seu ritmo.\n\n* Simulados Universitários: Prepare-se para seus vestibulares e provas escolares com questões baseadas nos programas oficiais.\n\n* Solucionador Passo a Passo: Capture qualquer problema de matemática com sua câmera para visualizar explicações detalhadas e guias de solução.\n\n* Monitoramento de Desempenho: Identifique suas dificuldades com estatísticas e gráficos de estudo que medem seu progresso diário.\n\n* A solução completa desenvolvida para candidatos do ensino fundamental, médio e superior. Baixe agora e garanta seu aprendizado!",
+      "descriptionHTML": "Seu pacote completo de estudos para dominar a matemática. Quer melhorar suas notas, praticar para provas ou resolver seus exercícios? O High School Math é a plataforma educacional abrangente que guia você passo a passo por álgebra, geometria, trigonometria e cálculo.<br><br>Tudo o que o aplicativo inclui:<br><br>* Visualizador Gráfico de Funções: Visualize equações em tempo real, analise parábolas, retas, funções trigonométricas e encontre pontos-chave instantaneamente.<br><br>* Geometria Plana Interativa: Explore figuras bidimensionais, calcule áreas, perímetros, ângulos e teoremas fundamentais visualmente.<br><br>* Pratique com Quizzes: Resolva exercícios interativos de matemática com um sistema de dificuldade progressiva que se adapta ao seu ritmo.<br><br>* Simulados Universitários: Prepare-se para seus vestibulares e provas escolares com questões baseadas nos programas oficiais.<br><br>* Solucionador Passo a Passo: Capture qualquer problema de matemática com sua câmera para visualizar explicações detalhadas e guias de solução.<br><br>* Monitoramento de Desempenho: Identifique suas dificuldades com estatísticas e gráficos de estudo que medem seu progresso diário.<br><br>* A solução completa desenvolvida para candidatos do ensino fundamental, médio e superior. Baixe agora e garanta seu aprendizado!",
+      "summary": "Resolva seus exercícios. Pratique álgebra, geometria, trigonometria e mais.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3397,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "io.acdapps.high_school_math_tests",
+      "url": "https://play.google.com/store/apps/details?id=io.acdapps.high_school_math_tests&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Jogo de Matemática Crianças",
+      "description": "Jogos de multiplicação para crianças e adultos - Aprenda matemática rápido!O aplicativo definitivo de Jogos de Multiplicação para Crianças e Adultos finalmente chegou, projetado tanto para crianças quanto para adultos. Você pode jogar e praticar adição, subtração, multiplicação, divisão e se divertir resolvendo múltiplos níveis de cálculos neste jogo empolgante.\n\nDiga adeus à prática de matemática chata com o nosso app de Jogos de Matematica para Crianças da 3ª Série!\n\n📊 Principais funcionalidades dos Jogos de Multiplicação para Crianças e Adultos: 📊\n\n🖋 Jogos de Matematica para crianças da 3ª Série, focados nas necessidades de aprendizado de crianças e adultos;\n📊 Jogos de Matematica para Adultos para tornar a solução de equações uma tarefa fácil;\n🧩 Prática de Tabuada para aprender as tabelas de multiplicação com modo de duelo;\n📚 Jogos de Divisão para dominar as tabelas de divisão;\n🧮 Tabuada com jogos desafiadores e divertidos.\n\nDivirta-se com o Jogo de Matemática para Crianças da 3ª Série!Nosso app de Jogo de Matemática para Crianças do 1º Ano é projetado para que as crianças aprendam e se divirtam ao mesmo tempo. Com assuntos essenciais a serem abordados, seu filho estará no topo do mundo das habilidades matemáticas sem grandes esforços.\n\nJogos de multiplicação para crianças e adultos: 🧩\nNosso aplicativo de Jogos de Multiplicação para Crianças e Adultos é ideal tanto para crianças quanto para adultos. O Jogo de Matemática para Crianças da 3ª Série incentiva o aprendizado com entusiasmo e interesse. Esses jogos de multiplicação são eficazes para todas as idades!\n\nJogos de Matemática para Crianças do 1º Ano: 📚\nIntroduza as crianças ao mundo dos números desde cedo com nossos Jogos de Matemática para Crianças do 1º Ano. Esses jogos foram criados para engajar os alunos de forma ativa, consolidando o aprendizado de matemática através de brincadeiras interessantes.\n\nPrática de Tabuada: 🧮\nPratique e domine a tabuada com nossa Prática de Tabuada completa. Este é o recurso perfeito para quem deseja melhorar suas habilidades de multiplicação com o apoio da Prática de Tabuada.\n\nJogo divertido de Matematica Basica para Adultos: 🧮\nOs Jogos de Matemática para Adultos podem ser jogados em diversos modos, como quiz, prática e duelo. Seja você criança ou adulto, esses jogos são essenciais para melhorar seus hábitos de aprendizado. Há muitos problemas matemáticos para jogar e praticar, como adição, subtração, multiplicação e tabuada.\n\n Jogo de Matematica Basica divertido e agradável para crianças do 1º Ano: 🧩\nÉ divertido usar nosso app de Tabuada, e qualquer pessoa pode começar a aprender e se divertir facilmente. O Jogo de Matematica Basica para Crianças da 3ª Série são a melhor maneira de praticar matemática em qualquer idade. Este app completo é um dos melhores desafios para o cérebro, oferecendo tarefas que vão do muito fácil ao super difícil, sendo assim perfeito para crianças e adultos.\n\nComece a aprender com os jogos de multiplicação para crianças e adultos!Jogos de Multiplicação para Crianças e Adultos é um app completo para crianças, pais e avós. Este é o menor app de matemática disponível no Google Play que abrange jogos de multiplicação e divisão, além de jogos de adição e subtração — tudo em um único aplicativo.\n\nDescubra o Matemágica Jogo Grátis, que transforma a matemática básica em um emocionante Math Challenge para todas as idades.\n\nEncare um Math Challenge com nosso Matemágica Jogo Grátis, perfeito para dominar habilidades de matemática básica.\n\nDivirta-se com o Matemágica Jogo Grátis, projetado para tornar a matemática básica divertida enquanto você enfrenta cada Math Challenge.",
+      "descriptionHTML": "<h1>Jogos de multiplicação para crianças e adultos - Aprenda matemática rápido!</h1>O aplicativo definitivo de Jogos de Multiplicação para Crianças e Adultos finalmente chegou, projetado tanto para crianças quanto para adultos. Você pode jogar e praticar adição, subtração, multiplicação, divisão e se divertir resolvendo múltiplos níveis de cálculos neste jogo empolgante.<br><br>Diga adeus à prática de matemática chata com o nosso app de Jogos de Matematica para Crianças da 3ª Série!<br><br>📊 <b>Principais funcionalidades dos Jogos de Multiplicação para Crianças e Adultos:</b> 📊<br><br>🖋 Jogos de Matematica para crianças da 3ª Série, focados nas necessidades de aprendizado de crianças e adultos;<br>📊 Jogos de Matematica para Adultos para tornar a solução de equações uma tarefa fácil;<br>🧩 Prática de Tabuada para aprender as tabelas de multiplicação com modo de duelo;<br>📚 Jogos de Divisão para dominar as tabelas de divisão;<br>🧮 Tabuada com jogos desafiadores e divertidos.<br><br><h2>Divirta-se com o Jogo de Matemática para Crianças da 3ª Série!</h2>Nosso app de Jogo de Matemática para Crianças do 1º Ano é projetado para que as crianças aprendam e se divirtam ao mesmo tempo. Com assuntos essenciais a serem abordados, seu filho estará no topo do mundo das habilidades matemáticas sem grandes esforços.<br><br><b>Jogos de multiplicação para crianças e adultos:</b> 🧩<br>Nosso aplicativo de Jogos de Multiplicação para Crianças e Adultos é ideal tanto para crianças quanto para adultos. O Jogo de Matemática para Crianças da 3ª Série incentiva o aprendizado com entusiasmo e interesse. Esses jogos de multiplicação são eficazes para todas as idades!<br><br><b>Jogos de Matemática para Crianças do 1º Ano:</b> 📚<br>Introduza as crianças ao mundo dos números desde cedo com nossos Jogos de Matemática para Crianças do 1º Ano. Esses jogos foram criados para engajar os alunos de forma ativa, consolidando o aprendizado de matemática através de brincadeiras interessantes.<br><br><b>Prática de Tabuada:</b> 🧮<br>Pratique e domine a tabuada com nossa Prática de Tabuada completa. Este é o recurso perfeito para quem deseja melhorar suas habilidades de multiplicação com o apoio da Prática de Tabuada.<br><br><b>Jogo divertido de Matematica Basica para Adultos:</b> 🧮<br>Os Jogos de Matemática para Adultos podem ser jogados em diversos modos, como quiz, prática e duelo. Seja você criança ou adulto, esses jogos são essenciais para melhorar seus hábitos de aprendizado. Há muitos problemas matemáticos para jogar e praticar, como adição, subtração, multiplicação e tabuada.<br><br><b> Jogo de Matematica Basica divertido e agradável para crianças do 1º Ano:</b> 🧩<br>É divertido usar nosso app de Tabuada, e qualquer pessoa pode começar a aprender e se divertir facilmente. O Jogo de Matematica Basica para Crianças da 3ª Série são a melhor maneira de praticar matemática em qualquer idade. Este app completo é um dos melhores desafios para o cérebro, oferecendo tarefas que vão do muito fácil ao super difícil, sendo assim perfeito para crianças e adultos.<br><br><h3>Comece a aprender com os jogos de multiplicação para crianças e adultos!</h3>Jogos de Multiplicação para Crianças e Adultos é um app completo para crianças, pais e avós. Este é o menor app de matemática disponível no Google Play que abrange jogos de multiplicação e divisão, além de jogos de adição e subtração — tudo em um único aplicativo.<br><br>Descubra o Matemágica Jogo Grátis, que transforma a matemática básica em um emocionante Math Challenge para todas as idades.<br><br>Encare um Math Challenge com nosso Matemágica Jogo Grátis, perfeito para dominar habilidades de matemática básica.<br><br>Divirta-se com o Matemágica Jogo Grátis, projetado para tornar a matemática básica divertida enquanto você enfrenta cada Math Challenge.",
+      "summary": "Jogue jogos de multiplicação para crianças e adultos! Domine a Tabuada agora!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 15301001,
+      "score": 4.5596333,
+      "scoreText": "4,6",
+      "ratings": 25088,
+      "reviews": 573,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.maths.games.add.subtract.multiply.divide",
+      "url": "https://play.google.com/store/apps/details?id=com.maths.games.add.subtract.multiply.divide&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Testes de matemáticando",
+      "description": "Matemática para crianças, estudantes e adultos! Grátis! Pratique matemática do jeito mais rápido e divertido com a gente. Melhore sua fluência em matemática com dezenas de testes de múltipla escolha.\n\nPara a 1ª série:\n- adição e subtração\n\nPara a 2ª série:\n- multiplicação, divisão\n\nPara a 3ª série:\n- arredondamento\n- algarismos romanos\n- ordem de operações\n\nPara a 4ª série:\n- exercícios sobre expressões numéricas\n\nO aplicativo também inclui frações, números decimais, unidades de medidas (área, capacidade, comprimento, massa, volume, tempo), números negativos, equações e inequações, expressões algébricas, calculando a raiz quadrada e raiz cúbica…\n\nEsse aplicativo é como ter dezenas de planilhas de matemática e muitos exercícios para a 1ª, 2ª e 3ª séries diretamente no seu dispositivo, com resultados disponíveis imediatamente. Funciona off-line para que você aprenda a resolver problemas de matemática e álgebra sempre que quiser.\nMatemática nunca foi tão fácil! O treino de matemática perfeito para alunos do ensino básico e médio. como na escola, cada teste é avaliado e você recebe uma nota.\n\nVisão geral dos principais recursos:\n- histórico de testes permite que você veja os seus erros\n- estatísticas exibem o seu progresso ao longo do tempo\n- os resultados são monitorados. Revise seus erros e o seu progresso\n- campeonato de matemática é um jogo no qual você pode aprender matemática de um jeito divertido e competir com outros usuarios",
+      "descriptionHTML": "Matemática para crianças, estudantes e adultos! Grátis! Pratique matemática do jeito mais rápido e divertido com a gente. Melhore sua fluência em matemática com dezenas de testes de múltipla escolha.<br><br>Para a 1ª série:<br>- adição e subtração<br><br>Para a 2ª série:<br>- multiplicação, divisão<br><br>Para a 3ª série:<br>- arredondamento<br>- algarismos romanos<br>- ordem de operações<br><br>Para a 4ª série:<br>- exercícios sobre expressões numéricas<br><br>O aplicativo também inclui frações, números decimais, unidades de medidas (área, capacidade, comprimento, massa, volume, tempo), números negativos, equações e inequações, expressões algébricas, calculando a raiz quadrada e raiz cúbica…<br><br>Esse aplicativo é como ter dezenas de planilhas de matemática e muitos exercícios para a 1ª, 2ª e 3ª séries diretamente no seu dispositivo, com resultados disponíveis imediatamente. Funciona off-line para que você aprenda a resolver problemas de matemática e álgebra sempre que quiser.<br>Matemática nunca foi tão fácil! O treino de matemática perfeito para alunos do ensino básico e médio. como na escola, cada teste é avaliado e você recebe uma nota.<br><br>Visão geral dos principais recursos:<br>- histórico de testes permite que você veja os seus erros<br>- estatísticas exibem o seu progresso ao longo do tempo<br>- os resultados são monitorados. Revise seus erros e o seu progresso<br>- campeonato de matemática é um jogo no qual você pode aprender matemática de um jeito divertido e competir com outros usuarios",
+      "summary": "Pratique matemática com o aplicativo de testes mais completo! 5000+ questões!",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 7811764,
+      "score": 4.665236,
+      "scoreText": "4,7",
+      "ratings": 31794,
+      "reviews": 1298,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.holucent.math",
+      "url": "https://play.google.com/store/apps/details?id=com.holucent.math&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "LogicLike Jogos educativos 2-8",
+      "description": "🧩LogicLike: jogos educativos e cognitivos para crianças; preparação para a escola e educação pré-escolar, estimulando o raciocínio e a vontade de aprender. Jogos educativos infantis de lógica, memória e atenção.\n👩‍🏫 Nossos jogos educativos para crianças são desenvolvidos por pedagogos e educadores profissionais. Seu filho vai se divertir ao resolver os desafios e problemas. O design incrível e as animações dos jogos educativos infantis são agradáveis e ajudam a assimilar melhor o conteúdo. \n🎨Os desafios afetam positivamente o desenvolvimento do raciocínio da criança. Recomendamos 20 minutos por dia de dedicação aos jogos educativos para crianças. Assim, a criança se acostuma sem se cansar, adotando os exercícios como hábito diário. O próprio jogo sugere pausas de descanso, permitindo manter a concentração e o avanço com o aprendizado.\n😊 Nós tornamos os jogos educativos para crianças simples, compreensíveis e saudáveis. Todas as atividades possuem áudio e são de fácil compreensão. Instruções e dicas de visual colorido ajudarão as crianças a superar dificuldades. Os jogos educativos do LogicLike são variados e empolgantes. O sistema gradual do curso Lógica e raciocínio ajuda no aprendizado e assimilação do conteúdo visto. Você pode fazer as atividades na língua que desejar.\n⌛️ Criar desafios de lógica exige muitas horas de trabalho, e nós fazemos isso com prazer há 8 anos. Nosso objetivo é mostrar às crianças que aprender pode ser divertido e emocionante, estimulando nelas o interesse em aprender e as ensinando a encarar desafios complexos. Queremos uma geração de crianças inteligentes e que pensem de forma crítica. Por isso, alguns desafios estão disponíveis de graça para que você possa comprovar a qualidade dos jogos infantis. O formato de quiz é muito popular entre as crianças. As atividades de colorir, música e jogos educativos para crianças estimulam a criatividade.\nA criança aprenderá muitas coisas interessantes com os minijogos. Diversão e educação com jogos criativos: jogos de pintar e instrumentos musicais.\nAlguns conteúdos só estão disponíveis com uma assinatura ativa do serviço. Você sempre pode experimentar todas as funcionalidades do aplicativo de forma gratuita. Ative o teste por 3 dias e aproveite.\n🔸 O que oferecemos: 🔸\n• Mais de 8100 desafios de lógica\n• Mais de 60 minicursos\n• Cartões de heróis coloridos para colecionar\n• Ranking pessoal\n• Jogos que estimulam criatividade (Crie seu personagem, Crie seu próprio mundo, Colorir, Instrumentos musicais, Bichinho virtual)\n• Instruções e dicas\n• Correção de erros\n• Certificados do LogicLike\n• Áudios de instruções e trilha sonora agradáveis\n\n🔹 Tópicos de atividades LogicLike: 🔹\n• Pensamento 3D: formas, figuras geométricas e cores.\n• Desafios de xadrez.\n• Jogos em grade: colmeia numérica, sago, sudoku, kakuro, números.\n• Cuidando do bichinho virtual.\n• Jogos de pintar.\n• Jogos de matemática e aritmética para o primário: tabuada, cálculo de cabeça, adição, subtração, multiplicação e divisão.\n• Jogos de matemática para pré-escolares.\n• Ciências Naturais: animais, países e capitais.\n• Minijogos Bois e vacas, Cactos e outros.\n• Jogos de lógica: encontre o objeto ou palavra diferente do grupo, Conjuntos, Coloque em ordem, Agrupamento de objetos, Quebra-cabeças.\n• Quebra-cabeças, jogos educativos e de alfabetização para crianças.\n• Inglês para crianças\n\n📙 A biblioteca de jogos educativos para crianças é ampliada regularmente.\n📗 Jogos e desafios educativos para crianças de 4 anos.\n\nPolítica de Privacidade  - https://logiclike.com/en/docs/privacy-app \nContrato de Licença de Usuário - https://logiclike.com/en/docs/public-app \nEnvie perguntas ou sugestões para o e-mail: office@logiclike.com\nNós tornamos os jogos educativos para crianças divertidos e saudáveis. Se você gostou dos nossos jogos educativos infantis, dos jogos de matemática para crianças, do jogo de alfabetização, da preparação para a escola e do ensino pré-escolar, conte para os amigos sobre o LogicLike 😊",
+      "descriptionHTML": "🧩LogicLike: jogos educativos e cognitivos para crianças; preparação para a escola e educação pré-escolar, estimulando o raciocínio e a vontade de aprender. Jogos educativos infantis de lógica, memória e atenção.<br>👩‍🏫 Nossos jogos educativos para crianças são desenvolvidos por pedagogos e educadores profissionais. Seu filho vai se divertir ao resolver os desafios e problemas. O design incrível e as animações dos jogos educativos infantis são agradáveis e ajudam a assimilar melhor o conteúdo. <br>🎨Os desafios afetam positivamente o desenvolvimento do raciocínio da criança. Recomendamos 20 minutos por dia de dedicação aos jogos educativos para crianças. Assim, a criança se acostuma sem se cansar, adotando os exercícios como hábito diário. O próprio jogo sugere pausas de descanso, permitindo manter a concentração e o avanço com o aprendizado.<br>😊 Nós tornamos os jogos educativos para crianças simples, compreensíveis e saudáveis. Todas as atividades possuem áudio e são de fácil compreensão. Instruções e dicas de visual colorido ajudarão as crianças a superar dificuldades. Os jogos educativos do LogicLike são variados e empolgantes. O sistema gradual do curso Lógica e raciocínio ajuda no aprendizado e assimilação do conteúdo visto. Você pode fazer as atividades na língua que desejar.<br>⌛️ Criar desafios de lógica exige muitas horas de trabalho, e nós fazemos isso com prazer há 8 anos. Nosso objetivo é mostrar às crianças que aprender pode ser divertido e emocionante, estimulando nelas o interesse em aprender e as ensinando a encarar desafios complexos. Queremos uma geração de crianças inteligentes e que pensem de forma crítica. Por isso, alguns desafios estão disponíveis de graça para que você possa comprovar a qualidade dos jogos infantis. O formato de quiz é muito popular entre as crianças. As atividades de colorir, música e jogos educativos para crianças estimulam a criatividade.<br>A criança aprenderá muitas coisas interessantes com os minijogos. Diversão e educação com jogos criativos: jogos de pintar e instrumentos musicais.<br>Alguns conteúdos só estão disponíveis com uma assinatura ativa do serviço. Você sempre pode experimentar todas as funcionalidades do aplicativo de forma gratuita. Ative o teste por 3 dias e aproveite.<br>🔸 O que oferecemos: 🔸<br>• Mais de 8100 desafios de lógica<br>• Mais de 60 minicursos<br>• Cartões de heróis coloridos para colecionar<br>• Ranking pessoal<br>• Jogos que estimulam criatividade (Crie seu personagem, Crie seu próprio mundo, Colorir, Instrumentos musicais, Bichinho virtual)<br>• Instruções e dicas<br>• Correção de erros<br>• Certificados do LogicLike<br>• Áudios de instruções e trilha sonora agradáveis<br><br>🔹 Tópicos de atividades LogicLike: 🔹<br>• Pensamento 3D: formas, figuras geométricas e cores.<br>• Desafios de xadrez.<br>• Jogos em grade: colmeia numérica, sago, sudoku, kakuro, números.<br>• Cuidando do bichinho virtual.<br>• Jogos de pintar.<br>• Jogos de matemática e aritmética para o primário: tabuada, cálculo de cabeça, adição, subtração, multiplicação e divisão.<br>• Jogos de matemática para pré-escolares.<br>• Ciências Naturais: animais, países e capitais.<br>• Minijogos Bois e vacas, Cactos e outros.<br>• Jogos de lógica: encontre o objeto ou palavra diferente do grupo, Conjuntos, Coloque em ordem, Agrupamento de objetos, Quebra-cabeças.<br>• Quebra-cabeças, jogos educativos e de alfabetização para crianças.<br>• Inglês para crianças<br><br>📙 A biblioteca de jogos educativos para crianças é ampliada regularmente.<br>📗 Jogos e desafios educativos para crianças de 4 anos.<br><br>Política de Privacidade  - https://logiclike.com/en/docs/privacy-app <br>Contrato de Licença de Usuário - https://logiclike.com/en/docs/public-app <br>Envie perguntas ou sugestões para o e-mail: office@logiclike.com<br>Nós tornamos os jogos educativos para crianças divertidos e saudáveis. Se você gostou dos nossos jogos educativos infantis, dos jogos de matemática para crianças, do jogo de alfabetização, da preparação para a escola e do ensino pré-escolar, conte para os amigos sobre o LogicLike 😊",
+      "summary": "Jogos para crianças: lógica, aprendizado e pré-escolar divertido",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 16532035,
+      "score": 4.7109604,
+      "scoreText": "4,7",
+      "ratings": 90188,
+      "reviews": 1462,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.logicappkids",
+      "url": "https://play.google.com/store/apps/details?id=com.logicappkids&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Resolver matematica To Math AI",
+      "description": "Apresentando o Tomath AI\nSeu assistente acadêmico tudo-em-um, projetado para ajudá-lo a realizar uma ampla variedade de tarefas com facilidade. Desde resolver problemas complexos de matemática e responder a perguntas de conhecimento geral até gerar e-mails bem elaborados e oferecer suporte na escrita — o Tomath AI é a sua solução ideal.\n\nComparável a ferramentas populares como Photomath, Mathway e Gauth AI, o Tomath AI eleva a assistência acadêmica a um novo nível com recursos abrangentes e uma interface amigável.\n\nDiga adeus ao estresse com deveres de casa e alcance o sucesso sem complicações!\n\nPrincipais Recursos:\nResolução de Problemas Matemáticos:\nResolva equações matemáticas complicadas com facilidade. Basta escanear ou digitar o problema, e o Tomath AI orientará você com soluções claras e passo a passo.\n\nAssistência em Conhecimentos Gerais:\nObtenha respostas rápidas para diversas perguntas sobre história, ciência, literatura e muito mais. O extenso banco de dados do Tomath AI oferece respostas confiáveis e completas.\n\nBenefícios:\nEconomize Tempo:\nO Tomath AI acelera tarefas acadêmicas, reduzindo o tempo gasto com pesquisas e resolução de problemas.\n\nSoluções Precisas:\nConfie no Tomath AI para obter respostas precisas e confiáveis, aumentando sua confiança nos estudos.\n\nAumente a Produtividade:\nCom soluções instantâneas e suporte à escrita, você pode focar mais no aprendizado e melhorar seus resultados.\n\nApoio ao Aprendizado:\nAprofunde seu entendimento acompanhando as explicações detalhadas de cada solução.\n\nMultifuncional:\nDe matemática a várias outras disciplinas, e até mesmo ajuda com escrita profissional — o Tomath AI adapta-se às suas diversas necessidades acadêmicas e de escrita.\n\nImportante:\nPara resolver exemplos ilimitados, é necessário acessar o plano premium por meio de uma assinatura. Você pode escolher entre o plano semanal ou anual. O plano semanal inclui um período de teste gratuito de 3 dias.\n\nSe tiver dúvidas ou precisar de ajuda, entre em contato conosco pelo e-mail:\nsarafanmobile@gmail.com",
+      "descriptionHTML": "Apresentando o Tomath AI<br>Seu assistente acadêmico tudo-em-um, projetado para ajudá-lo a realizar uma ampla variedade de tarefas com facilidade. Desde resolver problemas complexos de matemática e responder a perguntas de conhecimento geral até gerar e-mails bem elaborados e oferecer suporte na escrita — o Tomath AI é a sua solução ideal.<br><br>Comparável a ferramentas populares como Photomath, Mathway e Gauth AI, o Tomath AI eleva a assistência acadêmica a um novo nível com recursos abrangentes e uma interface amigável.<br><br>Diga adeus ao estresse com deveres de casa e alcance o sucesso sem complicações!<br><br>Principais Recursos:<br>Resolução de Problemas Matemáticos:<br>Resolva equações matemáticas complicadas com facilidade. Basta escanear ou digitar o problema, e o Tomath AI orientará você com soluções claras e passo a passo.<br><br>Assistência em Conhecimentos Gerais:<br>Obtenha respostas rápidas para diversas perguntas sobre história, ciência, literatura e muito mais. O extenso banco de dados do Tomath AI oferece respostas confiáveis e completas.<br><br>Benefícios:<br>Economize Tempo:<br>O Tomath AI acelera tarefas acadêmicas, reduzindo o tempo gasto com pesquisas e resolução de problemas.<br><br>Soluções Precisas:<br>Confie no Tomath AI para obter respostas precisas e confiáveis, aumentando sua confiança nos estudos.<br><br>Aumente a Produtividade:<br>Com soluções instantâneas e suporte à escrita, você pode focar mais no aprendizado e melhorar seus resultados.<br><br>Apoio ao Aprendizado:<br>Aprofunde seu entendimento acompanhando as explicações detalhadas de cada solução.<br><br>Multifuncional:<br>De matemática a várias outras disciplinas, e até mesmo ajuda com escrita profissional — o Tomath AI adapta-se às suas diversas necessidades acadêmicas e de escrita.<br><br>Importante:<br>Para resolver exemplos ilimitados, é necessário acessar o plano premium por meio de uma assinatura. Você pode escolher entre o plano semanal ou anual. O plano semanal inclui um período de teste gratuito de 3 dias.<br><br>Se tiver dúvidas ou precisar de ajuda, entre em contato conosco pelo e-mail:<br>sarafanmobile@gmail.com",
+      "summary": "Math solver para gauthmath, Ajuda AI &amp; Fotomath",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 537192,
+      "score": 4.6237626,
+      "scoreText": "4,6",
+      "ratings": 12858,
+      "reviews": 27,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sarafan.tomath",
+      "url": "https://play.google.com/store/apps/details?id=com.sarafan.tomath&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Math Practice: Problem Solving",
+      "description": "Math Practice é um aplicativo educacional desenvolvido para ajudar os usuários a aprimorar suas habilidades matemáticas por meio de uma variedade de exercícios e desafios interativos. Adequado para todas as idades, abrange operações aritméticas básicas como adição, subtração, multiplicação e divisão, além de tópicos mais avançados, como frações e decimais. Com quebra-cabeças envolventes, testes cronometrados e trilhas de aprendizagem personalizadas, o Math Practice torna o domínio da matemática divertido e eficaz.\n\n➕ Jogos de adição - adição de 1, 2 ou 3 dígitos\n➖ Jogos de subtração - 1, 2 e 3 dígitos para aprender a subtrair\n✖️ Jogos de multiplicação - Prática recomendada para aprender a multiplicar por 1, 2 e 3 dígitos.\n➗ Jogos de divisão - Aprenda a dividir por 1, 2 e 3 dígitos.\n¼ Frações - Aprendizado passo a passo do cálculo de frações\n. Decimais - Modos de adição e subtração decimais divertidos\n\nJogos de quiz de matemática com desafio\nBoletim para mostrar seu histórico de exercícios recentes\n\nUm dos melhores aplicativos de matemática para crianças para baixar gratuitamente! Baixe agora e aproveite…",
+      "descriptionHTML": "Math Practice é um aplicativo educacional desenvolvido para ajudar os usuários a aprimorar suas habilidades matemáticas por meio de uma variedade de exercícios e desafios interativos. Adequado para todas as idades, abrange operações aritméticas básicas como adição, subtração, multiplicação e divisão, além de tópicos mais avançados, como frações e decimais. Com quebra-cabeças envolventes, testes cronometrados e trilhas de aprendizagem personalizadas, o Math Practice torna o domínio da matemática divertido e eficaz.<br><br>➕ Jogos de adição - adição de 1, 2 ou 3 dígitos<br>➖ Jogos de subtração - 1, 2 e 3 dígitos para aprender a subtrair<br>✖️ Jogos de multiplicação - Prática recomendada para aprender a multiplicar por 1, 2 e 3 dígitos.<br>➗ Jogos de divisão - Aprenda a dividir por 1, 2 e 3 dígitos.<br>¼ Frações - Aprendizado passo a passo do cálculo de frações<br>. Decimais - Modos de adição e subtração decimais divertidos<br><br>Jogos de quiz de matemática com desafio<br>Boletim para mostrar seu histórico de exercícios recentes<br><br>Um dos melhores aplicativos de matemática para crianças para baixar gratuitamente! Baixe agora e aproveite…",
+      "summary": "Passo a passo, como somar, subtrair, multiplicar, dividir, decimal e fração.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 161746,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 558,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.GameiFun.mathematics.problemsolving",
+      "url": "https://play.google.com/store/apps/details?id=com.GameiFun.mathematics.problemsolving&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Jogo de puzzles de matemática",
+      "description": "Bem-vindo ao Math Matrix, o destino final para jogos de matemática envolventes, quebra-cabeças desafiantes e puzzles lógicos estimulantes. O Math puzzle oferece uma vasta gama de jogos de puzzles concebidos para melhorar as capacidades cognitivas, aperfeiçoar as competências lógicas e proporcionar horas de entretenimento que estimulam o cérebro.\n\nMergulhe num mundo de jogos de matemática que combinam aprendizagem com diversão. Resolve equações complexas, domina padrões numéricos e melhora as tuas capacidades matemáticas. Quer seja um entusiasta da matemática ou esteja à procura de melhorar as suas capacidades.\n\nPrepara-te para pôr à prova as tuas capacidades de resolução de problemas com os nossos jogos para o cérebro. Exercite a sua memória, melhore o seu raciocínio lógico e estimule as suas funções cognitivas. Com uma variedade de quebra-cabeças, vai sentir-se cativado por desafios complexos que exigem criatividade e pensamento analítico.\n\nEntra no mundo dos jogos de lógica e abraça a emoção de desvendar puzzles alucinantes. Aprimore suas habilidades de dedução, explore o raciocínio espacial e enfrente quebra-cabeças lógicos intrincados que ultrapassarão os limites do seu intelecto. Com Math Matrix, embarcarás numa viagem repleta de jogos de puzzle e puzzles lógicos que te manterão cativado e desejoso de mais aventuras estimulantes para o cérebro.\n\nProcura um exercício mental que desafie a sua inteligência e aumente o seu QI? Não procure mais, Math Matrix - Jogo de Matemática. Com a sua extensa colecção de jogos cerebrais e puzzles, esta aplicação foi concebida para proporcionar um treino mental que estimula o seu cérebro e melhora as suas capacidades cognitivas. Mergulhe no mundo dos jogos de lógica e dos jogos de puzzle que irão pôr à prova o seu poder cerebral. Melhore a sua memória, a sua lógica e as suas capacidades de resolução de problemas com actividades divertidas, como caça-palavras, jogos de correspondência e quebra-cabeças. Com Math Matrix, pode reflectir antes de dar a sua resposta, garantindo uma experiência de treino cerebral envolvente e gratificante.\n\nEnvolva-se em jogos de matemática que não só melhoram as suas capacidades numéricas como também mantêm o seu cérebro activo e ágil. Math Matrix - Math Game oferece uma variedade de jogos de puzzle e jogos de matemática adequados para crianças, adolescentes e adultos. Melhore a sua memória, concentração e capacidade de raciocínio lógico com jogos de memória cativantes e quebra-cabeças. Este jogo de puzzles proporciona um desafio cerebral abrangente que se destina a utilizadores desde crianças a adultos.\n\nMath Matrix é o companheiro ideal para aperfeiçoar as suas capacidades de cálculo matemático e numérico. Com a sua vasta selecção de jogos offline, pode melhorar as suas capacidades em qualquer altura e em qualquer lugar. Mergulhe num mundo de puzzles e actividades desafiantes que foram cuidadosamente concebidos para aumentar a sua proficiência matemática e a sua capacidade de resolução de problemas.\n\n1) Math Puzzle: centra-se em cálculos básicos como a adição, a subtracção, a divisão e a multiplicação. Teste as suas capacidades numéricas e melhore a sua proficiência matemática enquanto se diverte.\n2) Puzzle de memória: Estes jogos exigem que memorize números e sinais antes de lhes aplicar cálculos. Ao envolver a sua memória e concentração, estes puzzles melhoram as suas capacidades de resolução de problemas enquanto exercitam o seu cérebro.\n3) Treine o seu cérebro: Com cada puzzle, irá afiar as suas capacidades analíticas e de raciocínio lógico para testar e aumentar a sua capacidade de resolução de problemas. \n\n- Desfrute de uma variedade de jogos para o cérebro, incluindo puzzles de imagens, pirâmides de números e o intrigante triângulo mágico.\n- Participe em cálculos rápidos e jogos de adivinhar o sinal, que proporcionam uma forma divertida de melhorar as suas capacidades matemáticas através da adição e subtracção.",
+      "descriptionHTML": "Bem-vindo ao Math Matrix, o destino final para jogos de matemática envolventes, quebra-cabeças desafiantes e puzzles lógicos estimulantes. O Math puzzle oferece uma vasta gama de jogos de puzzles concebidos para melhorar as capacidades cognitivas, aperfeiçoar as competências lógicas e proporcionar horas de entretenimento que estimulam o cérebro.<br><br>Mergulhe num mundo de jogos de matemática que combinam aprendizagem com diversão. Resolve equações complexas, domina padrões numéricos e melhora as tuas capacidades matemáticas. Quer seja um entusiasta da matemática ou esteja à procura de melhorar as suas capacidades.<br><br>Prepara-te para pôr à prova as tuas capacidades de resolução de problemas com os nossos jogos para o cérebro. Exercite a sua memória, melhore o seu raciocínio lógico e estimule as suas funções cognitivas. Com uma variedade de quebra-cabeças, vai sentir-se cativado por desafios complexos que exigem criatividade e pensamento analítico.<br><br>Entra no mundo dos jogos de lógica e abraça a emoção de desvendar puzzles alucinantes. Aprimore suas habilidades de dedução, explore o raciocínio espacial e enfrente quebra-cabeças lógicos intrincados que ultrapassarão os limites do seu intelecto. Com Math Matrix, embarcarás numa viagem repleta de jogos de puzzle e puzzles lógicos que te manterão cativado e desejoso de mais aventuras estimulantes para o cérebro.<br><br>Procura um exercício mental que desafie a sua inteligência e aumente o seu QI? Não procure mais, Math Matrix - Jogo de Matemática. Com a sua extensa colecção de jogos cerebrais e puzzles, esta aplicação foi concebida para proporcionar um treino mental que estimula o seu cérebro e melhora as suas capacidades cognitivas. Mergulhe no mundo dos jogos de lógica e dos jogos de puzzle que irão pôr à prova o seu poder cerebral. Melhore a sua memória, a sua lógica e as suas capacidades de resolução de problemas com actividades divertidas, como caça-palavras, jogos de correspondência e quebra-cabeças. Com Math Matrix, pode reflectir antes de dar a sua resposta, garantindo uma experiência de treino cerebral envolvente e gratificante.<br><br>Envolva-se em jogos de matemática que não só melhoram as suas capacidades numéricas como também mantêm o seu cérebro activo e ágil. Math Matrix - Math Game oferece uma variedade de jogos de puzzle e jogos de matemática adequados para crianças, adolescentes e adultos. Melhore a sua memória, concentração e capacidade de raciocínio lógico com jogos de memória cativantes e quebra-cabeças. Este jogo de puzzles proporciona um desafio cerebral abrangente que se destina a utilizadores desde crianças a adultos.<br><br>Math Matrix é o companheiro ideal para aperfeiçoar as suas capacidades de cálculo matemático e numérico. Com a sua vasta selecção de jogos offline, pode melhorar as suas capacidades em qualquer altura e em qualquer lugar. Mergulhe num mundo de puzzles e actividades desafiantes que foram cuidadosamente concebidos para aumentar a sua proficiência matemática e a sua capacidade de resolução de problemas.<br><br>1) Math Puzzle: centra-se em cálculos básicos como a adição, a subtracção, a divisão e a multiplicação. Teste as suas capacidades numéricas e melhore a sua proficiência matemática enquanto se diverte.<br>2) Puzzle de memória: Estes jogos exigem que memorize números e sinais antes de lhes aplicar cálculos. Ao envolver a sua memória e concentração, estes puzzles melhoram as suas capacidades de resolução de problemas enquanto exercitam o seu cérebro.<br>3) Treine o seu cérebro: Com cada puzzle, irá afiar as suas capacidades analíticas e de raciocínio lógico para testar e aumentar a sua capacidade de resolução de problemas. <br><br>- Desfrute de uma variedade de jogos para o cérebro, incluindo puzzles de imagens, pirâmides de números e o intrigante triângulo mágico.<br>- Participe em cálculos rápidos e jogos de adivinhar o sinal, que proporcionam uma forma divertida de melhorar as suas capacidades matemáticas através da adição e subtracção.",
+      "summary": "Treinador de Mente, Puzzle de quebra-cabeças, Desafio da mente matemática",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 144720,
+      "score": 4.2,
+      "scoreText": "4,2",
+      "ratings": 213,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.nividata.mathmatrix",
+      "url": "https://play.google.com/store/apps/details?id=com.nividata.mathmatrix&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Fun Math Games for Kids",
+      "description": "📚 Matemat-X: Jogos de Matemática para Crianças\n\nMatemat-X é um aplicativo educativo que ajuda as crianças a aprender matemática por meio de jogos divertidos e interativos. Você pode dominar adição, subtração, multiplicação e divisão jogando e aprimorando suas habilidades matemáticas.\n\nO aplicativo foi especialmente desenvolvido para alunos do ensino fundamental e para qualquer pessoa que queira praticar matemática. Graças aos gráficos coloridos, jogos dinâmicos e missões divertidas, estudar matemática agora é muito mais prazeroso.\n\n🎮 O que tem no aplicativo?\n\n🧮 Operações Matemáticas Básicas\nPratique matemática com adição, subtração, multiplicação e divisão.\n\n✖️ Jogo da Tabuada\nAprenda a tabuada jogando em vez de apenas memorizá-la.\n\n🤖 Modo Derrote o Robô\nTente derrotar o robô resolvendo problemas de matemática rapidamente.\n\n🧩 Quebra-cabeças Matemáticos\nQuebra-cabeças divertidos que aprimoram suas habilidades de raciocínio lógico e numérico.\n\n🎯 Jogo Verdadeiro / Falso\nTeste seus reflexos e sua velocidade matemática.\n\n🔢 Jogo dos Números 2048\nO clássico jogo 2048 que desenvolve estratégia e habilidades numéricas.\n\n⭐ Por que escolher o Matemat-X?\n\n✔ Torna o aprendizado da matemática divertido\n✔ Interface fácil e intuitiva para crianças\n✔ Diferentes modos de jogo para praticar matemática\n✔ Ótimo para treinar o cérebro e o raciocínio rápido\n✔ Uma experiência de aprendizado divertida\n\n👨‍👩‍👧‍👦 Para quem é?\n\nO Matemat-X é ideal para:\n\n• Crianças que querem aprender matemática\n• Alunos que querem praticar a tabuada\n• Qualquer pessoa que queira praticar as quatro operações matemáticas básicas\n• Usuários que querem exercitar o cérebro",
+      "descriptionHTML": "📚 Matemat-X: Jogos de Matemática para Crianças<br><br>Matemat-X é um aplicativo educativo que ajuda as crianças a aprender matemática por meio de jogos divertidos e interativos. Você pode dominar adição, subtração, multiplicação e divisão jogando e aprimorando suas habilidades matemáticas.<br><br>O aplicativo foi especialmente desenvolvido para alunos do ensino fundamental e para qualquer pessoa que queira praticar matemática. Graças aos gráficos coloridos, jogos dinâmicos e missões divertidas, estudar matemática agora é muito mais prazeroso.<br><br>🎮 O que tem no aplicativo?<br><br>🧮 Operações Matemáticas Básicas<br>Pratique matemática com adição, subtração, multiplicação e divisão.<br><br>✖️ Jogo da Tabuada<br>Aprenda a tabuada jogando em vez de apenas memorizá-la.<br><br>🤖 Modo Derrote o Robô<br>Tente derrotar o robô resolvendo problemas de matemática rapidamente.<br><br>🧩 Quebra-cabeças Matemáticos<br>Quebra-cabeças divertidos que aprimoram suas habilidades de raciocínio lógico e numérico.<br><br>🎯 Jogo Verdadeiro / Falso<br>Teste seus reflexos e sua velocidade matemática.<br><br>🔢 Jogo dos Números 2048<br>O clássico jogo 2048 que desenvolve estratégia e habilidades numéricas.<br><br>⭐ Por que escolher o Matemat-X?<br><br>✔ Torna o aprendizado da matemática divertido<br>✔ Interface fácil e intuitiva para crianças<br>✔ Diferentes modos de jogo para praticar matemática<br>✔ Ótimo para treinar o cérebro e o raciocínio rápido<br>✔ Uma experiência de aprendizado divertida<br><br>👨‍👩‍👧‍👦 Para quem é?<br><br>O Matemat-X é ideal para:<br><br>• Crianças que querem aprender matemática<br>• Alunos que querem praticar a tabuada<br>• Qualquer pessoa que queira praticar as quatro operações matemáticas básicas<br>• Usuários que querem exercitar o cérebro",
+      "summary": "Jogos divertidos de matemática para crianças. Aprenda multiplicação, adição, subtração e muito mais!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 14708,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.matematx.android",
+      "url": "https://play.google.com/store/apps/details?id=com.matematx.android&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Matemática Divertida  (Jogo)",
+      "description": "A matemática pode ser divertida! O Matemática Divertida é um jogo divertido e envolvente para praticar aritmética mental (adição, subtração, tabuada, divisão) para alunos do jardim de infância, 1º, 2º, 3º e 4º anos.\n\nA matemática mental (a capacidade de fazer cálculos matemáticos de cabeça) é uma competência importante para os alunos do ensino básico alcançarem sucesso académico e para aplicarem nas atividades diárias que se desenrolam fora da sala de aula. É preciso muito tempo e prática para dominar a aritmética mental. O nosso jogo foi criado para tornar esta aprendizagem agradável e divertida para as crianças.\n\nO jogo possui diferentes modos e níveis de dificuldade, pelo que qualquer aluno do ensino básico (até ao 5º ano) pode jogá-lo:\n\n● Jardim de infância: adição e subtração até 10\n● 1º ano: adição e subtração até 20\n● 2º ano: adição e subtração com dois dígitos, tabuada\n● 3º ano: multiplicação e divisão, adição e subtração até 100 \n● 4º ano: adição e subtração com três dígitos\n\nOs diversos níveis, monstros, armas, acessórios adicionais e roupas do personagem não permitirão que a criança se aborreça. Em vez disso, estes elementos irão motivá-la a avançar no processo de aprendizagem!\n\nAchamos muito mais divertido e interessante praticar diariamente aritmética combatendo monstros viscosos do que através de aplicações de cartões ou perguntas. As crianças no ensino pré-escolar até ao 4º ano vão divertir-se a praticar matemática mental com o treinador de “Matemática Divertida”!\n\nSeria um prazer saber a sua opinião. Caso tenha alguma questão ou comentário a fazer sobre o jogo, escreva-nos para slimesapp@speedymind.net",
+      "descriptionHTML": "A matemática pode ser divertida! O Matemática Divertida é um jogo divertido e envolvente para praticar aritmética mental (adição, subtração, tabuada, divisão) para alunos do jardim de infância, 1º, 2º, 3º e 4º anos.<br><br>A matemática mental (a capacidade de fazer cálculos matemáticos de cabeça) é uma competência importante para os alunos do ensino básico alcançarem sucesso académico e para aplicarem nas atividades diárias que se desenrolam fora da sala de aula. É preciso muito tempo e prática para dominar a aritmética mental. O nosso jogo foi criado para tornar esta aprendizagem agradável e divertida para as crianças.<br><br>O jogo possui diferentes modos e níveis de dificuldade, pelo que qualquer aluno do ensino básico (até ao 5º ano) pode jogá-lo:<br><br>● <b>Jardim de infância</b>: adição e subtração até 10<br>● <b>1º ano</b>: adição e subtração até 20<br>● <b>2º ano</b>: adição e subtração com dois dígitos, tabuada<br>● <b>3º ano</b>: multiplicação e divisão, adição e subtração até 100 <br>● <b>4º ano</b>: adição e subtração com três dígitos<br><br>Os diversos níveis, monstros, armas, acessórios adicionais e roupas do personagem não permitirão que a criança se aborreça. Em vez disso, estes elementos irão motivá-la a avançar no processo de aprendizagem!<br><br>Achamos muito mais divertido e interessante praticar diariamente aritmética combatendo monstros viscosos do que através de aplicações de cartões ou perguntas. As crianças no ensino pré-escolar até ao 4º ano vão divertir-se a praticar matemática mental com o treinador de “Matemática Divertida”!<br><br>Seria um prazer saber a sua opinião. Caso tenha alguma questão ou comentário a fazer sobre o jogo, escreva-nos para <a href=\"mailto:slimesapp@speedymind.net\">slimesapp@speedymind.net</a>",
+      "summary": "Jogos de matemática crianças: Adição e Subtração, Tabuada",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3682007,
+      "score": 4.8301888,
+      "scoreText": "4,8",
+      "ratings": 48297,
+      "reviews": 681,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Monstro",
+          "id": null
+        },
+        {
+          "name": "Combate",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes",
+      "url": "https://play.google.com/store/apps/details?id=net.speedymind.mental.arithmetic.trainer.learning.games.practice.k5.grade.math.vs.slimes&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Jogos de matemática 2",
+      "description": "Jogos Matemáticos - Quebra-cabeças de Blocos compreende mais de 6 jogos emocionantes de quebra-cabeças matemáticos e de blocos, incluindo o seguinte:\nBloco de quebra-cabeças Sudoku,\nAritmética mental,\nquebra-cabeças matemáticos,\nQuebra-cabeças de blocos 8 × 8,\nQuebra-cabeças de blocos 10 × 10,\nPares matemáticos.\n\nBlock Puzzle Sudoku é uma combinação única de Sudoku e quebra-cabeças de blocos. Este não é um quebra-cabeça lógico difícil, mas viciante que você não conseguirá largar.\nConecte os blocos para fazer linhas e quadrados. Treine sua mente e resolva quebra-cabeças de blocos!\n\nMath Games - Block Puzzles é uma coleção emocionante e desafiadora de jogos desafiadores que testarão suas habilidades matemáticas e de resolução de problemas. Os jogos desta coleção foram projetados para melhorar sua aritmética, álgebra e muito mais. Com vários níveis de dificuldade e diferentes tipos de jogos, esta coleção promete horas de diversão e educação. Prepare-se para testar seus limites enquanto navega pelo mundo dos Jogos Matemáticos!\n\nOs jogos matemáticos são desafios desafiadores que testam suas habilidades cerebrais. Esses jogos são projetados para jogadores de todos os níveis, desde iniciantes até especialistas. Eles oferecem horas de jogo educativo e divertido, com vários graus de dificuldade para manter as coisas interessantes. À medida que avança nos jogos desta coleção envolvente, você terá a oportunidade de aprimorar suas habilidades de resolução de problemas e testar seu conhecimento de conceitos matemáticos fundamentais.",
+      "descriptionHTML": "Jogos Matemáticos - Quebra-cabeças de Blocos compreende mais de 6 jogos emocionantes de quebra-cabeças matemáticos e de blocos, incluindo o seguinte:<br>Bloco de quebra-cabeças Sudoku,<br>Aritmética mental,<br>quebra-cabeças matemáticos,<br>Quebra-cabeças de blocos 8 × 8,<br>Quebra-cabeças de blocos 10 × 10,<br>Pares matemáticos.<br><br>Block Puzzle Sudoku é uma combinação única de Sudoku e quebra-cabeças de blocos. Este não é um quebra-cabeça lógico difícil, mas viciante que você não conseguirá largar.<br>Conecte os blocos para fazer linhas e quadrados. Treine sua mente e resolva quebra-cabeças de blocos!<br><br>Math Games - Block Puzzles é uma coleção emocionante e desafiadora de jogos desafiadores que testarão suas habilidades matemáticas e de resolução de problemas. Os jogos desta coleção foram projetados para melhorar sua aritmética, álgebra e muito mais. Com vários níveis de dificuldade e diferentes tipos de jogos, esta coleção promete horas de diversão e educação. Prepare-se para testar seus limites enquanto navega pelo mundo dos Jogos Matemáticos!<br><br>Os jogos matemáticos são desafios desafiadores que testam suas habilidades cerebrais. Esses jogos são projetados para jogadores de todos os níveis, desde iniciantes até especialistas. Eles oferecem horas de jogo educativo e divertido, com vários graus de dificuldade para manter as coisas interessantes. À medida que avança nos jogos desta coleção envolvente, você terá a oportunidade de aprimorar suas habilidades de resolução de problemas e testar seu conhecimento de conceitos matemáticos fundamentais.",
+      "summary": "Treine seu cérebro com jogos matemáticos e quebra-cabeças de blocos",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 114853,
+      "score": 4.111111,
+      "scoreText": "4,1",
+      "ratings": 547,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.agandeev.MathBlocks",
+      "url": "https://play.google.com/store/apps/details?id=com.agandeev.MathBlocks&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

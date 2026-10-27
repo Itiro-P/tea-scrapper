@@ -1,0 +1,668 @@
+{
+  "meta": {
+    "collect_time": "2026-10-17T23:32:46.923Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISLEXIA",
+    "term": "transtorno de leitura",
+    "key": "transtorno de leitura",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "EduEdu - Alfabetização",
+      "description": "Alfabetização divertida é com o EduEdu!\n\nO EduEdu é um aplicativo gratuito que auxilia crianças com dificuldade para aprender a ler e escrever. A criança inicia sua jornada no EduEdu fazendo uma breve avaliação, que identifica quais são suas principais dificuldades. A partir daí, o app gera centenas de atividades personalizadas para que ela aprenda de maneira dinâmica e divertida.\n\nComo o EduEdu funciona:\n1° Passo: A criança realiza uma breve avaliação interativa para verificar seu domínio em leitura e escrita. Em seguida, o EduEdu gera um relatório sobre seu desempenho. Os resultados são apresentados de forma simples, indicando as habilidades que a criança precisa desenvolver para avançar no processo de alfabetização.\n\n2° Passo: O EduEdu cria atividades personalizadas, focando as habilidades que a criança precisa desenvolver. O material é totalmente gratuito e inclui uma variedade de exercícios, jogos, livros, músicas e textos. Além disso, todo o conteúdo é alinhado à Base Nacional Comum Curricular (BNCC). As atividades do EduEdu podem ser realizadas no próprio app ou você pode imprimi-las, se desejar.\n\n3° Passo: Conforme a criança realiza as atividades, o EduEdu acompanha a sua evolução, monitorando seu progresso e gerando novas atividades para ela, quando necessário.\n\nPara quem é?\nO EduEdu foi desenvolvido para crianças dos anos finais da educação infantil e dos anos iniciais do ensino fundamental que estejam apresentando dificuldades para aprender a ler e escrever.\n\nAnos disponíveis:\n- 1°, 2°, 3°, 4º e 5º anos do ensino fundamental\n- Pré-escola da educação infantil\n\nPreço\nGratuito! Não temos cobranças dentro do app.\n\nFicou com alguma dúvida?\n\nAcesse nossa página no Instagram: @edueduapp\n\nOu entre em contato através do e-mail: eduedu@institutoabcd.org.br que estamos prontos para ajudar.",
+      "descriptionHTML": "<b>Alfabetização divertida é com o EduEdu!</b><br><br>O EduEdu é um aplicativo <b>gratuito<b></b> que auxilia crianças com dificuldade para aprender a ler e escrever. A criança inicia sua jornada no EduEdu fazendo uma breve avaliação, que identifica quais são suas principais dificuldades. A partir daí, o app gera centenas de atividades personalizadas para que ela aprenda de maneira dinâmica e divertida.<br><br><b>Como o EduEdu funciona:</b><br><b>1° Passo:</b> A criança realiza uma breve avaliação interativa para verificar seu domínio em <b>leitura e escrita</b>. Em seguida, o EduEdu gera um relatório sobre seu desempenho. Os resultados são apresentados de forma simples, indicando as habilidades que a criança precisa desenvolver para avançar no processo de <b>alfabetização</b>.<br><br><b>2° Passo:</b> O EduEdu cria <b>atividades personalizadas</b>, focando as habilidades que a criança precisa desenvolver. O material é totalmente gratuito e inclui uma variedade de exercícios, jogos, livros, músicas e textos. Além disso, todo o conteúdo é alinhado à Base Nacional Comum Curricular (BNCC). As atividades do EduEdu podem ser realizadas no próprio app ou você pode imprimi-las, se desejar.<br><br><b>3° Passo:</b> Conforme a criança realiza as atividades, o EduEdu acompanha a sua evolução, monitorando seu progresso e gerando novas atividades para ela, quando necessário.<br><br><b>Para quem é?</b><br>O EduEdu foi desenvolvido para crianças dos anos finais da educação infantil e dos anos iniciais do ensino fundamental que estejam apresentando dificuldades para aprender a ler e escrever.<br><br><b>Anos disponíveis:</b><br>- 1°, 2°, 3°, 4º e 5º anos do ensino fundamental<br>- Pré-escola da educação infantil<br><br><b>Preço</b><br>Gratuito! Não temos cobranças dentro do app.<br><br>Ficou com alguma dúvida?<br><br>Acesse nossa página no Instagram: @edueduapp<br><br>Ou entre em contato através do e-mail: eduedu@institutoabcd.org.br que estamos prontos para ajudar.</b>",
+      "summary": "O app que ensina crianças a ler e escrever!",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3428545,
+      "score": 4.8150325,
+      "scoreText": "4,8",
+      "ratings": 51201,
+      "reviews": 8485,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.org.institutoabcd.edu",
+      "url": "https://play.google.com/store/apps/details?id=br.org.institutoabcd.edu&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Tô Lendo: Diário de Leitura",
+      "description": "📚 Tô Lendo: Diário de Leitura\n\nO Tô Lendo é um aplicativo de acompanhamento de leitura feito para quem quer organizar livros, registrar páginas lidas e criar o hábito de ler todos os dias.\n\nCom ele, você pode marcar a página atual do livro, acompanhar seu progresso, ver estatísticas, criar notas, organizar por categorias e manter uma sequência de leitura (streak) — tudo em um só lugar.\n\n✨ Principais recursos do app\n\n📖 Acompanhamento de leitura\n- Registre quantas páginas leu por dia\n- Marque a página atual do livro\n- Veja o progresso em porcentagem\n- Saiba quantas páginas faltam para concluir\n\n📄 Leitura de arquivos PDF\n- Adicione arquivos PDF aos seus livros\n- Leia diretamente no aplicativo\n- Registre seu progresso durante a leitura\n- Faça buscas, use zoom e adicione notas por página\n\n🔔 Lembretes de leitura\n- Programe notificações diárias\n- Escolha o horário para receber o lembrete\n- Mantenha a motivação e não perca o hábito\n\n🔥 Sequência de leitura (streak)\n- Acompanhe seus dias seguidos lendo\n- Crie constância e mantenha o ritmo\n- Visualize seu recorde pessoal\n\n📝 Notas de leitura\n- Faça anotações enquanto lê\n- Registre ideias, trechos e pensamentos\n- Organize notas por livro\n\n🗂️ Categorias de livros\n- Organize seus livros por categorias\n- Crie categorias personalizadas\n- Encontre seus livros com mais facilidade\n\n📊 Estatísticas de leitura\n- Média de páginas lidas por dia\n- Gráficos de progresso\n- Livros concluídos e páginas lidas\n- Acompanhe sua evolução ao longo do tempo\n\n🌍 Vários idiomas\n- Use o app no idioma que preferir\n- Interface totalmente traduzida\n- Troque de idioma a qualquer momento\n\n☁️ Funciona online e offline\n- Use o app sem internet\n- Dados salvos localmente no dispositivo\n- Sincronização automática quando conectar",
+      "descriptionHTML": "📚 Tô Lendo: Diário de Leitura<br><br>O Tô Lendo é um aplicativo de acompanhamento de leitura feito para quem quer organizar livros, registrar páginas lidas e criar o hábito de ler todos os dias.<br><br>Com ele, você pode marcar a página atual do livro, acompanhar seu progresso, ver estatísticas, criar notas, organizar por categorias e manter uma sequência de leitura (streak) — tudo em um só lugar.<br><br>✨ Principais recursos do app<br><br>📖 Acompanhamento de leitura<br>- Registre quantas páginas leu por dia<br>- Marque a página atual do livro<br>- Veja o progresso em porcentagem<br>- Saiba quantas páginas faltam para concluir<br><br>📄 Leitura de arquivos PDF<br>- Adicione arquivos PDF aos seus livros<br>- Leia diretamente no aplicativo<br>- Registre seu progresso durante a leitura<br>- Faça buscas, use zoom e adicione notas por página<br><br>🔔 Lembretes de leitura<br>- Programe notificações diárias<br>- Escolha o horário para receber o lembrete<br>- Mantenha a motivação e não perca o hábito<br><br>🔥 Sequência de leitura (streak)<br>- Acompanhe seus dias seguidos lendo<br>- Crie constância e mantenha o ritmo<br>- Visualize seu recorde pessoal<br><br>📝 Notas de leitura<br>- Faça anotações enquanto lê<br>- Registre ideias, trechos e pensamentos<br>- Organize notas por livro<br><br>🗂️ Categorias de livros<br>- Organize seus livros por categorias<br>- Crie categorias personalizadas<br>- Encontre seus livros com mais facilidade<br><br>📊 Estatísticas de leitura<br>- Média de páginas lidas por dia<br>- Gráficos de progresso<br>- Livros concluídos e páginas lidas<br>- Acompanhe sua evolução ao longo do tempo<br><br>🌍 Vários idiomas<br>- Use o app no idioma que preferir<br>- Interface totalmente traduzida<br>- Troque de idioma a qualquer momento<br><br>☁️ Funciona online e offline<br>- Use o app sem internet<br>- Dados salvos localmente no dispositivo<br>- Sincronização automática quando conectar",
+      "summary": "Acompanhe sua leitura, registre páginas e anotações e veja seu progresso",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5689,
+      "score": 4.6896553,
+      "scoreText": "4,7",
+      "ratings": 29,
+      "reviews": 14,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.frojhodev.to_lendo_app",
+      "url": "https://play.google.com/store/apps/details?id=com.frojhodev.to_lendo_app&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Craque da leitura",
+      "description": "Prepare-se, seu filho está prestes a se tornar um Craque da Leitura!\nCom este APP, a criança irá desenvolver a leitura por meio de textos divertidos e com nível de dificuldade adequado a sua idade e série escolar.\nO Craque da Leitura é o único APP no Brasil focado no desenvolvimento da fluência de leitura. É ideal para crianças recém-alfabetizadas, estudantes do 1 ao 5º ano do Ensino Fundamental. \nOs livros digitais e interativos que estão no APP estão divididos em 5 níveis de leitura e apresentam à criança, gradativamente, vocabulário e sintaxe mais complexos. Há três opções de leitura: 1) leia para mim; 2) você lê, eu viro as páginas; 3) quero ler sozinho. Assim, a criança é constantemente desafiada de uma maneira que não irá se frustrar com a leitura, conseguindo ler, aprender e se divertir.\nOs títulos estão também divididos em cinco temas: Artes, Ciências, História, Geografia e Literatura. São histórias que reforçam o que seu filho está aprendendo na escola de uma maneira leve e lúdica. \nAlém disso, o Craque da Leitura é 100% livre de propagandas, garantindo um ambiente seguro para seu filho. \nQuer mais motivos para assinar? Nosso APP funciona offline. Basta baixar os livros (é rapidinho!) e começar a leitura.\nOs pais têm acesso ao painel de controle, onde podem visualizar o progresso da criança, quantos livros leu e em quais modalidades.   \nExperimente a versão gratuita e assine o Craque da Leitura para ter acesso ilimitado a dezenas de livros.\n\nRequisito do Aplicativo: este aplicativo está homologado até a versão Android 10.1. Para aparelhos que possuam versões posteriores do Android, favor consultar o nosso departamento técnico antes de realizar a compra pois há risco de incompatibilidade.",
+      "descriptionHTML": "Prepare-se, seu filho está prestes a se tornar um Craque da Leitura!<br>Com este APP, a criança irá desenvolver a leitura por meio de textos divertidos e com nível de dificuldade adequado a sua idade e série escolar.<br>O Craque da Leitura é o único APP no Brasil focado no desenvolvimento da fluência de leitura. É ideal para crianças recém-alfabetizadas, estudantes do 1 ao 5º ano do Ensino Fundamental. <br>Os livros digitais e interativos que estão no APP estão divididos em 5 níveis de leitura e apresentam à criança, gradativamente, vocabulário e sintaxe mais complexos. Há três opções de leitura: 1) leia para mim; 2) você lê, eu viro as páginas; 3) quero ler sozinho. Assim, a criança é constantemente desafiada de uma maneira que não irá se frustrar com a leitura, conseguindo ler, aprender e se divertir.<br>Os títulos estão também divididos em cinco temas: Artes, Ciências, História, Geografia e Literatura. São histórias que reforçam o que seu filho está aprendendo na escola de uma maneira leve e lúdica. <br>Além disso, o Craque da Leitura é 100% livre de propagandas, garantindo um ambiente seguro para seu filho. <br>Quer mais motivos para assinar? Nosso APP funciona offline. Basta baixar os livros (é rapidinho!) e começar a leitura.<br>Os pais têm acesso ao painel de controle, onde podem visualizar o progresso da criança, quantos livros leu e em quais modalidades.   <br>Experimente a versão gratuita e assine o Craque da Leitura para ter acesso ilimitado a dezenas de livros.<br><br>Requisito do Aplicativo: este aplicativo está homologado até a versão Android 10.1. Para aparelhos que possuam versões posteriores do Android, favor consultar o nosso departamento técnico antes de realizar a compra pois há risco de incompatibilidade.",
+      "summary": "Plataforma de leitura de livros digitais do Instituto Alfa e Beto.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 73385,
+      "score": 3.05,
+      "scoreText": "3,0",
+      "ratings": 136,
+      "reviews": 77,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.alfaebetosolucoes.livros",
+      "url": "https://play.google.com/store/apps/details?id=com.alfaebetosolucoes.livros&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Aprender a ler para crianças",
+      "description": "Aprender a ler e escrever as letras do alfabeto é divertido com jogos educativos para crianças pré-escolares: ABC Dinos.\n\nABC Dinos é um jogo de aprendizagem para para educação infantil e estudantes do primeiro ano do ensino fundamental para aprender a ler e escrever vogais e consoantes.\n\nAdapta-se ao grupo etário de cada criança, permitindo-lhes selecionar a letra que querem aprender, em maiúsculas ou minúsculas.\n\nAlém disso, o ABC Dinos possui vozes em Português que permite que as crianças mais novas, pré-escola, ouçam as palavras sem precisar saber ler 👍.\n\n✓ DESCRIÇÃO\nABC Dinos é um jogo educativo para crianças. Com resultados incríveis, o jogo proporciona aprender letras e melhorar a leitura e a escrita, independentemente do nível de aprendizado de cada criança.\nA interface da tela é atraente e simples, permitindo que as crianças brinquem sozinhas sem a necessidade da presença de um adulto. 😏\nTodo esse aprendizado está envolto em uma história mágica cheia de emoções, ação e diversão cercada por personagens engraçados como a família de Finn, nosso Dino, e os ogros \"\"\"\"\"\"\"\"loucos\"\"\"\"\"\"\"\" e seus dragões. Ajude Finn a libertar sua família ao coletar as letras mágicas que transformam os ogros em animais divertidos 😍!\n\n\n✓ VOZES EM PORTUGUÊS\nNós incorporamos vozes em Português para repetir as palavras e afirmações da atividade de alfabetização. Com isso, não apenas conseguimos tornar nossas atividades acessíveis para todas as idades, mas também nos permite incorporar atividades de reconhecimento auditivo, que são tão valiosas nesse estágio de aprendizado.\n\n\n✓ OBJETIVOS\n     ★ Aprender a ler\n     ★ Memorização visual e auditiva\n     ★ Discriminação de vogais e consoantes\n     ★ Discriminação das letras do alfabeto\n     ★ Aprimoramento da compreensão\n     ★ Aprender a desenhar o contorno de todas as letras do alfabeto (vogais e consoantes).\n     ★ Expandir o vocabulário com: animais, profissões, objetos, roupas, natureza, etc.\n\n\n✓ JOGOS DE APRENDIZAGEM\n\n★ ESCREVA A LETRA\nNeste jogo educativo as crianças têm que desenhar a forma de cada letra. Como prêmio, elas receberão uma imagem que começa com essa letra. Elas podem selecionar o modo preferido de escrever: manuscrito unificado ou impresso. Ao mesmo tempo, as crianças também terão a possibilidade de traçar cada letra do alfabeto em maiúsculas ou minúsculas.\n\n★ FORMULÁRIO DE PALAVRA\nEsta atividade consiste na formação de palavras apropriadas ao nível arrastando cada letra para o lugar correspondente. E como sabemos que isso é muito difícil, ajudamos os pequenos mudando o formato de cada letra como se fosse uma peça de quebra-cabeça que se encaixa. Assim, todas as crianças, independentemente da idade, podem progredir com formações de palavras e depois continuam a expandir o vocabulário e começam a aprender a ler.\n\n★ ONDE ESTÃO AS LETRAS?\nEste é, sem dúvida, um dos jogos de aprendizagem mais divertidos em ABC Dinos. A criança tem que encontrar a letra correspondente de dois cartões o mais rápido possível. \n\n★ COM QUE LETRA COMEÇA?\nNesta atividade, as crianças ouvirão uma palavra e verão sua foto. Elas têm que adivinhar a letra com que a palavra começa. O reconhecimento auditivo de cada letra do alfabeto e a ampliação de seu vocabulário são os dois principais propósitos deste jogo educativo.\n\n\n✓ ADAPTA-SE À SUA IDADE\nNo início do jogo, ele perguntará sobre o nível da criança, para que você não precise se preocupar se seu filho ou filha ainda não souber ler ou escrever. Ele se adapta ao seu nível de aprendizado e você pode escolher com quais letras deseja trabalhar e repetir a qualquer momento.\n\n\n✓ EXPERIMENTE\nO ABC Dinos é um jogo educativo e divertido, então o que você está esperando? Baixe agora.\nHá uma compra no aplicativo que permite desbloquear o jogo inteiro. Você pode escolher qualquer letra do alfabeto e completar toda a aventura.\n\nEmpresa: Didactoons\nIdade recomendada: Para crianças entre 3 e 7 anos de idade (pré-escolar e 1º - 2º ano do Primário).",
+      "descriptionHTML": "Aprender a ler e escrever as letras do alfabeto é divertido com jogos educativos para crianças pré-escolares: ABC Dinos.<br><br>ABC Dinos é um jogo de aprendizagem para para educação infantil e estudantes do primeiro ano do ensino fundamental para aprender a ler e escrever vogais e consoantes.<br><br>Adapta-se ao grupo etário de cada criança, permitindo-lhes selecionar a letra que querem aprender, em maiúsculas ou minúsculas.<br><br>Além disso, o ABC Dinos possui vozes em Português que permite que as crianças mais novas, pré-escola, ouçam as palavras sem precisar saber ler 👍.<br><br>✓ DESCRIÇÃO<br>ABC Dinos é um jogo educativo para crianças. Com resultados incríveis, o jogo proporciona aprender letras e melhorar a leitura e a escrita, independentemente do nível de aprendizado de cada criança.<br>A interface da tela é atraente e simples, permitindo que as crianças brinquem sozinhas sem a necessidade da presença de um adulto. 😏<br>Todo esse aprendizado está envolto em uma história mágica cheia de emoções, ação e diversão cercada por personagens engraçados como a família de Finn, nosso Dino, e os ogros &quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;loucos&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot; e seus dragões. Ajude Finn a libertar sua família ao coletar as letras mágicas que transformam os ogros em animais divertidos 😍!<br><br><br>✓ VOZES EM PORTUGUÊS<br>Nós incorporamos vozes em Português para repetir as palavras e afirmações da atividade de alfabetização. Com isso, não apenas conseguimos tornar nossas atividades acessíveis para todas as idades, mas também nos permite incorporar atividades de reconhecimento auditivo, que são tão valiosas nesse estágio de aprendizado.<br><br><br>✓ OBJETIVOS<br>     ★ Aprender a ler<br>     ★ Memorização visual e auditiva<br>     ★ Discriminação de vogais e consoantes<br>     ★ Discriminação das letras do alfabeto<br>     ★ Aprimoramento da compreensão<br>     ★ Aprender a desenhar o contorno de todas as letras do alfabeto (vogais e consoantes).<br>     ★ Expandir o vocabulário com: animais, profissões, objetos, roupas, natureza, etc.<br><br><br>✓ JOGOS DE APRENDIZAGEM<br><br>★ ESCREVA A LETRA<br>Neste jogo educativo as crianças têm que desenhar a forma de cada letra. Como prêmio, elas receberão uma imagem que começa com essa letra. Elas podem selecionar o modo preferido de escrever: manuscrito unificado ou impresso. Ao mesmo tempo, as crianças também terão a possibilidade de traçar cada letra do alfabeto em maiúsculas ou minúsculas.<br><br>★ FORMULÁRIO DE PALAVRA<br>Esta atividade consiste na formação de palavras apropriadas ao nível arrastando cada letra para o lugar correspondente. E como sabemos que isso é muito difícil, ajudamos os pequenos mudando o formato de cada letra como se fosse uma peça de quebra-cabeça que se encaixa. Assim, todas as crianças, independentemente da idade, podem progredir com formações de palavras e depois continuam a expandir o vocabulário e começam a aprender a ler.<br><br>★ ONDE ESTÃO AS LETRAS?<br>Este é, sem dúvida, um dos jogos de aprendizagem mais divertidos em ABC Dinos. A criança tem que encontrar a letra correspondente de dois cartões o mais rápido possível. <br><br>★ COM QUE LETRA COMEÇA?<br>Nesta atividade, as crianças ouvirão uma palavra e verão sua foto. Elas têm que adivinhar a letra com que a palavra começa. O reconhecimento auditivo de cada letra do alfabeto e a ampliação de seu vocabulário são os dois principais propósitos deste jogo educativo.<br><br><br>✓ ADAPTA-SE À SUA IDADE<br>No início do jogo, ele perguntará sobre o nível da criança, para que você não precise se preocupar se seu filho ou filha ainda não souber ler ou escrever. Ele se adapta ao seu nível de aprendizado e você pode escolher com quais letras deseja trabalhar e repetir a qualquer momento.<br><br><br>✓ EXPERIMENTE<br>O ABC Dinos é um jogo educativo e divertido, então o que você está esperando? Baixe agora.<br>Há uma compra no aplicativo que permite desbloquear o jogo inteiro. Você pode escolher qualquer letra do alfabeto e completar toda a aventura.<br><br>Empresa: Didactoons<br>Idade recomendada: Para crianças entre 3 e 7 anos de idade (pré-escolar e 1º - 2º ano do Primário).",
+      "summary": "Jogos educativos para aprender as letras do alfabeto para crianças pré-escolares",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2977236,
+      "score": 4.7225275,
+      "scoreText": "4,7",
+      "ratings": 18847,
+      "reviews": 998,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.Didactoons.ABCDinos",
+      "url": "https://play.google.com/store/apps/details?id=com.Didactoons.ABCDinos&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Jogos ABC infantis: Leitura",
+      "description": "\"A leitura e a escrita são consideradas os passos iniciais na construção das habilidades de alfabetização de uma criança.\n\"\n\"As habilidades de leitura e escrita de uma criança podem ser desenvolvidas com a ajuda de palavras visuais.\n\"\n\n\"O que são palavras visuais? As palavras visuais são as palavras que a criança deve reconhecer ao vê-las. Por exemplo, palavras como; isso, aquilo, ali e muito mais!\n\"\n\n\"Com a ajuda de palavras visuais, crianças de 0 a 6 anos podem aprender a ler e escrever. Jogar jogos de palavras visuais também aumentará o vocabulário de uma criança.\n\"\n\n\"Desenvolvemos uma variedade de divertidos jogos de palavras visuais, onde seu filho pode compreender imediatamente as palavras essenciais e ter um encontro interativo com personagens divertidos e aprender a ler e escrever.\n\"\n\n\"Seu filho tem dificuldade para soletrar palavras? Com a ajuda de palavras visuais e jogos, seu filho pode melhorar a ortografia.\n\"\n\n\"Recursos do jogo de palavras visuais:\n\"\n\"Trace letras: as crianças podem reconhecer letras e melhorar suas habilidades motoras finas traçando-as.\n\"\n\"Combine letras maiúsculas e minúsculas: Este jogo ajudará seu filho a diferenciar entre letras maiúsculas e minúsculas e a compreender o alfabeto.\n\"\n\"Resolva quebra-cabeças: resolva um fácil quebra-cabeça infantil para aprender as palavras visuais. Este divertido jogo desenvolverá as habilidades lógicas de seu filho.\n\"\n\"Toque nas palavras: as crianças precisam tocar nas palavras corretas para aprender a ler.\n\"\n\"Arraste as letras: Uma série de letras embaralhadas seria dada à criança. As crianças precisam arrastar as letras corretas para formar uma palavra. Criar e reconhecer palavras melhorará as habilidades de leitura de seu filho.\n\"\n\"Colete as letras: jogue um divertido jogo de carros e faça uma jornada para coletar o alfabeto e aprender a ler e escrever.\n\"\n\n\"Espere um pouco! Não é só isso. Temos mais de 300 jogos e uma interface de usuário envolvente para desenvolver habilidades de leitura de crianças de 0 a 6 anos.\n\"\n\n\"Jogos de palavras visuais ensinarão ao seu filho o básico da língua inglesa e permitirão que eles tenham uma experiência divertida de aprendizado.\n\"\n\n\"Baixe jogos de palavras visuais e desenvolva as habilidades básicas de alfabetização de seu filho.\n\"",
+      "descriptionHTML": "&quot;A leitura e a escrita são consideradas os passos iniciais na construção das habilidades de alfabetização de uma criança.<br>&quot;<br>&quot;As habilidades de leitura e escrita de uma criança podem ser desenvolvidas com a ajuda de palavras visuais.<br>&quot;<br><br>&quot;O que são palavras visuais? As palavras visuais são as palavras que a criança deve reconhecer ao vê-las. Por exemplo, palavras como; isso, aquilo, ali e muito mais!<br>&quot;<br><br>&quot;Com a ajuda de palavras visuais, crianças de 0 a 6 anos podem aprender a ler e escrever. Jogar jogos de palavras visuais também aumentará o vocabulário de uma criança.<br>&quot;<br><br>&quot;Desenvolvemos uma variedade de divertidos jogos de palavras visuais, onde seu filho pode compreender imediatamente as palavras essenciais e ter um encontro interativo com personagens divertidos e aprender a ler e escrever.<br>&quot;<br><br>&quot;Seu filho tem dificuldade para soletrar palavras? Com a ajuda de palavras visuais e jogos, seu filho pode melhorar a ortografia.<br>&quot;<br><br>&quot;Recursos do jogo de palavras visuais:<br>&quot;<br>&quot;Trace letras: as crianças podem reconhecer letras e melhorar suas habilidades motoras finas traçando-as.<br>&quot;<br>&quot;Combine letras maiúsculas e minúsculas: Este jogo ajudará seu filho a diferenciar entre letras maiúsculas e minúsculas e a compreender o alfabeto.<br>&quot;<br>&quot;Resolva quebra-cabeças: resolva um fácil quebra-cabeça infantil para aprender as palavras visuais. Este divertido jogo desenvolverá as habilidades lógicas de seu filho.<br>&quot;<br>&quot;Toque nas palavras: as crianças precisam tocar nas palavras corretas para aprender a ler.<br>&quot;<br>&quot;Arraste as letras: Uma série de letras embaralhadas seria dada à criança. As crianças precisam arrastar as letras corretas para formar uma palavra. Criar e reconhecer palavras melhorará as habilidades de leitura de seu filho.<br>&quot;<br>&quot;Colete as letras: jogue um divertido jogo de carros e faça uma jornada para coletar o alfabeto e aprender a ler e escrever.<br>&quot;<br><br>&quot;Espere um pouco! Não é só isso. Temos mais de 300 jogos e uma interface de usuário envolvente para desenvolver habilidades de leitura de crianças de 0 a 6 anos.<br>&quot;<br><br>&quot;Jogos de palavras visuais ensinarão ao seu filho o básico da língua inglesa e permitirão que eles tenham uma experiência divertida de aprendizado.<br>&quot;<br><br>&quot;Baixe jogos de palavras visuais e desenvolva as habilidades básicas de alfabetização de seu filho.<br>&quot;",
+      "summary": "Jogo ABC infantil! Aprenda o inglês, fonética, palavras visuais e ortografia",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 617135,
+      "score": 3.5454545,
+      "scoreText": "3,5",
+      "ratings": 696,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iz.kids.learn.to.read.sight.words.vocabulary.abc.phonics.games",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.kids.learn.to.read.sight.words.vocabulary.abc.phonics.games&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Bookmory - rastreador livros",
+      "description": "Crie um hábito de leitura duradouro com o Bookmory, o rastreador de leitura definitivo.\n\nDefina suas metas de leitura anuais, acompanhe seu progresso diário e mantenha um belo diário de leitura.\nCom um poderoso timer de leitura, visualização em calendário e estatísticas detalhadas, manter-se motivado nunca foi tão fácil.\n\nQuando você registra um livro no Bookmory, não está apenas rastreando —\nvocê vai lembrar dele para sempre.\n\n⸻\n\n📖 Perfeito para Leitores que Querem:\n• Acompanhar os livros lidos\n• Criar um hábito de leitura consistente\n• Manter um diário e anotações de leitura\n• Definir metas de leitura e alcançá-las\n• Ver estatísticas de leitura bonitas\n• Organizar sua biblioteca pessoal\n\n⸻\n\n✨ Recursos Principais\n\n📚 Registro Fácil de Livros\n• Adicione livros por busca ou escaneamento de código de barras\n• Organize livros com coleções e séries\n• Gerencie sua biblioteca com tags personalizadas\n• Avalie e faça resenhas dos livros terminados\n\n⏱ Timer de Leitura & Acompanhamento de Progresso\n• Registre páginas lidas\n• Acompanhe o tempo de leitura com o timer integrado\n• Defina metas de leitura diárias\n• Defina metas de leitura anuais\n• Mantenha-se motivado com o recurso de sequência de leitura\n\n📝 Diário & Anotações de Leitura\n• Escreva belas anotações com um editor poderoso\n• Destaque suas citações favoritas\n• Extraia texto de fotos usando OCR\n• Compartilhe anotações com fundos estéticos\n• Recurso de nota aleatória para revisitar insights antigos\n\n📊 Estatísticas & Calendário de Leitura\n• Estatísticas de leitura anuais\n• Acompanhe tendências de páginas e tempo de leitura\n• Calendário de leitura para visualizar seu progresso\n• Recurso de Retrospectiva Anual (disponível todo dezembro)\n\n🎨 Personalização & Segurança\n• Múltiplos temas para combinar com seu estilo\n• Bloqueio do app com proteção por senha\n• Suporte a backup no Google Cloud\n\n⸻\n\n👑 Recursos Premium\n• Remova todos os anúncios\n• Sincronização automática entre dispositivos\n• Sem necessidade de backup manual\n• Temas exclusivos adicionais\n\n⸻\n\n📚 Seu Rastreador de Leitura Completo\n\nO Bookmory é mais do que um rastreador de livros.\nÉ um registro de leitura, diário de leitura, timer de leitura e app de metas — tudo em um só lugar.\n\nAcompanhe seus livros.\nMeça seu tempo de leitura.\nCrie um hábito de leitura duradouro.\n\nComece sua jornada de leitura com o Bookmory hoje. ✨\n\nContato: tonysoft.net@gmail.com",
+      "descriptionHTML": "Crie um hábito de leitura duradouro com o Bookmory, o rastreador de leitura definitivo.<br><br>Defina suas metas de leitura anuais, acompanhe seu progresso diário e mantenha um belo diário de leitura.<br>Com um poderoso timer de leitura, visualização em calendário e estatísticas detalhadas, manter-se motivado nunca foi tão fácil.<br><br>Quando você registra um livro no Bookmory, não está apenas rastreando —<br>você vai lembrar dele para sempre.<br><br>⸻<br><br>📖 Perfeito para Leitores que Querem:<br>• Acompanhar os livros lidos<br>• Criar um hábito de leitura consistente<br>• Manter um diário e anotações de leitura<br>• Definir metas de leitura e alcançá-las<br>• Ver estatísticas de leitura bonitas<br>• Organizar sua biblioteca pessoal<br><br>⸻<br><br>✨ Recursos Principais<br><br>📚 Registro Fácil de Livros<br>• Adicione livros por busca ou escaneamento de código de barras<br>• Organize livros com coleções e séries<br>• Gerencie sua biblioteca com tags personalizadas<br>• Avalie e faça resenhas dos livros terminados<br><br>⏱ Timer de Leitura &amp; Acompanhamento de Progresso<br>• Registre páginas lidas<br>• Acompanhe o tempo de leitura com o timer integrado<br>• Defina metas de leitura diárias<br>• Defina metas de leitura anuais<br>• Mantenha-se motivado com o recurso de sequência de leitura<br><br>📝 Diário &amp; Anotações de Leitura<br>• Escreva belas anotações com um editor poderoso<br>• Destaque suas citações favoritas<br>• Extraia texto de fotos usando OCR<br>• Compartilhe anotações com fundos estéticos<br>• Recurso de nota aleatória para revisitar insights antigos<br><br>📊 Estatísticas &amp; Calendário de Leitura<br>• Estatísticas de leitura anuais<br>• Acompanhe tendências de páginas e tempo de leitura<br>• Calendário de leitura para visualizar seu progresso<br>• Recurso de Retrospectiva Anual (disponível todo dezembro)<br><br>🎨 Personalização &amp; Segurança<br>• Múltiplos temas para combinar com seu estilo<br>• Bloqueio do app com proteção por senha<br>• Suporte a backup no Google Cloud<br><br>⸻<br><br>👑 Recursos Premium<br>• Remova todos os anúncios<br>• Sincronização automática entre dispositivos<br>• Sem necessidade de backup manual<br>• Temas exclusivos adicionais<br><br>⸻<br><br>📚 Seu Rastreador de Leitura Completo<br><br>O Bookmory é mais do que um rastreador de livros.<br>É um registro de leitura, diário de leitura, timer de leitura e app de metas — tudo em um só lugar.<br><br>Acompanhe seus livros.<br>Meça seu tempo de leitura.<br>Crie um hábito de leitura duradouro.<br><br>Comece sua jornada de leitura com o Bookmory hoje. ✨<br><br>Contato: tonysoft.net@gmail.com",
+      "summary": "Acompanhe, organize e aprimore sua jornada de leitura.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2739305,
+      "score": 4.858896,
+      "scoreText": "4,9",
+      "ratings": 79147,
+      "reviews": 2023,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "net.tonysoft.bookmory",
+      "url": "https://play.google.com/store/apps/details?id=net.tonysoft.bookmory&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "TTS: lê em voz alta livros",
+      "description": "O TTS Reader é um Leitor de Livros, Leitor TTS, Leitor Alto, Leitor de Voz, tudo em um.\nLeia qualquer formato de livro em voz alta, usando o mecanismo TTS de sua escolha:\nEPUB, MOBI, TXT, FB2, PDF, DJVU, RTF, AZW, HTML, RTF, ODT e até mesmo páginas da web.\n\nTTS Reader é um aplicativo avançado, altamente personalizável e poderoso baseado no Librera Book Reader Professional\n\nFuncionalidade TTS\nPainel de controle de reprodução intuitivo e fácil de tocar\nNotificação de barra de status e tela de bloqueio com controles\nOuça os livros no fundo com a tela desligada\nUse seu mecanismo TTS favorito\nAjustar velocidade, tom e volume\nIgnore qualquer símbolo indesejado (personalizável)\nRetomar a leitura do último sinal de pontuação (sentença)\nPausas expressivas nos sinais de pontuação com duração ajustável\nFavoritos remotos (através do botão iniciar / parar do seu fone de ouvido)\nToque duas vezes em qualquer página para começar a ler\nCompatibilidade e controle de fone de ouvido Bluetooth\nSalvar livros em arquivos WAV\nCompartilhe páginas da web com o TTS Reader para lê-las em voz alta\nDefinir temporizador para parar de ler em voz alta em um determinado ponto no tempo\n\nLeitor de livros\nPesquise documentos EPUB, FB2, PDF, etc. e crie uma biblioteca\nPesquisa de livros filtrados: por título, autor, série, gênero etc.\nClassificação de exibição de livros: por autor (es), gênero, série, tamanho etc.\nGerenciador de arquivos interno\nUma lista de documentos lidos recentemente (Recente)\nUma lista de seus títulos favoritos (Favoritos)\nDeixe anotações e páginas de marcadores em todos os formatos de livros\nPersonalizar fontes para texto, títulos, itálicos, etc.\nPesquisa de dicionário local e on-line\nPesquisa de várias palavras e bookmarking\nAbra qualquer livro arquivado em zip (epub, fb2, mobi, pdf)\nWidget da área de trabalho",
+      "descriptionHTML": "O TTS Reader é um Leitor de Livros, Leitor TTS, Leitor Alto, Leitor de Voz, tudo em um.<br>Leia qualquer formato de livro em voz alta, usando o mecanismo TTS de sua escolha:<br>EPUB, MOBI, TXT, FB2, PDF, DJVU, RTF, AZW, HTML, RTF, ODT e até mesmo páginas da web.<br><br>TTS Reader é um aplicativo avançado, altamente personalizável e poderoso baseado no Librera Book Reader Professional<br><br><b>Funcionalidade TTS</b><br>Painel de controle de reprodução intuitivo e fácil de tocar<br>Notificação de barra de status e tela de bloqueio com controles<br>Ouça os livros no fundo com a tela desligada<br>Use seu mecanismo TTS favorito<br>Ajustar velocidade, tom e volume<br>Ignore qualquer símbolo indesejado (personalizável)<br>Retomar a leitura do último sinal de pontuação (sentença)<br>Pausas expressivas nos sinais de pontuação com duração ajustável<br>Favoritos remotos (através do botão iniciar / parar do seu fone de ouvido)<br>Toque duas vezes em qualquer página para começar a ler<br>Compatibilidade e controle de fone de ouvido Bluetooth<br>Salvar livros em arquivos WAV<br>Compartilhe páginas da web com o TTS Reader para lê-las em voz alta<br>Definir temporizador para parar de ler em voz alta em um determinado ponto no tempo<br><br><b>Leitor de livros</b><br>Pesquise documentos EPUB, FB2, PDF, etc. e crie uma biblioteca<br>Pesquisa de livros filtrados: por título, autor, série, gênero etc.<br>Classificação de exibição de livros: por autor (es), gênero, série, tamanho etc.<br>Gerenciador de arquivos interno<br>Uma lista de documentos lidos recentemente (Recente)<br>Uma lista de seus títulos favoritos (Favoritos)<br>Deixe anotações e páginas de marcadores em todos os formatos de livros<br>Personalizar fontes para texto, títulos, itálicos, etc.<br>Pesquisa de dicionário local e on-line<br>Pesquisa de várias palavras e bookmarking<br>Abra qualquer livro arquivado em zip (epub, fb2, mobi, pdf)<br>Widget da área de trabalho",
+      "summary": "Leia seus livros em voz alta com uma voz humana, leitor de voz",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2198323,
+      "score": 4.5983605,
+      "scoreText": "4,6",
+      "ratings": 12356,
+      "reviews": 654,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "tts.reader",
+      "url": "https://play.google.com/store/apps/details?id=tts.reader&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Leitura rápida",
+      "description": "Em nosso programa de leitura rápida estão recolhidos métodos únicos, graças aos quais Você poderá, de forma independente e sem a necessidade de cursos caros, aumentar sua velocidade de leitura até o nível desejado.\n\nOs treinadores especialmente selecionados para as aplicações irão ajudá-lo a se lembrar rapidamente de números e palavras, aumentar sua capacidade de concentração, expandir seu campo de visão e aumentar significativamente a velocidade de sua leitura.\n\nQuando você assimile a habilidade de leitura rápida, então:\n- você vai aprender a economizar tempo ao ler qualquer texto;\n- poderá sempre encontrar rapidamente dentro do texto, o mais importante;\n- desenvolverá memória, atenção e expandirá seu vocabulário;\n- e o mais importante - você vai começar a pensar de forma diferente, efetivamente resolver problemas, ter um pensamento mais criativo, poder fazer mais e tornar-se mais enérgico e bem-sucedido! \n\nGraças a treinadores especiais, tais como a Tabela Schulte, e treinadores para o desenvolvimento da memória e da atenção, você pode aumentar sua velocidade de leitura várias vezes.\n\nO programa permite ler livros em formatos fb2, epub, txt.\n\nVocê descobrirá por si mesmo o impressionante mundo da leitura rápida, e você poderá superar os concorrentes, obter o respeito dos parceiros, superiores e subordinados!",
+      "descriptionHTML": "Em nosso programa de leitura rápida estão recolhidos métodos únicos, graças aos quais Você poderá, de forma independente e sem a necessidade de cursos caros, aumentar sua velocidade de leitura até o nível desejado.<br><br>Os treinadores especialmente selecionados para as aplicações irão ajudá-lo a se lembrar rapidamente de números e palavras, aumentar sua capacidade de concentração, expandir seu campo de visão e aumentar significativamente a velocidade de sua leitura.<br><br>Quando você assimile a habilidade de leitura rápida, então:<br>- você vai aprender a economizar tempo ao ler qualquer texto;<br>- poderá sempre encontrar rapidamente dentro do texto, o mais importante;<br>- desenvolverá memória, atenção e expandirá seu vocabulário;<br>- e o mais importante - você vai começar a pensar de forma diferente, efetivamente resolver problemas, ter um pensamento mais criativo, poder fazer mais e tornar-se mais enérgico e bem-sucedido! <br><br>Graças a treinadores especiais, tais como a Tabela Schulte, e treinadores para o desenvolvimento da memória e da atenção, você pode aumentar sua velocidade de leitura várias vezes.<br><br>O programa permite ler livros em formatos fb2, epub, txt.<br><br>Você descobrirá por si mesmo o impressionante mundo da leitura rápida, e você poderá superar os concorrentes, obter o respeito dos parceiros, superiores e subordinados!",
+      "summary": "Um método revolucionário no estudo da leitura rápida. Leitor incorporado",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3748405,
+      "score": 4.7423315,
+      "scoreText": "4,7",
+      "ratings": 39830,
+      "reviews": 1204,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.speedreading.alexander.speedreading",
+      "url": "https://play.google.com/store/apps/details?id=com.speedreading.alexander.speedreading&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Cabeceira - Registre leituras",
+      "description": "Mantenha o hábito de leitura, organize seus livros e descubra novas obras!\n\nO Cabeceira é uma ferramenta de acompanhamento de leitura onde você pode calcular seu ritmo de leitura, definir metas, registrar o progresso, avaliar livros lidos, organizar lista de próximas leituras e descobrir novas obras.\n\nAplicativo ideal para quem quer desenvolver ou manter o hábito de leitura. \n\nCom o Cabeceira você vai conseguir:\n- Calcular seu ritmo de leitura\n- Descobrir quanto tempo precisa para terminar seu livro\n- Registrar e avaliar os livros lidos\n- Encontrar novos títulos e marcar os livros que quer ler\n- Agendar notificações diárias para lembrar de ler\n- Ganhar conquistas ao atingir objetivos literários\n\nPegue seus livros de Cabeceira e baixe o app!",
+      "descriptionHTML": "Mantenha o hábito de leitura, organize seus livros e descubra novas obras!<br><br>O Cabeceira é uma ferramenta de acompanhamento de leitura onde você pode calcular seu ritmo de leitura, definir metas, registrar o progresso, avaliar livros lidos, organizar lista de próximas leituras e descobrir novas obras.<br><br>Aplicativo ideal para quem quer desenvolver ou manter o hábito de leitura. <br><br>Com o Cabeceira você vai conseguir:<br>- Calcular seu ritmo de leitura<br>- Descobrir quanto tempo precisa para terminar seu livro<br>- Registrar e avaliar os livros lidos<br>- Encontrar novos títulos e marcar os livros que quer ler<br>- Agendar notificações diárias para lembrar de ler<br>- Ganhar conquistas ao atingir objetivos literários<br><br>Pegue seus livros de Cabeceira e baixe o app!",
+      "summary": "O Cabeceira é o seu assistente pessoal de leituras.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1365246,
+      "score": 4.621426,
+      "scoreText": "4,6",
+      "ratings": 61679,
+      "reviews": 13669,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.taglivros.cabeceira",
+      "url": "https://play.google.com/store/apps/details?id=br.com.taglivros.cabeceira&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "ReadFocus+: Dislexia/TDAH",
+      "description": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.\n\n─── COMO FUNCIONA ───\nConceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.\n\n─── DOIS MODOS DE FOCO ───\n• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual\n• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura\n\n─── TOTALMENTE AJUSTÁVEL ───\n• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte\n• Opacidade (10%–100%) – de um tom suave a uma cor intensa\n\n─── 10 TEMAS DE CORES ───\n• Brilho âmbar · Azul oceano · Amarelo clássico — grátis\n• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro\n\n─── RECURSOS PRO ───\n✓ Experiência sem anúncios\n✓ Todos os 7 temas premium desbloqueados\n✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)\n✓ Configurações completas da barra de foco\n✓ Manter tela acesa durante a leitura\n\n─── ONDE QUER QUE VOCÊ LEIA ───\n• Ebooks, PDFs, artigos acadêmicos\n• Artigos da web, blogs, apps de notícias\n• Anotações, livros didáticos, material de prova\n• Quadrinhos, mangá, webtoon, light novels\n• E-mails longos e históricos de conversa\n\n─── PERFEITO PARA ───\n• Estudantes, concurseiros e leitores frequentes\n• Pessoas com dislexia ou dificuldades de rastreamento visual\n• TDAH / déficit de atenção – menos distrações na leitura\n• Quem perde a linha ou relê o mesmo trecho\n• Qualquer um com vista cansada lendo no celular\n\n─── Também no Windows ───\nO mesmo apoio à leitura no PC — na Microsoft Store",
+      "descriptionHTML": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.<br><br>─── COMO FUNCIONA ───<br>Conceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.<br><br>─── DOIS MODOS DE FOCO ───<br>• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual<br>• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura<br><br>─── TOTALMENTE AJUSTÁVEL ───<br>• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte<br>• Opacidade (10%–100%) – de um tom suave a uma cor intensa<br><br>─── 10 TEMAS DE CORES ───<br>• Brilho âmbar · Azul oceano · Amarelo clássico — grátis<br>• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro<br><br>─── RECURSOS PRO ───<br>✓ Experiência sem anúncios<br>✓ Todos os 7 temas premium desbloqueados<br>✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)<br>✓ Configurações completas da barra de foco<br>✓ Manter tela acesa durante a leitura<br><br>─── ONDE QUER QUE VOCÊ LEIA ───<br>• Ebooks, PDFs, artigos acadêmicos<br>• Artigos da web, blogs, apps de notícias<br>• Anotações, livros didáticos, material de prova<br>• Quadrinhos, mangá, webtoon, light novels<br>• E-mails longos e históricos de conversa<br><br>─── PERFEITO PARA ───<br>• Estudantes, concurseiros e leitores frequentes<br>• Pessoas com dislexia ou dificuldades de rastreamento visual<br>• TDAH / déficit de atenção – menos distrações na leitura<br>• Quem perde a linha ou relê o mesmo trecho<br>• Qualquer um com vista cansada lendo no celular<br><br>─── Também no Windows ───<br>O mesmo apoio à leitura no PC — na Microsoft Store",
+      "summary": "Auxílio de leitura para dislexia e TDAH: realce a linha + máscara de leitura.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1335,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.codedac.readfocus",
+      "url": "https://play.google.com/store/apps/details?id=com.codedac.readfocus&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Acceleread: Leitura Rápida",
+      "description": "Leia até 3x mais rápido em até 2 semanas, com cerca de 10 minutos por dia. O Acceleread é um treino diário de leitura dinâmica que constrói uma habilidade real que você leva para cada livro, e-mail, PDF e prova.\n\nA maioria dos apps resume os livros para você. O Acceleread faz o oposto: ele treina VOCÊ para ler mais rápido, e essa habilidade vai com você para todo lugar e nunca te abandona.\n\nSEIS FERRAMENTAS DE TREINO\n• Word Flash — mostra uma palavra por vez para seus olhos pararem de voltar e ganharem ritmo\n• Tabela de Schulte — uma grade de números que amplia seu campo visual e corta as fixações\n• Hopscotch — um exercício de movimento dos olhos que treina o olhar para seguir em frente, sem voltar\n• Realce em Coluna — guia seus olhos pela página em colunas para ler mais rápido\n• Realce em Diamante — destaca as frases-chave para afiar o foco e cortar a distração\n• Ampliador de Visão — abre sua visão periférica para você captar mais a cada olhada\n\nE TAMBÉM\n• Teste de velocidade grátis — meça suas palavras por minuto e a compreensão, e veja os dois subirem\n• Curso gamificado — uma trilha de níveis com metas diárias, sequências e lembretes que fixam o hábito\n• Testes de compreensão — para a velocidade nunca custar o entendimento\n• Acompanhamento de progresso — WPM ao longo do tempo, notas de compreensão e marcos\n• Biblioteca e leitor integrados — uma biblioteca de livros selecionados para praticar, em um leitor sem distrações\n\nCOMO FUNCIONA\nFaça o teste de WPM para ter sua base, siga um plano personalizado e treine cerca de 10 minutos por dia. Pequenas repetições diárias e uma sequência transformam a leitura veloz em um hábito que fica.\n\nA CIÊNCIA\nO ritmo do Word Flash, os exercícios de movimento dos olhos e as tabelas de Schulte atacam os hábitos que atrasam a leitura — voltar no texto, subvocalizar e o foco estreito (progresso medido pelas avaliações do app).\n\nPARA QUEM É\nEstudantes e quem se prepara para vestibular, ENEM ou concurso, profissionais ocupados, leitores que querem mais foco, quem estuda inglês e leitores que têm uma pilha de livros esperando.\n\nGrátis para começar. Cancele quando quiser. Disponível em 25 idiomas.\n\nFaça o teste de leitura grátis e veja sua velocidade hoje.",
+      "descriptionHTML": "Leia até 3x mais rápido em até 2 semanas, com cerca de 10 minutos por dia. O Acceleread é um treino diário de leitura dinâmica que constrói uma habilidade real que você leva para cada livro, e-mail, PDF e prova.<br><br>A maioria dos apps resume os livros para você. O Acceleread faz o oposto: ele treina VOCÊ para ler mais rápido, e essa habilidade vai com você para todo lugar e nunca te abandona.<br><br>SEIS FERRAMENTAS DE TREINO<br>• Word Flash — mostra uma palavra por vez para seus olhos pararem de voltar e ganharem ritmo<br>• Tabela de Schulte — uma grade de números que amplia seu campo visual e corta as fixações<br>• Hopscotch — um exercício de movimento dos olhos que treina o olhar para seguir em frente, sem voltar<br>• Realce em Coluna — guia seus olhos pela página em colunas para ler mais rápido<br>• Realce em Diamante — destaca as frases-chave para afiar o foco e cortar a distração<br>• Ampliador de Visão — abre sua visão periférica para você captar mais a cada olhada<br><br>E TAMBÉM<br>• Teste de velocidade grátis — meça suas palavras por minuto e a compreensão, e veja os dois subirem<br>• Curso gamificado — uma trilha de níveis com metas diárias, sequências e lembretes que fixam o hábito<br>• Testes de compreensão — para a velocidade nunca custar o entendimento<br>• Acompanhamento de progresso — WPM ao longo do tempo, notas de compreensão e marcos<br>• Biblioteca e leitor integrados — uma biblioteca de livros selecionados para praticar, em um leitor sem distrações<br><br>COMO FUNCIONA<br>Faça o teste de WPM para ter sua base, siga um plano personalizado e treine cerca de 10 minutos por dia. Pequenas repetições diárias e uma sequência transformam a leitura veloz em um hábito que fica.<br><br>A CIÊNCIA<br>O ritmo do Word Flash, os exercícios de movimento dos olhos e as tabelas de Schulte atacam os hábitos que atrasam a leitura — voltar no texto, subvocalizar e o foco estreito (progresso medido pelas avaliações do app).<br><br>PARA QUEM É<br>Estudantes e quem se prepara para vestibular, ENEM ou concurso, profissionais ocupados, leitores que querem mais foco, quem estuda inglês e leitores que têm uma pilha de livros esperando.<br><br>Grátis para começar. Cancele quando quiser. Disponível em 25 idiomas.<br><br>Faça o teste de leitura grátis e veja sua velocidade hoje.",
+      "summary": "Treino de leitura dinâmica: teste sua velocidade e leia até 3x mais rápido.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 90529,
+      "score": 3.5833333,
+      "scoreText": "3,6",
+      "ratings": 138,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mycompany.acceleread",
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.acceleread&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Spreeder - Speed Reading",
+      "description": "Eleve suas habilidades de leitura com o Spreeder! Liberte o poder da leitura dinâmica e absorva conhecimento mais rápido do que nunca. Quer se trate de livros, artigos ou documentos, o Spreeder é o seu caminho para dominar a arte da leitura na velocidade da luz.\n\nCaracterísticas principais:\n\n1. Cursos de leitura guiada:\nCursos estruturados para usuários de diversos níveis, desde iniciantes até leitores avançados. Cada curso se concentra em técnicas, compreensão e aumento gradual da velocidade de leitura.\n\n2. Exercícios de leitura rápida:\nExercícios diários projetados para aumentar a velocidade e a compreensão da leitura.\nExercícios interativos para praticar a visão periférica e reduzir a subvocalização.\n\n3. Biblioteca de conteúdo:\nAcesse uma vasta biblioteca de artigos e livros de vários gêneros.\nIntroduza gradualmente materiais mais complexos à medida que os usuários progridem.\n\n4. Metas de leitura personalizadas:\nDefina metas de leitura com base no tempo, páginas ou palavras por minuto.\nAcompanhamento dinâmico do progresso e emblemas de conquista para motivação.\n\n      5. Impulsionadores de compreensão:\nFerramentas integradas para melhorar a compreensão e retenção de leitura.\nRecursos de destaque, anotações e resumo.\n\n 6. Algoritmo de Aprendizagem Adaptativa:\nAlgoritmo alimentado por IA que adapta a dificuldade e o ritmo do conteúdo à velocidade de leitura e nível de compreensão de cada usuário.\n\n 7. Análise de desempenho:\nVisualize melhorias na velocidade de leitura ao longo do tempo com análises gráficas.\nCompare o progresso com outros usuários com níveis de habilidade semelhantes.\n\n8. Leia em qualquer lugar, a qualquer hora:\nSincronize o progresso entre dispositivos para uma leitura perfeita em qualquer lugar.\nSuporte de leitura offline para prática ininterrupta.\n\n9. Desafios de leitura e tabelas de classificação:\nEnvolva os usuários com desafios de leitura, incentivando a competição saudável.\nOs principais leitores exibidos nas tabelas de classificação para maior motivação.\n\n10. Temas personalizáveis:\nOfereça vários temas de leitura e fontes para uma experiência de leitura personalizada.\nModo escuro para leitura confortável em condições de pouca luz.",
+      "descriptionHTML": "Eleve suas habilidades de leitura com o Spreeder! Liberte o poder da leitura dinâmica e absorva conhecimento mais rápido do que nunca. Quer se trate de livros, artigos ou documentos, o Spreeder é o seu caminho para dominar a arte da leitura na velocidade da luz.<br><br>Características principais:<br><br>1. Cursos de leitura guiada:<br>Cursos estruturados para usuários de diversos níveis, desde iniciantes até leitores avançados. Cada curso se concentra em técnicas, compreensão e aumento gradual da velocidade de leitura.<br><br>2. Exercícios de leitura rápida:<br>Exercícios diários projetados para aumentar a velocidade e a compreensão da leitura.<br>Exercícios interativos para praticar a visão periférica e reduzir a subvocalização.<br><br>3. Biblioteca de conteúdo:<br>Acesse uma vasta biblioteca de artigos e livros de vários gêneros.<br>Introduza gradualmente materiais mais complexos à medida que os usuários progridem.<br><br>4. Metas de leitura personalizadas:<br>Defina metas de leitura com base no tempo, páginas ou palavras por minuto.<br>Acompanhamento dinâmico do progresso e emblemas de conquista para motivação.<br><br>      5. Impulsionadores de compreensão:<br>Ferramentas integradas para melhorar a compreensão e retenção de leitura.<br>Recursos de destaque, anotações e resumo.<br><br> 6. Algoritmo de Aprendizagem Adaptativa:<br>Algoritmo alimentado por IA que adapta a dificuldade e o ritmo do conteúdo à velocidade de leitura e nível de compreensão de cada usuário.<br><br> 7. Análise de desempenho:<br>Visualize melhorias na velocidade de leitura ao longo do tempo com análises gráficas.<br>Compare o progresso com outros usuários com níveis de habilidade semelhantes.<br><br>8. Leia em qualquer lugar, a qualquer hora:<br>Sincronize o progresso entre dispositivos para uma leitura perfeita em qualquer lugar.<br>Suporte de leitura offline para prática ininterrupta.<br><br>9. Desafios de leitura e tabelas de classificação:<br>Envolva os usuários com desafios de leitura, incentivando a competição saudável.<br>Os principais leitores exibidos nas tabelas de classificação para maior motivação.<br><br>10. Temas personalizáveis:<br>Ofereça vários temas de leitura e fontes para uma experiência de leitura personalizada.<br>Modo escuro para leitura confortável em condições de pouca luz.",
+      "summary": "Leia 3x mais rápido e seja produtivo.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 215928,
+      "score": 4.65,
+      "scoreText": "4,7",
+      "ratings": 3780,
+      "reviews": 36,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ereflect.spreeder",
+      "url": "https://play.google.com/store/apps/details?id=com.ereflect.spreeder&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "ABC - Aprendendo a Ler",
+      "description": "Transforme o aprendizado do seu filho em uma experiência divertida com ABC - Aprendendo a Ler! Este jogo interativo foi desenvolvido especialmente para crianças em fase de alfabetização, oferecendo um ambiente colorido e envolvente onde elas podem aprender a formar palavras ao tocar nas letras na ordem correta. Combinando diversão e educação, o jogo estimula habilidades importantes como reconhecimento de letras, memorização e soletração. Ideal para crianças em idade pré-escolar e nos primeiros anos do ensino fundamental, é uma maneira prática e emocionante de incentivar o aprendizado. Baixe agora e ajude seu filho a aprender a ler enquanto se diverte!",
+      "descriptionHTML": "Transforme o aprendizado do seu filho em uma experiência divertida com ABC - Aprendendo a Ler! Este jogo interativo foi desenvolvido especialmente para crianças em fase de alfabetização, oferecendo um ambiente colorido e envolvente onde elas podem aprender a formar palavras ao tocar nas letras na ordem correta. Combinando diversão e educação, o jogo estimula habilidades importantes como reconhecimento de letras, memorização e soletração. Ideal para crianças em idade pré-escolar e nos primeiros anos do ensino fundamental, é uma maneira prática e emocionante de incentivar o aprendizado. Baixe agora e ajude seu filho a aprender a ler enquanto se diverte!",
+      "summary": "Ensine seu filho a ler de uma forma divertida com ABC, o jogo da capivarinha!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4057,
+      "score": 4.3333335,
+      "scoreText": "4,3",
+      "ratings": 6,
+      "reviews": 0,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "scheper.mateus.abc",
+      "url": "https://play.google.com/store/apps/details?id=scheper.mateus.abc&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Liryo: Diário de Leitura",
+      "description": "O Liryo é um registro de leitura e um diário de leitura pessoal criado para ajudar você a entender, organizar e aproveitar sua vida como leitor.\n\nRegistre seus livros, anote seus pensamentos, analise seus hábitos de leitura e avance passo a passo em direção às suas metas de leitura. Tudo isso em um aplicativo simples e agradável.\n\nCom o Liryo, cada livro importa e cada página conta. Seja para criar consistência, refletir sobre o que você lê, ou simplesmente manter um registro de leitura organizado, o Liryo se adapta ao seu jeito de ler.\n\nO que você pode fazer com o Liryo?\n- Diário de leitura pessoal: Escreva anotações, avaliações e reflexões sobre cada livro que você lê. Guarde todas as suas ideias e opiniões em um só lugar.\n- Histórico de leitura completo: Acompanhe tudo o que você já leu ao longo do tempo e visualize sua evolução como leitor com um registro de leitura claro e organizado.\n- Estatísticas e insights de leitura: Descubra padrões nos seus hábitos de leitura com gráficos, mapas de calor e estatísticas úteis sobre o seu progresso.\n- Metas e desafios de leitura: Defina metas diárias de leitura, mantenha-se motivado e crie uma rotina de leitura consistente.\n- Listas de livros personalizadas: Organize seus livros por gênero, autor, tema, status ou até mesmo humor.\n- Glossário e referências: Salve palavras, conceitos e referências que você descobre durante a leitura e consulte-as sempre que quiser.\n- Cronômetro de leitura: Acompanhe seu tempo de leitura, entenda quando você lê mais e melhore seus hábitos.\n- Exportar e compartilhar: Faça o download das suas resenhas ou compartilhe suas anotações de leitura facilmente com outras pessoas.\n- Importar: Adicione as resenhas que você já criou, seja em formato físico ou digital.\n\nO Liryo é perfeito para leitores que querem:\n- Manter um registro de leitura completo e significativo\n- Criar hábitos de leitura diários\n- Descobrir gêneros favoritos e padrões de leitura\n- Organizar pensamentos, palavras e ideias dos livros\n- Tornar a leitura em uma experiência mais consciente\n\nComece a registrar seus livros, entenda seus hábitos de leitura e torne a leitura mais pessoal e motivadora com o Liryo.",
+      "descriptionHTML": "O Liryo é um registro de leitura e um diário de leitura pessoal criado para ajudar você a entender, organizar e aproveitar sua vida como leitor.<br><br>Registre seus livros, anote seus pensamentos, analise seus hábitos de leitura e avance passo a passo em direção às suas metas de leitura. Tudo isso em um aplicativo simples e agradável.<br><br>Com o Liryo, cada livro importa e cada página conta. Seja para criar consistência, refletir sobre o que você lê, ou simplesmente manter um registro de leitura organizado, o Liryo se adapta ao seu jeito de ler.<br><br>O que você pode fazer com o Liryo?<br>- Diário de leitura pessoal: Escreva anotações, avaliações e reflexões sobre cada livro que você lê. Guarde todas as suas ideias e opiniões em um só lugar.<br>- Histórico de leitura completo: Acompanhe tudo o que você já leu ao longo do tempo e visualize sua evolução como leitor com um registro de leitura claro e organizado.<br>- Estatísticas e insights de leitura: Descubra padrões nos seus hábitos de leitura com gráficos, mapas de calor e estatísticas úteis sobre o seu progresso.<br>- Metas e desafios de leitura: Defina metas diárias de leitura, mantenha-se motivado e crie uma rotina de leitura consistente.<br>- Listas de livros personalizadas: Organize seus livros por gênero, autor, tema, status ou até mesmo humor.<br>- Glossário e referências: Salve palavras, conceitos e referências que você descobre durante a leitura e consulte-as sempre que quiser.<br>- Cronômetro de leitura: Acompanhe seu tempo de leitura, entenda quando você lê mais e melhore seus hábitos.<br>- Exportar e compartilhar: Faça o download das suas resenhas ou compartilhe suas anotações de leitura facilmente com outras pessoas.<br>- Importar: Adicione as resenhas que você já criou, seja em formato físico ou digital.<br><br>O Liryo é perfeito para leitores que querem:<br>- Manter um registro de leitura completo e significativo<br>- Criar hábitos de leitura diários<br>- Descobrir gêneros favoritos e padrões de leitura<br>- Organizar pensamentos, palavras e ideias dos livros<br>- Tornar a leitura em uma experiência mais consciente<br><br>Comece a registrar seus livros, entenda seus hábitos de leitura e torne a leitura mais pessoal e motivadora com o Liryo.",
+      "summary": "Registre e analise leituras",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5090,
+      "score": 4.076923,
+      "scoreText": "4,1",
+      "ratings": 76,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.liryo",
+      "url": "https://play.google.com/store/apps/details?id=app.liryo&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Modo de leitura",
+      "description": "Criado para e por pessoas com baixa visão, dislexia e cegas, o modo de leitura melhora a experiência de leitura na tela com contraste personalizável, tamanho de texto, conversão de texto em voz, redução de elementos que poluem a página e tipos de fonte. Após o download, o app é integrado ao menu \"Configurações rápidas\" e pode ser facilmente acessado em apps e páginas da Web.\n\nInstruções:\n\nPara começar:\n\n1. Faça o download e instale o Modo de Leitura pela Play Store\n2. Localize o Modo de Leitura na tela inicial e toque para abri-lo\n3. Leia o tutorial. Ao final, ele vai direcionar você para as configurações\n4. Nas configurações, toque em \"Modo de Leitura\" e ative o “Atalho do Modo de Leitura” para que o recurso consiga acessar seu dispositivo\n5. Acesse https://support.google.com/accessibility/android/answer/7650693 para configurar diferentes pontos de entrada do Modo de Leitura\n\nPrincipais recursos:\n\n• Visualização de leitura com foco: proporciona um ambiente de leitura personalizável, organizado, para facilitar o acesso e o foco no conteúdo\n• Conversão de texto em voz: com apenas um toque no botão, ouça conteúdo escrito lido em voz alta. Escolha uma das várias vozes de alta qualidade. Opções de controle de áudio facilmente acessíveis para voltar, avançar rápido e mudar a velocidade de leitura onde quer que você esteja\n• Ajuste de tipo e tamanho da fonte: mude rapidamente o tamanho, o estilo e a cor da fonte, além do espaçamento entre as linhas, de acordo com o que for melhor para sua necessidade de leitura.\n• Acesso rápido: depois da conclusão do download, o modo de leitura já vai aparecer na interface do celular e poderá ser acessado.\n• Suporte para vários idiomas: o Modo de Leitura é oferecido nos idiomas inglês, francês, italiano e espanhol. Outros idiomas vão estar disponíveis em breve.\n• Compatível com o TalkBack: use o modo de leitura com o leitor de tela.\n• Criado para preservar a privacidade: o conteúdo nunca sai do seu celular.\n\nParticipe do grupo https://groups.google.com/forum/#!forum/accessible para enviar feedback e receber atualizações do produto.\n\nRequisito:\n\n• Disponível para celulares com Android 9 e versões mais recentes\n• No momento, o Modo de Leitura é oferecido nos idiomas inglês, francês, italiano e espanhol\n\nAviso de permissões:\n• Serviço de acessibilidade: como este app é um serviço de acessibilidade, ele pode observar suas ações e o conteúdo das janelas.",
+      "descriptionHTML": "Criado para e por pessoas com baixa visão, dislexia e cegas, o modo de leitura melhora a experiência de leitura na tela com contraste personalizável, tamanho de texto, conversão de texto em voz, redução de elementos que poluem a página e tipos de fonte. Após o download, o app é integrado ao menu &quot;Configurações rápidas&quot; e pode ser facilmente acessado em apps e páginas da Web.<br><br>Instruções:<br><br>Para começar:<br><br>1. Faça o download e instale o Modo de Leitura pela Play Store<br>2. Localize o Modo de Leitura na tela inicial e toque para abri-lo<br>3. Leia o tutorial. Ao final, ele vai direcionar você para as configurações<br>4. Nas configurações, toque em &quot;Modo de Leitura&quot; e ative o “Atalho do Modo de Leitura” para que o recurso consiga acessar seu dispositivo<br>5. Acesse https://support.google.com/accessibility/android/answer/7650693 para configurar diferentes pontos de entrada do Modo de Leitura<br><br>Principais recursos:<br><br>• <b>Visualização de leitura com foco</b>: proporciona um ambiente de leitura personalizável, organizado, para facilitar o acesso e o foco no conteúdo<br>• <b>Conversão de texto em voz</b>: com apenas um toque no botão, ouça conteúdo escrito lido em voz alta. Escolha uma das várias vozes de alta qualidade. Opções de controle de áudio facilmente acessíveis para voltar, avançar rápido e mudar a velocidade de leitura onde quer que você esteja<br>• <b>Ajuste de tipo e tamanho da fonte</b>: mude rapidamente o tamanho, o estilo e a cor da fonte, além do espaçamento entre as linhas, de acordo com o que for melhor para sua necessidade de leitura.<br>• <b>Acesso rápido</b>: depois da conclusão do download, o modo de leitura já vai aparecer na interface do celular e poderá ser acessado.<br>• <b>Suporte para vários idiomas</b>: o Modo de Leitura é oferecido nos idiomas inglês, francês, italiano e espanhol. Outros idiomas vão estar disponíveis em breve.<br>• <b>Compatível com o TalkBack</b>: use o modo de leitura com o leitor de tela.<br>• <b>Criado para preservar a privacidade</b>: o conteúdo nunca sai do seu celular.<br><br>Participe do grupo https://groups.google.com/forum/#!forum/accessible para enviar feedback e receber atualizações do produto.<br><br>Requisito:<br><br>• Disponível para celulares com Android 9 e versões mais recentes<br>• No momento, o Modo de Leitura é oferecido nos idiomas inglês, francês, italiano e espanhol<br><br>Aviso de permissões:<br>• Serviço de acessibilidade: como este app é um serviço de acessibilidade, ele pode observar suas ações e o conteúdo das janelas.",
+      "summary": "O modo de leitura ajuda você com textos difíceis de ler.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2009192,
+      "score": 3.46,
+      "scoreText": "3,5",
+      "ratings": 6113,
+      "reviews": 138,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.google.android.accessibility.reader",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Leitura dinâmica: Saiba mais",
+      "description": "Leitura dinâmica: leia mais rápido, aprenda com mais eficiência!\n\nLeitura rápida é um aplicativo que ajuda você a ler mais rápido e com maior compreensão.\n\nCom a leitura rápida, você pode:\n\nAumente sua velocidade de leitura várias vezes.\nMelhore sua compreensão do material.\nMemorize mais informações.\nConcentre-se no texto e livre-se de distrações.\nComo funciona a leitura dinâmica?\n\nO aplicativo usa várias técnicas e exercícios para ajudar você a:\n\nExpanda seu campo de visão.\nMelhore a fixação do olhar.\nLivre-se de regressões (retorno ao texto lido anteriormente).\nAprenda a ler em grupos semânticos.\nBenefícios da leitura dinâmica:\n\nInterface simples e amigável.\nVelocidade de leitura ajustável.\nTemporizador integrado para monitorar seu progresso.\nGrande biblioteca de textos para prática.\nCapacidade de adicionar seus próprios textos.\nA leitura rápida é a ferramenta perfeita para:\n\nAlunos que precisam assimilar informações de forma rápida e eficaz.\nProfissionais que querem ler mais e fazer mais.\nPessoas que querem ler com prazer e benefício.\nBaixe o Speed Reading e comece a ler mais rápido e melhor!\n\nLeitura dinâmica é:\n\nSeu treinador pessoal de leitura.\nA chave para uma aprendizagem eficaz.\nUma maneira de ler mais e fazer mais.\nJunte-se à comunidade de leitura dinâmica!\n\nPS\n\nNão se esqueça de experimentar nossos outros aplicativos!",
+      "descriptionHTML": "Leitura dinâmica: leia mais rápido, aprenda com mais eficiência!<br><br>Leitura rápida é um aplicativo que ajuda você a ler mais rápido e com maior compreensão.<br><br>Com a leitura rápida, você pode:<br><br>Aumente sua velocidade de leitura várias vezes.<br>Melhore sua compreensão do material.<br>Memorize mais informações.<br>Concentre-se no texto e livre-se de distrações.<br>Como funciona a leitura dinâmica?<br><br>O aplicativo usa várias técnicas e exercícios para ajudar você a:<br><br>Expanda seu campo de visão.<br>Melhore a fixação do olhar.<br>Livre-se de regressões (retorno ao texto lido anteriormente).<br>Aprenda a ler em grupos semânticos.<br>Benefícios da leitura dinâmica:<br><br>Interface simples e amigável.<br>Velocidade de leitura ajustável.<br>Temporizador integrado para monitorar seu progresso.<br>Grande biblioteca de textos para prática.<br>Capacidade de adicionar seus próprios textos.<br>A leitura rápida é a ferramenta perfeita para:<br><br>Alunos que precisam assimilar informações de forma rápida e eficaz.<br>Profissionais que querem ler mais e fazer mais.<br>Pessoas que querem ler com prazer e benefício.<br>Baixe o Speed Reading e comece a ler mais rápido e melhor!<br><br>Leitura dinâmica é:<br><br>Seu treinador pessoal de leitura.<br>A chave para uma aprendizagem eficaz.<br>Uma maneira de ler mais e fazer mais.<br>Junte-se à comunidade de leitura dinâmica!<br><br>PS<br><br>Não se esqueça de experimentar nossos outros aplicativos!",
+      "summary": "É um aplicativo que ajuda você a ler mais rápido e com maior compreensão.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2184346,
+      "score": 4.77,
+      "scoreText": "4,8",
+      "ratings": 51603,
+      "reviews": 64,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.SbmGames.SchulteTable",
+      "url": "https://play.google.com/store/apps/details?id=com.SbmGames.SchulteTable&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Tabela Schulte",
+      "description": "O jogo da tabela de Schulte é o melhor exercício para praticar leitura dinâmica. Ele também é usado para desenvolver a memória e a atenção. Se você seguir as instruções, sentirá os resultados já na primeira semana de treino.\n\nTreinamento em formato de jogo. Desenvolvemos um curso de exercícios com tabelas de Schulte especialmente para o aplicativo. Você poderá aumentar sua velocidade de leitura em 5 a 6 vezes em apenas 3 meses.\n\nAcompanhe seus resultados e compartilhe-os com seus amigos. Compare seus resultados com os de outros usuários.\n\nO jogo da tabela de Schulte vai melhorar sua concentração.",
+      "descriptionHTML": "<b>O jogo da tabela de Schulte é o melhor exercício para praticar leitura dinâmica.</b> Ele também é usado para desenvolver a memória e a atenção. Se você seguir as instruções, sentirá os resultados já na primeira semana de treino.<br><br><b>Treinamento em formato de jogo.</b> Desenvolvemos um curso de exercícios com tabelas de Schulte especialmente para o aplicativo. Você poderá aumentar sua velocidade de leitura em 5 a 6 vezes em apenas 3 meses.<br><br><b>Acompanhe seus resultados e compartilhe-os com seus amigos. Compare seus resultados com os de outros usuários.</b><br><br>O jogo da tabela de Schulte vai melhorar sua concentração.",
+      "summary": "Aumente sua memória, concentração e atenção.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 89836,
+      "score": 4.59375,
+      "scoreText": "4,6",
+      "ratings": 1263,
+      "reviews": 10,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.greenkeyuniverse.schultetable",
+      "url": "https://play.google.com/store/apps/details?id=com.greenkeyuniverse.schultetable&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Tabelas de Schulte",
+      "description": "Treine a sua visão periférica com as Tabelas Schulte: Como fazer?\n\nImagine que a sua visão é um ecrã de cinema. Apesar de se concentrar no que vê de forma direta, muitos detalhes estão a acontecer em redor do foco central. São estes detalhes que lhe permitirão conhecer o que acontecerá a seguir e o contexto da cena que está a apreciar. Esta é a visão periférica.\n\nCom uma boa visão periférica poderá ter um campo de visão de quase 180º, aumentar a sua rapidez de leitura e melhorar a sua memória. Mas a visão periférica precisa de ser treinada para atingir o seu máximo potencial, e as Tabelas Schulte são a melhor ferramenta para este propósito.\n\nO que são as Tabelas Schulte?\n\nAs Tabelas Schulte são matrizes de números aleatórios representados em forma de tabela, como o nome indica. São exercícios muito populares para treinar a sua capacidade de atenção, memória e a leitura rápida.\n\nHá muitas versões destas tabelas, embora as mais comuns sejam aquelas com 5 colunas e 5 linhas. Dentro das células estarão números aleatórios do 1 ao 25, e a sua missão será encontrar todos os números de modo ascendente ou descendente conforme a sua configuração.\n\nDependendo do nível de dificuldade, poderá praticar com tabelas de 6x6 ou letras em vez de números.\n\nComo resolver uma Tabela Schulte corretamente?\n\nTenha em consideração dois elementos para este propósito: a velocidade dos seus olhos e fazer o exercício bem. À medida que for treinando, poderá chegar ao objetivo final, que é ordenar todos os números com um só olhar, reduzindo a quantidade de movimentos oculares que fará.\n\nDeve fixar o seu olhar na célula central da tabela que tiver escolhido. A partir daí, ampliar o seu campo visual e analisar toda a quadrícula. Se não tiver experiência com estas, poderá ser difícil no início, mas com prática tudo é possível. À medida que mais praticar, menor será o tempo no qual poderá completar a tabela.\n\nOutro conselho é ter uma distância correta com a tabela. Os seus olhos deverão estar a uma distância ótima para o exercício. Recomenda-se uma separação entre os 40 e 50 centímetros. Não repita um exercício mais de 10 vezes numa só sessão.\n\nHabilidades que desenvolverá usando as Tabelas Schulte\n\nAs Tabelas de Schulte têm um efeito não só notável, mas também rápido no seu cérebro. Desde indivíduos até coletivamente, demonstrou-se o seu poder, e embora seja um exercício com tal capacidade, pode interpretar-se também como um jogo de destreza mental.\n\nResolvendo estas tabelas poderá:\n\nDesenvolver a sua visão periférica: Uma boa visão periférica desenvolve a sua capacidade leitora ao antecipar palavras e caracteres em páginas de texto. Poderá aumentar o número de palavras que abrange em cada fixação. A visão periférica pode até ajudá-lo quando conduz ou pratica algum desporto.\n\nMelhorar a sua perceção do paralelismo: Ao praticar com uma destas tabelas, aprenderá a avaliar a informação que recebe de uma forma global. Analisará as células em grupo dentro do exercício, mas mais tarde isto irá guiá-lo a receber informação de forma não consecutiva na sua vida em geral. A sua capacidade de análise e interpretação pode melhorar muito com isto.\n\nAumentar a sua resistência ao stress: Treine em ambientes ruidosos com as Tabelas Schulte para aumentar o seu poder de concentração e resistência ao stress. Pode usar música ou simplesmente ir a um local com sons distratores para treinar. Com o tempo, a sua capacidade de trabalho aumentará porque não se desconcentrará ou perturbará com as distrações no exterior.\n\nDiminuir o tempo para procurar informação: As Tabelas Schulte ensinar-lhe-ão a abarcar grandes quantidades de texto com rapidez. Olhando para um só ponto, e com o desenvolvimento da sua visão periférica, poderá processar informação a uma excelente velocidade.",
+      "descriptionHTML": "<b>Treine a sua visão periférica com as Tabelas Schulte: Como fazer?</b><br><br>Imagine que a sua visão é um ecrã de cinema. Apesar de se concentrar no que vê de forma direta, muitos detalhes estão a acontecer em redor do foco central. São estes detalhes que lhe permitirão conhecer o que acontecerá a seguir e o contexto da cena que está a apreciar. Esta é a visão periférica.<br><br>Com uma boa visão periférica poderá ter um campo de visão de quase 180º, aumentar a sua rapidez de leitura e melhorar a sua memória. Mas a visão periférica precisa de ser treinada para atingir o seu máximo potencial, e as Tabelas Schulte são a melhor ferramenta para este propósito.<br><br><b>O que são as Tabelas Schulte?</b><br><br>As Tabelas Schulte são matrizes de números aleatórios representados em forma de tabela, como o nome indica. São exercícios muito populares para treinar a sua capacidade de atenção, memória e a leitura rápida.<br><br>Há muitas versões destas tabelas, embora as mais comuns sejam aquelas com 5 colunas e 5 linhas. Dentro das células estarão números aleatórios do 1 ao 25, e a sua missão será encontrar todos os números de modo ascendente ou descendente conforme a sua configuração.<br><br>Dependendo do nível de dificuldade, poderá praticar com tabelas de 6x6 ou letras em vez de números.<br><br><b>Como resolver uma Tabela Schulte corretamente?</b><br><br>Tenha em consideração dois elementos para este propósito: a velocidade dos seus olhos e fazer o exercício bem. À medida que for treinando, poderá chegar ao objetivo final, que é ordenar todos os números com um só olhar, reduzindo a quantidade de movimentos oculares que fará.<br><br>Deve fixar o seu olhar na célula central da tabela que tiver escolhido. A partir daí, ampliar o seu campo visual e analisar toda a quadrícula. Se não tiver experiência com estas, poderá ser difícil no início, mas com prática tudo é possível. À medida que mais praticar, menor será o tempo no qual poderá completar a tabela.<br><br>Outro conselho é ter uma distância correta com a tabela. Os seus olhos deverão estar a uma distância ótima para o exercício. Recomenda-se uma separação entre os 40 e 50 centímetros. Não repita um exercício mais de 10 vezes numa só sessão.<br><br><b>Habilidades que desenvolverá usando as Tabelas Schulte</b><br><br>As Tabelas de Schulte têm um efeito não só notável, mas também rápido no seu cérebro. Desde indivíduos até coletivamente, demonstrou-se o seu poder, e embora seja um exercício com tal capacidade, pode interpretar-se também como um jogo de destreza mental.<br><br>Resolvendo estas tabelas poderá:<br><br>Desenvolver a sua visão periférica: Uma boa visão periférica desenvolve a sua capacidade leitora ao antecipar palavras e caracteres em páginas de texto. Poderá aumentar o número de palavras que abrange em cada fixação. A visão periférica pode até ajudá-lo quando conduz ou pratica algum desporto.<br><br><b>Melhorar a sua perceção do paralelismo:</b> Ao praticar com uma destas tabelas, aprenderá a avaliar a informação que recebe de uma forma global. Analisará as células em grupo dentro do exercício, mas mais tarde isto irá guiá-lo a receber informação de forma não consecutiva na sua vida em geral. A sua capacidade de análise e interpretação pode melhorar muito com isto.<br><br><b>Aumentar a sua resistência ao stress:</b> Treine em ambientes ruidosos com as Tabelas Schulte para aumentar o seu poder de concentração e resistência ao stress. Pode usar música ou simplesmente ir a um local com sons distratores para treinar. Com o tempo, a sua capacidade de trabalho aumentará porque não se desconcentrará ou perturbará com as distrações no exterior.<br><br><b>Diminuir o tempo para procurar informação:</b> As Tabelas Schulte ensinar-lhe-ão a abarcar grandes quantidades de texto com rapidez. Olhando para um só ponto, e com o desenvolvimento da sua visão periférica, poderá processar informação a uma excelente velocidade.",
+      "summary": "Treinamento de visão periférica com Tabelas Schulte, Teste Cerebral",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 133064,
+      "score": 4.7244897,
+      "scoreText": "4,7",
+      "ratings": 2312,
+      "reviews": 18,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.yurkap.fastreading",
+      "url": "https://play.google.com/store/apps/details?id=com.yurkap.fastreading&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Skoob - Para quem ama livros!",
+      "description": "Mais de 9 milhões de pessoas utilizam o Skoob para organizar suas leituras e ler cada vez mais.\n\n#####  IMPORTANTE #####\nO Skoob NÃO é um leitor de Ebooks ou livros grátis,  leia a descrição abaixo para conhecer as funcionalidades do app. \n\nO Skoob é um “Assistente literário” e uma “Rede social para leitores”.   \n\nComo Assistente Literário, o  Skoob oferece dezenas de ferramentas que organizam seus livros em uma estante virtual, assim, você saberá exatamente quais os livros já leu, quer ler, está lendo,  seus desejados… etc.  Além continuar motivado em finalizar suas leituras, cumprindo metas, desafios, participando de ranking entre amigos…  e muito mais.  \n\nO Skoob também é a maior Rede Social para leitores em português, são mais de 8 milhões de pessoas escrevendo notas de leitura, fazendo avaliações, comentários e muitas recomendações. Um ótimo lugar para fazer novas amizades.\n\nAlgumas Funcionalidades: \n\n- Crie sua lista de leituras (lidos, estou lendo, quero ler, desejados... etc) \n- Veja resenhas, avaliações e comente as atividades dos seus amigos. \n- Descubra e explore a lista de lançamentos das principais editoras. \n- Compartilhe notas e a progressão da sua leitura. \n- Encontre livros similares aos seus livros favoritos.  \n- Crie uma meta de leitura para o ano.\n- Barcode Scanner, para adicionar livros mais facilmente. \n- Descubra quanto tempo é necessário para terminar um livro \n- Desafios que incentivam a ler mais… \n\nATENÇÃO:  É importante voltar a lembrar que o Skoob NÃO é um leitor de Ebooks, com tantas funcionalidades é muito normal algumas pessoas pensarem assim. \n\nDIVIRTA-SE!! O Skoob é o melhor e mais completo aplicativo para quem deseja tirar os livros da cabeceira e ler mais organizando suas leituras.  \n\nPara dúvida e sugestões você sabe, pode usar o relacionamento@skoob.com.br que vamos te responder.",
+      "descriptionHTML": "Mais de 9 milhões de pessoas utilizam o Skoob para organizar suas leituras e ler cada vez mais.<br><br>#####  IMPORTANTE #####<br>O Skoob NÃO é um leitor de Ebooks ou livros grátis,  leia a descrição abaixo para conhecer as funcionalidades do app. <br><br>O Skoob é um “Assistente literário” e uma “Rede social para leitores”.   <br><br>Como Assistente Literário, o  Skoob oferece dezenas de ferramentas que organizam seus livros em uma estante virtual, assim, você saberá exatamente quais os livros já leu, quer ler, está lendo,  seus desejados… etc.  Além continuar motivado em finalizar suas leituras, cumprindo metas, desafios, participando de ranking entre amigos…  e muito mais.  <br><br>O Skoob também é a maior Rede Social para leitores em português, são mais de 8 milhões de pessoas escrevendo notas de leitura, fazendo avaliações, comentários e muitas recomendações. Um ótimo lugar para fazer novas amizades.<br><br>Algumas Funcionalidades: <br><br>- Crie sua lista de leituras (lidos, estou lendo, quero ler, desejados... etc) <br>- Veja resenhas, avaliações e comente as atividades dos seus amigos. <br>- Descubra e explore a lista de lançamentos das principais editoras. <br>- Compartilhe notas e a progressão da sua leitura. <br>- Encontre livros similares aos seus livros favoritos.  <br>- Crie uma meta de leitura para o ano.<br>- Barcode Scanner, para adicionar livros mais facilmente. <br>- Descubra quanto tempo é necessário para terminar um livro <br>- Desafios que incentivam a ler mais… <br><br>ATENÇÃO:  É importante voltar a lembrar que o Skoob NÃO é um leitor de Ebooks, com tantas funcionalidades é muito normal algumas pessoas pensarem assim. <br><br>DIVIRTA-SE!! O Skoob é o melhor e mais completo aplicativo para quem deseja tirar os livros da cabeceira e ler mais organizando suas leituras.  <br><br>Para dúvida e sugestões você sabe, pode usar o relacionamento@skoob.com.br que vamos te responder.",
+      "summary": "Organize suas leituras e leia cada vez mais.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 4662903,
+      "score": 4.0361366,
+      "scoreText": "4,0",
+      "ratings": 150914,
+      "reviews": 36015,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.gaudium.skoob",
+      "url": "https://play.google.com/store/apps/details?id=com.gaudium.skoob&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

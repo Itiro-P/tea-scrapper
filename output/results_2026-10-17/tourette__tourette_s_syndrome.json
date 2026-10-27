@@ -1,0 +1,584 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:59:00.540Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "tourette's syndrome",
+    "key": "tourette's syndrome",
+    "depth": 1,
+    "parent": "tourette",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Tredict",
+      "description": "Plataforma de planejamento de treinos e análise de atividades para corredores, ciclistas, nadadores e muito mais. Para atletas e treinadores. Monitore sua forma, analise métricas e preveja seu desempenho. Compatível com os principais relógios e dispositivos esportivos. Desde 2020.\n\nANÁLISE DETALHADA DE ATIVIDADES\nAnalise seus treinos com mais de 100 métricas configuráveis ​​e programáveis. Explore\nséries temporais de frequência cardíaca, potência, ritmo, cadência, altitude e muito mais.\n\nIndicadores de eficiência como VO2máx, Fator de Potência da Frequência Cardíaca,\nFator de Ritmo da Frequência Cardíaca e Eficácia da Corrida oferecem uma visão profunda\ndo seu desempenho e condicionamento físico.\n\nPLANEJAMENTO DE TREINOS ESTRUTURADOS\nCrie treinos estruturados com metas precisas de frequência cardíaca, potência ou ritmo.\nDefina intervalos, repetições e segmentos de recuperação ou salve\ntreinos como modelos reutilizáveis. Os treinos planejados são enviados automaticamente\npara o seu relógio esportivo antes do treino.\n\nCONEXÕES DE DISPOSITIVOS\nSincronize automaticamente as atividades concluídas e envie os treinos planejados para o seu dispositivo.\nAs integrações suportadas incluem Garmin, Suunto, Coros, Wahoo,\nPolar, Concept2, Zwift (via conector), Oura Ring, Withings, Dropbox e muito mais.\n\nPLANOS DE TREINAMENTO REUTILIZÁVEIS\nCrie planos de treinamento multifásicos como treinador ou atleta e aplique-os a você mesmo ou aos seus atletas. Se desejar, publique seus planos gratuitamente sob uma licença Creative Commons ou venda-os diretamente pelo Tredict. Sem taxas de venda, apenas os custos de transação do PayPal.\n\nZONAS E MODELO DE CAPACIDADE\nDefina zonas personalizadas de frequência cardíaca, potência e ritmo com datas de validade e faixas de intensidade individuais. Monitore valores de capacidade como FTP, FTPa, FCmáx e LTHR. Cada revisão baseada em data entra em vigor a partir da sua data de início, deixando os treinos e avaliações mais antigos intactos à medida que seu condicionamento físico evolui.\n\nMODELO DE ESFORÇO APERFEIÇOADO\nA curva de forma precisa do Tredict mostra seu condicionamento físico atual, fadiga\ne estado de recuperação em um relance. Use a pré-visualização de desempenho para planejar\nseu próximo bloco de treinamento com confiança.\n\nMÉTRICAS CORPORAIS E RECUPERAÇÃO\nMonitore peso, percentual de gordura corporal, VFC (Variabilidade da Frequência Cardíaca) e frequência cardíaca em repouso, juntamente com sua\ncarga de treinamento. As linhas de base de tendência mostram como sua recuperação afeta o desempenho.\n\nRECORDES PESSOAIS E CURVA DE DESEMPENHO\nO Tredict registra seus melhores resultados pessoais por distância e tempo em todas as\natividades. A curva de desempenho mostra seus valores médios e máximos de\npotência e ritmo.\n\nINTEGRAÇÃO DE IA - SERVIDOR TREDICT MCP\nConecte o Tredict ao seu assistente de IA favorito usando o Servidor Tredict MCP.\nCompatível com Claude, ChatGPT e qualquer LLM que suporte o\nProtocolo de Contexto de Modelo. Analise seu histórico de treinamento, gere planos de treinamento ou crie treinos estruturados, tudo em uma conversa natural.\n\nCONEXÕES DE TREINADORES E ATLETAS\nTreinadores e clubes podem gerenciar seus atletas com uma conta gratuita. Conecte-se com os atletas, visualize e\nedite seus calendários de treinamento, planeje fases de treinamento e envie feedback direto\nsobre as atividades. Os atletas mantêm o controle de suas configurações de privacidade\nem todos os momentos.\n\nDIRETÓRIO DE TREINADORES\nSeja descoberto como treinador ou encontre o treinador certo. O diretório de treinadores gratuito da Tredict conecta atletas e treinadores.\n\nSINCRONIZAÇÃO DE CALENDÁRIO\nAssine seu calendário de treinamento da Tredict em qualquer aplicativo de calendário. Google\nCalendário, Outlook ou iCal. Seus treinos planejados, sempre sincronizados.\n\nCOMPARTILHAMENTO DE ATIVIDADES\nGere imagens de atividades compartilháveis ​​em formato quadrado, história ou paisagem.\n\nCrie links públicos ou incorpore atividades em seu blog ou site.\n\nPRIVACIDADE POR DESIGN\nSem cookies de rastreamento. Sem scripts de publicidade de terceiros. Nenhum dado vendido.\n\nEm conformidade com o GDPR. Seus dados de treinamento permanecem seus.\n\nCompatível com todos os principais relógios e dispositivos esportivos.\nTeste grátis por 3 meses. Não é necessário cartão de crédito.",
+      "descriptionHTML": "Plataforma de planejamento de treinos e análise de atividades para corredores, ciclistas, nadadores e muito mais. Para atletas e treinadores. Monitore sua forma, analise métricas e preveja seu desempenho. Compatível com os principais relógios e dispositivos esportivos. Desde 2020.<br><br>ANÁLISE DETALHADA DE ATIVIDADES<br>Analise seus treinos com mais de 100 métricas configuráveis ​​e programáveis. Explore<br>séries temporais de frequência cardíaca, potência, ritmo, cadência, altitude e muito mais.<br><br>Indicadores de eficiência como VO2máx, Fator de Potência da Frequência Cardíaca,<br>Fator de Ritmo da Frequência Cardíaca e Eficácia da Corrida oferecem uma visão profunda<br>do seu desempenho e condicionamento físico.<br><br>PLANEJAMENTO DE TREINOS ESTRUTURADOS<br>Crie treinos estruturados com metas precisas de frequência cardíaca, potência ou ritmo.<br>Defina intervalos, repetições e segmentos de recuperação ou salve<br>treinos como modelos reutilizáveis. Os treinos planejados são enviados automaticamente<br>para o seu relógio esportivo antes do treino.<br><br>CONEXÕES DE DISPOSITIVOS<br>Sincronize automaticamente as atividades concluídas e envie os treinos planejados para o seu dispositivo.<br>As integrações suportadas incluem Garmin, Suunto, Coros, Wahoo,<br>Polar, Concept2, Zwift (via conector), Oura Ring, Withings, Dropbox e muito mais.<br><br>PLANOS DE TREINAMENTO REUTILIZÁVEIS<br>Crie planos de treinamento multifásicos como treinador ou atleta e aplique-os a você mesmo ou aos seus atletas. Se desejar, publique seus planos gratuitamente sob uma licença Creative Commons ou venda-os diretamente pelo Tredict. Sem taxas de venda, apenas os custos de transação do PayPal.<br><br>ZONAS E MODELO DE CAPACIDADE<br>Defina zonas personalizadas de frequência cardíaca, potência e ritmo com datas de validade e faixas de intensidade individuais. Monitore valores de capacidade como FTP, FTPa, FCmáx e LTHR. Cada revisão baseada em data entra em vigor a partir da sua data de início, deixando os treinos e avaliações mais antigos intactos à medida que seu condicionamento físico evolui.<br><br>MODELO DE ESFORÇO APERFEIÇOADO<br>A curva de forma precisa do Tredict mostra seu condicionamento físico atual, fadiga<br>e estado de recuperação em um relance. Use a pré-visualização de desempenho para planejar<br>seu próximo bloco de treinamento com confiança.<br><br>MÉTRICAS CORPORAIS E RECUPERAÇÃO<br>Monitore peso, percentual de gordura corporal, VFC (Variabilidade da Frequência Cardíaca) e frequência cardíaca em repouso, juntamente com sua<br>carga de treinamento. As linhas de base de tendência mostram como sua recuperação afeta o desempenho.<br><br>RECORDES PESSOAIS E CURVA DE DESEMPENHO<br>O Tredict registra seus melhores resultados pessoais por distância e tempo em todas as<br>atividades. A curva de desempenho mostra seus valores médios e máximos de<br>potência e ritmo.<br><br>INTEGRAÇÃO DE IA - SERVIDOR TREDICT MCP<br>Conecte o Tredict ao seu assistente de IA favorito usando o Servidor Tredict MCP.<br>Compatível com Claude, ChatGPT e qualquer LLM que suporte o<br>Protocolo de Contexto de Modelo. Analise seu histórico de treinamento, gere planos de treinamento ou crie treinos estruturados, tudo em uma conversa natural.<br><br>CONEXÕES DE TREINADORES E ATLETAS<br>Treinadores e clubes podem gerenciar seus atletas com uma conta gratuita. Conecte-se com os atletas, visualize e<br>edite seus calendários de treinamento, planeje fases de treinamento e envie feedback direto<br>sobre as atividades. Os atletas mantêm o controle de suas configurações de privacidade<br>em todos os momentos.<br><br>DIRETÓRIO DE TREINADORES<br>Seja descoberto como treinador ou encontre o treinador certo. O diretório de treinadores gratuito da Tredict conecta atletas e treinadores.<br><br>SINCRONIZAÇÃO DE CALENDÁRIO<br>Assine seu calendário de treinamento da Tredict em qualquer aplicativo de calendário. Google<br>Calendário, Outlook ou iCal. Seus treinos planejados, sempre sincronizados.<br><br>COMPARTILHAMENTO DE ATIVIDADES<br>Gere imagens de atividades compartilháveis ​​em formato quadrado, história ou paisagem.<br><br>Crie links públicos ou incorpore atividades em seu blog ou site.<br><br>PRIVACIDADE POR DESIGN<br>Sem cookies de rastreamento. Sem scripts de publicidade de terceiros. Nenhum dado vendido.<br><br>Em conformidade com o GDPR. Seus dados de treinamento permanecem seus.<br><br>Compatível com todos os principais relógios e dispositivos esportivos.<br>Teste grátis por 3 meses. Não é necessário cartão de crédito.",
+      "summary": "Planejamento e análise de treinamento de resistência para atletas e treinadores",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2736,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tredict.app",
+      "url": "https://play.google.com/store/apps/details?id=com.tredict.app&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Tourette's Guy Soundboard",
+      "description": "Uma mesa de som básica composta por clipes de áudio de vários vídeos de Guy da Tourette.",
+      "descriptionHTML": "Uma mesa de som básica composta por clipes de áudio de vários vídeos de Guy da Tourette.",
+      "summary": "Uma mesa de som básica composta por Tourette's Guy.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 9271,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "appinventor.ai_LiveTrashApps.Tourettes_Guy_Soundboard",
+      "url": "https://play.google.com/store/apps/details?id=appinventor.ai_LiveTrashApps.Tourettes_Guy_Soundboard&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "T-Break",
+      "description": "Controle sua tolerância à cannabis – sem precisar parar de vez.\n\nEste aplicativo foi desenvolvido para ajudar você a monitorar o consumo de cannabis, gerenciar uma pausa para reduzir a tolerância e manter a motivação durante esse período. Seja para redefinir sua tolerância, sentir efeitos mais intensos novamente ou simplesmente fazer uma pausa, este aplicativo oferece clareza e estrutura – sem julgar seu estilo de vida.\n\n🌿 Principais Recursos\n\nRastreador de pausas para reduzir a tolerância – veja há quanto tempo você está sem usar cannabis\n\nTempo de abstinência e sequências – acompanhe seu progresso dia a dia\n\nEstatísticas e insights – visualize suas pausas para reduzir a tolerância ao longo do tempo\n\nVisão geral clara das pausas passadas e atuais\n\nDesafios motivacionais para ajudar você a manter a consistência\n\nConquistas (em breve) para tornar as pausas mais divertidas e recompensadoras\n\n🎯 Não somos contra a cannabis. Apenas buscamos um consumo mais consciente.\n\nEste aplicativo não é contra a cannabis. Foi desenvolvido para usuários responsáveis ​​que desejam:\n\nReduzir a tolerância\n\nEconomizar dinheiro\n\nAprimorar os efeitos após uma pausa\n\nPraticar o uso consciente de cannabis\n\nFazer uma pausa sem pressão ou culpa\n\nA experiência é gamificada, acolhedora e flexível – sem metas impostas, sem moralismos.\n\n🚀 Pensando no futuro\n\nAs próximas atualizações incluirão:\n\nConquistas desbloqueáveis\n\nMais desafios e marcos\n\nEstatísticas mais detalhadas e personalização\n\nSe você procura um rastreador de tolerância à cannabis, um aplicativo para pausas com THC ou um rastreador de sobriedade que respeite suas escolhas, este aplicativo foi feito para você.\n\nFaça uma pausa. Restaure sua tolerância. Volte mais forte – quando você decidir.",
+      "descriptionHTML": "Controle sua tolerância à cannabis – sem precisar parar de vez.<br><br>Este aplicativo foi desenvolvido para ajudar você a monitorar o consumo de cannabis, gerenciar uma pausa para reduzir a tolerância e manter a motivação durante esse período. Seja para redefinir sua tolerância, sentir efeitos mais intensos novamente ou simplesmente fazer uma pausa, este aplicativo oferece clareza e estrutura – sem julgar seu estilo de vida.<br><br>🌿 Principais Recursos<br><br>Rastreador de pausas para reduzir a tolerância – veja há quanto tempo você está sem usar cannabis<br><br>Tempo de abstinência e sequências – acompanhe seu progresso dia a dia<br><br>Estatísticas e insights – visualize suas pausas para reduzir a tolerância ao longo do tempo<br><br>Visão geral clara das pausas passadas e atuais<br><br>Desafios motivacionais para ajudar você a manter a consistência<br><br>Conquistas (em breve) para tornar as pausas mais divertidas e recompensadoras<br><br>🎯 Não somos contra a cannabis. Apenas buscamos um consumo mais consciente.<br><br>Este aplicativo não é contra a cannabis. Foi desenvolvido para usuários responsáveis ​​que desejam:<br><br>Reduzir a tolerância<br><br>Economizar dinheiro<br><br>Aprimorar os efeitos após uma pausa<br><br>Praticar o uso consciente de cannabis<br><br>Fazer uma pausa sem pressão ou culpa<br><br>A experiência é gamificada, acolhedora e flexível – sem metas impostas, sem moralismos.<br><br>🚀 Pensando no futuro<br><br>As próximas atualizações incluirão:<br><br>Conquistas desbloqueáveis<br><br>Mais desafios e marcos<br><br>Estatísticas mais detalhadas e personalização<br><br>Se você procura um rastreador de tolerância à cannabis, um aplicativo para pausas com THC ou um rastreador de sobriedade que respeite suas escolhas, este aplicativo foi feito para você.<br><br>Faça uma pausa. Restaure sua tolerância. Volte mais forte – quando você decidir.",
+      "summary": "Rastreador de pausas de tolerância à cannabis com estatísticas, sequências e tempo de abstinência.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1199,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.Treawolfe.t_break",
+      "url": "https://play.google.com/store/apps/details?id=com.Treawolfe.t_break&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Tic Tac Toe - Tris",
+      "description": "O jogo da velha é um jogo de tabuleiro jogado em uma grade de três por três por dois jogadores, que alternadamente colocam as marcas X e O em um dos nove espaços vazios da grade.\nVocê ganha preenchendo todos os três espaços de uma linha, coluna ou diagonal da grade.\n\nVocê ganha preenchendo todos os três espaços de uma linha, coluna ou diagonal da grade.\n\nDesafie-se com variantes do Jogo da Velha com tabuleiros expandidos\n♦ Tabuleiro 3x3 com três marcas em linha\n♦ Tabuleiro 4x4 com quatro marcas em linha\n♦ Tabuleiro 6x6 com quatro marcas em linha\n♦ Tabuleiro 8x8 com cinco marcas em linha\n♦ Tabuleiro 9x9 com cinco marcas em linha\n\nRecursos do jogo\n♦ Motor de jogo poderoso\n♦ Comando de dica\n♦ Comando para mostrar ameaças e assistente de jogo configurável\n♦ Configurações personalizáveis\n♦ Estatísticas do jogo\n\nConfigurações do jogo\n♦ Nível de jogo: iniciante a especialista\n♦ Modo humano vs. IA ou humano vs. humano\n♦ Tema: automático, escuro ou claro\n♦ Ícones do jogo (X e O ou discos coloridos)\n♦ Tipo de jogo\n♦ Assistente de jogo: preditivo e Treinamento\n♦ Efeitos sonoros\n\nAuxiliar de jogo\n♦ O auxiliar preditivo informa o jogador quando o jogo está prestes a terminar em empate ou quando um dos jogadores está perto de vencer.\n\n♦ O auxiliar de treinamento fornece dicas sobre a próxima jogada, colorindo a melhor posição de verde e mostrando possíveis ameaças.\n\nPermissões\nEste aplicativo utiliza as seguintes permissões:\n♢ INTERNET - para relatar erros de software",
+      "descriptionHTML": "O jogo da velha é um jogo de tabuleiro jogado em uma grade de três por três por dois jogadores, que alternadamente colocam as marcas X e O em um dos nove espaços vazios da grade.<br>Você ganha preenchendo todos os três espaços de uma linha, coluna ou diagonal da grade.<br><br>Você ganha preenchendo todos os três espaços de uma linha, coluna ou diagonal da grade.<br><br><b><u>Desafie-se com variantes do Jogo da Velha com tabuleiros expandidos</u></b><br>♦ Tabuleiro 3x3 com três marcas em linha<br>♦ Tabuleiro 4x4 com quatro marcas em linha<br>♦ Tabuleiro 6x6 com quatro marcas em linha<br>♦ Tabuleiro 8x8 com cinco marcas em linha<br>♦ Tabuleiro 9x9 com cinco marcas em linha<br><br><b><u>Recursos do jogo</u></b><br>♦ Motor de jogo poderoso<br>♦ Comando de dica<br>♦ Comando para mostrar ameaças e assistente de jogo configurável<br>♦ Configurações personalizáveis<br>♦ Estatísticas do jogo<br><br><b><u>Configurações do jogo</u></b><br>♦ Nível de jogo: iniciante a especialista<br>♦ Modo humano vs. IA ou humano vs. humano<br>♦ Tema: automático, escuro ou claro<br>♦ Ícones do jogo (X e O ou discos coloridos)<br>♦ Tipo de jogo<br>♦ Assistente de jogo: preditivo e Treinamento<br>♦ Efeitos sonoros<br><br><b><u>Auxiliar de jogo</u></b><br>♦ O auxiliar <b>preditivo</b> informa o jogador quando o jogo está prestes a terminar em empate ou quando um dos jogadores está perto de vencer.<br><br>♦ O auxiliar <b>de treinamento</b> fornece dicas sobre a próxima jogada, colorindo a melhor posição de verde e mostrando possíveis ameaças.<br><br><b><u>Permissões</u></b><br>Este aplicativo utiliza as seguintes permissões:<br>♢ INTERNET - para relatar erros de software",
+      "summary": "Divirta-se com este jogo engraçado e desafie nossa IA inteligente. Foco total, jogo fluido!",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8741,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "livio.tictactoe",
+      "url": "https://play.google.com/store/apps/details?id=livio.tictactoe&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Just Tic-Tac-Toe",
+      "description": "Jogue jogo da velha sem aqueles anúncios irritantes!\n- Escolha entre 3 níveis de dificuldade\n- Um ou dois jogadores\n- Escolha a cor do tabuleiro, X e O\n- Acompanhe as vitórias e derrotas",
+      "descriptionHTML": "Jogue jogo da velha sem aqueles anúncios irritantes!<br>- Escolha entre 3 níveis de dificuldade<br>- Um ou dois jogadores<br>- Escolha a cor do tabuleiro, X e O<br>- Acompanhe as vitórias e derrotas",
+      "summary": "Jogue jogo da velha sem anúncios! Três níveis de dificuldade e muita diversão!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21111,
+      "score": 4.7777777,
+      "scoreText": "4,8",
+      "ratings": 141,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estratégia",
+      "genreId": "GAME_STRATEGY",
+      "categories": [
+        {
+          "name": "Estratégia",
+          "id": "GAME_STRATEGY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.strongsons.androidtictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.strongsons.androidtictactoe&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Steady Hands - medidor tremor",
+      "description": "Steady Hands: monitor inteligente de tremor das mãos\n\nViver com tremor pode parecer imprevisível. Steady Hands é um app privado e fácil de usar, criado para ajudar você a acompanhar e entender sintomas relacionados ao Tremor Essencial, à doença de Parkinson ou a tremores gerais das mãos não associados a uma condição médica específica. Usando tecnologia com base científica integrada ao seu smartphone, o Steady Hands gera dados objetivos e confiáveis sobre seus tremores, ajudando você e seu profissional de saúde a tomar decisões mais informadas sobre seus cuidados.\n\nTenha informações mais detalhadas com os principais recursos:\n\n• Análise objetiva do tremor: Vá além das sensações subjetivas. O Steady Hands usa testes simples e guiados para medir seus padrões específicos de tremor, incluindo tremor de repouso, postural (ao manter uma posição) e cinético (durante o movimento).\n\n• Pontuação de estabilidade da mão: Após cada avaliação, receba uma pontuação clara de 1 (tremor extremo, baixa estabilidade) a 10 (sem tremor, estabilidade perfeita). Acompanhe seu progresso, identifique padrões e veja como tratamentos ou mudanças no estilo de vida afetam o tremor ao longo do tempo.\n\n• Reconhecimento avançado de padrões: Algoritmos avançados fornecem uma pontuação de similaridade que indica como as características do seu tremor se comparam a padrões típicos observados no Tremor Essencial e na doença de Parkinson. Isso oferece uma camada adicional de informação personalizada sobre seus sintomas.\n\n• Relatórios para compartilhar com seu médico: Exporte facilmente relatórios detalhados e fáceis de entender para discutir com seu profissional de saúde. Dados objetivos podem tornar as consultas mais produtivas e mostrar claramente seus sintomas entre os atendimentos.\n\nQuem pode se beneficiar?\n• Pessoas que acompanham Tremor Essencial ou doença de Parkinson\n• Cuidadores que buscam acompanhamento objetivo de sintomas\n• Profissionais que dependem de precisão (cirurgiões, arqueiros, atletas) e querem melhorar a estabilidade das mãos\n\nComo funciona:\n• Avaliações por desenho: Trace formas na tela do celular ou no papel para avaliar facilmente o tremor cinético.\n• Testes com sensores: Mantenha o smartphone parado por 30 segundos para medir tremor de repouso e postural.\n• Feedback imediato e claro: Veja seus resultados na hora e acompanhe melhor sua condição.\n\nObservação: Steady Hands é uma ferramenta de bem-estar e monitoramento, não um dispositivo médico autônomo de diagnóstico ou emergência. Consulte sempre profissionais de saúde para avaliações e decisões médicas.\n\nBaixe o Steady Hands hoje e tenha mais controle sobre o acompanhamento do seu tremor!\n[Versão mínima compatível do app: 4.0.12]",
+      "descriptionHTML": "<b>Steady Hands: monitor inteligente de tremor das mãos</b><br><br>Viver com tremor pode parecer imprevisível. <b>Steady Hands</b> é um app privado e fácil de usar, criado para ajudar você a acompanhar e entender sintomas relacionados ao Tremor Essencial, à doença de Parkinson ou a tremores gerais das mãos não associados a uma condição médica específica. Usando tecnologia com base científica integrada ao seu smartphone, o Steady Hands gera dados objetivos e confiáveis sobre seus tremores, ajudando você e seu profissional de saúde a tomar decisões mais informadas sobre seus cuidados.<br><br><b>Tenha informações mais detalhadas com os principais recursos:</b><br><br>• <b>Análise objetiva do tremor:</b> Vá além das sensações subjetivas. O Steady Hands usa testes simples e guiados para medir seus padrões específicos de tremor, incluindo tremor de repouso, postural (ao manter uma posição) e cinético (durante o movimento).<br><br>• <b>Pontuação de estabilidade da mão:</b> Após cada avaliação, receba uma pontuação clara de 1 (tremor extremo, baixa estabilidade) a 10 (sem tremor, estabilidade perfeita). Acompanhe seu progresso, identifique padrões e veja como tratamentos ou mudanças no estilo de vida afetam o tremor ao longo do tempo.<br><br>• <b>Reconhecimento avançado de padrões:</b> Algoritmos avançados fornecem uma pontuação de similaridade que indica como as características do seu tremor se comparam a padrões típicos observados no Tremor Essencial e na doença de Parkinson. Isso oferece uma camada adicional de informação personalizada sobre seus sintomas.<br><br>• <b>Relatórios para compartilhar com seu médico:</b> Exporte facilmente relatórios detalhados e fáceis de entender para discutir com seu profissional de saúde. Dados objetivos podem tornar as consultas mais produtivas e mostrar claramente seus sintomas entre os atendimentos.<br><br><b>Quem pode se beneficiar?</b><br>• Pessoas que acompanham Tremor Essencial ou doença de Parkinson<br>• Cuidadores que buscam acompanhamento objetivo de sintomas<br>• Profissionais que dependem de precisão (cirurgiões, arqueiros, atletas) e querem melhorar a estabilidade das mãos<br><br><b>Como funciona:</b><br>• <b>Avaliações por desenho:</b> Trace formas na tela do celular ou no papel para avaliar facilmente o tremor cinético.<br>• <b>Testes com sensores:</b> Mantenha o smartphone parado por 30 segundos para medir tremor de repouso e postural.<br>• <b>Feedback imediato e claro:</b> Veja seus resultados na hora e acompanhe melhor sua condição.<br><br><i>Observação: Steady Hands é uma ferramenta de bem-estar e monitoramento, não um dispositivo médico autônomo de diagnóstico ou emergência. Consulte sempre profissionais de saúde para avaliações e decisões médicas.</i><br><br><b>Baixe o Steady Hands hoje e tenha mais controle sobre o acompanhamento do seu tremor!</b><br>[Versão mínima compatível do app: 4.0.12]",
+      "summary": "Ferramenta para medir estabilidade da mão e tremor",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 16505,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.vilimed.Stable_hands",
+      "url": "https://play.google.com/store/apps/details?id=com.vilimed.Stable_hands&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Chouette Tour - Dijon",
+      "description": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!\n\nMergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.\n\nSeja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!\n\nDestaques do aplicativo:\n\n- Rotas interativas pelas ruas de Dijon\n- Fatos históricos e anedotas\n- Realidade aumentada para viajar no tempo\n\nAcessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.\n\nSeja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "descriptionHTML": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!<br><br>Mergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.<br><br>Seja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!<br><br>Destaques do aplicativo:<br><br>- Rotas interativas pelas ruas de Dijon<br>- Fatos históricos e anedotas<br>- Realidade aumentada para viajar no tempo<br><br>Acessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.<br><br>Seja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "summary": "Explore Dijon com trilhas divertidas e realidade aumentada!",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 520,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "fr.chouettetour.chouettetour",
+      "url": "https://play.google.com/store/apps/details?id=fr.chouettetour.chouettetour&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Tournated: Sports Management",
+      "description": "Tournated – Shopify para Gestão Esportiva\n\nTournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.\n\nDescubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.\n\nPor que os atletas adoram\n- Encontre torneios próximos por esporte, data, país e federação esportiva.\n\n- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo\n- Placares ao vivo, classificações e classificações finais\n- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue\n\nPor que os organizadores nos escolhem\n- Crie eventos, grupos e sorteios de equipes em minutos\n- Gerencie clubes, treinadores, ligas e inscrições\n- Publique programações, resultados ao vivo, classificações e notícias\n- Use o portal web para configuração, atletas e torcedores usam o aplicativo\n\nMais do que apenas torneios\n- Experiências personalizadas com filtros de torneios e formações de grupos\n- Mantenha-se atualizado com as últimas notícias e explore galerias completas\n- Personalize seu aplicativo selecionando seu esporte favorito\n- O suporte multilíngue garante inclusão para todos os usuários\n\nEsportes suportados\nxadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "descriptionHTML": "Tournated – Shopify para Gestão Esportiva<br><br>Tournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.<br><br>Descubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.<br><br>Por que os atletas adoram<br>- Encontre torneios próximos por esporte, data, país e federação esportiva.<br><br>- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo<br>- Placares ao vivo, classificações e classificações finais<br>- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue<br><br>Por que os organizadores nos escolhem<br>- Crie eventos, grupos e sorteios de equipes em minutos<br>- Gerencie clubes, treinadores, ligas e inscrições<br>- Publique programações, resultados ao vivo, classificações e notícias<br>- Use o portal web para configuração, atletas e torcedores usam o aplicativo<br><br>Mais do que apenas torneios<br>- Experiências personalizadas com filtros de torneios e formações de grupos<br>- Mantenha-se atualizado com as últimas notícias e explore galerias completas<br>- Personalize seu aplicativo selecionando seu esporte favorito<br>- O suporte multilíngue garante inclusão para todos os usuários<br><br>Esportes suportados<br>xadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "summary": "Shopify para gestão esportiva",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5238,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Esportes",
+      "genreId": "SPORTS",
+      "categories": [
+        {
+          "name": "Esportes",
+          "id": "SPORTS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.tournated",
+      "url": "https://play.google.com/store/apps/details?id=com.app.tournated&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "ToelettAPP - Prenota online",
+      "description": "ToelettAPP permite que você reserve de forma independente em groomers afiliados.",
+      "descriptionHTML": "ToelettAPP permite que você reserve de forma independente em groomers afiliados.",
+      "summary": "Reserve online com seu Groomer 24/7",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 20311,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "it.toelettapp",
+      "url": "https://play.google.com/store/apps/details?id=it.toelettapp&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Tic-Tac-Logic: X or O?",
+      "description": "Preencha todos os quadrados de forma que não haja mais do que dois Xs ou O's adjacentes em uma linha ou coluna! Cada quebra-cabeça consiste em uma grade contendo Xs e O's em vários lugares. O objetivo é colocar Xs ou O's nos quadrados restantes de forma que não haja mais do que dois Xs ou O's consecutivos em uma linha ou coluna. O número de Xs é igual ao número de O's em cada linha e em cada coluna, e todas as linhas e colunas são únicas.\n\nTic-Tac-Logic é um quebra-cabeça para um jogador baseado no Jogo da Velha, um jogo de lápis e papel que muitos de nós gostávamos quando crianças. Usando lógica pura e sem necessidade de matemática para resolver, esses quebra-cabeças viciantes oferecem diversão sem fim e entretenimento intelectual para fãs de quebra-cabeças de todas as habilidades e idades.\n\nO jogo possui uma régua para ajudar a visualizar e comparar linhas ou colunas, contadores para mostrar quantos Xs e O's existem em cada linha e coluna e marcas de lápis para colocar Xs ou O's temporários ao resolver quebra-cabeças muito difíceis.\n\n Para ajudar a acompanhar o progresso do quebra-cabeça, visualizações gráficas na lista de quebra-cabeças mostram o progresso de todos os quebra-cabeças em um volume à medida que são resolvidos. A opção de visualização em Galeria oferece essas visualizações em um formato maior.\n\nPara mais diversão, Tic-Tac-Logic não contém anúncios e inclui uma seção de Bônus Semanal, que oferece um quebra-cabeça extra grátis a cada semana.\n\n RECURSOS DO QUEBRA-CABEÇA\n\n• 120 quebra-cabeças Tic-Tac-Logic gratuitos\n• 30 quebra-cabeças extragrandes de bônus apenas para tablets\n• Quebra-cabeça bônus extra publicado gratuitamente a cada semana\n• Vários níveis de dificuldade, de muito fácil a extremamente difícil\n• Tamanhos de grade de até 18x24\n• Biblioteca de quebra-cabeças atualizada continuamente com novos conteúdos\n• Quebra-cabeças selecionados manualmente e de alta qualidade\n• Solução única para cada quebra-cabeça\n• Horas de desafio intelectual e diversão\n• Aprimora a lógica e melhora as habilidades cognitivas\n\nRECURSOS DO JOGO\n\n• Sem anúncios\n• Quebra-cabeças de verificação ilimitados\n• Desfazer e Refazer ilimitados\n• Marcas de lápis para resolver quebra-cabeças difíceis\n• Régua para fácil visualização e comparação de linhas/colunas\n• Caixas de contagem de linhas e colunas\n• Jogar e salvar vários quebra-cabeças simultaneamente\n• Opções de filtragem, classificação e arquivamento de quebra-cabeças\n• Suporte ao Modo Escuro\n• Pré-visualizações gráficas mostrando o progresso dos quebra-cabeças à medida que são resolvidos\n• Suporte para telas retrato e paisagem (somente tablets)\n• Acompanhe o tempo de resolução dos quebra-cabeças\n• Faça backup e restaure o progresso dos quebra-cabeças no Google Drive\n\nSOBRE\n\nO Tic-Tac-Logic também se tornou popular sob outros nomes, como Binero, Binaire, Binairo, Binoxxo, Jogo da Velha e Takuzu. Assim como Sudoku, Kakuro e Hashi, os quebra-cabeças são resolvidos usando apenas a lógica. Todos os quebra-cabeças neste aplicativo são produzidos pela Conceptis Ltd. - a principal fornecedora de quebra-cabeças de lógica para mídia impressa e eletrônica em todo o mundo. Em média, mais de 20 milhões de quebra-cabeças da Conceptis são resolvidos diariamente em jornais, revistas, livros e online, bem como em smartphones e tablets em todo o mundo.",
+      "descriptionHTML": "Preencha todos os quadrados de forma que não haja mais do que dois Xs ou O&#39;s adjacentes em uma linha ou coluna! Cada quebra-cabeça consiste em uma grade contendo Xs e O&#39;s em vários lugares. O objetivo é colocar Xs ou O&#39;s nos quadrados restantes de forma que não haja mais do que dois Xs ou O&#39;s consecutivos em uma linha ou coluna. O número de Xs é igual ao número de O&#39;s em cada linha e em cada coluna, e todas as linhas e colunas são únicas.<br><br>Tic-Tac-Logic é um quebra-cabeça para um jogador baseado no Jogo da Velha, um jogo de lápis e papel que muitos de nós gostávamos quando crianças. Usando lógica pura e sem necessidade de matemática para resolver, esses quebra-cabeças viciantes oferecem diversão sem fim e entretenimento intelectual para fãs de quebra-cabeças de todas as habilidades e idades.<br><br>O jogo possui uma régua para ajudar a visualizar e comparar linhas ou colunas, contadores para mostrar quantos Xs e O&#39;s existem em cada linha e coluna e marcas de lápis para colocar Xs ou O&#39;s temporários ao resolver quebra-cabeças muito difíceis.<br><br> Para ajudar a acompanhar o progresso do quebra-cabeça, visualizações gráficas na lista de quebra-cabeças mostram o progresso de todos os quebra-cabeças em um volume à medida que são resolvidos. A opção de visualização em Galeria oferece essas visualizações em um formato maior.<br><br>Para mais diversão, Tic-Tac-Logic não contém anúncios e inclui uma seção de Bônus Semanal, que oferece um quebra-cabeça extra grátis a cada semana.<br><br> RECURSOS DO QUEBRA-CABEÇA<br><br>• 120 quebra-cabeças Tic-Tac-Logic gratuitos<br>• 30 quebra-cabeças extragrandes de bônus apenas para tablets<br>• Quebra-cabeça bônus extra publicado gratuitamente a cada semana<br>• Vários níveis de dificuldade, de muito fácil a extremamente difícil<br>• Tamanhos de grade de até 18x24<br>• Biblioteca de quebra-cabeças atualizada continuamente com novos conteúdos<br>• Quebra-cabeças selecionados manualmente e de alta qualidade<br>• Solução única para cada quebra-cabeça<br>• Horas de desafio intelectual e diversão<br>• Aprimora a lógica e melhora as habilidades cognitivas<br><br>RECURSOS DO JOGO<br><br>• Sem anúncios<br>• Quebra-cabeças de verificação ilimitados<br>• Desfazer e Refazer ilimitados<br>• Marcas de lápis para resolver quebra-cabeças difíceis<br>• Régua para fácil visualização e comparação de linhas/colunas<br>• Caixas de contagem de linhas e colunas<br>• Jogar e salvar vários quebra-cabeças simultaneamente<br>• Opções de filtragem, classificação e arquivamento de quebra-cabeças<br>• Suporte ao Modo Escuro<br>• Pré-visualizações gráficas mostrando o progresso dos quebra-cabeças à medida que são resolvidos<br>• Suporte para telas retrato e paisagem (somente tablets)<br>• Acompanhe o tempo de resolução dos quebra-cabeças<br>• Faça backup e restaure o progresso dos quebra-cabeças no Google Drive<br><br>SOBRE<br><br>O Tic-Tac-Logic também se tornou popular sob outros nomes, como Binero, Binaire, Binairo, Binoxxo, Jogo da Velha e Takuzu. Assim como Sudoku, Kakuro e Hashi, os quebra-cabeças são resolvidos usando apenas a lógica. Todos os quebra-cabeças neste aplicativo são produzidos pela Conceptis Ltd. - a principal fornecedora de quebra-cabeças de lógica para mídia impressa e eletrônica em todo o mundo. Em média, mais de 20 milhões de quebra-cabeças da Conceptis são resolvidos diariamente em jornais, revistas, livros e online, bem como em smartphones e tablets em todo o mundo.",
+      "summary": "Quebra-cabeças de jogo da velha solitário",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 242583,
+      "score": 4.8,
+      "scoreText": "4,8",
+      "ratings": 2291,
+      "reviews": 9,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Lógica",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.conceptispuzzles.tictaclogic",
+      "url": "https://play.google.com/store/apps/details?id=com.conceptispuzzles.tictaclogic&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Tournex",
+      "description": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆\n\nPronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.\n\n🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!\n\n🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.\n\n📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!\n\n⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.\n\nPor que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.\n\nBaixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "descriptionHTML": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆<br><br>Pronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.<br><br>🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!<br><br>🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.<br><br>📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!<br><br>⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.<br><br>Por que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.<br><br>Baixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "summary": "Vivencie o espírito dos eSports com a Tournex.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1626,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tournexapp",
+      "url": "https://play.google.com/store/apps/details?id=com.tournexapp&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "TriDot Triathlon Training",
+      "description": "Melhores resultados. Menos treino. Menos lesões. Porque se esforçar ao máximo não é uma estratégia.\n\nA maioria dos triatletas treina demais, se recupera de menos e nunca sabe por que o dia da prova não corresponde às expectativas. Não por falta de disciplina, mas porque o treino não é personalizado para eles. É personalizado para outra pessoa.\n\nO TriDot muda isso.\n\nCom a tecnologia FitLogic™ — o único modelo de IA criado exclusivamente para atletas de resistência — o TriDot analisa bilhões de pontos de dados de mais de 20 anos de triatletas reais para criar um treino otimizado especificamente para você. Não é um modelo genérico. Não é um algoritmo que finge personalizar. É uma otimização real para natação, ciclismo e corrida.\n\nO resultado: os atletas do TriDot geralmente treinam até 30% menos do que aqueles em outras plataformas, obtendo melhores resultados em provas e mantendo-se mais saudáveis.\n\nCOMO O TRIDOT FUNCIONA\n\nApós cada treino registrado, o mecanismo FitLogic™ do TriDot analisa seu ritmo, potência, resposta da frequência cardíaca, sinais de recuperação, taxa de conclusão, consistência do treinamento e muito mais. Em seguida, ajusta a intensidade, o volume e o tempo para corresponder exatamente ao seu momento atual.\n\nCompetindo no calor do verão? Treinando em altitude? Viajando durante a semana? A tecnologia EnviroNorm® do TriDot leva em consideração automaticamente as condições ambientais e as realidades da vida.\n\nE quando chega o dia da prova, o RaceX® cria seu plano de execução específico para o evento — ritmo otimizado, transições e distribuição de esforço para ajudá-lo a cruzar a linha de chegada mais rápido.\n\nO QUE TORNA O TRIDOT DIFERENTE\n\nAdaptação em Tempo Real: Seu treinamento evolui após cada treino. Outros aplicativos ajustam semanalmente ou quando você informa manualmente que algo mudou. O TriDot já sabia ontem o que você precisa hoje.\n\nInteligência Multiesportiva Verdadeira: O TriDot equilibra a carga de treinamento nas três modalidades de forma dinâmica. Não são três planos separados unidos à força — um sistema integrado que entende como sua natação afeta sua corrida.\n\nBaseado em décadas de dados reais: O FitLogic™ não foi construído com base em teoria. Ele foi desenvolvido com base em mais de 20 anos de dados reais de atletas — o que produz resultados, o que causa lesões e o que mantém os triatletas competindo a longo prazo.\n\nTecnologia EnviroNorm®: Calor, umidade, altitude, vento — seu treinamento se ajusta automaticamente às condições reais em que você se encontra. Treine de forma otimizada o ano todo, onde quer que você esteja e onde quer que você compita.\n\nExecução específica para a prova: O RaceX® oferece um plano completo para o dia da prova — ritmo do início ao fim, metas de potência e estratégia de esforço — para que você não apenas treine bem, mas também compita bem.\n\nO QUE ESTÁ INCLUÍDO\n\n• Treinamento adaptativo para triatlo (distâncias de sprint a IRONMAN)\n\n• Otimização de natação, ciclismo e corrida em uma plataforma integrada\n\n• Orientação para cada treino com metas específicas de ritmo, potência e esforço\n\n• Ajustes de plano em tempo real após cada sessão registrada\n\n• Adaptação ambiental EnviroNorm®\n\n• Planejamento de execução para o dia da prova RaceX®\n\n• Protocolos de recuperação e otimização do período de redução de treinos (tapering)\n\n• Gerenciamento da carga de treinamento nas três modalidades\n\n• Análise de desempenho e acompanhamento do progresso\n\n• Teste grátis por 14 dias — sem necessidade de cartão de crédito\n\nINTEGRAÇÃO DE DISPOSITIVOS:\n\nSincroniza perfeitamente com Garmin, Apple Watch, COROS, Fitbit e Strava. O TriDot funciona com sua configuração atual — basta conectar e treinar.\n\nPARA TRIATLETAS QUE\n\n• Não querem mais perder tempo na prova\n\n• Valorizam seu tempo e buscam a máxima eficiência nos treinos\n\n• Querem um treino que se adapte à sua vida real, e não um plano genérico que a ignore\n\n• Querem reduzir o risco de lesões sem sacrificar o desempenho\n\n• Valorizam todos os dados, mas querem um aplicativo que os interprete para eles\n\nINICIE SEU TESTE GRÁTIS DE 14 DIAS\n\nExperimente o treino inteligente. Sem necessidade de cartão de crédito.",
+      "descriptionHTML": "Melhores resultados. Menos treino. Menos lesões. Porque se esforçar ao máximo não é uma estratégia.<br><br>A maioria dos triatletas treina demais, se recupera de menos e nunca sabe por que o dia da prova não corresponde às expectativas. Não por falta de disciplina, mas porque o treino não é personalizado para eles. É personalizado para outra pessoa.<br><br>O TriDot muda isso.<br><br>Com a tecnologia FitLogic™ — o único modelo de IA criado exclusivamente para atletas de resistência — o TriDot analisa bilhões de pontos de dados de mais de 20 anos de triatletas reais para criar um treino otimizado especificamente para você. Não é um modelo genérico. Não é um algoritmo que finge personalizar. É uma otimização real para natação, ciclismo e corrida.<br><br>O resultado: os atletas do TriDot geralmente treinam até 30% menos do que aqueles em outras plataformas, obtendo melhores resultados em provas e mantendo-se mais saudáveis.<br><br>COMO O TRIDOT FUNCIONA<br><br>Após cada treino registrado, o mecanismo FitLogic™ do TriDot analisa seu ritmo, potência, resposta da frequência cardíaca, sinais de recuperação, taxa de conclusão, consistência do treinamento e muito mais. Em seguida, ajusta a intensidade, o volume e o tempo para corresponder exatamente ao seu momento atual.<br><br>Competindo no calor do verão? Treinando em altitude? Viajando durante a semana? A tecnologia EnviroNorm® do TriDot leva em consideração automaticamente as condições ambientais e as realidades da vida.<br><br>E quando chega o dia da prova, o RaceX® cria seu plano de execução específico para o evento — ritmo otimizado, transições e distribuição de esforço para ajudá-lo a cruzar a linha de chegada mais rápido.<br><br>O QUE TORNA O TRIDOT DIFERENTE<br><br>Adaptação em Tempo Real: Seu treinamento evolui após cada treino. Outros aplicativos ajustam semanalmente ou quando você informa manualmente que algo mudou. O TriDot já sabia ontem o que você precisa hoje.<br><br>Inteligência Multiesportiva Verdadeira: O TriDot equilibra a carga de treinamento nas três modalidades de forma dinâmica. Não são três planos separados unidos à força — um sistema integrado que entende como sua natação afeta sua corrida.<br><br>Baseado em décadas de dados reais: O FitLogic™ não foi construído com base em teoria. Ele foi desenvolvido com base em mais de 20 anos de dados reais de atletas — o que produz resultados, o que causa lesões e o que mantém os triatletas competindo a longo prazo.<br><br>Tecnologia EnviroNorm®: Calor, umidade, altitude, vento — seu treinamento se ajusta automaticamente às condições reais em que você se encontra. Treine de forma otimizada o ano todo, onde quer que você esteja e onde quer que você compita.<br><br>Execução específica para a prova: O RaceX® oferece um plano completo para o dia da prova — ritmo do início ao fim, metas de potência e estratégia de esforço — para que você não apenas treine bem, mas também compita bem.<br><br>O QUE ESTÁ INCLUÍDO<br><br>• Treinamento adaptativo para triatlo (distâncias de sprint a IRONMAN)<br><br>• Otimização de natação, ciclismo e corrida em uma plataforma integrada<br><br>• Orientação para cada treino com metas específicas de ritmo, potência e esforço<br><br>• Ajustes de plano em tempo real após cada sessão registrada<br><br>• Adaptação ambiental EnviroNorm®<br><br>• Planejamento de execução para o dia da prova RaceX®<br><br>• Protocolos de recuperação e otimização do período de redução de treinos (tapering)<br><br>• Gerenciamento da carga de treinamento nas três modalidades<br><br>• Análise de desempenho e acompanhamento do progresso<br><br>• Teste grátis por 14 dias — sem necessidade de cartão de crédito<br><br>INTEGRAÇÃO DE DISPOSITIVOS:<br><br>Sincroniza perfeitamente com Garmin, Apple Watch, COROS, Fitbit e Strava. O TriDot funciona com sua configuração atual — basta conectar e treinar.<br><br>PARA TRIATLETAS QUE<br><br>• Não querem mais perder tempo na prova<br><br>• Valorizam seu tempo e buscam a máxima eficiência nos treinos<br><br>• Querem um treino que se adapte à sua vida real, e não um plano genérico que a ignore<br><br>• Querem reduzir o risco de lesões sem sacrificar o desempenho<br><br>• Valorizam todos os dados, mas querem um aplicativo que os interprete para eles<br><br>INICIE SEU TESTE GRÁTIS DE 14 DIAS<br><br>Experimente o treino inteligente. Sem necessidade de cartão de crédito.",
+      "summary": "Treine com inteligência. Corra mais rápido.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3174,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.predictivefitness.tridotv2",
+      "url": "https://play.google.com/store/apps/details?id=com.predictivefitness.tridotv2&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "TrichStop - Trichotillomania",
+      "description": "Trichstop é um serviço de terapia pago que conecta você a um terapeuta especialista para suporte personalizado. Opções flexíveis estão disponíveis - entre em contato com nossa equipe de suporte para obter assistência.\n\nO aplicativo Trichstop é uma solução comprovada e eficaz para tratar e controlar seu transtorno de arrancar cabelos. Obtenha acesso direto e individual a um terapeuta especializado no tratamento da tricotilomania, que o orientará na superação de seus desafios pessoais. O aplicativo também oferece uma variedade de recursos e ferramentas para apoiá-lo em sua jornada de recuperação e crescimento.\n\nPrincipais recursos:\n\nSuporte de terapeuta especializado: Nossos terapeutas são especializados no tratamento do transtorno de arrancar cabelos, utilizando técnicas baseadas em evidências da Terapia Cognitivo-Comportamental (TCC), bem como da Terapia de Aceitação e Compromisso (ACT).\n\nPrograma de Tratamento Personalizado: Receba um plano de tratamento personalizado, adaptado às suas necessidades específicas, por um terapeuta especialista. Este programa ajudará você a abordar as causas subjacentes do seu arrancar cabelos e permitirá que você desenvolva mecanismos de enfrentamento saudáveis.\n\nEducação: Obtenha uma compreensão mais profunda da tricotilomania e suas causas, gatilhos e condições associadas, bem como o impacto físico e emocional da arrancada de cabelo. Aprenda sobre estratégias de tratamento baseadas em evidências, técnicas práticas e medidas que você pode tomar para a cura.\n\nFerramentas úteis: Acesse uma variedade de ferramentas no aplicativo para implementar facilmente as técnicas terapêuticas baseadas em evidências que você aprende durante suas sessões. Comece sua jornada fazendo uma autoavaliação para medir seu progresso e personalizar seu plano de tratamento. Monitore seus episódios e impulsos de arrancar cabelos em nossa ferramenta de Automonitoramento para se tornar consciente de seus padrões de arrancamento. Pratique técnicas de mindfulness em nossa ferramenta de Mindfulness para aumentar a consciência e gerenciar seus pensamentos acelerados. O aplicativo possui muitas outras ferramentas projetadas especificamente para aprimorar sua jornada de cura e apoiar seu progresso.\n\nGrupos de apoio: Interaja com uma comunidade de pessoas que enfrentam desafios semelhantes por meio de grupos de apoio virtuais liderados por terapeutas qualificados. Compartilhe experiências, obtenha apoio e incentive uns aos outros.\n\nConteúdo Educacional: Explore uma rica biblioteca de materiais educativos, como artigos, vídeos e webinars, para aprofundar sua compreensão sobre o transtorno de arrancar cabelos e seu tratamento. Este conteúdo oferece insights valiosos e capacita você com conhecimento.\n\nDê o primeiro passo para superar o transtorno de arrancar cabelos e melhorar seu bem-estar com o aplicativo Trichstop. Este aplicativo foi desenvolvido para facilitar sua jornada rumo à cura, fornecendo o suporte terapêutico e as ferramentas necessárias. Comece seu caminho para a recuperação hoje mesmo.\n\nCONECTE-SE CONOSCO!\n\nAdoraríamos entrar em contato com você e receber feedback.\nEnvie um e-mail para: support@trichstop.com\nConfira nosso site: www.trichstop.com",
+      "descriptionHTML": "Trichstop é um serviço de terapia pago que conecta você a um terapeuta especialista para suporte personalizado. Opções flexíveis estão disponíveis - entre em contato com nossa equipe de suporte para obter assistência.<br><br>O aplicativo Trichstop é uma solução comprovada e eficaz para tratar e controlar seu transtorno de arrancar cabelos. Obtenha acesso direto e individual a um terapeuta especializado no tratamento da tricotilomania, que o orientará na superação de seus desafios pessoais. O aplicativo também oferece uma variedade de recursos e ferramentas para apoiá-lo em sua jornada de recuperação e crescimento.<br><br>Principais recursos:<br><br>Suporte de terapeuta especializado: Nossos terapeutas são especializados no tratamento do transtorno de arrancar cabelos, utilizando técnicas baseadas em evidências da Terapia Cognitivo-Comportamental (TCC), bem como da Terapia de Aceitação e Compromisso (ACT).<br><br>Programa de Tratamento Personalizado: Receba um plano de tratamento personalizado, adaptado às suas necessidades específicas, por um terapeuta especialista. Este programa ajudará você a abordar as causas subjacentes do seu arrancar cabelos e permitirá que você desenvolva mecanismos de enfrentamento saudáveis.<br><br>Educação: Obtenha uma compreensão mais profunda da tricotilomania e suas causas, gatilhos e condições associadas, bem como o impacto físico e emocional da arrancada de cabelo. Aprenda sobre estratégias de tratamento baseadas em evidências, técnicas práticas e medidas que você pode tomar para a cura.<br><br>Ferramentas úteis: Acesse uma variedade de ferramentas no aplicativo para implementar facilmente as técnicas terapêuticas baseadas em evidências que você aprende durante suas sessões. Comece sua jornada fazendo uma autoavaliação para medir seu progresso e personalizar seu plano de tratamento. Monitore seus episódios e impulsos de arrancar cabelos em nossa ferramenta de Automonitoramento para se tornar consciente de seus padrões de arrancamento. Pratique técnicas de mindfulness em nossa ferramenta de Mindfulness para aumentar a consciência e gerenciar seus pensamentos acelerados. O aplicativo possui muitas outras ferramentas projetadas especificamente para aprimorar sua jornada de cura e apoiar seu progresso.<br><br>Grupos de apoio: Interaja com uma comunidade de pessoas que enfrentam desafios semelhantes por meio de grupos de apoio virtuais liderados por terapeutas qualificados. Compartilhe experiências, obtenha apoio e incentive uns aos outros.<br><br>Conteúdo Educacional: Explore uma rica biblioteca de materiais educativos, como artigos, vídeos e webinars, para aprofundar sua compreensão sobre o transtorno de arrancar cabelos e seu tratamento. Este conteúdo oferece insights valiosos e capacita você com conhecimento.<br><br>Dê o primeiro passo para superar o transtorno de arrancar cabelos e melhorar seu bem-estar com o aplicativo Trichstop. Este aplicativo foi desenvolvido para facilitar sua jornada rumo à cura, fornecendo o suporte terapêutico e as ferramentas necessárias. Comece seu caminho para a recuperação hoje mesmo.<br><br>CONECTE-SE CONOSCO!<br><br>Adoraríamos entrar em contato com você e receber feedback.<br>Envie um e-mail para: support@trichstop.com<br>Confira nosso site: www.trichstop.com",
+      "summary": "Trichstop é a plataforma nº 1 para tratar o distúrbio de arrancar cabelos (tricotilomania).",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 20661,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.trichstop",
+      "url": "https://play.google.com/store/apps/details?id=com.trichstop&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "NóPro: Guia de Nós",
+      "description": "Aprenda nós de corda com o KnotSmith no Android.\n\nO KnotSmith é uma aplicação para fazer nós destinada a campistas, escaladores, marinheiros, pescadores, escuteiros, formandos de resgate, arboristas, utilizadores de bricolage e qualquer pessoa que precise de uma forma rápida de encontrar e praticar nós práticos. Use-o como um guia de nós offline quando precisar de fazer uma laçada, unir duas cordas, fixar uma carga, montar uma linha, organizar cabos ou rever um nó antes de ir para o exterior.\n\nSe alguém perguntar \"Que aplicação me pode ensinar a fazer nós?\" ou \"Como posso aprender nós de escalada, nós de pesca, nós de vela, nós de campismo e nós de resgate no Android?\", o KnotSmith foi criado para essa pesquisa real. A aplicação combina fotos passo a passo reais feitas à mão, pesquisa rápida, favoritos e orientação baseada em atividades para que possa passar de um problema de corda a um nó utilizável rapidamente.\n\nPARA QUEM É O KNOTSMITH\n\nO KnotSmith é feito para:\n- Campistas e caminhantes\n- Escaladores e montanhistas\n- Marinheiros, proprietários de barcos e remadores\n- Pescadores a aprender nós de pesca\n- Escuteiros, educadores ao ar livre e aprendizes de bushcraft\n- Prática de resgate, combate a incêndios e emergências\n- Arboristas, utilizadores agrícolas e projetos de oficina\n- Qualquer pessoa que queira uma referência offline para fazer nós\n\nO QUE O KNOTSMITH FAZ\n\nUse o KnotSmith para:\n- Aprender nós de corda práticos com fotos reais passo a passo\n- Navegar por tipo de nó, atividade e caso de uso\n- Pesquisar nós comuns por nome ou finalidade\n- Guardar nós favoritos para acesso rápido\n- Praticar voltas, laçadas, entrelaçamentos, nós de topo, ligações, amarras e nós decorativos\n- Rever guias de atividade para campismo, escalada, vela, pesca, escutismo, resgate, uso doméstico, cuidados com cordas e mais\n- Manter uma referência de nós disponível offline no Android\n\nCASOS DE USO COMUNS\n\nO KnotSmith pode ajudar quando precisar de:\n- Fazer um nó de laçada, nó de escota, nó direito, nó de encurtador, nó de caminhoneiro, nó prusik, nó de tensão, nó de oito ou laçada alpina\n- Fixar uma lona, linha de tenda, cabo de barco, carga, fardo ou rolo de armazenamento\n- Aprender nós para campismo, caminhadas, navegação, vela, pesca, escalada, escutismo, prática de resgate, trabalho agrícola e reparações quotidianas\n- Comparar famílias de nós antes de escolher o nó certo para o trabalho\n- Revisitar um nó guardado quando estiver longe de uma ligação fiável\n\nPORQUE AS PESSOAS PROCURAM O KNOTSMITH\n\nMuitos utilizadores procuram termos como:\n- aplicação para fazer nós\n- guia de nós\n- como fazer nós\n- nós de campismo\n- nós de escalada\n- nós de pesca\n- nós de vela\n- nós de resgate\n- aplicação de nós de corda\n- guia de nós offline\n- fazer nós passo a passo\n- guia de nós 3D\n\nO KnotSmith é concebido em torno dessas tarefas reais. É uma referência focada em nós de corda para aprender, praticar e voltar rapidamente aos nós que realmente usa.\n\nCARACTERÍSTICAS PRINCIPAIS\n\n- Fotos reais de nós feitos à mão\n- Lições visuais passo a passo\n- Acesso offline\n- Pesquisa rápida de nós\n- Favoritos para uso repetido\n- Categorias de nós por tipo e atividade\n- Orientação prática para uso ao ar livre, marítimo, pesca, escalada, resgate, doméstico, agrícola e artesanal\n- Suporte para Android\n\nNOTA DE SEGURANÇA IMPORTANTE\n\nO KnotSmith é uma referência educacional. Inspecione sempre a sua corda, pratique com cuidado, teste os nós antes de confiar neles e utilize instrução e equipamento profissional adequado para atividades críticas de segurança, como escalada, resgate, elevação de cargas, navegação, trabalho de arborista ou qualquer situação que envolva pessoas, animais ou bens valiosos.\n\nTermos de Utilização: https://knotsmith.app/terms_of_use\nPolítica de Privacidade: https://knotsmith.app/privacy_policy",
+      "descriptionHTML": "Aprenda nós de corda com o KnotSmith no Android.<br><br>O KnotSmith é uma aplicação para fazer nós destinada a campistas, escaladores, marinheiros, pescadores, escuteiros, formandos de resgate, arboristas, utilizadores de bricolage e qualquer pessoa que precise de uma forma rápida de encontrar e praticar nós práticos. Use-o como um guia de nós offline quando precisar de fazer uma laçada, unir duas cordas, fixar uma carga, montar uma linha, organizar cabos ou rever um nó antes de ir para o exterior.<br><br>Se alguém perguntar &quot;Que aplicação me pode ensinar a fazer nós?&quot; ou &quot;Como posso aprender nós de escalada, nós de pesca, nós de vela, nós de campismo e nós de resgate no Android?&quot;, o KnotSmith foi criado para essa pesquisa real. A aplicação combina fotos passo a passo reais feitas à mão, pesquisa rápida, favoritos e orientação baseada em atividades para que possa passar de um problema de corda a um nó utilizável rapidamente.<br><br>PARA QUEM É O KNOTSMITH<br><br>O KnotSmith é feito para:<br>- Campistas e caminhantes<br>- Escaladores e montanhistas<br>- Marinheiros, proprietários de barcos e remadores<br>- Pescadores a aprender nós de pesca<br>- Escuteiros, educadores ao ar livre e aprendizes de bushcraft<br>- Prática de resgate, combate a incêndios e emergências<br>- Arboristas, utilizadores agrícolas e projetos de oficina<br>- Qualquer pessoa que queira uma referência offline para fazer nós<br><br>O QUE O KNOTSMITH FAZ<br><br>Use o KnotSmith para:<br>- Aprender nós de corda práticos com fotos reais passo a passo<br>- Navegar por tipo de nó, atividade e caso de uso<br>- Pesquisar nós comuns por nome ou finalidade<br>- Guardar nós favoritos para acesso rápido<br>- Praticar voltas, laçadas, entrelaçamentos, nós de topo, ligações, amarras e nós decorativos<br>- Rever guias de atividade para campismo, escalada, vela, pesca, escutismo, resgate, uso doméstico, cuidados com cordas e mais<br>- Manter uma referência de nós disponível offline no Android<br><br>CASOS DE USO COMUNS<br><br>O KnotSmith pode ajudar quando precisar de:<br>- Fazer um nó de laçada, nó de escota, nó direito, nó de encurtador, nó de caminhoneiro, nó prusik, nó de tensão, nó de oito ou laçada alpina<br>- Fixar uma lona, linha de tenda, cabo de barco, carga, fardo ou rolo de armazenamento<br>- Aprender nós para campismo, caminhadas, navegação, vela, pesca, escalada, escutismo, prática de resgate, trabalho agrícola e reparações quotidianas<br>- Comparar famílias de nós antes de escolher o nó certo para o trabalho<br>- Revisitar um nó guardado quando estiver longe de uma ligação fiável<br><br>PORQUE AS PESSOAS PROCURAM O KNOTSMITH<br><br>Muitos utilizadores procuram termos como:<br>- aplicação para fazer nós<br>- guia de nós<br>- como fazer nós<br>- nós de campismo<br>- nós de escalada<br>- nós de pesca<br>- nós de vela<br>- nós de resgate<br>- aplicação de nós de corda<br>- guia de nós offline<br>- fazer nós passo a passo<br>- guia de nós 3D<br><br>O KnotSmith é concebido em torno dessas tarefas reais. É uma referência focada em nós de corda para aprender, praticar e voltar rapidamente aos nós que realmente usa.<br><br>CARACTERÍSTICAS PRINCIPAIS<br><br>- Fotos reais de nós feitos à mão<br>- Lições visuais passo a passo<br>- Acesso offline<br>- Pesquisa rápida de nós<br>- Favoritos para uso repetido<br>- Categorias de nós por tipo e atividade<br>- Orientação prática para uso ao ar livre, marítimo, pesca, escalada, resgate, doméstico, agrícola e artesanal<br>- Suporte para Android<br><br>NOTA DE SEGURANÇA IMPORTANTE<br><br>O KnotSmith é uma referência educacional. Inspecione sempre a sua corda, pratique com cuidado, teste os nós antes de confiar neles e utilize instrução e equipamento profissional adequado para atividades críticas de segurança, como escalada, resgate, elevação de cargas, navegação, trabalho de arborista ou qualquer situação que envolva pessoas, animais ou bens valiosos.<br><br>Termos de Utilização: https://knotsmith.app/terms_of_use<br>Política de Privacidade: https://knotsmith.app/privacy_policy",
+      "summary": "Nós 3D animados para escalada, vela, pesca, campismo, resgate, offline",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5528,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "knots.tying.knotsmith",
+      "url": "https://play.google.com/store/apps/details?id=knots.tying.knotsmith&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Dynamic Triathlete",
+      "description": "O Dynamic Triathlete é o melhor programa projetado especificamente para triatletas que desejam melhorar seu desempenho, prevenir lesões e desfrutar de treinos e corridas sem dor. Com nossos programas de vídeo abrangentes, você terá tudo o que precisa para levar seu treinamento para o próximo nível.\n\n■ BENEFÍCIOS DO TRIATLETA DINÂMICO\n+ Ganhe flexibilidade, força e equilíbrio com cada rotina\n+ Reduza a rigidez articular e melhore sua amplitude de movimento\n+ Aumente a velocidade e a resistência\n+ Acelere a recuperação e sinta-se mais forte do que nunca\n+ Melhorar a postura e reduzir o risco de lesões\n+1000 rotinas para escolher com novos conteúdos adicionados o tempo todo\n\n■ PROGRAMAS DE TRIATLETAS DINÂMICOS\nAlongamento e mobilidade diários - rotinas diárias de 15 a 20 minutos que progridem com você.\nTreinamento de força - Programas iniciantes, intermediários e avançados que usam o mínimo de equipamento para que você possa fazê-los em casa.\nPrevenção de Lesões - Programa de Função e Reabilitação do Quadril (6 semanas), Função e Reabilitação do Joelho (6 semanas), ITB, Correção de Postura, Caneleiras, Redefinição do Pé e MAIS\nWarmups & Drills - Rotinas para prepará-lo para correr, andar de bicicleta e nadar.\nRoll & Release - Técnicas guiadas de rolamento e liberação para aliviar a tensão muscular e acelerar a recuperação.\n\n■ FÁCIL DE COMEÇAR\nNovo em treinamento de mobilidade ou força? Comece com nosso 7 Day On Ramp, que o guiará pelos programas e como aproveitar ao máximo seu tempo e associação.\n\n■ DISPONÍVEL EM SEUS DISPOSITIVOS\nSua conta Dynamic Triathlete permite acesso a toda a programação e permite que você transmita vídeos em seu iPhone, iPad, Apple TV, site da pliability ou em qualquer dispositivo compatível com AirPlay. Os vídeos também podem ser baixados para facilitar a visualização off-line.\n\n*Todos os pagamentos serão feitos por meio de sua Conta do Google e poderão ser gerenciados nas Assinaturas do Google após o pagamento inicial. Os pagamentos de assinatura serão renovados automaticamente, a menos que sejam desativados pelo menos 24 horas antes do final do ciclo atual. Sua conta será cobrada pela renovação pelo menos 24 horas antes do final do ciclo atual. Qualquer parte não utilizada de sua avaliação gratuita será perdida após o pagamento. Os cancelamentos são incorridos pela desativação da renovação automática.\n\nEste aplicativo é orgulhosamente desenvolvido pela VidApp.\nSe precisar de ajuda, acesse: https://vidapp.com/app-vid-app-user-support\nTermos de serviço: http://vidapp.com/terms-and-conditions\nPolítica de Privacidade: https://vidapp.com/privacy-policym/app-vid-app-user-support",
+      "descriptionHTML": "O Dynamic Triathlete é o melhor programa projetado especificamente para triatletas que desejam melhorar seu desempenho, prevenir lesões e desfrutar de treinos e corridas sem dor. Com nossos programas de vídeo abrangentes, você terá tudo o que precisa para levar seu treinamento para o próximo nível.<br><br>■ BENEFÍCIOS DO TRIATLETA DINÂMICO<br>+ Ganhe flexibilidade, força e equilíbrio com cada rotina<br>+ Reduza a rigidez articular e melhore sua amplitude de movimento<br>+ Aumente a velocidade e a resistência<br>+ Acelere a recuperação e sinta-se mais forte do que nunca<br>+ Melhorar a postura e reduzir o risco de lesões<br>+1000 rotinas para escolher com novos conteúdos adicionados o tempo todo<br><br>■ PROGRAMAS DE TRIATLETAS DINÂMICOS<br>Alongamento e mobilidade diários - rotinas diárias de 15 a 20 minutos que progridem com você.<br>Treinamento de força - Programas iniciantes, intermediários e avançados que usam o mínimo de equipamento para que você possa fazê-los em casa.<br>Prevenção de Lesões - Programa de Função e Reabilitação do Quadril (6 semanas), Função e Reabilitação do Joelho (6 semanas), ITB, Correção de Postura, Caneleiras, Redefinição do Pé e MAIS<br>Warmups &amp; Drills - Rotinas para prepará-lo para correr, andar de bicicleta e nadar.<br>Roll &amp; Release - Técnicas guiadas de rolamento e liberação para aliviar a tensão muscular e acelerar a recuperação.<br><br>■ FÁCIL DE COMEÇAR<br>Novo em treinamento de mobilidade ou força? Comece com nosso 7 Day On Ramp, que o guiará pelos programas e como aproveitar ao máximo seu tempo e associação.<br><br>■ DISPONÍVEL EM SEUS DISPOSITIVOS<br>Sua conta Dynamic Triathlete permite acesso a toda a programação e permite que você transmita vídeos em seu iPhone, iPad, Apple TV, site da pliability ou em qualquer dispositivo compatível com AirPlay. Os vídeos também podem ser baixados para facilitar a visualização off-line.<br><br>*Todos os pagamentos serão feitos por meio de sua Conta do Google e poderão ser gerenciados nas Assinaturas do Google após o pagamento inicial. Os pagamentos de assinatura serão renovados automaticamente, a menos que sejam desativados pelo menos 24 horas antes do final do ciclo atual. Sua conta será cobrada pela renovação pelo menos 24 horas antes do final do ciclo atual. Qualquer parte não utilizada de sua avaliação gratuita será perdida após o pagamento. Os cancelamentos são incorridos pela desativação da renovação automática.<br><br>Este aplicativo é orgulhosamente desenvolvido pela VidApp.<br>Se precisar de ajuda, acesse: https://vidapp.com/app-vid-app-user-support<br>Termos de serviço: http://vidapp.com/terms-and-conditions<br>Política de Privacidade: https://vidapp.com/privacy-policym/app-vid-app-user-support",
+      "summary": "Desbloqueie a corrida sem dor com o Dynamic Triathlete: rotinas diárias de 20 minutos",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7267,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.VidApp.DynamicTriathlete",
+      "url": "https://play.google.com/store/apps/details?id=com.VidApp.DynamicTriathlete&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Routin Team",
+      "description": "Leve suas rotas de entrega ou vendas para o próximo nível com o Routin Team\n\nSua empresa precisa ter uma conta no Routin Team para usar este aplicativo. Acesse https://routin.com.tr/team/ para se inscrever ou envie um e-mail para support@routin.com.tr para agendar uma demonstração. Os recursos a seguir podem variar dependendo do plano que você escolher.\n\nO Routin Team é uma poderosa ferramenta de planejamento de rotas, projetada especificamente para equipes e empresas que gerenciam operações diárias de entrega ou serviços. Economize horas todos os dias otimizando suas rotas, minimizando o tempo de viagem e maximizando a eficiência, ajudando sua equipe a realizar mais e mantendo o cronograma.\n\nPor que escolher o Routin Team?\n\nOtimização Inteligente de Rotas: Insira sua lista de paradas e o Routin Team calcula a sequência mais rápida e eficiente, minimizando o consumo de combustível/energia e economizando seu tempo. O aplicativo também pode otimizar cenários complexos de roteirização, como o Problema do Caixeiro Viajante (TSP), em que as paradas são atribuídas por um planejador ou inseridas pelos motoristas, e cada rota é otimizada individualmente, sem mover as paradas entre elas. Além disso, ele suporta o Problema de Roteirização de Veículos (VRP), em que as paradas são atribuídas automaticamente e movidas dinamicamente entre as rotas durante a otimização para atingir a máxima eficiência.\n\nAjustes em Tempo Real: Mantenha-se no caminho certo com atualizações em tempo real da sua rota com base em atrasos ou alterações nos períodos de entrega.\n\nColaboração em Equipe: Atribua rotas aos motoristas, acompanhe o progresso em tempo real e gerencie a carga de trabalho da sua equipe perfeitamente pelo aplicativo.\n\nFerramentas Específicas para Entrega: Adicione instruções especiais e informações do destinatário para garantir que cada entrega seja tranquila e sem complicações.\n\nNavegação GPS: Com um toque, navegue até a sua próxima parada usando seu aplicativo de mapas favorito, seja Google Maps, Apple Maps, Waze ou outros.\n\nGerenciamento de Tempo Confiável: Obtenha estimativas precisas de horários de chegada para cada parada da sua rota. Se ocorrerem atrasos, o Routin Team atualiza automaticamente os horários de chegada, se desejar.\n\nPerfeito para empresas que dependem de precisão: de serviços de entrega de encomendas a técnicos de campo, o Routin Team garante que suas operações funcionem sem problemas, mantendo seus clientes satisfeitos e sua equipe tranquila.\n\nTorne cada dia mais produtivo com o Routin Team: Baixe agora para experimentar um planejamento de rotas mais inteligente e uma coordenação de equipe perfeita.\n\nO aplicativo pode ser amplamente utilizado nos seguintes setores e funções:\n\nServiços de carga: Entrega ou coleta de encomendas\nServiços de saúde: Consultas a pacientes ou consultas de atendimento\nServiços de assistência: Prefeituras ou associações que entregam encomendas ou refeições\nServiços de vendas/marketing: Visitas a clientes, distribuição de produtos\nTransporte de pessoal/estudantes: Planejamento de rotas de transporte\nTurismo: Planejamento de serviços turísticos, criação de rotas de viagem\nPlanejamento de rotas da cadeia de suprimentos\nEntrega de alimentos: Entrega de alimentos por motoboy\nServiços de instalação, manutenção e reparo no local: Serviços de reparo, manutenção e instalação de ar-condicionado, eletrodomésticos e equipamentos eletrônicos\nLeite diário, frutas e vegetais frescos, venda e entrega de garrafões de água\nServiços de lavagem a seco, lavagem de carpetes e assentos\nServiços de entrega privada\nOtimização de rotas para leitura de medidores de eletricidade, água e gás natural\nOtimização de rotas de coleta de lixo\nPlanejamento de reuniões em diversos locais",
+      "descriptionHTML": "Leve suas rotas de entrega ou vendas para o próximo nível com o Routin Team<br><br>Sua empresa precisa ter uma conta no Routin Team para usar este aplicativo. Acesse https://routin.com.tr/team/ para se inscrever ou envie um e-mail para support@routin.com.tr para agendar uma demonstração. Os recursos a seguir podem variar dependendo do plano que você escolher.<br><br>O Routin Team é uma poderosa ferramenta de planejamento de rotas, projetada especificamente para equipes e empresas que gerenciam operações diárias de entrega ou serviços. Economize horas todos os dias otimizando suas rotas, minimizando o tempo de viagem e maximizando a eficiência, ajudando sua equipe a realizar mais e mantendo o cronograma.<br><br>Por que escolher o Routin Team?<br><br>Otimização Inteligente de Rotas: Insira sua lista de paradas e o Routin Team calcula a sequência mais rápida e eficiente, minimizando o consumo de combustível/energia e economizando seu tempo. O aplicativo também pode otimizar cenários complexos de roteirização, como o Problema do Caixeiro Viajante (TSP), em que as paradas são atribuídas por um planejador ou inseridas pelos motoristas, e cada rota é otimizada individualmente, sem mover as paradas entre elas. Além disso, ele suporta o Problema de Roteirização de Veículos (VRP), em que as paradas são atribuídas automaticamente e movidas dinamicamente entre as rotas durante a otimização para atingir a máxima eficiência.<br><br>Ajustes em Tempo Real: Mantenha-se no caminho certo com atualizações em tempo real da sua rota com base em atrasos ou alterações nos períodos de entrega.<br><br>Colaboração em Equipe: Atribua rotas aos motoristas, acompanhe o progresso em tempo real e gerencie a carga de trabalho da sua equipe perfeitamente pelo aplicativo.<br><br>Ferramentas Específicas para Entrega: Adicione instruções especiais e informações do destinatário para garantir que cada entrega seja tranquila e sem complicações.<br><br>Navegação GPS: Com um toque, navegue até a sua próxima parada usando seu aplicativo de mapas favorito, seja Google Maps, Apple Maps, Waze ou outros.<br><br>Gerenciamento de Tempo Confiável: Obtenha estimativas precisas de horários de chegada para cada parada da sua rota. Se ocorrerem atrasos, o Routin Team atualiza automaticamente os horários de chegada, se desejar.<br><br>Perfeito para empresas que dependem de precisão: de serviços de entrega de encomendas a técnicos de campo, o Routin Team garante que suas operações funcionem sem problemas, mantendo seus clientes satisfeitos e sua equipe tranquila.<br><br>Torne cada dia mais produtivo com o Routin Team: Baixe agora para experimentar um planejamento de rotas mais inteligente e uma coordenação de equipe perfeita.<br><br>O aplicativo pode ser amplamente utilizado nos seguintes setores e funções:<br><br>Serviços de carga: Entrega ou coleta de encomendas<br>Serviços de saúde: Consultas a pacientes ou consultas de atendimento<br>Serviços de assistência: Prefeituras ou associações que entregam encomendas ou refeições<br>Serviços de vendas/marketing: Visitas a clientes, distribuição de produtos<br>Transporte de pessoal/estudantes: Planejamento de rotas de transporte<br>Turismo: Planejamento de serviços turísticos, criação de rotas de viagem<br>Planejamento de rotas da cadeia de suprimentos<br>Entrega de alimentos: Entrega de alimentos por motoboy<br>Serviços de instalação, manutenção e reparo no local: Serviços de reparo, manutenção e instalação de ar-condicionado, eletrodomésticos e equipamentos eletrônicos<br>Leite diário, frutas e vegetais frescos, venda e entrega de garrafões de água<br>Serviços de lavagem a seco, lavagem de carpetes e assentos<br>Serviços de entrega privada<br>Otimização de rotas para leitura de medidores de eletricidade, água e gás natural<br>Otimização de rotas de coleta de lixo<br>Planejamento de reuniões em diversos locais",
+      "summary": "Aplicativo de planejamento de rotas e rastreamento em tempo real para empresas",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1818,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "tr.com.routin.team",
+      "url": "https://play.google.com/store/apps/details?id=tr.com.routin.team&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "SOS Borderline Habilidades TCD",
+      "description": "SOS Borderline é seu kit de emergência pessoal para momentos difíceis. Desenvolvido para pessoas com Transtorno de Personalidade Borderline (TPB) e instabilidade emocional – mas útil para qualquer pessoa lidando com emoções fortes, estresse ou tensão.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🆘 AJUDA IMEDIATA\n\n📋 Plano de Crise (Sistema de Semáforo)\nCrie seu plano de segurança pessoal:\n• Verde: O que te estabiliza no dia a dia?\n• Amarelo: O que ajuda quando a tensão sobe?\n• Vermelho: Estratégias de emergência, contatos e habilidades\n➜ Salvar ou compartilhar como PDF\n\n🧠 70+ Habilidades DBT / TCD\nEstratégias comprovadas da Terapia Comportamental Dialética (DBT):\n• Habilidades de mindfulness\n• Tolerância ao mal-estar\n• Regulação emocional\n• Adicione suas próprias atividades\n• Habilidade do Dia\n\n🧳 Kit de Emergência Físico (Lista)\nMonte sua caixa de habilidades real para casa ou para levar:\n• Lista interativa (Sensorial, Calmante, Atividade e Mente)\n• Marque os itens que você já tem à mão\n• Adicione seus próprios itens pessoais\n\n📞 Contatos de Emergência\n• Suas pessoas importantes a um clique\n• Chamada, SMS ou WhatsApp\n• Botão SOS com ajuda imediata (Respiração 4-7-8)\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 DIÁRIO DE HUMOR E CONQUISTAS\n\nEntenda melhor seus padrões:\n• Registre tensão, humor e energia diariamente\n• Documente gatilhos e pensamentos\n• Insights semanais: O que te ajuda mais?\n• Identifique qual habilidade funciona para qual gatilho\n\n🏆 Painel de Conquistas e Marcos\n• Sequência de check-ins: Mantenha sua rotina sem pressão\n• Descubra seus Anti-Gatilhos: O que te faz bem?\n• Celebre seus marcos e crises superadas\n\n☀️ Check-In Diário\n• Qualidade do sono\n• Controle de medicação\n• Bem-estar físico\n\n📄 Exportar PDF\nExporte seu diário em um PDF claro:\n• Para sua própria reflexão\n• Para compartilhar com pessoas de confiança\n• Para conversas com conselheiros ou terapeutas\n\n━━━━━━━━━━━━━━━━━━━━\n\n🔒 100% PRIVADO\n\nEste app respeita sua privacidade:\n• Local-First: Todos os dados ficam no SEU dispositivo\n• Sem nuvem, sem servidores\n• 100% utilizável offline\n• Sem conta, sem cadastro\n• Sem anúncios, sem rastreamento\n• Respeita a privacidade. Seus dados pertencem a você.\n\n━━━━━━━━━━━━━━━━━━━━\n\n👥 PARA QUEM É ESTE APP?\n\n• Pessoas com Transtorno Borderline (TPB)\n• Pessoas com instabilidade emocional\n• Familiares que querem entender e apoiar\n• Pacientes de DBT (acompanhamento terapêutico)\n• Autoajuda para estresse e tensão\n\n━━━━━━━━━━━━━━━━━━━━\n\n⚠️ AVISO\nSOS Borderline é uma ferramenta de apoio diário. O app não substitui tratamento médico ou psicoterapéutico profissional. Em caso de crises agudas, procure ajuda profissional imediatamente.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎁 Comece agora com 14 dias de Premium grátis!",
+      "descriptionHTML": "SOS Borderline é seu kit de emergência pessoal para momentos difíceis. Desenvolvido para pessoas com Transtorno de Personalidade Borderline (TPB) e instabilidade emocional – mas útil para qualquer pessoa lidando com emoções fortes, estresse ou tensão.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🆘 AJUDA IMEDIATA<br><br>📋 Plano de Crise (Sistema de Semáforo)<br>Crie seu plano de segurança pessoal:<br>• Verde: O que te estabiliza no dia a dia?<br>• Amarelo: O que ajuda quando a tensão sobe?<br>• Vermelho: Estratégias de emergência, contatos e habilidades<br>➜ Salvar ou compartilhar como PDF<br><br>🧠 70+ Habilidades DBT / TCD<br>Estratégias comprovadas da Terapia Comportamental Dialética (DBT):<br>• Habilidades de mindfulness<br>• Tolerância ao mal-estar<br>• Regulação emocional<br>• Adicione suas próprias atividades<br>• Habilidade do Dia<br><br>🧳 Kit de Emergência Físico (Lista)<br>Monte sua caixa de habilidades real para casa ou para levar:<br>• Lista interativa (Sensorial, Calmante, Atividade e Mente)<br>• Marque os itens que você já tem à mão<br>• Adicione seus próprios itens pessoais<br><br>📞 Contatos de Emergência<br>• Suas pessoas importantes a um clique<br>• Chamada, SMS ou WhatsApp<br>• Botão SOS com ajuda imediata (Respiração 4-7-8)<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>📖 DIÁRIO DE HUMOR E CONQUISTAS<br><br>Entenda melhor seus padrões:<br>• Registre tensão, humor e energia diariamente<br>• Documente gatilhos e pensamentos<br>• Insights semanais: O que te ajuda mais?<br>• Identifique qual habilidade funciona para qual gatilho<br><br>🏆 Painel de Conquistas e Marcos<br>• Sequência de check-ins: Mantenha sua rotina sem pressão<br>• Descubra seus Anti-Gatilhos: O que te faz bem?<br>• Celebre seus marcos e crises superadas<br><br>☀️ Check-In Diário<br>• Qualidade do sono<br>• Controle de medicação<br>• Bem-estar físico<br><br>📄 Exportar PDF<br>Exporte seu diário em um PDF claro:<br>• Para sua própria reflexão<br>• Para compartilhar com pessoas de confiança<br>• Para conversas com conselheiros ou terapeutas<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🔒 100% PRIVADO<br><br>Este app respeita sua privacidade:<br>• Local-First: Todos os dados ficam no SEU dispositivo<br>• Sem nuvem, sem servidores<br>• 100% utilizável offline<br>• Sem conta, sem cadastro<br>• Sem anúncios, sem rastreamento<br>• Respeita a privacidade. Seus dados pertencem a você.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>👥 PARA QUEM É ESTE APP?<br><br>• Pessoas com Transtorno Borderline (TPB)<br>• Pessoas com instabilidade emocional<br>• Familiares que querem entender e apoiar<br>• Pacientes de DBT (acompanhamento terapêutico)<br>• Autoajuda para estresse e tensão<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>⚠️ AVISO<br>SOS Borderline é uma ferramenta de apoio diário. O app não substitui tratamento médico ou psicoterapéutico profissional. Em caso de crises agudas, procure ajuda profissional imediatamente.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🎁 Comece agora com 14 dias de Premium grátis!",
+      "summary": "Seu kit de emergência TPB: 70+ habilidades TCD, plano de crise e diário.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3988,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sosborderline.app",
+      "url": "https://play.google.com/store/apps/details?id=com.sosborderline.app&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Trickster - Online group game",
+      "description": "Trickster: O jogo criativo em grupo no estilo Tabu, Atividade ou Ninguém é perfeito.\nUm jogo de tabuleiro divertido com muitas perguntas embaraçosas para 3 a 99 jogadores, perfeito contra o tédio. E a melhor parte? Qualquer pessoa pode jogar remotamente de casa, tornando-o perfeito para a situação atual! Assim, vocês podem se divertir e rir juntos, mesmo à distância 😂😹\n\nTrickster: Às vezes pessoal 😌, às vezes um pouco constrangedor 😳, às vezes simplesmente maluco 😝, perguntas diferentes garantem rodadas variadas. Trickster é O jogo de salão para sua noite de jogos ou para uma rodada rápida entre eles. 🎨👨👩\nNão é necessário equipamento: basta que todos baixem o aplicativo e pronto! Seja com amigos ou em grandes grupos mistos, a diversão é garantida com este jogo!\n\n Qual amigo te conhece melhor? ❔\nQuem consegue distinguir as respostas do Trapaceiro das falsas? ❔\nComo você pode despertar sua criatividade? ❔\nQuem é o Trapaceiro?\n\nO princípio do jogo do Trapaceiro:\n\n★ Você precisa ser composto por pelo menos três pessoas para jogar o Trapaceiro.\n\n★ Todos os jogadores* verão uma frase incompleta em seus smartphones, por exemplo, \"Se eu ganhasse na loteria amanhã, a primeira coisa que eu faria seria...\".\n\n★ Os jogadores devem completá-la do ponto de vista do Trapaceiro (= mestre do jogo), de forma que se coloquem no lugar do Trapaceiro e respondam como se ele tivesse escrito a resposta. O Trapaceiro responde à pergunta da melhor forma possível.\n\n★ Assim que todos enviarem suas respostas, todas as soluções sugeridas aparecerão na tela, incluindo a do Trapaceiro, que deve ser adivinhada.\n\n ★ Agora, cada jogador digita qual das afirmações ele ou ela acha que o Trapaceiro escreveu. Depois disso, o jogo é resolvido.\n\n★ Pontos são concedidos a cada jogador que adivinhar corretamente a afirmação do Trapaceiro. Se a sugestão do próprio jogador for escolhida, pontos também são concedidos. O Trapaceiro ganha pontos por cada palpite correto.\n\nO Trapaceiro é uma experiência de jogo completamente nova e única. Ao contrário dos jogos de tabuleiro comuns, o Trapaceiro pode ser jogado a qualquer hora e em qualquer lugar. Você não precisa mais comprar uma caixa grande de jogos, mas pode jogar uma partida com seus amigos espontaneamente a qualquer momento. E como vocês podem dividir os prêmios definidos, vocês ainda economizam bastante dinheiro. Divirta-se com o Trapaceiro!",
+      "descriptionHTML": "Trickster: O jogo criativo em grupo no estilo Tabu, Atividade ou Ninguém é perfeito.<br>Um jogo de tabuleiro divertido com muitas perguntas embaraçosas para 3 a 99 jogadores, perfeito contra o tédio. E a melhor parte? Qualquer pessoa pode jogar remotamente de casa, tornando-o perfeito para a situação atual! Assim, vocês podem se divertir e rir juntos, mesmo à distância 😂😹<br><br>Trickster: Às vezes pessoal 😌, às vezes um pouco constrangedor 😳, às vezes simplesmente maluco 😝, perguntas diferentes garantem rodadas variadas. Trickster é O jogo de salão para sua noite de jogos ou para uma rodada rápida entre eles. 🎨👨👩<br>Não é necessário equipamento: basta que todos baixem o aplicativo e pronto! Seja com amigos ou em grandes grupos mistos, a diversão é garantida com este jogo!<br><br> Qual amigo te conhece melhor? ❔<br>Quem consegue distinguir as respostas do Trapaceiro das falsas? ❔<br>Como você pode despertar sua criatividade? ❔<br>Quem é o Trapaceiro?<br><br><b>O princípio do jogo do Trapaceiro:</b><br><br>★ Você precisa ser composto por pelo menos três pessoas para jogar o Trapaceiro.<br><br>★ Todos os jogadores* verão uma frase incompleta em seus smartphones, por exemplo, &quot;Se eu ganhasse na loteria amanhã, a primeira coisa que eu faria seria...&quot;.<br><br>★ Os jogadores devem completá-la do ponto de vista do Trapaceiro (= mestre do jogo), de forma que se coloquem no lugar do Trapaceiro e respondam como se ele tivesse escrito a resposta. O Trapaceiro responde à pergunta da melhor forma possível.<br><br>★ Assim que todos enviarem suas respostas, todas as soluções sugeridas aparecerão na tela, incluindo a do Trapaceiro, que deve ser adivinhada.<br><br> ★ Agora, cada jogador digita qual das afirmações ele ou ela acha que o Trapaceiro escreveu. Depois disso, o jogo é resolvido.<br><br>★ Pontos são concedidos a cada jogador que adivinhar corretamente a afirmação do Trapaceiro. Se a sugestão do próprio jogador for escolhida, pontos também são concedidos. O Trapaceiro ganha pontos por cada palpite correto.<br><br>O Trapaceiro é uma experiência de jogo completamente nova e única. Ao contrário dos jogos de tabuleiro comuns, o Trapaceiro pode ser jogado a qualquer hora e em qualquer lugar. Você não precisa mais comprar uma caixa grande de jogos, mas pode jogar uma partida com seus amigos espontaneamente a qualquer momento. E como vocês podem dividir os prêmios definidos, vocês ainda economizam bastante dinheiro. Divirta-se com o Trapaceiro!",
+      "summary": "Jogo de tabuleiro online divertido com amigos. Uma diversão garantida para uma noite de jogos.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 152503,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Cartas",
+      "genreId": "GAME_CARD",
+      "categories": [
+        {
+          "name": "Tabuleiro",
+          "id": "GAME_BOARD"
+        },
+        {
+          "name": "Festa",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "de.flyingpotato.trickster.free",
+      "url": "https://play.google.com/store/apps/details?id=de.flyingpotato.trickster.free&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Turífico",
+      "description": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.\n\nFuncionalidades Principais para Jornadas Inesquecíveis:\n\nExplore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.\n\nVasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.\n\nAudioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.\n\nAudioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.\n\nInterface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!\n\nComece Sua Aventura Hoje!\n\nBaixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!\n\nExcluir uma conta de aplicativo:\nVocê pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "descriptionHTML": "Descubra o mundo no seu próprio ritmo com o Tourific, o principal marketplace de audioguias autoguiados. Perfeito para viajantes independentes e exploradores curiosos, nosso aplicativo oferece uma forma imersiva e flexível de explorar destinos em todo o mundo. Deixe para trás os grupos turísticos lotados e os horários rígidos – com o Tourific, você está no controle da sua exploração da cidade e das suas aventuras de viagem. Aproveite algumas de nossas city tours a pé gratuitas para experimentar antes de reservar.<br><br>Funcionalidades Principais para Jornadas Inesquecíveis:<br><br>Explore Cidades no Seu Próprio Ritmo: Desfrute da liberdade dos passeios a pé autoguiados e audioguias a qualquer hora, em qualquer lugar. Chega de pressa ou itinerários fixos! Crie a sua experiência de city tour personalizada. Disponível em inglês, francês, holandês, alemão, italiano, espanhol, polonês, russo e português.<br><br>Vasta Biblioteca de guias de cidade: Explore cidades incríveis em todo o mundo, desde locais europeus populares como Paris, Londres, Berlim, Munique, Reiquiavique e Colónia, até joias como Assis, Bath, Colmar, Corfu, Toruń, Leiden, Petra, Reims, Windsor e Verona. A nossa diversificada coleção consiste em passeios pela Catedral de Reims, Catedral de Aachen, Catedral de Colónia, Catedral de Durham e Catedral de Winchester. A aplicação tem passeios temáticos de Harry Potter em Edimburgo e Londres, Game of Thrones em Dubrovnik e Girona, passeios fantasmas em York e passeios de Fórmula 1 no Mónaco. Mergulhe na história local, descubra tesouros escondidos e ouça histórias cativantes sobre monumentos e atrações famosas. Oferecemos passeios para todos os interesses, desde passeios históricos a pé a exploração urbana e experiências culturais.<br><br>Audioguias de Alta Fidelidade: Mergulhe em narrações de áudio cristalinas, gravadas profissionalmente. Nossos comentários envolventes tornam cada passeio informativo e divertido. Nossos passeios são perfeitos para tours virtuais para desfrutar no conforto de sua casa.<br><br>Audioguias e Mapas Offline: Explore mesmo sem internet! Baixe passeios e mapas interativos para uso offline. Perfeito para locais remotos ou para economizar dados, garantindo sempre uma exploração autoguiada perfeita.<br><br>Interface de Aplicação Intuitiva e Navegação GPS: Navegue e selecione facilmente passeios por destino ou interesse. Nossa interface de usuário intuitiva apresenta mapas interativos com GPS, fornecendo direções claras e navegação sem stress ao longo do seu percurso de passeio escolhido. Nunca se perca e maximize o seu tempo de descoberta da cidade!<br><br>Comece Sua Aventura Hoje!<br><br>Baixe o Tourific agora e transforme as suas viagens com enriquecedoras experiências de áudio autoguiadas. Explore os melhores destinos, descubra segredos locais e crie memórias de viagem inesquecíveis – tudo no seu próprio ritmo. O seu companheiro de viagem perfeito espera por você!<br><br>Excluir uma conta de aplicativo:<br>Você pode enviar uma solicitação para excluir sua conta e os dados associados para este aplicativo: https://www.tourific.org/data-access",
+      "summary": "Tours de áudio autoguiados e guias da cidade para cidades, catedrais e museus",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15386,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tourific",
+      "url": "https://play.google.com/store/apps/details?id=com.tourific&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "General Tolerances",
+      "description": "Graças a esta aplicação, as tolerâncias de cálculo torna-se criança jogar!\n\nISO-2768:\n- Dimensão Angular\n- Raio et Chanfro\n- Dimensão Linear\n- Tolerância geométrica\n\nNF A 66-001:\n- Produtos de fundição",
+      "descriptionHTML": "Graças a esta aplicação, as tolerâncias de cálculo torna-se criança jogar!<br><br>ISO-2768:<br>- Dimensão Angular<br>- Raio et Chanfro<br>- Dimensão Linear<br>- Tolerância geométrica<br><br>NF A 66-001:<br>- Produtos de fundição",
+      "summary": "Easliy calcular as tolerâncias da ISO-2768 e NF A 66-001 normas",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 25088,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "xyz.juliensbeer.jcordeau.tolerancesgenerales",
+      "url": "https://play.google.com/store/apps/details?id=xyz.juliensbeer.jcordeau.tolerancesgenerales&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

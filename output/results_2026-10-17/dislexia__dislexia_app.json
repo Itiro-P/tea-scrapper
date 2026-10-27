@@ -1,0 +1,572 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:28:05.112Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISLEXIA",
+    "term": "dislexia app",
+    "key": "dislexia app",
+    "depth": 1,
+    "parent": "dislexia",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Dystherapy: Dyslexia Training",
+      "description": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?\n\nAprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)\n\nO aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.\n\nConveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.\n\nAbordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.\n\nConteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.\n\nInterativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.\n\nAcompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.\n\nConstrução da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.\n\nAcessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.\n\nConsistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.\n\nCaminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.\n\nAprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "descriptionHTML": "Quais são os principais benefícios de usar aplicativos ou ferramentas para o tratamento da dislexia?<br><br>Aprendizagem Personalizada: Tratamento da Dislexia (Educação Especial)<br><br>O aplicativo foi projetado para se adaptar ao progresso do usuário, oferecendo exercícios e ritmos personalizados com base nos pontos fortes e fracos de cada um. Diferentes níveis de jogo, temas e jornadas de jogo facilitarão a escolha do jogo certo para a sua idade. A forma de jogar com nosso aplicativo também é uma forma de tratamento para dislexia. O aplicativo também ajuda a melhorar a consciência fonêmica.<br><br>Conveniência e Flexibilidade: Um aplicativo de treinamento em Disterapia foi desenvolvido para crianças ou adolescentes entre 6 e 13 anos com necessidades educacionais especiais. Pode ser usado em qualquer lugar e a qualquer hora, permitindo que os usuários pratiquem e aprimorem suas habilidades de leitura e escrita em seu próprio ritmo. Essa flexibilidade pode tornar o aprendizado menos estressante.<br><br>Abordagem Multissensorial: Muitos de nossos jogos incorporam técnicas multissensoriais, envolvendo estilos de aprendizagem visual, auditiva e cinestésica. Isso pode melhorar a compreensão e a retenção, tornando o aprendizado mais eficaz para indivíduos disléxicos com dificuldades de leitura e aprendizagem. Este aplicativo é um auxílio à leitura para crianças.<br><br>Conteúdo Seguro e Projetado por Especialistas: Nosso programa possui jogos e atividades cerebrais educacionais, criados por psicólogos e educadores renomados, utilizando métodos científicos, e é por isso que o conteúdo é totalmente seguro.<br><br>Interativo e Envolvente: A natureza interativa do nosso aplicativo torna o aprendizado mais agradável. Elementos gamificados ou exercícios divertidos podem aumentar a motivação e reduzir a frustração, especialmente para usuários mais jovens. Nosso aplicativo de treinamento é bem projetado para crianças com dislexia, incluindo testes.<br><br>Acompanhamento do Progresso: Um aplicativo de Disterapia possui ferramentas integradas que permitem aos usuários (e cuidadores ou educadores) acompanhar o progresso ao longo do tempo. Isso pode ajudar a identificar áreas nas quais o usuário pode precisar de mais foco e aprimoramento. Nosso painel também possibilita o acompanhamento do desenvolvimento das crianças para os pais.<br><br>Construção da Confiança: Ao proporcionar um ambiente seguro e descomplicado, os aplicativos de treinamento para dislexia podem ajudar os usuários a desenvolver sua confiança à medida que observam sua melhora ao longo do tempo. Dificuldades de aprendizagem são difíceis de treinar com técnicas comuns. A dislexia infantil afeta crianças desde cedo. Os jogos em aplicativos tornam isso mais emocionante para elas.<br><br>Acessibilidade: Alguns aplicativos oferecem versões gratuitas ou assinaturas de baixo custo, tornando-os mais acessíveis do que aulas particulares tradicionais ou programas especializados. Nosso aplicativo está em um ponto acessível. No entanto, embora seja uma questão de educação e de desenvolvimento do seu filho, o baixo custo não deve ser o principal motivo para a escolha.<br><br>Consistência: O uso regular desses aplicativos incentiva a prática diária, o que é fundamental para superar os desafios associados à dislexia. A consistência na prática pode levar a melhorias perceptíveis ao longo do tempo.<br><br>Caminhos de Aprendizagem Personalizados: Adapte sua jornada de aprendizagem com avaliações personalizadas e níveis de dificuldade ajustáveis ​​com base no seu progresso. Esses aplicativos são uma nova forma de programa e educação para dislexia.<br><br>Aprimorando o Desenvolvimento Cognitivo Infantil: Um aplicativo de treinamento para o desenvolvimento cognitivo pode efetivamente aprimorar a memória, a atenção, a resolução de problemas e o pensamento crítico, oferecendo exercícios envolventes e personalizados. Nosso aplicativo ajuda você a melhorar o desenvolvimento cognitivo por meio de jogos e do domínio de uma determinada jornada de aprendizagem. O aplicativo também pode incluir recomendações personalizadas com base no desempenho, orientando os usuários em relação às áreas nas quais precisam se concentrar para um maior aprimoramento cognitivo, tornando a experiência de aprendizagem direcionada e gratificante. A dislexia é um distúrbio de leitura, escrita e aprendizagem, mas nosso aplicativo é capaz de tratar as dificuldades de aprendizagem do seu filho com alta taxa de sucesso.",
+      "summary": "Libere o poder da leitura com o Dystherapy, um envolvente aplicativo de treinamento para dislexia!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 22836,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.arda.dystherapy",
+      "url": "https://play.google.com/store/apps/details?id=com.arda.dystherapy&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "ReadFocus+: Dislexia/TDAH",
+      "description": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.\n\n─── COMO FUNCIONA ───\nConceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.\n\n─── DOIS MODOS DE FOCO ───\n• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual\n• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura\n\n─── TOTALMENTE AJUSTÁVEL ───\n• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte\n• Opacidade (10%–100%) – de um tom suave a uma cor intensa\n\n─── 10 TEMAS DE CORES ───\n• Brilho âmbar · Azul oceano · Amarelo clássico — grátis\n• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro\n\n─── RECURSOS PRO ───\n✓ Experiência sem anúncios\n✓ Todos os 7 temas premium desbloqueados\n✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)\n✓ Configurações completas da barra de foco\n✓ Manter tela acesa durante a leitura\n\n─── ONDE QUER QUE VOCÊ LEIA ───\n• Ebooks, PDFs, artigos acadêmicos\n• Artigos da web, blogs, apps de notícias\n• Anotações, livros didáticos, material de prova\n• Quadrinhos, mangá, webtoon, light novels\n• E-mails longos e históricos de conversa\n\n─── PERFEITO PARA ───\n• Estudantes, concurseiros e leitores frequentes\n• Pessoas com dislexia ou dificuldades de rastreamento visual\n• TDAH / déficit de atenção – menos distrações na leitura\n• Quem perde a linha ou relê o mesmo trecho\n• Qualquer um com vista cansada lendo no celular\n\n─── Também no Windows ───\nO mesmo apoio à leitura no PC — na Microsoft Store",
+      "descriptionHTML": "ReadFocus+ é uma régua de leitura, máscara de leitura e auxílio à leitura para dislexia e TDAH no Android. Realce de linha (reading ruler) e máscara de leitura se sobrepõem a qualquer app — leitores de ebook, navegadores, PDF, notícias, quadrinhos, anotações — para manter o olhar na linha certa, reduzir o cansaço visual e ler com foco profundo.<br><br>─── COMO FUNCIONA ───<br>Conceda a permissão de sobreposição uma vez. Uma barra de foco semitransparente aparece na tela. Posicione-a na linha em que está lendo — seus olhos vão ficar ali, sem pular linhas nem reler a mesma.<br><br>─── DOIS MODOS DE FOCO ───<br>• Realce de linha (Régua de leitura / Reading Ruler) — Ilumina sua linha atual<br>• Máscara de leitura (Reading Mask) — Escurece tudo exceto sua zona de leitura<br><br>─── TOTALMENTE AJUSTÁVEL ───<br>• Altura da barra (50dp–300dp) – para qualquer tamanho de fonte<br>• Opacidade (10%–100%) – de um tom suave a uma cor intensa<br><br>─── 10 TEMAS DE CORES ───<br>• Brilho âmbar · Azul oceano · Amarelo clássico — grátis<br>• Verde floresta · Rosa pôr do sol · Sonho lavanda · Menta fresca · Lima brilhante · Coral suave · Azul céu — Pro<br><br>─── RECURSOS PRO ───<br>✓ Experiência sem anúncios<br>✓ Todos os 7 temas premium desbloqueados<br>✓ Tempo de overlay ilimitado (grátis: 60 min/sessão)<br>✓ Configurações completas da barra de foco<br>✓ Manter tela acesa durante a leitura<br><br>─── ONDE QUER QUE VOCÊ LEIA ───<br>• Ebooks, PDFs, artigos acadêmicos<br>• Artigos da web, blogs, apps de notícias<br>• Anotações, livros didáticos, material de prova<br>• Quadrinhos, mangá, webtoon, light novels<br>• E-mails longos e históricos de conversa<br><br>─── PERFEITO PARA ───<br>• Estudantes, concurseiros e leitores frequentes<br>• Pessoas com dislexia ou dificuldades de rastreamento visual<br>• TDAH / déficit de atenção – menos distrações na leitura<br>• Quem perde a linha ou relê o mesmo trecho<br>• Qualquer um com vista cansada lendo no celular<br><br>─── Também no Windows ───<br>O mesmo apoio à leitura no PC — na Microsoft Store",
+      "summary": "Auxílio de leitura para dislexia e TDAH: realce a linha + máscara de leitura.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1335,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.codedac.readfocus",
+      "url": "https://play.google.com/store/apps/details?id=com.codedac.readfocus&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.\n\nA dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente \"aprimoram\" seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.\n\nAs pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.\n\nFERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.<br><br>A dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente &quot;aprimoram&quot; seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.<br><br>As pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.<br><br>FERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Dislexia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24936,
+      "score": 3.1666667,
+      "scoreText": "3,2",
+      "ratings": 68,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyslexia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "MYdys - aid for dyslexia",
+      "description": "O MYdys da FACIL’iti ajuda pessoas com dificuldades de leitura a se tornarem mais autônomas: crianças, adolescentes, adultos e idosos.\nProjetado para oferecer suporte a usuários disléxicos, bem como a pessoas com desafios relacionados a TEA, deficiência visual, analfabetismo ou falantes não nativos, o MYdys oferece adaptações totalmente personalizadas, sem qualquer estigma.\n\nBasta tirar uma foto ou importar um PDF ou imagem. O MYdys detecta automaticamente o texto e o adapta às suas necessidades, graças a recursos como:\n- escolha da fonte,\n- ampliação de caracteres,\n- espaçamento entre palavras e linhas,\n- destaque de letras ou grupos de letras que possam causar confusão,\n- conversão automática de texto em fala,\n- tradução disponível em mais de 70 idiomas (inglês, espanhol, alemão, italiano, japonês, etc.).\n\nCom uma experiência de usuário simples e fluida, o MYdys auxilia você na aprendizagem, no trabalho ou na vida cotidiana.\n\nBaixe o MYdys agora e experimente a versão gratuita.",
+      "descriptionHTML": "O MYdys da FACIL’iti ajuda pessoas com dificuldades de leitura a se tornarem mais autônomas: crianças, adolescentes, adultos e idosos.<br>Projetado para oferecer suporte a usuários disléxicos, bem como a pessoas com desafios relacionados a TEA, deficiência visual, analfabetismo ou falantes não nativos, o MYdys oferece adaptações totalmente personalizadas, sem qualquer estigma.<br><br>Basta tirar uma foto ou importar um PDF ou imagem. O MYdys detecta automaticamente o texto e o adapta às suas necessidades, graças a recursos como:<br>- escolha da fonte,<br>- ampliação de caracteres,<br>- espaçamento entre palavras e linhas,<br>- destaque de letras ou grupos de letras que possam causar confusão,<br>- conversão automática de texto em fala,<br>- tradução disponível em mais de 70 idiomas (inglês, espanhol, alemão, italiano, japonês, etc.).<br><br>Com uma experiência de usuário simples e fluida, o MYdys auxilia você na aprendizagem, no trabalho ou na vida cotidiana.<br><br>Baixe o MYdys agora e experimente a versão gratuita.",
+      "summary": "Captura, lê e traduz texto com um clique para uma leitura simples e personalizada.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 54854,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Personalização",
+      "genreId": "PERSONALIZATION",
+      "categories": [
+        {
+          "name": "Personalização",
+          "id": "PERSONALIZATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.faciliti.appdys",
+      "url": "https://play.google.com/store/apps/details?id=com.faciliti.appdys&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "GALEXIA Mejora Fluidez Lectora",
+      "description": "Galexia é o aplicativo de tratamento de dislexia líder. Totalmente gratuito do início ao fim para um determinado usuário. Sem assinaturas ou pagamentos adicionais.\n\nTambém incorpora um modo para profissionais monitorarem o progresso de alunos e pacientes na melhora da fluência de leitura e dificuldades de fala. Como profissional, personalize os parâmetros de treinamento para cada usuário, grave as sessões e atividades e prepare as sessões seguintes com os recursos de estímulo para trabalhar.\n\nPara pessoas de todas as idades: crianças e adultos, Galexia é uma aplicação que suporta um programa de intervenção, baseado em evidências e validado cientificamente.\n\nO aplicativo foi aprovado em várias escolas por professores e especialistas em dislexia, fonoaudiologia e educação. Nosso aplicativo já apresentou milhares de histórias de sucesso, estimulando ainda mais o interesse pela leitura e pelas histórias infantis.\n\nO usuário se juntará a um colega alienígena que embarca em uma divertida e emocionante jornada intergaláctica da Terra ao seu planeta natal, Leximundo. A bordo da nave viajarás pela galáxia durante 24 sessões de jogo, nas quais realizarás várias atividades e mini-jogos que irão potenciar a aprendizagem e melhorar a fluência de leitura, num contexto muito divertido e divertido, superando todos os obstáculos que te são apresentados. encontrados ao longo do caminho: envolvendo OVNIs inimigos, resolvendo quebra-cabeças e quebra-cabeças, explorando planetas desconhecidos e muito mais.\n\nRecomendamos fortemente a leitura do manual do usuário incluído no aplicativo antes de começar.\n\nAplicativo disponível apenas para o espanhol e seu vocabulário.",
+      "descriptionHTML": "Galexia é o aplicativo de tratamento de dislexia líder. Totalmente gratuito do início ao fim para um determinado usuário. Sem assinaturas ou pagamentos adicionais.<br><br>Também incorpora um modo para profissionais monitorarem o progresso de alunos e pacientes na melhora da fluência de leitura e dificuldades de fala. Como profissional, personalize os parâmetros de treinamento para cada usuário, grave as sessões e atividades e prepare as sessões seguintes com os recursos de estímulo para trabalhar.<br><br>Para pessoas de todas as idades: crianças e adultos, Galexia é uma aplicação que suporta um programa de intervenção, baseado em evidências e validado cientificamente.<br><br>O aplicativo foi aprovado em várias escolas por professores e especialistas em dislexia, fonoaudiologia e educação. Nosso aplicativo já apresentou milhares de histórias de sucesso, estimulando ainda mais o interesse pela leitura e pelas histórias infantis.<br><br>O usuário se juntará a um colega alienígena que embarca em uma divertida e emocionante jornada intergaláctica da Terra ao seu planeta natal, Leximundo. A bordo da nave viajarás pela galáxia durante 24 sessões de jogo, nas quais realizarás várias atividades e mini-jogos que irão potenciar a aprendizagem e melhorar a fluência de leitura, num contexto muito divertido e divertido, superando todos os obstáculos que te são apresentados. encontrados ao longo do caminho: envolvendo OVNIs inimigos, resolvendo quebra-cabeças e quebra-cabeças, explorando planetas desconhecidos e muito mais.<br><br>Recomendamos fortemente a leitura do manual do usuário incluído no aplicativo antes de começar.<br><br>Aplicativo disponível apenas para o espanhol e seu vocabulário.",
+      "summary": "A dislexia em crianças e adultos e tem uma solução. aplicativo gratuito e educacional.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 168738,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.PambuDev.galexia",
+      "url": "https://play.google.com/store/apps/details?id=com.PambuDev.galexia&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Aprender a Ler: Domlexia",
+      "description": "Leiturinha com fonética: seu filho aprende a ler, mesmo com dislexia\n\nAprender a ler não é decorar o alfabeto: é descobrir que cada letra tem um som. O Domlexia é a leiturinha que alfabetiza brincando, dos 6 aos 8 anos, com ou sem dislexia.\n\nDomlexia grátis, sem anúncios, sem coleta de dados.\n\nPor que a leiturinha com fonética funciona\n\n✔ Para de travar ao ler: a fonética ensina som e letra, sem decorar\n\n✔ Confiança para ler em voz alta: errar faz parte do jogo\n\n✔ Quer ler de novo amanhã: 5 mundos, +5 horas de leiturinha e alfabetização\n\n✔ Você para de adivinhar: o relatório premium mostra onde ele tropeça ao ler\n\n✔ Ajuda outras crianças a ler: o premium paga formações em dislexia\n\n\nDislexia: alfabetização por especialistas em dislexia\n\nO Instituto Domlexia já formou 7.000 professores em dislexia. A leiturinha do Domlexia usa fonética e método fônico na alfabetização: fonemas explícitos, repetição, resposta imediata. É o caminho indicado na dislexia e alfabetiza igualmente bem sem dislexia. Com TDAH, as sessões curtas de leiturinha ajudam. O Domlexia apoia a leitura, não diagnostica dislexia.\n\nPor que os pais confiam no Domlexia\n\n🏆 Teacher Approved do Google\n\n🏆 Nota 4,7 e +50 mil downloads\n\n🏆 3 prêmios de inovação em educação\n\n🏆 Testado na alfabetização de escolas\n\n\nPerguntas frequentes sobre a leiturinha Domlexia\n\nQue idade? Leiturinha e alfabetização para aprender a ler, dos 6 aos 8 anos.\n\nÉ grátis? Sim. Aprender a ler é grátis; o relatório de leitura é premium.\n\nSem dislexia serve? Serve. A fonética alfabetiza qualquer criança.\n\nE com TDAH? Sim, sessões curtas de alfabetização ajudam no TDAH.\n\nComo o Domlexia ensina a ler? Ele ouve o som, escolhe a letra e aprende a ler. Essa fonética cria a consciência fonológica.\n\nTem anúncios? Não, nem coleta de dados.\n\nEscolas? contato@domlexia.org.br\n\n\nBaixe a leiturinha do Domlexia hoje\n\nAprender a ler brincando: leiturinha, fonética, alfabetização e dislexia com o dragão Dom.",
+      "descriptionHTML": "<h2><b>Leiturinha com fonética: seu filho aprende a ler, mesmo com dislexia</b></h2><br><br>Aprender a ler não é decorar o alfabeto: é descobrir que cada letra tem um som. O Domlexia é a leiturinha que alfabetiza brincando, dos 6 aos 8 anos, com ou sem dislexia.<br><br>Domlexia grátis, sem anúncios, sem coleta de dados.<br><br><h2><b>Por que a leiturinha com fonética funciona</b></h2><br><br>✔ <b>Para de travar ao ler</b>: a fonética ensina som e letra, sem decorar<br><br>✔ <b>Confiança para ler em voz alta</b>: errar faz parte do jogo<br><br>✔ <b>Quer ler de novo amanhã</b>: 5 mundos, +5 horas de leiturinha e alfabetização<br><br>✔ <b>Você para de adivinhar</b>: o relatório premium mostra onde ele tropeça ao ler<br><br>✔ <b>Ajuda outras crianças a ler</b>: o premium paga formações em dislexia<br><br><br><h2><b>Dislexia: alfabetização por especialistas em dislexia</b></h2><br><br>O Instituto Domlexia já formou 7.000 professores em dislexia. A leiturinha do Domlexia usa fonética e método fônico na alfabetização: fonemas explícitos, repetição, resposta imediata. É o caminho indicado na dislexia e alfabetiza igualmente bem sem dislexia. Com TDAH, as sessões curtas de leiturinha ajudam. O Domlexia apoia a leitura, não diagnostica dislexia.<br><br><h2><b>Por que os pais confiam no Domlexia</b></h2><br><br>🏆 Teacher Approved do Google<br><br>🏆 Nota 4,7 e +50 mil downloads<br><br>🏆 3 prêmios de inovação em educação<br><br>🏆 Testado na alfabetização de escolas<br><br><br><h2><b>Perguntas frequentes sobre a leiturinha Domlexia</b></h2><br><br><b>Que idade?</b> Leiturinha e alfabetização para aprender a ler, dos 6 aos 8 anos.<br><br><b>É grátis?</b> Sim. Aprender a ler é grátis; o relatório de leitura é premium.<br><br><b>Sem dislexia serve?</b> Serve. A fonética alfabetiza qualquer criança.<br><br><b>E com TDAH?</b> Sim, sessões curtas de alfabetização ajudam no TDAH.<br><br><b>Como o Domlexia ensina a ler?</b> Ele ouve o som, escolhe a letra e aprende a ler. Essa fonética cria a consciência fonológica.<br><br><b>Tem anúncios?</b> Não, nem coleta de dados.<br><br><b>Escolas?</b> contato@domlexia.org.br<br><br><br><h2><b>Baixe a leiturinha do Domlexia hoje</b></h2><br><br>Aprender a ler brincando: leiturinha, fonética, alfabetização e dislexia com o dragão Dom.",
+      "summary": "Leiturinha com fonética: seu filho aprende a ler, com ou sem dislexia",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 53702,
+      "score": 4.6978416,
+      "scoreText": "4,7",
+      "ratings": 1428,
+      "reviews": 132,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.plotkids.domlexia",
+      "url": "https://play.google.com/store/apps/details?id=com.plotkids.domlexia&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Dyslexia Reader by MDA",
+      "description": "O Dyslexia Reader da MDA é um aplicativo de leitura que oferece histórias envolventes e suporte baseado em evidências para crianças de todas as idades. É uma ótima ferramenta para desenvolver a fluência e a leitura independente.\n\nO aplicativo pode ser um parceiro de leitura para crianças, fornecendo dicas e ajuda a cada passo do caminho. É uma maneira divertida de expandir o vocabulário enquanto descobrem o prazer da leitura.\n\nCom o Dyslexia Reader da MDA, os alunos podem ler seus livros didáticos importando PDFs ou tirando fotos dos livros. Isso promove a compreensão leitora, resultando em melhor desempenho acadêmico.\n\nExperimente o Dyslexia Reader da MDA gratuitamente por 14 dias e escolha um de nossos planos de assinatura acessíveis para continuar usando todos os seus recursos incríveis.\n\n+ Principais recursos\n- Baixe livros interessantes diretamente do aplicativo\n- Importe documentos PDF rapidamente para sua biblioteca\n- Não é necessária conexão ativa com a internet após o download\n- Compartilhe suas páginas já revisadas com outros usuários do Dyslexia Reader\n- Personalize as configurações facilmente\n- Integração perfeita com o teclado para revisão\n- Botões intuitivos para facilitar o entendimento\n- Suporte rápido por e-mail e chat\n- Análise de texto realista\n- Recurso de texto para fala de alta qualidade\n- Máscara de tela para auxiliar no foco\n- Destaque de texto sincronizado\n- Dicas disponíveis como palavras que rimam e imagens\n- Sobreposições coloridas para auxiliar leitores com Síndrome de Irlen\n- Divisão de palavras em sílabas\n- Famílias de palavras baseadas em sílabas\n- Velocidade e progresso configuráveis\n- Fluxos de usuário independentes e assistidos\n\nPor que usar o Dyslexia Reader da MDA?\n\n+ Use livros que você já possui\nUse qualquer livro adequado à idade. Você não precisa de PDFs especiais ou recursos da web e pode adicionar uma página simplesmente capturando uma imagem com texto. É possível adicionar várias páginas ao mesmo tempo.\n\n+ Baixe histórias emocionantes\nBaixe histórias para todos os níveis de leitura diretamente do aplicativo. As histórias envolventes, com imagens cativantes, motivam as crianças a ler.\n\n+ Dicas para incentivar a leitura\nQuando a criança tiver dificuldade para ler uma palavra específica, ela pode tocar no botão Dica. Isso garante que a criança não se desanime com uma palavra nova ou aparentemente difícil. Além disso, o uso de dicas também estimula a compreensão fonêmica e conceitual. Diversas dicas estão disponíveis no aplicativo:\n- Palavras e imagens que rimam\n- Dicas de famílias de palavras\n- Dicas para encontros consonantais iniciais, intermediários e finais\n\n+ Desenvolve habilidades de compreensão\nO recurso Construir ajuda a analisar as frases do texto e a focar nas unidades sintáticas menores. Isso permite que as crianças compreendam o texto com mais eficácia.\n\n+ Promove uma leitura sem estresse\nO aplicativo oferece três visualizações diferentes para o leitor.\n\n- A visualização de página mostra a página inteira\n- A visualização de frase mostra apenas uma frase por vez\n- A visualização de palavra mostra apenas uma palavra\n\n+ Promove a leitura sem distrações\n- Use o modo Texto Simples para remover as imagens de fundo e mostrar apenas o texto.\n- O botão Foco destaca uma única linha na página que contém a palavra atual a ser lida. Isso mantém o foco visual da criança na palavra destacada e ajuda a evitar a sobrecarga visual.\n\n+ Permite a leitura com os dedos\nO ícone de lápis na página de leitura ajuda a acompanhar as palavras que estão sendo lidas. Isso reduz as dificuldades de convergência e auxilia na coordenação motora. O ponteiro pode ser facilmente reposicionado tocando duas vezes na nova palavra.\n\nO Dyslexia Reader foi desenvolvido por uma equipe responsável por aplicativos de CAA premiados, em colaboração com a Madras Dyslexia Association (MDA). O aplicativo, baseado em mais de 20 anos de pesquisa realizada pela renomada MDA, emprega diversas estratégias de compreensão de leitura que permitem que as crianças leiam melhor.\n\nBaixe agora o Dyslexia Reader da MDA e ajude seu filho a melhorar a leitura, enquanto aprende a ler de forma independente.\n\nAdoraríamos receber seu feedback! Se tiver alguma dúvida ou sugestão, envie um e-mail para support@samartya.com.",
+      "descriptionHTML": "O Dyslexia Reader da MDA é um aplicativo de leitura que oferece histórias envolventes e suporte baseado em evidências para crianças de todas as idades. É uma ótima ferramenta para desenvolver a fluência e a leitura independente.<br><br>O aplicativo pode ser um parceiro de leitura para crianças, fornecendo dicas e ajuda a cada passo do caminho. É uma maneira divertida de expandir o vocabulário enquanto descobrem o prazer da leitura.<br><br>Com o Dyslexia Reader da MDA, os alunos podem ler seus livros didáticos importando PDFs ou tirando fotos dos livros. Isso promove a compreensão leitora, resultando em melhor desempenho acadêmico.<br><br>Experimente o Dyslexia Reader da MDA gratuitamente por 14 dias e escolha um de nossos planos de assinatura acessíveis para continuar usando todos os seus recursos incríveis.<br><br>+ Principais recursos<br>- Baixe livros interessantes diretamente do aplicativo<br>- Importe documentos PDF rapidamente para sua biblioteca<br>- Não é necessária conexão ativa com a internet após o download<br>- Compartilhe suas páginas já revisadas com outros usuários do Dyslexia Reader<br>- Personalize as configurações facilmente<br>- Integração perfeita com o teclado para revisão<br>- Botões intuitivos para facilitar o entendimento<br>- Suporte rápido por e-mail e chat<br>- Análise de texto realista<br>- Recurso de texto para fala de alta qualidade<br>- Máscara de tela para auxiliar no foco<br>- Destaque de texto sincronizado<br>- Dicas disponíveis como palavras que rimam e imagens<br>- Sobreposições coloridas para auxiliar leitores com Síndrome de Irlen<br>- Divisão de palavras em sílabas<br>- Famílias de palavras baseadas em sílabas<br>- Velocidade e progresso configuráveis<br>- Fluxos de usuário independentes e assistidos<br><br>Por que usar o Dyslexia Reader da MDA?<br><br>+ Use livros que você já possui<br>Use qualquer livro adequado à idade. Você não precisa de PDFs especiais ou recursos da web e pode adicionar uma página simplesmente capturando uma imagem com texto. É possível adicionar várias páginas ao mesmo tempo.<br><br>+ Baixe histórias emocionantes<br>Baixe histórias para todos os níveis de leitura diretamente do aplicativo. As histórias envolventes, com imagens cativantes, motivam as crianças a ler.<br><br>+ Dicas para incentivar a leitura<br>Quando a criança tiver dificuldade para ler uma palavra específica, ela pode tocar no botão Dica. Isso garante que a criança não se desanime com uma palavra nova ou aparentemente difícil. Além disso, o uso de dicas também estimula a compreensão fonêmica e conceitual. Diversas dicas estão disponíveis no aplicativo:<br>- Palavras e imagens que rimam<br>- Dicas de famílias de palavras<br>- Dicas para encontros consonantais iniciais, intermediários e finais<br><br>+ Desenvolve habilidades de compreensão<br>O recurso Construir ajuda a analisar as frases do texto e a focar nas unidades sintáticas menores. Isso permite que as crianças compreendam o texto com mais eficácia.<br><br>+ Promove uma leitura sem estresse<br>O aplicativo oferece três visualizações diferentes para o leitor.<br><br>- A visualização de página mostra a página inteira<br>- A visualização de frase mostra apenas uma frase por vez<br>- A visualização de palavra mostra apenas uma palavra<br><br>+ Promove a leitura sem distrações<br>- Use o modo Texto Simples para remover as imagens de fundo e mostrar apenas o texto.<br>- O botão Foco destaca uma única linha na página que contém a palavra atual a ser lida. Isso mantém o foco visual da criança na palavra destacada e ajuda a evitar a sobrecarga visual.<br><br>+ Permite a leitura com os dedos<br>O ícone de lápis na página de leitura ajuda a acompanhar as palavras que estão sendo lidas. Isso reduz as dificuldades de convergência e auxilia na coordenação motora. O ponteiro pode ser facilmente reposicionado tocando duas vezes na nova palavra.<br><br>O Dyslexia Reader foi desenvolvido por uma equipe responsável por aplicativos de CAA premiados, em colaboração com a Madras Dyslexia Association (MDA). O aplicativo, baseado em mais de 20 anos de pesquisa realizada pela renomada MDA, emprega diversas estratégias de compreensão de leitura que permitem que as crianças leiam melhor.<br><br>Baixe agora o Dyslexia Reader da MDA e ajude seu filho a melhorar a leitura, enquanto aprende a ler de forma independente.<br><br>Adoraríamos receber seu feedback! Se tiver alguma dúvida ou sugestão, envie um e-mail para support@samartya.com.",
+      "summary": "De um leitor esforçado a um leitor independente!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 16942,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.avaz.readerapp",
+      "url": "https://play.google.com/store/apps/details?id=com.avaz.readerapp&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "DyslexyPlay - Lire & Jouer",
+      "description": "Dyslexy Play, o companheiro de leitura que se adapta a cada criança.\n\nDyslexy Play é um jogo educativo desenvolvido para ajudar crianças a aprender a ler em francês — especialmente crianças com dislexia — por meio de 18 minijogos variados, quatro mundos para explorar e um grupo de gatos para guiar.\n\nProjetado para dislexia, não apenas \"adaptado\"\n\n- Fonte OpenDyslexic em todo o jogo para uma leitura mais confortável.\n\n- Repetição espaçada: cada palavra aparece no momento certo para uma memorização duradoura.\n\n- Progressão suave e gradual, sem um cronômetro punitivo ou pressão desnecessária.\n\n- Cada minijogo começa com uma explicação simples, lida em voz alta por um mascote.\n\nQuatro mundos, uma jornada que cresce com a criança\nSelva, Aventura, Cidade e Oceano: cada mundo oferece seu próprio universo visual e vocabulário (animais, comida, casa, corpo, escola, roupas, natureza, etc.).\n\n18 maneiras diferentes de aprender palavras\nConstrução de palavras sílaba por sílaba, exercícios de memória, correspondência de palavras e imagens, corridas, batalhas contra chefões e muito mais — para que a leitura continue divertida e nunca se torne uma obrigação.\n\n- Sem anúncios, sem compras no aplicativo, sem coleta de dados.\n\n100% offline\nO Dyslexy Play funciona sem conexão com a internet e não se comunica com nenhum servidor: tudo permanece no dispositivo da criança.",
+      "descriptionHTML": "Dyslexy Play, o companheiro de leitura que se adapta a cada criança.<br><br>Dyslexy Play é um jogo educativo desenvolvido para ajudar crianças a aprender a ler em francês — especialmente crianças com dislexia — por meio de 18 minijogos variados, quatro mundos para explorar e um grupo de gatos para guiar.<br><br>Projetado para dislexia, não apenas &quot;adaptado&quot;<br><br>- Fonte OpenDyslexic em todo o jogo para uma leitura mais confortável.<br><br>- Repetição espaçada: cada palavra aparece no momento certo para uma memorização duradoura.<br><br>- Progressão suave e gradual, sem um cronômetro punitivo ou pressão desnecessária.<br><br>- Cada minijogo começa com uma explicação simples, lida em voz alta por um mascote.<br><br>Quatro mundos, uma jornada que cresce com a criança<br>Selva, Aventura, Cidade e Oceano: cada mundo oferece seu próprio universo visual e vocabulário (animais, comida, casa, corpo, escola, roupas, natureza, etc.).<br><br>18 maneiras diferentes de aprender palavras<br>Construção de palavras sílaba por sílaba, exercícios de memória, correspondência de palavras e imagens, corridas, batalhas contra chefões e muito mais — para que a leitura continue divertida e nunca se torne uma obrigação.<br><br>- Sem anúncios, sem compras no aplicativo, sem coleta de dados.<br><br>100% offline<br>O Dyslexy Play funciona sem conexão com a internet e não se comunica com nenhum servidor: tudo permanece no dispositivo da criança.",
+      "summary": "Aprenda a ler enquanto se diverte: 18 minijogos criados para disléxicos.",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 40,
+      "price": 10.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 10,99",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.elizkatech.dyslexyplay",
+      "url": "https://play.google.com/store/apps/details?id=com.elizkatech.dyslexyplay&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Dictio: Dicção e Oratória",
+      "description": "Quer falar com confiança e ter uma voz impactante? O Dictio é o seu treinador pessoal de dicção, articulação e oratória, baseado em um método prático de cartões de treinamento (flashcards).\n\nNosso aplicativo foi desenvolvido para quem valoriza a prática direta. Sem enrolação: apenas exercícios de fala comprovados que ajudam a eliminar a dicção \"presa\" e ensinam você a falar com clareza e autoridade.\n\nO que você encontra no Dictio? O app utiliza um sistema inteligente de cartões, divididos por categorias e tipos de desafios:\n\nCombinações Complexas: A base para aquecer seu aparelho fonador. Treine as junções de sons mais difíceis para que sua língua não trave mais.\n\nPalavras Difíceis: Uma seleção curada de palavras que costumam causar tropeços. Melhore sua articulação com exemplos práticos e reais.\n\nTrava-línguas: Uma biblioteca enorme — desde frases simples até textos profissionais para locutores, atores e palestrantes.\n\nTrês Níveis de Dificuldade: Evolua no seu ritmo, aumentando o desafio gradualmente:\n\nIniciante: Para aquecimento básico e uma pronúncia limpa.\n\nIntermediário: Para quem busca segurança no trabalho e em reuniões.\n\nAvançado: O nível máximo para quem quer dominar a comunicação como um profissional.\n\nPara quem é o Dictio?\n\nBlogueiros e Especialistas: Para gravar vídeos e stories com fluidez, sem erros ou vícios de linguagem.\n\nLíderes e Empreendedores: Para apresentações claras e negociações de sucesso.\n\nEstudantes: Para falar com segurança em exames, defesas de teses e seminários.\n\nVoz e Fala: Ideal para quem busca exercícios de fonoaudiologia para melhorar a performance vocal.\n\nA fala bonita é uma habilidade que qualquer pessoa pode desenvolver. Comece a treinar com o Dictio hoje e sinta a diferença na sua confiança ao dizer cada palavra!\n\nBaixe agora e transforme a sua comunicação!",
+      "descriptionHTML": "Quer falar com confiança e ter uma voz impactante? O Dictio é o seu treinador pessoal de dicção, articulação e oratória, baseado em um método prático de cartões de treinamento (flashcards).<br><br>Nosso aplicativo foi desenvolvido para quem valoriza a prática direta. Sem enrolação: apenas exercícios de fala comprovados que ajudam a eliminar a dicção &quot;presa&quot; e ensinam você a falar com clareza e autoridade.<br><br>O que você encontra no Dictio? O app utiliza um sistema inteligente de cartões, divididos por categorias e tipos de desafios:<br><br>Combinações Complexas: A base para aquecer seu aparelho fonador. Treine as junções de sons mais difíceis para que sua língua não trave mais.<br><br>Palavras Difíceis: Uma seleção curada de palavras que costumam causar tropeços. Melhore sua articulação com exemplos práticos e reais.<br><br>Trava-línguas: Uma biblioteca enorme — desde frases simples até textos profissionais para locutores, atores e palestrantes.<br><br>Três Níveis de Dificuldade: Evolua no seu ritmo, aumentando o desafio gradualmente:<br><br>Iniciante: Para aquecimento básico e uma pronúncia limpa.<br><br>Intermediário: Para quem busca segurança no trabalho e em reuniões.<br><br>Avançado: O nível máximo para quem quer dominar a comunicação como um profissional.<br><br>Para quem é o Dictio?<br><br>Blogueiros e Especialistas: Para gravar vídeos e stories com fluidez, sem erros ou vícios de linguagem.<br><br>Líderes e Empreendedores: Para apresentações claras e negociações de sucesso.<br><br>Estudantes: Para falar com segurança em exames, defesas de teses e seminários.<br><br>Voz e Fala: Ideal para quem busca exercícios de fonoaudiologia para melhorar a performance vocal.<br><br>A fala bonita é uma habilidade que qualquer pessoa pode desenvolver. Comece a treinar com o Dictio hoje e sinta a diferença na sua confiança ao dizer cada palavra!<br><br>Baixe agora e transforme a sua comunicação!",
+      "summary": "Melhore sua dicção e voz. Exercícios de oratória e trava-línguas",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 48158,
+      "score": 4.214286,
+      "scoreText": "4,2",
+      "ratings": 93,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.merkulofff.dictio",
+      "url": "https://play.google.com/store/apps/details?id=com.merkulofff.dictio&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Fluency: Dyslexia Reading App",
+      "description": "1 em cada 10 pessoas tem dislexia.\n\nLer não precisa ser uma luta diária.\n\nFluency é um aplicativo de leitura para disléxicos desenvolvido para tornar o texto mais claro, fácil e acessível. Criado para pessoas com dislexia, TDAH e outras dificuldades de aprendizagem, o Fluency transforma a maneira como você lê documentos, livros e páginas impressas.\n\nTotalmente gratuito. Sem assinatura. Sem anúncios.\n\nNenhum dado coletado. Tudo fica no seu dispositivo.\n\nProjetado para Dislexia\n\nFonte Amigável para Disléxicos\nConverta o texto em um formato otimizado para leitores disléxicos usando fontes especialmente desenvolvidas para dislexia.\n\nLeitor de Texto OCR\nUse sua câmera para digitalizar páginas impressas ou carregue imagens da sua galeria. O Fluency as converte instantaneamente em texto digital legível.\n\nSuporte a Texto para Fala\nOuça enquanto lê. Útil para leitores com dislexia e TDAH que se beneficiam da aprendizagem multissensorial.\n\nImportar Documentos\nAbra textos do app Arquivos e de outros aplicativos para ler confortavelmente em um layout amigável para disléxicos.\n\nModos Claro e Escuro\nPersonalize sua experiência de leitura para reduzir o cansaço visual e melhorar o foco.\n\nSalve e Releia Textos\nArmazene documentos digitalizados e releia-os quando quiser. Seus materiais de leitura permanecem organizados e acessíveis.\n\nCriado para Acessibilidade\n\nO Fluency é compatível com:\n\nLeitores com dislexia\n\nAlunos com TDAH\n\nEstudantes com dificuldades de aprendizagem\n\nQualquer pessoa que precise de apoio à leitura\n\nAo contrário de muitos aplicativos de scanner OCR ou aplicativos de leitura, o Fluency se concentra especificamente em ferramentas de leitura acessíveis — não apenas na conversão de texto.\n\nPor que o Fluency?\n\nA maioria dos aplicativos para dislexia cobra assinaturas mensais.\n\nO Fluency é gratuito para sempre — porque a acessibilidade não deve ter um custo.\n\nSem rastreamento.\n\nSem coleta de dados.\n\nSem atualizações ocultas.\n\nApenas um aplicativo de leitura simples e poderoso para dislexia que ajuda você a ler com confiança.\n\nSeja para encontrar um aplicativo de fontes para dislexia, um aplicativo de scanner OCR, um auxiliar de leitura para a escola ou uma ferramenta de apoio para documentos do dia a dia, o Fluency facilita a leitura.\n\nBaixe o Fluency hoje mesmo e experimente um aplicativo de leitura desenvolvido para acessibilidade.\n\nPolítica de Privacidade: https://mywellbeing.me/fluency/privacy-policy/\nTermos de Serviço: https://mywellbeing.me/fluency/terms-of-service/",
+      "descriptionHTML": "1 em cada 10 pessoas tem dislexia.<br><br>Ler não precisa ser uma luta diária.<br><br>Fluency é um aplicativo de leitura para disléxicos desenvolvido para tornar o texto mais claro, fácil e acessível. Criado para pessoas com dislexia, TDAH e outras dificuldades de aprendizagem, o Fluency transforma a maneira como você lê documentos, livros e páginas impressas.<br><br>Totalmente gratuito. Sem assinatura. Sem anúncios.<br><br>Nenhum dado coletado. Tudo fica no seu dispositivo.<br><br>Projetado para Dislexia<br><br>Fonte Amigável para Disléxicos<br>Converta o texto em um formato otimizado para leitores disléxicos usando fontes especialmente desenvolvidas para dislexia.<br><br>Leitor de Texto OCR<br>Use sua câmera para digitalizar páginas impressas ou carregue imagens da sua galeria. O Fluency as converte instantaneamente em texto digital legível.<br><br>Suporte a Texto para Fala<br>Ouça enquanto lê. Útil para leitores com dislexia e TDAH que se beneficiam da aprendizagem multissensorial.<br><br>Importar Documentos<br>Abra textos do app Arquivos e de outros aplicativos para ler confortavelmente em um layout amigável para disléxicos.<br><br>Modos Claro e Escuro<br>Personalize sua experiência de leitura para reduzir o cansaço visual e melhorar o foco.<br><br>Salve e Releia Textos<br>Armazene documentos digitalizados e releia-os quando quiser. Seus materiais de leitura permanecem organizados e acessíveis.<br><br>Criado para Acessibilidade<br><br>O Fluency é compatível com:<br><br>Leitores com dislexia<br><br>Alunos com TDAH<br><br>Estudantes com dificuldades de aprendizagem<br><br>Qualquer pessoa que precise de apoio à leitura<br><br>Ao contrário de muitos aplicativos de scanner OCR ou aplicativos de leitura, o Fluency se concentra especificamente em ferramentas de leitura acessíveis — não apenas na conversão de texto.<br><br>Por que o Fluency?<br><br>A maioria dos aplicativos para dislexia cobra assinaturas mensais.<br><br>O Fluency é gratuito para sempre — porque a acessibilidade não deve ter um custo.<br><br>Sem rastreamento.<br><br>Sem coleta de dados.<br><br>Sem atualizações ocultas.<br><br>Apenas um aplicativo de leitura simples e poderoso para dislexia que ajuda você a ler com confiança.<br><br>Seja para encontrar um aplicativo de fontes para dislexia, um aplicativo de scanner OCR, um auxiliar de leitura para a escola ou uma ferramenta de apoio para documentos do dia a dia, o Fluency facilita a leitura.<br><br>Baixe o Fluency hoje mesmo e experimente um aplicativo de leitura desenvolvido para acessibilidade.<br><br>Política de Privacidade: https://mywellbeing.me/fluency/privacy-policy/<br>Termos de Serviço: https://mywellbeing.me/fluency/terms-of-service/",
+      "summary": "Leitura adaptada para disléxicos — digitalize ou cole o texto, ouça-o, toque em qualquer palavra para aprender.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 442,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mwb.fluency",
+      "url": "https://play.google.com/store/apps/details?id=com.mwb.fluency&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Dyslexia Screening Test App",
+      "description": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\n\nO download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:\n-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia\n--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários\n--Um breve pré-teste para determinar se você pode estar em risco de dislexia\n--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo\n\n\n\nDepois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.\n \n----\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\nEste relatório inclui:\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n ----\n\nQuem deve usar o aplicativo Neurolearning Dyslexia Screening?\n\nAlunos com 7 anos ou mais que:\n- Luta para ler, escrever ou soletrar\n- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem\n- Leia devagar ou evite ler\n- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”\n- Levar mais tempo para concluir o trabalho ou os testes do que o esperado\n- Lute mais a cada ano à medida que a carga de trabalho se intensifica\n- Recebeu um resultado de triagem pouco claro ou confuso na escola\n\nAdultos até 70 anos que:\n- Atualmente luta com a leitura, escrita ou fala\n- Baixo desempenho no trabalho por motivos pouco claros\n- Lutaram na escola, mas nunca foram testados\n- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta\n- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos\n\n----\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br><br>O download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:<br>-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia<br>--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários<br>--Um breve pré-teste para determinar se você pode estar em risco de dislexia<br>--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo<br><br><br><br>Depois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.<br> <br>----<br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br>Este relatório inclui:<br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br> ----<br><br>Quem deve usar o aplicativo Neurolearning Dyslexia Screening?<br><br>Alunos com 7 anos ou mais que:<br>- Luta para ler, escrever ou soletrar<br>- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem<br>- Leia devagar ou evite ler<br>- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”<br>- Levar mais tempo para concluir o trabalho ou os testes do que o esperado<br>- Lute mais a cada ano à medida que a carga de trabalho se intensifica<br>- Recebeu um resultado de triagem pouco claro ou confuso na escola<br><br>Adultos até 70 anos que:<br>- Atualmente luta com a leitura, escrita ou fala<br>- Baixo desempenho no trabalho por motivos pouco claros<br>- Lutaram na escola, mas nunca foram testados<br>- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta<br>- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos<br><br>----<br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Nosso aplicativo de triagem e teste de dislexia testa adultos e crianças para dislexia.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21276,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.assessmentsv1paid",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.assessmentsv1paid&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Dyslexia Test: School & Pro",
+      "description": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\n\nEste relatório inclui:\n\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n\n\n----\n\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br><br>Este relatório inclui:<br><br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br><br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br><br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br><br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br><br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br><br><br>----<br><br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Triagem de dislexia para crianças e adultos",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3298,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.dyslexiaappforgroups",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.dyslexiaappforgroups&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Speech Blubs: Terapia da Fala",
+      "description": "Precisa de mais provas? Confira os artigos acerca de  Speech Blubs nas revistas: Thrive Magazine, Autism Parenting, Brisbane Kids, Speech Chick Therapy, Beautiful Speech Life e The Speech Teacher. Speech Blubs também foi homenageado com o prémio Social Impact e é apoiado pelo Programa Start do Facebook. Este aplicativo de terapia da fala é controlado por voz e foi projetado para ajudar as crianças a aprender novos sons e palavras, e para praticar a fala num ambiente estimulante e educacional. Estamos orgulhosos, embora um pouco admirados, que as nossas 1.500+ atividades tenham sido usadas mais de 1.000.000 de vezes para incentivar a produção de sons e palavras por parte das suas crianças, crianças que aprendem a falar mais tarde (atraso na fala), crianças com Apraxia da Fala, Autismo, Síndrome de Down, TDAH e Transtorno do Processamento Sensorial.\n\nPOR QUE DEVE CONFIAR EM SPEECH BLUBS?\n\nJennifer Marron, B.S., SLP-A\nEu uso Speech Blubs com os meus alunos para a articulação da fala quando têm dificuldade em usar os lábios e língua para produzir certos sons (por exemplo, / b /, / p /, / th /, / l /, etc.). Os clientes com quem usei isso até agora adoraram e estão totalmente envolvidos e comprometidos. Obrigado por um ótimo aplicativo!\n\nSe tudo isto ainda não lhe dá confiança, também deve saber que Speech Blubs\n- Usa vídeos filmados com crianças comprovado cientificamente que é eficaz no desenvolvimento da fala\n- Tem mais de 1500 exercícios, atividades, chapéus engraçados, vídeos, minijogos e muito mais!\n- Lança conteúdo novo e empolgante todas as semanas!\n- Tem 25 atividades temáticas divertidas - Primeiros Sons, Quando Eu Crescer, Ginástica da Boca, Rode Suas Rodinhas, Adivinhe a Palavra, Adivinhe o Som , Somos Uma Família, Que Sensação! e muitos mais!\n- Tem funcionalidades que são ativadas por voz que oferecem uma experiência de aprendizagem divertida e interativa\n- Faz uso de efeitos especiais divertidos como chapéus engraçados e máscaras em tempo real usando detecção facial\n- Permite colecionar autocolantes e preencher a sua caderneta à medida que a sua criança progride\n- Fornece conteúdo divertido e educacional desenvolvido para estimular a conversação\n\nExperimente as atividades de Speech Blubs GRATUITAMENTE!\n\nTÉCNICAS DE APRENDIZAGEM TESTADAS CIENTIFICAMENTE\nNum estudo recentemente publicado pela American Speech-Language-Hearing Association (ASHA), investigadores da UCLA provaram que observar os grupos de pares em tempo real resulta na ativação de NEURÔNIOS “ESPELHO”, o que se revelou altamente eficaz no desenvolvimento da fala. Speech Blubs usa vídeo de crianças para criar um ambiente de aprendizagem envolvente que permite que as crianças observem os seus pares em vídeo enquanto aprendem.\n\nCONTEÚDO NOVO, LANÇAMOS ACTUALIZAÇÕES REGULARMENTE!\nPor fim, criámos um aplicativo raro no qual os pais não se importam quando os seus filhos se absorvam, um porque oferece um suprimento quase infinito de conteúdo para as suas crianças se divertirem, incluindo mais de 1500 atividades, exercícios, chapéus e máscaras engraçados, efeitos, vídeos, mini jogos e muito mais! A nossa equipe está sempre a trabalhar arduamente para adicionar novo conteúdo a cada semana!\n\nASSINATURA, PREÇO E TERMOS\nComece com um teste gratuito de 7 dias, tenha acesso a todo o nosso conteúdo desbloqueado e teste o aplicativo. Para se inscrever (e manter o acesso a todas as práticas), será cobrada a taxa de assinatura mensal ou anual através da sua conta GooglePlay. Uma transação recorrente, será renovada automaticamente, a menos que cancele a sua conta pelo menos 24 horas antes do final da assinatura atual. Pode gerir a sua assinatura, cancelar a qualquer momento ou desligar a renovação automática acessando à sua conta GooglePlay. Qualquer porção não utilizada de um período de teste gratuito será perdida quando você se inscrever.\n\nLeia nossos Termos e Condições completos e Política de Privacidade aqui: https://speechblubs.com/legal/privacy-policy-for-applications-3/",
+      "descriptionHTML": "Precisa de mais provas? Confira os artigos acerca de  Speech Blubs nas revistas: Thrive Magazine, Autism Parenting, Brisbane Kids, Speech Chick Therapy, Beautiful Speech Life e The Speech Teacher. Speech Blubs também foi homenageado com o prémio Social Impact e é apoiado pelo Programa Start do Facebook. Este aplicativo de terapia da fala é controlado por voz e foi projetado para ajudar as crianças a aprender novos sons e palavras, e para praticar a fala num ambiente estimulante e educacional. Estamos orgulhosos, embora um pouco admirados, que as nossas 1.500+ atividades tenham sido usadas mais de 1.000.000 de vezes para incentivar a produção de sons e palavras por parte das suas crianças, crianças que aprendem a falar mais tarde (atraso na fala), crianças com Apraxia da Fala, Autismo, Síndrome de Down, TDAH e Transtorno do Processamento Sensorial.<br><br>POR QUE DEVE CONFIAR EM SPEECH BLUBS?<br><br>Jennifer Marron, B.S., SLP-A<br>Eu uso Speech Blubs com os meus alunos para a articulação da fala quando têm dificuldade em usar os lábios e língua para produzir certos sons (por exemplo, / b /, / p /, / th /, / l /, etc.). Os clientes com quem usei isso até agora adoraram e estão totalmente envolvidos e comprometidos. Obrigado por um ótimo aplicativo!<br><br>Se tudo isto ainda não lhe dá confiança, também deve saber que Speech Blubs<br>- Usa vídeos filmados com crianças comprovado cientificamente que é eficaz no desenvolvimento da fala<br>- Tem mais de 1500 exercícios, atividades, chapéus engraçados, vídeos, minijogos e muito mais!<br>- Lança conteúdo novo e empolgante todas as semanas!<br>- Tem 25 atividades temáticas divertidas - Primeiros Sons, Quando Eu Crescer, Ginástica da Boca, Rode Suas Rodinhas, Adivinhe a Palavra, Adivinhe o Som , Somos Uma Família, Que Sensação! e muitos mais!<br>- Tem funcionalidades que são ativadas por voz que oferecem uma experiência de aprendizagem divertida e interativa<br>- Faz uso de efeitos especiais divertidos como chapéus engraçados e máscaras em tempo real usando detecção facial<br>- Permite colecionar autocolantes e preencher a sua caderneta à medida que a sua criança progride<br>- Fornece conteúdo divertido e educacional desenvolvido para estimular a conversação<br><br>Experimente as atividades de Speech Blubs GRATUITAMENTE!<br><br>TÉCNICAS DE APRENDIZAGEM TESTADAS CIENTIFICAMENTE<br>Num estudo recentemente publicado pela American Speech-Language-Hearing Association (ASHA), investigadores da UCLA provaram que observar os grupos de pares em tempo real resulta na ativação de NEURÔNIOS “ESPELHO”, o que se revelou altamente eficaz no desenvolvimento da fala. Speech Blubs usa vídeo de crianças para criar um ambiente de aprendizagem envolvente que permite que as crianças observem os seus pares em vídeo enquanto aprendem.<br><br>CONTEÚDO NOVO, LANÇAMOS ACTUALIZAÇÕES REGULARMENTE!<br>Por fim, criámos um aplicativo raro no qual os pais não se importam quando os seus filhos se absorvam, um porque oferece um suprimento quase infinito de conteúdo para as suas crianças se divertirem, incluindo mais de 1500 atividades, exercícios, chapéus e máscaras engraçados, efeitos, vídeos, mini jogos e muito mais! A nossa equipe está sempre a trabalhar arduamente para adicionar novo conteúdo a cada semana!<br><br>ASSINATURA, PREÇO E TERMOS<br>Comece com um teste gratuito de 7 dias, tenha acesso a todo o nosso conteúdo desbloqueado e teste o aplicativo. Para se inscrever (e manter o acesso a todas as práticas), será cobrada a taxa de assinatura mensal ou anual através da sua conta GooglePlay. Uma transação recorrente, será renovada automaticamente, a menos que cancele a sua conta pelo menos 24 horas antes do final da assinatura atual. Pode gerir a sua assinatura, cancelar a qualquer momento ou desligar a renovação automática acessando à sua conta GooglePlay. Qualquer porção não utilizada de um período de teste gratuito será perdida quando você se inscrever.<br><br>Leia nossos Termos e Condições completos e Política de Privacidade aqui: https://speechblubs.com/legal/privacy-policy-for-applications-3/",
+      "summary": "Terapia da Fala para crianças",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 5852474,
+      "score": 4.43,
+      "scoreText": "4,4",
+      "ratings": 30425,
+      "reviews": 76,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Criação de filhos",
+      "genreId": "PARENTING",
+      "categories": [
+        {
+          "name": "Criação de filhos",
+          "id": "PARENTING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.blubblub.app.speechblubs",
+      "url": "https://play.google.com/store/apps/details?id=org.blubblub.app.speechblubs&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11398,
+      "score": 3.9,
+      "scoreText": "3,9",
+      "ratings": 38,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Dyslexia Escape Game",
+      "description": "Sobre este jogo: Um jogo de fuga incrível onde alunos com dislexia podem se divertir e aprender ao mesmo tempo. Foi criado no âmbito do projeto \"Desenvolvendo ferramentas educacionais de RV para apoiar a adaptação à classe e a aprendizagem entre pares para alunos com dislexia\" (VR-Schooldom). ID: 2021-1-LV01-KA220-SCH-000024356.",
+      "descriptionHTML": "Sobre este jogo: Um jogo de fuga incrível onde alunos com dislexia podem se divertir e aprender ao mesmo tempo. Foi criado no âmbito do projeto &quot;Desenvolvendo ferramentas educacionais de RV para apoiar a adaptação à classe e a aprendizagem entre pares para alunos com dislexia&quot; (VR-Schooldom). ID: 2021-1-LV01-KA220-SCH-000024356.",
+      "summary": "Uma aventura educacional para alunos com dislexia",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 410,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.bgs.dyslexiaescapegame",
+      "url": "https://play.google.com/store/apps/details?id=com.bgs.dyslexiaescapegame&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Lola Kids Tales Book. Dyslexia",
+      "description": "O primeiro livro de histórias perfeito para crianças em idade pré-escolar aprenderem a ler: crianças do jardim de infância e alunos do ensino fundamental - mesmo os disléxicos - adoram ler a história de Lola Slug por causa de seu apoio à aprendizagem infantil, educação especial e dislexia. .. Compre agora!\n\nLula é adorável! Seu aplicativo de livro fácil usa uma fonte de alta legibilidade, cuidadosamente projetada para crianças e bebês. Escolha entre o texto todo em maiúsculas e o texto normal. Ouça a narração profissional ou divirta-se lendo sozinho, apoiado por réguas de leitura especiais.\nAjude Lola em sua ida ao museu; cada página é totalmente animada e interativa, até o lustre se move! As crianças adoram Lola Slug, mesmo os disléxicos... Compre já!\n\nPOR QUE VOCÊ GOSTARIA DE LOLA SLUG?\n\n♥ Narração, karaokê e sons: ouça e identifique as palavras são destacadas uma a uma.\nSelecionamos jovens atores com vozes infantis naturais e nunca irritantes para que a narração de Lola Slug seja agradável mesmo depois de mais de 1000 leituras!\n\n♥ Fonte fácil de ler e de alta legibilidade expressamente projetada para crianças, bebês e leitores iniciantes com ou sem necessidades especiais, como dislexia e SLD.\n\n♥ Réguas de leitura para ajudar as crianças a se concentrarem e rastrearem uma linha de cada vez.\n\n♥ Tanto texto em caixa alta quanto em caixa normal com letras “grandes” e “pequenas”.\n\n♥ Escolha entre a letra minúscula padrão \"a\" e a letra cursiva \"a\".\n\n♥ Personagens inesquecíveis que vivem a vida cotidiana, 19 cenas divertidas para retornar de novo e de novo, seu filho vai sorrir desde a primeira página!\n\n♥ Sem necessidade de wi-fi: funciona sem conexão com a internet!\n\n***** Destaque em muitos jornais: e.g. WIRED, Revisão de tecnologia infantil e ESTILO*****\n\n*****Apresentado duas vezes no Italian Illustrators Annual*****\n\nO QUE ESTÁ FALTANDO?\n\n- Nenhuma compra no aplicativo ou truques.\n\n- Sem publicidade.\n\n- Nenhum dado pessoal é coletado.\n\n- Sem links acessíveis para crianças.\n\n- Sem conexões com mídias sociais.\n\n\nO QUE É UMA “RÉGUA DE LEITURA”?\n\nÉ apenas uma régua colorida transparente, mas, dependendo da pessoa, pode melhorar a capacidade de leitura, pois ajuda a focar e rastrear uma linha por vez e reduz o brilho da página, fornecendo o contraste de cores correto entre as letras e fundo.\n\nVocê pode encontrá-lo no lado esquerdo de cada página no modo “Read Myself” e arrastá-lo no texto para cima e para baixo.\n\nVocê pode escolher sua cor favorita deslizando-a para a direita ou decidir deixá-la em um canto quando não precisar dela.\n\n\n----------------\nCONTATOS\n----------------\n\nPor favor, não hesite em nos contatar diretamente a qualquer momento pelo e-mail:\n\nsupport@lolaslug.com\n\nSite da Lola Slug: http://www.lolaslug.com\n\nFACEBOOK: http://www.facebook.com/LolaSlug\n\nTWITTER: http://www.twitter.com/lolaslug",
+      "descriptionHTML": "O primeiro livro de histórias perfeito para crianças em idade pré-escolar aprenderem a ler: crianças do jardim de infância e alunos do ensino fundamental - mesmo os disléxicos - adoram ler a história de Lola Slug por causa de seu apoio à aprendizagem infantil, educação especial e dislexia. .. Compre agora!<br><br>Lula é adorável! Seu aplicativo de livro fácil usa uma fonte de alta legibilidade, cuidadosamente projetada para crianças e bebês. Escolha entre o texto todo em maiúsculas e o texto normal. Ouça a narração profissional ou divirta-se lendo sozinho, apoiado por réguas de leitura especiais.<br>Ajude Lola em sua ida ao museu; cada página é totalmente animada e interativa, até o lustre se move! As crianças adoram Lola Slug, mesmo os disléxicos... Compre já!<br><br>POR QUE VOCÊ GOSTARIA DE LOLA SLUG?<br><br>♥ Narração, karaokê e sons: ouça e identifique as palavras são destacadas uma a uma.<br>Selecionamos jovens atores com vozes infantis naturais e nunca irritantes para que a narração de Lola Slug seja agradável mesmo depois de mais de 1000 leituras!<br><br>♥ Fonte fácil de ler e de alta legibilidade expressamente projetada para crianças, bebês e leitores iniciantes com ou sem necessidades especiais, como dislexia e SLD.<br><br>♥ Réguas de leitura para ajudar as crianças a se concentrarem e rastrearem uma linha de cada vez.<br><br>♥ Tanto texto em caixa alta quanto em caixa normal com letras “grandes” e “pequenas”.<br><br>♥ Escolha entre a letra minúscula padrão &quot;a&quot; e a letra cursiva &quot;a&quot;.<br><br>♥ Personagens inesquecíveis que vivem a vida cotidiana, 19 cenas divertidas para retornar de novo e de novo, seu filho vai sorrir desde a primeira página!<br><br>♥ Sem necessidade de wi-fi: funciona sem conexão com a internet!<br><br>***** Destaque em muitos jornais: e.g. WIRED, Revisão de tecnologia infantil e ESTILO*****<br><br>*****Apresentado duas vezes no Italian Illustrators Annual*****<br><br>O QUE ESTÁ FALTANDO?<br><br>- Nenhuma compra no aplicativo ou truques.<br><br>- Sem publicidade.<br><br>- Nenhum dado pessoal é coletado.<br><br>- Sem links acessíveis para crianças.<br><br>- Sem conexões com mídias sociais.<br><br><br>O QUE É UMA “RÉGUA DE LEITURA”?<br><br>É apenas uma régua colorida transparente, mas, dependendo da pessoa, pode melhorar a capacidade de leitura, pois ajuda a focar e rastrear uma linha por vez e reduz o brilho da página, fornecendo o contraste de cores correto entre as letras e fundo.<br><br>Você pode encontrá-lo no lado esquerdo de cada página no modo “Read Myself” e arrastá-lo no texto para cima e para baixo.<br><br>Você pode escolher sua cor favorita deslizando-a para a direita ou decidir deixá-la em um canto quando não precisar dela.<br><br><br>----------------<br>CONTATOS<br>----------------<br><br>Por favor, não hesite em nos contatar diretamente a qualquer momento pelo e-mail:<br><br>support@lolaslug.com<br><br>Site da Lola Slug: http://www.lolaslug.com<br><br>FACEBOOK: http://www.facebook.com/LolaSlug<br><br>TWITTER: http://www.twitter.com/lolaslug",
+      "summary": "Livro de contos para crianças do jardim de infância e da escola para aprender a ler + necessidades especiais",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4937,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.giuliaolivares.lolaslug001",
+      "url": "https://play.google.com/store/apps/details?id=com.giuliaolivares.lolaslug001&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Psicologia: Linguagem Corporal",
+      "description": "Você quer entender as pessoas? Este aplicativo vai ensinar como interpretar a linguagem corporal, decodificar emoções ocultas e se comunicar de forma mais eficaz.\nEle contém mais de 70 gestos, 100 vídeos, 100 questões de teste, 50 situações contextuais e 100 exercícios de percepção.\nTodo o conteúdo é baseado em livros de psicologia, artigos acadêmicos e em nossas próprias pesquisas.\nOferecemos mais do que os livros oferecem e queremos ajudar a aumentar a inteligência emocional das pessoas.\n\nPrincipais Recursos:\n\nGestos e Microexpressões:\nDescrições completas de todos os aspectos da comunicação não verbal, cada uma contendo pelo menos uma foto de exemplo e a explicação de como o comportamento se apresenta e qual o seu significado. Para tornar tudo mais prático, muitos gestos também incluem: conselhos, curiosidades, dicas de detecção de mentiras e gatilhos.\n\nFotos e Vídeos Realistas:\nCada gesto vem acompanhado de várias fotos. Além disso, a maioria dos gestos também conta com vídeos. Isso permite que você veja determinados gestos em diferentes contextos e em diferentes pessoas.\n\nPercepção:\nVídeos e fotos mostrados rapidamente para testar quanto você consegue identificar.\n\nSituações:\nHistórias curtas com múltiplas respostas possíveis para testar sua compreensão de psicologia em contexto.\n\nTestes:\n8 testes diferentes com mais de 100 perguntas, ajudando você a avaliar seu conhecimento e compreensão da linguagem corporal.\n\nOffline:\nA maior parte das funcionalidades funciona completamente offline. A única parte que requer acesso à internet são as fotos e os vídeos.\n\nSeja você extrovertido ou esteja no espectro autista, nosso app vai ajudar você a melhorar em psicologia hoje mesmo.\nEle também foi projetado no estilo microlearning, permitindo que você aprenda no seu próprio ritmo, quando e onde quiser.",
+      "descriptionHTML": "Você quer entender as pessoas? Este aplicativo vai ensinar como interpretar a linguagem corporal, decodificar emoções ocultas e se comunicar de forma mais eficaz.<br>Ele contém mais de 70 gestos, 100 vídeos, 100 questões de teste, 50 situações contextuais e 100 exercícios de percepção.<br>Todo o conteúdo é baseado em livros de psicologia, artigos acadêmicos e em nossas próprias pesquisas.<br>Oferecemos mais do que os livros oferecem e queremos ajudar a aumentar a inteligência emocional das pessoas.<br><br><b>Principais Recursos:</b><br><br><b>Gestos e Microexpressões:</b><br>Descrições completas de todos os aspectos da comunicação não verbal, cada uma contendo pelo menos uma foto de exemplo e a explicação de como o comportamento se apresenta e qual o seu significado. Para tornar tudo mais prático, muitos gestos também incluem: conselhos, curiosidades, dicas de detecção de mentiras e gatilhos.<br><br><b>Fotos e Vídeos Realistas:</b><br>Cada gesto vem acompanhado de várias fotos. Além disso, a maioria dos gestos também conta com vídeos. Isso permite que você veja determinados gestos em diferentes contextos e em diferentes pessoas.<br><br><b>Percepção:</b><br>Vídeos e fotos mostrados rapidamente para testar quanto você consegue identificar.<br><br><b>Situações:</b><br>Histórias curtas com múltiplas respostas possíveis para testar sua compreensão de psicologia em contexto.<br><br><b>Testes:</b><br>8 testes diferentes com mais de 100 perguntas, ajudando você a avaliar seu conhecimento e compreensão da linguagem corporal.<br><br><b>Offline:</b><br>A maior parte das funcionalidades funciona completamente offline. A única parte que requer acesso à internet são as fotos e os vídeos.<br><br>Seja você extrovertido ou esteja no espectro autista, nosso app vai ajudar você a melhorar em psicologia hoje mesmo.<br>Ele também foi projetado no estilo microlearning, permitindo que você aprenda no seu próprio ritmo, quando e onde quiser.",
+      "summary": "Decifre intenções ocultas, construa confiança e comunique-se com mais eficácia",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1071073,
+      "score": 4.647059,
+      "scoreText": "4,6",
+      "ratings": 12407,
+      "reviews": 52,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "io.blacklagoonapps.bodylanguage",
+      "url": "https://play.google.com/store/apps/details?id=io.blacklagoonapps.bodylanguage&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Acessibilidade do Android",
+      "description": "A Acessibilidade do Android é um conjunto de apps de acessibilidade para operar dispositivos Android com interruptores ou sem precisar usar os olhos.\n\nA Acessibilidade do Android inclui estes recursos:\n• Menu de acessibilidade: use esse menu grande na tela para bloquear o smartphone, controlar o volume e o brilho, fazer capturas de tela e muito mais.\n• Selecionar para ouvir: selecione itens na tela para ouvir a leitura deles.\n• Leitor de tela do TalkBack: receba respostas faladas, controle seu dispositivo com gestos e digite com o teclado em braille na tela.\n\nPara começar:\n1. Abra o app Configurações do dispositivo.\n2. Selecione \"Acessibilidade\".\n3. Selecione \"Menu de acessibilidade\", \"Selecionar para ouvir\" ou \"TalkBack\".\n\nA Acessibilidade do Android pode ser usada no Android 7 (N) e versões mais recentes. Para usar o TalkBack para Wear, é necessário ter o Wear OS 3.0 ou versões mais recentes.\n\nAviso de permissões\n• Smartphone: a Acessibilidade do Android observa o status do smartphone para adaptar avisos ao status de chamada.\n• Serviço de acessibilidade: por ser um app de um serviço de acessibilidade, ele pode observar suas ações, extrair conteúdo de janelas e conferir o texto que você digitar.\n• Notificações: ao autorizar essa permissão, o TalkBack pode notificar você sobre atualizações.",
+      "descriptionHTML": "A Acessibilidade do Android é um conjunto de apps de acessibilidade para operar dispositivos Android com interruptores ou sem precisar usar os olhos.<br><br>A Acessibilidade do Android inclui estes recursos:<br>• Menu de acessibilidade: use esse menu grande na tela para bloquear o smartphone, controlar o volume e o brilho, fazer capturas de tela e muito mais.<br>• Selecionar para ouvir: selecione itens na tela para ouvir a leitura deles.<br>• Leitor de tela do TalkBack: receba respostas faladas, controle seu dispositivo com gestos e digite com o teclado em braille na tela.<br><br>Para começar:<br>1. Abra o app Configurações do dispositivo.<br>2. Selecione &quot;Acessibilidade&quot;.<br>3. Selecione &quot;Menu de acessibilidade&quot;, &quot;Selecionar para ouvir&quot; ou &quot;TalkBack&quot;.<br><br>A Acessibilidade do Android pode ser usada no Android 7 (N) e versões mais recentes. Para usar o TalkBack para Wear, é necessário ter o Wear OS 3.0 ou versões mais recentes.<br><br>Aviso de permissões<br>• Smartphone: a Acessibilidade do Android observa o status do smartphone para adaptar avisos ao status de chamada.<br>• Serviço de acessibilidade: por ser um app de um serviço de acessibilidade, ele pode observar suas ações, extrair conteúdo de janelas e conferir o texto que você digitar.<br>• Notificações: ao autorizar essa permissão, o TalkBack pode notificar você sobre atualizações.",
+      "summary": "Inclui o TalkBack, menu de acessibilidade e muito mais.",
+      "installs": "10.000.000.000+",
+      "minInstalls": 10000000000,
+      "maxInstalls": 18298623361,
+      "score": 4.1670575,
+      "scoreText": "4,2",
+      "ratings": 4445022,
+      "reviews": 44789,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Transtorno de aprendizagem",
+          "id": null
+        },
+        {
+          "name": "Assistência motora",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.google.android.marvin.talkback",
+      "url": "https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "ReadingBuddy: Read Aloud Books",
+      "description": "-Aplicativo de leitura premiado que cresce com seu filho\n-Idade: 2 a 12 anos\n-ReadingBuddy lê livros infantis em voz alta e ensina habilidades de leitura ao mesmo tempo\n-Livros de rimas simples para leitores iniciantes\n-Contos de fadas: Os Três Porquinhos, Chapeuzinho Vermelho, Cachinhos Dourados e os Três Ursos, Cinderela e muito mais\n-Rhymebooks para aprender tamanhos, cores, números, preposições espaciais, pronomes possessivos e muito mais\n-Rhymebooks para aprender animais, vegetais, frutas e muito mais\n-Livros interativos sobre ciência, culinária, pássaros e muito mais para crianças mais velhas\n-ReadingBuddy não apenas lê histórias em voz alta, mas também melhora a compreensão com efeitos sonoros envolventes. Do chilrear dos pássaros aos instrumentos musicais, tornamos o aprendizado divertido e interativo.\n-ReadingBuddy oferece várias ilustrações do mesmo conceito para uma compreensão mais profunda e promoção de habilidades de abstração. Aprender nunca foi tão interativo e divertido.\n- Crianças com necessidades especiais encontrarão uma variedade de livros de rimas que as preparam para as atividades diárias: Rotina de dormir, Modos no restaurante, Vestir-se, Playground e muito mais\n\nTÉCNICO\n-Cinco velocidades de leitura: do iniciante ao especialista\n-As palavras são destacadas em sincronia com a leitura em voz alta\n-Tamanho de letra grande simplifica a leitura\n-Cada livro é bem ilustrado\n-Sem anúncios\n-Sem registro\n\nCIÊNCIA\nEstudos demonstraram que os aplicativos ImagiRation podem acelerar significativamente o desenvolvimento das habilidades linguísticas e matemáticas das crianças!\nVeja todos os artigos de pesquisa em http://imagiration.com/science/",
+      "descriptionHTML": "-Aplicativo de leitura premiado que cresce com seu filho<br>-Idade: 2 a 12 anos<br>-ReadingBuddy lê livros infantis em voz alta e ensina habilidades de leitura ao mesmo tempo<br>-Livros de rimas simples para leitores iniciantes<br>-Contos de fadas: Os Três Porquinhos, Chapeuzinho Vermelho, Cachinhos Dourados e os Três Ursos, Cinderela e muito mais<br>-Rhymebooks para aprender tamanhos, cores, números, preposições espaciais, pronomes possessivos e muito mais<br>-Rhymebooks para aprender animais, vegetais, frutas e muito mais<br>-Livros interativos sobre ciência, culinária, pássaros e muito mais para crianças mais velhas<br>-ReadingBuddy não apenas lê histórias em voz alta, mas também melhora a compreensão com efeitos sonoros envolventes. Do chilrear dos pássaros aos instrumentos musicais, tornamos o aprendizado divertido e interativo.<br>-ReadingBuddy oferece várias ilustrações do mesmo conceito para uma compreensão mais profunda e promoção de habilidades de abstração. Aprender nunca foi tão interativo e divertido.<br>- Crianças com necessidades especiais encontrarão uma variedade de livros de rimas que as preparam para as atividades diárias: Rotina de dormir, Modos no restaurante, Vestir-se, Playground e muito mais<br><br>TÉCNICO<br>-Cinco velocidades de leitura: do iniciante ao especialista<br>-As palavras são destacadas em sincronia com a leitura em voz alta<br>-Tamanho de letra grande simplifica a leitura<br>-Cada livro é bem ilustrado<br>-Sem anúncios<br>-Sem registro<br><br>CIÊNCIA<br>Estudos demonstraram que os aplicativos ImagiRation podem acelerar significativamente o desenvolvimento das habilidades linguísticas e matemáticas das crianças!<br>Veja todos os artigos de pesquisa em http://imagiration.com/science/",
+      "summary": "Biblioteca de livros ilustrados e professor de leitura nº 1 para crianças e bebês",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 228457,
+      "score": 3.8461537,
+      "scoreText": "3,8",
+      "ratings": 508,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.imagiration.readingteacher",
+      "url": "https://play.google.com/store/apps/details?id=com.imagiration.readingteacher&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:57:36.139Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "tourettes",
+    "key": "tourettes",
+    "depth": 1,
+    "parent": "tourette",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Tournex",
+      "description": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆\n\nPronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.\n\n🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!\n\n🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.\n\n📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!\n\n⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.\n\nPor que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.\n\nBaixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "descriptionHTML": "Tournex: O Novo Endereço para Jogos e o Centro do Mundo dos Esports! 🎮🏆<br><br>Pronto para levar sua paixão por esports para o próximo nível? Mergulhe no coração da competição com o Tournex, a plataforma de gerenciamento de torneios e esports de última geração que reúne jogadores, clãs e organizadores de torneios em um só lugar! Seja para mostrar suas habilidades individuais ou montar uma equipe e competir pelo topo, há uma arena para todos no Tournex.<br><br>🔥 Torneios e Ligas Avançados • Torneios Solo e em Equipe: Mostre suas habilidades individualmente ou participe de ligas profissionais com sua equipe. • Partidas ao Vivo (Chaves): Acompanhe as chaves dos torneios e os placares das partidas em tempo real. • Competição Premiada: Participe de eventos gratuitos da comunidade ou dispute grandes prêmios em ligas privadas com taxas de inscrição!<br><br>🛡️ Crie e Gerencie Seu Próprio Clã • Sistema de Clãs Avançado: Crie seu clã; organize sua equipe atribuindo funções de Líder, Co-líder e Moderador. • Guerras de Clãs (Partida de Clã): Desafie outras equipes diretamente e prove sua força para todos. • Comunicação Privada: Mantenha sua estratégia em segredo com canais de bate-papo e anúncios seguros, exclusivos para membros do clã.<br><br>📱 Rede Social de Esports • Feed Personalizado: Veja atualizações apenas dos jogos e organizações que lhe interessam (eFootball, Valorant, etc.). • Mensagens Instantâneas (DM e Grupo): Converse de forma integrada, rápida e segura com seus oponentes e companheiros de equipe. • Compartilhamento de Stories: Compartilhe resultados de partidas, placares ao vivo e momentos de vitória em stories de 24 horas, como nas redes sociais!<br><br>⚙️ Ferramentas Profissionais para Organizadores • Perfis Corporativos: Organize seus próprios torneios de grande porte com o perfil oficial do seu clube de esports, marca ou streamer. • Sistema Transparente de Resolução de Disputas: Envie capturas de tela ou vídeos em caso de disputas de resultados de partidas para garantir a justiça. • Áreas de Patrocínio: Expanda seus eventos com espaços dedicados para seus patrocinadores principais e secundários nas páginas do torneio.<br><br>Por que Tournex? Com seu design moderno focado no Modo Escuro, alto desempenho que conecta instantaneamente milhares de jogadores e infraestrutura justa que previne competições desleais, o Tournex é muito mais do que um aplicativo comum; é o ponto de partida da sua carreira nos esports.<br><br>Baixe o Tournex agora, monte sua equipe e dê o primeiro passo rumo ao campeonato! 🥇✨",
+      "summary": "Vivencie o espírito dos eSports com a Tournex.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1626,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tournexapp",
+      "url": "https://play.google.com/store/apps/details?id=com.tournexapp&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Chouette Tour - Dijon",
+      "description": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!\n\nMergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.\n\nSeja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!\n\nDestaques do aplicativo:\n\n- Rotas interativas pelas ruas de Dijon\n- Fatos históricos e anedotas\n- Realidade aumentada para viajar no tempo\n\nAcessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.\n\nSeja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "descriptionHTML": "Redescubra Dijon de uma maneira totalmente nova com o Chouette Tour, seu guia turístico divertido e envolvente!<br><br>Mergulhe na história e nos segredos da cidade através de quatro rotas, anedotas e um toque de realidade aumentada.<br><br>Seja você um visitante ou um morador curioso, embarque em uma aventura no seu próprio ritmo!<br><br>Destaques do aplicativo:<br><br>- Rotas interativas pelas ruas de Dijon<br>- Fatos históricos e anedotas<br>- Realidade aumentada para viajar no tempo<br><br>Acessível a todos, o Chouette Tour oferece uma experiência cultural moderna, pensada para todas as idades.<br><br>Seja com a família, amigos ou sozinho, transforme seu passeio em uma verdadeira caça ao tesouro histórico.",
+      "summary": "Explore Dijon com trilhas divertidas e realidade aumentada!",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 520,
+      "price": 15.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 15,99",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "fr.chouettetour.chouettetour",
+      "url": "https://play.google.com/store/apps/details?id=fr.chouettetour.chouettetour&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Tournated: Sports Management",
+      "description": "Tournated – Shopify para Gestão Esportiva\n\nTournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.\n\nDescubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.\n\nPor que os atletas adoram\n- Encontre torneios próximos por esporte, data, país e federação esportiva.\n\n- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo\n- Placares ao vivo, classificações e classificações finais\n- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue\n\nPor que os organizadores nos escolhem\n- Crie eventos, grupos e sorteios de equipes em minutos\n- Gerencie clubes, treinadores, ligas e inscrições\n- Publique programações, resultados ao vivo, classificações e notícias\n- Use o portal web para configuração, atletas e torcedores usam o aplicativo\n\nMais do que apenas torneios\n- Experiências personalizadas com filtros de torneios e formações de grupos\n- Mantenha-se atualizado com as últimas notícias e explore galerias completas\n- Personalize seu aplicativo selecionando seu esporte favorito\n- O suporte multilíngue garante inclusão para todos os usuários\n\nEsportes suportados\nxadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "descriptionHTML": "Tournated – Shopify para Gestão Esportiva<br><br>Tournated é a solução definitiva para gestão esportiva – nós a chamamos de Shopify para Gestão Esportiva. Projetado para capacitar atletas, organizadores e federações, ele é tanto um localizador de torneios esportivos quanto uma poderosa ferramenta de gestão de torneios. Autentique-se para visualizar e personalizar seus torneios, ligas e eventos.<br><br>Descubra torneios esportivos por esporte e cidade, acompanhe jogos, chaves, grupos, ordem de jogo, placares ao vivo e classificação final. Para federações e organizadores, o Tournated impulsiona ligas e eventos de ponta a ponta.<br><br>Por que os atletas adoram<br>- Encontre torneios próximos por esporte, data, país e federação esportiva.<br><br>- Acompanhe jogos, sorteios de equipes, grupos e ordem de jogo<br>- Placares ao vivo, classificações e classificações finais<br>- Salve favoritos, receba alertas de partidas e aproveite o suporte multilíngue<br><br>Por que os organizadores nos escolhem<br>- Crie eventos, grupos e sorteios de equipes em minutos<br>- Gerencie clubes, treinadores, ligas e inscrições<br>- Publique programações, resultados ao vivo, classificações e notícias<br>- Use o portal web para configuração, atletas e torcedores usam o aplicativo<br><br>Mais do que apenas torneios<br>- Experiências personalizadas com filtros de torneios e formações de grupos<br>- Mantenha-se atualizado com as últimas notícias e explore galerias completas<br>- Personalize seu aplicativo selecionando seu esporte favorito<br>- O suporte multilíngue garante inclusão para todos os usuários<br><br>Esportes suportados<br>xadrez, tênis, pickleball, padel, tênis de praia, basquete, pesca esportiva, tênis de mesa, vôlei, futebol, squash e muitos mais.",
+      "summary": "Shopify para gestão esportiva",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5238,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Esportes",
+      "genreId": "SPORTS",
+      "categories": [
+        {
+          "name": "Esportes",
+          "id": "SPORTS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.tournated",
+      "url": "https://play.google.com/store/apps/details?id=com.app.tournated&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Just Tic-Tac-Toe",
+      "description": "Jogue jogo da velha sem aqueles anúncios irritantes!\n- Escolha entre 3 níveis de dificuldade\n- Um ou dois jogadores\n- Escolha a cor do tabuleiro, X e O\n- Acompanhe as vitórias e derrotas",
+      "descriptionHTML": "Jogue jogo da velha sem aqueles anúncios irritantes!<br>- Escolha entre 3 níveis de dificuldade<br>- Um ou dois jogadores<br>- Escolha a cor do tabuleiro, X e O<br>- Acompanhe as vitórias e derrotas",
+      "summary": "Jogue jogo da velha sem anúncios! Três níveis de dificuldade e muita diversão!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21111,
+      "score": 4.7777777,
+      "scoreText": "4,8",
+      "ratings": 141,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estratégia",
+      "genreId": "GAME_STRATEGY",
+      "categories": [
+        {
+          "name": "Estratégia",
+          "id": "GAME_STRATEGY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.strongsons.androidtictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.strongsons.androidtictactoe&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Power Tic-Tac-Toe",
+      "description": "Power Tic-Tac-Toe é uma evolução inovadora e estratégica do clássico atemporal, levando a conhecida grade 3x3 do Jogo da Velha a um novo nível de complexidade e emoção. Este jogo é jogado em uma grade 3x3 de tabuleiros menores de Jogo da Velha, onde cada movimento que você faz não afeta apenas o tabuleiro menor atual, mas também determina onde seu oponente deve jogar em seguida. O objetivo é dominar esses tabuleiros menores, buscando alinhar três em uma fileira no tabuleiro principal, vencendo tabuleiros individuais.\n\nPara garantir a vitória, os jogadores devem equilibrar táticas locais com estratégias globais abrangentes. Uma pequena vitória em um tabuleiro não garante apenas uma posição no tabuleiro principal; também influencia o próximo movimento do seu oponente, criando camadas de estratégia e antecipação. O jogo não se trata apenas de planejar seu próximo movimento, mas também de prever o do seu oponente, tornando cada decisão crucial.\n\nCom sua mistura de jogabilidade clássica e profundidade estratégica, Power Tic-Tac-Toe oferece uma experiência desafiadora e envolvente para jogadores que gostam de pensar melhor do que seus oponentes.\n\n #JogoDaVelhaPoderoso #JogosDeEstratégia #JogosDeTabuleiro #NoiteDeJogos #JogosMentales #JogoDaVelha #ComunidadeGaming #JogoCompetitivo #Quebra-Cabeças #DesignDeJogos",
+      "descriptionHTML": "Power Tic-Tac-Toe é uma evolução inovadora e estratégica do clássico atemporal, levando a conhecida grade 3x3 do Jogo da Velha a um novo nível de complexidade e emoção. Este jogo é jogado em uma grade 3x3 de tabuleiros menores de Jogo da Velha, onde cada movimento que você faz não afeta apenas o tabuleiro menor atual, mas também determina onde seu oponente deve jogar em seguida. O objetivo é dominar esses tabuleiros menores, buscando alinhar três em uma fileira no tabuleiro principal, vencendo tabuleiros individuais.<br><br>Para garantir a vitória, os jogadores devem equilibrar táticas locais com estratégias globais abrangentes. Uma pequena vitória em um tabuleiro não garante apenas uma posição no tabuleiro principal; também influencia o próximo movimento do seu oponente, criando camadas de estratégia e antecipação. O jogo não se trata apenas de planejar seu próximo movimento, mas também de prever o do seu oponente, tornando cada decisão crucial.<br><br>Com sua mistura de jogabilidade clássica e profundidade estratégica, Power Tic-Tac-Toe oferece uma experiência desafiadora e envolvente para jogadores que gostam de pensar melhor do que seus oponentes.<br><br> #JogoDaVelhaPoderoso #JogosDeEstratégia #JogosDeTabuleiro #NoiteDeJogos #JogosMentales #JogoDaVelha #ComunidadeGaming #JogoCompetitivo #Quebra-Cabeças #DesignDeJogos",
+      "summary": "Power TicTacToe é uma reviravolta estratégica onde cada movimento controla as opções do oponente",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5838,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.powertictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.powertictactoe&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "µTorrent® -Baixador de Torrent",
+      "description": "uTorrent is the #1 Android torrents downloader in the Google Play Store with over 100 million downloads. \n\nµTorrent downloads files at high speeds using the BitTorrent hyper distribution communications protocol for peer-to-peer file sharing (\"\"P2P\"\"). Splitting the downloadable file into multiple parts and employing multi threading through seeding helps you download music, movies and video files many times faster.\n\nµTorrent is the official BitTorrent Android torrent downloader. Enjoy the most awesome torrent downloading experience with no speed or size limits when downloading.\n\nFast, light, and powerful: that’s the core of our torrent download technology. We developed uTorrent downloader around your mobile download needs.\n\nTop Features\n✔ Beautifully light, clean design\n✔ Simply download files directly to your phone/tablet\n✔ Share files & torrents with ease from your phone/tablet\n✔ No download speed limits and no torrent download size limits\n✔ Better music listening and video viewing experience with integrated music and video players\n✔ Translations in Pусский, Español, Italiano, Português do Brasil\n✔ Download free music, movie and videos from licensed content partners from BitTorrent Now \n\nNew Users \n✔ Look out for magnet links and click on them when searching for torrents online\n✔ Downloaded more than one music file in a torrent? Play them all at once as a playlist\n✔ Select files to download within a torrent to minimize your storage footprint\n✔ To get the best performance and avoid running up your data charges on mobile movie & music download, we recommend taking advantage of torrenting and seeding on Wifi-only mode whenever possible\n\nAdvanced Features\n✔ Wi-fi only mode to save on mobile data\n✔ Choose your file download location\n✔ Download torrents and download magnet links\n✔ Choose between deleting torrents only, or torrents & files\n\nFAQs \nVisit this page: http://help.utorrent.com/\n\nHelp & Support \nVisit the uTorrent forum at https://forum.utorrent.com/forum/1-utorrent-for-windows/\n\nLike us on Facebook \nhttp://www.facebook.com/bittorrent\n\nFollow us on Twitter \nhttp://twitter.com/bittorrent\n\nFeedback\nYour feedback is very important to us. Please email us directly at utandroid@bittorrent.com if you have any problems or requests. \n\nBrought to you by the µTorrent mobile team\n--Light. Limitless. µTorrent® for Android.\n\nBy downloading or using BitTorrent or uTorrent - torrent downloader client, you agree to the Terms of Use (http://www.bittorrent.com/legal/terms-of-use) and Privacy Policy (http://www.bittorrent.com/legal/privacy)",
+      "descriptionHTML": "uTorrent is the #1 Android torrents downloader in the Google Play Store with over 100 million downloads. <br><br>µTorrent downloads files at high speeds using the BitTorrent hyper distribution communications protocol for peer-to-peer file sharing (&quot;&quot;P2P&quot;&quot;). Splitting the downloadable file into multiple parts and employing multi threading through seeding helps you download music, movies and video files many times faster.<br><br>µTorrent is the official BitTorrent Android torrent downloader. Enjoy the most awesome torrent downloading experience with no speed or size limits when downloading.<br><br>Fast, light, and powerful: that’s the core of our torrent download technology. We developed uTorrent downloader around your mobile download needs.<br><br>Top Features<br>✔ Beautifully light, clean design<br>✔ Simply download files directly to your phone/tablet<br>✔ Share files &amp; torrents with ease from your phone/tablet<br>✔ No download speed limits and no torrent download size limits<br>✔ Better music listening and video viewing experience with integrated music and video players<br>✔ Translations in Pусский, Español, Italiano, Português do Brasil<br>✔ Download free music, movie and videos from licensed content partners from BitTorrent Now <br><br>New Users <br>✔ Look out for magnet links and click on them when searching for torrents online<br>✔ Downloaded more than one music file in a torrent? Play them all at once as a playlist<br>✔ Select files to download within a torrent to minimize your storage footprint<br>✔ To get the best performance and avoid running up your data charges on mobile movie &amp; music download, we recommend taking advantage of torrenting and seeding on Wifi-only mode whenever possible<br><br>Advanced Features<br>✔ Wi-fi only mode to save on mobile data<br>✔ Choose your file download location<br>✔ Download torrents and download magnet links<br>✔ Choose between deleting torrents only, or torrents &amp; files<br><br>FAQs <br>Visit this page: http://help.utorrent.com/<br><br>Help &amp; Support <br>Visit the uTorrent forum at https://forum.utorrent.com/forum/1-utorrent-for-windows/<br><br>Like us on Facebook <br>http://www.facebook.com/bittorrent<br><br>Follow us on Twitter <br>http://twitter.com/bittorrent<br><br>Feedback<br>Your feedback is very important to us. Please email us directly at utandroid@bittorrent.com if you have any problems or requests. <br><br>Brought to you by the µTorrent mobile team<br>--Light. Limitless. µTorrent® for Android.<br><br>By downloading or using BitTorrent or uTorrent - torrent downloader client, you agree to the Terms of Use (http://www.bittorrent.com/legal/terms-of-use) and Privacy Policy (http://www.bittorrent.com/legal/privacy)",
+      "summary": "#1 Torrent App for Android. The Official uTorrent App for Phones.",
+      "installs": "100.000.000+",
+      "minInstalls": 100000000,
+      "maxInstalls": 259096354,
+      "score": 4.7911925,
+      "scoreText": "4,8",
+      "ratings": 5414357,
+      "reviews": 240276,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Reproduzir e editar vídeos",
+      "genreId": "VIDEO_PLAYERS",
+      "categories": [
+        {
+          "name": "Reproduzir e editar vídeos",
+          "id": "VIDEO_PLAYERS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.utorrent.client",
+      "url": "https://play.google.com/store/apps/details?id=com.utorrent.client&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Tic Tac Toe Endless Strategy",
+      "description": "Acha que domina o Jogo da Velha? Pense de novo.\n\nEste NÃO é o jogo clássico.\nSem empates. Sem repetição. Apenas estratégia pura.\n...\nSem cadastro. Apenas diversão.",
+      "descriptionHTML": "Acha que domina o Jogo da Velha? Pense de novo.<br><br>Este NÃO é o jogo clássico.<br>Sem empates. Sem repetição. Apenas estratégia pura.<br>...<br>Sem cadastro. Apenas diversão.",
+      "summary": "Sem empates. 20 níveis de estratégia. Você consegue vencer a IA final?",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1061,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.devmon.galo",
+      "url": "https://play.google.com/store/apps/details?id=com.devmon.galo&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "NexusTours",
+      "description": "NexusTours: seu companheiro de viagem ideal\n\nDescubra, reserve e gerencie tudo o que você precisa para férias inesquecíveis. Com a NexusTours, planeje suas excursões e traslados em um só lugar, com o suporte de especialistas locais confiáveis.\n\nTudo o que você precisa para sua próxima aventura:\n\n* Planejador de Viagens: visualize e gerencie todas as suas reservas com facilidade.\n\n* Check-in online: confirme seus traslados e atividades sem complicações.\n\n* Atividades perto de você: explore experiências disponíveis na sua região.\n\n* Rastreamento em tempo real: acompanhe seu traslado e veja exatamente onde seu veículo está.\n\n* Vouchers digitais: salve suas reservas na Carteira para acesso rápido e sem papel.\n\n* Suporte 24 horas por dia, 7 dias por semana: obtenha ajuda imediata por meio do nosso chatbot ou assistência telefônica.\n\n* Explore mais de 92.000 atividades e mais de 30.000 traslados em destinos incríveis.\n\n* Pagamentos seguros: pague com Visa, Mastercard, American Express, Diners Club ou PayPal.\n\n* Recomendações personalizadas: descubra experiências sob medida para o seu estilo de viagem. Reserve agora, pague depois: desfrute de flexibilidade e tranquilidade no seu planejamento.\n\nSeja para relaxar, explorar ou se aventurar em novas experiências, o app NexusTours acompanha você em cada passo do caminho.\n\nBaixe hoje mesmo e transforme suas férias em momentos inesquecíveis.\n\nNão se limite a visitar. Viva intensamente com a NexusTours.",
+      "descriptionHTML": "NexusTours: seu companheiro de viagem ideal<br><br>Descubra, reserve e gerencie tudo o que você precisa para férias inesquecíveis. Com a NexusTours, planeje suas excursões e traslados em um só lugar, com o suporte de especialistas locais confiáveis.<br><br>Tudo o que você precisa para sua próxima aventura:<br><br>* Planejador de Viagens: visualize e gerencie todas as suas reservas com facilidade.<br><br>* Check-in online: confirme seus traslados e atividades sem complicações.<br><br>* Atividades perto de você: explore experiências disponíveis na sua região.<br><br>* Rastreamento em tempo real: acompanhe seu traslado e veja exatamente onde seu veículo está.<br><br>* Vouchers digitais: salve suas reservas na Carteira para acesso rápido e sem papel.<br><br>* Suporte 24 horas por dia, 7 dias por semana: obtenha ajuda imediata por meio do nosso chatbot ou assistência telefônica.<br><br>* Explore mais de 92.000 atividades e mais de 30.000 traslados em destinos incríveis.<br><br>* Pagamentos seguros: pague com Visa, Mastercard, American Express, Diners Club ou PayPal.<br><br>* Recomendações personalizadas: descubra experiências sob medida para o seu estilo de viagem. Reserve agora, pague depois: desfrute de flexibilidade e tranquilidade no seu planejamento.<br><br>Seja para relaxar, explorar ou se aventurar em novas experiências, o app NexusTours acompanha você em cada passo do caminho.<br><br>Baixe hoje mesmo e transforme suas férias em momentos inesquecíveis.<br><br>Não se limite a visitar. Viva intensamente com a NexusTours.",
+      "summary": "O aplicativo NexusTours redefine sua experiência de viagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 117356,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.app.nexusapp",
+      "url": "https://play.google.com/store/apps/details?id=com.app.nexusapp&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Jogo da Velha Infinito",
+      "description": "🎮 Descubra uma nova maneira de jogar Jogo da Velha!\n\nDesafie sua mente com este clássico atemporal reinventado! Seja jogando contra a Inteligência Artificial (IA) ou em partidas para dois jogadores no mesmo dispositivo, a diversão é garantida para todas as idades.\n\n✨ Escolha entre diferentes tamanhos de tabuleiro:\n• 3x3 – o clássico que todo mundo conhece\n• 4x4 – mais espaço para novas estratégias\n• 5x5 – desafios ainda mais empolgantes\n\n🎯 Três modos de jogo exclusivos:\n\n🔹 Tradicional\nA experiência clássica do Jogo da Velha. Alinhe três peças na horizontal, vertical ou diagonal antes do seu oponente.\n\n🔹 Infinito\nAqui, a partida nunca termina empatada! Após algumas jogadas, suas peças mais antigas são removidas automaticamente, criando um desafio estratégico dinâmico onde cada movimento conta.\n\n🔹 Invisível\nTeste sua memória e concentração. As peças desaparecem após serem jogadas, e você precisará se lembrar de onde cada marca foi colocada para vencer.\n\n🤖 Jogue sozinho contra a IA\nEscolha seu nível de dificuldade preferido e tente vencer o computador.\n\n👥 Jogue com outra pessoa\nDesafie amigos e familiares para partidas locais rápidas e divertidas.\n\n🧠 Desenvolva raciocínio lógico, estratégia, memória e habilidades de tomada de decisão enquanto se diverte com diferentes regras e estilos de jogo.\n\nSe você gosta de Jogo da Velha, jogos de estratégia, quebra-cabeças e desafios de lógica, este jogo é para você!\n\nBaixe agora e descubra qual modo se tornará o seu favorito!",
+      "descriptionHTML": "🎮 Descubra uma nova maneira de jogar Jogo da Velha!<br><br>Desafie sua mente com este clássico atemporal reinventado! Seja jogando contra a Inteligência Artificial (IA) ou em partidas para dois jogadores no mesmo dispositivo, a diversão é garantida para todas as idades.<br><br>✨ Escolha entre diferentes tamanhos de tabuleiro:<br>• 3x3 – o clássico que todo mundo conhece<br>• 4x4 – mais espaço para novas estratégias<br>• 5x5 – desafios ainda mais empolgantes<br><br>🎯 Três modos de jogo exclusivos:<br><br>🔹 Tradicional<br>A experiência clássica do Jogo da Velha. Alinhe três peças na horizontal, vertical ou diagonal antes do seu oponente.<br><br>🔹 Infinito<br>Aqui, a partida nunca termina empatada! Após algumas jogadas, suas peças mais antigas são removidas automaticamente, criando um desafio estratégico dinâmico onde cada movimento conta.<br><br>🔹 Invisível<br>Teste sua memória e concentração. As peças desaparecem após serem jogadas, e você precisará se lembrar de onde cada marca foi colocada para vencer.<br><br>🤖 Jogue sozinho contra a IA<br>Escolha seu nível de dificuldade preferido e tente vencer o computador.<br><br>👥 Jogue com outra pessoa<br>Desafie amigos e familiares para partidas locais rápidas e divertidas.<br><br>🧠 Desenvolva raciocínio lógico, estratégia, memória e habilidades de tomada de decisão enquanto se diverte com diferentes regras e estilos de jogo.<br><br>Se você gosta de Jogo da Velha, jogos de estratégia, quebra-cabeças e desafios de lógica, este jogo é para você!<br><br>Baixe agora e descubra qual modo se tornará o seu favorito!",
+      "summary": "∞Jogue agora o Jogo da Velha infinito ∞",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 59,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.fiereck.infinitytictactoe",
+      "url": "https://play.google.com/store/apps/details?id=br.com.fiereck.infinitytictactoe&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Quiz Art",
+      "description": "App com mais de 3000 questões baseadas em material de provas da CPA-10, CPA-20, CEA e CFP®️.",
+      "descriptionHTML": "App com mais de 3000 questões baseadas em material de provas da CPA-10, CPA-20, CEA e CFP®️.",
+      "summary": "App para intensificar as skills para as provasda CPA-10, CPA-20, CEA e CFP.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 40311,
+      "score": 3.1,
+      "scoreText": "3,1",
+      "ratings": 120,
+      "reviews": 75,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.firedevsolutionsit.quizart",
+      "url": "https://play.google.com/store/apps/details?id=com.firedevsolutionsit.quizart&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Business Tour",
+      "description": "A jogada simples e divertida do \"Business Tour\" permite que você venha com muitas estratégias interessantes, venha a acordos com seus rivais e até mesmo entre em conspirações contra outros jogadores. Além disso, o jogo ajuda você a revelar suas qualidades empresariais internas. Precisamente por esta razão, crianças e adultos podem desfrutar desse jogo igualmente.\n\n\"Business Tour\" permite que você jogue um jogo de mesa clássico online com seus amigos. A principal vantagem do \"Business Tour\" é que é fácil aprender a jogar, mas isso não significa que seja fácil de ganhar. Você terá que usar toda a sua bravura e perspicácia empresarial para derrotar adversários reais. Dificuldade e imprevisibilidade tornam o jogo de mesa clássico mais interessante, e a jogabilidade é mais diversificada.\n\nCaracterísticas principais:\n[list][*]Modo online, 2-4 jogadores\n[*]Modo 2x2\n[*]Modo offline com bots\n[*]Modo offline com outros jogadores na mesma tela ou em telas diferentes\n[*]Convide amigos para jogar na mesma mesa\n[*]Tabelas de classificação\n[*]Modo de torneio[/list]",
+      "descriptionHTML": "A jogada simples e divertida do &quot;Business Tour&quot; permite que você venha com muitas estratégias interessantes, venha a acordos com seus rivais e até mesmo entre em conspirações contra outros jogadores. Além disso, o jogo ajuda você a revelar suas qualidades empresariais internas. Precisamente por esta razão, crianças e adultos podem desfrutar desse jogo igualmente.<br><br>&quot;Business Tour&quot; permite que você jogue um jogo de mesa clássico online com seus amigos. A principal vantagem do &quot;Business Tour&quot; é que é fácil aprender a jogar, mas isso não significa que seja fácil de ganhar. Você terá que usar toda a sua bravura e perspicácia empresarial para derrotar adversários reais. Dificuldade e imprevisibilidade tornam o jogo de mesa clássico mais interessante, e a jogabilidade é mais diversificada.<br><br>Características principais:<br>[list][*]Modo online, 2-4 jogadores<br>[*]Modo 2x2<br>[*]Modo offline com bots<br>[*]Modo offline com outros jogadores na mesma tela ou em telas diferentes<br>[*]Convide amigos para jogar na mesma mesa<br>[*]Tabelas de classificação<br>[*]Modo de torneio[/list]",
+      "summary": "Compete in Business Tour: The ultimate online multiplayer board game experience!",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2838432,
+      "score": 4.5531063,
+      "scoreText": "4,6",
+      "ratings": 43517,
+      "reviews": 1264,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiro",
+          "id": "GAME_BOARD"
+        },
+        {
+          "name": "Estratégia abstrata",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Diversos",
+          "id": null
+        },
+        {
+          "name": "Jogos de tabuleiro",
+          "id": null
+        },
+        {
+          "name": "Negócios e profissão",
+          "id": null
+        },
+        {
+          "name": "Império empresarial",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.eightfloor.business.tour.friends.board.dice.free",
+      "url": "https://play.google.com/store/apps/details?id=com.eightfloor.business.tour.friends.board.dice.free&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Teverun",
+      "description": "Este aplicativo tem muitas funções relacionadas a veículos, como monitorar o status de veículos em espera, definir parâmetros de veículos, gerenciamento de veículos e atualização sem fio.",
+      "descriptionHTML": "Este aplicativo tem muitas funções relacionadas a veículos, como monitorar o status de veículos em espera, definir parâmetros de veículos, gerenciamento de veículos e atualização sem fio.",
+      "summary": "Para usuários Teverun",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 32495,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "uni.UNI2202FAB",
+      "url": "https://play.google.com/store/apps/details?id=uni.UNI2202FAB&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "DuckDuckGo, optional Duck.ai",
+      "description": "No DuckDuckGo, acreditamos que a melhor maneira de proteger as tuas informações pessoais de hackers, burlões e empresas que invadem a privacidade é impedir que sejam recolhidas. É por isso que milhões de pessoas escolhem o DuckDuckGo em vez do Chrome e de outros navegadores para pesquisar e navegar online. O nosso motor de pesquisa incorporado é como o Google, mas nunca rastreia as tuas pesquisas. O nosso navegador bloqueia anúncios invasivos da web ((incluindo a maioria dos anúncios de vídeo) e pop-ups de cookies, reduzindo as distrações e ajudando a impedir que outras empresas recolham os teus dados.  Os nossos recursos opcionais integrados de IA, como o Search Assist e o Duck.ai, são privados e nunca usam os teus dados para treinar a IA. E o nosso navegador é gratuito. Ganhamos dinheiro com anúncios de pesquisa que respeitam a tua privacidade, não com a exploração dos teus dados. Recupera o controlo sobre as tuas informações pessoais com o navegador concebido para a proteção de dados e não para a recolha de dados.\n \nDESTAQUES DAS FUNCIONALIDADES\nO DuckDuckGo Search vem integrado, para que possas pesquisar facilmente online sem seres rastreado. \n\nA nossa 3rd-Party Tracker Loading Protection bloqueia a maioria dos rastreadores antes de serem carregados.\n\nO Duck.ai permite-te conversar com modelos de IA de terceiros. As conversas são anonimizadas por nós e nunca são utilizadas para treinar a IA.\n\nUtiliza Email Protection para bloquear a maioria dos rastreadores de e-mail e ocultar o teu endereço de e-mail existente com endereços @duck.com.  \n\nBloquear anúncios: o nosso navegador bloqueia a maioria dos anúncios de vídeo e impede que os rastreadores invasivos sejam carregados nos sites, eliminando eficazmente os anúncios web segmentados.\n\nProtege os teus dados de intrusos de rede e Wi-Fi, obrigando muitos sites a utilizar uma ligação HTTPS. \n\nBloqueia a maioria dos rastreadores ocultos noutras aplicações 24 horas por dia (mesmo enquanto dormes) e impede que empresas de terceiros invadam a tua privacidade, com a App Tracking Protection. Esta funcionalidade opera localmente no teu dispositivo e não recolhe dados pessoais. \n\nImpede que as empresas juntem informações sobre o teu navegador e dispositivo. \n\nSincroniza marcadores e palavras-passe encriptados entre os teus dispositivos.\n\nLimpa os separadores e os dados de navegação num piscar de olhos com o Fire Button.\n\nSuprime automaticamente os pop-ups de cookies.\n\n\nSubscrição DuckDuckGo \nOs subscritores recebem:\nA nossa VPN: protege a tua ligação em até 5 dispositivos. \nModelos avançados de IA no Duck.ai: Conversa em privado com modelos de IA concebidos para tarefas complexas.\n• Personal Information Removal: encontra e remove informações pessoais de sites que as armazenam e vendem (acesso no computador).  \nIdentity Theft Restoration: se a tua identidade for roubada, ajudamos-te a restaurá-la.    \n\nPreços e Termos da subscrição da DuckDuckGo  \nO pagamento será debitado automaticamente na tua Conta do Google até cancelares a subscrição, o que podes fazer nas definições da aplicação. Tens a opção de fornecer um endereço de e-mail para ativar a tua subscrição noutros dispositivos, e só usaremos esse endereço de e-mail para validar a tua subscrição. Para consultares os Termos de Utilização e a Política de Privacidade, visita https://duckduckgo.com/pro/privacy-terms\nSabe mais sobre as nossas proteções gratuitas contra rastreamento em https://help.duckduckgo.com/privacy/web-tracking-protections\nPolítica de Privacidade: https://duckduckgo.com/privacy/  \nTermos de Utilização: https://duckduckgo.com/terms\nNota sobre a proteção contra rastreadores de terceiros e anúncios de pesquisa: embora existam algumas limitações após os cliques em anúncios de pesquisa, a visualização de anúncios na pesquisa DuckDuckGo é anónima. Sabe mais aqui https://help.duckduckgo.com/privacy/web-tracking-protections",
+      "descriptionHTML": "No DuckDuckGo, acreditamos que a melhor maneira de proteger as tuas informações pessoais de hackers, burlões e empresas que invadem a privacidade é impedir que sejam recolhidas. É por isso que milhões de pessoas escolhem o DuckDuckGo em vez do Chrome e de outros navegadores para pesquisar e navegar online. O nosso motor de pesquisa incorporado é como o Google, mas nunca rastreia as tuas pesquisas. O nosso navegador bloqueia anúncios invasivos da web ((incluindo a maioria dos anúncios de vídeo) e pop-ups de cookies, reduzindo as distrações e ajudando a impedir que outras empresas recolham os teus dados.  Os nossos recursos opcionais integrados de IA, como o Search Assist e o Duck.ai, são privados e nunca usam os teus dados para treinar a IA. E o nosso navegador é gratuito. Ganhamos dinheiro com anúncios de pesquisa que respeitam a tua privacidade, não com a exploração dos teus dados. Recupera o controlo sobre as tuas informações pessoais com o navegador concebido para a proteção de dados e não para a recolha de dados.<br> <br>DESTAQUES DAS FUNCIONALIDADES<br>O DuckDuckGo Search vem integrado, para que possas pesquisar facilmente online sem seres rastreado. <br><br>A nossa 3rd-Party Tracker Loading Protection bloqueia a maioria dos rastreadores antes de serem carregados.<br><br>O Duck.ai permite-te conversar com modelos de IA de terceiros. As conversas são anonimizadas por nós e nunca são utilizadas para treinar a IA.<br><br>Utiliza Email Protection para bloquear a maioria dos rastreadores de e-mail e ocultar o teu endereço de e-mail existente com endereços @duck.com.  <br><br>Bloquear anúncios: o nosso navegador bloqueia a maioria dos anúncios de vídeo e impede que os rastreadores invasivos sejam carregados nos sites, eliminando eficazmente os anúncios web segmentados.<br><br>Protege os teus dados de intrusos de rede e Wi-Fi, obrigando muitos sites a utilizar uma ligação HTTPS. <br><br>Bloqueia a maioria dos rastreadores ocultos noutras aplicações 24 horas por dia (mesmo enquanto dormes) e impede que empresas de terceiros invadam a tua privacidade, com a App Tracking Protection. Esta funcionalidade opera localmente no teu dispositivo e não recolhe dados pessoais. <br><br>Impede que as empresas juntem informações sobre o teu navegador e dispositivo. <br><br>Sincroniza marcadores e palavras-passe encriptados entre os teus dispositivos.<br><br>Limpa os separadores e os dados de navegação num piscar de olhos com o Fire Button.<br><br>Suprime automaticamente os pop-ups de cookies.<br><br><br>Subscrição DuckDuckGo <br>Os subscritores recebem:<br>A nossa VPN: protege a tua ligação em até 5 dispositivos. <br>Modelos avançados de IA no Duck.ai: Conversa em privado com modelos de IA concebidos para tarefas complexas.<br>• Personal Information Removal: encontra e remove informações pessoais de sites que as armazenam e vendem (acesso no computador).  <br>Identity Theft Restoration: se a tua identidade for roubada, ajudamos-te a restaurá-la.    <br><br>Preços e Termos da subscrição da DuckDuckGo  <br>O pagamento será debitado automaticamente na tua Conta do Google até cancelares a subscrição, o que podes fazer nas definições da aplicação. Tens a opção de fornecer um endereço de e-mail para ativar a tua subscrição noutros dispositivos, e só usaremos esse endereço de e-mail para validar a tua subscrição. Para consultares os Termos de Utilização e a Política de Privacidade, visita https://duckduckgo.com/pro/privacy-terms<br>Sabe mais sobre as nossas proteções gratuitas contra rastreamento em https://help.duckduckgo.com/privacy/web-tracking-protections<br>Política de Privacidade: https://duckduckgo.com/privacy/  <br>Termos de Utilização: https://duckduckgo.com/terms<br>Nota sobre a proteção contra rastreadores de terceiros e anúncios de pesquisa: embora existam algumas limitações após os cliques em anúncios de pesquisa, a visualização de anúncios na pesquisa DuckDuckGo é anónima. Sabe mais aqui https://help.duckduckgo.com/privacy/web-tracking-protections",
+      "summary": "⚡Protege ativamente os teus dados. Pesquisa privada, navegador seguro, chat, VPN",
+      "installs": "50.000.000+",
+      "minInstalls": 50000000,
+      "maxInstalls": 91717789,
+      "score": 4.7923756,
+      "scoreText": "4,8",
+      "ratings": 2464560,
+      "reviews": 32164,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.duckduckgo.mobile.android",
+      "url": "https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "2 Player Games: Tic Tac Toe",
+      "description": "Jogo da Velha para 2 Jogadores: XO é um jogo de quebra-cabeça clássico, também conhecido como XO ou Jogo da Velha. Se você for adulto, certamente se lembrará das suas antigas memórias favoritas do Jogo da Velha. Qualquer pessoa pode jogar online ou offline.\n\nCaracterísticas:\n- Interface impressionante, efeitos de brilho neon incríveis.\n- Diversas dificuldades do jogo da velha: grades 20x20.\n- Suporta single player ou multiplayer (humano e computador).\n- Jogos online para dois jogadores, desafie seus amigos.\n- Design incrível para sua escolha no Jogo da Velha para 2 Jogadores: XO\n\nO objetivo do jogo da velha é alinhar 5 ou mais símbolos (X O, Jogo da Velha) em um tabuleiro. O jogo XO é para 2 jogadores, que se revezam marcando os espaços livres em uma grade. O jogador que colocar a quantidade necessária de símbolos em uma fileira com as respectivas marcas na horizontal, vertical ou diagonal, vence o jogo XOXO.\n\nComece a treinar seu cérebro e resolva um desafio XOXO neste Jogo da Velha para 2 Jogadores: Jogo XO, que explorará sua capacidade mental ao pensar alguns passos à frente!",
+      "descriptionHTML": "Jogo da Velha para 2 Jogadores: XO é um jogo de quebra-cabeça clássico, também conhecido como XO ou Jogo da Velha. Se você for adulto, certamente se lembrará das suas antigas memórias favoritas do Jogo da Velha. Qualquer pessoa pode jogar online ou offline.<br><br>Características:<br>- Interface impressionante, efeitos de brilho neon incríveis.<br>- Diversas dificuldades do jogo da velha: grades 20x20.<br>- Suporta single player ou multiplayer (humano e computador).<br>- Jogos online para dois jogadores, desafie seus amigos.<br>- Design incrível para sua escolha no Jogo da Velha para 2 Jogadores: XO<br><br>O objetivo do jogo da velha é alinhar 5 ou mais símbolos (X O, Jogo da Velha) em um tabuleiro. O jogo XO é para 2 jogadores, que se revezam marcando os espaços livres em uma grade. O jogador que colocar a quantidade necessária de símbolos em uma fileira com as respectivas marcas na horizontal, vertical ou diagonal, vence o jogo XOXO.<br><br>Comece a treinar seu cérebro e resolva um desafio XOXO neste Jogo da Velha para 2 Jogadores: Jogo XO, que explorará sua capacidade mental ao pensar alguns passos à frente!",
+      "summary": "Jogo Caro com estilo neon brilhante, jogo XOXO modo online e offline",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 195480,
+      "score": 4,
+      "scoreText": "4,0",
+      "ratings": 202,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Tabuleiro",
+          "id": "GAME_BOARD"
+        },
+        {
+          "name": "Estratégia abstrata",
+          "id": null
+        },
+        {
+          "name": "Jogo da velha",
+          "id": null
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Multiplayer competitivo",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "bbgames.tictactoe.caro",
+      "url": "https://play.google.com/store/apps/details?id=bbgames.tictactoe.caro&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Crosstour",
+      "description": "Assistente de câmera de ação CROSSTOUR\n\nFácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,\nUsado para seus esportes e atividades ao ar livre.\n\nAgora mesmo!\nSinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,\nconecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,\ngerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.\nCrosstour, com você para desfrutar de uma vida melhor.\nEsperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.\n\nA Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.\nEsperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,\nContinuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.\n\nDispositivo de suporte:\n-CT8500\n-CT9000\n-CT9100\n-CT9500\n-CT9700\n\nCaracterística:\nPré-visualização ao vivo\nControle e configurações da câmera\n-Jogar, baixar, excluir e outras funções de gerenciamento\n- Compartilhamento de vídeo e foto\n-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação\n\nSiga-nos:\nSite: https://www.crosstour.co\nFacebook: https://www.facebook.com/crosstourworld\nTwitter: https://twitter.com/CrosstourCam\nInstagram: http://instagram.com/crosstour_official\nYoutube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "descriptionHTML": "Assistente de câmera de ação CROSSTOUR<br><br>Fácil de usar e fácil de possuir. Veja o seu novo melhor parceiro do mundo,<br>Usado para seus esportes e atividades ao ar livre.<br><br>Agora mesmo!<br>Sinceramente, convidamos você a baixar o aplicativo da câmera esportiva Crosstour,<br>conecte seu telefone à câmera de ação CROSSTOUR, controle a câmera, capture imagens HD,<br>gerencie seus momentos favoritos e compartilhe momentos maravilhosos com familiares e amigos.<br>Crosstour, com você para desfrutar de uma vida melhor.<br>Esperamos que sua câmera de ação CROSSTOUR faça o possível para lhe proporcionar mais diversão.<br><br>A Crosstour sempre atribui grande importância à qualidade do produto e à alta satisfação do cliente.<br>Esperamos que você tenha desfrutado da fantástica qualidade de nossos produtos e serviços,<br>Continuaremos nossos esforços para atender às suas necessidades e expectativas no futuro.<br><br>Dispositivo de suporte:<br>-CT8500<br>-CT9000<br>-CT9100<br>-CT9500<br>-CT9700<br><br>Característica:<br>Pré-visualização ao vivo<br>Controle e configurações da câmera<br>-Jogar, baixar, excluir e outras funções de gerenciamento<br>- Compartilhamento de vídeo e foto<br>-Inscreva-se em um membro da Crosstour, para aproveitar os benefícios da associação Crosstour ， e solicite uma garantia de 36 meses para sua câmera de ação<br><br>Siga-nos:<br>Site: https://www.crosstour.co<br>Facebook: https://www.facebook.com/crosstourworld<br>Twitter: https://twitter.com/CrosstourCam<br>Instagram: http://instagram.com/crosstour_official<br>Youtube: https://www.youtube.com/channel/UCmZip95dtcB1C9QL_58rTcA",
+      "summary": "Assistente de câmera de ação CROSSTOUR",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 58014,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Fotografia",
+      "genreId": "PHOTOGRAPHY",
+      "categories": [
+        {
+          "name": "Fotografia",
+          "id": "PHOTOGRAPHY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.crosstour.actioncamera",
+      "url": "https://play.google.com/store/apps/details?id=com.crosstour.actioncamera&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Pocket FM: Audio Series",
+      "description": "Pocket FM is an audio series platform pioneering audio entertainment with millions of listeners worldwide. It features various audio series in multiple genres: romance, horror, thriller, and drama. It has an extensive library of audio series delivering whole new entertainment experiences for audiobook and podcast lovers.\n\nPocket FM enriches millions of listeners with the best entertainment experience with its audio series, delivered by its large creator community, including the best authors, storytellers, voice-over artists and writers. The app has a vast content library for everyday entertainment, with stories ranging from romance, drama, fantasy, thriller, horror and more.\n\nPocket FM has a library with more than 100,000 hours of content, introducing a new binge factor with non-stop entertainment. Listeners spend an average of over 110 minutes daily on the platform, binge-ing new episodes of their favorite stories from a diverse range of titles in the library. \n\nThe genres include - \n\nRomance\nHorror\nThriller\nDrama\nFantasy & Sci-fi\n\n\nWith Pocket FM, you can listen to your favorite audio series anytime, anywhere. The user-friendly interface makes browsing and searching for audio series easy, and its built-in player allows you to listen to them with just a tap. Our offline listening feature lets you download episodes and listen without an internet connection. And with adjustable playback speed, you can listen at the pace that's most comfortable for you.\n\nWe have replaced screen boredom and fatigue with audio series that can be consumed 24x7. With the unique storytelling, Pocket FM has introduced a new entertainment format that can be consumed while commuting, driving, at the gym, cooking, at bedtime or even while working, whenever your ears are free. \n\nEvery click on Pocket FM brings entertainment with fresh and new stories. So, stop getting bored with repetitive music numbers or the same old audiobooks and podcasts and get into the next era of entertainment.\n\nWhat you'll love about Pocket FM:\n\n1. We keep adding new audio stories and other audio content all the time. You can browse or search your favorite series and listen to them anytime, and anywhere you want from mobile, tablet, desktop, laptop etc\n2. Experience listening to your favorite audio series with a fun-loving and active community of listeners\n3. Smooth navigation between episodes and chapters and quickly going back and forth by ten seconds in our player, which is specially designed for audio content.\n4. The delight of having a great sleep while listening to your favorite audio series with our in-built sleep timer.\n\nListen to Audio Series on your mobile, tablet, desktop, Chromecast, TV or Wear OS\n\nYou get free episodes of your favorite audio series everyday. However, the premium experience has been beautifully designed to elevate your listening experience, without any additional wait time.\n\nWondering why more and more listeners are opting for our unique micropayment model? Here are the reasons \n\n1. You don't have to pay for the content you don't want. On Pocket FM, you only pay for the audio content you want to consume. Freedom is in your hand. \n2. No lock-in period. You only pay when you exceed the free episode limit.\n3. Zero waiting period for new episodes. Binge-listening is the only way forward.\n4. The choice to unlimited download and listen offline\n5. Eliminate ads with 'No-ads' pack\n\nPocket FM is the ultimate entertainment destination that offers a wide range of best-selling audio series to keep you engaged. With our binge-worthy library, you can immerse yourself in the world of storytelling and experience the thrill of unlimited entertainment.\n\nDownload Pocket FM today. \nPrivacy Policy - https://www.pocketfm.com/privacy-policy \nTerms and conditions - https://www.pocketfm.com/terms-and-conditions \n\nLove Pocket FM?\nFollow us on Instagram:https://www.instagram.com/pocketfm.official/ \nFollow us on Twitter: https://twitter.com/PocketFM_App",
+      "descriptionHTML": "Pocket FM is an audio series platform pioneering audio entertainment with millions of listeners worldwide. It features various audio series in multiple genres: romance, horror, thriller, and drama. It has an extensive library of audio series delivering whole new entertainment experiences for audiobook and podcast lovers.<br><br>Pocket FM enriches millions of listeners with the best entertainment experience with its audio series, delivered by its large creator community, including the best authors, storytellers, voice-over artists and writers. The app has a vast content library for everyday entertainment, with stories ranging from romance, drama, fantasy, thriller, horror and more.<br><br>Pocket FM has a library with more than 100,000 hours of content, introducing a new binge factor with non-stop entertainment. Listeners spend an average of over 110 minutes daily on the platform, binge-ing new episodes of their favorite stories from a diverse range of titles in the library. <br><br>The genres include - <br><br>Romance<br>Horror<br>Thriller<br>Drama<br>Fantasy &amp; Sci-fi<br><br><br>With Pocket FM, you can listen to your favorite audio series anytime, anywhere. The user-friendly interface makes browsing and searching for audio series easy, and its built-in player allows you to listen to them with just a tap. Our offline listening feature lets you download episodes and listen without an internet connection. And with adjustable playback speed, you can listen at the pace that&#39;s most comfortable for you.<br><br>We have replaced screen boredom and fatigue with audio series that can be consumed 24x7. With the unique storytelling, Pocket FM has introduced a new entertainment format that can be consumed while commuting, driving, at the gym, cooking, at bedtime or even while working, whenever your ears are free. <br><br>Every click on Pocket FM brings entertainment with fresh and new stories. So, stop getting bored with repetitive music numbers or the same old audiobooks and podcasts and get into the next era of entertainment.<br><br>What you&#39;ll love about Pocket FM:<br><br>1. We keep adding new audio stories and other audio content all the time. You can browse or search your favorite series and listen to them anytime, and anywhere you want from mobile, tablet, desktop, laptop etc<br>2. Experience listening to your favorite audio series with a fun-loving and active community of listeners<br>3. Smooth navigation between episodes and chapters and quickly going back and forth by ten seconds in our player, which is specially designed for audio content.<br>4. The delight of having a great sleep while listening to your favorite audio series with our in-built sleep timer.<br><br>Listen to Audio Series on your mobile, tablet, desktop, Chromecast, TV or Wear OS<br><br>You get free episodes of your favorite audio series everyday. However, the premium experience has been beautifully designed to elevate your listening experience, without any additional wait time.<br><br>Wondering why more and more listeners are opting for our unique micropayment model? Here are the reasons <br><br>1. You don&#39;t have to pay for the content you don&#39;t want. On Pocket FM, you only pay for the audio content you want to consume. Freedom is in your hand. <br>2. No lock-in period. You only pay when you exceed the free episode limit.<br>3. Zero waiting period for new episodes. Binge-listening is the only way forward.<br>4. The choice to unlimited download and listen offline<br>5. Eliminate ads with &#39;No-ads&#39; pack<br><br>Pocket FM is the ultimate entertainment destination that offers a wide range of best-selling audio series to keep you engaged. With our binge-worthy library, you can immerse yourself in the world of storytelling and experience the thrill of unlimited entertainment.<br><br>Download Pocket FM today. <br>Privacy Policy - https://www.pocketfm.com/privacy-policy <br>Terms and conditions - https://www.pocketfm.com/terms-and-conditions <br><br>Love Pocket FM?<br>Follow us on Instagram:https://www.instagram.com/pocketfm.official/ <br>Follow us on Twitter: https://twitter.com/PocketFM_App",
+      "summary": "Audio Entertainment - Listen anytime, anywhere!",
+      "installs": "100.000.000+",
+      "minInstalls": 100000000,
+      "maxInstalls": 238156153,
+      "score": 4.5734463,
+      "scoreText": "4,6",
+      "ratings": 4663178,
+      "reviews": 841,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.radio.pocketfm",
+      "url": "https://play.google.com/store/apps/details?id=com.radio.pocketfm&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "TOZ - Jogos em grupo",
+      "description": "# TOZ – O melhor jogo de festa com amigos em 2026!\n\nQuer uma festa inesquecível? Com muita risada, desafios e zoeira? Vem conhecer o TOZ, o jogo pra animar a galera preferido dos jovens. É o app que transforma qualquer esquenta, resenha ou festa da facul em um momento épico.\n\n---\n\n### Por que o TOZ é o melhor jogo de festa para celular?\n- Milhares de desafios, perguntas e prendas engraçadas e originais\n- Perfeito pra jogar com os amigos, em casal ou com a galera\n- Modos para todos os climas: de boa, divertido e picante\n- Clássicos repaginados: \"Eu nunca\", \"Verdade ou Desafio\", \"Quem é mais provável\", \"Você prefere\" e muito mais\n- Disponível para iOS e Android e sem anúncios chatos\n\n---\n\n### Modos para todas as ocasiões\n- Rolê tranquilo com os amigos\n- Festa de integração ou pra galera toda\n- Noite a dois\n- Happy hour ou rolê de fim de semana\n\nNão importa a vibe, o TOZ se adapta a você: um app simples, fácil de usar e muito engraçado.\n\n---\n\n### Por que todo mundo está falando do TOZ\n- Ele mistura os melhores jogos de festa em um só app  \n- Não precisa de nada, só o seu celular e bom humor  \n- É atualizado toda semana com novas cartas e desafios exclusivos\n\nTOZ é mais que um jogo: se você mora com amigos, está viajando, na faculdade ou simplesmente com a galera, ele é o segredo pra uma festa de sucesso.\nÉ o melhor jogo de festa para celular, o mais engraçado e o mais amado na França.\n\nPorque um rolê sem TOZ... é só um encontro qualquer.",
+      "descriptionHTML": "# TOZ – O melhor jogo de festa com amigos em 2026!<br><br>Quer uma festa inesquecível? Com muita risada, desafios e zoeira? Vem conhecer o TOZ, o jogo pra animar a galera preferido dos jovens. É o app que transforma qualquer esquenta, resenha ou festa da facul em um momento épico.<br><br>---<br><br>### Por que o TOZ é o melhor jogo de festa para celular?<br>- Milhares de desafios, perguntas e prendas engraçadas e originais<br>- Perfeito pra jogar com os amigos, em casal ou com a galera<br>- Modos para todos os climas: de boa, divertido e picante<br>- Clássicos repaginados: &quot;Eu nunca&quot;, &quot;Verdade ou Desafio&quot;, &quot;Quem é mais provável&quot;, &quot;Você prefere&quot; e muito mais<br>- Disponível para iOS e Android e sem anúncios chatos<br><br>---<br><br>### Modos para todas as ocasiões<br>- Rolê tranquilo com os amigos<br>- Festa de integração ou pra galera toda<br>- Noite a dois<br>- Happy hour ou rolê de fim de semana<br><br>Não importa a vibe, o TOZ se adapta a você: um app simples, fácil de usar e muito engraçado.<br><br>---<br><br>### Por que todo mundo está falando do TOZ<br>- Ele mistura os melhores jogos de festa em um só app  <br>- Não precisa de nada, só o seu celular e bom humor  <br>- É atualizado toda semana com novas cartas e desafios exclusivos<br><br>TOZ é mais que um jogo: se você mora com amigos, está viajando, na faculdade ou simplesmente com a galera, ele é o segredo pra uma festa de sucesso.<br>É o melhor jogo de festa para celular, o mais engraçado e o mais amado na França.<br><br>Porque um rolê sem TOZ... é só um encontro qualquer.",
+      "summary": "Verdade ou Desafio | Eu Nunca | Você Prefere | Quem é Mais Provável | 7 Segundos",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 945382,
+      "score": 4.7029705,
+      "scoreText": "4,7",
+      "ratings": 11575,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.blincio.toz",
+      "url": "https://play.google.com/store/apps/details?id=com.blincio.toz&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Ultimate Tic-Tac-Toe Online",
+      "description": "Ultimate Tic-Tac-Toe Online – A experiência estratégica do meta Tic-Tac-Toe 9x9 no Android.\n\nCansado do Tic-Tac-Toe tradicional? Experimente o Ultimate Tic-Tac-Toe, onde cada partida é jogada em um tabuleiro gigante de 9x9 composto por nove tabuleiros menores de 3x3. Vença três tabuleiros menores em sequência e você ganha a partida inteira. Uma jogada inteligente pode forçar seu oponente a posições impossíveis enquanto você prepara sua próxima vitória. É o Tic-Tac-Toe com profundidade real e rejogabilidade infinita.\n\nJogue online com pessoas reais\nFaça login com o Google e entre direto em partidas online rápidas. Desafie amigos ou encontre jogadores do mundo todo. Cada partida é um teste de estratégia, previsão e raciocínio rápido.\nPor que os jogadores adoram:\n\nRegras autênticas do Jogo da Velha Supremo, sem concessões\nJogabilidade fluida e responsiva, desenvolvida com a tecnologia moderna do Android\nInterface limpa e intuitiva, com ótima aparência em qualquer tela\nPartidas rápidas, perfeitas para sessões curtas ou batalhas longas\nLogin seguro com o Google para convites fáceis de amigos e placares de líderes\n\nSeja você um jogador casual em busca de um desafio maior ou um estrategista experiente que adora táticas complexas, o Jogo da Velha Supremo Online oferece partidas intensas e gratificantes sempre.\n\nBaixe agora, aprimore suas habilidades e torne-se o campeão supremo.",
+      "descriptionHTML": "Ultimate Tic-Tac-Toe Online – A experiência estratégica do meta Tic-Tac-Toe 9x9 no Android.<br><br>Cansado do Tic-Tac-Toe tradicional? Experimente o Ultimate Tic-Tac-Toe, onde cada partida é jogada em um tabuleiro gigante de 9x9 composto por nove tabuleiros menores de 3x3. Vença três tabuleiros menores em sequência e você ganha a partida inteira. Uma jogada inteligente pode forçar seu oponente a posições impossíveis enquanto você prepara sua próxima vitória. É o Tic-Tac-Toe com profundidade real e rejogabilidade infinita.<br><br>Jogue online com pessoas reais<br>Faça login com o Google e entre direto em partidas online rápidas. Desafie amigos ou encontre jogadores do mundo todo. Cada partida é um teste de estratégia, previsão e raciocínio rápido.<br>Por que os jogadores adoram:<br><br>Regras autênticas do Jogo da Velha Supremo, sem concessões<br>Jogabilidade fluida e responsiva, desenvolvida com a tecnologia moderna do Android<br>Interface limpa e intuitiva, com ótima aparência em qualquer tela<br>Partidas rápidas, perfeitas para sessões curtas ou batalhas longas<br>Login seguro com o Google para convites fáceis de amigos e placares de líderes<br><br>Seja você um jogador casual em busca de um desafio maior ou um estrategista experiente que adora táticas complexas, o Jogo da Velha Supremo Online oferece partidas intensas e gratificantes sempre.<br><br>Baixe agora, aprimore suas habilidades e torne-se o campeão supremo.",
+      "summary": "Ultimate Tic-Tac-Toe Online: Versão estratégica 9x9 do Jogo da Velha online",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 70,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estratégia",
+      "genreId": "GAME_STRATEGY",
+      "categories": [
+        {
+          "name": "Estratégia",
+          "id": "GAME_STRATEGY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.brad.ultimatetictactoeonline",
+      "url": "https://play.google.com/store/apps/details?id=com.brad.ultimatetictactoeonline&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Teleparty - Watch Parties",
+      "description": "Teleparty (anteriormente Netflix Party) é um aplicativo para assistir TV e filmes remotamente com amigos, por exemplo, para noites de cinema com aquela pessoa especial de longa distância. Ele sincroniza a reprodução de vídeo e adiciona bate-papo em grupo aos seus sites de streaming favoritos.\n\nJunte-se a mais de 10 milhões de pessoas e use o Teleparty. Conecte-se com amigos e organize noites de cinema à distância e festas para assistir TV hoje mesmo!\n\nAlternativa Hearo",
+      "descriptionHTML": "Teleparty (anteriormente Netflix Party) é um aplicativo para assistir TV e filmes remotamente com amigos, por exemplo, para noites de cinema com aquela pessoa especial de longa distância. Ele sincroniza a reprodução de vídeo e adiciona bate-papo em grupo aos seus sites de streaming favoritos.<br><br>Junte-se a mais de 10 milhões de pessoas e use o Teleparty. Conecte-se com amigos e organize noites de cinema à distância e festas para assistir TV hoje mesmo!<br><br>Alternativa Hearo",
+      "summary": "Assista TV e filmes com amigos",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 5649093,
+      "score": 4.224299,
+      "scoreText": "4,2",
+      "ratings": 13143,
+      "reviews": 193,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Social",
+      "genreId": "SOCIAL",
+      "categories": [
+        {
+          "name": "Social",
+          "id": "SOCIAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.teleparty.android",
+      "url": "https://play.google.com/store/apps/details?id=com.teleparty.android&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Tourants Travel Planner",
+      "description": "TourAnts - Seu assistente de viagem\n\nExperimente o melhor companheiro de viagem que ajuda você a planejar, navegar e explorar como nunca antes. Obtenha recomendações personalizadas e encontre os melhores locais para visitar com nossos mapas interativos.\n\n\nGuias de viagens rodoviárias selecionados de todo o mundo\n\nDescubra as melhores rotas autônomas e joias escondidas em diferentes países para tornar sua viagem inesquecível. Nossos guias são elaborados por especialistas em viagens e adaptados às suas preferências, garantindo uma aventura única na estrada.\n\n\nAI Trip Planner - Planeje instantaneamente seu itinerário\n\nDeixe nosso assistente de viagem com tecnologia de IA planejar toda a sua viagem com apenas alguns cliques. Economize tempo e desfrute de uma viagem sem complicações. Nosso algoritmo sofisticado considera seus interesses e restrições de tempo para criar um itinerário personalizado que maximize sua experiência de viagem.",
+      "descriptionHTML": "TourAnts - Seu assistente de viagem<br><br>Experimente o melhor companheiro de viagem que ajuda você a planejar, navegar e explorar como nunca antes. Obtenha recomendações personalizadas e encontre os melhores locais para visitar com nossos mapas interativos.<br><br><br>Guias de viagens rodoviárias selecionados de todo o mundo<br><br>Descubra as melhores rotas autônomas e joias escondidas em diferentes países para tornar sua viagem inesquecível. Nossos guias são elaborados por especialistas em viagens e adaptados às suas preferências, garantindo uma aventura única na estrada.<br><br><br>AI Trip Planner - Planeje instantaneamente seu itinerário<br><br>Deixe nosso assistente de viagem com tecnologia de IA planejar toda a sua viagem com apenas alguns cliques. Economize tempo e desfrute de uma viagem sem complicações. Nosso algoritmo sofisticado considera seus interesses e restrições de tempo para criar um itinerário personalizado que maximize sua experiência de viagem.",
+      "summary": "Seu assistente de viagem",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6698,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Viagem e Turismo",
+      "genreId": "TRAVEL_AND_LOCAL",
+      "categories": [
+        {
+          "name": "Viagem e Turismo",
+          "id": "TRAVEL_AND_LOCAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tourants.trip",
+      "url": "https://play.google.com/store/apps/details?id=com.tourants.trip&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

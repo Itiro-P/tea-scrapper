@@ -1,5 +1,6 @@
 # Pastas de dependências e ambiente
 venv/
+.venv/
 __pycache__/
 
 # Controle de versão e IDEs

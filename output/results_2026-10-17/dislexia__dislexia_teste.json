@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:28:52.935Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISLEXIA",
+    "term": "dislexia teste",
+    "key": "dislexia teste",
+    "depth": 1,
+    "parent": "dislexia",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231117,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Dyslexia Screening Test App",
+      "description": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\n\nO download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:\n-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia\n--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários\n--Um breve pré-teste para determinar se você pode estar em risco de dislexia\n--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo\n\n\n\nDepois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.\n \n----\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\nEste relatório inclui:\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n ----\n\nQuem deve usar o aplicativo Neurolearning Dyslexia Screening?\n\nAlunos com 7 anos ou mais que:\n- Luta para ler, escrever ou soletrar\n- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem\n- Leia devagar ou evite ler\n- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”\n- Levar mais tempo para concluir o trabalho ou os testes do que o esperado\n- Lute mais a cada ano à medida que a carga de trabalho se intensifica\n- Recebeu um resultado de triagem pouco claro ou confuso na escola\n\nAdultos até 70 anos que:\n- Atualmente luta com a leitura, escrita ou fala\n- Baixo desempenho no trabalho por motivos pouco claros\n- Lutaram na escola, mas nunca foram testados\n- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta\n- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos\n\n----\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Você é disléxico? Por que esperar e se maravilhar? Deixe que o aplicativo de teste de triagem de dislexia da Neurolearning mostre como você pensa e aprende, e comece a trilhar o caminho para um futuro de sucesso. Os testes estão disponíveis como uma compra no aplicativo por US$ 49,99.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 a 70 anos que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br><br>O download inicial do aplicativo dá aos usuários acesso ao seguinte conteúdo gratuito:<br>-- As pesquisas de autoavaliação MIND-Strengths (para idades de 7 anos ou mais), que permitem aos usuários descobrir suas habilidades relativas em 4 áreas de pontos fortes associadas à dislexia<br>--5 vídeos curtos descrevendo o que a dislexia é e o que não é, sinais comuns de dislexia e o que nosso rastreador pode fazer pelos usuários<br>--Um breve pré-teste para determinar se você pode estar em risco de dislexia<br>--Comentários de usuários anteriores sobre sua experiência com nosso aplicativo<br><br><br><br>Depois de visualizar essas informações, os usuários que desejam fazer a triagem podem comprar um slot de teste no aplicativo por US$ 49,99.<br> <br>----<br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br>Este relatório inclui:<br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br> ----<br><br>Quem deve usar o aplicativo Neurolearning Dyslexia Screening?<br><br>Alunos com 7 anos ou mais que:<br>- Luta para ler, escrever ou soletrar<br>- Ter irmãos ou pais com dislexia ou outros desafios de aprendizagem<br>- Leia devagar ou evite ler<br>- Apresentam desempenho inferior à sua capacidade aparente e “não podem mostrar o que sabem”<br>- Levar mais tempo para concluir o trabalho ou os testes do que o esperado<br>- Lute mais a cada ano à medida que a carga de trabalho se intensifica<br>- Recebeu um resultado de triagem pouco claro ou confuso na escola<br><br>Adultos até 70 anos que:<br>- Atualmente luta com a leitura, escrita ou fala<br>- Baixo desempenho no trabalho por motivos pouco claros<br>- Lutaram na escola, mas nunca foram testados<br>- Nunca gostou de ler, leu devagar ou lutou ao ler em voz alta<br>- Têm filhos ou netos disléxicos e reconhecem características semelhantes em si mesmos<br><br>----<br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Durante 20 anos os Drs. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Nosso aplicativo de triagem e teste de dislexia testa adultos e crianças para dislexia.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21276,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.assessmentsv1paid",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.assessmentsv1paid&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Dyslexia Test: School & Pro",
+      "description": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.\n\n\n\nNosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.\n\n\nO Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.\n\n\nEste relatório inclui:\n\n- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia\n\n- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia\n\n- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho\n\n- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações\n\n- Recomendações sobre quando uma avaliação profissional adicional é necessária\n\n\n\n----\n\n\nA missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.\n\n\nEm 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "descriptionHTML": "Esta versão do aplicativo de teste de triagem de dislexia destina-se a escolas e usuários profissionais e contém recursos de back-end expandidos que tornam a administração de testes e o manuseio de dados para um grande número de usuários seguro e fácil.<br><br><br><br>Nosso teste de triagem de dislexia de forma rápida e precisa permite que usuários de 7 anos ou mais que não tenham recebido instruções intensivas de leitura apropriadas para dislexia sejam rastreados quanto a sinais de traços de pensamento e processamento associados à dislexia.<br><br><br>O Neurolearning Dyslexia Screening Test App mede várias funções cerebrais importantes que fundamentam as habilidades de leitura e ortografia e que funcionam de maneira diferente em indivíduos com dislexia. Ele combina essas medidas com uma avaliação das habilidades atuais de leitura para determinar a probabilidade de o usuário do teste estar enfrentando desafios na escola ou no trabalho relacionados à dislexia. Após a triagem, os usuários recebem um relatório detalhado e individualizado de seus resultados.<br><br><br>Este relatório inclui:<br><br>- Uma pontuação total de dislexia, que mede a probabilidade geral de que quaisquer problemas que eles tenham com leitura e ortografia estejam relacionados à dislexia<br><br>- Seis pontuações de subescala de dislexia, que medem as principais funções de processamento cerebral que estão subjacentes aos desafios relacionados à dislexia<br><br>- Recomendações detalhadas e individualizadas descrevendo as etapas que podem ser tomadas para melhorar o desempenho e limitar os desafios na escola ou no trabalho<br><br>- Uma lista detalhada de recursos que podem ser usados ​​para implementar as recomendações<br><br>- Recomendações sobre quando uma avaliação profissional adicional é necessária<br><br><br><br>----<br><br><br>A missão do Neurolearning é trazer testes de dislexia de qualidade ao alcance de todos. Por 20 anos Dra. Brock e Fernette Eide testaram inúmeros indivíduos com diferenças de aprendizado de todo o mundo em sua Clínica de Neuroaprendizagem em Seattle, Washington. Eles também promoveram uma melhor avaliação e compreensão de diferentes alunos por meio de seus livros influentes (“The Mislabeled Child” (2006) e o livro mais vendido internacionalmente, “The Dyslexic Advantage” (2011)), e pela formação de organização sem fins lucrativos Dyslexic Advantage em 2012. Os Eides também são palestrantes convidados frequentes em conferências e reuniões em todo o mundo, têm visitado palestrantes nas principais escolas de educação, incluindo Stanford University e Hunter College.<br><br><br>Em 2014, a Eides juntou-se ao tecnólogo e empreendedor pioneiro Nils Lahr para fundar o Neurolearning SPC e trazer testes de qualidade para diferenças de aprendizagem ao alcance de todos.",
+      "summary": "Triagem de dislexia para crianças e adultos",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3298,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.neurolearning.dyslexiaappforgroups",
+      "url": "https://play.google.com/store/apps/details?id=com.neurolearning.dyslexiaappforgroups&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "TestCircle: Closed Testing",
+      "description": "O TestCircle ajuda desenvolvedores independentes de Android a atenderem ao requisito de testes fechados do Google Play, que exige 12 testadores por 14 dias — uma das barreiras mais comuns para obter acesso à Play Store.\n\nJunte-se a um grupo de desenvolvedores e testem os apps uns dos outros por meio de um ciclo de testes fechado e estruturado. Cada ciclo é dividido em 5 fases de feedback ao longo de 14 dias, incluindo primeiras impressões, um teste rápido, funcionalidades principais, um segundo teste rápido e feedback final. Ao final do período de testes fechados, você receberá um resumo gerado por IA com todo o feedback recebido pelo seu app.\n\nBaseado em um verdadeiro compromisso mútuo, o TestCircle resolve o problema de testadores inativos durante a fase de testes fechados. Ao conectar você diretamente com outros desenvolvedores ativos, garantimos uma troca de testes confiável e bidirecional, onde todos têm interesse em participar ativamente para que você consiga 12 testadores que realmente compareçam.\n\nComo funciona:\n• Envie seu app e participe de um grupo de testes fechado ativo na plataforma.\n\n• Seja automaticamente conectado a outros desenvolvedores comprometidos com os 14 dias completos de testes. • Instale e teste os apps do seu grupo.\n• Compartilhe feedback estruturado em 5 fases simples durante os testes.\n\n• Receba feedback detalhado de outros testadores e um resumo gerado por IA para o seu próprio app.\n\n• Solicite acesso à produção no Play Console, usando seu relatório de feedback para preencher facilmente o questionário do Google.\n\nSe você conseguir acesso à produção após o ciclo de testes, seu app será exibido gratuitamente na seção \"Apps em Destaque\" do TestCircle!\n\nO TestCircle foi projetado para ser amigável aos desenvolvedores:\n• Sem anúncios, sem assinaturas e sem taxas de inscrição.\n\n• 14 dias de testes em grupo sincronizados são totalmente gratuitos.\n\n• Nosso recurso de Testes Individuais, complementar aos Testes em Grupo sincronizados, também é gratuito — teste outros apps para ganhar créditos e use-os para adicionar seu próprio app à lista de testes.\n\n• Os upgrades pagos para aumentar a visibilidade do seu app são totalmente opcionais e se aplicam somente aos Testes Individuais.\n\nSe você é um desenvolvedor independente e está enfrentando a exigência de 12 testadores do Google Play, o TestCircle é a solução estruturada, teste por teste, criada especificamente para ajudar você a desbloquear o acesso à produção.\n\nJunte-se a uma comunidade crescente de desenvolvedores sérios dispostos a ajudar uns aos outros e tornar o teste fechado de 14 dias com 12 testadores uma experiência tranquila e fácil!",
+      "descriptionHTML": "O TestCircle ajuda desenvolvedores independentes de Android a atenderem ao requisito de testes fechados do Google Play, que exige 12 testadores por 14 dias — uma das barreiras mais comuns para obter acesso à Play Store.<br><br>Junte-se a um grupo de desenvolvedores e testem os apps uns dos outros por meio de um ciclo de testes fechado e estruturado. Cada ciclo é dividido em 5 fases de feedback ao longo de 14 dias, incluindo primeiras impressões, um teste rápido, funcionalidades principais, um segundo teste rápido e feedback final. Ao final do período de testes fechados, você receberá um resumo gerado por IA com todo o feedback recebido pelo seu app.<br><br>Baseado em um verdadeiro compromisso mútuo, o TestCircle resolve o problema de testadores inativos durante a fase de testes fechados. Ao conectar você diretamente com outros desenvolvedores ativos, garantimos uma troca de testes confiável e bidirecional, onde todos têm interesse em participar ativamente para que você consiga 12 testadores que realmente compareçam.<br><br>Como funciona:<br>• Envie seu app e participe de um grupo de testes fechado ativo na plataforma.<br><br>• Seja automaticamente conectado a outros desenvolvedores comprometidos com os 14 dias completos de testes. • Instale e teste os apps do seu grupo.<br>• Compartilhe feedback estruturado em 5 fases simples durante os testes.<br><br>• Receba feedback detalhado de outros testadores e um resumo gerado por IA para o seu próprio app.<br><br>• Solicite acesso à produção no Play Console, usando seu relatório de feedback para preencher facilmente o questionário do Google.<br><br>Se você conseguir acesso à produção após o ciclo de testes, seu app será exibido gratuitamente na seção &quot;Apps em Destaque&quot; do TestCircle!<br><br>O TestCircle foi projetado para ser amigável aos desenvolvedores:<br>• Sem anúncios, sem assinaturas e sem taxas de inscrição.<br><br>• 14 dias de testes em grupo sincronizados são totalmente gratuitos.<br><br>• Nosso recurso de Testes Individuais, complementar aos Testes em Grupo sincronizados, também é gratuito — teste outros apps para ganhar créditos e use-os para adicionar seu próprio app à lista de testes.<br><br>• Os upgrades pagos para aumentar a visibilidade do seu app são totalmente opcionais e se aplicam somente aos Testes Individuais.<br><br>Se você é um desenvolvedor independente e está enfrentando a exigência de 12 testadores do Google Play, o TestCircle é a solução estruturada, teste por teste, criada especificamente para ajudar você a desbloquear o acesso à produção.<br><br>Junte-se a uma comunidade crescente de desenvolvedores sérios dispostos a ajudar uns aos outros e tornar o teste fechado de 14 dias com 12 testadores uma experiência tranquila e fácil!",
+      "summary": "Encontre 12 testadores para o teste fechado do Google Play e cumpra o requisito de 14 dias.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1519,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.greenant.testcircle",
+      "url": "https://play.google.com/store/apps/details?id=com.greenant.testcircle&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "IQ Test - Teste de QI",
+      "description": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.\n\n- Este teste de QI é muito preciso.\n- O teste contém 30 questões muito importantes.\n- O limite de tempo de resolução é de 30 minutos.\n- Saber o resultado do teste é gratuito.\n- O resultado só poderá ser encontrado ao final da prova.\n- As questões do teste são muito equilibradas e bem escolhidas.",
+      "descriptionHTML": "Faça este teste de QI e descubra o real valor do seu QI. O teste determina o coeficiente do seu QI, sua conclusão deve ser feita em 30 minutos. O teste contém 30 questões, cada uma com uma única resposta. Você saberá o seu valor de QI imediatamente após concluir o teste, caso já tenha feito o teste e queira conferir o resultado, clique no botão de menu para exibir os resultados.<br><br>- Este teste de QI é muito preciso.<br>- O teste contém 30 questões muito importantes.<br>- O limite de tempo de resolução é de 30 minutos.<br>- Saber o resultado do teste é gratuito.<br>- O resultado só poderá ser encontrado ao final da prova.<br>- As questões do teste são muito equilibradas e bem escolhidas.",
+      "summary": "Faça este teste de QI e descubra qual é a sua pontuação real de QI.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 710601,
+      "score": 4.259259,
+      "scoreText": "4,3",
+      "ratings": 3002,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iq.test.online.tools.store",
+      "url": "https://play.google.com/store/apps/details?id=com.iq.test.online.tools.store&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "PlaytestCloud: Be a Playtester",
+      "description": "Faça login em sua conta PlaytestCloud e navegue por todos os playtests, pesquisas e outras pesquisas disponíveis, juntando e acompanhando seu tempo em cada um facilmente.\n\nSua opinião importa. Use o aplicativo para:\n\n- Dê feedback sobre jogos para celular, ajudando seus criadores a criar o melhor jogo possível\n- Grave sua jogabilidade e pense em alto feedback enquanto joga\n- Dê sua opinião sobre conceitos ou através de pesquisas\n\nBasta fazer login, verificar todos os playtests e pesquisas disponíveis e começar a participar. Ajude as empresas a criar jogos que os jogadores adoram.",
+      "descriptionHTML": "Faça login em sua conta PlaytestCloud e navegue por todos os playtests, pesquisas e outras pesquisas disponíveis, juntando e acompanhando seu tempo em cada um facilmente.<br><br>Sua opinião importa. Use o aplicativo para:<br><br>- Dê feedback sobre jogos para celular, ajudando seus criadores a criar o melhor jogo possível<br>- Grave sua jogabilidade e pense em alto feedback enquanto joga<br>- Dê sua opinião sobre conceitos ou através de pesquisas<br><br>Basta fazer login, verificar todos os playtests e pesquisas disponíveis e começar a participar. Ajude as empresas a criar jogos que os jogadores adoram.",
+      "summary": "Ajude a fazer jogos melhores!",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 626522,
+      "score": 2.744681,
+      "scoreText": "2,7",
+      "ratings": 1792,
+      "reviews": 26,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.playtestcloud.tester",
+      "url": "https://play.google.com/store/apps/details?id=com.playtestcloud.tester&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Testora: Treino Cerebral",
+      "description": "Testora - compreenda como a sua mente funciona\n\nO seu cérebro pode crescer, adaptar-se e aprender em qualquer idade. Esta capacidade natural chama-se neuroplasticidade - e torna-se mais forte quando pratica treino cerebral regularmente.\n\nTestora é uma aplicação moderna de treino cerebral e testes de personalidade que ajuda adultos a explorar e desenvolver capacidades mentais, cognitivas e de QI através de testes, exercícios guiados curtos e ferramentas de auto-reflexão pensadas para o dia a dia.\n\nSe quer melhorar concentração, memória, atenção ou a sua forma mental, Testora oferece ferramentas claras e práticas para treinar a mente sem pressão.\n\nTestora foca-se em consciência, clareza e compreensão pessoal - não em velocidade, competição ou stress.\n\nSe isto lhe soa familiar, Testora foi criado para o ajudar a:\n\n• Ler um artigo completo sem perder o foco\n• Tomar decisões sem pensar demasiado\n• Sentir-se mais produtivo sem trabalhar mais horas\n• Sentir-se menos mentalmente cansado ao final do dia\n• Compreender porque reage intensamente em certas situações\n\nO que pode fazer com Testora:\n\n• Fazer testes de personalidade que exploram valores pessoais, equilíbrio emocional e objetivos de vida\n• Compreender porque a sua atenção diminui ou porque se sente mentalmente cansado\n• Melhorar foco, memória e atenção com exercícios cognitivos curtos\n• Resolver desafios de lógica e exercícios de pensamento\n• Descobrir novos treinos cerebrais adicionados semanalmente\n\nTestora foi pensado para a vida real:\n\n• Sessões curtas que cabem num dia ocupado\n• Explicações claras com ideias úteis para o dia a dia\n• Sem pressão ou competição\n• Criado para adultos focados em crescimento pessoal e saúde mental\n\nNão precisa de conhecimentos especiais - apenas curiosidade sobre a sua mente.\n\nCompreenda a sua mente.\nConstrua hábitos mentais consistentes.\nTreine o seu cérebro com Testora.",
+      "descriptionHTML": "Testora - compreenda como a sua mente funciona<br><br>O seu cérebro pode crescer, adaptar-se e aprender em qualquer idade. Esta capacidade natural chama-se neuroplasticidade - e torna-se mais forte quando pratica treino cerebral regularmente.<br><br>Testora é uma aplicação moderna de treino cerebral e testes de personalidade que ajuda adultos a explorar e desenvolver capacidades mentais, cognitivas e de QI através de testes, exercícios guiados curtos e ferramentas de auto-reflexão pensadas para o dia a dia.<br><br>Se quer melhorar concentração, memória, atenção ou a sua forma mental, Testora oferece ferramentas claras e práticas para treinar a mente sem pressão.<br><br>Testora foca-se em consciência, clareza e compreensão pessoal - não em velocidade, competição ou stress.<br><br>Se isto lhe soa familiar, Testora foi criado para o ajudar a:<br><br>• Ler um artigo completo sem perder o foco<br>• Tomar decisões sem pensar demasiado<br>• Sentir-se mais produtivo sem trabalhar mais horas<br>• Sentir-se menos mentalmente cansado ao final do dia<br>• Compreender porque reage intensamente em certas situações<br><br>O que pode fazer com Testora:<br><br>• Fazer testes de personalidade que exploram valores pessoais, equilíbrio emocional e objetivos de vida<br>• Compreender porque a sua atenção diminui ou porque se sente mentalmente cansado<br>• Melhorar foco, memória e atenção com exercícios cognitivos curtos<br>• Resolver desafios de lógica e exercícios de pensamento<br>• Descobrir novos treinos cerebrais adicionados semanalmente<br><br>Testora foi pensado para a vida real:<br><br>• Sessões curtas que cabem num dia ocupado<br>• Explicações claras com ideias úteis para o dia a dia<br>• Sem pressão ou competição<br>• Criado para adultos focados em crescimento pessoal e saúde mental<br><br>Não precisa de conhecimentos especiais - apenas curiosidade sobre a sua mente.<br><br>Compreenda a sua mente.<br>Construa hábitos mentais consistentes.<br>Treine o seu cérebro com Testora.",
+      "summary": "Treina IQ, memória e concentração com testes de personalidade",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5079,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.brain.training.testora",
+      "url": "https://play.google.com/store/apps/details?id=com.brain.training.testora&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Teste de QI - Neuro Quest",
+      "description": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟\n\nDescubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.\n\n✨ O que oferecemos:\n\nTeste de QI certificado para todas as idades e níveis de habilidade.\nPerguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.\nResultados detalhados e análise personalizada do seu desempenho.\nComparação com outros usuários para ver como você se destaca!\n🚀 Por que escolher nosso aplicativo:\n\nDesenvolvimento científico com base em métodos reconhecidos internacionalmente.\nInterface intuitiva e amigável para uma experiência de usuário imersiva.\nTestes rápidos que se encaixam perfeitamente na sua rotina diária.\nDesbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.\n\n📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "descriptionHTML": "🧠 Teste seu Quociente de Inteligência (QI) e Desafie sua Mente! 🌟<br><br>Descubra seu potencial mental com nosso aplicativo de testes de QI preciso e envolvente! Desenvolvido por especialistas em psicologia cognitiva, nosso teste oferece uma avaliação abrangente de suas habilidades intelectuais.<br><br>✨ O que oferecemos:<br><br>Teste de QI certificado para todas as idades e níveis de habilidade.<br>Perguntas desafiadoras e variadas que estimulam diferentes áreas do cérebro.<br>Resultados detalhados e análise personalizada do seu desempenho.<br>Comparação com outros usuários para ver como você se destaca!<br>🚀 Por que escolher nosso aplicativo:<br><br>Desenvolvimento científico com base em métodos reconhecidos internacionalmente.<br>Interface intuitiva e amigável para uma experiência de usuário imersiva.<br>Testes rápidos que se encaixam perfeitamente na sua rotina diária.<br>Desbloqueie seu verdadeiro potencial cognitivo hoje! Baixe agora e comece sua jornada para uma mente mais forte e aguçada.<br><br>📲 Disponível para download em iOS e Android. Teste-se agora!",
+      "summary": "Descubra seu QI com nosso super app! Testes desafiadores e resultados precisos.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5027,
+      "score": 3.9433963,
+      "scoreText": "3,9",
+      "ratings": 53,
+      "reviews": 45,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.qi.neuroquest",
+      "url": "https://play.google.com/store/apps/details?id=com.qi.neuroquest&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "12 Testadores: Teste Fechado",
+      "description": "Consiga 12 Testadores para Seu Teste Fechado no Google Play\n\nO AppDadz ajuda desenvolvedores Android a concluir o teste fechado no Google Play com 15 testadores reais e suporte estruturado para testar seus aplicativos.\n\nNossos testadores instalam e testam seu aplicativo em seus próprios dispositivos Android e permanecem inscritos durante todo o período de 14 dias do teste fechado. Você pode acompanhar em tempo real a quantidade de testadores ativos diretamente no AppDadz.\n\nDurante o teste, você recebe:\n\n• 15 testadores reais para seu aplicativo Android\n• Suporte durante os 14 dias de teste fechado\n• Acompanhamento dos testadores ativos em tempo real\n• Capturas de tela diárias das atividades de teste\n• Comentários sobre o aplicativo e feedback dos testadores\n• Um relatório profissional de teste do aplicativo\n\nOs testadores fornecem feedback sobre a usabilidade, o desempenho, a navegação, o design e possíveis problemas do seu aplicativo. As capturas de tela diárias ajudam você a confirmar que as atividades de teste estão sendo realizadas de forma regular e consistente.\n\nApós a conclusão do teste, você recebe um relatório detalhado com as principais descobertas e os pontos que podem precisar de melhorias antes de solicitar o acesso de produção.\n\nTudo fica organizado em um só lugar, tornando o teste fechado no Google Play simples, transparente e fácil de gerenciar.\n\nO AppDadz é indicado para desenvolvedores que publicam aplicativos Android, Flutter, React Native ou Kotlin no Google Play.\n\nO AppDadz é um serviço independente e não possui afiliação nem vínculo oficial com o Google ou o Google Play.",
+      "descriptionHTML": "Consiga 12 Testadores para Seu Teste Fechado no Google Play<br><br>O AppDadz ajuda desenvolvedores Android a concluir o teste fechado no Google Play com 15 testadores reais e suporte estruturado para testar seus aplicativos.<br><br>Nossos testadores instalam e testam seu aplicativo em seus próprios dispositivos Android e permanecem inscritos durante todo o período de 14 dias do teste fechado. Você pode acompanhar em tempo real a quantidade de testadores ativos diretamente no AppDadz.<br><br>Durante o teste, você recebe:<br><br>• 15 testadores reais para seu aplicativo Android<br>• Suporte durante os 14 dias de teste fechado<br>• Acompanhamento dos testadores ativos em tempo real<br>• Capturas de tela diárias das atividades de teste<br>• Comentários sobre o aplicativo e feedback dos testadores<br>• Um relatório profissional de teste do aplicativo<br><br>Os testadores fornecem feedback sobre a usabilidade, o desempenho, a navegação, o design e possíveis problemas do seu aplicativo. As capturas de tela diárias ajudam você a confirmar que as atividades de teste estão sendo realizadas de forma regular e consistente.<br><br>Após a conclusão do teste, você recebe um relatório detalhado com as principais descobertas e os pontos que podem precisar de melhorias antes de solicitar o acesso de produção.<br><br>Tudo fica organizado em um só lugar, tornando o teste fechado no Google Play simples, transparente e fácil de gerenciar.<br><br>O AppDadz é indicado para desenvolvedores que publicam aplicativos Android, Flutter, React Native ou Kotlin no Google Play.<br><br>O AppDadz é um serviço independente e não possui afiliação nem vínculo oficial com o Google ou o Google Play.",
+      "summary": "Encontre testadores Android e acompanhe seu teste fechado de 14 dias.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7435,
+      "score": 4.8095236,
+      "scoreText": "4,8",
+      "ratings": 465,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.testers.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.testers.pro&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Teste de Depressão PHQ-9",
+      "description": "**Assuma o controle da sua saúde mental com o Teste de Depressão - uma ferramenta PHQ-9 validada, privada e fácil de usar.**\n\nO Teste de Depressão ajuda você a monitorar seu bem-estar mental utilizando o Questionário de Saúde do Paciente-9 (PHQ-9), um instrumento de triagem validado cientificamente, usado por profissionais de saúde em todo o mundo para avaliar a gravidade da depressão.\n\n### Principais Funcionalidades\n\n**Avaliação Rápida e Fácil**\nComplete a avaliação de 9 perguntas do PHQ-9 em apenas 2-3 minutos. Obtenha resultados instantâneos com explicações claras sobre o que seu escore significa.\n\n**Acompanhe Seu Progresso**\nVisualize o histórico de suas pontuações e tendências ao longo do tempo. Médias mensais e estatísticas ajudam a entender padrões em sua jornada de saúde mental.\n\n**Diário Pessoal**\nRegistre seus pensamentos e sentimentos com nosso diário de humor integrado. Acompanhe suas emoções diárias e reflita sobre seu bem-estar mental.\n\n**20 Idiomas Suportados**\nDisponível em inglês, tailandês, espanhol, chinês (simplificado e tradicional), japonês, coreano, francês, alemão, português, hindi, árabe, holandês, indonésio, italiano, malaio, polonês, russo, turco e vietnamita.\n\n**100% Privado e Offline**\nSua privacidade é nossa prioridade. Todos os dados permanecem no seu dispositivo - sem necessidade de conta, sem internet, sem coleta de dados. Suas informações de saúde mental pertencem apenas a você.\n\n**Lembretes Personalizáveis**\nDefina lembretes diários, semanais ou mensais para conferir como você está. Autoavaliações regulares ajudam a manter a consciência sobre sua saúde mental.\n\n**Proteção por PIN**\nProteja seus dados privados com bloqueio por PIN opcional. Escolha quando o aplicativo será bloqueado para maior privacidade.\n\n**Modo Escuro**\nConfortável para os olhos com suporte total ao modo escuro. Alterne entre temas claros e escuros conforme sua preferência.\n\n### Entendendo o PHQ-9\n\nO PHQ-9 é um instrumento multifuncional para triagem, diagnóstico, monitoramento e medição da gravidade da depressão. Foi validado em inúmeros estudos e é recomendado por organizações de saúde em todo o mundo.\n\n**Interpretação dos Pontos:**\n- 0-4: Depressão mínima\n- 5-9: Depressão leve\n- 10-14: Depressão moderada\n- 15-19: Depressão moderadamente grave\n- 20-27: Depressão grave\n\n### Aviso Importante\n\nEste aplicativo é apenas uma ferramenta de triagem e NÃO fornece diagnóstico médico. Se você está apresentando sintomas de depressão ou tem preocupações sobre sua saúde mental, consulte um profissional de saúde qualificado.\n\nSe você está tendo pensamentos de automutilação ou suicídio, entre em contato imediatamente com uma linha de ajuda em crise no seu país.\n\n### Por que Escolher o Teste de Depressão?\n\n- **Sem assinaturas** - Sem compras no app\n- **Sem anúncios** - Foque na sua saúde mental sem distrações\n- **Sem registro** - Comece a usar imediatamente, sem necessidade de email\n- **Cientificamente validado** - Baseado no PHQ-9, usado por médicos mundialmente\n- **Focado na privacidade** - Zero coleta de dados, 100% capaz de operar offline\n- **Multilíngue** - Suporte para 20 idiomas\n\nBaixe o Teste de Depressão hoje e dê o primeiro passo para entender e monitorar sua saúde mental.",
+      "descriptionHTML": "**Assuma o controle da sua saúde mental com o Teste de Depressão - uma ferramenta PHQ-9 validada, privada e fácil de usar.**<br><br>O Teste de Depressão ajuda você a monitorar seu bem-estar mental utilizando o Questionário de Saúde do Paciente-9 (PHQ-9), um instrumento de triagem validado cientificamente, usado por profissionais de saúde em todo o mundo para avaliar a gravidade da depressão.<br><br>### Principais Funcionalidades<br><br>**Avaliação Rápida e Fácil**<br>Complete a avaliação de 9 perguntas do PHQ-9 em apenas 2-3 minutos. Obtenha resultados instantâneos com explicações claras sobre o que seu escore significa.<br><br>**Acompanhe Seu Progresso**<br>Visualize o histórico de suas pontuações e tendências ao longo do tempo. Médias mensais e estatísticas ajudam a entender padrões em sua jornada de saúde mental.<br><br>**Diário Pessoal**<br>Registre seus pensamentos e sentimentos com nosso diário de humor integrado. Acompanhe suas emoções diárias e reflita sobre seu bem-estar mental.<br><br>**20 Idiomas Suportados**<br>Disponível em inglês, tailandês, espanhol, chinês (simplificado e tradicional), japonês, coreano, francês, alemão, português, hindi, árabe, holandês, indonésio, italiano, malaio, polonês, russo, turco e vietnamita.<br><br>**100% Privado e Offline**<br>Sua privacidade é nossa prioridade. Todos os dados permanecem no seu dispositivo - sem necessidade de conta, sem internet, sem coleta de dados. Suas informações de saúde mental pertencem apenas a você.<br><br>**Lembretes Personalizáveis**<br>Defina lembretes diários, semanais ou mensais para conferir como você está. Autoavaliações regulares ajudam a manter a consciência sobre sua saúde mental.<br><br>**Proteção por PIN**<br>Proteja seus dados privados com bloqueio por PIN opcional. Escolha quando o aplicativo será bloqueado para maior privacidade.<br><br>**Modo Escuro**<br>Confortável para os olhos com suporte total ao modo escuro. Alterne entre temas claros e escuros conforme sua preferência.<br><br>### Entendendo o PHQ-9<br><br>O PHQ-9 é um instrumento multifuncional para triagem, diagnóstico, monitoramento e medição da gravidade da depressão. Foi validado em inúmeros estudos e é recomendado por organizações de saúde em todo o mundo.<br><br>**Interpretação dos Pontos:**<br>- 0-4: Depressão mínima<br>- 5-9: Depressão leve<br>- 10-14: Depressão moderada<br>- 15-19: Depressão moderadamente grave<br>- 20-27: Depressão grave<br><br>### Aviso Importante<br><br>Este aplicativo é apenas uma ferramenta de triagem e NÃO fornece diagnóstico médico. Se você está apresentando sintomas de depressão ou tem preocupações sobre sua saúde mental, consulte um profissional de saúde qualificado.<br><br>Se você está tendo pensamentos de automutilação ou suicídio, entre em contato imediatamente com uma linha de ajuda em crise no seu país.<br><br>### Por que Escolher o Teste de Depressão?<br><br>- **Sem assinaturas** - Sem compras no app<br>- **Sem anúncios** - Foque na sua saúde mental sem distrações<br>- **Sem registro** - Comece a usar imediatamente, sem necessidade de email<br>- **Cientificamente validado** - Baseado no PHQ-9, usado por médicos mundialmente<br>- **Focado na privacidade** - Zero coleta de dados, 100% capaz de operar offline<br>- **Multilíngue** - Suporte para 20 idiomas<br><br>Baixe o Teste de Depressão hoje e dê o primeiro passo para entender e monitorar sua saúde mental.",
+      "summary": "Teste PHQ-9 de depressão. Acompanhe sua saúde mental em 20 idiomas.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 7888,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.nax.depressiontest",
+      "url": "https://play.google.com/store/apps/details?id=com.nax.depressiontest&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Último Momento: Tempo Reação",
+      "description": "Last Moment é um jogo de reflexo e precisão onde um toque errado acaba com sua sequência.\n\nFique de olho no indicador. Toque no momento exato. Não erre.\n\nParece fácil — nos primeiros segundos. Mas a velocidade aumenta, a janela de tempo\ndiminui, e a maioria dos jogadores não chega muito longe.\n\n🎯 COMO JOGAR\n- Observe o indicador giratório\n- Toque no momento perfeito\n- Mantenha sua sequência — cada erro zera seu progresso\n\n⏱ MODOS DE JOGO\n- Níveis — a velocidade aumenta a cada fase\n- Infinito — tente bater seu recorde pessoal\n- 60 Segundos — quantos toques perfeitos em um minuto?\n\n✨ RECURSOS\n- Design minimalista — nada para te distrair\n- Início instantâneo — sem tutoriais, sem telas de carregamento\n- Sessões curtas — de 1 a 3 minutos\n- Ranking — sempre tem alguém na sua frente\n\njogo de reação / jogo de reflexo / desafio de precisão / arcade / jogo de um toque",
+      "descriptionHTML": "Last Moment é um jogo de reflexo e precisão onde um toque errado acaba com sua sequência.<br><br>Fique de olho no indicador. Toque no momento exato. Não erre.<br><br>Parece fácil — nos primeiros segundos. Mas a velocidade aumenta, a janela de tempo<br>diminui, e a maioria dos jogadores não chega muito longe.<br><br>🎯 COMO JOGAR<br>- Observe o indicador giratório<br>- Toque no momento perfeito<br>- Mantenha sua sequência — cada erro zera seu progresso<br><br>⏱ MODOS DE JOGO<br>- Níveis — a velocidade aumenta a cada fase<br>- Infinito — tente bater seu recorde pessoal<br>- 60 Segundos — quantos toques perfeitos em um minuto?<br><br>✨ RECURSOS<br>- Design minimalista — nada para te distrair<br>- Início instantâneo — sem tutoriais, sem telas de carregamento<br>- Sessões curtas — de 1 a 3 minutos<br>- Ranking — sempre tem alguém na sua frente<br><br>jogo de reação / jogo de reflexo / desafio de precisão / arcade / jogo de um toque",
+      "summary": "Teste de tempo de reação. Toque na hora certa e bata seu próprio recorde.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 170,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Casuais",
+      "genreId": "GAME_CASUAL",
+      "categories": [
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.lastmoment.app",
+      "url": "https://play.google.com/store/apps/details?id=com.lastmoment.app&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.\n\nA dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente \"aprimoram\" seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.\n\nAs pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.\n\nFERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.<br><br>A dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente &quot;aprimoram&quot; seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.<br><br>As pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.<br><br>FERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Dislexia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24936,
+      "score": 3.1666667,
+      "scoreText": "3,2",
+      "ratings": 68,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyslexia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Teste de QI (Português)",
+      "description": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.\n\nO QUE VOCÊ RECEBE\n- Um teste de QI completo em português com tarefas realistas de várias categorias\n- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está\n- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos\n- Depois de cada categoria, suas respostas certas e erradas\n- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações\n- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês\n- Pro sem anúncios, como compra única: você não precisa de assinatura\n\nO QUE O TESTE DE QI MEDE\nInspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:\n- Raciocínio perceptual\n- Velocidade de processamento\n- Memória de trabalho\n- Compreensão verbal\n- Raciocínio numérico\n- Pensamento lógico\n\nVocê resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.\n\nO QUE É UM TESTE DE QI?\nUm teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!\n\nTREINO CEREBRAL E PREPARAÇÃO\nVai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.\n\nPARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE\nQuer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.\nResumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.\n\nPRO: DESBLOQUEIE TUDO\nO app IQ Test é gratuito. O Pro é opcional e desbloqueia:\n- Todos os testes de QI\n- Todas as explicações e soluções\n- Todos os exercícios\n- Estatísticas detalhadas\n\nCom o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em \"Pagamentos e assinaturas\".\n\nTermos de uso: https://iqtest-app.de/terms-and-conditions/\nPolítica de privacidade: https://iqtest-app.de/privacy-policy/",
+      "descriptionHTML": "Quão inteligente você é de verdade? Faça um teste de QI completo, receba seu resultado na curva de Gauss e descubra como você se compara aos outros. Desenvolvido com estudantes da Universidade de Rostock (Alemanha) e inspirado na WAIS-IV.<br><br>O QUE VOCÊ RECEBE<br>- Um teste de QI completo em português com tarefas realistas de várias categorias<br>- Seu resultado de QI em uma curva de Gauss (distribuição normal): veja na hora onde você está<br>- Estatísticas detalhadas de cada categoria: descubra seus pontos fortes e fracos<br>- Depois de cada categoria, suas respostas certas e erradas<br>- Enigmas e exercícios em três níveis de dificuldade, com dicas, soluções e explicações<br>- Disponível em português, inglês, alemão, espanhol, francês, italiano, turco e neerlandês<br>- Pro sem anúncios, como compra única: você não precisa de assinatura<br><br>O QUE O TESTE DE QI MEDE<br>Inspirado na WAIS-IV (Escala Wechsler de Inteligência para Adultos), o teste abrange seis áreas:<br>- Raciocínio perceptual<br>- Velocidade de processamento<br>- Memória de trabalho<br>- Compreensão verbal<br>- Raciocínio numérico<br>- Pensamento lógico<br><br>Você resolve tarefas como matrizes, sequências numéricas, planificações de cubos, memória visual, padrões, analogias, estimativas, ordenar números e letras, perguntas de lógica e muito mais.<br><br>O QUE É UM TESTE DE QI?<br>Um teste de QI mostra seu desempenho em comparação com outras pessoas. A inteligência em si não tem uma definição clara: é simplesmente o que um teste de QI mede. Por isso, só dá para comparar resultados do mesmo teste: um QI acima de 100 significa que você resolveu as tarefas melhor do que a média, abaixo de 100, pior. Então não leve seu resultado tão a sério: veja como uma comparação divertida com os outros!<br><br>TREINO CEREBRAL E PREPARAÇÃO<br>Vai fazer um teste de aptidão, um concurso, um vestibular ou um teste psicotécnico? Treine o cérebro com os enigmas e exercícios e melhore seu raciocínio lógico, sua memória e suas habilidades matemáticas.<br><br>PARA UMA PAUSA RÁPIDA: IQ TEST CHALLENGE<br>Quer desafios mentais curtos para qualquer momento? Experimente nosso segundo app, IQ Test Challenge: mais de 5000 tarefas rápidas de QI e, em cada uma, você vê como os outros resolveram – além de desafios diários e modos como Morte súbita.<br>Resumindo: o IQ Test é o teste de QI completo, o IQ Test Challenge é para uma pausa rápida.<br><br>PRO: DESBLOQUEIE TUDO<br>O app IQ Test é gratuito. O Pro é opcional e desbloqueia:<br>- Todos os testes de QI<br>- Todas as explicações e soluções<br>- Todos os exercícios<br>- Estatísticas detalhadas<br><br>Com o Pro não há anúncios. Você pode obter o Pro com uma compra única, desbloqueado para sempre – sem precisar de assinatura. Se preferir, também há uma assinatura: ela é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do fim do período atual, e pode ser gerenciada ou cancelada no Google Play, em &quot;Pagamentos e assinaturas&quot;.<br><br>Termos de uso: https://iqtest-app.de/terms-and-conditions/<br>Política de privacidade: https://iqtest-app.de/privacy-policy/",
+      "summary": "Quão inteligente você é? Faça parte do ótimo teste de QI",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1129023,
+      "score": 4.2677164,
+      "scoreText": "4,3",
+      "ratings": 4780,
+      "reviews": 371,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Enigma",
+          "id": null
+        },
+        {
+          "name": "Treinar o cérebro",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "de.paulstelzer.iqtest",
+      "url": "https://play.google.com/store/apps/details?id=de.paulstelzer.iqtest&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Fallacy: Jogos de Lógica",
+      "description": "Fallacy — App de Jogos Cerebrais, Treinamento Cerebral e Jogos de Lógica para Pensamento Crítico\n\nSeu cérebro comete erros de lógica e raciocínio todos os dias. Fallacy é o primeiro app de treinamento cerebral e jogos cerebrais que ensina falácias lógicas e vieses cognitivos através de jogos de lógica interativos, enigmas e desafios mentais divertidos.\n\nSe você procura jogos cerebrais que vão além de memória e velocidade, Fallacy é para você. Nosso treinamento cerebral foca no que realmente importa: raciocínio lógico, pensamento crítico e argumentação.\n\n🎯 POR QUE FALLACY É DIFERENTE DE OUTROS JOGOS CEREBRAIS?\n\nApps de treinamento cerebral como Lumosity, Peak, Elevate e Impulse treinam memória, atenção e velocidade. Mas nenhum oferece jogos de lógica focados em falácias lógicas, vieses cognitivos ou pensamento crítico. Fallacy é o único app de jogos cerebrais que combina treinamento cerebral com raciocínio lógico prático.\n\n📚 APRENDA 30+ FALÁCIAS LÓGICAS EM JOGOS INTERATIVOS\n\nDomine falácias lógicas como Ad Hominem, Falso Dilema, Apelo à Autoridade, Espantalho, Bola de Neve, Falsa Causa, Apelo à Emoção e muitas outras. Cada falácia inclui:\n• Definição clara e acessível em português\n• Exemplos práticos do cotidiano brasileiro\n• Exercícios interativos de raciocínio lógico\n• Aplicações reais em debates, notícias e redes sociais\n\n🧩 DESCUBRA 20+ VIESES COGNITIVOS EM DESAFIOS MENTAIS\n\nEntenda como vieses cognitivos como Efeito Ancoragem, Viés de Confirmação, Efeito Dunning-Kruger, Heurística de Disponibilidade, Viés do Sobrevivente e Efeito Halo influenciam suas decisões. O único app de jogos mentais e treinamento cerebral que combina falácias lógicas E vieses cognitivos em jogos cerebrais gamificados.\n\n⚡ MODO DEBATE — PRATIQUE ARGUMENTAÇÃO E PENSAMENTO CRÍTICO\n\nPratique pensamento crítico com temas reais! Cenários de debate baseados em notícias e discussões atuais do Brasil e do mundo. Identifique manipulações, fake news e argumentos falaciosos. Treine argumentação com lógica, clareza e evidências. Perfeito para melhorar comunicação e oratória.\n\n📰 MODO DESAFIO — IDENTIFIQUE FALÁCIAS EM NOTÍCIAS REAIS\n\nDeslize por manchetes reais para identificar falácias lógicas e vieses cognitivos em ação. Desenvolva raciocínio lógico e pensamento crítico aplicável ao seu dia a dia.\n\n🏆 RECURSOS DE TREINAMENTO CEREBRAL E JOGOS DE LÓGICA\n\n• 5 níveis progressivos de dificuldade para jogos cerebrais e enigmas\n• Desafios cronometrados de raciocínio lógico (10-30 segundos)\n• Exercícios cerebrais diários com sistema de sequência e streaks\n• Pontuação de QI de Precisão para medir sua evolução cognitiva\n• Acompanhamento de progresso em 30, 60 e 90 dias\n• Mais de 50 jogos de lógica, enigmas, quiz e desafios mentais\n• Interface intuitiva, moderna e envolvente\n\n👥 PERFEITO PARA TODOS QUE QUEREM TREINAR O CÉREBRO\n\n• Estudantes preparando para ENEM, vestibular, concursos públicos e OAB\n• Profissionais que tomam decisões estratégicas e querem treinar o cérebro\n• Advogados, debatedores e comunicadores que precisam de argumentação lógica\n• Entusiastas de jogos de lógica, quebra-cabeças, enigmas e desafios mentais\n• Professores e educadores que ensinam pensamento crítico e raciocínio\n• Qualquer pessoa que quer jogos cerebrais focados em inteligência e lógica\n\n🧪 BASEADO EM CIÊNCIA COGNITIVA\n\nFallacy combina psicologia cognitiva, lógica formal e economia comportamental em jogos cerebrais acessíveis. Cada exercício fortalece raciocínio lógico, pensamento crítico e tomada de decisão.\n\nBaixe grátis! Comece seu treinamento cerebral em jogos de lógica e pensamento crítico hoje.",
+      "descriptionHTML": "Fallacy — App de Jogos Cerebrais, Treinamento Cerebral e Jogos de Lógica para Pensamento Crítico<br><br>Seu cérebro comete erros de lógica e raciocínio todos os dias. Fallacy é o primeiro app de treinamento cerebral e jogos cerebrais que ensina falácias lógicas e vieses cognitivos através de jogos de lógica interativos, enigmas e desafios mentais divertidos.<br><br>Se você procura jogos cerebrais que vão além de memória e velocidade, Fallacy é para você. Nosso treinamento cerebral foca no que realmente importa: raciocínio lógico, pensamento crítico e argumentação.<br><br>🎯 POR QUE FALLACY É DIFERENTE DE OUTROS JOGOS CEREBRAIS?<br><br>Apps de treinamento cerebral como Lumosity, Peak, Elevate e Impulse treinam memória, atenção e velocidade. Mas nenhum oferece jogos de lógica focados em falácias lógicas, vieses cognitivos ou pensamento crítico. Fallacy é o único app de jogos cerebrais que combina treinamento cerebral com raciocínio lógico prático.<br><br>📚 APRENDA 30+ FALÁCIAS LÓGICAS EM JOGOS INTERATIVOS<br><br>Domine falácias lógicas como Ad Hominem, Falso Dilema, Apelo à Autoridade, Espantalho, Bola de Neve, Falsa Causa, Apelo à Emoção e muitas outras. Cada falácia inclui:<br>• Definição clara e acessível em português<br>• Exemplos práticos do cotidiano brasileiro<br>• Exercícios interativos de raciocínio lógico<br>• Aplicações reais em debates, notícias e redes sociais<br><br>🧩 DESCUBRA 20+ VIESES COGNITIVOS EM DESAFIOS MENTAIS<br><br>Entenda como vieses cognitivos como Efeito Ancoragem, Viés de Confirmação, Efeito Dunning-Kruger, Heurística de Disponibilidade, Viés do Sobrevivente e Efeito Halo influenciam suas decisões. O único app de jogos mentais e treinamento cerebral que combina falácias lógicas E vieses cognitivos em jogos cerebrais gamificados.<br><br>⚡ MODO DEBATE — PRATIQUE ARGUMENTAÇÃO E PENSAMENTO CRÍTICO<br><br>Pratique pensamento crítico com temas reais! Cenários de debate baseados em notícias e discussões atuais do Brasil e do mundo. Identifique manipulações, fake news e argumentos falaciosos. Treine argumentação com lógica, clareza e evidências. Perfeito para melhorar comunicação e oratória.<br><br>📰 MODO DESAFIO — IDENTIFIQUE FALÁCIAS EM NOTÍCIAS REAIS<br><br>Deslize por manchetes reais para identificar falácias lógicas e vieses cognitivos em ação. Desenvolva raciocínio lógico e pensamento crítico aplicável ao seu dia a dia.<br><br>🏆 RECURSOS DE TREINAMENTO CEREBRAL E JOGOS DE LÓGICA<br><br>• 5 níveis progressivos de dificuldade para jogos cerebrais e enigmas<br>• Desafios cronometrados de raciocínio lógico (10-30 segundos)<br>• Exercícios cerebrais diários com sistema de sequência e streaks<br>• Pontuação de QI de Precisão para medir sua evolução cognitiva<br>• Acompanhamento de progresso em 30, 60 e 90 dias<br>• Mais de 50 jogos de lógica, enigmas, quiz e desafios mentais<br>• Interface intuitiva, moderna e envolvente<br><br>👥 PERFEITO PARA TODOS QUE QUEREM TREINAR O CÉREBRO<br><br>• Estudantes preparando para ENEM, vestibular, concursos públicos e OAB<br>• Profissionais que tomam decisões estratégicas e querem treinar o cérebro<br>• Advogados, debatedores e comunicadores que precisam de argumentação lógica<br>• Entusiastas de jogos de lógica, quebra-cabeças, enigmas e desafios mentais<br>• Professores e educadores que ensinam pensamento crítico e raciocínio<br>• Qualquer pessoa que quer jogos cerebrais focados em inteligência e lógica<br><br>🧪 BASEADO EM CIÊNCIA COGNITIVA<br><br>Fallacy combina psicologia cognitiva, lógica formal e economia comportamental em jogos cerebrais acessíveis. Cada exercício fortalece raciocínio lógico, pensamento crítico e tomada de decisão.<br><br>Baixe grátis! Comece seu treinamento cerebral em jogos de lógica e pensamento crítico hoje.",
+      "summary": "Aprenda falácias lógicas e vieses cognitivos com jogos cerebrais divertidos",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 12261,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 179,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Conhecimentos",
+          "id": "GAME_TRIVIA"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.spotthefallacy.fallacygame",
+      "url": "https://play.google.com/store/apps/details?id=com.spotthefallacy.fallacygame&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Teste de QI:teste inteligência",
+      "description": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "descriptionHTML": "Você já se perguntou o quão inteligente você é? Agora você pode descobrir! Com este aplicativo você poderá descobrir sua inteligência (QI). O aplicativo é totalmente gratuito, foi desenvolvido com base nos testes de inteligência mais comuns (Teste de QI), como matriz Raven, Teste Mensa, Escala de Inteligência Wechsler para Adultos, IQ Eysenck etc. Este teste de inteligência (Teste de QI) é capaz de medir o QI na faixa de 75-135. O teste dura em torno de 20 a 40 minutos, neste tempo você será solicitado a fazer 35 quebra-cabeças que vai ficar cada vez mais difícil, no final do tempo, ou quando você responder a todos os quebra-cabeças sua pontuação de QI será mostrada para você junto com uma pequena descrição de como ler o resultado. O teste mede apenas um subconjunto de habilidades intelectuais. Portanto, conclusões válidas não podem ser tiradas sobre a inteligência geral da pessoa, os resultados são aproximados. O teste fornecerá resultados diferentes com base na idade do usuário. Por que fazer um teste de QI? -O objetivo de fazer um teste de QI é medir a inteligência, para medir o raciocínio e as habilidades de resolução de problemas. - Compare seu resultado com amigos - Muitas outras funções excelentes para o Teste de QI ainda estão planejadas! Então, o que você está esperando? Baixe agora o aplicativo e descubra o quão inteligente você é!",
+      "summary": "Quão inteligente você é? Descubra sua inteligência (QI) agora!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 127952,
+      "score": 3.9756098,
+      "scoreText": "4,0",
+      "ratings": 878,
+      "reviews": 19,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.Ziddy.IQTest",
+      "url": "https://play.google.com/store/apps/details?id=com.Ziddy.IQTest&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Lab. de Psicologia Sombria",
+      "description": "Quanta escuridão está escondida dentro de si?\n\nO Laboratório de Psicologia Sombria reúne testes de personalidade dedicados ao lado obscuro da natureza humana. Responda com sinceridade e vão surgindo coisas que nunca soube pôr em palavras.\n\nCINCO TESTES\n• Teste de psicopatia (20 perguntas): medido em quatro eixos — frieza, manipulação, procura de emoções e desprezo pelas regras\n• Teste da tríade sombria (18 perguntas): narcisismo, maquiavelismo e psicopatia de uma só vez\n• Teste da face oculta (15 perguntas): o que esconde por trás desse sorriso?\n• Teste de influência (15 perguntas): com que naturalidade move as pessoas?\n• Teste de empatia (15 perguntas): o oposto exato do teste de psicopatia\n\nRESULTADOS QUE VALEM A LEITURA\n• Uma personagem ilustrada para cada tipo (25 no total)\n• Teste de psicopatia e Teste da tríade sombria: pontuação detalhada por categoria\n• Nível de perigosidade\n• Correspondência com uma figura famosa\n• Os seus traços e as profissões que lhes assentam\n• Partilhe o seu resultado como imagem com a sua personagem\n• Faça os 5 testes para ver \"O seu perfil sombrio\"\n\n21 IDIOMAS\nPortuguês, inglês, japonês, chinês (simplificado e tradicional), coreano, espanhol, francês, alemão, italiano, neerlandês, russo, árabe, hindi, bengali, indonésio, tailandês, turco, finlandês, sueco e norueguês.\n\nSem registo e gratuito. Ótimo tema de conversa para uma noite com amigos.\n\nEsta aplicação destina-se exclusivamente a entretenimento. Não é um diagnóstico nem uma avaliação médica ou psicológica. Encare os resultados como uma brincadeira.",
+      "descriptionHTML": "Quanta escuridão está escondida dentro de si?<br><br>O Laboratório de Psicologia Sombria reúne testes de personalidade dedicados ao lado obscuro da natureza humana. Responda com sinceridade e vão surgindo coisas que nunca soube pôr em palavras.<br><br>CINCO TESTES<br>• Teste de psicopatia (20 perguntas): medido em quatro eixos — frieza, manipulação, procura de emoções e desprezo pelas regras<br>• Teste da tríade sombria (18 perguntas): narcisismo, maquiavelismo e psicopatia de uma só vez<br>• Teste da face oculta (15 perguntas): o que esconde por trás desse sorriso?<br>• Teste de influência (15 perguntas): com que naturalidade move as pessoas?<br>• Teste de empatia (15 perguntas): o oposto exato do teste de psicopatia<br><br>RESULTADOS QUE VALEM A LEITURA<br>• Uma personagem ilustrada para cada tipo (25 no total)<br>• Teste de psicopatia e Teste da tríade sombria: pontuação detalhada por categoria<br>• Nível de perigosidade<br>• Correspondência com uma figura famosa<br>• Os seus traços e as profissões que lhes assentam<br>• Partilhe o seu resultado como imagem com a sua personagem<br>• Faça os 5 testes para ver &quot;O seu perfil sombrio&quot;<br><br>21 IDIOMAS<br>Português, inglês, japonês, chinês (simplificado e tradicional), coreano, espanhol, francês, alemão, italiano, neerlandês, russo, árabe, hindi, bengali, indonésio, tailandês, turco, finlandês, sueco e norueguês.<br><br>Sem registo e gratuito. Ótimo tema de conversa para uma noite com amigos.<br><br>Esta aplicação destina-se exclusivamente a entretenimento. Não é um diagnóstico nem uma avaliação médica ou psicológica. Encare os resultados como uma brincadeira.",
+      "summary": "Quanta escuridão existe em si? Testes de psicopatia e tríade sombria.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5477,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Conhecimentos",
+      "genreId": "GAME_TRIVIA",
+      "categories": [
+        {
+          "name": "Conhecimentos",
+          "id": "GAME_TRIVIA"
+        }
+      ],
+      "adSupported": true,
+      "appId": "multi.diag.psychopath",
+      "url": "https://play.google.com/store/apps/details?id=multi.diag.psychopath&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Saúde Mental: Depressão Trauma",
+      "description": "Saúde Mental: Depressão Trauma                                                                                                                                                                                                               Self Therapy é um aplicativo de Saúde Mental criado para autoavaliação educativa e reflexão estruturada. Ele ajuda você a desenvolver autoconhecimento e organizar o que percebe no dia a dia, com foco especial em Depressão e Trauma. A experiência segue um único caminho simples: check-in → reflexão → registro → revisão, para manter sua rotina de Saúde Mental clara, consistente e fácil de sustentar.\n\nO Self Therapy inclui uma biblioteca de testes educativos de Saúde Mental, com teste de Depressão e teste de Trauma. Também há check-ins educativos relacionados ao tema de estresse pós-traumático, voltados para autoconsciência e entendimento pessoal. Este aplicativo não fornece diagnóstico médico nem tratamento. Ele é destinado apenas à educação e ao autoconhecimento. Esse enquadramento mantém a Saúde Mental em primeiro plano, ao mesmo tempo em que apoia a observação de padrões ligados à Depressão e ao Trauma.\n\nUm único eixo para Saúde Mental\n\nFaça um check-in e repita os testes ao longo do tempo para comparar mudanças. Essa rotina apoia a Saúde Mental ao manter registros consistentes, legíveis e fáceis de revisar, especialmente quando Depressão ou Trauma parecem mais intensos. A repetição transforma a autoobservação em um hábito simples e contínuo de Saúde Mental.\n\nBiblioteca de testes de Saúde Mental\n\nO Self Therapy oferece ferramentas educativas de autoavaliação dentro do contexto de Saúde Mental, cobrindo temas essenciais:\n• Categorias de testes de Saúde Mental para bem-estar emocional e autoconhecimento\n• Teste de Depressão para check-ins, observação de tendências e compreensão de padrões de Depressão\n• Teste de Trauma para reflexão sobre Trauma, identificação de gatilhos, estresse ligado ao Trauma e padrões de Trauma\n• Check-ins educativos sobre estresse pós-traumático (não diagnósticos)\n• Avaliação de tendências de TDAH, indicadores de traços bipolares e testes de consciência sobre personalidade borderline e transtorno obsessivo-compulsivo\n• Testes visuais com cenários de percepção para apoiar a reflexão\n\nDepressão e Trauma com linguagem educativa\n\nO Self Therapy foi projetado para ajudar você a nomear o que se repete sem promessas clínicas. Trauma pode aparecer como lembranças, estresse ou gatilhos; o teste de Trauma apoia a reflexão guiada e o acompanhamento educativo do Trauma. A Depressão pode se manifestar como queda de energia, ciclos ou variações de motivação; o teste de Depressão apoia a consciência e o acompanhamento educativo da Depressão. Quando suas anotações sobre Depressão e Trauma são registradas com consistência, fica mais fácil manter uma rotina estável de Saúde Mental.\n\nDiário e acompanhamento do humor\n\nUse o diário para escrever notas curtas e marcar emoções. Registre o humor diariamente e revise tendências ligadas a momentos de Trauma ou a quedas associadas à Depressão. O histórico ajuda a enxergar tendências de Trauma e tendências de Depressão ao longo de semanas, mantendo o foco na autoavaliação educativa e na sua rotina de Saúde Mental.\n\nRevisão e progresso com foco\n\nO Self Therapy oferece resumos semanais e mensais para revisar padrões e consistência. Isso ajuda você a comparar períodos com mais carga de Trauma com períodos mais estáveis e a notar como os padrões de Depressão mudam com as rotinas diárias. Tudo permanece em um contexto educativo, sem rótulos e sem conclusões médicas, para preservar a clareza e a segurança na sua Saúde Mental.\n\nO Self Therapy reúne ferramentas de Saúde Mental, teste de Depressão, teste de Trauma, check-ins educativos sobre estresse pós-traumático, diário e acompanhamento do humor, para você explorar Depressão e Trauma dentro de uma rotina de Saúde Mental estruturada, prática e acessível.",
+      "descriptionHTML": "Saúde Mental: Depressão Trauma                                                                                                                                                                                                               Self Therapy é um aplicativo de Saúde Mental criado para autoavaliação educativa e reflexão estruturada. Ele ajuda você a desenvolver autoconhecimento e organizar o que percebe no dia a dia, com foco especial em Depressão e Trauma. A experiência segue um único caminho simples: check-in → reflexão → registro → revisão, para manter sua rotina de Saúde Mental clara, consistente e fácil de sustentar.<br><br>O Self Therapy inclui uma biblioteca de testes educativos de Saúde Mental, com teste de Depressão e teste de Trauma. Também há check-ins educativos relacionados ao tema de estresse pós-traumático, voltados para autoconsciência e entendimento pessoal. Este aplicativo não fornece diagnóstico médico nem tratamento. Ele é destinado apenas à educação e ao autoconhecimento. Esse enquadramento mantém a Saúde Mental em primeiro plano, ao mesmo tempo em que apoia a observação de padrões ligados à Depressão e ao Trauma.<br><br>Um único eixo para Saúde Mental<br><br>Faça um check-in e repita os testes ao longo do tempo para comparar mudanças. Essa rotina apoia a Saúde Mental ao manter registros consistentes, legíveis e fáceis de revisar, especialmente quando Depressão ou Trauma parecem mais intensos. A repetição transforma a autoobservação em um hábito simples e contínuo de Saúde Mental.<br><br>Biblioteca de testes de Saúde Mental<br><br>O Self Therapy oferece ferramentas educativas de autoavaliação dentro do contexto de Saúde Mental, cobrindo temas essenciais:<br>• Categorias de testes de Saúde Mental para bem-estar emocional e autoconhecimento<br>• Teste de Depressão para check-ins, observação de tendências e compreensão de padrões de Depressão<br>• Teste de Trauma para reflexão sobre Trauma, identificação de gatilhos, estresse ligado ao Trauma e padrões de Trauma<br>• Check-ins educativos sobre estresse pós-traumático (não diagnósticos)<br>• Avaliação de tendências de TDAH, indicadores de traços bipolares e testes de consciência sobre personalidade borderline e transtorno obsessivo-compulsivo<br>• Testes visuais com cenários de percepção para apoiar a reflexão<br><br>Depressão e Trauma com linguagem educativa<br><br>O Self Therapy foi projetado para ajudar você a nomear o que se repete sem promessas clínicas. Trauma pode aparecer como lembranças, estresse ou gatilhos; o teste de Trauma apoia a reflexão guiada e o acompanhamento educativo do Trauma. A Depressão pode se manifestar como queda de energia, ciclos ou variações de motivação; o teste de Depressão apoia a consciência e o acompanhamento educativo da Depressão. Quando suas anotações sobre Depressão e Trauma são registradas com consistência, fica mais fácil manter uma rotina estável de Saúde Mental.<br><br>Diário e acompanhamento do humor<br><br>Use o diário para escrever notas curtas e marcar emoções. Registre o humor diariamente e revise tendências ligadas a momentos de Trauma ou a quedas associadas à Depressão. O histórico ajuda a enxergar tendências de Trauma e tendências de Depressão ao longo de semanas, mantendo o foco na autoavaliação educativa e na sua rotina de Saúde Mental.<br><br>Revisão e progresso com foco<br><br>O Self Therapy oferece resumos semanais e mensais para revisar padrões e consistência. Isso ajuda você a comparar períodos com mais carga de Trauma com períodos mais estáveis e a notar como os padrões de Depressão mudam com as rotinas diárias. Tudo permanece em um contexto educativo, sem rótulos e sem conclusões médicas, para preservar a clareza e a segurança na sua Saúde Mental.<br><br>O Self Therapy reúne ferramentas de Saúde Mental, teste de Depressão, teste de Trauma, check-ins educativos sobre estresse pós-traumático, diário e acompanhamento do humor, para você explorar Depressão e Trauma dentro de uma rotina de Saúde Mental estruturada, prática e acessível.",
+      "summary": "Self Therapy: Ansiedade &amp; Ansioso - Testes Psicológicos e Mental Health Terapia",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 271976,
+      "score": 4.3366337,
+      "scoreText": "4,3",
+      "ratings": 2688,
+      "reviews": 121,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tanosapps.meditanos",
+      "url": "https://play.google.com/store/apps/details?id=com.tanosapps.meditanos&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Dementia & Cognitive Test",
+      "description": "Preocupado com lapsos de memória — seus ou de um ente querido? O Teste de Demência e Cognição ajuda você a monitorar a saúde cognitiva ao longo do tempo com exercícios curtos inspirados em tarefas neuropsicológicas padrão.\n\nO aplicativo não é uma ferramenta de diagnóstico. Ele foi desenvolvido para detectar mudanças precocemente e fornecer uma visão clara da sua saúde cognitiva ao longo do tempo.\n\n---\n\n10 TESTES, 5 DOMÍNIOS COGNITIVOS\nMemória, atenção, planejamento, orientação e emoções — avaliados por 10 exercícios curtos inspirados em tarefas neuropsicológicas padrão (Tempo de Reação, Teste de Trilhas, Planejamento Sequencial, Reconhecimento de Emoções e muito mais).\n\nPACOTES DE TESTES PARA TODOS OS TEMPOS\nRápido (3–4 min, 7 testes) ou Padrão (8–12 min, 10 testes) — escolha o que melhor se adapta à sua disponibilidade.\n\nTRIAGEM DE SINTOMAS\nUm questionário de 11 perguntas, com duração de aproximadamente 3 minutos, identifica sinais de alerta precoces que merecem atenção.\n\nPERFIL DE RISCO\nIdade, escolaridade, histórico familiar e fatores de saúde e estilo de vida se combinam em um Índice de Risco pessoal — Baixo, Moderado ou Alto — com os fatores contribuintes claramente listados.\n\nHISTÓRICO E TENDÊNCIAS\nHistórico local ilimitado com gráficos de 6 meses, 12 meses ou seu histórico completo, além de uma visão em radar de todos os cinco domínios monitorados, para que você possa ver se está estável, melhorando ou se é hora de prestar atenção.\n\nLEMBRETES QUE MANTÊM SUA CONSISTÊNCIA\nUm lembrete mensal para o teste e uma atualização anual do perfil — para que o monitoramento se torne um hábito, não um evento isolado.\n\nPRIVACIDADE EM PRIMEIRO LUGAR\nSem conta, sem nuvem. Todos os resultados dos testes e todos os detalhes do perfil permanecem no seu dispositivo.\n\n---\nO QUE ESTE APLICATIVO NÃO É\nO Teste de Demência e Cognição não diagnostica Alzheimer ou demência. Ele não substitui um exame médico. Considere-o como um sistema de alerta precoce para monitorar mudanças ao longo do tempo, não como uma ferramenta clínica.\n\n---\n\nCriado para adultos com mais de 45 anos, cuidadores e famílias com histórico de demência ou Alzheimer.\n\nUso gratuito, sem necessidade de cadastro.\n\nBaixe gratuitamente. Monitore sua saúde mental, um teste de cada vez.",
+      "descriptionHTML": "Preocupado com lapsos de memória — seus ou de um ente querido? O Teste de Demência e Cognição ajuda você a monitorar a saúde cognitiva ao longo do tempo com exercícios curtos inspirados em tarefas neuropsicológicas padrão.<br><br>O aplicativo não é uma ferramenta de diagnóstico. Ele foi desenvolvido para detectar mudanças precocemente e fornecer uma visão clara da sua saúde cognitiva ao longo do tempo.<br><br>---<br><br>10 TESTES, 5 DOMÍNIOS COGNITIVOS<br>Memória, atenção, planejamento, orientação e emoções — avaliados por 10 exercícios curtos inspirados em tarefas neuropsicológicas padrão (Tempo de Reação, Teste de Trilhas, Planejamento Sequencial, Reconhecimento de Emoções e muito mais).<br><br>PACOTES DE TESTES PARA TODOS OS TEMPOS<br>Rápido (3–4 min, 7 testes) ou Padrão (8–12 min, 10 testes) — escolha o que melhor se adapta à sua disponibilidade.<br><br>TRIAGEM DE SINTOMAS<br>Um questionário de 11 perguntas, com duração de aproximadamente 3 minutos, identifica sinais de alerta precoces que merecem atenção.<br><br>PERFIL DE RISCO<br>Idade, escolaridade, histórico familiar e fatores de saúde e estilo de vida se combinam em um Índice de Risco pessoal — Baixo, Moderado ou Alto — com os fatores contribuintes claramente listados.<br><br>HISTÓRICO E TENDÊNCIAS<br>Histórico local ilimitado com gráficos de 6 meses, 12 meses ou seu histórico completo, além de uma visão em radar de todos os cinco domínios monitorados, para que você possa ver se está estável, melhorando ou se é hora de prestar atenção.<br><br>LEMBRETES QUE MANTÊM SUA CONSISTÊNCIA<br>Um lembrete mensal para o teste e uma atualização anual do perfil — para que o monitoramento se torne um hábito, não um evento isolado.<br><br>PRIVACIDADE EM PRIMEIRO LUGAR<br>Sem conta, sem nuvem. Todos os resultados dos testes e todos os detalhes do perfil permanecem no seu dispositivo.<br><br>---<br>O QUE ESTE APLICATIVO NÃO É<br>O Teste de Demência e Cognição não diagnostica Alzheimer ou demência. Ele não substitui um exame médico. Considere-o como um sistema de alerta precoce para monitorar mudanças ao longo do tempo, não como uma ferramenta clínica.<br><br>---<br><br>Criado para adultos com mais de 45 anos, cuidadores e famílias com histórico de demência ou Alzheimer.<br><br>Uso gratuito, sem necessidade de cadastro.<br><br>Baixe gratuitamente. Monitore sua saúde mental, um teste de cada vez.",
+      "summary": "Risco de Alzheimer e Demência",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1543,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.adaptine.braintrack",
+      "url": "https://play.google.com/store/apps/details?id=com.adaptine.braintrack&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Teste DISC",
+      "description": "Descubra sua maneira natural de agir\nResponda 40 perguntas simples e objetivas e veja qual dos quatro estilos melhor descreve como você pensa, se comunica e toma decisões. Ao final, você aprenderá seu estilo principal e suas principais tendências e pontos fortes.\n\nQuestões: 40\nDuração: 8 a 10 minutos\n\nQuem será avaliado?\nVocê pode fazer o teste pensando em você ou no seu amigo. Este aplicativo oferece uma experiência DISC simples: escolha quem você deseja avaliar, responda às 40 perguntas e guarde os resultados para análise posterior.\n\nO que é o teste DISC?\nDISC é um modelo de perfil comportamental que analisa tendências em quatro dimensões: Domínio, Influência, Estabilidade e Consciência. Neste teste, você responderá 40 afirmações para entender quais dessas tendências aparecem com mais força no comportamento avaliado.\n\nFluxo dinâmico\nVocê pode avançar, voltar e retomar o teste sem perder as questões que já respondeu.\n\nResultado\nAo final da prova, você obterá o resultado D, I, S e C: Dominância, Influência, Estabilidade e Consciência, com o perfil primário e secundário, o estilo com o qual você mais se identifica e o animal que o representa.\n\nHistória\nOs testes concluídos são armazenados aqui com a data e o contexto da avaliação.",
+      "descriptionHTML": "Descubra sua maneira natural de agir<br>Responda 40 perguntas simples e objetivas e veja qual dos quatro estilos melhor descreve como você pensa, se comunica e toma decisões. Ao final, você aprenderá seu estilo principal e suas principais tendências e pontos fortes.<br><br>Questões: 40<br>Duração: 8 a 10 minutos<br><br>Quem será avaliado?<br>Você pode fazer o teste pensando em você ou no seu amigo. Este aplicativo oferece uma experiência DISC simples: escolha quem você deseja avaliar, responda às 40 perguntas e guarde os resultados para análise posterior.<br><br>O que é o teste DISC?<br>DISC é um modelo de perfil comportamental que analisa tendências em quatro dimensões: Domínio, Influência, Estabilidade e Consciência. Neste teste, você responderá 40 afirmações para entender quais dessas tendências aparecem com mais força no comportamento avaliado.<br><br>Fluxo dinâmico<br>Você pode avançar, voltar e retomar o teste sem perder as questões que já respondeu.<br><br>Resultado<br>Ao final da prova, você obterá o resultado D, I, S e C: Dominância, Influência, Estabilidade e Consciência, com o perfil primário e secundário, o estilo com o qual você mais se identifica e o animal que o representa.<br><br>História<br>Os testes concluídos são armazenados aqui com a data e o contexto da avaliação.",
+      "summary": "Descubra o seu perfil comportamental com o teste DISC.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 262,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.byronsd.disk_test",
+      "url": "https://play.google.com/store/apps/details?id=com.byronsd.disk_test&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Diagnóstico Diferencial | DD",
+      "description": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  \nUm aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.\n\nO aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.\n\n✨ Principais recursos:\n   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  \n   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  \n   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  \n   📋 Anamnese e exame rápido – checklists e lembretes práticos  \n   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  \n   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  \n   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  \n   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  \n\nIdeal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.\n\n📩 Suporte: contact@rermedapps.com  \n🔒 Política de privacidade: https://rermedapps.com/privacy-policy  \n\n⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "descriptionHTML": "Todos os diagnósticos diferenciais e o raciocínio clínico na palma da sua mão! 🩺  <br>Um aplicativo de referência médica inteligente para analisar sintomas, sinais e resultados de exames laboratoriais, auxiliando na formulação de um diagnóstico diferencial (DD) preciso. Desenvolvido para médicos, residentes e estudantes de medicina, este app apoia a tomada de decisões clínicas, a anamnese e o exame físico em diversas especialidades.<br><br>O aplicativo abrange mais de 150 sintomas e sinais comuns, com análise integrada de resultados laboratoriais. Da clínica médica à cirurgia e pediatria, ajuda profissionais de saúde a construir diagnósticos diferenciais de forma rápida e estruturada.<br><br>✨ Principais recursos:<br>   🤒 Análise de sintomas – inclui mais de 150 sintomas e sinais  <br>   🧪 Resultados laboratoriais – integração de exames de sangue e urina no raciocínio clínico  <br>   🧠 Decisão clínica inteligente – abordagem estruturada para diagnósticos diferenciais  <br>   📋 Anamnese e exame rápido – checklists e lembretes práticos  <br>   📚 Abrangência multidisciplinar – clínica médica, cirurgia, pediatria, ginecologia e mais  <br>   🔎 Notas baseadas em evidências – explicações direcionadas para provas e prática  <br>   ❓ Quiz e casos clínicos – fortalecer o raciocínio diagnóstico  <br>   🩻 Integração – relacionar sintomas, sinais e exames em padrões clínicos úteis  <br><br>Ideal para estudantes de medicina, internos, residentes e médicos que buscam um guia confiável para diagnóstico diferencial (DD) e apoio à decisão clínica.<br><br>📩 Suporte: contact@rermedapps.com  <br>🔒 Política de privacidade: https://rermedapps.com/privacy-policy  <br><br>⚠️ Aviso: Este aplicativo é destinado apenas a fins educacionais. Não substitui o julgamento médico profissional nem a tomada de decisão clínica. Algumas funcionalidades podem exigir assinatura ou compra única.",
+      "summary": "Análise de sintomas e exames | Diagnóstico diferencial rápido | Guia clínico",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 182,
+      "price": 49.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 49,99",
+      "available": true,
+      "genre": "Medicina",
+      "genreId": "MEDICAL",
+      "categories": [
+        {
+          "name": "Medicina",
+          "id": "MEDICAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.rermedapps.differentialdiagnosis",
+      "url": "https://play.google.com/store/apps/details?id=com.rermedapps.differentialdiagnosis&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

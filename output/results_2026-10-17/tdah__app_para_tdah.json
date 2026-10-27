@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:23:09.141Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TDAH",
+    "term": "app para tdah",
+    "key": "app para tdah",
+    "depth": 2,
+    "parent": "tdah app",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Super Planner: Rotina TDAH IA",
+      "description": "Quer uma forma mais inteligente de gerenciar tarefas, rotinas e se manter organizado — especialmente se você tem uma mente ocupada ou TDAH?\nPrecisa de um planejador que torne o planejamento fácil e eficiente?\nSuper Planner: Rotina TDAH IA ajuda você a planejar melhor e viver de forma mais inteligente. Com entrada de voz via IA, você cria tarefas em segundos e as divide em etapas acionáveis com facilidade.\nSuper Planner foi projetado para ser simples e poderoso, ajudando você a controlar afazeres, criar uma rotina diária melhor e realizar mais a cada dia.\n\nSuper Planner - Planos com IA, Você Ganha\n⚡ Plano Rápido: Crie tarefas facilmente com texto ou voz — a IA detecta automaticamente tarefas, datas e locais.\n💡 Divisão Inteligente: A IA transforma grandes metas em etapas simples, ideal para mentes com TDAH.\n🗓️ Personalize sua Linha do Tempo: Defina prazos e lembretes flexíveis.\n💖 Check-in de Humor: Registre seu humor com um toque e receba um biscoito da sorte diário com mensagem surpresa.\n🎭 Personalidade da IA: Alterne entre tons engraçados e motivadores para deixar a produtividade mais divertida.\n\n🌟 Sua mente, seu humor, sua missão — tudo em um só lugar. Conquiste o dia com IA!\n\n📝 Criação Rápida de Planos & Captura de Tarefas\nUse a voz como se estivesse conversando. A IA transforma em planos organizados instantaneamente.\n\n🎯 Divida seu plano em etapas\nTransforme objetivos em passos claros e fáceis de seguir.\n\n🌈 Assistente Inteligente e Divertido\nEscolha entre tons motivadores ou bem-humorados. Sua produtividade personalizada.\n\n🎈 Rastreador de Humor & Biscoito da Sorte\nAcompanhe seu humor e receba mensagens divertidas todos os dias.\n\n📅 Lembretes Personalizáveis\nCrie notificações flexíveis. A IA reconhece entradas e ajusta datas automaticamente.\n\n🧠 Design Simples com modo claro & escuro\nSem sistemas complicados, apenas ferramentas inteligentes.\n\n☁️ Sincronização & Backup\nSincronize em todos os dispositivos com segurança.\n\nNota: conexão com Internet é necessária para funções de IA.\n\nSugestões?\nContato: polestar.applab@gmail.com",
+      "descriptionHTML": "Quer uma forma mais inteligente de gerenciar tarefas, rotinas e se manter organizado — especialmente se você tem uma mente ocupada ou TDAH?<br>Precisa de um planejador que torne o planejamento fácil e eficiente?<br><strong>Super Planner: Rotina TDAH IA</strong> ajuda você a planejar melhor e viver de forma mais inteligente. Com entrada de voz via IA, você cria tarefas em segundos e as divide em etapas acionáveis com facilidade.<br>Super Planner foi projetado para ser simples e poderoso, ajudando você a controlar afazeres, criar uma rotina diária melhor e realizar mais a cada dia.<br><br><strong>Super Planner - Planos com IA, Você Ganha</strong><br>⚡ <strong>Plano Rápido</strong>: Crie tarefas facilmente com texto ou voz — a IA detecta automaticamente tarefas, datas e locais.<br>💡 <strong>Divisão Inteligente</strong>: A IA transforma grandes metas em etapas simples, ideal para mentes com TDAH.<br>🗓️ <strong>Personalize sua Linha do Tempo</strong>: Defina prazos e lembretes flexíveis.<br>💖 <strong>Check-in de Humor</strong>: Registre seu humor com um toque e receba um biscoito da sorte diário com mensagem surpresa.<br>🎭 <strong>Personalidade da IA</strong>: Alterne entre tons engraçados e motivadores para deixar a produtividade mais divertida.<br><br>🌟 <strong>Sua mente, seu humor, sua missão — tudo em um só lugar. Conquiste o dia com IA!</strong><br><br>📝 <strong>Criação Rápida de Planos &amp; Captura de Tarefas</strong><br>Use a voz como se estivesse conversando. A IA transforma em planos organizados instantaneamente.<br><br>🎯 <strong>Divida seu plano em etapas</strong><br>Transforme objetivos em passos claros e fáceis de seguir.<br><br>🌈 <strong>Assistente Inteligente e Divertido</strong><br>Escolha entre tons motivadores ou bem-humorados. Sua produtividade personalizada.<br><br>🎈 <strong>Rastreador de Humor &amp; Biscoito da Sorte</strong><br>Acompanhe seu humor e receba mensagens divertidas todos os dias.<br><br>📅 <strong>Lembretes Personalizáveis</strong><br>Crie notificações flexíveis. A IA reconhece entradas e ajusta datas automaticamente.<br><br>🧠 <strong>Design Simples com modo claro &amp; escuro</strong><br>Sem sistemas complicados, apenas ferramentas inteligentes.<br><br>☁️ <strong>Sincronização &amp; Backup</strong><br>Sincronize em todos os dispositivos com segurança.<br><br>Nota: conexão com Internet é necessária para funções de IA.<br><br>Sugestões?<br>Contato: polestar.applab@gmail.com",
+      "summary": "Gerencie planos, acompanhe seu humor e transforme metas em ação.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 393428,
+      "score": 4.8483753,
+      "scoreText": "4,8",
+      "ratings": 6871,
+      "reviews": 338,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "super.planner.todolist.task.reminder",
+      "url": "https://play.google.com/store/apps/details?id=super.planner.todolist.task.reminder&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "TDAH",
+      "description": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.\n\nE muito mais recursos como...\n\n• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual\n• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade\n• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo\n• Dicas úteis para realizar suas tarefas e aumentar a produtividade\n• Técnicas de Organização, Saúde e Estudos\n• Suporte para vários idiomas, incluindo inglês, espanhol e português\n• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "descriptionHTML": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.<br><br>E muito mais recursos como...<br><br>• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual<br>• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade<br>• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo<br>• Dicas úteis para realizar suas tarefas e aumentar a produtividade<br>• Técnicas de Organização, Saúde e Estudos<br>• Suporte para vários idiomas, incluindo inglês, espanhol e português<br>• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "summary": "Auxiliar crianças e adultos com TDAH",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 147235,
+      "score": 4.36,
+      "scoreText": "4,4",
+      "ratings": 390,
+      "reviews": 99,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "tk.tdah",
+      "url": "https://play.google.com/store/apps/details?id=tk.tdah&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "TDAH Limpeza e Foco",
+      "description": "Finalmente, um app de limpeza que entende você.\n\nSe você tem TDAH, sabe como a limpeza pode ser paralisante. Por onde começar? Como manter a motivação? Este app foi criado especificamente para o seu cérebro.\n\nO que nos torna diferentes:\n\nFeito para mentes com TDAH\n\nTarefas pequenas e atingíveis: Chega de se sentir sobrecarregada.\n\nAcompanhamento visual: Veja suas vitórias em tempo real.\n\nReforço positivo: Celebrações e conquistas a cada passo.\n\nEstrutura sem rigidez: Personalize seus cômodos e tarefas.\n\nCriação de momentum: Comece pequeno e ganhe ritmo.\n\nProgresso Visual\nTire fotos de \"Antes e Depois\" para ver sua transformação. Grave vídeos em time-lapse das suas sessões de limpeza. Reveja suas \"Vitorias Heróicas\" e veja o quanto você já conquistou.\n\nAbordagem por Cômodo\nDiga adeus à paralisia diante da bagunça. Escolha um cômodo, qualquer um. Divida-o em tarefas pequenas e fáceis de gerenciar. Marque uma por uma e sinta a satisfação de progredir.\n\nAjuda quando você não consegue começar\nTravou? Toque em \"Ajuda, não consigo começar!\" e receba uma contagem regressiva personalizada com motivação sob medida para o cômodo escolhido. Nós entendemos que começar é a parte mais difícil.\n\nMantenha o Foco\nUse o timer para sessões de limpeza focadas. Receba lembretes diários que realmente ajudam (sem ser chato). Ganhe notificações motivadoras baseadas no seu progresso real.\n\nGamificação que realmente funciona\nSuba de nível: de \"Esponja Ensopada\" a \"Aspirador Top\" conforme completa as tarefas. Cada cômodo limpo e cada tarefa finalizada constroem seu progresso. Veja seu avatar evoluir e celebre cada nível com animações satisfatórias.\n\nPara quem é este app:\n\nPessoas com TDAH que lutam com a organização doméstica.\n\nQuem precisa de um \"empurrãozinho\" para começar as tarefas.\n\nPessoas que amam gamificação e recompensas.\n\nQuem deseja criar hábitos de limpeza consistentes sem estresse.\n\nO que você ganha:\n\nUma casa mais limpa, um cômodo de cada vez.\n\nMenos estresse e ansiedade com a bagunça.\n\nMais confiança na sua capacidade de manter seu espaço.\n\nUma relação positiva com a limpeza.\n\nProva visual da sua evolução.\n\nFuncionalidades:\n\nSistema completo de gamificação com 10 níveis.\n\nOrganização de cômodos e gestão de tarefas.\n\nFotos de Antes e Depois.\n\nFunção de Timer.\n\nLembretes diários personalizados.\n\nBotão \"Ajuda, não consigo começar!\".\n\nVídeos em Time-lapse.\n\nHistórico de limpeza (Vitórias Heróicas).\n\nComece aos poucos. Ganhe ritmo. Suba o nível do seu lar.",
+      "descriptionHTML": "Finalmente, um app de limpeza que entende você.<br><br>Se você tem TDAH, sabe como a limpeza pode ser paralisante. Por onde começar? Como manter a motivação? Este app foi criado especificamente para o seu cérebro.<br><br>O que nos torna diferentes:<br><br>Feito para mentes com TDAH<br><br>Tarefas pequenas e atingíveis: Chega de se sentir sobrecarregada.<br><br>Acompanhamento visual: Veja suas vitórias em tempo real.<br><br>Reforço positivo: Celebrações e conquistas a cada passo.<br><br>Estrutura sem rigidez: Personalize seus cômodos e tarefas.<br><br>Criação de momentum: Comece pequeno e ganhe ritmo.<br><br>Progresso Visual<br>Tire fotos de &quot;Antes e Depois&quot; para ver sua transformação. Grave vídeos em time-lapse das suas sessões de limpeza. Reveja suas &quot;Vitorias Heróicas&quot; e veja o quanto você já conquistou.<br><br>Abordagem por Cômodo<br>Diga adeus à paralisia diante da bagunça. Escolha um cômodo, qualquer um. Divida-o em tarefas pequenas e fáceis de gerenciar. Marque uma por uma e sinta a satisfação de progredir.<br><br>Ajuda quando você não consegue começar<br>Travou? Toque em &quot;Ajuda, não consigo começar!&quot; e receba uma contagem regressiva personalizada com motivação sob medida para o cômodo escolhido. Nós entendemos que começar é a parte mais difícil.<br><br>Mantenha o Foco<br>Use o timer para sessões de limpeza focadas. Receba lembretes diários que realmente ajudam (sem ser chato). Ganhe notificações motivadoras baseadas no seu progresso real.<br><br>Gamificação que realmente funciona<br>Suba de nível: de &quot;Esponja Ensopada&quot; a &quot;Aspirador Top&quot; conforme completa as tarefas. Cada cômodo limpo e cada tarefa finalizada constroem seu progresso. Veja seu avatar evoluir e celebre cada nível com animações satisfatórias.<br><br>Para quem é este app:<br><br>Pessoas com TDAH que lutam com a organização doméstica.<br><br>Quem precisa de um &quot;empurrãozinho&quot; para começar as tarefas.<br><br>Pessoas que amam gamificação e recompensas.<br><br>Quem deseja criar hábitos de limpeza consistentes sem estresse.<br><br>O que você ganha:<br><br>Uma casa mais limpa, um cômodo de cada vez.<br><br>Menos estresse e ansiedade com a bagunça.<br><br>Mais confiança na sua capacidade de manter seu espaço.<br><br>Uma relação positiva com a limpeza.<br><br>Prova visual da sua evolução.<br><br>Funcionalidades:<br><br>Sistema completo de gamificação com 10 níveis.<br><br>Organização de cômodos e gestão de tarefas.<br><br>Fotos de Antes e Depois.<br><br>Função de Timer.<br><br>Lembretes diários personalizados.<br><br>Botão &quot;Ajuda, não consigo começar!&quot;.<br><br>Vídeos em Time-lapse.<br><br>Histórico de limpeza (Vitórias Heróicas).<br><br>Comece aos poucos. Ganhe ritmo. Suba o nível do seu lar.",
+      "summary": "Timer e Sem Procrastinar",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8323,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 66,
+      "reviews": 1,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.adhdcleaning.app",
+      "url": "https://play.google.com/store/apps/details?id=com.adhdcleaning.app&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Lira - TDAH & Autismo Feminino",
+      "description": "Suporte para mulheres com TDAH ou autismo\n\nA Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.\n\nMuitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.\n\nA Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.\n\nDesenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.\n\nMuitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.\n\nO que você pode fazer com a Lira:\n\n• Registrar sua energia e capacidade diariamente\n• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual\n• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento\n• Receber recomendações personalizadas com base nos seus registros\n• Reconhecer sinais precoces de burnout e sobrecarga\n• Explorar a relação entre TDAH, autismo e flutuações hormonais\n• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial\n\nMundo Interior: aprender através da experiência\n\nO Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.\n\nCriada para a vida real\n\nA Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.\n\nCriada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.\n\nEste aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.\n\nEstamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "descriptionHTML": "Suporte para mulheres com TDAH ou autismo<br><br>A Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.<br><br>Muitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.<br><br>A Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.<br><br>Desenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.<br><br>Muitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.<br><br>O que você pode fazer com a Lira:<br><br>• Registrar sua energia e capacidade diariamente<br>• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual<br>• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento<br>• Receber recomendações personalizadas com base nos seus registros<br>• Reconhecer sinais precoces de burnout e sobrecarga<br>• Explorar a relação entre TDAH, autismo e flutuações hormonais<br>• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial<br><br>Mundo Interior: aprender através da experiência<br><br>O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.<br><br>Criada para a vida real<br><br>A Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.<br><br>Criada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.<br><br>Este aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.<br><br>Estamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "summary": "Energia e apoio diário para mulheres com TDAH e autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10051,
+      "score": 4.4666667,
+      "scoreText": "4,5",
+      "ratings": 80,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "url": "https://play.google.com/store/apps/details?id=com.hugomeninoaguiar.mymobileapp&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Recordo: TDAH Agenda & Notas",
+      "description": "Sobrecarregado pelos próprios pensamentos? Recordo é uma agenda e planner para TDAH que funciona como um segundo cérebro: é só falar, e a IA transforma tudo o que está na sua cabeça em lista de tarefas, lembretes e um plano para hoje.\n\nCriei o Recordo porque tenho TDAH e todos os outros planners pareciam lição de casa. Sem configuração, sem formulários. Fale, digite ou tire uma foto, e a IA organiza tudo em tarefas, notas e ideias.\n\n* 💬 É SÓ FALAR. A IA FAZ O RESTO *\n- Despeje tudo o que está na cabeça por voz, texto ou foto. O modo de voz mãos livres continua ouvindo enquanto você pensa em voz alta.\n- A IA transforma isso em tarefas com datas, lembretes e checklists, ou salva como nota.\n- \"Qual era aquela ideia que eu tive na terça passada?\" Pergunte do seu jeito e a IA encontra.\n- Compartilhe textos ou imagens de qualquer app direto para o Recordo.\n- Escolha a personalidade do seu coach: O Piloto divide as tarefas em passos minúsculos, O Parceiro é um amigo caloroso que te entende sem julgamento, O Motivador transforma as obrigações em jogo.\n\n* 🎯 UMA TAREFA DE CADA VEZ *\nOlhando para uma lista de 50 tarefas sem fazer nada? O Recordo mostra só a próxima tarefa.\n- O Modo Momentum dá a cada tarefa um Plano, um Coach e um temporizador de foco: tudo o que você precisa para começar.\n- O Coach IA divide tarefas grandes em um checklist de micro passos e ajuda você a retomar depois de uma distração.\n- A priorização inteligente avalia a urgência, para você não precisar decidir.\n- Lembretes gentis no horário que você escolher, pensados para a cegueira temporal.\n- Widget na tela inicial: veja sua próxima tarefa e anote uma ideia com um toque.\n\n* 📅 PLANEJE SEU DIA *\n- Visão de calendário por Dia, 3 dias ou Semana, com suas tarefas como blocos de tempo.\n- Conecte o Google Agenda para ver suas reuniões ao lado das tarefas e receber um aviso quando os planos se sobrepõem.\n- Mostre suas tarefas do Recordo em qualquer app de calendário com um link privado.\n\n* 🗂️ PROJETOS *\n- Agrupe tarefas e notas em projetos com cores, cada um com uma meta opcional.\n- Filtre sua lista por projeto e separe trabalho, casa e projetos pessoais.\n- Compartilhe um projeto com seu parceiro, sua parceira ou sua família. Todos adicionam e concluem tarefas, e todos recebem os lembretes. Quem você convida participa de graça.\n\n* 🧘 ROTINAS E HÁBITOS QUE PEGAM DE VERDADE *\n- Rotina da manhã e rotina da noite com tarefas recorrentes que avançam sozinhas.\n- Rastreador de hábitos para TDAH com progresso visual, para cada pequena vitória parecer real.\n- Feito para os dias de pouca dopamina.\n\n* 🤖 UM COACH QUE CONHECE VOCÊ *\n- Conte ao Recordo onde você trava (dificuldade para começar, o tempo voa, opções demais) e o coach se adapta.\n- Memória: o coach lembra o que você conta, como \"de manhã é difícil para mim\", e planeja levando isso em conta. Dá para desativar quando quiser.\n- Automações: deixe o coach planejar seu dia, preparar o dia seguinte ou passar as tarefas não concluídas para hoje, no horário que você definir.\n\n* 🔄 VINDO DE OUTRO APP? *\nImporte suas tarefas abertas e projetos do Todoist em poucos toques. Vindo do Tiimo, Goblin Tools, Structured ou Habitica? O Recordo junta uma lista de tarefas com IA, notas para esvaziar a cabeça, rotinas e um temporizador de foco em um só app feito para TDAH.\n\n* ❤️ POR QUE O RECORDO *\n- CHAT EM PRIMEIRO LUGAR: Se você sabe mandar mensagem, sabe usar.\n- A IA ORGANIZA POR VOCÊ: Sem tags ou pastas manuais.\n- ZERO CONFIGURAÇÃO: Comece assim que baixar.\n- FEITO PARA A DISFUNÇÃO EXECUTIVA: Menos decisões, passos menores, lembretes gentis.\n\nSeus dados são seus. Sem anúncios, sem venda de dados.\n\nBaixe o Recordo, pare de procrastinar e dê ao seu cérebro com TDAH um segundo cérebro que acompanha o ritmo dele.",
+      "descriptionHTML": "Sobrecarregado pelos próprios pensamentos? Recordo é uma agenda e planner para TDAH que funciona como um segundo cérebro: é só falar, e a IA transforma tudo o que está na sua cabeça em lista de tarefas, lembretes e um plano para hoje.<br><br>Criei o Recordo porque tenho TDAH e todos os outros planners pareciam lição de casa. Sem configuração, sem formulários. Fale, digite ou tire uma foto, e a IA organiza tudo em tarefas, notas e ideias.<br><br>* 💬 É SÓ FALAR. A IA FAZ O RESTO *<br>- Despeje tudo o que está na cabeça por voz, texto ou foto. O modo de voz mãos livres continua ouvindo enquanto você pensa em voz alta.<br>- A IA transforma isso em tarefas com datas, lembretes e checklists, ou salva como nota.<br>- &quot;Qual era aquela ideia que eu tive na terça passada?&quot; Pergunte do seu jeito e a IA encontra.<br>- Compartilhe textos ou imagens de qualquer app direto para o Recordo.<br>- Escolha a personalidade do seu coach: O Piloto divide as tarefas em passos minúsculos, O Parceiro é um amigo caloroso que te entende sem julgamento, O Motivador transforma as obrigações em jogo.<br><br>* 🎯 UMA TAREFA DE CADA VEZ *<br>Olhando para uma lista de 50 tarefas sem fazer nada? O Recordo mostra só a próxima tarefa.<br>- O Modo Momentum dá a cada tarefa um Plano, um Coach e um temporizador de foco: tudo o que você precisa para começar.<br>- O Coach IA divide tarefas grandes em um checklist de micro passos e ajuda você a retomar depois de uma distração.<br>- A priorização inteligente avalia a urgência, para você não precisar decidir.<br>- Lembretes gentis no horário que você escolher, pensados para a cegueira temporal.<br>- Widget na tela inicial: veja sua próxima tarefa e anote uma ideia com um toque.<br><br>* 📅 PLANEJE SEU DIA *<br>- Visão de calendário por Dia, 3 dias ou Semana, com suas tarefas como blocos de tempo.<br>- Conecte o Google Agenda para ver suas reuniões ao lado das tarefas e receber um aviso quando os planos se sobrepõem.<br>- Mostre suas tarefas do Recordo em qualquer app de calendário com um link privado.<br><br>* 🗂️ PROJETOS *<br>- Agrupe tarefas e notas em projetos com cores, cada um com uma meta opcional.<br>- Filtre sua lista por projeto e separe trabalho, casa e projetos pessoais.<br>- Compartilhe um projeto com seu parceiro, sua parceira ou sua família. Todos adicionam e concluem tarefas, e todos recebem os lembretes. Quem você convida participa de graça.<br><br>* 🧘 ROTINAS E HÁBITOS QUE PEGAM DE VERDADE *<br>- Rotina da manhã e rotina da noite com tarefas recorrentes que avançam sozinhas.<br>- Rastreador de hábitos para TDAH com progresso visual, para cada pequena vitória parecer real.<br>- Feito para os dias de pouca dopamina.<br><br>* 🤖 UM COACH QUE CONHECE VOCÊ *<br>- Conte ao Recordo onde você trava (dificuldade para começar, o tempo voa, opções demais) e o coach se adapta.<br>- Memória: o coach lembra o que você conta, como &quot;de manhã é difícil para mim&quot;, e planeja levando isso em conta. Dá para desativar quando quiser.<br>- Automações: deixe o coach planejar seu dia, preparar o dia seguinte ou passar as tarefas não concluídas para hoje, no horário que você definir.<br><br>* 🔄 VINDO DE OUTRO APP? *<br>Importe suas tarefas abertas e projetos do Todoist em poucos toques. Vindo do Tiimo, Goblin Tools, Structured ou Habitica? O Recordo junta uma lista de tarefas com IA, notas para esvaziar a cabeça, rotinas e um temporizador de foco em um só app feito para TDAH.<br><br>* ❤️ POR QUE O RECORDO *<br>- CHAT EM PRIMEIRO LUGAR: Se você sabe mandar mensagem, sabe usar.<br>- A IA ORGANIZA POR VOCÊ: Sem tags ou pastas manuais.<br>- ZERO CONFIGURAÇÃO: Comece assim que baixar.<br>- FEITO PARA A DISFUNÇÃO EXECUTIVA: Menos decisões, passos menores, lembretes gentis.<br><br>Seus dados são seus. Sem anúncios, sem venda de dados.<br><br>Baixe o Recordo, pare de procrastinar e dê ao seu cérebro com TDAH um segundo cérebro que acompanha o ritmo dele.",
+      "summary": "Planner com IA: lista de tarefas, lembretes, hábitos e temporizador de foco",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 27075,
+      "score": 4.733333,
+      "scoreText": "4,7",
+      "ratings": 322,
+      "reviews": 1,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.recordo.adhd",
+      "url": "https://play.google.com/store/apps/details?id=app.recordo.adhd&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Bíblia para TDAH",
+      "description": "Desenvolvido especialmente para quem tem dificuldade de manter o foco e a consistência na leitura bíblica. Nosso app transforma sua jornada espiritual em uma experiência simples, motivadora e livre de distrações. \n\n✨ Por que escolher Bible ADHD? \n\n• Interface Limpa e Focada - Sem menus confusos ou excesso de opções. Apenas você e a Palavra. \n• Metas Diárias Personalizáveis - Escolha quantos versículos quer ler por dia (3, 5, 7 ou mais). \n• Sistema de Sequência (Streak) - Acompanhe seus dias consecutivos e mantenha-se motivado com nosso contador visual. \n• Notificações Inteligentes - Lembretes personalizados que se adaptam à sua rotina, com mensagens motivadoras baseadas no seu progresso. \n• Modo de Leitura Adaptável - Ajuste o tamanho da fonte, escolha entre diferentes versões da Bíblia e personalize sua experiência. \n• Progresso Visual Claro - Veja exatamente onde você está e quanto falta para completar sua meta diária. \n\n📖 Recursos Principais: \n\n- Múltiplas versões da Bíblia (AA, ACF, BBE, KJV) - Suporte bilíngue (Português/Inglês) \n- Modo escuro para leitura noturna \n- Seleção manual de livros e capítulos \n- Sistema de gamificação com XP e rankings \n- Acompanhamento detalhado do progresso \n- Fontes especiais para dislexia \n\n🎯 Perfeito para: \n\n- Pessoas com TDAH ou dificuldade de concentração \n- Iniciantes na leitura bíblica \n- Quem busca criar o hábito da leitura diária \n- Todos que querem uma experiência de leitura sem distrações \n\nTransforme minutos em momentos com Deus. \n\nComece hoje sua jornada de fé, um versículo por vez.",
+      "descriptionHTML": "Desenvolvido especialmente para quem tem dificuldade de manter o foco e a consistência na leitura bíblica. Nosso app transforma sua jornada espiritual em uma experiência simples, motivadora e livre de distrações. <br><br>✨ Por que escolher Bible ADHD? <br><br>• Interface Limpa e Focada - Sem menus confusos ou excesso de opções. Apenas você e a Palavra. <br>• Metas Diárias Personalizáveis - Escolha quantos versículos quer ler por dia (3, 5, 7 ou mais). <br>• Sistema de Sequência (Streak) - Acompanhe seus dias consecutivos e mantenha-se motivado com nosso contador visual. <br>• Notificações Inteligentes - Lembretes personalizados que se adaptam à sua rotina, com mensagens motivadoras baseadas no seu progresso. <br>• Modo de Leitura Adaptável - Ajuste o tamanho da fonte, escolha entre diferentes versões da Bíblia e personalize sua experiência. <br>• Progresso Visual Claro - Veja exatamente onde você está e quanto falta para completar sua meta diária. <br><br>📖 Recursos Principais: <br><br>- Múltiplas versões da Bíblia (AA, ACF, BBE, KJV) - Suporte bilíngue (Português/Inglês) <br>- Modo escuro para leitura noturna <br>- Seleção manual de livros e capítulos <br>- Sistema de gamificação com XP e rankings <br>- Acompanhamento detalhado do progresso <br>- Fontes especiais para dislexia <br><br>🎯 Perfeito para: <br><br>- Pessoas com TDAH ou dificuldade de concentração <br>- Iniciantes na leitura bíblica <br>- Quem busca criar o hábito da leitura diária <br>- Todos que querem uma experiência de leitura sem distrações <br><br>Transforme minutos em momentos com Deus. <br><br>Comece hoje sua jornada de fé, um versículo por vez.",
+      "summary": "Leitura bíblica diária para mentes distraídas - Simples, focada e motivadora",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1293,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Livros e referências",
+      "genreId": "BOOKS_AND_REFERENCE",
+      "categories": [
+        {
+          "name": "Livros e referências",
+          "id": "BOOKS_AND_REFERENCE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "dunamis.bibleadhd",
+      "url": "https://play.google.com/store/apps/details?id=dunamis.bibleadhd&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Priorify: TDAH & Mente Leve",
+      "description": "Sua mente está barulhenta demais para começar algo?\nVocê se sente paralisado por uma lista interminável de coisas que \"deveria\" estar fazendo?\n\nO Priorify é um santuário disfarçado de organizador. Criado para quem lida com TDAH, ansiedade e burnout, ele ajuda você a limpar a bagunça mental no seu próprio ritmo. Sem sequências obrigatórias e sem exigir que você seja uma máquina.\n\n🧠 DESABAFO MENTAL\nNão tente organizar o caos na sua cabeça. Apenas descarregue tudo aqui. Nosso companheiro de IA vai ouvir sem julgamentos e ajudar você a conter o pânico explorando suas reações naturais.\n\n🎯 ENCONTRE SUA MOTIVAÇÃO\nAssim que o ruído diminuir, ajudamos você a descobrir o verdadeiro desejo positivo por trás do seu estresse. Mude do estado de pânico para o que você realmente quer.\n\n🌿 DEIXANDO IR\nReveja pensamentos passados e solte-os com segurança. Veja suas preocupações se dissolverem fisicamente na tela, provando ao seu cérebro que ele não precisa mais carregar esse peso morto.\n\n🔋 RESPEITA SUA ENERGIA\nEstá exausto hoje? O Priorify se adapta à sua capacidade. Toque em \"Descanso\", e nós desfocamos e escondemos as cargas pesadas na hora, mostrando apenas o que você consegue lidar agora.\n\n📊 REFLEXÕES SEM CULPA\nZero notas de desempenho. Apenas um reflexo visual e gentil de como sua energia mental foi gasta na semana, ajudando você a se entender melhor sem sentir vergonha.\n\nZero pressão. Baixe o Priorify e recupere sua paz de espírito hoje.",
+      "descriptionHTML": "Sua mente está barulhenta demais para começar algo?<br>Você se sente paralisado por uma lista interminável de coisas que &quot;deveria&quot; estar fazendo?<br><br>O Priorify é um santuário disfarçado de organizador. Criado para quem lida com TDAH, ansiedade e burnout, ele ajuda você a limpar a bagunça mental no seu próprio ritmo. Sem sequências obrigatórias e sem exigir que você seja uma máquina.<br><br>🧠 DESABAFO MENTAL<br>Não tente organizar o caos na sua cabeça. Apenas descarregue tudo aqui. Nosso companheiro de IA vai ouvir sem julgamentos e ajudar você a conter o pânico explorando suas reações naturais.<br><br>🎯 ENCONTRE SUA MOTIVAÇÃO<br>Assim que o ruído diminuir, ajudamos você a descobrir o verdadeiro desejo positivo por trás do seu estresse. Mude do estado de pânico para o que você realmente quer.<br><br>🌿 DEIXANDO IR<br>Reveja pensamentos passados e solte-os com segurança. Veja suas preocupações se dissolverem fisicamente na tela, provando ao seu cérebro que ele não precisa mais carregar esse peso morto.<br><br>🔋 RESPEITA SUA ENERGIA<br>Está exausto hoje? O Priorify se adapta à sua capacidade. Toque em &quot;Descanso&quot;, e nós desfocamos e escondemos as cargas pesadas na hora, mostrando apenas o que você consegue lidar agora.<br><br>📊 REFLEXÕES SEM CULPA<br>Zero notas de desempenho. Apenas um reflexo visual e gentil de como sua energia mental foi gasta na semana, ajudando você a se entender melhor sem sentir vergonha.<br><br>Zero pressão. Baixe o Priorify e recupere sua paz de espírito hoje.",
+      "summary": "Limpe sua mente. Nós transformamos pensamentos caóticos em foco e calma.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2300,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.taskgenious",
+      "url": "https://play.google.com/store/apps/details?id=com.taskgenious&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "ADHD Tests for Adults",
+      "description": "Testes de TDAH para Adultos – Aplicativo de Autoavaliação\n\nVocê já se perguntou se pode ter TDAH?\n\nTodo mundo parece estar falando sobre isso, e você só quer saber por si mesmo. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em adultos. Cada teste foi desenvolvido para ajudar você a explorar os sintomas associados ao Transtorno de Déficit de Atenção com Hiperatividade (TDAH), como foco, atenção e impulsividade.\n\nVocê recebe resultados instantâneos após cada teste. Você pode refazê-los sempre que quiser para refletir sobre como seus sintomas podem mudar. O aplicativo é fácil de usar, privado e gratuito para baixar.\n\nPrincipais Recursos\n\n🧩 Testes e Questionários de TDAH – Diversas autoavaliações curtas para adultos.\n\n⚡ Resultados Instantâneos – Respostas claras assim que você terminar um teste.\n\n🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar seu dia a dia.\n\n🔒 Privado e Seguro – Seus resultados ficam armazenados no seu dispositivo, visíveis apenas para você.\n\n🎯 Feito para Adultos – Focado na autoavaliação de TDAH em adultos.\n\n💸 Assinatura Acessível – Experimente os testes de TDAH agora mesmo.\n\nPor que escolher este aplicativo?\n\nLinguagem simples e direta, sem jargões médicos.\n\nAcesso acessível a todos os testes de TDAH.\n\nRefaça os testes a qualquer momento para refletir sobre seus resultados.\n\nDesign amigável e fácil de usar.\n\nAviso Legal\n\nEste aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se seus resultados sugerirem TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de tratamento.\n\nComece Hoje\n\nBaixe agora o Teste de TDAH para Adultos. Faça seu primeiro teste de TDAH, verifique seus sintomas e comece a entender seu foco, atenção e saúde mental em minutos.",
+      "descriptionHTML": "Testes de TDAH para Adultos – Aplicativo de Autoavaliação<br><br>Você já se perguntou se pode ter TDAH?<br><br>Todo mundo parece estar falando sobre isso, e você só quer saber por si mesmo. Com este aplicativo, você pode fazer testes e questionários rápidos e simples de autoavaliação para TDAH em adultos. Cada teste foi desenvolvido para ajudar você a explorar os sintomas associados ao Transtorno de Déficit de Atenção com Hiperatividade (TDAH), como foco, atenção e impulsividade.<br><br>Você recebe resultados instantâneos após cada teste. Você pode refazê-los sempre que quiser para refletir sobre como seus sintomas podem mudar. O aplicativo é fácil de usar, privado e gratuito para baixar.<br><br>Principais Recursos<br><br>🧩 Testes e Questionários de TDAH – Diversas autoavaliações curtas para adultos.<br><br>⚡ Resultados Instantâneos – Respostas claras assim que você terminar um teste.<br><br>🧠 Informações sobre Saúde Mental – Aprenda como os sintomas do TDAH podem afetar seu dia a dia.<br><br>🔒 Privado e Seguro – Seus resultados ficam armazenados no seu dispositivo, visíveis apenas para você.<br><br>🎯 Feito para Adultos – Focado na autoavaliação de TDAH em adultos.<br><br>💸 Assinatura Acessível – Experimente os testes de TDAH agora mesmo.<br><br>Por que escolher este aplicativo?<br><br>Linguagem simples e direta, sem jargões médicos.<br><br>Acesso acessível a todos os testes de TDAH.<br><br>Refaça os testes a qualquer momento para refletir sobre seus resultados.<br><br>Design amigável e fácil de usar.<br><br>Aviso Legal<br><br>Este aplicativo destina-se apenas à autoavaliação. Ele não fornece um diagnóstico médico. Se seus resultados sugerirem TDAH, consulte um profissional de saúde qualificado para uma avaliação completa e um plano de tratamento.<br><br>Comece Hoje<br><br>Baixe agora o Teste de TDAH para Adultos. Faça seu primeiro teste de TDAH, verifique seus sintomas e comece a entender seu foco, atenção e saúde mental em minutos.",
+      "summary": "Faça agora mesmo uma autoavaliação de TDAH para adultos. Verifique seu foco, atenção e sintomas.",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 631,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.MeddyTech.adhd_test_adult",
+      "url": "https://play.google.com/store/apps/details?id=com.MeddyTech.adhd_test_adult&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Planner TDAH IA - MindfulFlow",
+      "description": "Sofrendo com sobrecarga, procrastinação ou disfunção executiva? Transforme o caos em calma com o MindfulFlow — seu planejador completo para TDAH, criador de cronogramas com IA e organizador visual diário.\n\nAo contrário de planejadores genéricos e inflexíveis que levam ao fracasso, o MindfulFlow se adapta à sua energia. Nosso motor com inteligência artificial pega suas ideias dispersas e gera instantaneamente um cronograma equilibrado, com blocos de tempo definidos. Saiba exatamente o que fazer e quando fazer, sem o estresse do planejamento manual.\n\nRecupere seu foco e tire as coisas do papel.\n\n✨ POR QUE O MINDFULFLOW FUNCIONA PARA MENTES NEURODIVERGENTES:\n\n🤖 Agendamento Automático com IA e Bloqueio de Tempo\nPare de travar ao ver uma lista de tarefas longa. Basta despejar suas tarefas, e nosso planejador com IA as organiza automaticamente em uma linha do tempo diária realista e estruturada, com base na prioridade e duração.\n\n📅 Sincronização Perfeita de Calendário e Tarefas\nNunca mais marque compromissos duplicados ou perca um prazo. O MindfulFlow sincroniza facilmente com o Google Calendar e o Google Tasks, unificando suas reuniões, lembretes e hábitos em um só lugar.\n\n✅ Lista de Tarefas Inteligente para TDAH e Rotinas\nDivida projetos grandes em passos pequenos e gerenciáveis. Crie rotinas diárias, hábitos recorrentes e checklists estruturados que realmente ativam a dopamina e trazem satisfação ao serem concluídos.\n\n🧠 Captura de Ideias por Voz (Brain Dumps)\nOs pensamentos estão muito rápidos? Use nossa captura de voz inteligente para registrar instantaneamente ideias, tarefas aleatórias e lembretes antes que eles sumam. O MindfulFlow os capta e categoriza para você.\n\n🎨 Design Estético e Livre de Distrações\nProjetado para reduzir a carga cognitiva. Experimente uma interface linda e calmante, com cores suaves e animações fluidas. Organizar sua vida deve ser visualmente agradável, não esmagador.\n\n📊 Insights e Acompanhamento de Foco\nEntenda seus padrões de produtividade sem julgamento. Acompanhe as tarefas concluídas, monitore para onde seu tempo está indo e celebre suas conquistas diárias para ganhar impulso.\n\nPRINCIPAIS RECURSOS EM DESTAQUE:\n• Criador de Cronogramas com IA e Bloqueio Automático de Tempo\n• Integração com Google Calendar e Tasks\n• Entrada de Voz para captura rápida de tarefas\n• Rastreador de Rotina Diária e Hábitos\n• Linhas do tempo visuais bonitas e personalizáveis\n• Rolagem automática de tarefas não concluídas\n• Notas de foco e marcação de prioridade\n\nPERFEITO PARA:\n• Adultos com TDAH buscando uma estrutura leve\n• Estudantes gerenciando muitas tarefas\n• Profissionais conciliando reuniões e trabalho focado\n• Qualquer pessoa cansada de listas de tarefas tradicionais e rígidas\n\nElimine a dificuldade da produtividade. Deixe a IA cuidar do planejamento para que você possa focar em fazer.\n\nBaixe o MindfulFlow hoje e crie um cronograma que funcione com seu cérebro, não contra ele.",
+      "descriptionHTML": "Sofrendo com sobrecarga, procrastinação ou disfunção executiva? Transforme o caos em calma com o MindfulFlow — seu planejador completo para TDAH, criador de cronogramas com IA e organizador visual diário.<br><br>Ao contrário de planejadores genéricos e inflexíveis que levam ao fracasso, o MindfulFlow se adapta à sua energia. Nosso motor com inteligência artificial pega suas ideias dispersas e gera instantaneamente um cronograma equilibrado, com blocos de tempo definidos. Saiba exatamente o que fazer e quando fazer, sem o estresse do planejamento manual.<br><br>Recupere seu foco e tire as coisas do papel.<br><br>✨ POR QUE O MINDFULFLOW FUNCIONA PARA MENTES NEURODIVERGENTES:<br><br>🤖 Agendamento Automático com IA e Bloqueio de Tempo<br>Pare de travar ao ver uma lista de tarefas longa. Basta despejar suas tarefas, e nosso planejador com IA as organiza automaticamente em uma linha do tempo diária realista e estruturada, com base na prioridade e duração.<br><br>📅 Sincronização Perfeita de Calendário e Tarefas<br>Nunca mais marque compromissos duplicados ou perca um prazo. O MindfulFlow sincroniza facilmente com o Google Calendar e o Google Tasks, unificando suas reuniões, lembretes e hábitos em um só lugar.<br><br>✅ Lista de Tarefas Inteligente para TDAH e Rotinas<br>Divida projetos grandes em passos pequenos e gerenciáveis. Crie rotinas diárias, hábitos recorrentes e checklists estruturados que realmente ativam a dopamina e trazem satisfação ao serem concluídos.<br><br>🧠 Captura de Ideias por Voz (Brain Dumps)<br>Os pensamentos estão muito rápidos? Use nossa captura de voz inteligente para registrar instantaneamente ideias, tarefas aleatórias e lembretes antes que eles sumam. O MindfulFlow os capta e categoriza para você.<br><br>🎨 Design Estético e Livre de Distrações<br>Projetado para reduzir a carga cognitiva. Experimente uma interface linda e calmante, com cores suaves e animações fluidas. Organizar sua vida deve ser visualmente agradável, não esmagador.<br><br>📊 Insights e Acompanhamento de Foco<br>Entenda seus padrões de produtividade sem julgamento. Acompanhe as tarefas concluídas, monitore para onde seu tempo está indo e celebre suas conquistas diárias para ganhar impulso.<br><br>PRINCIPAIS RECURSOS EM DESTAQUE:<br>• Criador de Cronogramas com IA e Bloqueio Automático de Tempo<br>• Integração com Google Calendar e Tasks<br>• Entrada de Voz para captura rápida de tarefas<br>• Rastreador de Rotina Diária e Hábitos<br>• Linhas do tempo visuais bonitas e personalizáveis<br>• Rolagem automática de tarefas não concluídas<br>• Notas de foco e marcação de prioridade<br><br>PERFEITO PARA:<br>• Adultos com TDAH buscando uma estrutura leve<br>• Estudantes gerenciando muitas tarefas<br>• Profissionais conciliando reuniões e trabalho focado<br>• Qualquer pessoa cansada de listas de tarefas tradicionais e rígidas<br><br>Elimine a dificuldade da produtividade. Deixe a IA cuidar do planejamento para que você possa focar em fazer.<br><br>Baixe o MindfulFlow hoje e crie um cronograma que funcione com seu cérebro, não contra ele.",
+      "summary": "Organize seu TDAH com IA: tarefas, rotinas e sincronização de calendário.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1282,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mindfulflow.app",
+      "url": "https://play.google.com/store/apps/details?id=com.mindfulflow.app&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Propel: TDAH Jogo da Memoria",
+      "description": "Avaliado com 4,8 estrelas no mundo todo. +100.000 downloads. Feito por pessoas com TDAH, para pessoas com TDAH.\n\nTDAH não é preguiça. O Propel é o app de TDAH (ADHD) criado para funcionar com o seu cérebro, e não contra ele, com jogos divertidos desenvolvidos junto com psicólogos e construídos em torno do que você quer mudar.\n\nDificuldade para manter o foco nas tarefas? Esquece as coisas com facilidade? Começa projetos que nunca termina? O Propel transforma essas batalhas diárias em vitórias rápidas e recompensadoras.\n\nTREINAMENTO CEREBRAL PARA TDAH FOCADO NOS SEUS OBJETIVOS\nA maioria dos apps de treinamento cerebral trata todos os cérebros da mesma forma. O Propel parte dos seus objetivos e conecta a eles mais de 20 jogos mentais de inteligência, memória e lógica:\n• Melhorar seu foco com jogos que aguçam a atenção e silenciam as distrações\n• Melhorar sua memória com jogo da memória e desafios de recordação que ajudam a fixar o que você aprende\n• Vencer a procrastinação com jogos curtos de raciocínio lógico que tornam mais fácil começar\n• Lidar melhor com o estresse: jogos calmos e tranquilos que aliviam momentos de ansiedade\n• Reduzir sua impulsividade com jogos de reação que treinam o autocontrole\n• Prestar mais atenção aos detalhes com desafios inteligentes que apuram seu olhar\n\nUM PLANO DIÁRIO QUE ENTENDE VOCÊ\nConte sobre você em uma autoavaliação rápida inspirada no ASRS, um teste de TDAH amplamente usado. O Propel então monta seu treino diário personalizado, com jogos rápidos pensados para cérebros com TDAH. Cada jogo leva cerca de 2 minutos, funciona offline e adapta a dificuldade conforme você evolui.\n\nACOMPANHE SUA EVOLUÇÃO\n• Veja seu progresso em cada objetivo que você escolheu, do foco ao estresse\n• Mantenha sequências e colecione mais de 60 medalhas ao atingir marcos\n• Compare suas pontuações com pessoas do seu nível\n\nTREINE PESADO, RELAXE LEVE\nDia longo? Abra nossos jogos relaxantes para um momento de calma. Quebra-cabeças antiestresse e desafios tranquilos ajudam você a desacelerar, soltar a ansiedade e desligar antes de dormir.\n\nPOR QUE O PROPEL\nA maioria dos apps espera que você se adapte a eles. O Propel se adapta a você. As sessões são curtas, o feedback é instantâneo e não existe culpa quando a vida atravessa o caminho. Nós mesmos somos adultos com TDAH e criamos o treinamento cerebral que sempre quisemos: um que combina com o jeito como a sua mente realmente funciona.\n\nJunte-se a +100.000 pessoas treinando a mente com o Propel. Baixe hoje e transforme distração em ação.\n\nO Propel oferece um teste grátis com acesso completo a todos os jogos, totalmente sem anúncios. Se você optar por assinar, o pagamento será cobrado na sua conta do Google Play na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Você pode gerenciar sua assinatura e cancelar a qualquer momento nas configurações de assinatura do Google Play.\n\nTermos de Serviço: https://www.propeladhd.com/terms-of-service\nPolítica de Privacidade: https://www.propeladhd.com/privacy-policy\nSuporte: support@neuronwizard.com",
+      "descriptionHTML": "Avaliado com 4,8 estrelas no mundo todo. +100.000 downloads. Feito por pessoas com TDAH, para pessoas com TDAH.<br><br>TDAH não é preguiça. O Propel é o app de TDAH (ADHD) criado para funcionar com o seu cérebro, e não contra ele, com jogos divertidos desenvolvidos junto com psicólogos e construídos em torno do que você quer mudar.<br><br>Dificuldade para manter o foco nas tarefas? Esquece as coisas com facilidade? Começa projetos que nunca termina? O Propel transforma essas batalhas diárias em vitórias rápidas e recompensadoras.<br><br>TREINAMENTO CEREBRAL PARA TDAH FOCADO NOS SEUS OBJETIVOS<br>A maioria dos apps de treinamento cerebral trata todos os cérebros da mesma forma. O Propel parte dos seus objetivos e conecta a eles mais de 20 jogos mentais de inteligência, memória e lógica:<br>• Melhorar seu foco com jogos que aguçam a atenção e silenciam as distrações<br>• Melhorar sua memória com jogo da memória e desafios de recordação que ajudam a fixar o que você aprende<br>• Vencer a procrastinação com jogos curtos de raciocínio lógico que tornam mais fácil começar<br>• Lidar melhor com o estresse: jogos calmos e tranquilos que aliviam momentos de ansiedade<br>• Reduzir sua impulsividade com jogos de reação que treinam o autocontrole<br>• Prestar mais atenção aos detalhes com desafios inteligentes que apuram seu olhar<br><br>UM PLANO DIÁRIO QUE ENTENDE VOCÊ<br>Conte sobre você em uma autoavaliação rápida inspirada no ASRS, um teste de TDAH amplamente usado. O Propel então monta seu treino diário personalizado, com jogos rápidos pensados para cérebros com TDAH. Cada jogo leva cerca de 2 minutos, funciona offline e adapta a dificuldade conforme você evolui.<br><br>ACOMPANHE SUA EVOLUÇÃO<br>• Veja seu progresso em cada objetivo que você escolheu, do foco ao estresse<br>• Mantenha sequências e colecione mais de 60 medalhas ao atingir marcos<br>• Compare suas pontuações com pessoas do seu nível<br><br>TREINE PESADO, RELAXE LEVE<br>Dia longo? Abra nossos jogos relaxantes para um momento de calma. Quebra-cabeças antiestresse e desafios tranquilos ajudam você a desacelerar, soltar a ansiedade e desligar antes de dormir.<br><br>POR QUE O PROPEL<br>A maioria dos apps espera que você se adapte a eles. O Propel se adapta a você. As sessões são curtas, o feedback é instantâneo e não existe culpa quando a vida atravessa o caminho. Nós mesmos somos adultos com TDAH e criamos o treinamento cerebral que sempre quisemos: um que combina com o jeito como a sua mente realmente funciona.<br><br>Junte-se a +100.000 pessoas treinando a mente com o Propel. Baixe hoje e transforme distração em ação.<br><br>O Propel oferece um teste grátis com acesso completo a todos os jogos, totalmente sem anúncios. Se você optar por assinar, o pagamento será cobrado na sua conta do Google Play na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Você pode gerenciar sua assinatura e cancelar a qualquer momento nas configurações de assinatura do Google Play.<br><br>Termos de Serviço: https://www.propeladhd.com/terms-of-service<br>Política de Privacidade: https://www.propeladhd.com/privacy-policy<br>Suporte: support@neuronwizard.com",
+      "summary": "Jogos de Memória para Adultos",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 65178,
+      "score": 4.84,
+      "scoreText": "4,8",
+      "ratings": 1000,
+      "reviews": 18,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jupys.brain",
+      "url": "https://play.google.com/store/apps/details?id=com.jupys.brain&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Diário TDAH",
+      "description": "Assuma o controle do TDAH com o Diário TDAH, o planejador diário de TDAH, diário de foco, registro de humor e rastreador de medicação criado para adultos e crianças que vivem com TDAH, DDA, TDAH desatento, TDAH hiperativo, tipo combinado e desafios de função executiva.\n\nSeja você recém-diagnosticado, explorando um teste de TDAH, apoiando uma criança com TDAH, ou gerenciando o TDAH como adulto através de medicação e CBT, este aplicativo de TDAH transforma o foco diário, energia, humor, sono e efeitos colaterais em dados claros que você e seu psiquiatra ou terapeuta podem realmente usar.\n\n🎯 O QUE ESTE DIÁRIO TDAH FAZ\n\n🔥 Rastreamento de Sintomas e Foco\nRegistre os sintomas de TDAH da maneira como eles realmente se manifestam: distratibilidade, hiperfoco, cegueira temporal, iniciação de tarefas, lapsos de memória de trabalho, impulsividade, inquietação, desregulação emocional, disforia sensível à rejeição (RSD) e sobrecarga. Avalie o foco em uma escala de 1 a 10, marque quais tarefas você concluiu e identifique o que o desviou.\n\n💊 Gerenciamento de Medicação\nAcompanhe o regime completo de TDAH em um só lugar: estimulantes como methylphenidate (Ritalin, Concerta, Focalin), anfetaminas (Adderall, Vyvanse), não estimulantes (Strattera, Intuniv, Qelbree), modafinil e suplementos. Registre dose, horário, alimentação, efeitos colaterais (perda de apetite, alterações do sono, ansiedade, rebote) e janela de eficácia.\n\n🧠 Criador de Rotinas e Hábitos\nCrie rotinas amigáveis ao TDAH que realmente funcionam. Sequências de manhã, trabalho, estudo, noite e hora de dormir com temporizadores de body doubling. Acompanhe quais etapas da rotina você faz versus as que abandona, para que você possa ver o que seu cérebro realmente mantém e o que é deixado de lado.\n\n🔍 Gatilhos e Padrões\nRegistre sono, ciclo hormonal, cafeína, açúcar, tempo de tela, exercício e estresse para descobrir o que prejudica seu foco e o que o restaura. Conecte dias ruins de TDAH à perda de sono, quedas de hiperfoco ou fins de semana sem medicação.\n\n⏰ Lembretes e Adesão à Medicação\nNunca perca uma dose de estimulante. Agende com lembretes de alimentação, água e avisos de rebote. Sequências e alertas de recarga mantêm seu tratamento de TDAH em dia e ajudam com o tempo de recarga de substâncias controladas.\n\n📊 Relatórios de TDAH Prontos para o Médico\nGere relatórios de TDAH em PDF claros, cobrindo pontuações diárias de foco, curvas de resposta à medicação, padrões de efeitos colaterais, alterações do sono e adesão à rotina. Compartilhe com seu psiquiatra, coach de TDAH ou pediatra antes de cada consulta para ajustar as doses.\n\n💪 Humor, Sono e Health Connect\nAcompanhe humor, ansiedade, irritabilidade e sono junto com o TDAH. Sincronize passos, frequência cardíaca e estágios do sono do Health Connect ou wearables para que você possa ver como o exercício e o descanso influenciam seu foco.\n\n✅ PERFIS DE TDAH QUE ESTE APLICATIVO SUPORTA\n\n- TDAH em Adultos\n- TDAH na Infância\n- TDAH Desatento\n- TDAH Hiperativo-Impulsivo\n- TDAH Tipo Combinado\n- TDAH com Ansiedade\n- TDAH com Depressão\n- TDAH com Sobreposição de Autismo\n- Transtorno de Função Executiva\n- Cegueira Temporal e Paralisia de Tarefas\n\n⭐ POR QUE AS PESSOAS USAM ESTE APLICATIVO DE TDAH\n\n- Identifique quais dias, alimentos e rotinas realmente ajudam seu foco\n- Identifique precocemente efeitos colaterais da medicação e padrões de rebote\n- Mostre ao seu psiquiatra exatamente como um estimulante agiu durante uma semana\n- Crie rotinas matinais e noturnas que superem a queda de dopamina\n- Mantenha um diário completo de foco, humor, sono e medicamentos em um único aplicativo\n- Registro em 30 segundos em dias corridos, com botões de sintomas de toque rápido\n\n🔒 PRIVACIDADE EM PRIMEIRO LUGAR.",
+      "descriptionHTML": "Assuma o controle do TDAH com o Diário TDAH, o planejador diário de TDAH, diário de foco, registro de humor e rastreador de medicação criado para adultos e crianças que vivem com TDAH, DDA, TDAH desatento, TDAH hiperativo, tipo combinado e desafios de função executiva.<br><br>Seja você recém-diagnosticado, explorando um teste de TDAH, apoiando uma criança com TDAH, ou gerenciando o TDAH como adulto através de medicação e CBT, este aplicativo de TDAH transforma o foco diário, energia, humor, sono e efeitos colaterais em dados claros que você e seu psiquiatra ou terapeuta podem realmente usar.<br><br>🎯 O QUE ESTE DIÁRIO TDAH FAZ<br><br>🔥 Rastreamento de Sintomas e Foco<br>Registre os sintomas de TDAH da maneira como eles realmente se manifestam: distratibilidade, hiperfoco, cegueira temporal, iniciação de tarefas, lapsos de memória de trabalho, impulsividade, inquietação, desregulação emocional, disforia sensível à rejeição (RSD) e sobrecarga. Avalie o foco em uma escala de 1 a 10, marque quais tarefas você concluiu e identifique o que o desviou.<br><br>💊 Gerenciamento de Medicação<br>Acompanhe o regime completo de TDAH em um só lugar: estimulantes como methylphenidate (Ritalin, Concerta, Focalin), anfetaminas (Adderall, Vyvanse), não estimulantes (Strattera, Intuniv, Qelbree), modafinil e suplementos. Registre dose, horário, alimentação, efeitos colaterais (perda de apetite, alterações do sono, ansiedade, rebote) e janela de eficácia.<br><br>🧠 Criador de Rotinas e Hábitos<br>Crie rotinas amigáveis ao TDAH que realmente funcionam. Sequências de manhã, trabalho, estudo, noite e hora de dormir com temporizadores de body doubling. Acompanhe quais etapas da rotina você faz versus as que abandona, para que você possa ver o que seu cérebro realmente mantém e o que é deixado de lado.<br><br>🔍 Gatilhos e Padrões<br>Registre sono, ciclo hormonal, cafeína, açúcar, tempo de tela, exercício e estresse para descobrir o que prejudica seu foco e o que o restaura. Conecte dias ruins de TDAH à perda de sono, quedas de hiperfoco ou fins de semana sem medicação.<br><br>⏰ Lembretes e Adesão à Medicação<br>Nunca perca uma dose de estimulante. Agende com lembretes de alimentação, água e avisos de rebote. Sequências e alertas de recarga mantêm seu tratamento de TDAH em dia e ajudam com o tempo de recarga de substâncias controladas.<br><br>📊 Relatórios de TDAH Prontos para o Médico<br>Gere relatórios de TDAH em PDF claros, cobrindo pontuações diárias de foco, curvas de resposta à medicação, padrões de efeitos colaterais, alterações do sono e adesão à rotina. Compartilhe com seu psiquiatra, coach de TDAH ou pediatra antes de cada consulta para ajustar as doses.<br><br>💪 Humor, Sono e Health Connect<br>Acompanhe humor, ansiedade, irritabilidade e sono junto com o TDAH. Sincronize passos, frequência cardíaca e estágios do sono do Health Connect ou wearables para que você possa ver como o exercício e o descanso influenciam seu foco.<br><br>✅ PERFIS DE TDAH QUE ESTE APLICATIVO SUPORTA<br><br>- TDAH em Adultos<br>- TDAH na Infância<br>- TDAH Desatento<br>- TDAH Hiperativo-Impulsivo<br>- TDAH Tipo Combinado<br>- TDAH com Ansiedade<br>- TDAH com Depressão<br>- TDAH com Sobreposição de Autismo<br>- Transtorno de Função Executiva<br>- Cegueira Temporal e Paralisia de Tarefas<br><br>⭐ POR QUE AS PESSOAS USAM ESTE APLICATIVO DE TDAH<br><br>- Identifique quais dias, alimentos e rotinas realmente ajudam seu foco<br>- Identifique precocemente efeitos colaterais da medicação e padrões de rebote<br>- Mostre ao seu psiquiatra exatamente como um estimulante agiu durante uma semana<br>- Crie rotinas matinais e noturnas que superem a queda de dopamina<br>- Mantenha um diário completo de foco, humor, sono e medicamentos em um único aplicativo<br>- Registro em 30 segundos em dias corridos, com botões de sintomas de toque rápido<br><br>🔒 PRIVACIDADE EM PRIMEIRO LUGAR.",
+      "summary": "Planejador de TDAH, diário de foco e controle de medicação para adultos e.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3169,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "adhd.test.planner.organizer.kids.adults.cbt.behavior.therapy.treatment.journaling.mental.health",
+      "url": "https://play.google.com/store/apps/details?id=adhd.test.planner.organizer.kids.adults.cbt.behavior.therapy.treatment.journaling.mental.health&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Brainy: Tarefas & Rotinas TDAH",
+      "description": "Vença a Paralisia do TDAH. Comece a Agir.\n\nSente que sua mente vai a mil, mas nunca consegue começar? A paralisia por análise te deixa travado antes mesmo de tocar na primeira tarefa?\n\nBrainy foi criado para você. Desenhado do zero para pessoas neurodivergentes com TDAH, Brainy transforma produtividade em algo que realmente funciona com o seu cérebro, não contra ele.\n\n──────────────────────────────────────\n🧠 POR QUE O BRAINY?\n──────────────────────────────────────\nTDAH não é falta de força de vontade. É um cérebro que precisa de estrutura, recompensas e rotinas pensadas de forma diferente. É exatamente isso que o Brainy faz.\n\n──────────────────────────────────────\n✅ DIVIDA SUAS TAREFAS, VENÇA A PARALISIA\n──────────────────────────────────────\nDividir tarefas grandes em passos pequenos é a chave para superar a paralisia por análise. Crie rotinas diárias com subtarefas claras e sempre saiba qual é o próximo passo, sem se sobrecarregar.\n\n📋 ROTINAS QUE FUNCIONAM DE VERDADE\nOrganize seu dia com rotinas personalizadas: manhã, tarde, noite ou qualquer momento que precisar. Cada rotina tem suas próprias tarefas organizadas para você só seguir o fluxo.\n\n🎙️ CAPTURE IDEIAS EM SEGUNDOS\nAs ideias do TDAH duram segundos. Com o ditado por voz, capture novas tarefas antes de perdê-las. Só falar e o Brainy registra na hora, sem fricção.\n\n🐣 SEU COMPANHEIRO DE PRODUTIVIDADE\nCada rotina tem seu próprio bichinho que cresce com você. Complete tarefas, ganhe moedas e veja seus companheiros evoluírem. O sistema de recompensas foi pensado para manter a motivação mesmo quando a dopamina está em falta.\n\n🏆 CONQUISTAS E SEQUÊNCIAS DIÁRIAS\nCelebre cada pequeno avanço com conquistas progressivas. Mantenha sua sequência e descubra do que você é capaz quando a estrutura trabalha a seu favor.\n\n🔔 LEMBRETES INTELIGENTES\nConfigure lembretes para cada rotina e nunca mais esqueça de começar. O Brainy avisa na hora certa para você não perder o impulso.\n\n📱 WIDGET NA TELA INICIAL\nVeja suas rotinas e tarefas direto da tela inicial, sem abrir o app. Zero fricção, ação imediata.\n\n──────────────────────────────────────\n✨ BRAINY PRO — SEM LIMITES\n──────────────────────────────────────\nDesbloqueie todo o potencial do Brainy:\n\nRotinas ilimitadas\nAssistente de IA pensado para o TDAH\nLembretes avançados\nSem anúncios\nSkins e fundos exclusivos para seu companheiro\n\n──────────────────────────────────────\nBrainy não é mais um app de lista de tarefas. É um sistema de produtividade pensado para cérebros neurodivergentes que precisam de estrutura, motivação e flexibilidade ao mesmo tempo.\n\nSeu TDAH não é um obstáculo. Com as ferramentas certas, é seu superpoder.",
+      "descriptionHTML": "Vença a Paralisia do TDAH. Comece a Agir.<br><br>Sente que sua mente vai a mil, mas nunca consegue começar? A paralisia por análise te deixa travado antes mesmo de tocar na primeira tarefa?<br><br>Brainy foi criado para você. Desenhado do zero para pessoas neurodivergentes com TDAH, Brainy transforma produtividade em algo que realmente funciona com o seu cérebro, não contra ele.<br><br>──────────────────────────────────────<br>🧠 POR QUE O BRAINY?<br>──────────────────────────────────────<br>TDAH não é falta de força de vontade. É um cérebro que precisa de estrutura, recompensas e rotinas pensadas de forma diferente. É exatamente isso que o Brainy faz.<br><br>──────────────────────────────────────<br>✅ DIVIDA SUAS TAREFAS, VENÇA A PARALISIA<br>──────────────────────────────────────<br>Dividir tarefas grandes em passos pequenos é a chave para superar a paralisia por análise. Crie rotinas diárias com subtarefas claras e sempre saiba qual é o próximo passo, sem se sobrecarregar.<br><br>📋 ROTINAS QUE FUNCIONAM DE VERDADE<br>Organize seu dia com rotinas personalizadas: manhã, tarde, noite ou qualquer momento que precisar. Cada rotina tem suas próprias tarefas organizadas para você só seguir o fluxo.<br><br>🎙️ CAPTURE IDEIAS EM SEGUNDOS<br>As ideias do TDAH duram segundos. Com o ditado por voz, capture novas tarefas antes de perdê-las. Só falar e o Brainy registra na hora, sem fricção.<br><br>🐣 SEU COMPANHEIRO DE PRODUTIVIDADE<br>Cada rotina tem seu próprio bichinho que cresce com você. Complete tarefas, ganhe moedas e veja seus companheiros evoluírem. O sistema de recompensas foi pensado para manter a motivação mesmo quando a dopamina está em falta.<br><br>🏆 CONQUISTAS E SEQUÊNCIAS DIÁRIAS<br>Celebre cada pequeno avanço com conquistas progressivas. Mantenha sua sequência e descubra do que você é capaz quando a estrutura trabalha a seu favor.<br><br>🔔 LEMBRETES INTELIGENTES<br>Configure lembretes para cada rotina e nunca mais esqueça de começar. O Brainy avisa na hora certa para você não perder o impulso.<br><br>📱 WIDGET NA TELA INICIAL<br>Veja suas rotinas e tarefas direto da tela inicial, sem abrir o app. Zero fricção, ação imediata.<br><br>──────────────────────────────────────<br>✨ BRAINY PRO — SEM LIMITES<br>──────────────────────────────────────<br>Desbloqueie todo o potencial do Brainy:<br><br>Rotinas ilimitadas<br>Assistente de IA pensado para o TDAH<br>Lembretes avançados<br>Sem anúncios<br>Skins e fundos exclusivos para seu companheiro<br><br>──────────────────────────────────────<br>Brainy não é mais um app de lista de tarefas. É um sistema de produtividade pensado para cérebros neurodivergentes que precisam de estrutura, motivação e flexibilidade ao mesmo tempo.<br><br>Seu TDAH não é um obstáculo. Com as ferramentas certas, é seu superpoder.",
+      "summary": "Vença a paralisia por análise. Divida tarefas e crie rotinas para o TDAH.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3571,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.brainyahdh.app",
+      "url": "https://play.google.com/store/apps/details?id=com.brainyahdh.app&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Sprout - Smart ADHD Task App",
+      "description": "🌿 Sprout: Planejador, Lista de Tarefas e Gerenciador de Tarefas para TDAH\n\nSem culpa. Sem sobrecarga. Apenas uma maneira mais tranquila de realizar suas tarefas.\n\nO Sprout é um planejador, lista de tarefas e gerenciador de tarefas desenvolvido para lidar com disfunção executiva, cegueira temporal, fadiga decisória e desafios de organização típicos do TDAH.\n\nFoi criado para minha esposa depois que os aplicativos de produtividade \"normais\" se tornaram estressantes e ela abandonou suas listas de tarefas. Desde o lançamento, ele tem sido aprimorado por usuários reais com TDAH.\n\nIdeal como planejador diário, aplicativo de lembretes e ferramenta de suporte à função executiva para TDAH.\n\n🧠 Quando seu cérebro diz \"Não consigo começar\". Desenvolvido para lidar com a disfunção executiva do TDAH.\n\nO Sprout ajuda com:\n• Paralisia por tarefas (TDAH)\n• Sobrecarga e confusão mental\n• Cegueira temporal\n• Esquecimento de prazos\n• Início de grandes tarefas\n• Fadiga decisória\n• Rotinas inconsistentes\n\nOs planejadores tradicionais pressupõem foco perfeito.\n\nAo contrário de aplicativos genéricos de produtividade, o Sprout foi desenvolvido especificamente para adultos com TDAH e cérebros neurodivergentes.\n\n🤖 Descarregamento de Pensamentos com IA para TDAH\n\nSentindo-se mentalmente disperso?\n\nDigite ou fale tudo o que vier à mente. O Descarregamento de Pensamentos com IA do Sprout transforma pensamentos caóticos em tarefas claras e organizadas.\n\nA IA:\n• Extrai tarefas de pensamentos confusos\n• Sugere prioridades\n• Adiciona estimativas de tempo\n• Divide grandes projetos\nPerfeito quando a disfunção executiva do TDAH dificulta o início de tarefas.\n\n🎯 O Que Devo Fazer? Suporte à Decisão\n\nPreso olhando para sua lista de tarefas?\n\nToque em “O Que Devo Fazer?” e o Sprout analisa prazos, impacto e estimativas de tempo para recomendar sua melhor próxima tarefa.\n\nProjetado para reduzir a paralisia decisória do TDAH e melhorar a conclusão de tarefas.\n\n🧩 Detalhamento de Tarefas com IA\n\nGrandes projetos parecem impossíveis com TDAH.\n\nToque em Análise de IA e obtenha:\n• De 4 a 10 subtarefas práticas\n• Ponto de partida claro\n• Estimativas de tempo realistas\n• Pequenas conquistas para manter o ritmo\n\n🐾 Planejador Gamificado para TDAH com Bichinhos Virtuais\n\nMantenha-se motivado com um companheiro virtual.\n\nEscolha entre 5 bichinhos que crescem à medida que você completa tarefas.\n\nSeu bichinho:\n• Celebra o progresso\n• Evolui ao longo das fases da vida\n• Incentiva a consistência\n• Nunca morre\n• Nunca te envergonha\n\nProjetado para fornecer motivação por dopamina e responsabilidade externa sem constrangimento.\n\n⏳ Suporte para Cegueira Temporal\n\nO Sprout torna o tempo visível:\n• Estimativas de tempo integradas\n• Cronômetro Pomodoro de 5, 15 e 25 minutos para foco\n• Calendário visual de sequência\n• Indicadores claros de tarefas atrasadas\n• Planejamento Diário para focar apenas no dia de hoje\n\nMelhora o gerenciamento de tempo e o planejamento diário para pessoas com TDAH.\n\n🔊 Leitor de Tarefas para Processamento Auditivo\n\nConverta tarefas em áudio:\n• Ouça sua lista de tarefas\n• Velocidade de reprodução ajustável\n• Várias vozes\n• Reprodução em segundo plano\n\nÚtil para TDAH e diferenças no processamento auditivo.\n\n🔔 Lembretes do Modo Insistente\n\nO que os olhos não veem, o coração não sente.\n\nO Modo Insistente envia lembretes persistentes com sons divertidos de animais até que a tarefa seja concluída ou desativada.\n\nAuxilia na memorização e na conclusão de tarefas para pessoas com TDAH.\n\n🌱 Um rastreador de hábitos para TDAH sem culpa, projetado para a vida real.\n\nConsistência sem culpa:\n• Dias livres por semana\n• Janela de preenchimento para noites em claro\n• Modo férias\n• Notificações sem constrangimento\nCriado para a vida real com TDAH, não para a perfeição.\n\n📝 Gerenciamento de Tarefas para TDAH\n\nRecursos gratuitos incluem:\n• Tarefas ilimitadas\n• 5 subtarefas por tarefa\n• 1 tarefa recorrente\n• 3 categorias\n• Filtros: Hoje, Amanhã, Próximas\n• Ferramentas de IA limitadas\n• Leitor de Tarefas Diárias\n\n💎 Ferramentas Premium de Produtividade para TDAH\n\nAtualize para obter suporte avançado para funções executivas:\n• Análise de IA ilimitada\n• Mais Brain Dumps (Despejo de Ideias)\n• “O que devo fazer?” ilimitado\n\n• Priorização por IA\n• Subtarefas e tarefas recorrentes ilimitadas\n• Tarefas ilimitadas de planejamento diário\n• Mais categorias\n• Todos os pets após o nível máximo e temas extras\n\n🎓 Para quem é o Sprout\n\nIdeal para:\n• Adultos com TDAH\n• Estudantes com disfunção executiva\n• Profissionais neurodivergentes\n• Qualquer pessoa sobrecarregada por aplicativos de produtividade tradicionais\n\nO Sprout é um planejador e gerenciador de tarefas para TDAH, criado a partir da experiência vivida e moldado por usuários reais com TDAH.\n\n🚀 Comece hoje\n\nOrganize sua vida sem culpa.\n\nReduza a sobrecarga.\n\nSupere a disfunção executiva.\n\nAumente o ritmo, uma tarefa de cada vez 🌿\n\nBaixe o Sprout, o aplicativo de produtividade e planejamento diário para TDAH criado para o seu cérebro.",
+      "descriptionHTML": "🌿 Sprout: Planejador, Lista de Tarefas e Gerenciador de Tarefas para TDAH<br><br>Sem culpa. Sem sobrecarga. Apenas uma maneira mais tranquila de realizar suas tarefas.<br><br>O Sprout é um planejador, lista de tarefas e gerenciador de tarefas desenvolvido para lidar com disfunção executiva, cegueira temporal, fadiga decisória e desafios de organização típicos do TDAH.<br><br>Foi criado para minha esposa depois que os aplicativos de produtividade &quot;normais&quot; se tornaram estressantes e ela abandonou suas listas de tarefas. Desde o lançamento, ele tem sido aprimorado por usuários reais com TDAH.<br><br>Ideal como planejador diário, aplicativo de lembretes e ferramenta de suporte à função executiva para TDAH.<br><br>🧠 Quando seu cérebro diz &quot;Não consigo começar&quot;. Desenvolvido para lidar com a disfunção executiva do TDAH.<br><br>O Sprout ajuda com:<br>• Paralisia por tarefas (TDAH)<br>• Sobrecarga e confusão mental<br>• Cegueira temporal<br>• Esquecimento de prazos<br>• Início de grandes tarefas<br>• Fadiga decisória<br>• Rotinas inconsistentes<br><br>Os planejadores tradicionais pressupõem foco perfeito.<br><br>Ao contrário de aplicativos genéricos de produtividade, o Sprout foi desenvolvido especificamente para adultos com TDAH e cérebros neurodivergentes.<br><br>🤖 Descarregamento de Pensamentos com IA para TDAH<br><br>Sentindo-se mentalmente disperso?<br><br>Digite ou fale tudo o que vier à mente. O Descarregamento de Pensamentos com IA do Sprout transforma pensamentos caóticos em tarefas claras e organizadas.<br><br>A IA:<br>• Extrai tarefas de pensamentos confusos<br>• Sugere prioridades<br>• Adiciona estimativas de tempo<br>• Divide grandes projetos<br>Perfeito quando a disfunção executiva do TDAH dificulta o início de tarefas.<br><br>🎯 O Que Devo Fazer? Suporte à Decisão<br><br>Preso olhando para sua lista de tarefas?<br><br>Toque em “O Que Devo Fazer?” e o Sprout analisa prazos, impacto e estimativas de tempo para recomendar sua melhor próxima tarefa.<br><br>Projetado para reduzir a paralisia decisória do TDAH e melhorar a conclusão de tarefas.<br><br>🧩 Detalhamento de Tarefas com IA<br><br>Grandes projetos parecem impossíveis com TDAH.<br><br>Toque em Análise de IA e obtenha:<br>• De 4 a 10 subtarefas práticas<br>• Ponto de partida claro<br>• Estimativas de tempo realistas<br>• Pequenas conquistas para manter o ritmo<br><br>🐾 Planejador Gamificado para TDAH com Bichinhos Virtuais<br><br>Mantenha-se motivado com um companheiro virtual.<br><br>Escolha entre 5 bichinhos que crescem à medida que você completa tarefas.<br><br>Seu bichinho:<br>• Celebra o progresso<br>• Evolui ao longo das fases da vida<br>• Incentiva a consistência<br>• Nunca morre<br>• Nunca te envergonha<br><br>Projetado para fornecer motivação por dopamina e responsabilidade externa sem constrangimento.<br><br>⏳ Suporte para Cegueira Temporal<br><br>O Sprout torna o tempo visível:<br>• Estimativas de tempo integradas<br>• Cronômetro Pomodoro de 5, 15 e 25 minutos para foco<br>• Calendário visual de sequência<br>• Indicadores claros de tarefas atrasadas<br>• Planejamento Diário para focar apenas no dia de hoje<br><br>Melhora o gerenciamento de tempo e o planejamento diário para pessoas com TDAH.<br><br>🔊 Leitor de Tarefas para Processamento Auditivo<br><br>Converta tarefas em áudio:<br>• Ouça sua lista de tarefas<br>• Velocidade de reprodução ajustável<br>• Várias vozes<br>• Reprodução em segundo plano<br><br>Útil para TDAH e diferenças no processamento auditivo.<br><br>🔔 Lembretes do Modo Insistente<br><br>O que os olhos não veem, o coração não sente.<br><br>O Modo Insistente envia lembretes persistentes com sons divertidos de animais até que a tarefa seja concluída ou desativada.<br><br>Auxilia na memorização e na conclusão de tarefas para pessoas com TDAH.<br><br>🌱 Um rastreador de hábitos para TDAH sem culpa, projetado para a vida real.<br><br>Consistência sem culpa:<br>• Dias livres por semana<br>• Janela de preenchimento para noites em claro<br>• Modo férias<br>• Notificações sem constrangimento<br>Criado para a vida real com TDAH, não para a perfeição.<br><br>📝 Gerenciamento de Tarefas para TDAH<br><br>Recursos gratuitos incluem:<br>• Tarefas ilimitadas<br>• 5 subtarefas por tarefa<br>• 1 tarefa recorrente<br>• 3 categorias<br>• Filtros: Hoje, Amanhã, Próximas<br>• Ferramentas de IA limitadas<br>• Leitor de Tarefas Diárias<br><br>💎 Ferramentas Premium de Produtividade para TDAH<br><br>Atualize para obter suporte avançado para funções executivas:<br>• Análise de IA ilimitada<br>• Mais Brain Dumps (Despejo de Ideias)<br>• “O que devo fazer?” ilimitado<br><br>• Priorização por IA<br>• Subtarefas e tarefas recorrentes ilimitadas<br>• Tarefas ilimitadas de planejamento diário<br>• Mais categorias<br>• Todos os pets após o nível máximo e temas extras<br><br>🎓 Para quem é o Sprout<br><br>Ideal para:<br>• Adultos com TDAH<br>• Estudantes com disfunção executiva<br>• Profissionais neurodivergentes<br>• Qualquer pessoa sobrecarregada por aplicativos de produtividade tradicionais<br><br>O Sprout é um planejador e gerenciador de tarefas para TDAH, criado a partir da experiência vivida e moldado por usuários reais com TDAH.<br><br>🚀 Comece hoje<br><br>Organize sua vida sem culpa.<br><br>Reduza a sobrecarga.<br><br>Supere a disfunção executiva.<br><br>Aumente o ritmo, uma tarefa de cada vez 🌿<br><br>Baixe o Sprout, o aplicativo de produtividade e planejamento diário para TDAH criado para o seu cérebro.",
+      "summary": "O planejador para TDAH sem pressão. Use IA para superar a disfunção executiva com animais de estimação.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10013,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sproutapp.sprout",
+      "url": "https://play.google.com/store/apps/details?id=com.sproutapp.sprout&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Any Planner: Agenda TDAH ToDo",
+      "description": "Any Planner é um gerenciador de tarefas com linha do tempo que transforma sua lista de afazeres em um plano visual do dia. Veja exatamente quando fazer o quê — e finalmente atravesse seu dia sem se sentir sobrecarregado.\n\nFeito para cérebros com TDAH e qualquer pessoa que sofre com \"cegueira de tempo\", procrastinação ou esquecer o próximo passo. Estudante, profissional ou pai/mãe com mil tarefas — Any Planner ajuda você a focar no que importa agora.\n\n\n▼ Para quem é?\n- Quem não consegue manter um app de to-do tradicional\n- Adultos e estudantes com TDAH gerenciando cegueira de tempo\n- Universitários equilibrando aulas, trabalhos e vida pessoal\n- Profissionais que organizam o dia em blocos de tempo\n- Quem quer construir novos hábitos e rotinas\n- Cansados de apps de lembrete genéricos\n\n\n▼ Recursos\n\n■ Visualização em Linha do Tempo\nVeja seu dia inteiro em um eixo visual. Saiba o que fazer agora — num relance. O tempo livre também é visualizado, então você naturalmente aproveita melhor.\n\n■ Lista \"Mais Tarde\"\nColoque na lista Mais Tarde as tarefas que não pode fazer agora. O app sugere tarefas que cabem nos seus intervalos livres — até as pequenas brechas viram produtivas.\n\n■ Sincronização com Calendário\nTraga os eventos do Calendário iOS direto para sua linha do tempo. Sem ficar pulando de app em app.\n\n■ Lembretes Inteligentes\nReceba notificações antes de cada tarefa começar. Pare de esquecer e pare de ultrapassar o tempo.\n\n■ Tarefas Recorrentes\nConfigure rotinas diárias, semanais ou mensais uma vez — e deixe se repetir. Perfeito para construir hábitos.\n\n■ Adiar\nEmpurre tarefas para frente quando a vida atrapalha. Tarefas não concluídas passam automaticamente para amanhã.\n\n■ Estatísticas & Insights\nAcompanhe tarefas concluídas, sequências e suas horas mais produtivas.\n\n■ Hora de Acordar & Dormir\nAdapte a linha do tempo à sua rotina real — madrugador ou notívago.\n\n■ Ícones Automáticos\nDigite uma tarefa e o Any Planner adiciona um ícone correspondente — seu dia fica visualmente fácil de escanear.\n\n\n▼ PRO (assinatura no app)\n- Múltiplas notificações por tarefa\n- Sincronização de múltiplos calendários\n- Padrões de recorrência personalizados\n- Tarefas fixadas ilimitadas\n- Estatísticas detalhadas semanais e mensais\n\n\n▼ Disponível em\niPhone, iPad e Apple Watch — tudo sincronizado.\n\n\nTermos: https://any-planner.com/terms\nPrivacidade: https://any-planner.com/privacy",
+      "descriptionHTML": "Any Planner é um gerenciador de tarefas com linha do tempo que transforma sua lista de afazeres em um plano visual do dia. Veja exatamente quando fazer o quê — e finalmente atravesse seu dia sem se sentir sobrecarregado.<br><br>Feito para cérebros com TDAH e qualquer pessoa que sofre com &quot;cegueira de tempo&quot;, procrastinação ou esquecer o próximo passo. Estudante, profissional ou pai/mãe com mil tarefas — Any Planner ajuda você a focar no que importa agora.<br><br><br>▼ Para quem é?<br>- Quem não consegue manter um app de to-do tradicional<br>- Adultos e estudantes com TDAH gerenciando cegueira de tempo<br>- Universitários equilibrando aulas, trabalhos e vida pessoal<br>- Profissionais que organizam o dia em blocos de tempo<br>- Quem quer construir novos hábitos e rotinas<br>- Cansados de apps de lembrete genéricos<br><br><br>▼ Recursos<br><br>■ Visualização em Linha do Tempo<br>Veja seu dia inteiro em um eixo visual. Saiba o que fazer agora — num relance. O tempo livre também é visualizado, então você naturalmente aproveita melhor.<br><br>■ Lista &quot;Mais Tarde&quot;<br>Coloque na lista Mais Tarde as tarefas que não pode fazer agora. O app sugere tarefas que cabem nos seus intervalos livres — até as pequenas brechas viram produtivas.<br><br>■ Sincronização com Calendário<br>Traga os eventos do Calendário iOS direto para sua linha do tempo. Sem ficar pulando de app em app.<br><br>■ Lembretes Inteligentes<br>Receba notificações antes de cada tarefa começar. Pare de esquecer e pare de ultrapassar o tempo.<br><br>■ Tarefas Recorrentes<br>Configure rotinas diárias, semanais ou mensais uma vez — e deixe se repetir. Perfeito para construir hábitos.<br><br>■ Adiar<br>Empurre tarefas para frente quando a vida atrapalha. Tarefas não concluídas passam automaticamente para amanhã.<br><br>■ Estatísticas &amp; Insights<br>Acompanhe tarefas concluídas, sequências e suas horas mais produtivas.<br><br>■ Hora de Acordar &amp; Dormir<br>Adapte a linha do tempo à sua rotina real — madrugador ou notívago.<br><br>■ Ícones Automáticos<br>Digite uma tarefa e o Any Planner adiciona um ícone correspondente — seu dia fica visualmente fácil de escanear.<br><br><br>▼ PRO (assinatura no app)<br>- Múltiplas notificações por tarefa<br>- Sincronização de múltiplos calendários<br>- Padrões de recorrência personalizados<br>- Tarefas fixadas ilimitadas<br>- Estatísticas detalhadas semanais e mensais<br><br><br>▼ Disponível em<br>iPhone, iPad e Apple Watch — tudo sincronizado.<br><br><br>Termos: https://any-planner.com/terms<br>Privacidade: https://any-planner.com/privacy",
+      "summary": "Gestão de tempo e hábitos TDAH",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 17464,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.anyplanner.app",
+      "url": "https://play.google.com/store/apps/details?id=com.anyplanner.app&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Chore Focus: ADHD Task Manager",
+      "description": "Chore Focus é um aplicativo de rastreamento de tarefas projetado para ajudar os usuários a se manterem organizados e em dia com as tarefas domésticas. Esteja você gerenciando tarefas individualmente, em casal ou em família, o Chore Focus oferece ferramentas para agilizar sua rotina de limpeza e manter sua casa funcionando perfeitamente.\n\nOrganize facilmente as tarefas por cômodo, atribua tarefas aos membros da família e acompanhe o progresso para garantir que nada seja esquecido. Conquistas gamificadas e lembretes diários motivam você, informando o que precisa ser feito a cada dia.\n\nCom recursos premium, como suporte multiusuário e AI Quick Add, você pode filtrar e gerenciar tarefas para cada pessoa da sua casa e adicionar rapidamente novas tarefas usando linguagem natural. Basta descrever o que precisa ser feito e nossa IA analisará e adicionará automaticamente à sua lista de tarefas.\n\nEsteja você gerenciando seu próprio espaço ou morando com outras pessoas, o Chore Focus ajuda você a aumentar a produtividade e a manter o controle da limpeza e organização da sua casa.",
+      "descriptionHTML": "Chore Focus é um aplicativo de rastreamento de tarefas projetado para ajudar os usuários a se manterem organizados e em dia com as tarefas domésticas. Esteja você gerenciando tarefas individualmente, em casal ou em família, o Chore Focus oferece ferramentas para agilizar sua rotina de limpeza e manter sua casa funcionando perfeitamente.<br><br>Organize facilmente as tarefas por cômodo, atribua tarefas aos membros da família e acompanhe o progresso para garantir que nada seja esquecido. Conquistas gamificadas e lembretes diários motivam você, informando o que precisa ser feito a cada dia.<br><br>Com recursos premium, como suporte multiusuário e AI Quick Add, você pode filtrar e gerenciar tarefas para cada pessoa da sua casa e adicionar rapidamente novas tarefas usando linguagem natural. Basta descrever o que precisa ser feito e nossa IA analisará e adicionará automaticamente à sua lista de tarefas.<br><br>Esteja você gerenciando seu próprio espaço ou morando com outras pessoas, o Chore Focus ajuda você a aumentar a produtividade e a manter o controle da limpeza e organização da sua casa.",
+      "summary": "Aplicativo de tarefas gamificado e compatível com TDAH para adultos solteiros, casais ou famílias.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 112240,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.chorefocus.app",
+      "url": "https://play.google.com/store/apps/details?id=com.chorefocus.app&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Teste TDAH: triagem adultos",
+      "description": "Faça o teste de TDAH para adultos (ASRS v1.1 da OMS). Triagem privada em cerca de 3 minutos: atenção, impulsividade e hiperatividade. Não é diagnóstico.\n\nVocê se pergunta “Eu tenho TDAH?” Este app apresenta a Adult ADHD Self-Report Scale (ASRS v1.1), desenvolvida com a Organização Mundial da Saúde. São 18 perguntas. A Parte A é o rastreio de 6 itens usado em pesquisa clínica. A Parte B traz pistas extras. Você vê um resultado claro para levar a um profissional.\n\nRecursos\n\nTeste de TDAH para adultos em cerca de 3 minutos. Pontuação ASRS v1.1 (corte da Parte A: 4 de 6). Triagem, não um quiz aleatório. Desatenção, impulsividade e hiperatividade. Privado: as respostas ficam neste aparelho. Funciona totalmente offline. Interface simples em 15 idiomas. Fontes no app (OMS / Workgroup on Adult ADHD).\n\nMétodo\n\nA ASRS v1.1 é um instrumento de triagem do TDAH em adultos. O app apresenta esse instrumento para autoconhecimento. Não diagnostica TDAH nem outros transtornos.\n\nPara quem é\n\nAdultos que se perguntam “eu tenho TDAH?”, estudantes com problemas de concentração, profissionais com dificuldade de organização ou impulsividade, quem quer uma autoavaliação científica antes de marcar consulta.\n\nBaixe Teste TDAH e faça uma triagem de TDAH para adultos hoje. Se os sintomas atrapalham o dia a dia, fale com um profissional qualificado.\n\nEste teste para adultos ajuda a notar padrões de déficit de atenção, hiperatividade e impulsividade. Questionário ASRS, autoteste, triagem OMS: rápido, privado, sem diagnóstico.",
+      "descriptionHTML": "Faça o teste de TDAH para adultos (ASRS v1.1 da OMS). Triagem privada em cerca de 3 minutos: atenção, impulsividade e hiperatividade. Não é diagnóstico.<br><br>Você se pergunta “Eu tenho TDAH?” Este app apresenta a Adult ADHD Self-Report Scale (ASRS v1.1), desenvolvida com a Organização Mundial da Saúde. São 18 perguntas. A Parte A é o rastreio de 6 itens usado em pesquisa clínica. A Parte B traz pistas extras. Você vê um resultado claro para levar a um profissional.<br><br>Recursos<br><br>Teste de TDAH para adultos em cerca de 3 minutos. Pontuação ASRS v1.1 (corte da Parte A: 4 de 6). Triagem, não um quiz aleatório. Desatenção, impulsividade e hiperatividade. Privado: as respostas ficam neste aparelho. Funciona totalmente offline. Interface simples em 15 idiomas. Fontes no app (OMS / Workgroup on Adult ADHD).<br><br>Método<br><br>A ASRS v1.1 é um instrumento de triagem do TDAH em adultos. O app apresenta esse instrumento para autoconhecimento. Não diagnostica TDAH nem outros transtornos.<br><br>Para quem é<br><br>Adultos que se perguntam “eu tenho TDAH?”, estudantes com problemas de concentração, profissionais com dificuldade de organização ou impulsividade, quem quer uma autoavaliação científica antes de marcar consulta.<br><br>Baixe Teste TDAH e faça uma triagem de TDAH para adultos hoje. Se os sintomas atrapalham o dia a dia, fale com um profissional qualificado.<br><br>Este teste para adultos ajuda a notar padrões de déficit de atenção, hiperatividade e impulsividade. Questionário ASRS, autoteste, triagem OMS: rápido, privado, sem diagnóstico.",
+      "summary": "Triagem OMS ASRS v1.1 para adultos: atenção, impulsividade e hiperatividade.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11860,
+      "score": 4.702381,
+      "scoreText": "4,7",
+      "ratings": 114,
+      "reviews": 17,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.vadeapps.testetdah",
+      "url": "https://play.google.com/store/apps/details?id=com.vadeapps.testetdah&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Soothfy: ADHD Planner, Anxiety",
+      "description": "O Soothfy ​​é um aplicativo de planejamento e saúde mental para TDAH, desenvolvido para pessoas cujos cérebros funcionam de maneira diferente. Se a ansiedade, o TOC, o TEPT ou os ataques de pânico tornam o dia a dia mais difícil do que deveria ser, você está no lugar certo.\n\nA maioria dos aplicativos de saúde mental não foi criada para o funcionamento real de cérebros com TDAH e ansiedade. Eles oferecem uma meditação genérica quando você está no meio de um ataque de pânico ou uma lista de tarefas quando a função executiva está completamente comprometida. O Soothfy ​​foi desenvolvido com base na realidade de viver com essas condições, não na versão idealizada delas.\n\nO recurso que nossos usuários mais utilizam diariamente é o Alívio Instantâneo. Quando a ansiedade aumenta, quando o TDAH torna o foco impossível ou quando um ataque de pânico começa, você abre o Soothfy ​​e segue quatro etapas. Escolha sua condição, selecione o sintoma exato entre 35 opções, descreva o que está acontecendo agora e receba três atividades de TCC (Terapia Cognitivo-Comportamental) criadas especificamente para essa situação, com um cronômetro de dois minutos. Nada genérico. Algo pensado para o momento presente. Você acompanha se funcionou, e com o tempo o Soothfy ​​aprende o que realmente te ajuda e o que pode ser evitado.\n\nSeu planejador diário para TDAH se reconstrói a cada ciclo. A IA leva em consideração sua condição, humor, nível de energia e horário do dia antes de gerar um novo plano de vinte dias. Cada plano inclui exercícios de TCC, cronômetros de foco, tarefas de função executiva, empilhamento de hábitos, ativação comportamental e sessões de escrita terapêutica. Nada se repete,\ne como o planejador entende que o cérebro de quem tem TDAH não funciona de forma consistente, ele se ajusta em vez de te punir pelos dias difíceis.\n\nA biblioteca de educação em TCC te guia pelo modelo ABC, treinamento de assertividade, ativação comportamental e monitoramento de comportamento de uma forma prática e específica para a sua condição. As mesmas ferramentas que os terapeutas ensinam em sessões, integradas à sua rotina diária para que você as aplique na vida real, e não apenas leia sobre elas.\n\nO rastreador de humor e o rastreador de ansiedade transformam os registros diários em algo realmente útil. Registre suas emoções, níveis de ansiedade e qualidade do sono todos os dias e o Soothfy ​​criará gráficos de tendências semanais e mensais que mostram seus padrões reais, seus gatilhos e como o sono se conecta ao foco, à ansiedade e a tudo mais. Você pode baixar seus relatórios de humor e ansiedade e levá-los a um terapeuta ou médico que poderá usar esses dados para ajudá-lo.\n\nO diário de ansiedade permite que você escreva, grave notas de voz e anexe sons terapêuticos diretamente às entradas. O rastreador de sono mostra como o descanso afeta seu foco e ansiedade relacionados ao TDAH ao longo do tempo. Para usuários neurodivergentes e qualquer pessoa que lide com insônia, estresse ou desregulação emocional, ter um lugar para colocar o peso do dia antes de dormir é muito importante. A biblioteca de terapia sonora oferece áudios selecionados e projetados para TDAH e ansiedade, não ruídos genéricos. O cronômetro para TDAH ajuda você a se manter focado quando a função executiva está comprometida.\n\nO Soothfy ​​conecta suas atividades de saúde mental às rotinas que você já possui. Em vez de criar novos hábitos do zero, o Soothfy ​​ajuda você a incorporar exercícios de TCC (Terapia Cognitivo-Comportamental) às coisas que você já faz todos os dias. É por isso que os hábitos criados neste aplicativo realmente duram.\n\nA comunidade reúne pessoas que lidam com TDAH, ansiedade, TOC, TEPT, depressão e desregulação emocional. Pessoas reais compartilham o que funciona, o que não funciona e como é viver com essas condições no dia a dia. É moderado, é honesto e é o tipo de apoio que lembra que você não está lidando com isso sozinho.\n\nO Soothfy ​​abrange nove condições em um único aplicativo: TDAH, ansiedade, depressão, TOC, TEPT, estresse, insônia, raiva e desregulação emocional. Uma assinatura cobre tudo. Você não precisa de um aplicativo diferente para cada condição que está gerenciando.\n\nO aplicativo é gratuito para baixar. Sua primeira sessão de alívio leva menos de dois minutos.\n\nLINKS LEGAIS\nPolítica de Privacidade: https://soothfy.com/privacy_policy.html\nTermos de Uso: https://soothfy.com/terms_and_conditions.html",
+      "descriptionHTML": "O Soothfy ​​é um aplicativo de planejamento e saúde mental para TDAH, desenvolvido para pessoas cujos cérebros funcionam de maneira diferente. Se a ansiedade, o TOC, o TEPT ou os ataques de pânico tornam o dia a dia mais difícil do que deveria ser, você está no lugar certo.<br><br>A maioria dos aplicativos de saúde mental não foi criada para o funcionamento real de cérebros com TDAH e ansiedade. Eles oferecem uma meditação genérica quando você está no meio de um ataque de pânico ou uma lista de tarefas quando a função executiva está completamente comprometida. O Soothfy ​​foi desenvolvido com base na realidade de viver com essas condições, não na versão idealizada delas.<br><br>O recurso que nossos usuários mais utilizam diariamente é o Alívio Instantâneo. Quando a ansiedade aumenta, quando o TDAH torna o foco impossível ou quando um ataque de pânico começa, você abre o Soothfy ​​e segue quatro etapas. Escolha sua condição, selecione o sintoma exato entre 35 opções, descreva o que está acontecendo agora e receba três atividades de TCC (Terapia Cognitivo-Comportamental) criadas especificamente para essa situação, com um cronômetro de dois minutos. Nada genérico. Algo pensado para o momento presente. Você acompanha se funcionou, e com o tempo o Soothfy ​​aprende o que realmente te ajuda e o que pode ser evitado.<br><br>Seu planejador diário para TDAH se reconstrói a cada ciclo. A IA leva em consideração sua condição, humor, nível de energia e horário do dia antes de gerar um novo plano de vinte dias. Cada plano inclui exercícios de TCC, cronômetros de foco, tarefas de função executiva, empilhamento de hábitos, ativação comportamental e sessões de escrita terapêutica. Nada se repete,<br>e como o planejador entende que o cérebro de quem tem TDAH não funciona de forma consistente, ele se ajusta em vez de te punir pelos dias difíceis.<br><br>A biblioteca de educação em TCC te guia pelo modelo ABC, treinamento de assertividade, ativação comportamental e monitoramento de comportamento de uma forma prática e específica para a sua condição. As mesmas ferramentas que os terapeutas ensinam em sessões, integradas à sua rotina diária para que você as aplique na vida real, e não apenas leia sobre elas.<br><br>O rastreador de humor e o rastreador de ansiedade transformam os registros diários em algo realmente útil. Registre suas emoções, níveis de ansiedade e qualidade do sono todos os dias e o Soothfy ​​criará gráficos de tendências semanais e mensais que mostram seus padrões reais, seus gatilhos e como o sono se conecta ao foco, à ansiedade e a tudo mais. Você pode baixar seus relatórios de humor e ansiedade e levá-los a um terapeuta ou médico que poderá usar esses dados para ajudá-lo.<br><br>O diário de ansiedade permite que você escreva, grave notas de voz e anexe sons terapêuticos diretamente às entradas. O rastreador de sono mostra como o descanso afeta seu foco e ansiedade relacionados ao TDAH ao longo do tempo. Para usuários neurodivergentes e qualquer pessoa que lide com insônia, estresse ou desregulação emocional, ter um lugar para colocar o peso do dia antes de dormir é muito importante. A biblioteca de terapia sonora oferece áudios selecionados e projetados para TDAH e ansiedade, não ruídos genéricos. O cronômetro para TDAH ajuda você a se manter focado quando a função executiva está comprometida.<br><br>O Soothfy ​​conecta suas atividades de saúde mental às rotinas que você já possui. Em vez de criar novos hábitos do zero, o Soothfy ​​ajuda você a incorporar exercícios de TCC (Terapia Cognitivo-Comportamental) às coisas que você já faz todos os dias. É por isso que os hábitos criados neste aplicativo realmente duram.<br><br>A comunidade reúne pessoas que lidam com TDAH, ansiedade, TOC, TEPT, depressão e desregulação emocional. Pessoas reais compartilham o que funciona, o que não funciona e como é viver com essas condições no dia a dia. É moderado, é honesto e é o tipo de apoio que lembra que você não está lidando com isso sozinho.<br><br>O Soothfy ​​abrange nove condições em um único aplicativo: TDAH, ansiedade, depressão, TOC, TEPT, estresse, insônia, raiva e desregulação emocional. Uma assinatura cobre tudo. Você não precisa de um aplicativo diferente para cada condição que está gerenciando.<br><br>O aplicativo é gratuito para baixar. Sua primeira sessão de alívio leva menos de dois minutos.<br><br>LINKS LEGAIS<br>Política de Privacidade: https://soothfy.com/privacy_policy.html<br>Termos de Uso: https://soothfy.com/terms_and_conditions.html",
+      "summary": "Planejador para TDAH e rastreador de ansiedade com ferramentas de TCC, rastreador de humor e diário do sono.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2129,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.soothfy",
+      "url": "https://play.google.com/store/apps/details?id=com.soothfy&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "ADHD Sounds: Focus & Sleep",
+      "description": "Aplicativo ADHD Sounds: seu companheiro definitivo para foco, relaxamento e sono\n\nLutando contra o TDAH? Nosso aplicativo foi projetado para ajudá-lo a se concentrar, relaxar e dormir melhor com sons e músicas com respaldo científico. Esteja você estudando, trabalhando ou relaxando, o aplicativo ADHD Sounds oferece o ambiente de áudio perfeito para aumentar sua produtividade e bem-estar.\n\n*** Principais recursos *** \n- Sons de foco: aumente a concentração com ruído branco, batidas binaurais e sons ambientes.\n- Sons para dormir: adormeça mais rápido com músicas calmantes e sons da natureza.\n- Sons de relaxamento: reduza o estresse e a ansiedade com faixas de áudio calmantes.\n- Listas de reprodução personalizáveis: crie suas próprias paisagens sonoras para concentração, relaxamento ou sono.\n- Função Timer: Defina um timer para interromper automaticamente os sons após um determinado período.\n- Acesso offline: baixe sons e use-os em qualquer lugar, a qualquer hora.\n\n*** Por que escolher o aplicativo ADHD Sounds? *** \n- Projetado cientificamente **: Nossos sons são elaborados com base em pesquisas para ajudar indivíduos com TDAH a se concentrar e relaxar.\n- Interface amigável**: Fácil de navegar e personalizar de acordo com suas necessidades.\n\n*** Para quem é? ***\n- Estudantes e profissionais com TDAH que precisam de foco.\n- Qualquer pessoa com dificuldades de sono devido a sintomas de TDAH.\n- Indivíduos que procuram formas naturais de reduzir o estresse e a ansiedade.\n\n*** Baixe agora e transforme o seu dia! *** \n\nO aplicativo ADHD Sounds é a solução ideal para melhor foco, relaxamento e sono. Junte-se a milhares de usuários que melhoraram suas vidas com nosso aplicativo. Baixe agora e experimente a diferença!\n\nPolítica de Privacidade: https://sites.google.com/view/topd-studio\nTermos de uso: https://sites.google.com/view/topd-terms-of-use\n\nIsenção de responsabilidade:\nQuaisquer conselhos ou outros materiais no ADHD Sound destinam-se apenas a fins de informação geral. Eles não se destinam a ser confiáveis ​​ou a substituir o conselho médico profissional com base em sua condição e circunstâncias individuais.\n\nCuide-se!",
+      "descriptionHTML": "Aplicativo ADHD Sounds: seu companheiro definitivo para foco, relaxamento e sono<br><br>Lutando contra o TDAH? Nosso aplicativo foi projetado para ajudá-lo a se concentrar, relaxar e dormir melhor com sons e músicas com respaldo científico. Esteja você estudando, trabalhando ou relaxando, o aplicativo ADHD Sounds oferece o ambiente de áudio perfeito para aumentar sua produtividade e bem-estar.<br><br>*** Principais recursos *** <br>- Sons de foco: aumente a concentração com ruído branco, batidas binaurais e sons ambientes.<br>- Sons para dormir: adormeça mais rápido com músicas calmantes e sons da natureza.<br>- Sons de relaxamento: reduza o estresse e a ansiedade com faixas de áudio calmantes.<br>- Listas de reprodução personalizáveis: crie suas próprias paisagens sonoras para concentração, relaxamento ou sono.<br>- Função Timer: Defina um timer para interromper automaticamente os sons após um determinado período.<br>- Acesso offline: baixe sons e use-os em qualquer lugar, a qualquer hora.<br><br>*** Por que escolher o aplicativo ADHD Sounds? *** <br>- Projetado cientificamente **: Nossos sons são elaborados com base em pesquisas para ajudar indivíduos com TDAH a se concentrar e relaxar.<br>- Interface amigável**: Fácil de navegar e personalizar de acordo com suas necessidades.<br><br>*** Para quem é? ***<br>- Estudantes e profissionais com TDAH que precisam de foco.<br>- Qualquer pessoa com dificuldades de sono devido a sintomas de TDAH.<br>- Indivíduos que procuram formas naturais de reduzir o estresse e a ansiedade.<br><br>*** Baixe agora e transforme o seu dia! *** <br><br>O aplicativo ADHD Sounds é a solução ideal para melhor foco, relaxamento e sono. Junte-se a milhares de usuários que melhoraram suas vidas com nosso aplicativo. Baixe agora e experimente a diferença!<br><br>Política de Privacidade: https://sites.google.com/view/topd-studio<br>Termos de uso: https://sites.google.com/view/topd-terms-of-use<br><br>Isenção de responsabilidade:<br>Quaisquer conselhos ou outros materiais no ADHD Sound destinam-se apenas a fins de informação geral. Eles não se destinam a ser confiáveis ​​ou a substituir o conselho médico profissional com base em sua condição e circunstâncias individuais.<br><br>Cuide-se!",
+      "summary": "Aumente o foco, relaxe a mente, alivie o estresse e a saúde mental com terapia de som.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 25770,
+      "score": 4.8095236,
+      "scoreText": "4,8",
+      "ratings": 1361,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.adhd.focus.hz.adhd",
+      "url": "https://play.google.com/store/apps/details?id=com.adhd.focus.hz.adhd&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Lusha: TDAH Tarefas e Conduta",
+      "description": "Descubra o Lusha, um jogo imersivo para ajudar as crianças a fortalecer sua saúde mental e a se desenvolver (TDAH, transtornos de comportamento, gestão das emoções, ansiedade).  \n\nPARA VOCÊ, PAIS:\nLusha oferece um suporte concreto, integrando orientações baseadas em programas de saúde mental como o programa Barkley. Acesse ferramentas e informações essenciais para gerenciar de forma mais eficaz a saúde mental do seu filho.  \n\nAcompanhe e compartilhe seu progresso com profissionais de saúde por meio do painel do Lusha, facilitando a tomada de decisões informadas e promovendo uma abordagem colaborativa na gestão da sua saúde mental.  \n\nPARA SEU FILHO (6 a 12 anos):\nMergulhe-o em um universo cativante da selva, onde seu avatar encontra animais acolhedores que o ajudam a compreender melhor seus comportamentos, emoções e interações sociais, oferecendo conselhos práticos baseados em abordagens cognitivo-comportamentais.  \n\nLusha é um jogo de e-saúde que auxilia na gestão das rotinas diárias, no desenvolvimento de competências emocionais e habilidades sociais. O jogo se baseia na digitalização de módulos de terapia cognitivo-comportamental e no reforço positivo. As tarefas e mudanças de comportamento realizadas na \"vida real\" são associadas a recompensas no jogo para incentivá-las. Dessa forma, você pode valorizar pequenas mudanças do dia a dia que ajudam a fortalecer sua autoestima, autocontrole e interações sociais.  \n\nGerencie o tempo de tela de forma eficaz: Lusha limita as sessões de jogo conforme sua preferência. Você define um tempo máximo diário (por exemplo, 30 minutos). Quando esse tempo se esgota, o avatar do seu filho se cansa e precisa descansar, incentivando-o a fazer uma pausa.  \n\nUM APLICATIVO BASEADO NA CIÊNCIA:\nLusha foi desenvolvido em colaboração com pedopsiquiatras, psicólogos e famílias para garantir um jogo adaptado e eficaz. É uma ferramenta valiosa para auxiliá-lo na gestão da saúde mental do seu filho.  \n\nLusha é oferecido por meio de assinatura após um período de teste gratuito de 7 dias. \n\nTermos de uso: Saiba mais sobre nossos termos de uso visitando https://lusha.care/term_of_use.\n\nPolítica de privacidade: Leia nossa política de privacidade para entender como tratamos suas informações em https://lusha.care/privacy.",
+      "descriptionHTML": "Descubra o Lusha, um jogo imersivo para ajudar as crianças a fortalecer sua saúde mental e a se desenvolver (TDAH, transtornos de comportamento, gestão das emoções, ansiedade).  <br><br>PARA VOCÊ, PAIS:<br>Lusha oferece um suporte concreto, integrando orientações baseadas em programas de saúde mental como o programa Barkley. Acesse ferramentas e informações essenciais para gerenciar de forma mais eficaz a saúde mental do seu filho.  <br><br>Acompanhe e compartilhe seu progresso com profissionais de saúde por meio do painel do Lusha, facilitando a tomada de decisões informadas e promovendo uma abordagem colaborativa na gestão da sua saúde mental.  <br><br>PARA SEU FILHO (6 a 12 anos):<br>Mergulhe-o em um universo cativante da selva, onde seu avatar encontra animais acolhedores que o ajudam a compreender melhor seus comportamentos, emoções e interações sociais, oferecendo conselhos práticos baseados em abordagens cognitivo-comportamentais.  <br><br>Lusha é um jogo de e-saúde que auxilia na gestão das rotinas diárias, no desenvolvimento de competências emocionais e habilidades sociais. O jogo se baseia na digitalização de módulos de terapia cognitivo-comportamental e no reforço positivo. As tarefas e mudanças de comportamento realizadas na &quot;vida real&quot; são associadas a recompensas no jogo para incentivá-las. Dessa forma, você pode valorizar pequenas mudanças do dia a dia que ajudam a fortalecer sua autoestima, autocontrole e interações sociais.  <br><br>Gerencie o tempo de tela de forma eficaz: Lusha limita as sessões de jogo conforme sua preferência. Você define um tempo máximo diário (por exemplo, 30 minutos). Quando esse tempo se esgota, o avatar do seu filho se cansa e precisa descansar, incentivando-o a fazer uma pausa.  <br><br>UM APLICATIVO BASEADO NA CIÊNCIA:<br>Lusha foi desenvolvido em colaboração com pedopsiquiatras, psicólogos e famílias para garantir um jogo adaptado e eficaz. É uma ferramenta valiosa para auxiliá-lo na gestão da saúde mental do seu filho.  <br><br>Lusha é oferecido por meio de assinatura após um período de teste gratuito de 7 dias. <br><br>Termos de uso: Saiba mais sobre nossos termos de uso visitando https://lusha.care/term_of_use.<br><br>Política de privacidade: Leia nossa política de privacidade para entender como tratamos suas informações em https://lusha.care/privacy.",
+      "summary": "Jogo TDAH para crianças. Cria rotinas e ajuda no controlo da raiva e TOD.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 151843,
+      "score": 4.54,
+      "scoreText": "4,5",
+      "ratings": 1207,
+      "reviews": 23,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.Dygie.Lusha",
+      "url": "https://play.google.com/store/apps/details?id=com.Dygie.Lusha&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Mundo TDAH",
+      "description": "Seja bem-vindo(a)! \n\nO aplicativo Mundo TDAH oferece um caminho claro, simples e baseado em ciência para quem convive com o TDAH no dia a dia. \n\nAqui você encontra, em um único lugar, aulas, trilhas por idade, ferramentas práticas e uma comunidade acolhedora, para transformar conhecimento em ação — com leveza e propósito. \n\nFaça login com as suas credenciais e tenha acesso às aulas, de qualquer lugar do mundo, na palma da sua mão.",
+      "descriptionHTML": "Seja bem-vindo(a)! <br><br>O aplicativo Mundo TDAH oferece um caminho claro, simples e baseado em ciência para quem convive com o TDAH no dia a dia. <br><br>Aqui você encontra, em um único lugar, aulas, trilhas por idade, ferramentas práticas e uma comunidade acolhedora, para transformar conhecimento em ação — com leveza e propósito. <br><br>Faça login com as suas credenciais e tenha acesso às aulas, de qualquer lugar do mundo, na palma da sua mão.",
+      "summary": "Acesse aulas, interaja e acompanhe seu progresso com nosso app!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1237,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.mundotdah",
+      "url": "https://play.google.com/store/apps/details?id=br.com.mundotdah&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

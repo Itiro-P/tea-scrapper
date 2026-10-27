@@ -1,0 +1,584 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:03:42.542Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "tourettes guy soundboard",
+    "key": "tourettes guy soundboard",
+    "depth": 1,
+    "parent": "tourette",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Tourette's Guy Soundboard",
+      "description": "Uma mesa de som básica composta por clipes de áudio de vários vídeos de Guy da Tourette.",
+      "descriptionHTML": "Uma mesa de som básica composta por clipes de áudio de vários vídeos de Guy da Tourette.",
+      "summary": "Uma mesa de som básica composta por Tourette's Guy.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 9271,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "appinventor.ai_LiveTrashApps.Tourettes_Guy_Soundboard",
+      "url": "https://play.google.com/store/apps/details?id=appinventor.ai_LiveTrashApps.Tourettes_Guy_Soundboard&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "SoundboardGuys: Meme Sounds",
+      "description": "SoundboardGuys é o seu destino para sons de memes virais, clipes engraçados e efeitos sonoros da internet. Descubra milhares de sons de memes, vídeos, jogos e cultura online. Tudo em um aplicativo de soundboard rápido e fácil de usar.\n\nSeja para dar uma risada rápida, um som de reação ou o clipe perfeito para seus amigos, o SoundboardGuys facilita encontrar e reproduzir os sons que você adora.\n\n🔊 Enorme Biblioteca de Sons\n\nNavegue por uma coleção em constante crescimento de sons de memes, clipes de áudio engraçados e efeitos sonoros. Novos sons são adicionados regularmente, então sempre há algo novo para reproduzir.\n\n⚡ Soundboard Instantâneo\n\nToque em qualquer botão para reproduzir um som instantaneamente. Sem carregamento, sem espera. Apenas reações rápidas e divertidas sempre que você precisar.\n\n❤️ Salve Seus Favoritos\n\nCurta os sons que você ama e crie sua própria soundboard personalizada para que seus clipes favoritos estejam sempre a um toque de distância.\n\n🔍 Sons Fáceis de Encontrar\n\nPesquise, explore sons populares e descubra novos favoritos em diversas categorias.\n\n📱 Projetado para Dispositivos Móveis\n\nLimpo, rápido e otimizado para celulares e tablets para que você possa curtir sons em qualquer lugar.\n\nO SoundboardGuys é perfeito para:\n\nAmantes de memes\n\nStreamers e gamers\n\nBate-papos em grupo e reações\n\nQualquer pessoa que curta a cultura da internet e sons engraçados\n\nBaixe o SoundboardGuys e comece a reproduzir sons virais hoje mesmo.",
+      "descriptionHTML": "SoundboardGuys é o seu destino para sons de memes virais, clipes engraçados e efeitos sonoros da internet. Descubra milhares de sons de memes, vídeos, jogos e cultura online. Tudo em um aplicativo de soundboard rápido e fácil de usar.<br><br>Seja para dar uma risada rápida, um som de reação ou o clipe perfeito para seus amigos, o SoundboardGuys facilita encontrar e reproduzir os sons que você adora.<br><br>🔊 Enorme Biblioteca de Sons<br><br>Navegue por uma coleção em constante crescimento de sons de memes, clipes de áudio engraçados e efeitos sonoros. Novos sons são adicionados regularmente, então sempre há algo novo para reproduzir.<br><br>⚡ Soundboard Instantâneo<br><br>Toque em qualquer botão para reproduzir um som instantaneamente. Sem carregamento, sem espera. Apenas reações rápidas e divertidas sempre que você precisar.<br><br>❤️ Salve Seus Favoritos<br><br>Curta os sons que você ama e crie sua própria soundboard personalizada para que seus clipes favoritos estejam sempre a um toque de distância.<br><br>🔍 Sons Fáceis de Encontrar<br><br>Pesquise, explore sons populares e descubra novos favoritos em diversas categorias.<br><br>📱 Projetado para Dispositivos Móveis<br><br>Limpo, rápido e otimizado para celulares e tablets para que você possa curtir sons em qualquer lugar.<br><br>O SoundboardGuys é perfeito para:<br><br>Amantes de memes<br><br>Streamers e gamers<br><br>Bate-papos em grupo e reações<br><br>Qualquer pessoa que curta a cultura da internet e sons engraçados<br><br>Baixe o SoundboardGuys e comece a reproduzir sons virais hoje mesmo.",
+      "summary": "Toque para reproduzir milhares de sons de memes virais.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 12897,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.frydcircuit.memesoundboard",
+      "url": "https://play.google.com/store/apps/details?id=com.frydcircuit.memesoundboard&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Soundboard",
+      "description": "Crie, gerencie e reproduza efeitos sonoros com facilidade. Este aplicativo de mesa de som se destaca por sua interface de usuário intuitiva e recursos inteligentes que podem ser perfeitamente adaptados às suas necessidades.\n\nPrincipais recursos do aplicativo:\n▪️  Efeitos, reações, animais e muito mais: Comece imediatamente com uma seleção estruturada de categorias de alta qualidade.\n\n▪️ Importar e gravar: Expanda facilmente sua coleção importando seus próprios arquivos de áudio ou gravando diretamente pelo seu microfone.\n\n▪️  Interface flexível: Ajuste o tamanho dos botões para garantir a melhor visualização ou crie botões grandes para operação rápida.\n\n▪️ Claro ou escuro: O design se adapta perfeitamente às suas preferências de sistema.\n\nUma solução estruturada e simples para quem precisa ter o som certo sempre à mão.",
+      "descriptionHTML": "Crie, gerencie e reproduza efeitos sonoros com facilidade. Este aplicativo de mesa de som se destaca por sua interface de usuário intuitiva e recursos inteligentes que podem ser perfeitamente adaptados às suas necessidades.<br><br><b>Principais recursos do aplicativo:</b><br>▪️  <b>Efeitos, reações, animais e muito mais:</b> Comece imediatamente com uma seleção estruturada de categorias de alta qualidade.<br><br>▪️ <b>Importar e gravar:</b> Expanda facilmente sua coleção importando seus próprios arquivos de áudio ou gravando diretamente pelo seu microfone.<br><br>▪️  <b>Interface flexível:</b> Ajuste o tamanho dos botões para garantir a melhor visualização ou crie botões grandes para operação rápida.<br><br>▪️ <b>Claro ou escuro:</b> O design se adapta perfeitamente às suas preferências de sistema.<br><br>Uma solução estruturada e simples para quem precisa ter o som certo sempre à mão.",
+      "summary": "Efeitos sonoros divertidos e úteis sempre ao seu alcance.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8089,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.braffdev.soundboard",
+      "url": "https://play.google.com/store/apps/details?id=com.braffdev.soundboard&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Soundboard Online",
+      "description": "O Soundboard Online é a melhor mesa de som para memes e efeitos sonoros.\nDescubra, crie e compartilhe sons e coleções. Sejam memes, efeitos sonoros ou música, conecte-se com uma comunidade que adora mesas de som.\n\nTransforme qualquer áudio ou vídeo em um botão de mesa de som, crie coleções personalizadas e reproduza sons de memes instantaneamente.\n\n* Carregar e editar: Adicione seu próprio áudio ou vídeo e corte-o com as ferramentas de edição integradas.\n\n* Sessão remota: Reproduza memes diretamente no Discord e em qualquer aplicativo de desktop, direto do seu celular - basta escanear um código QR.\n\n* Social: Siga seus criadores favoritos e explore os feeds \"Para você\" e \"Seguindo\".\n\n* Busca: Encontre sons, coleções e usuários em um só lugar.\n\n* Feed inicial: Explore o conteúdo enviado pelos usuários, classificado por Popular, Recente ou Principais - diariamente, mensalmente ou em todos os tempos.\n\n* Ranking de Populares: Descubra conteúdo novo sempre com o ranking de Populares, que é atualizado constantemente, mantendo seu feed inicial sempre atualizado quando você abre o aplicativo.\n* Categorias: Navegue por Memes, Música, Filmes, Jogos, Efeitos Sonoros e Animes.\n* Coleções: Crie coleções personalizadas, organize o conteúdo do seu jeito com seleção múltipla e edição em lote, e mantenha seus favoritos em um só lugar com sincronização instantânea.\n\n* Miniaturas ao Vivo: Curta formas de onda reativas ao áudio que se movem com o som.\n\n* Compartilhe: Compartilhe coleções com amigos ou salve as que você mais gosta de usuários do mundo todo.\n\n* Controles de efeitos sonoros em tempo real adicionados (SFX: Velocidade, Tom, Distorção, Reforço de Graves, Reverberação, Vibrato, Tremolo, Rádio, Robô)\n* Modo de Reprodução adicionado (Simples, Normal, Repetir, Múltiplo, Único)\n\nAlém de uploads mais altos e nítidos e uma experiência mais fluida.\n\nJunte-se à comunidade global de soundboards hoje mesmo!",
+      "descriptionHTML": "O Soundboard Online é a melhor mesa de som para memes e efeitos sonoros.<br>Descubra, crie e compartilhe sons e coleções. Sejam memes, efeitos sonoros ou música, conecte-se com uma comunidade que adora mesas de som.<br><br>Transforme qualquer áudio ou vídeo em um botão de mesa de som, crie coleções personalizadas e reproduza sons de memes instantaneamente.<br><br>* Carregar e editar: Adicione seu próprio áudio ou vídeo e corte-o com as ferramentas de edição integradas.<br><br>* Sessão remota: Reproduza memes diretamente no Discord e em qualquer aplicativo de desktop, direto do seu celular - basta escanear um código QR.<br><br>* Social: Siga seus criadores favoritos e explore os feeds &quot;Para você&quot; e &quot;Seguindo&quot;.<br><br>* Busca: Encontre sons, coleções e usuários em um só lugar.<br><br>* Feed inicial: Explore o conteúdo enviado pelos usuários, classificado por Popular, Recente ou Principais - diariamente, mensalmente ou em todos os tempos.<br><br>* Ranking de Populares: Descubra conteúdo novo sempre com o ranking de Populares, que é atualizado constantemente, mantendo seu feed inicial sempre atualizado quando você abre o aplicativo.<br>* Categorias: Navegue por Memes, Música, Filmes, Jogos, Efeitos Sonoros e Animes.<br>* Coleções: Crie coleções personalizadas, organize o conteúdo do seu jeito com seleção múltipla e edição em lote, e mantenha seus favoritos em um só lugar com sincronização instantânea.<br><br>* Miniaturas ao Vivo: Curta formas de onda reativas ao áudio que se movem com o som.<br><br>* Compartilhe: Compartilhe coleções com amigos ou salve as que você mais gosta de usuários do mundo todo.<br><br>* Controles de efeitos sonoros em tempo real adicionados (SFX: Velocidade, Tom, Distorção, Reforço de Graves, Reverberação, Vibrato, Tremolo, Rádio, Robô)<br>* Modo de Reprodução adicionado (Simples, Normal, Repetir, Múltiplo, Único)<br><br>Além de uploads mais altos e nítidos e uma experiência mais fluida.<br><br>Junte-se à comunidade global de soundboards hoje mesmo!",
+      "summary": "Descubra, crie e compartilhe sons. Conecte-se com uma comunidade que adora mesas de som.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 51733,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.onlinesoundboard.app",
+      "url": "https://play.google.com/store/apps/details?id=com.onlinesoundboard.app&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "ROLIFY sound effect soundboard",
+      "description": "🎲 ROLIFY - A Mesa de Som Definitiva para D&D e RPG\n\nTransforme cada jogo de mesa em uma experiência inesquecível com o Rolify, o mixer de sons ambientes e música criado especificamente para Mestres de Masmorra, Mestres de Jogo e jogadores de RPG que desejam que suas sessões pareçam vivas.\n\nSeja você um mestre de uma campanha clássica de Dungeons & Dragons, uma aventura de Pathfinder, uma sessão única de terror ou qualquer RPG de mesa, o Rolify lhe dá controle total sobre a atmosfera. Sobreponha vários sons em loop simultaneamente, desde lareiras crepitantes a trovões distantes, murmúrios de tavernas a ecos assustadores de masmorras, e veja seus jogadores serem transportados diretamente para o mundo que você criou.\n\n🔊 POR QUE OS MESTRES DE MASMORRA AMAM O ROLIFY\n\nUma boa narrativa não se resume apenas a palavras, mas sim à imersão. Um efeito sonoro bem colocado pode transformar uma simples descrição em um momento de tirar o fôlego. Com a mesa de som em camadas do Rolify, você pode misturar ruídos de fundo, efeitos sonoros e suas próprias faixas musicais em tempo real, sem interromper o fluxo da sua sessão.\n\nCombine os sons do seu jeito: uma lareira crepitante, vozes murmurando, um bardo dedilhando um violão no canto, e seus jogadores se sentirão como se tivessem entrado em uma taverna fantástica. Adicione chuva e trovões para uma emboscada em uma noite tempestuosa, ou um zumbido grave e ameaçador para um encontro com um chefe. O único limite é a sua imaginação.\n\n✨ PRINCIPAIS RECURSOS\n\n🎵 Reproduza vários sons em loop simultaneamente, misture e combine para criar a atmosfera perfeita\n📁 Carregue suas próprias músicas e efeitos sonoros, expanda sua biblioteca com qualquer áudio personalizado\n📶 Reprodução totalmente offline, sem necessidade de conexão com a internet, seja na mesa de jogo ou no porão\n🎛️ Misture e sobreponha áudio livremente, crie atmosferas únicas para cada cena e encontro\n📋 Crie e salve listas de reprodução para acesso instantâneo durante as sessões ao vivo\n💰 Sem assinatura, sem anúncios invasivos, pague uma vez e use para sempre\n\n🐉 PERFEITO PARA TODOS OS RPGs DE MESA\n\nO Rolify funciona perfeitamente com Dungeons and Dragons (D&D 5e), Pathfinder, Call of Cthulhu, Vampire: The Masquerade, Warhammer e qualquer RPG de mesa caseiro ou de fantasia. Ele foi projetado para Mestres de Jogo e Mestres de Masmorra que desejam som ambiente com qualidade profissional, sem softwares complicados ou taxas de assinatura.\n\n🌙 MAIS DO QUE UMA MESA DE SOM PARA D&D\n\nAlém da mesa de jogo, o Rolify também funciona como um mixer de sons ambientes para relaxamento, concentração e sono. Combine chuva, crepitar de lareira, vento e ruído branco para criar uma paisagem sonora relaxante para estudar, meditar ou adormecer à noite. Se você gosta de aplicativos de ruído ambiente, mixers de sons da natureza ou máquinas de som para dormir, a flexibilidade de camadas do Rolify oferece o mesmo poder, adaptado também para cenários de fantasia e RPG.\n\n🎧 COMO FUNCIONA\n\n1. Navegue pela biblioteca de sons integrada ou carregue suas próprias faixas.\n2. Toque para iniciar a reprodução de qualquer som em loop contínuo.\n3. Sobreponha quantos sons quiser, ajustando o volume de cada um.\n4. Salve suas combinações favoritas como listas de reprodução.\n5. Recupere qualquer atmosfera instantaneamente durante sua próxima sessão.\n\n🛡️ FEITO PARA SESSÕES REAIS\n\nO Rolify funciona completamente offline, então você nunca depende de uma conexão de internet instável na sua loja de jogos local, no porão de um amigo ou em um centro de convenções. Tudo é executado localmente no seu dispositivo, mantendo a reprodução fluida e confiável exatamente quando você precisa.\n\nSem assinaturas forçadas. Sem anúncios pop-up interrompendo sua narrativa. Apenas uma mesa de som limpa e focada, criada por jogadores de jogos de tabuleiro, para jogadores de jogos de tabuleiro.\n\n📥 BAIXE O ROLIFY HOJE MESMO\n\nSeja você um Mestre de Masmorras experiente buscando aprimorar a criação de seus mundos, um jogador querendo definir a atmosfera para suas próprias sessões solo ou simplesmente alguém que adora paisagens sonoras ambientais, o Rolify é a ferramenta que você estava procurando.\n\nBaixe o Rolify agora e comece a criar suas próprias paisagens sonoras, um loop de cada vez.",
+      "descriptionHTML": "🎲 ROLIFY - A Mesa de Som Definitiva para D&amp;D e RPG<br><br>Transforme cada jogo de mesa em uma experiência inesquecível com o Rolify, o mixer de sons ambientes e música criado especificamente para Mestres de Masmorra, Mestres de Jogo e jogadores de RPG que desejam que suas sessões pareçam vivas.<br><br>Seja você um mestre de uma campanha clássica de Dungeons &amp; Dragons, uma aventura de Pathfinder, uma sessão única de terror ou qualquer RPG de mesa, o Rolify lhe dá controle total sobre a atmosfera. Sobreponha vários sons em loop simultaneamente, desde lareiras crepitantes a trovões distantes, murmúrios de tavernas a ecos assustadores de masmorras, e veja seus jogadores serem transportados diretamente para o mundo que você criou.<br><br>🔊 POR QUE OS MESTRES DE MASMORRA AMAM O ROLIFY<br><br>Uma boa narrativa não se resume apenas a palavras, mas sim à imersão. Um efeito sonoro bem colocado pode transformar uma simples descrição em um momento de tirar o fôlego. Com a mesa de som em camadas do Rolify, você pode misturar ruídos de fundo, efeitos sonoros e suas próprias faixas musicais em tempo real, sem interromper o fluxo da sua sessão.<br><br>Combine os sons do seu jeito: uma lareira crepitante, vozes murmurando, um bardo dedilhando um violão no canto, e seus jogadores se sentirão como se tivessem entrado em uma taverna fantástica. Adicione chuva e trovões para uma emboscada em uma noite tempestuosa, ou um zumbido grave e ameaçador para um encontro com um chefe. O único limite é a sua imaginação.<br><br>✨ PRINCIPAIS RECURSOS<br><br>🎵 Reproduza vários sons em loop simultaneamente, misture e combine para criar a atmosfera perfeita<br>📁 Carregue suas próprias músicas e efeitos sonoros, expanda sua biblioteca com qualquer áudio personalizado<br>📶 Reprodução totalmente offline, sem necessidade de conexão com a internet, seja na mesa de jogo ou no porão<br>🎛️ Misture e sobreponha áudio livremente, crie atmosferas únicas para cada cena e encontro<br>📋 Crie e salve listas de reprodução para acesso instantâneo durante as sessões ao vivo<br>💰 Sem assinatura, sem anúncios invasivos, pague uma vez e use para sempre<br><br>🐉 PERFEITO PARA TODOS OS RPGs DE MESA<br><br>O Rolify funciona perfeitamente com Dungeons and Dragons (D&amp;D 5e), Pathfinder, Call of Cthulhu, Vampire: The Masquerade, Warhammer e qualquer RPG de mesa caseiro ou de fantasia. Ele foi projetado para Mestres de Jogo e Mestres de Masmorra que desejam som ambiente com qualidade profissional, sem softwares complicados ou taxas de assinatura.<br><br>🌙 MAIS DO QUE UMA MESA DE SOM PARA D&amp;D<br><br>Além da mesa de jogo, o Rolify também funciona como um mixer de sons ambientes para relaxamento, concentração e sono. Combine chuva, crepitar de lareira, vento e ruído branco para criar uma paisagem sonora relaxante para estudar, meditar ou adormecer à noite. Se você gosta de aplicativos de ruído ambiente, mixers de sons da natureza ou máquinas de som para dormir, a flexibilidade de camadas do Rolify oferece o mesmo poder, adaptado também para cenários de fantasia e RPG.<br><br>🎧 COMO FUNCIONA<br><br>1. Navegue pela biblioteca de sons integrada ou carregue suas próprias faixas.<br>2. Toque para iniciar a reprodução de qualquer som em loop contínuo.<br>3. Sobreponha quantos sons quiser, ajustando o volume de cada um.<br>4. Salve suas combinações favoritas como listas de reprodução.<br>5. Recupere qualquer atmosfera instantaneamente durante sua próxima sessão.<br><br>🛡️ FEITO PARA SESSÕES REAIS<br><br>O Rolify funciona completamente offline, então você nunca depende de uma conexão de internet instável na sua loja de jogos local, no porão de um amigo ou em um centro de convenções. Tudo é executado localmente no seu dispositivo, mantendo a reprodução fluida e confiável exatamente quando você precisa.<br><br>Sem assinaturas forçadas. Sem anúncios pop-up interrompendo sua narrativa. Apenas uma mesa de som limpa e focada, criada por jogadores de jogos de tabuleiro, para jogadores de jogos de tabuleiro.<br><br>📥 BAIXE O ROLIFY HOJE MESMO<br><br>Seja você um Mestre de Masmorras experiente buscando aprimorar a criação de seus mundos, um jogador querendo definir a atmosfera para suas próprias sessões solo ou simplesmente alguém que adora paisagens sonoras ambientais, o Rolify é a ferramenta que você estava procurando.<br><br>Baixe o Rolify agora e comece a criar suas próprias paisagens sonoras, um loop de cada vez.",
+      "summary": "Reproduza sons em loop ao fundo. Domine as sessões de RPG. Crie sua música ambiente.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 23540,
+      "score": 4.5897436,
+      "scoreText": "4,6",
+      "ratings": 447,
+      "reviews": 15,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.lucaoropallo.rolify",
+      "url": "https://play.google.com/store/apps/details?id=com.lucaoropallo.rolify&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Soundboard Master",
+      "description": "O SoundBoard Master é o aplicativo definitivo para criar soundboards personalizados em seus dispositivos móveis. Com seus recursos robustos e interface intuitiva, você pode criar pads e grades exclusivos com botões personalizados para atender às suas necessidades específicas.\n\nDe pegadinhas e piadas a sessões de DJ, aventuras nerds de RPG, performances teatrais ao vivo, bases de rap, músicos, artistas, youtubers, locutores de rádio, jogadores, podcasters, contação de histórias, produção de filmes, shows e streamers de vídeo. Enriquecendo e criando experiências sonoras inesquecíveis para conteúdo de mídias sociais e muito mais.\n\nAgora você tem controle total sobre sua experiência de áudio. O aplicativo permite criar várias mesas, cada uma composta por um layout de grade com botões personalizáveis. Esse layout de grade flexível pode variar de um tamanho mínimo de 1x1 até uma grade de 8x8, oferecendo a liberdade de criar soundboards de complexidade e escala variadas. Os botões dentro das mesas podem ser personalizados com ícones, cores e rótulos de texto personalizados, permitindo uma navegação intuitiva e visualmente atraente.\n\nUm dos recursos de destaque é sua extensa biblioteca de efeitos sonoros. Acessível pelo aplicativo, esta biblioteca oferece uma coleção impressionante de mais de 300.000 efeitos sonoros de alta qualidade. De sons engraçados de memes a loops de DJ, sons ambientes e atmosféricos como chuva, trovão e vento, todos os tipos de animais como corujas piando, pássaros, baleias, grilos, cães e gatos, até sons mais aleatórios como lutas de espadas, tique-taque de relógio, apito de trem, motores, aviões, palmas, toques de celular, risadas, chaleira fervendo, trens, choro de bebês, sinos, alarmes e tudo mais, você encontrará os elementos de áudio perfeitos para aprimorar suas mesas de som e cativar seu público.\n\nA reprodução em tempo real garante latência mínima, proporcionando uma experiência fluida e responsiva. Além disso, o aplicativo oferece suporte offline, permitindo que você acesse suas mesas de som e efeitos sonoros baixados mesmo sem conexão com a internet. Isso garante funcionalidade ininterrupta e conveniência onde quer que você esteja.\n\nRECURSOS\n\n- Botões personalizáveis: Personalize cada botão com seus ícones preferidos, rótulos de texto personalizados e cores, tornando sua mesa de som verdadeiramente sua.\n\n- Importe suas próprias gravações e mixagens, com suporte a vários formatos de arquivo, como WAV, FLAC, OGG e MP3.\n- Edite sons: crie loops, adicione fade in ou fade out, ajuste o tom e a velocidade ou vincule sons de referência perfeitamente.\n\n- Personalização do layout da grade: Flexibilidade para ajustar o layout da grade, variando de 1x1 a um máximo de 8x8.\n\n- Amplo banco de dados de sons online: Acesse um vasto banco de dados online com mais de 300.000 efeitos sonoros de alta qualidade, garantindo uma seleção diversificada para suas mesas de som.\n\n- Múltiplas coleções: Crie várias coleções ilimitadas de mesas de som, cada uma com suas necessidades específicas.\n\n- Backup: Faça backup da sua mesa de som e restaure-a em outros dispositivos, levando todos os seus pads de som para todos os seus dispositivos.\n\n- Sistema de disparo múltiplo: Dispare vários sons ao mesmo tempo.\n\n- Interface intuitiva: Navegue pelas suas mesas de som e acione efeitos com facilidade, graças à interface simples e amigável.\n- Modo offline: Desfrute de acesso ininterrupto às suas mesas de som e efeitos sonoros baixados, mesmo sem conexão com a internet.",
+      "descriptionHTML": "O SoundBoard Master é o aplicativo definitivo para criar soundboards personalizados em seus dispositivos móveis. Com seus recursos robustos e interface intuitiva, você pode criar pads e grades exclusivos com botões personalizados para atender às suas necessidades específicas.<br><br>De pegadinhas e piadas a sessões de DJ, aventuras nerds de RPG, performances teatrais ao vivo, bases de rap, músicos, artistas, youtubers, locutores de rádio, jogadores, podcasters, contação de histórias, produção de filmes, shows e streamers de vídeo. Enriquecendo e criando experiências sonoras inesquecíveis para conteúdo de mídias sociais e muito mais.<br><br>Agora você tem controle total sobre sua experiência de áudio. O aplicativo permite criar várias mesas, cada uma composta por um layout de grade com botões personalizáveis. Esse layout de grade flexível pode variar de um tamanho mínimo de 1x1 até uma grade de 8x8, oferecendo a liberdade de criar soundboards de complexidade e escala variadas. Os botões dentro das mesas podem ser personalizados com ícones, cores e rótulos de texto personalizados, permitindo uma navegação intuitiva e visualmente atraente.<br><br>Um dos recursos de destaque é sua extensa biblioteca de efeitos sonoros. Acessível pelo aplicativo, esta biblioteca oferece uma coleção impressionante de mais de 300.000 efeitos sonoros de alta qualidade. De sons engraçados de memes a loops de DJ, sons ambientes e atmosféricos como chuva, trovão e vento, todos os tipos de animais como corujas piando, pássaros, baleias, grilos, cães e gatos, até sons mais aleatórios como lutas de espadas, tique-taque de relógio, apito de trem, motores, aviões, palmas, toques de celular, risadas, chaleira fervendo, trens, choro de bebês, sinos, alarmes e tudo mais, você encontrará os elementos de áudio perfeitos para aprimorar suas mesas de som e cativar seu público.<br><br>A reprodução em tempo real garante latência mínima, proporcionando uma experiência fluida e responsiva. Além disso, o aplicativo oferece suporte offline, permitindo que você acesse suas mesas de som e efeitos sonoros baixados mesmo sem conexão com a internet. Isso garante funcionalidade ininterrupta e conveniência onde quer que você esteja.<br><br>RECURSOS<br><br>- Botões personalizáveis: Personalize cada botão com seus ícones preferidos, rótulos de texto personalizados e cores, tornando sua mesa de som verdadeiramente sua.<br><br>- Importe suas próprias gravações e mixagens, com suporte a vários formatos de arquivo, como WAV, FLAC, OGG e MP3.<br>- Edite sons: crie loops, adicione fade in ou fade out, ajuste o tom e a velocidade ou vincule sons de referência perfeitamente.<br><br>- Personalização do layout da grade: Flexibilidade para ajustar o layout da grade, variando de 1x1 a um máximo de 8x8.<br><br>- Amplo banco de dados de sons online: Acesse um vasto banco de dados online com mais de 300.000 efeitos sonoros de alta qualidade, garantindo uma seleção diversificada para suas mesas de som.<br><br>- Múltiplas coleções: Crie várias coleções ilimitadas de mesas de som, cada uma com suas necessidades específicas.<br><br>- Backup: Faça backup da sua mesa de som e restaure-a em outros dispositivos, levando todos os seus pads de som para todos os seus dispositivos.<br><br>- Sistema de disparo múltiplo: Dispare vários sons ao mesmo tempo.<br><br>- Interface intuitiva: Navegue pelas suas mesas de som e acione efeitos com facilidade, graças à interface simples e amigável.<br>- Modo offline: Desfrute de acesso ininterrupto às suas mesas de som e efeitos sonoros baixados, mesmo sem conexão com a internet.",
+      "summary": "Baixe gratuitamente mais de 300 mil efeitos sonoros e crie botões personalizados para suas transmissões ao vivo offline.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 52479,
+      "score": 3.5714285,
+      "scoreText": "3,6",
+      "ratings": 242,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iglugo.soundbank",
+      "url": "https://play.google.com/store/apps/details?id=com.iglugo.soundbank&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Game Show FX Soundboard",
+      "description": "Game Show FX Soundboard traz a emoção de um game show de alta produção para o seu dispositivo Android. Soa como rodas de prêmio, contagens regressivas dramáticas, tons resposta correta, e campainhas de respostas erradas são a certeza de intensificar o seu evento, independentemente do prêmio de consolação! características Soundboard incluem: \n \n * Várias opções de tema de música irá definir o cenário para o seu jogo \n * Simular uma verdadeira multidão com aplausos da audiência efeitos sonoros \n * Cue pensar música enquanto concorrentes preparam a sua respostas \n * Use o temporizador na tela para avisar os jogadores antes do tempo acabar \n * STAR seus sons favoritos para enviá-los ao topo da placa \n \n Se você já utilizado este aplicativo para melhorar o seu próprio evento, por favor, que os outros saibam sobre a sua experiência com uma revisão. solicitações de som adicionais são sempre bem vindos. Apreciar!",
+      "descriptionHTML": "Game Show FX Soundboard traz a emoção de um game show de alta produção para o seu dispositivo Android. Soa como rodas de prêmio, contagens regressivas dramáticas, tons resposta correta, e campainhas de respostas erradas são a certeza de intensificar o seu evento, independentemente do prêmio de consolação! características Soundboard incluem: <br> <br> * Várias opções de tema de música irá definir o cenário para o seu jogo <br> * Simular uma verdadeira multidão com aplausos da audiência efeitos sonoros <br> * Cue pensar música enquanto concorrentes preparam a sua respostas <br> * Use o temporizador na tela para avisar os jogadores antes do tempo acabar <br> * STAR seus sons favoritos para enviá-los ao topo da placa <br> <br> Se você já utilizado este aplicativo para melhorar o seu próprio evento, por favor, que os outros saibam sobre a sua experiência com uma revisão. solicitações de som adicionais são sempre bem vindos. Apreciar!",
+      "summary": "Mais de uma dúzia de sons levará a noite do jogo de hoje à noite para um nível totalmente novo",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 122240,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.nicholashowe.gsfxdroid",
+      "url": "https://play.google.com/store/apps/details?id=com.nicholashowe.gsfxdroid&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "RPG Master Sounds Mixer",
+      "description": "Prepare-se para levar suas partidas de RPG a uma dimensão sonora sem precedentes! O RPG Master Sounds já era a ferramenta essencial para dar vida às suas histórias, e agora criamos o nível definitivo de personalização e imersão.\n\nMergulhe em um mundo de criatividade ilimitada e emoção sem igual. Com o RPG Master Sounds Mixer, você tem o poder de criar momentos inesquecíveis, mixando sem esforço centenas de efeitos sonoros, faixas musicais e paisagens sonoras envolventes.\n\n🔥 Recursos em destaque: Sua aventura, seu som\nO limite é apenas a sua imaginação:\n\n1. Controle total com áudios personalizados\nAgora você pode expandir sua biblioteca e personalizar completamente sua experiência auditiva adicionando seus próprios arquivos de áudio.\n- Adicione seus favoritos: envie seus próprios efeitos sonoros, músicas ou faixas ambientais diretamente do seu dispositivo.\n- Integração perfeita: uma vez importados, seus arquivos se comportam exatamente como os sons oficiais, prontos para serem usados em suas sequências, ambientes e conjuntos personalizados.\n- Gerenciamento simples: organize e encontre seus áudios facilmente, atribuindo-lhes um título único e palavras-chave.\nCompatibilidade: compatível com os formatos WAV, MP3 e OGG (sendo OGG o mais recomendado).\n\n2. Tranquilidade com backup e restauração (Backup & Restore)\nNunca mais perca suas criações. Esse recurso permite que você salve uma cópia de segurança de todas as suas personalizações em nosso servidor para restaurá-las quando necessário, ideal se você trocar de dispositivo ou reinstalar o aplicativo.\n- Personalizações: o backup abrange suas sequências, ambientes e conjuntos personalizados. Também guarda os títulos e palavras-chave personalizados que definiu, os dados dos seus arquivos de áudio personalizados (tipo de som, título e palavras-chave) e as informações dos seus pacotes de áudio adquiridos.\n- Segurança e portabilidade: a cópia está vinculada a um ID de usuário anônimo e único que você deve guardar para poder restaurar seus dados.\n\n\n🎧 Continue criando experiências de áudio imersivas\nContinue aproveitando os poderosos recursos que tornaram o RPG Master Sounds o mixer definitivo para suas sessões:\n- Misture e combine: crie sequências de áudio cativantes e ambientes envolventes com mixagens sem esforço.\nConjuntos personalizados: crie conjuntos personalizados de sons, músicas e ambientes para cenários específicos, garantindo acesso rápido e controle total da atmosfera.\n- Sequências dinâmicas: encadeie sons em sequências para criar sons completos que ajudarão você a dar um toque de impacto aos momentos-chave da cena.\nTrilhas sonoras incríveis: graças às sequências, você poderá criar a trilha sonora perfeita para cada cena, obtendo horas de reprodução e transições suaves e naturais entre as diferentes faixas de áudio.\n- Ambientes imersivos: reproduza em seus ambientes personalizados várias faixas de áudio simultaneamente, sobrepondo sons, música e ambientes para criar uma sinfonia de sensações.\n- Organização intuitiva: marque suas faixas favoritas para acesso rápido, personalize as palavras-chave das faixas para criar categorias e use nosso sistema de filtragem e pesquisa para encontrar o som perfeito no momento certo.\n\nO RPG Master Sounds é uma adição extraordinária aos seus jogos e aventuras, dando vida às suas histórias como nunca antes.\n\nBaixe agora o RPG Master Sounds e torne sua próxima aventura lendária!",
+      "descriptionHTML": "Prepare-se para levar suas partidas de RPG a uma dimensão sonora sem precedentes! O RPG Master Sounds já era a ferramenta essencial para dar vida às suas histórias, e agora criamos o nível definitivo de personalização e imersão.<br><br>Mergulhe em um mundo de criatividade ilimitada e emoção sem igual. Com o RPG Master Sounds Mixer, você tem o poder de criar momentos inesquecíveis, mixando sem esforço centenas de efeitos sonoros, faixas musicais e paisagens sonoras envolventes.<br><br>🔥 Recursos em destaque: Sua aventura, seu som<br>O limite é apenas a sua imaginação:<br><br>1. Controle total com áudios personalizados<br>Agora você pode expandir sua biblioteca e personalizar completamente sua experiência auditiva adicionando seus próprios arquivos de áudio.<br>- Adicione seus favoritos: envie seus próprios efeitos sonoros, músicas ou faixas ambientais diretamente do seu dispositivo.<br>- Integração perfeita: uma vez importados, seus arquivos se comportam exatamente como os sons oficiais, prontos para serem usados em suas sequências, ambientes e conjuntos personalizados.<br>- Gerenciamento simples: organize e encontre seus áudios facilmente, atribuindo-lhes um título único e palavras-chave.<br>Compatibilidade: compatível com os formatos WAV, MP3 e OGG (sendo OGG o mais recomendado).<br><br>2. Tranquilidade com backup e restauração (Backup &amp; Restore)<br>Nunca mais perca suas criações. Esse recurso permite que você salve uma cópia de segurança de todas as suas personalizações em nosso servidor para restaurá-las quando necessário, ideal se você trocar de dispositivo ou reinstalar o aplicativo.<br>- Personalizações: o backup abrange suas sequências, ambientes e conjuntos personalizados. Também guarda os títulos e palavras-chave personalizados que definiu, os dados dos seus arquivos de áudio personalizados (tipo de som, título e palavras-chave) e as informações dos seus pacotes de áudio adquiridos.<br>- Segurança e portabilidade: a cópia está vinculada a um ID de usuário anônimo e único que você deve guardar para poder restaurar seus dados.<br><br><br>🎧 Continue criando experiências de áudio imersivas<br>Continue aproveitando os poderosos recursos que tornaram o RPG Master Sounds o mixer definitivo para suas sessões:<br>- Misture e combine: crie sequências de áudio cativantes e ambientes envolventes com mixagens sem esforço.<br>Conjuntos personalizados: crie conjuntos personalizados de sons, músicas e ambientes para cenários específicos, garantindo acesso rápido e controle total da atmosfera.<br>- Sequências dinâmicas: encadeie sons em sequências para criar sons completos que ajudarão você a dar um toque de impacto aos momentos-chave da cena.<br>Trilhas sonoras incríveis: graças às sequências, você poderá criar a trilha sonora perfeita para cada cena, obtendo horas de reprodução e transições suaves e naturais entre as diferentes faixas de áudio.<br>- Ambientes imersivos: reproduza em seus ambientes personalizados várias faixas de áudio simultaneamente, sobrepondo sons, música e ambientes para criar uma sinfonia de sensações.<br>- Organização intuitiva: marque suas faixas favoritas para acesso rápido, personalize as palavras-chave das faixas para criar categorias e use nosso sistema de filtragem e pesquisa para encontrar o som perfeito no momento certo.<br><br>O RPG Master Sounds é uma adição extraordinária aos seus jogos e aventuras, dando vida às suas histórias como nunca antes.<br><br>Baixe agora o RPG Master Sounds e torne sua próxima aventura lendária!",
+      "summary": "Mixer de RPG supremo: Misture sons, música e ambientes imersivos",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 193349,
+      "score": 4.8,
+      "scoreText": "4,8",
+      "ratings": 4090,
+      "reviews": 257,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "RPG",
+      "genreId": "GAME_ROLE_PLAYING",
+      "categories": [
+        {
+          "name": "RPG",
+          "id": "GAME_ROLE_PLAYING"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.appingtown.rpgmsmme",
+      "url": "https://play.google.com/store/apps/details?id=com.appingtown.rpgmsmme&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Sons de Memes - Divertido",
+      "description": "🔥 MEME SOUNDS BUTTONS 2027 - SEU ARSENAL DE SONS DEFINITIVO! 🔥\n\nCansado de procurar o som perfeito de meme? Sua busca acabou! O Meme Sounds Buttons 2027 entrega diversão imediata com sons fáceis de encontrar. Mergulhe em uma coleção enorme e sempre crescente dos clipes de áudio mais engraçados e virais da internet, tudo em um app bonito e fácil de usar.\n\nSeja criando conteúdo, perturbando amigos em uma call do Discord, ou só querendo dar uma risada — temos o som certo pra você.\n\n✨ POR QUE VOCÊ VAI AMAR O MEME SOUNDS BUTTONS 2027: ✨\n✅ Modo Claro e Escuro: Seu app, seu estilo! Escolha o tema que deixa seus olhos mais confortáveis, de dia ou de noite.\n✅ Achar Sons É Fácil: Nossa busca poderosa e layout limpo te fazem achar o som perfeito em segundos. Chega de rolar a tela pra sempre!\n✅ Monte Sua Coleção de Sons: Achou um favorito? Toque no coração para salvar na sua coleção pessoal e acessar rápido.\n✅ Categorias Inteligentes: Navegue rapidinho pelas categorias Memes, Música e Games pra achar exatamente o que quer.\n✅ Áudio de Alta Qualidade: Sons nítidos, claros e altos, perfeitos pra qualquer situação. Chega de som abafado!\n✅ Sempre Atualizado: Adicionamos sempre os sons mais recentes em alta do TikTok, YouTube e da internet toda.\n\n🔊 O SOUNDBOARD PERFEITO PARA: 🔊\n- Criadores de Conteúdo: Turbine seus TikToks, YouTube Shorts e Reels com o drop de áudio perfeito.\n- Gamers: Irrite seu squad ou comemore uma vitória com sons icônicos de games no chat de voz.\n- Pranksters: Cheio de sons de pegadinha hilários como peidos, air horns e muito mais.\n- Discord e Chat: Reaja na hora com o sound byte perfeito, do momento \"Bruh\" ao \"Vine Boom\".\n\nNossa biblioteca tem todos os clássicos e os hits novos que você procura: Skibidi, Ohio, Sigma, Amogus, Bruh, Vine Boom, Discord Pings, sons de NPC e centenas de outros clipes virais.\n\nPronto pra diversão instantânea na ponta dos dedos?\n\n👇 Baixe o Meme Sounds Buttons 2027 AGORA e se torne o mestre dos memes! 👇",
+      "descriptionHTML": "🔥 MEME SOUNDS BUTTONS 2027 - SEU ARSENAL DE SONS DEFINITIVO! 🔥<br><br>Cansado de procurar o som perfeito de meme? Sua busca acabou! O Meme Sounds Buttons 2027 entrega diversão imediata com sons fáceis de encontrar. Mergulhe em uma coleção enorme e sempre crescente dos clipes de áudio mais engraçados e virais da internet, tudo em um app bonito e fácil de usar.<br><br>Seja criando conteúdo, perturbando amigos em uma call do Discord, ou só querendo dar uma risada — temos o som certo pra você.<br><br>✨ POR QUE VOCÊ VAI AMAR O MEME SOUNDS BUTTONS 2027: ✨<br>✅ Modo Claro e Escuro: Seu app, seu estilo! Escolha o tema que deixa seus olhos mais confortáveis, de dia ou de noite.<br>✅ Achar Sons É Fácil: Nossa busca poderosa e layout limpo te fazem achar o som perfeito em segundos. Chega de rolar a tela pra sempre!<br>✅ Monte Sua Coleção de Sons: Achou um favorito? Toque no coração para salvar na sua coleção pessoal e acessar rápido.<br>✅ Categorias Inteligentes: Navegue rapidinho pelas categorias Memes, Música e Games pra achar exatamente o que quer.<br>✅ Áudio de Alta Qualidade: Sons nítidos, claros e altos, perfeitos pra qualquer situação. Chega de som abafado!<br>✅ Sempre Atualizado: Adicionamos sempre os sons mais recentes em alta do TikTok, YouTube e da internet toda.<br><br>🔊 O SOUNDBOARD PERFEITO PARA: 🔊<br>- Criadores de Conteúdo: Turbine seus TikToks, YouTube Shorts e Reels com o drop de áudio perfeito.<br>- Gamers: Irrite seu squad ou comemore uma vitória com sons icônicos de games no chat de voz.<br>- Pranksters: Cheio de sons de pegadinha hilários como peidos, air horns e muito mais.<br>- Discord e Chat: Reaja na hora com o sound byte perfeito, do momento &quot;Bruh&quot; ao &quot;Vine Boom&quot;.<br><br>Nossa biblioteca tem todos os clássicos e os hits novos que você procura: Skibidi, Ohio, Sigma, Amogus, Bruh, Vine Boom, Discord Pings, sons de NPC e centenas de outros clipes virais.<br><br>Pronto pra diversão instantânea na ponta dos dedos?<br><br>👇 Baixe o Meme Sounds Buttons 2027 AGORA e se torne o mestre dos memes! 👇",
+      "summary": "Diversão na hora! Sons de memes virais, pegadinhas e áudio de games sem esforço",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11379,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.increasinglabs.memesoundboard",
+      "url": "https://play.google.com/store/apps/details?id=com.increasinglabs.memesoundboard&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Sound Instants Meme Soundboard",
+      "description": "Sound Instants é a caixa de sons de memes definitiva com mais de 100.000 botões de som: efeitos sonoros engraçados, memes virais, frases icônicas de filmes, sons de animais, pegadinhas e muito mais. Encontre o som perfeito em segundos, toque na hora e transforme qualquer momento em meme! O app definitivo de meme soundboard, sound buttons e funny sounds.\n\n🔥 MAIS DE 100.000 SONS — E CRESCENDO\nA maior biblioteca de sons de memes no seu bolso. Dos memes clássicos aos sons que estão viralizando no TikTok agora — novos botões são adicionados o tempo todo, então você sempre acha o que todo mundo está rindo hoje.\n\n⚡ DIVERSÃO INSTANTÂNEA\n• Toque em qualquer botão e o som toca na hora, sem espera\n• Busca poderosa: digite uma palavra e ache o som exato\n• Navegue por categorias: humor, pegadinhas, animais, jogos, anime, filmes, reações e mais\n• As abas Em alta e Novos mostram o que está bombando\n• Modo repetição para tocar sem parar e enlouquecer os amigos\n\n❤️ FAVORITOS — SEM PRECISAR DE CONTA\nSalve seus sons favoritos com um toque e eles ficam no seu aparelho, sem login. Quer sua coleção em todo lugar? Faça login (opcional) e seus favoritos sincronizam entre dispositivos — você nunca os perde ao trocar de celular.\n\n📥 BAIXE E COMPARTILHE\nBaixe qualquer som em MP3 e compartilhe no WhatsApp, Messenger, chats do Discord, comentários do TikTok — onde quiser. Seja quem sempre tem o som perfeito.\n\n🔔 TOQUES, NOTIFICAÇÕES E ALARMES (Android) ← XOÁ MỤC NÀY KHI DÁN LÊN APP STORE\nDefina qualquer som de meme como toque de chamada, som de notificação ou alarme em dois toques. Acorde com seu meme favorito ou surpreenda todo mundo quando o telefone tocar.\n\n🌍 18 IDIOMAS\nSound Instants fala a sua língua: Português, English, Español, Français, Deutsch, Italiano, Nederlands, Polski, Türkçe, Русский, العربية, हिन्दी, Bahasa Indonesia, Tiếng Việt, 日本語, 한국어, 中文.\n\n🚀 RÁPIDO, LEVE E RESPEITOSO\n• Download pequeno, abertura rápida, rolagem fluida\n• Sem anúncios intrusivos — os sons nunca são interrompidos\n• Remover anúncios com pagamento único (sem assinatura)\n\nPERFEITO PARA\n• Zoar amigos e família\n• Streamers e criadores de conteúdo que precisam de efeitos rápidos\n• Festas, sala de aula (cuidado! 😄), grupos de conversa\n• Qualquer pessoa que ama memes, sons engraçados e boas risadas\n\nBaixe o Sound Instants agora — mais de 100.000 sons de memes a um toque de distância!",
+      "descriptionHTML": "Sound Instants é a caixa de sons de memes definitiva com mais de 100.000 botões de som: efeitos sonoros engraçados, memes virais, frases icônicas de filmes, sons de animais, pegadinhas e muito mais. Encontre o som perfeito em segundos, toque na hora e transforme qualquer momento em meme! O app definitivo de meme soundboard, sound buttons e funny sounds.<br><br>🔥 MAIS DE 100.000 SONS — E CRESCENDO<br>A maior biblioteca de sons de memes no seu bolso. Dos memes clássicos aos sons que estão viralizando no TikTok agora — novos botões são adicionados o tempo todo, então você sempre acha o que todo mundo está rindo hoje.<br><br>⚡ DIVERSÃO INSTANTÂNEA<br>• Toque em qualquer botão e o som toca na hora, sem espera<br>• Busca poderosa: digite uma palavra e ache o som exato<br>• Navegue por categorias: humor, pegadinhas, animais, jogos, anime, filmes, reações e mais<br>• As abas Em alta e Novos mostram o que está bombando<br>• Modo repetição para tocar sem parar e enlouquecer os amigos<br><br>❤️ FAVORITOS — SEM PRECISAR DE CONTA<br>Salve seus sons favoritos com um toque e eles ficam no seu aparelho, sem login. Quer sua coleção em todo lugar? Faça login (opcional) e seus favoritos sincronizam entre dispositivos — você nunca os perde ao trocar de celular.<br><br>📥 BAIXE E COMPARTILHE<br>Baixe qualquer som em MP3 e compartilhe no WhatsApp, Messenger, chats do Discord, comentários do TikTok — onde quiser. Seja quem sempre tem o som perfeito.<br><br>🔔 TOQUES, NOTIFICAÇÕES E ALARMES (Android) ← XOÁ MỤC NÀY KHI DÁN LÊN APP STORE<br>Defina qualquer som de meme como toque de chamada, som de notificação ou alarme em dois toques. Acorde com seu meme favorito ou surpreenda todo mundo quando o telefone tocar.<br><br>🌍 18 IDIOMAS<br>Sound Instants fala a sua língua: Português, English, Español, Français, Deutsch, Italiano, Nederlands, Polski, Türkçe, Русский, العربية, हिन्दी, Bahasa Indonesia, Tiếng Việt, 日本語, 한국어, 中文.<br><br>🚀 RÁPIDO, LEVE E RESPEITOSO<br>• Download pequeno, abertura rápida, rolagem fluida<br>• Sem anúncios intrusivos — os sons nunca são interrompidos<br>• Remover anúncios com pagamento único (sem assinatura)<br><br>PERFEITO PARA<br>• Zoar amigos e família<br>• Streamers e criadores de conteúdo que precisam de efeitos rápidos<br>• Festas, sala de aula (cuidado! 😄), grupos de conversa<br>• Qualquer pessoa que ama memes, sons engraçados e boas risadas<br><br>Baixe o Sound Instants agora — mais de 100.000 sons de memes a um toque de distância!",
+      "summary": "+100.000 sons de memes e botões. Zoe os amigos, crie toques e divirta-se muito!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 164703,
+      "score": 4.414634,
+      "scoreText": "4,4",
+      "ratings": 489,
+      "reviews": 13,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.soundinstants.app",
+      "url": "https://play.google.com/store/apps/details?id=com.soundinstants.app&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Meme Soundboard - Instant Fun",
+      "description": "Meme Soundboard – Diversão Instantânea com Sons Virais & Clipes de Áudio\nQuer adicionar reações divertidas com sons de memes populares? O Meme Soundboard – Diversão Instantânea reúne uma coleção de clipes de áudio virais e efeitos sonoros para reações, piadas e momentos descontraídos com amigos.\n\n🔊 Toque e Ouça Sons de Meme Facilmente\n\nToque em um botão para reproduzir sons e efeitos sonoros bem conhecidos da internet. Projetado para reações rápidas e momentos divertidos.\n\n🤣 Coleção de Sons Virais\n\nNavegue por categorias com clipes de áudio populares inspirados em tendências da internet, cultura de jogos e redes sociais.\n\n📱 Interface Fácil de Usar\n\nLayout limpo com botões grandes para reprodução rápida — ótimo para festas, chats em grupo ou uso casual.\n\n📤 Compartilhe Sons\n\nCompartilhe clipes de som com amigos ou toque-os durante chamadas de voz ou sessões de streaming.\n\n🔁 Repita & Favoritos\n\nSalve seus sons favoritos e repita-os para uma reprodução prolongada.\n\n✨ Por que os Usuários Amam o Meme Soundboard – Diversão Instantânea:\n\n- Efeitos sonoros no estilo meme populares\n\n- Layout de soundboard simples e intuitivo\n\n- Salve favoritos e repita sons\n\n- Projetado para reações divertidas e piadas\n\n- Leve e fácil de usar\n\n🎉 Se você está adicionando humor a uma conversa ou apenas desfrutando de efeitos sonoros divertidos, o Meme Soundboard – Diversão Instantânea é feito para entretenimento rápido! \n\n📥 Baixe agora e experimente a diversão instantânea que o Meme Soundboard oferece!",
+      "descriptionHTML": "<h3>Meme Soundboard – Diversão Instantânea com Sons Virais &amp; Clipes de Áudio</h3><br><b>Quer adicionar reações divertidas com sons de memes populares?</b> O Meme Soundboard – Diversão Instantânea reúne uma coleção de clipes de áudio virais e efeitos sonoros para reações, piadas e momentos descontraídos com amigos.<br><br><b>🔊 Toque e Ouça Sons de Meme Facilmente</b><br><br>Toque em um botão para reproduzir sons e efeitos sonoros bem conhecidos da internet. Projetado para reações rápidas e momentos divertidos.<br><br><b>🤣 Coleção de Sons Virais</b><br><br>Navegue por categorias com clipes de áudio populares inspirados em tendências da internet, cultura de jogos e redes sociais.<br><br><b>📱 Interface Fácil de Usar</b><br><br>Layout limpo com botões grandes para reprodução rápida — ótimo para festas, chats em grupo ou uso casual.<br><br><b>📤 Compartilhe Sons</b><br><br>Compartilhe clipes de som com amigos ou toque-os durante chamadas de voz ou sessões de streaming.<br><br><b>🔁 Repita &amp; Favoritos</b><br><br>Salve seus sons favoritos e repita-os para uma reprodução prolongada.<br><br><b>✨ Por que os Usuários Amam o Meme Soundboard – Diversão Instantânea:</b><br><br>- Efeitos sonoros no estilo meme populares<br><br>- Layout de soundboard simples e intuitivo<br><br>- Salve favoritos e repita sons<br><br>- Projetado para reações divertidas e piadas<br><br>- Leve e fácil de usar<br><br><b>🎉 Se você está adicionando humor a uma conversa ou apenas desfrutando de efeitos sonoros divertidos, o Meme Soundboard – Diversão Instantânea é feito para entretenimento rápido!</b> <br><br><b>📥 Baixe agora e experimente a diversão instantânea que o Meme Soundboard oferece!</b>",
+      "summary": "Painel de sons divertido para reações rápidas e momentos engraçados.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 145383,
+      "score": 4.5652175,
+      "scoreText": "4,6",
+      "ratings": 571,
+      "reviews": 13,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.blazingappstudio.soundboard",
+      "url": "https://play.google.com/store/apps/details?id=com.blazingappstudio.soundboard&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Soundr Soundboard: SFX & More",
+      "description": "O Soundr é uma mesa de som limpa e sem anúncios, com mais de 149 sons de memes, reações e efeitos sonoros — além de um conjunto completo de ferramentas práticas de áudio. Tudo funciona offline. Sem rastreamento, sem contas, sem anúncios.\n\n🎚 MESA DE SOM\n• Mais de 149 sons integrados, incluindo memes, reações, músicas, jogos, animais e efeitos\n• Grave ou importe seus próprios clipes com o editor de forma de onda integrado\n• Corte, nomeie e categorize sons personalizados\n• Pesquise e filtre por categorias\n• Reprodução com um toque, modo de parada ao tocar opcional, notificação de reprodução persistente com botões de reprodução rápida\n\n📊 MEDIDOR DE DECIBÉIS\n• Leituras de nível de som em tempo real com retenção de pico\n• Filtro de ponderação A opcional e compensação de calibração\n• Orientações de segurança auditiva baseadas nos limites de exposição do NIOSH\n• Gráfico de histórico de 60 segundos com marcadores de referência\n• Salve sessões, nomeie-as, compartilhe como CSV, alertas de limite\n\n🎵 METRÔNOMO\n• 40–240 BPM com tempo por toque\n• Fórmulas de compasso: 2/4, 3/4, 4/4, 6/8\n• Acento distinto na primeira batida\n• Nomes de andamento de Largo a Prestissimo\n\n📈 ANALISADOR DE ESPECTRO\n• Visualização FFT ao vivo, 24 bandas com espaçamento logarítmico\n• Faixa de 60 Hz a 16 kHz\n• Veja exatamente de onde vem o ruído — graves profundos, médios e agudos estridentes\n\n🎙 GRAVADOR DE VOZ\n• Gravação com um toque e medidor de amplitude ao vivo\n• Reprodução com forma de onda rastreável, controles de reinício e retomada\n• Renomeie, compartilhe e exclua gravações\n• Armazenado localmente como WAV\n\n👂 TESTE DE AUDIÇÃO\n• Testa 10 frequências de 250 Hz a 16 kHz\n• Estima sua idade auditiva com base na frequência mais alta que você consegue ouvir\n• Mini tela de resultados do audiograma\n• Use com fones de ouvido — por curiosidade, não para um teste médico\n\n🧘 MODO ZEN\n• Sons ambientes selecionados para foco, sono e relaxamento\n• Transição suave e repetição\n\n📡 CÓDIGO MORSE\n• Tela sensível ao toque com Detecção de ponto/traço\n• O modo Soundr reproduz código Morse para qualquer texto\n• Jogos de perguntas para aprender o alfabeto\n\nPOR QUE O SOUNDR?\n• 100% offline — sem permissão de internet, seus dados nunca saem do seu telefone\n• Sem anúncios, sem análises, sem cadastro\n• Temas claro, escuro e com cores de destaque\n• Projetado para toques rápidos — a mesa de som está na primeira tela\n\nSeja para gravar o som de reação perfeito em uma chamada, verificar o nível de ruído do seu apartamento, aprender código Morse, afinar seu violão com o metrônomo ou gravar rapidamente um memorando de voz, o Soundr foi desenvolvido para fazer tudo isso com um único toque.\n\nPermissões utilizadas:\n• Microfone — para o medidor de decibéis, analisador de espectro, memorando de voz e recursos de código Morse. O áudio é processado localmente e nunca transmitido.\n\n• Notificações — para exibir a notificação de reprodução com controles de pausa e reprodução rápida.",
+      "descriptionHTML": "O Soundr é uma mesa de som limpa e sem anúncios, com mais de 149 sons de memes, reações e efeitos sonoros — além de um conjunto completo de ferramentas práticas de áudio. Tudo funciona offline. Sem rastreamento, sem contas, sem anúncios.<br><br>🎚 MESA DE SOM<br>• Mais de 149 sons integrados, incluindo memes, reações, músicas, jogos, animais e efeitos<br>• Grave ou importe seus próprios clipes com o editor de forma de onda integrado<br>• Corte, nomeie e categorize sons personalizados<br>• Pesquise e filtre por categorias<br>• Reprodução com um toque, modo de parada ao tocar opcional, notificação de reprodução persistente com botões de reprodução rápida<br><br>📊 MEDIDOR DE DECIBÉIS<br>• Leituras de nível de som em tempo real com retenção de pico<br>• Filtro de ponderação A opcional e compensação de calibração<br>• Orientações de segurança auditiva baseadas nos limites de exposição do NIOSH<br>• Gráfico de histórico de 60 segundos com marcadores de referência<br>• Salve sessões, nomeie-as, compartilhe como CSV, alertas de limite<br><br>🎵 METRÔNOMO<br>• 40–240 BPM com tempo por toque<br>• Fórmulas de compasso: 2/4, 3/4, 4/4, 6/8<br>• Acento distinto na primeira batida<br>• Nomes de andamento de Largo a Prestissimo<br><br>📈 ANALISADOR DE ESPECTRO<br>• Visualização FFT ao vivo, 24 bandas com espaçamento logarítmico<br>• Faixa de 60 Hz a 16 kHz<br>• Veja exatamente de onde vem o ruído — graves profundos, médios e agudos estridentes<br><br>🎙 GRAVADOR DE VOZ<br>• Gravação com um toque e medidor de amplitude ao vivo<br>• Reprodução com forma de onda rastreável, controles de reinício e retomada<br>• Renomeie, compartilhe e exclua gravações<br>• Armazenado localmente como WAV<br><br>👂 TESTE DE AUDIÇÃO<br>• Testa 10 frequências de 250 Hz a 16 kHz<br>• Estima sua idade auditiva com base na frequência mais alta que você consegue ouvir<br>• Mini tela de resultados do audiograma<br>• Use com fones de ouvido — por curiosidade, não para um teste médico<br><br>🧘 MODO ZEN<br>• Sons ambientes selecionados para foco, sono e relaxamento<br>• Transição suave e repetição<br><br>📡 CÓDIGO MORSE<br>• Tela sensível ao toque com Detecção de ponto/traço<br>• O modo Soundr reproduz código Morse para qualquer texto<br>• Jogos de perguntas para aprender o alfabeto<br><br>POR QUE O SOUNDR?<br>• 100% offline — sem permissão de internet, seus dados nunca saem do seu telefone<br>• Sem anúncios, sem análises, sem cadastro<br>• Temas claro, escuro e com cores de destaque<br>• Projetado para toques rápidos — a mesa de som está na primeira tela<br><br>Seja para gravar o som de reação perfeito em uma chamada, verificar o nível de ruído do seu apartamento, aprender código Morse, afinar seu violão com o metrônomo ou gravar rapidamente um memorando de voz, o Soundr foi desenvolvido para fazer tudo isso com um único toque.<br><br>Permissões utilizadas:<br>• Microfone — para o medidor de decibéis, analisador de espectro, memorando de voz e recursos de código Morse. O áudio é processado localmente e nunca transmitido.<br><br>• Notificações — para exibir a notificação de reprodução com controles de pausa e reprodução rápida.",
+      "summary": "Mesa de som com mais de 149 sons, além de medidor de decibéis, metrônomo e ferramentas de áudio.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1942,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.soundr.app",
+      "url": "https://play.google.com/store/apps/details?id=com.soundr.app&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Soundboard Studio",
+      "description": "O Soundboard Studio é uma ferramenta poderosa para criar sua própria mesa de som com efeitos sonoros personalizados, sons de memes e botões de efeitos sonoros. Perfeito para streamers, criadores de conteúdo, produtores de palco e entusiastas de áudio.\n\nBIBLIOTECA DE SONS ENORME Explore mais de 300 sons integrados, incluindo efeitos sonoros, sons de jogos e clipes de áudio virais.\n\nSONS PERSONALIZADOS E FERRAMENTAS DE ESTÚDIO\n\nCrie sua própria biblioteca de som personalizada.\n\n• Grave diretamente do seu microfone\n• Importe arquivos de áudio do seu dispositivo\n• Corte, aplique fade in/out e ajuste a velocidade de reprodução (0,5x - 2x)\n• Modo loop para reprodução contínua\n• Controle de volume por som\n• Edite o nome, a cor, a categoria e o ícone do botão (mais de 180 ícones incluídos)\n\nORGANIZAÇÃO INTELIGENTE\n\nEncontre qualquer som instantaneamente.\n• Pesquise por nome ou filtre por categoria\n• Salve favoritos para acesso rápido\n• Categorias personalizadas para o seu fluxo de trabalho\n• Arraste e solte para reordenar os sons\n• Modo aleatório\n• Fila de reprodução - organize os sons e reproduza-os em ordem\n\nRECURSOS AVANÇADOS\n\n• Barra de progresso para acompanhar a duração do som\n• Importar/Exportar backup - salve e restaure sua biblioteca\n• Modo de botões simples - sem acionamentos acidentais\n• Anti-ruído de clique - mantém as caixas de som com fio ativas entre os sons\n• Feedback por vibração\n• Compatível com o modo escuro\n• Disponível em 15 idiomas, com detecção automática do idioma do seu telefone\n\nDESIGN DE ESTÚDIO LIMPO\n\nInterface moderna e intuitiva, criada para reprodução de som rápida e confiável.\n\nPerfeito para:\n• Transmissão ao vivo e criação de conteúdo\n• Gerenciamento de palco e eventos ao vivo\n• Podcasts e produção de vídeo\n• Efeitos sonoros e pegadinhas de áudio",
+      "descriptionHTML": "O Soundboard Studio é uma ferramenta poderosa para criar sua própria mesa de som com efeitos sonoros personalizados, sons de memes e botões de efeitos sonoros. Perfeito para streamers, criadores de conteúdo, produtores de palco e entusiastas de áudio.<br><br>BIBLIOTECA DE SONS ENORME Explore mais de 300 sons integrados, incluindo efeitos sonoros, sons de jogos e clipes de áudio virais.<br><br>SONS PERSONALIZADOS E FERRAMENTAS DE ESTÚDIO<br><br>Crie sua própria biblioteca de som personalizada.<br><br>• Grave diretamente do seu microfone<br>• Importe arquivos de áudio do seu dispositivo<br>• Corte, aplique fade in/out e ajuste a velocidade de reprodução (0,5x - 2x)<br>• Modo loop para reprodução contínua<br>• Controle de volume por som<br>• Edite o nome, a cor, a categoria e o ícone do botão (mais de 180 ícones incluídos)<br><br>ORGANIZAÇÃO INTELIGENTE<br><br>Encontre qualquer som instantaneamente.<br>• Pesquise por nome ou filtre por categoria<br>• Salve favoritos para acesso rápido<br>• Categorias personalizadas para o seu fluxo de trabalho<br>• Arraste e solte para reordenar os sons<br>• Modo aleatório<br>• Fila de reprodução - organize os sons e reproduza-os em ordem<br><br>RECURSOS AVANÇADOS<br><br>• Barra de progresso para acompanhar a duração do som<br>• Importar/Exportar backup - salve e restaure sua biblioteca<br>• Modo de botões simples - sem acionamentos acidentais<br>• Anti-ruído de clique - mantém as caixas de som com fio ativas entre os sons<br>• Feedback por vibração<br>• Compatível com o modo escuro<br>• Disponível em 15 idiomas, com detecção automática do idioma do seu telefone<br><br>DESIGN DE ESTÚDIO LIMPO<br><br>Interface moderna e intuitiva, criada para reprodução de som rápida e confiável.<br><br>Perfeito para:<br>• Transmissão ao vivo e criação de conteúdo<br>• Gerenciamento de palco e eventos ao vivo<br>• Podcasts e produção de vídeo<br>• Efeitos sonoros e pegadinhas de áudio",
+      "summary": "Reproduza, edite, importe e compartilhe sons, memes e efeitos sonoros. Mesa de som personalizada e divertida.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 15031,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "sk.marcelsotak.soundboard",
+      "url": "https://play.google.com/store/apps/details?id=sk.marcelsotak.soundboard&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "GudPad Soundboard",
+      "description": "O GusPad Soundboard é um aplicativo de pads de som simples e divertido, projetado para tornar qualquer momento mais interessante.\n\nToque nos pads de som para reproduzir sons engraçados, áudios de memes, efeitos sonoros ou seu próprio áudio personalizado. Perfeito para festas, DJs, streamers e criadores de conteúdo.\n\nRECURSOS\n• Sons divertidos prontos para usar\n• Carregue e substitua sons pelos seus próprios\n• Exclua ou restaure sons padrão a qualquer momento\n• Interface de pads simples e intuitiva\n• Funciona offline\n• O áudio de outros aplicativos não é interrompido\n\nVERSÃO GRATUITA\n• 24 sons padrão incluídos\n• Substitua os sons padrão pelos seus próprios\n• Anúncios intersticiais na inicialização do aplicativo\n• Anúncios em banner\n\nVERSÃO PREMIUM\n• Sem anúncios\n• 8 bancos de sons\n• 24 pads por banco (até 192 pads de som)\n• 96 sons padrão premium incluídos\n\n– 24 sons em 4 bancos\n• Exporte ou compartilhe sons de cada banco\n• Compartilhe sons padrão e adicionados pelo usuário\n• Personalização completa\n\nUse o GusPad Soundboard para fazer as pessoas rirem, aprimorar seus sets de DJ ou transmissões e gerenciar seus sons facilmente em um só lugar.\n\nAtualize para a versão Premium e desbloqueie a experiência completa do GusPad Soundboard.",
+      "descriptionHTML": "O GusPad Soundboard é um aplicativo de pads de som simples e divertido, projetado para tornar qualquer momento mais interessante.<br><br>Toque nos pads de som para reproduzir sons engraçados, áudios de memes, efeitos sonoros ou seu próprio áudio personalizado. Perfeito para festas, DJs, streamers e criadores de conteúdo.<br><br>RECURSOS<br>• Sons divertidos prontos para usar<br>• Carregue e substitua sons pelos seus próprios<br>• Exclua ou restaure sons padrão a qualquer momento<br>• Interface de pads simples e intuitiva<br>• Funciona offline<br>• O áudio de outros aplicativos não é interrompido<br><br>VERSÃO GRATUITA<br>• 24 sons padrão incluídos<br>• Substitua os sons padrão pelos seus próprios<br>• Anúncios intersticiais na inicialização do aplicativo<br>• Anúncios em banner<br><br>VERSÃO PREMIUM<br>• Sem anúncios<br>• 8 bancos de sons<br>• 24 pads por banco (até 192 pads de som)<br>• 96 sons padrão premium incluídos<br><br>– 24 sons em 4 bancos<br>• Exporte ou compartilhe sons de cada banco<br>• Compartilhe sons padrão e adicionados pelo usuário<br>• Personalização completa<br><br>Use o GusPad Soundboard para fazer as pessoas rirem, aprimorar seus sets de DJ ou transmissões e gerenciar seus sons facilmente em um só lugar.<br><br>Atualize para a versão Premium e desbloqueie a experiência completa do GusPad Soundboard.",
+      "summary": "Reproduza sons divertidos, use pads de DJ e desbloqueie até 192 pads com o Premium.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4468,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.gusapps.guspad",
+      "url": "https://play.google.com/store/apps/details?id=com.gusapps.guspad&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Voicy: Memes, mp3 Clips & GIF",
+      "description": "Discover, Share & Create Sound Memes\n- Explore funny sounds ranging from your favourite Memes to every SFX, anime and games!\n- Make your own library of Sound GIFs, Sound Clips and Soundboards within Voicy!\n- Share your favorite sounds with just one tap in social media chats such as WhatsApp, Discord, Facebook Messenger, Instagram & more.\n\nSoundboards\nThe Voicy community has collected the world's largest curated library of meme soundboards to make your friends laugh. Find every famous quote and explore any popular 2023 trending soundboard containing the magic of the internet. With our soundboard maker you can now have your own soundboard to save your favorite audio meme collection in one place. Watch how many likes you can get from the Voicy community!\n\nSound Clips\nA library of 500k+ funny memes and audio reactions to make your group chat more fun and alive! Starting a conversation? wanna say “bruh” or wish your friend a “happy birthday” with just one tap? Make sure to have them in your library. Pranking your friends with memes, sound effects or quotes from your favourite sports hero or tv personality has never been this easy. The 2023 way to communicate with your friends. More surprising and fun than just a sticker or silent gif!\n\nSound GIFs\nIs just a random sound not funny enough for your conversation or group chat? Explore our Sound GIF library or make them yourself by combining audio with a GIF! Whether it is your favourite Actor, Youtuber or a funny Twitch streamer, Voicy is there to make you and your peers laugh. Trust me, they wanna know what is behind the play button!\n\nVideo\nAre you a Tiktok, Youtube, or other video creator? Our SFX collection and meme sounds are perfect to make your short or video more fun and engaging when posting them on Tiktok, Youtube or any other social media. Easy to collect empathy sounds and mp3 memes you need for having the perfect audio clip in your shorts or videos!\n\nPlay and share Sound Clips and GIFs with just one tap!\n\nSounds good, right?\n\nMost popular categories of 2023:\n- Dank Meme (yeet, quandale dingle and Deez Nuts are there of course)\n- Youtubers\n- Anime\n- Games (oof!)\n- SFX (yea we have the air horn and the Vine boom you wanna send out)\n- Sports (Suu!)\n- Comedians\n- Politics\n\nTwo hours later…. you’ve wasted enough time without making your friends laugh, just install the audio & mp3 app of 2023!\n\nBtw, feedback means a lot to us. Please report any bugs and give us suggestions on what we should improve to build a better Voicy.\n\nEmail: info@voicy.network\n\nDiscord channel: https://discord.gg/RcgnjpqPM3\nYoutube: https://www.youtube.com/VoicyNetwork\nTikTok: https://www.tiktok.com/@voicy.official\n\n\nTerms and Conditions: https://www.voicy.network/terms-and-conditions",
+      "descriptionHTML": "Discover, Share &amp; Create Sound Memes<br>- Explore funny sounds ranging from your favourite Memes to every SFX, anime and games!<br>- Make your own library of Sound GIFs, Sound Clips and Soundboards within Voicy!<br>- Share your favorite sounds with just one tap in social media chats such as WhatsApp, Discord, Facebook Messenger, Instagram &amp; more.<br><br>Soundboards<br>The Voicy community has collected the world&#39;s largest curated library of meme soundboards to make your friends laugh. Find every famous quote and explore any popular 2023 trending soundboard containing the magic of the internet. With our soundboard maker you can now have your own soundboard to save your favorite audio meme collection in one place. Watch how many likes you can get from the Voicy community!<br><br>Sound Clips<br>A library of 500k+ funny memes and audio reactions to make your group chat more fun and alive! Starting a conversation? wanna say “bruh” or wish your friend a “happy birthday” with just one tap? Make sure to have them in your library. Pranking your friends with memes, sound effects or quotes from your favourite sports hero or tv personality has never been this easy. The 2023 way to communicate with your friends. More surprising and fun than just a sticker or silent gif!<br><br>Sound GIFs<br>Is just a random sound not funny enough for your conversation or group chat? Explore our Sound GIF library or make them yourself by combining audio with a GIF! Whether it is your favourite Actor, Youtuber or a funny Twitch streamer, Voicy is there to make you and your peers laugh. Trust me, they wanna know what is behind the play button!<br><br>Video<br>Are you a Tiktok, Youtube, or other video creator? Our SFX collection and meme sounds are perfect to make your short or video more fun and engaging when posting them on Tiktok, Youtube or any other social media. Easy to collect empathy sounds and mp3 memes you need for having the perfect audio clip in your shorts or videos!<br><br>Play and share Sound Clips and GIFs with just one tap!<br><br>Sounds good, right?<br><br>Most popular categories of 2023:<br>- Dank Meme (yeet, quandale dingle and Deez Nuts are there of course)<br>- Youtubers<br>- Anime<br>- Games (oof!)<br>- SFX (yea we have the air horn and the Vine boom you wanna send out)<br>- Sports (Suu!)<br>- Comedians<br>- Politics<br><br>Two hours later…. you’ve wasted enough time without making your friends laugh, just install the audio &amp; mp3 app of 2023!<br><br>Btw, feedback means a lot to us. Please report any bugs and give us suggestions on what we should improve to build a better Voicy.<br><br>Email: info@voicy.network<br><br>Discord channel: https://discord.gg/RcgnjpqPM3<br>Youtube: https://www.youtube.com/VoicyNetwork<br>TikTok: https://www.tiktok.com/@voicy.official<br><br><br>Terms and Conditions: https://www.voicy.network/terms-and-conditions",
+      "summary": "Explora la biblioteca más grande de audio, sound GIF y memes gratuitos!",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 179435,
+      "score": 4.65,
+      "scoreText": "4,7",
+      "ratings": 703,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "network.voicy",
+      "url": "https://play.google.com/store/apps/details?id=network.voicy&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Sound Buttons : Soundboard",
+      "description": "Sound Buttons Zone – A Biblioteca Definitiva de Sons e Memes!\n\nDescubra mais de 100.000 sons, áudios de memes virais e efeitos sonoros hilários em um só lugar! O Sound Buttons Zone oferece a maior coleção de sons instantâneos para você pregar peças em seus amigos, reagir a momentos e se divertir sem parar.\n\nPrincipais Recursos:\n\nBiblioteca de Sons Enorme: Busque e reproduza mais de 100.000 sons com memes virais, animes, jogos, falas de filmes e efeitos sonoros engraçados.\n\nFavoritos Instantâneos: Salve seus sons favoritos em sua lista pessoal para acesso rápido e fácil a qualquer momento.\n\nDefina Toques e Alarmes: Defina facilmente qualquer som como toque do seu celular, som de notificação ou alarme.\n\nCompartilhe com Amigos: Envie seus efeitos sonoros engraçados favoritos instantaneamente para seus amigos por meio de aplicativos de redes sociais e mensagens.\n\nRápido e Leve: Desfrute de um design limpo, carregamento rápido e desempenho fluido em qualquer celular ou tablet.\n\n100% Gratuito: Acesso ilimitado a milhares de sons populares, sem restrições. Baixe agora o Sound Buttons Zone e tenha reações instantâneas a memes no seu bolso!",
+      "descriptionHTML": "Sound Buttons Zone – A Biblioteca Definitiva de Sons e Memes!<br><br>Descubra mais de 100.000 sons, áudios de memes virais e efeitos sonoros hilários em um só lugar! O Sound Buttons Zone oferece a maior coleção de sons instantâneos para você pregar peças em seus amigos, reagir a momentos e se divertir sem parar.<br><br>Principais Recursos:<br><br>Biblioteca de Sons Enorme: Busque e reproduza mais de 100.000 sons com memes virais, animes, jogos, falas de filmes e efeitos sonoros engraçados.<br><br>Favoritos Instantâneos: Salve seus sons favoritos em sua lista pessoal para acesso rápido e fácil a qualquer momento.<br><br>Defina Toques e Alarmes: Defina facilmente qualquer som como toque do seu celular, som de notificação ou alarme.<br><br>Compartilhe com Amigos: Envie seus efeitos sonoros engraçados favoritos instantaneamente para seus amigos por meio de aplicativos de redes sociais e mensagens.<br><br>Rápido e Leve: Desfrute de um design limpo, carregamento rápido e desempenho fluido em qualquer celular ou tablet.<br><br>100% Gratuito: Acesso ilimitado a milhares de sons populares, sem restrições. Baixe agora o Sound Buttons Zone e tenha reações instantâneas a memes no seu bolso!",
+      "summary": "Mais de 100 mil botões de som engraçados, efeitos sonoros de memes virais e mesas de som prontos para usar!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4489,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "sound.buttons.zone.app",
+      "url": "https://play.google.com/store/apps/details?id=sound.buttons.zone.app&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "MyInstants: Meme Soundboard",
+      "description": "MyInstants: Meme Soundboard é um aplicativo de entretenimento divertido com uma enorme coleção de sons de memes, botões de som engraçados, clipes de áudio de reação, sons de jogos, efeitos virais e botões de soundboard instantâneos para o seu entretenimento diário. Explore sons populares da internet, clipes de reação clássicos, efeitos de áudio em alta e botões de som divertidos em uma experiência de soundboard simples e fácil de usar.\n\nSe você quer sons de reação engraçados para conversas, efeitos de jogos para momentos de streaming, clipes de áudio de comédia para entretenimento ou botões de memes clássicos para compartilhar com os amigos, o MyInstants oferece acesso rápido a uma grande biblioteca de sons em um único aplicativo. Toque em qualquer botão para reproduzir o áudio instantaneamente e aproveite a reprodução rápida com uma interface limpa e leve.\n\nO aplicativo inclui muitas categorias de efeitos sonoros e clipes de áudio inspirados na cultura da internet, comunidades de jogos, tendências de streaming, momentos virais, desenhos animados, memes de reação e experiências clássicas de soundboard. Navegue pelos sons facilmente usando categorias e ferramentas de busca para descobrir rapidamente novos favoritos.\n\nRecursos: • Grande coleção de sons de memes e botões de som\n• Sons de reação engraçados e clipes de áudio virais\n• Efeitos sonoros de jogos e áudio no estilo streamer\n• Reprodução instantânea com um toque\n• Interface de mesa de som fácil de usar\n• Busca rápida e navegação por categorias\n• Salve sons favoritos para acesso rápido\n• Compartilhe botões de som com amigos\n• Atualizações regulares de conteúdo\n• Leve e com desempenho otimizado\n• Experiência de reprodução de áudio fluida\n• Efeitos sonoros populares da internet\n• Coleção de áudio de comédia e reação\n• Botões de som divertidos para entretenimento\n• Clipes de áudio populares inspirados em memes\n• Sons de notificação e efeitos\n• Sons inspirados em desenhos animados e jogos\n• Seção de favoritos personalizada\n• Design limpo para fácil navegação\n\nO MyInstants foi desenvolvido para proporcionar uma experiência de entretenimento segura e agradável para usuários que curtem mesas de som, áudio de reação, efeitos sonoros engraçados e a cultura de memes da internet. O aplicativo foca em humor, entretenimento e experiências de áudio criativas adequadas para um público amplo.\n\nVocê pode usar o aplicativo para descobrir sons populares, criar uma coleção pessoal de botões de som favoritos, curtir clipes de reação engraçados durante conversas com amigos ou simplesmente explorar conteúdo de áudio divertido de diferentes categorias. O layout simples facilita encontrar e reproduzir sons instantaneamente, a qualquer momento.\n\nA experiência com a mesa de som é aprimorada continuamente com recursos atualizados, desempenho otimizado, navegação mais fluida e novas coleções de sons adicionadas regularmente. Nosso objetivo é criar uma plataforma fácil, rápida e agradável para usuários que adoram sons engraçados, efeitos de reação, áudio de jogos e botões de memes instantâneos.\n\nO MyInstants inclui:\n• Botões de som virais\n• Sons de reação inspirados em memes\n• Clipes de áudio de comédia\n• Efeitos de jogos\n• Sons de reação da internet\n• Notificações engraçadas\n• Sons no estilo de transmissões ao vivo\n• Botões de áudio de entretenimento\n• Efeitos sonoros populares\n• Botões de memes instantâneos\n• Clipes de áudio em alta\n• Sons clássicos da internet\n\nSe você gosta de aplicativos de mesa de som, sons de reação, clipes de áudio virais, efeitos sonoros de jogos e botões de memes divertidos, o MyInstants: Meme Soundboard oferece uma experiência divertida e fácil de usar, com milhares de sons disponíveis em um só lugar.\n\nBaixe o MyInstants: Meme Soundboard hoje mesmo e explore sons engraçados, clipes de reação virais, botões de som instantâneos, efeitos de jogos, áudio de comédia e sons de entretenimento em alta a qualquer hora.",
+      "descriptionHTML": "MyInstants: Meme Soundboard é um aplicativo de entretenimento divertido com uma enorme coleção de sons de memes, botões de som engraçados, clipes de áudio de reação, sons de jogos, efeitos virais e botões de soundboard instantâneos para o seu entretenimento diário. Explore sons populares da internet, clipes de reação clássicos, efeitos de áudio em alta e botões de som divertidos em uma experiência de soundboard simples e fácil de usar.<br><br>Se você quer sons de reação engraçados para conversas, efeitos de jogos para momentos de streaming, clipes de áudio de comédia para entretenimento ou botões de memes clássicos para compartilhar com os amigos, o MyInstants oferece acesso rápido a uma grande biblioteca de sons em um único aplicativo. Toque em qualquer botão para reproduzir o áudio instantaneamente e aproveite a reprodução rápida com uma interface limpa e leve.<br><br>O aplicativo inclui muitas categorias de efeitos sonoros e clipes de áudio inspirados na cultura da internet, comunidades de jogos, tendências de streaming, momentos virais, desenhos animados, memes de reação e experiências clássicas de soundboard. Navegue pelos sons facilmente usando categorias e ferramentas de busca para descobrir rapidamente novos favoritos.<br><br>Recursos: • Grande coleção de sons de memes e botões de som<br>• Sons de reação engraçados e clipes de áudio virais<br>• Efeitos sonoros de jogos e áudio no estilo streamer<br>• Reprodução instantânea com um toque<br>• Interface de mesa de som fácil de usar<br>• Busca rápida e navegação por categorias<br>• Salve sons favoritos para acesso rápido<br>• Compartilhe botões de som com amigos<br>• Atualizações regulares de conteúdo<br>• Leve e com desempenho otimizado<br>• Experiência de reprodução de áudio fluida<br>• Efeitos sonoros populares da internet<br>• Coleção de áudio de comédia e reação<br>• Botões de som divertidos para entretenimento<br>• Clipes de áudio populares inspirados em memes<br>• Sons de notificação e efeitos<br>• Sons inspirados em desenhos animados e jogos<br>• Seção de favoritos personalizada<br>• Design limpo para fácil navegação<br><br>O MyInstants foi desenvolvido para proporcionar uma experiência de entretenimento segura e agradável para usuários que curtem mesas de som, áudio de reação, efeitos sonoros engraçados e a cultura de memes da internet. O aplicativo foca em humor, entretenimento e experiências de áudio criativas adequadas para um público amplo.<br><br>Você pode usar o aplicativo para descobrir sons populares, criar uma coleção pessoal de botões de som favoritos, curtir clipes de reação engraçados durante conversas com amigos ou simplesmente explorar conteúdo de áudio divertido de diferentes categorias. O layout simples facilita encontrar e reproduzir sons instantaneamente, a qualquer momento.<br><br>A experiência com a mesa de som é aprimorada continuamente com recursos atualizados, desempenho otimizado, navegação mais fluida e novas coleções de sons adicionadas regularmente. Nosso objetivo é criar uma plataforma fácil, rápida e agradável para usuários que adoram sons engraçados, efeitos de reação, áudio de jogos e botões de memes instantâneos.<br><br>O MyInstants inclui:<br>• Botões de som virais<br>• Sons de reação inspirados em memes<br>• Clipes de áudio de comédia<br>• Efeitos de jogos<br>• Sons de reação da internet<br>• Notificações engraçadas<br>• Sons no estilo de transmissões ao vivo<br>• Botões de áudio de entretenimento<br>• Efeitos sonoros populares<br>• Botões de memes instantâneos<br>• Clipes de áudio em alta<br>• Sons clássicos da internet<br><br>Se você gosta de aplicativos de mesa de som, sons de reação, clipes de áudio virais, efeitos sonoros de jogos e botões de memes divertidos, o MyInstants: Meme Soundboard oferece uma experiência divertida e fácil de usar, com milhares de sons disponíveis em um só lugar.<br><br>Baixe o MyInstants: Meme Soundboard hoje mesmo e explore sons engraçados, clipes de reação virais, botões de som instantâneos, efeitos de jogos, áudio de comédia e sons de entretenimento em alta a qualquer hora.",
+      "summary": "Reproduza sons de memes, efeitos sonoros, sons de pegadinhas e botões de som instantâneo.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 42649,
+      "score": 4.25,
+      "scoreText": "4,2",
+      "ratings": 287,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "myinstants.meme.soundboard.sound.button.soundbuttons.Instants.app.soundefffect",
+      "url": "https://play.google.com/store/apps/details?id=myinstants.meme.soundboard.sound.button.soundbuttons.Instants.app.soundefffect&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Meme Soundboard 2016-2026",
+      "description": "🏆 10 Anos de Sons e Vídeos de Memes! ⚡ Brinque, faça pegadinhas e remix memes.\n💎 Biblioteca selecionada e mesa de som personalizada para edições, festas e risadas.\n\nTudo o que você precisa para conteúdo e diversão\n\n- Precisa dos sons perfeitos para seus vídeos curtos, transmissões ao vivo, YouTube, TikTok ou Reels?\n\nNavegue por uma enorme coleção de clipes, encontre o meme que você precisa em segundos e compartilhe instantaneamente.\n\n- Quer animar o grupo de bate-papo?\n\nUse como um DJ de memes: empilhe sons, repita gritos e transforme um único toque em caos total.\n\n🔥 ENORME BIBLIOTECA DE MEMES (PRONTO PARA USAR OFFLINE)\nExplore uma coleção selecionada a dedo, construída ao longo de uma década:\n• Mais de 1.800 sons selecionados e mais de 999 vídeos organizados por anos e categorias.\n\n• Busca instantânea: Encontre qualquer meme no momento em que você se lembrar dele.\n• Meme do Dia: Uma pérola selecionada a dedo todos os dias.\n• Novidades: Seção dedicada às últimas tendências virais.\n• Modo Limpo: Reprodução censurada opcional para ambientes familiares.\n\n• Seções Inteligentes: Cada meme fica em uma seção — expanda ou recolha-as para navegar do seu jeito.\n\n• Organize do Seu Jeito: A–Z, Mais Tocados, Mais Populares no Mundo Todo, Adicionados Recentemente e Personalizado.\n\n• Acesso Offline: Abra e reproduza seus sons salvos a qualquer hora e em qualquer lugar.\n\n🎚️ O DECK DE DJ DE MEMES DEFINITIVO\nNão apenas toque memes — apresente-os com efeitos em tempo real:\n• Reprodução Multitoque: Acione até 9 sons simultaneamente.\n\n• Liberdade Total de Reprodução: Simples, Reiniciar, Múltiplos (sobreponha o mesmo som), Loop/Repetir e “Somente o Último Som”.\n\n• Energia Visual: Blocos brilham, pulsam e reagem à batida com formas de onda de DJ em tempo real.\n• Manipulação ao Vivo: Reversão instantânea e controle de velocidade (de câmera lenta ao caos).\n• Efeitos Sonoros em Tempo Real: Adicione mudança de tom, reforço de graves, distorção, reverberação, som de robô, rádio, vibrato, distorção de 8 bits, microloops de bumerangue e muito mais.\n\n• Predefinições de Som: Modificadores de voz e efeitos sonoros com um toque — \"Alienígena\", \"Esquilo\", \"Monstro\", \"Estádio\" e mais 16 opções.\n\n• Predefinições Exclusivas: Gagueira de \"CD Antigo\" 💿 e oscilação de \"Bateria Fraca\" 🔋 baseadas no tempo — você pode até desenhar sua própria curva de bateria!\n\n• Modo Caos: Agite seu telefone ou toque no bloco \"Aleatório\" para surpresas instantâneas.\n\n🎬 FERRAMENTAS PARA CRIADORES E BRINCADORES\nPerfeito para edição de vídeo, transmissões ao vivo e risadas diárias:\n• Importe Tudo: Adicione seus próprios sons e vídeos — corte e recorte-os diretamente no aplicativo.\n• Mesas de Som Personalizadas: Crie suas próprias seções e organize memes do seu jeito.\n• Classificação Personalizada: Arraste e solte os memes na ordem perfeita.\n• Compartilhar e Exportar: Baixe sons/vídeos ou compartilhe-os em aplicativos de redes sociais com um toque.\n\n• Integração: Defina qualquer meme como toque, notificação ou alarme.\n\n• Efeitos de Vídeo: Reproduza vídeos de memes com filtros visuais ao vivo, como inversão de cores.\n\n• Acesso Rápido: Use Widgets e Configurações Rápidas para ataques furtivos de memes.\n\n✨ UMA EXPERIÊNCIA INTERATIVA\nO aplicativo está vivo, escondendo surpresas e opções de personalização em cada canto:\n• Conheça Seu Companheiro: Um amigo engraçado de olhos esbugalhados acompanha suas interações 👀 (e sim, um deslize para a esquerda dispara lasers).\n\n• 🎮 Jogos Completos: \"Deja Meme\" (jogo da memória), \"Stack Meme\" (empilhador de torres), \"Guess Meme\" e o novo \"Mix Meme\".\n• ✨ Minijogos: Segredos escondidos e um desafio de velocidade de toque.\n• Estilos visuais para sons: Escolha entre Hexágono (favo de mel), estilo retrô de CD, Raios, a nova Aurora ✨ e muito mais.\n\n• Miniaturas animadas: Arte gerada proceduralmente para cada meme.\n\n• Temas personalizados: Escuro, Claro, Interface Clássica e layouts modernos de ponta a ponta.\n\nSeja para encontrar o som perfeito para sua próxima edição viral, pregar uma peça nos seus amigos no grupo de bate-papo ou simplesmente dar boas risadas sozinho, este aplicativo oferece as ferramentas para brincar com memes, não apenas jogá-los.\n\nAbra diariamente. Encontre o Meme do Dia. Jogue minijogos. Toque uma vez para dar risada… ou nove vezes para o caos absoluto.\n\n🍒 🍌 🍒 Sentindo-se com sorte? Toque em \"Aleatório\", agite seu telefone ou jogue \"Misturar Memes\" e veja o que aparece!\n\n⬜ M ⬛ E\n⬛ M ⬜ E\n10 anos de memes. Junte-se à diversão!",
+      "descriptionHTML": "<b>🏆 10 Anos de Sons e Vídeos de Memes! ⚡ Brinque, faça pegadinhas e remix memes.<br>💎 Biblioteca selecionada e mesa de som personalizada para edições, festas e risadas.</b><br><br>Tudo o que você precisa para conteúdo e diversão<br><br>- Precisa dos sons perfeitos para seus vídeos curtos, transmissões ao vivo, YouTube, TikTok ou Reels?<br><br>Navegue por uma enorme coleção de clipes, encontre o meme que você precisa em segundos e compartilhe instantaneamente.<br><br>- Quer animar o grupo de bate-papo?<br><br>Use como um DJ de memes: empilhe sons, repita gritos e transforme um único toque em caos total.<br><br>🔥 ENORME BIBLIOTECA DE MEMES (PRONTO PARA USAR OFFLINE)<br>Explore uma coleção selecionada a dedo, construída ao longo de uma década:<br>• Mais de 1.800 sons selecionados e mais de 999 vídeos organizados por anos e categorias.<br><br>• Busca instantânea: Encontre qualquer meme no momento em que você se lembrar dele.<br>• Meme do Dia: Uma pérola selecionada a dedo todos os dias.<br>• Novidades: Seção dedicada às últimas tendências virais.<br>• Modo Limpo: Reprodução censurada opcional para ambientes familiares.<br><br>• Seções Inteligentes: Cada meme fica em uma seção — expanda ou recolha-as para navegar do seu jeito.<br><br>• Organize do Seu Jeito: A–Z, Mais Tocados, Mais Populares no Mundo Todo, Adicionados Recentemente e Personalizado.<br><br>• Acesso Offline: Abra e reproduza seus sons salvos a qualquer hora e em qualquer lugar.<br><br>🎚️ O DECK DE DJ DE MEMES DEFINITIVO<br>Não apenas toque memes — apresente-os com efeitos em tempo real:<br>• Reprodução Multitoque: Acione até 9 sons simultaneamente.<br><br>• Liberdade Total de Reprodução: Simples, Reiniciar, Múltiplos (sobreponha o mesmo som), Loop/Repetir e “Somente o Último Som”.<br><br>• Energia Visual: Blocos brilham, pulsam e reagem à batida com formas de onda de DJ em tempo real.<br>• Manipulação ao Vivo: Reversão instantânea e controle de velocidade (de câmera lenta ao caos).<br>• Efeitos Sonoros em Tempo Real: Adicione mudança de tom, reforço de graves, distorção, reverberação, som de robô, rádio, vibrato, distorção de 8 bits, microloops de bumerangue e muito mais.<br><br>• Predefinições de Som: Modificadores de voz e efeitos sonoros com um toque — &quot;Alienígena&quot;, &quot;Esquilo&quot;, &quot;Monstro&quot;, &quot;Estádio&quot; e mais 16 opções.<br><br>• Predefinições Exclusivas: Gagueira de &quot;CD Antigo&quot; 💿 e oscilação de &quot;Bateria Fraca&quot; 🔋 baseadas no tempo — você pode até desenhar sua própria curva de bateria!<br><br>• Modo Caos: Agite seu telefone ou toque no bloco &quot;Aleatório&quot; para surpresas instantâneas.<br><br>🎬 FERRAMENTAS PARA CRIADORES E BRINCADORES<br>Perfeito para edição de vídeo, transmissões ao vivo e risadas diárias:<br>• Importe Tudo: Adicione seus próprios sons e vídeos — corte e recorte-os diretamente no aplicativo.<br>• Mesas de Som Personalizadas: Crie suas próprias seções e organize memes do seu jeito.<br>• Classificação Personalizada: Arraste e solte os memes na ordem perfeita.<br>• Compartilhar e Exportar: Baixe sons/vídeos ou compartilhe-os em aplicativos de redes sociais com um toque.<br><br>• Integração: Defina qualquer meme como toque, notificação ou alarme.<br><br>• Efeitos de Vídeo: Reproduza vídeos de memes com filtros visuais ao vivo, como inversão de cores.<br><br>• Acesso Rápido: Use Widgets e Configurações Rápidas para ataques furtivos de memes.<br><br>✨ UMA EXPERIÊNCIA INTERATIVA<br>O aplicativo está vivo, escondendo surpresas e opções de personalização em cada canto:<br>• Conheça Seu Companheiro: Um amigo engraçado de olhos esbugalhados acompanha suas interações 👀 (e sim, um deslize para a esquerda dispara lasers).<br><br>• 🎮 Jogos Completos: &quot;Deja Meme&quot; (jogo da memória), &quot;Stack Meme&quot; (empilhador de torres), &quot;Guess Meme&quot; e o novo &quot;Mix Meme&quot;.<br>• ✨ Minijogos: Segredos escondidos e um desafio de velocidade de toque.<br>• Estilos visuais para sons: Escolha entre Hexágono (favo de mel), estilo retrô de CD, Raios, a nova Aurora ✨ e muito mais.<br><br>• Miniaturas animadas: Arte gerada proceduralmente para cada meme.<br><br>• Temas personalizados: Escuro, Claro, Interface Clássica e layouts modernos de ponta a ponta.<br><br>Seja para encontrar o som perfeito para sua próxima edição viral, pregar uma peça nos seus amigos no grupo de bate-papo ou simplesmente dar boas risadas sozinho, este aplicativo oferece as ferramentas para brincar com memes, não apenas jogá-los.<br><br>Abra diariamente. Encontre o Meme do Dia. Jogue minijogos. Toque uma vez para dar risada… ou nove vezes para o caos absoluto.<br><br>🍒 🍌 🍒 Sentindo-se com sorte? Toque em &quot;Aleatório&quot;, agite seu telefone ou jogue &quot;Misturar Memes&quot; e veja o que aparece!<br><br>⬜ M ⬛ E<br>⬛ M ⬜ E<br>10 anos de memes. Junte-se à diversão!",
+      "summary": "Mais de 1800 sons, mais de 999 vídeos. Memes diários! Jogue, faça pegadinhas e edite. Desde 2016.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1672587,
+      "score": 4.8,
+      "scoreText": "4,8",
+      "ratings": 15077,
+      "reviews": 77,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": true,
+      "appId": "fun.memesoundboard.andanylo",
+      "url": "https://play.google.com/store/apps/details?id=fun.memesoundboard.andanylo&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "My-instants.com: Botões de Som",
+      "description": "My-instants.com: o teu centro definitivo de meme soundboard e efeitos sonoros\nBem-vindo ao My-instants.com, uma popular app de meme soundboard que oferece milhares de botões de som instantâneos para tua conveniência. Quer procures sons virais de memes, efeitos sonoros divertidos, botões de memes em tendência ou o som perfeito para partidas aos teus amigos, o My-instants.com oferece a maior coleção de botões sonoros da internet, todos disponíveis para reprodução imediata e download.\nO que são botões de som?\nBotões de som são elementos interativos e clicáveis que ativam um pequeno clip de áudio no momento em que carregas neles. Sem buffering, sem espera, apenas reprodução instantânea diretamente no teu dispositivo.\nNo My-instants.com, a nossa biblioteca contém mais de 100.000 efeitos sonoros individuais, sons de memes, clips virais, sons de jogos, citações de filmes e muito mais. Tudo organizado em categorias fáceis de explorar e totalmente gratuito.\nO que é um meme soundboard?\nUm meme soundboard é uma coleção selecionada de clips de áudio retirados diretamente da cultura de memes da internet. O icónico Vine Boom, o efeito sonoro Bruh, Sad Violin, Goofy Ahh Laugh e centenas de clips que moldaram a comunicação online.\nO que torna o nosso meme soundboard diferente é o contexto cultural. Quando carregas no botão Vine Boom no momento certo no Discord, toda a gente percebe. São punchlines, reações e referências partilhadas que ligam pessoas por toda a internet.\nO nosso meme soundboard é atualizado constantemente. Quando um novo áudio explode no TikTok, Reddit ou YouTube Shorts, chega imediatamente ao My-instants.com. Sons de memes recentes ao lado de clássicos intemporais.\nQuem usa botões de som no My-instants.com?\nGamers e Streamers\nClips de áudio perfeitamente sincronizados transformam boas streams em grandes streams. Jingles de vitória, sons de falha, clips virais de memes. O nosso meme soundboard dá-te vantagem no entretenimento.\nUtilizadores de Discord e Chat\nUsa o efeito sonoro certo exatamente no momento certo. O nosso meme soundboard significa que tens sempre a reação perfeita pronta.\nCriadores de Conteúdo e Podcasters\nA nossa biblioteca de efeitos sonoros oferece acesso imediato a sinais áudio de alta qualidade, transições e clips icónicos que melhoram vídeos, reels e episódios de podcast.\nFãs de Memes e Cultura da Internet\nA nossa coleção de botões meme é atualizada quando um áudio se torna viral online. Se está a explodir no TikTok ou Reddit, já está no My-instants.com.\nEstudantes e Brincalhões de Escritório\nA nossa coleção de sons para partidas está acessível em qualquer lugar. Precisas do som perfeito para surpreender amigos? Nós temos.\nFãs de Anime\nCitações icónicas, sons lendários de transformação e momentos emocionantes das séries favoritas. Um clique no My-instants.com e estás lá.\nA coleção definitiva de meme soundboard\nO nosso meme soundboard reúne milhares dos clips áudio mais engraçados e reconhecidos que a internet já produziu. Vine Boom, Goofy Ahh Laugh, Bruh Sound Effect, Sad Violin. Todo o humor clássico da internet num só lugar.\nO conteúdo é atualizado diariamente. A nossa equipa monitoriza TikTok, Reddit, YouTube e Twitter para que quando um som se torne viral, já esteja disponível no My-instants.com.\nExplora todas as categorias soundboard\n\n\nMeme Soundboard: clássicos, sucessos virais, novas tendências. O coração do My-instants.com.\n\n\nSoundboard de Efeitos Sonoros: de lasers a brinquedos que rangem. Áudio versátil para todos.\n\n\nSoundboard de Reações: espanto, aplausos, silêncio. O efeito sonoro perfeito para cada momento.\n\n\nSoundboard Filmes e TV: frases icónicas e cenas inesquecíveis.\n\n\nSoundboard Jogos: sons lendários e momentos clássicos de gaming.\n\n\nSoundboard Tendências TikTok: os sons TikTok mais populares no My-instants.com.\n\n\nSoundboard Anime: citações de personagens e sons de transformação.\n\n\nSoundboard Partidas: jumpscares e caos. Coleção perfeita para partidas.",
+      "descriptionHTML": "My-instants.com: o teu centro definitivo de meme soundboard e efeitos sonoros<br>Bem-vindo ao My-instants.com, uma popular app de meme soundboard que oferece milhares de botões de som instantâneos para tua conveniência. Quer procures sons virais de memes, efeitos sonoros divertidos, botões de memes em tendência ou o som perfeito para partidas aos teus amigos, o My-instants.com oferece a maior coleção de botões sonoros da internet, todos disponíveis para reprodução imediata e download.<br>O que são botões de som?<br>Botões de som são elementos interativos e clicáveis que ativam um pequeno clip de áudio no momento em que carregas neles. Sem buffering, sem espera, apenas reprodução instantânea diretamente no teu dispositivo.<br>No My-instants.com, a nossa biblioteca contém mais de 100.000 efeitos sonoros individuais, sons de memes, clips virais, sons de jogos, citações de filmes e muito mais. Tudo organizado em categorias fáceis de explorar e totalmente gratuito.<br>O que é um meme soundboard?<br>Um meme soundboard é uma coleção selecionada de clips de áudio retirados diretamente da cultura de memes da internet. O icónico Vine Boom, o efeito sonoro Bruh, Sad Violin, Goofy Ahh Laugh e centenas de clips que moldaram a comunicação online.<br>O que torna o nosso meme soundboard diferente é o contexto cultural. Quando carregas no botão Vine Boom no momento certo no Discord, toda a gente percebe. São punchlines, reações e referências partilhadas que ligam pessoas por toda a internet.<br>O nosso meme soundboard é atualizado constantemente. Quando um novo áudio explode no TikTok, Reddit ou YouTube Shorts, chega imediatamente ao My-instants.com. Sons de memes recentes ao lado de clássicos intemporais.<br>Quem usa botões de som no My-instants.com?<br>Gamers e Streamers<br>Clips de áudio perfeitamente sincronizados transformam boas streams em grandes streams. Jingles de vitória, sons de falha, clips virais de memes. O nosso meme soundboard dá-te vantagem no entretenimento.<br>Utilizadores de Discord e Chat<br>Usa o efeito sonoro certo exatamente no momento certo. O nosso meme soundboard significa que tens sempre a reação perfeita pronta.<br>Criadores de Conteúdo e Podcasters<br>A nossa biblioteca de efeitos sonoros oferece acesso imediato a sinais áudio de alta qualidade, transições e clips icónicos que melhoram vídeos, reels e episódios de podcast.<br>Fãs de Memes e Cultura da Internet<br>A nossa coleção de botões meme é atualizada quando um áudio se torna viral online. Se está a explodir no TikTok ou Reddit, já está no My-instants.com.<br>Estudantes e Brincalhões de Escritório<br>A nossa coleção de sons para partidas está acessível em qualquer lugar. Precisas do som perfeito para surpreender amigos? Nós temos.<br>Fãs de Anime<br>Citações icónicas, sons lendários de transformação e momentos emocionantes das séries favoritas. Um clique no My-instants.com e estás lá.<br>A coleção definitiva de meme soundboard<br>O nosso meme soundboard reúne milhares dos clips áudio mais engraçados e reconhecidos que a internet já produziu. Vine Boom, Goofy Ahh Laugh, Bruh Sound Effect, Sad Violin. Todo o humor clássico da internet num só lugar.<br>O conteúdo é atualizado diariamente. A nossa equipa monitoriza TikTok, Reddit, YouTube e Twitter para que quando um som se torne viral, já esteja disponível no My-instants.com.<br>Explora todas as categorias soundboard<br><br><br>Meme Soundboard: clássicos, sucessos virais, novas tendências. O coração do My-instants.com.<br><br><br>Soundboard de Efeitos Sonoros: de lasers a brinquedos que rangem. Áudio versátil para todos.<br><br><br>Soundboard de Reações: espanto, aplausos, silêncio. O efeito sonoro perfeito para cada momento.<br><br><br>Soundboard Filmes e TV: frases icónicas e cenas inesquecíveis.<br><br><br>Soundboard Jogos: sons lendários e momentos clássicos de gaming.<br><br><br>Soundboard Tendências TikTok: os sons TikTok mais populares no My-instants.com.<br><br><br>Soundboard Anime: citações de personagens e sons de transformação.<br><br><br>Soundboard Partidas: jumpscares e caos. Coleção perfeita para partidas.",
+      "summary": "My-instants.com oferece muitos botões de som, meme soundboard e efeitos sonoros.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 188120,
+      "score": 4.3589745,
+      "scoreText": "4,4",
+      "ratings": 2456,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Música e áudio",
+      "genreId": "MUSIC_AND_AUDIO",
+      "categories": [
+        {
+          "name": "Música e áudio",
+          "id": "MUSIC_AND_AUDIO"
+        }
+      ],
+      "adSupported": true,
+      "appId": "myinstants.com.soundboard.soundbuttons.meme.effects.sound",
+      "url": "https://play.google.com/store/apps/details?id=myinstants.com.soundboard.soundbuttons.meme.effects.sound&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Discord - Converse e Jogue",
+      "description": "O Discord foi criado para jogos e é perfeito para apenas relaxar com amigos ou construir uma comunidade. Personalize seu próprio espaço e reúna seus amigos para falar enquanto joga seus jogos favoritos, ou apenas para passar o tempo.\n\nBATE-PAPO EM GRUPO QUE É SÓ DIVERSÃO E JOGOS\n∙ O Discord é excelente para jogar e relaxar com amigos, ou até mesmo para construir uma comunidade global. Personalize seu próprio espaço para falar, jogar e passar o tempo.\n\nTORNE SEUS BATE-PAPOS EM GRUPO MAIS DIVERTIDOS\n∙ Crie emojis personalizados, figurinhas, efeitos de painel de som e muito mais para adicionar sua personalidade ao bate-papo de voz, vídeo ou texto. Defina seu avatar, um status personalizado e escreva seu próprio perfil para se apresentar no bate-papo do seu jeito.\n\nTRANSMITA COMO SE ESTIVESSE NA MESMA SALA\n∙ A transmissão de alta qualidade e baixa latência faz com que você se sinta no sofá com seus amigos enquanto joga, assiste shows, olha fotos, ou, sei lá, faz o dever de casa ou algo do tipo.\n\nENTRE QUANDO ESTIVER LIVRE, NÃO PRECISA LIGAR\n∙ Entre e saia facilmente dos bate-papos de voz ou de texto sem precisar ligar ou convidar alguém, para que você possa conversar com seus amigos antes, durante e após a sessão de jogo.\n\nVEJA QUEM ESTÁ DISPONÍVEL PARA RELAXAR\n∙ Veja quem está por perto, jogando ou apenas relaxando. Para jogos compatíveis, você pode ver quais modos ou personagens seus amigos estão jogando e se juntar a eles diretamente.\n\nSEMPRE TENHA ALGO PARA FAZER JUNTOS\n∙ Assista a vídeos, jogue jogos integrados, ouça música ou simplesmente navegue juntos e compartilhe memes. Envie mensagens, faça ligações, participe de bate-papo em vídeo e jogue, tudo em uma única conversa em grupo.\n\nONDE QUER QUE VOCÊ JOGUE, FIQUE POR AQUI\n∙ No seu PC, telefone ou console, você ainda pode ficar no Discord. Alterne facilmente entre dispositivos e use ferramentas para gerenciar múltiplos bate-papos em grupo com amigos.",
+      "descriptionHTML": "O Discord foi criado para jogos e é perfeito para apenas relaxar com amigos ou construir uma comunidade. Personalize seu próprio espaço e reúna seus amigos para falar enquanto joga seus jogos favoritos, ou apenas para passar o tempo.<br><br>BATE-PAPO EM GRUPO QUE É SÓ DIVERSÃO E JOGOS<br>∙ O Discord é excelente para jogar e relaxar com amigos, ou até mesmo para construir uma comunidade global. Personalize seu próprio espaço para falar, jogar e passar o tempo.<br><br>TORNE SEUS BATE-PAPOS EM GRUPO MAIS DIVERTIDOS<br>∙ Crie emojis personalizados, figurinhas, efeitos de painel de som e muito mais para adicionar sua personalidade ao bate-papo de voz, vídeo ou texto. Defina seu avatar, um status personalizado e escreva seu próprio perfil para se apresentar no bate-papo do seu jeito.<br><br>TRANSMITA COMO SE ESTIVESSE NA MESMA SALA<br>∙ A transmissão de alta qualidade e baixa latência faz com que você se sinta no sofá com seus amigos enquanto joga, assiste shows, olha fotos, ou, sei lá, faz o dever de casa ou algo do tipo.<br><br>ENTRE QUANDO ESTIVER LIVRE, NÃO PRECISA LIGAR<br>∙ Entre e saia facilmente dos bate-papos de voz ou de texto sem precisar ligar ou convidar alguém, para que você possa conversar com seus amigos antes, durante e após a sessão de jogo.<br><br>VEJA QUEM ESTÁ DISPONÍVEL PARA RELAXAR<br>∙ Veja quem está por perto, jogando ou apenas relaxando. Para jogos compatíveis, você pode ver quais modos ou personagens seus amigos estão jogando e se juntar a eles diretamente.<br><br>SEMPRE TENHA ALGO PARA FAZER JUNTOS<br>∙ Assista a vídeos, jogue jogos integrados, ouça música ou simplesmente navegue juntos e compartilhe memes. Envie mensagens, faça ligações, participe de bate-papo em vídeo e jogue, tudo em uma única conversa em grupo.<br><br>ONDE QUER QUE VOCÊ JOGUE, FIQUE POR AQUI<br>∙ No seu PC, telefone ou console, você ainda pode ficar no Discord. Alterne facilmente entre dispositivos e use ferramentas para gerenciar múltiplos bate-papos em grupo com amigos.",
+      "summary": "Conversas e Diversão em grupo",
+      "installs": "500.000.000+",
+      "minInstalls": 500000000,
+      "maxInstalls": 696673256,
+      "score": 4.5426397,
+      "scoreText": "4,5",
+      "ratings": 7076792,
+      "reviews": 276951,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.discord",
+      "url": "https://play.google.com/store/apps/details?id=com.discord&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

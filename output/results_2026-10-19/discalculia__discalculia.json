@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "collect_time": "2026-10-19T20:12:42.620Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISCALCULIA",
+    "term": "discalculia",
+    "key": "discalculia",
+    "depth": 0,
+    "parent": null,
+    "result_count": 14,
+    "failed_app_ids": [],
+    "omitted_app_ids": [
+      "com.ilas.dmxcalculator",
+      "com.dilution.app.dilution",
+      "com.digitalchemy.calculator.freedecimal",
+      "com.kingcalculator",
+      "com.sukdeb.neocalc",
+      "my.android.calc",
+      "com.mechmind.hydracal"
+    ]
+  },
+  "apps": [
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11400,
+      "score": 4.2222223,
+      "scoreText": "4,2",
+      "ratings": 37,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Calculadora Gráfica Desmos",
+      "description": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.\n\nRecursos:\n\nGráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato \"y=\"!\n\nControles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.\n\nTabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.\n\nEstatística: encontre retas, parábolas e muito mais.\n\nAmpliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.\n\nPontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.\n\nCalculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.\n\nDesigualdades: plote desigualdades cartesianas e polares.\n\nAcessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.\n\nOffline: não é necessário acesso à Internet.\n\nAcesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "descriptionHTML": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.<br><br>Recursos:<br><br>Gráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato &quot;y=&quot;!<br><br>Controles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.<br><br>Tabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.<br><br>Estatística: encontre retas, parábolas e muito mais.<br><br>Ampliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.<br><br>Pontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.<br><br>Calculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.<br><br>Desigualdades: plote desigualdades cartesianas e polares.<br><br>Acessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.<br><br>Offline: não é necessário acesso à Internet.<br><br>Acesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "summary": "Plote funções e equações, crie tabelas, adicione controles e anime gráficos",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 10819585,
+      "score": 4.77,
+      "scoreText": "4,8",
+      "ratings": 36466,
+      "reviews": 220,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.desmos.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.desmos.calculator&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "ClassCalc Calculadora Gráfica",
+      "description": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.\n\nPaying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:\n1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.\n2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.\n3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.\n\nList Of Features:\n\nScientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):\n\nAlgebra, Advanced Statistics, Trigonometry, Calculus\nFeatures: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder\n\nGraphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):\n\nGraphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (& Precalculus)\nFeatures: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes \n\nMatrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): \n\nLinear Algebra\nFeatures: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.\n\nWhy do we need accessibility permissions when you're joining test mode?\nIn order to give teachers full trust that the students can't access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don't collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student's end - no data is sent over.\n\nContact: Info@classcalc.com",
+      "descriptionHTML": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.<br><br>Paying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:<br>1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.<br>2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.<br>3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.<br><br>List Of Features:<br><br>Scientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):<br><br>Algebra, Advanced Statistics, Trigonometry, Calculus<br>Features: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder<br><br>Graphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):<br><br>Graphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (&amp; Precalculus)<br>Features: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes <br><br>Matrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): <br><br>Linear Algebra<br>Features: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.<br><br>Why do we need accessibility permissions when you&#39;re joining test mode?<br>In order to give teachers full trust that the students can&#39;t access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don&#39;t collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student&#39;s end - no data is sent over.<br><br>Contact: Info@classcalc.com",
+      "summary": "Gráfica, Estatística, Científica &amp; Matrizes. 100% gratuita. Sem anúncios.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 57457,
+      "score": 4.972973,
+      "scoreText": "5,0",
+      "ratings": 485,
+      "reviews": 26,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.classcalc.classcalc",
+      "url": "https://play.google.com/store/apps/details?id=com.classcalc.classcalc&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Dytective para la dislexia",
+      "description": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação \"la Caixa\". O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.\n\nSeu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.\n\nCom o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.\n\nVocê também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.\n\nPara começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.\n\n– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação \"la Caixa\", sua escola poderá usar o Dytective gratuitamente.\n\n– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.\n\n– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "descriptionHTML": "O Dytective é uma ferramenta educacional digital cientificamente validada, desenvolvida pela EduCaixa da Fundação &quot;la Caixa&quot;. O Dytective aprimora a alfabetização adaptando-se automaticamente ao nível de cada criança. Ele também permite a detecção de dislexia e outras dificuldades de leitura e escrita graças ao seu teste de triagem.<br><br>Seu design é baseado em pesquisas científicas lideradas pela Dra. Luz Rello, em colaboração com a Universidade Carnegie Mellon. O Dytective não é um aplicativo médico.<br><br>Com o Dytective, você aprimorará suas habilidades de leitura e escrita enquanto se diverte jogando: 42.000 jogos são personalizados com base em seus pontos fortes e fracos para que você possa melhorar a cada dia. Cada desafio ou sessão do Dytective dura de 10 a 20 minutos. Lembre-se de que é muito importante usar o Dytective com consistência, completando 4 desafios ou sessões por semana, para que você possa observar melhorias significativas em sua alfabetização. O Dytective não substitui a intervenção profissional; é uma ferramenta de apoio.<br><br>Você também terá acesso ao teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita. Ele não fornece um diagnóstico; somente um profissional pode fazê-lo. Se você acredita que pode estar em risco de desenvolver um transtorno de leitura e escrita, deve consultar um profissional de saúde ou da área da educação. O Dytective não é um aplicativo médico.<br><br>Para começar a usar, baixe o aplicativo e insira seu nome de usuário e senha. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio.<br><br>– Para escolas: Graças ao Dytective, você oferecerá uma solução única, inovadora e cientificamente validada, eliminando o fracasso escolar devido a dificuldades de leitura e escrita. Você otimizará os recursos da sua escola graças à personalização automática de exercícios e à geração automática de relatórios. Junte-se à nossa comunidade científica, reconhecida por prêmios de prestígio. Além disso, graças ao apoio da EduCaixa, da Fundação &quot;la Caixa&quot;, sua escola poderá usar o Dytective gratuitamente.<br><br>– Para terapeutas: você fará parte da rede educacional mais inovadora, aumentando o prestígio do seu trabalho, e mais de 240.000 alunos terão acesso ao seu perfil profissional. Com o Dytective, você economizará tempo e aumentará sua produtividade graças à personalização automática de exercícios e à geração automática de relatórios. Conquiste a fidelidade dos seus clientes oferecendo uma ferramenta cientificamente comprovada, divertida e eficaz.<br><br>– Para famílias: seu filho superará as dificuldades escolares por meio de um jogo, você terá o apoio de profissionais especializados e economizará tempo por não precisar supervisionar a brincadeira.",
+      "summary": "Estimulação de 24 habilidades relacionadas à dislexia e teste de triagem",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 231224,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "org.changedyslexia.newdytective",
+      "url": "https://play.google.com/store/apps/details?id=org.changedyslexia.newdytective&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Dogl Precalculus",
+      "description": "Dogl Precalculus é seu aplicativo móvel amigável, projetado por professores universitários para ajudá-lo a conquistar conceitos de pré-cálculo por meio da resolução de problemas pequenos. Dogl Precalculus está apenas começando e adicionando novos materiais o tempo todo.\n\nAcelere seu aprendizado de pré-cálculo com Dogl:\n\n• A prática leva à perfeição: receba 100 problemas GRATUITOS para começar, sobre qualquer assunto. Além disso, desbloqueie 10 problemas gratuitos adicionais todas as semanas para manter suas habilidades afiadas.\n\n• Vá Ilimitado (Opcional): Está gostando do Dogl e quer dominar o Pré-cálculo mais rápido? Seja um dos nossos primeiros usuários e obtenha nossa tarifa introdutória especial para acesso de 4 meses e 1 ano.\n\n• Aprendizado Personalizado: Nosso aplicativo se adapta ao seu estilo de aprendizagem, adaptando os problemas com base no seu progresso.\n\n• Orientação Teacher's Eye™: Preso? Obtenha dicas visuais que o guiam sem revelar a resposta.\n\n• Livre de anúncios e focado na privacidade: não exibimos anúncios nem vendemos seus dados. Contamos com atualizadores felizes para manter o aplicativo funcionando.\n\n• Feito por Especialistas: Criado por professores universitários que entendem os desafios que os estudantes enfrentam.\n\n• Compatível com o novo currículo AP Precalculus.\n\nBaixe Dogl Precalculus hoje e libere seu potencial!",
+      "descriptionHTML": "Dogl Precalculus é seu aplicativo móvel amigável, projetado por professores universitários para ajudá-lo a conquistar conceitos de pré-cálculo por meio da resolução de problemas pequenos. Dogl Precalculus está apenas começando e adicionando novos materiais o tempo todo.<br><br>Acelere seu aprendizado de pré-cálculo com Dogl:<br><br>• A prática leva à perfeição: receba 100 problemas GRATUITOS para começar, sobre qualquer assunto. Além disso, desbloqueie 10 problemas gratuitos adicionais todas as semanas para manter suas habilidades afiadas.<br><br>• Vá Ilimitado (Opcional): Está gostando do Dogl e quer dominar o Pré-cálculo mais rápido? Seja um dos nossos primeiros usuários e obtenha nossa tarifa introdutória especial para acesso de 4 meses e 1 ano.<br><br>• Aprendizado Personalizado: Nosso aplicativo se adapta ao seu estilo de aprendizagem, adaptando os problemas com base no seu progresso.<br><br>• Orientação Teacher&#39;s Eye™: Preso? Obtenha dicas visuais que o guiam sem revelar a resposta.<br><br>• Livre de anúncios e focado na privacidade: não exibimos anúncios nem vendemos seus dados. Contamos com atualizadores felizes para manter o aplicativo funcionando.<br><br>• Feito por Especialistas: Criado por professores universitários que entendem os desafios que os estudantes enfrentam.<br><br>• Compatível com o novo currículo AP Precalculus.<br><br>Baixe Dogl Precalculus hoje e libere seu potencial!",
+      "summary": "O aplicativo Pré-cálculo feito por professores: conquiste o Pré-cálculo com uma prática rápida",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1686,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.dogl.precalc",
+      "url": "https://play.google.com/store/apps/details?id=app.dogl.precalc&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Mental Calculation and Math",
+      "description": "Você está em busca de um aplicativo de matemática mental, aplicativo de cálculo mental ou aplicativo de treinamento de cálculo para verificar sua velocidade de cálculo?\n\nMind Calculator é a melhor aplicação para você melhorar seu cálculo mental e habilidade de matemática mental.\n\nMind Calculator facilita o treinamento de habilidades de cálculo e matemática mental e velocidade matemática.\n\nMantenha seu cérebro ativo com o cálculo de números rapidamente em mente.\n\nVocê ficará satisfeito com este aplicativo simples de treinamento de cálculo mental. Se você gosta de matemática mental e tenta melhorar suas habilidades matemáticas.\n\nAs operações aritméticas básicas (adição, subtração, multiplicação, divisão) estão neste aplicativo de matemática mental para treinar seu cérebro.\n\nBem como outros jogos de treinamento de cálculo mental neste aplicativo Mental Maths.\n\nEste aplicativo de jogo de treinamento de matemática gratuito foi projetado para você, se você acha que pode calcular números imediatamente em sua mente.\n\nMind Calculator facilita o cálculo de grandes números em sua mente rapidamente.\n\nSe você é um aluno de matemática, pode usar este aplicativo para treinamento de cálculo.\n\n\n💡ALGUNS BENEFÍCIOS INTELIGENTES DA CALCULADORA MENTE\n\n▪️ Melhore a velocidade de seus cálculos matemáticos.\n\n▪️ Melhore sua velocidade de cálculo mental.\n\n▪️ Aumente suas habilidades matemáticas.\n\n▪️ Aumente suas habilidades de matemática mental.\n\n▪️Treinamento Operações matemáticas simples.\n\n▪️Treinamento Avançado de Operações Matemáticas.\n\n\nVamos aproveitar o jogo e manter seu cérebro ativo.\n\n\n📲COMO JOGAR:\n\n▪️ Selecione seu jogo de cálculo mental favorito.\n\n▪️ Encontre uma resposta rapidamente durante o período de tempo alocado.\n\n▪️ Lembre-se, o tempo diminui passo a passo.\n\n\nCATEGORIA:\n\n▪️MathsTraining.\n\n▪️ Matemática Mental.\n\n▪️Treinamento de matemática mental.\n\n▪️ Encontre a sequência matemática.\n\n▪️Melhorar a velocidade de cálculo.\n \n▪️Treinamento de Cálculo.\n\n▪️ Cálculo Mental.\n\n▪️Treinamento Cerebral.\n\n▪️Aplicativo de Educação",
+      "descriptionHTML": "Você está em busca de um aplicativo de matemática mental, aplicativo de cálculo mental ou aplicativo de treinamento de cálculo para verificar sua velocidade de cálculo?<br><br>Mind Calculator é a melhor aplicação para você melhorar seu cálculo mental e habilidade de matemática mental.<br><br>Mind Calculator facilita o treinamento de habilidades de cálculo e matemática mental e velocidade matemática.<br><br>Mantenha seu cérebro ativo com o cálculo de números rapidamente em mente.<br><br>Você ficará satisfeito com este aplicativo simples de treinamento de cálculo mental. Se você gosta de matemática mental e tenta melhorar suas habilidades matemáticas.<br><br>As operações aritméticas básicas (adição, subtração, multiplicação, divisão) estão neste aplicativo de matemática mental para treinar seu cérebro.<br><br>Bem como outros jogos de treinamento de cálculo mental neste aplicativo Mental Maths.<br><br>Este aplicativo de jogo de treinamento de matemática gratuito foi projetado para você, se você acha que pode calcular números imediatamente em sua mente.<br><br>Mind Calculator facilita o cálculo de grandes números em sua mente rapidamente.<br><br>Se você é um aluno de matemática, pode usar este aplicativo para treinamento de cálculo.<br><br><br>💡ALGUNS BENEFÍCIOS INTELIGENTES DA CALCULADORA MENTE<br><br>▪️ Melhore a velocidade de seus cálculos matemáticos.<br><br>▪️ Melhore sua velocidade de cálculo mental.<br><br>▪️ Aumente suas habilidades matemáticas.<br><br>▪️ Aumente suas habilidades de matemática mental.<br><br>▪️Treinamento Operações matemáticas simples.<br><br>▪️Treinamento Avançado de Operações Matemáticas.<br><br><br>Vamos aproveitar o jogo e manter seu cérebro ativo.<br><br><br>📲COMO JOGAR:<br><br>▪️ Selecione seu jogo de cálculo mental favorito.<br><br>▪️ Encontre uma resposta rapidamente durante o período de tempo alocado.<br><br>▪️ Lembre-se, o tempo diminui passo a passo.<br><br><br>CATEGORIA:<br><br>▪️MathsTraining.<br><br>▪️ Matemática Mental.<br><br>▪️Treinamento de matemática mental.<br><br>▪️ Encontre a sequência matemática.<br><br>▪️Melhorar a velocidade de cálculo.<br> <br>▪️Treinamento de Cálculo.<br><br>▪️ Cálculo Mental.<br><br>▪️Treinamento Cerebral.<br><br>▪️Aplicativo de Educação",
+      "summary": "Verifique sua velocidade de cálculo mental e matemática com o aplicativo de treinamento de cálculo",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 449,
+      "price": 12.99,
+      "free": false,
+      "currency": "BRL",
+      "priceText": "R$ 12,99",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dmapps.mindcal.pro",
+      "url": "https://play.google.com/store/apps/details?id=com.dmapps.mindcal.pro&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Scientific Calculator App",
+      "description": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.\n\nSe você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.\n\nEste aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.\n\n🔢 Recursos da Calculadora Científica\n\n• Funções avançadas de calculadora científica\n• Expressões algébricas e cálculos simbólicos\n• Funções trigonométricas: seno, cosseno, tangente\n• Funções logarítmicas: logaritmo, ln\n• Raiz quadrada, potência, porcentagem e constantes (π)\n• Cálculos com frações e decimais\n• Parênteses e expressões complexas\n• Cálculos com precisão arbitrária\n• Suporte para aritmética intervalar\n• Variáveis ​​e constantes matemáticas\n• Suporte para propagação de incertezas\n• Recursos de plotagem para funções matemáticas\n• Suporta valores numéricos grandes e pequenos\n• Uso offline da calculadora científica\n\n📐 Cálculos Suportados\n\n• Operações aritméticas básicas\n• Expressões algébricas e matemáticas\n• Cálculos trigonométricos\n• Funções logarítmicas e exponenciais\n• Fórmulas científicas e estatísticas\n• Cálculos matemáticos de alta precisão\n\n🎓 Quem Pode Usar Esta Calculadora Científica\n\n• Estudantes do ensino fundamental, médio e superior\n• Professores e educadores\n• Engenheiros e profissionais técnicos\n• Para quem precisa de um aplicativo de calculadora científica avançada\n\nEste aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "descriptionHTML": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.<br><br>Se você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.<br><br>Este aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.<br><br><b>🔢 Recursos da Calculadora Científica</b><br><br>• Funções avançadas de calculadora científica<br>• Expressões algébricas e cálculos simbólicos<br>• Funções trigonométricas: seno, cosseno, tangente<br>• Funções logarítmicas: logaritmo, ln<br>• Raiz quadrada, potência, porcentagem e constantes (π)<br>• Cálculos com frações e decimais<br>• Parênteses e expressões complexas<br>• Cálculos com precisão arbitrária<br>• Suporte para aritmética intervalar<br>• Variáveis ​​e constantes matemáticas<br>• Suporte para propagação de incertezas<br>• Recursos de plotagem para funções matemáticas<br>• Suporta valores numéricos grandes e pequenos<br>• Uso offline da calculadora científica<br><br>📐 Cálculos Suportados<br><br>• Operações aritméticas básicas<br>• Expressões algébricas e matemáticas<br>• Cálculos trigonométricos<br>• Funções logarítmicas e exponenciais<br>• Fórmulas científicas e estatísticas<br>• Cálculos matemáticos de alta precisão<br><br>🎓 Quem Pode Usar Esta Calculadora Científica<br><br>• Estudantes do ensino fundamental, médio e superior<br>• Professores e educadores<br>• Engenheiros e profissionais técnicos<br>• Para quem precisa de um aplicativo de calculadora científica avançada<br><br>Este aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "summary": "Aplicativo de calculadora científica fácil de usar para cálculos matemáticos avançados.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 183791,
+      "score": 3.6875,
+      "scoreText": "3,7",
+      "ratings": 618,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.aicalc.scientific.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.aicalc.scientific.calculator&hl=pt&gl=br",
+      "rank": 14
+    }
+  ]
+}

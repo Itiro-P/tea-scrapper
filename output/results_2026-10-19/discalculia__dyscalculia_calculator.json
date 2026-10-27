@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "collect_time": "2026-10-20T02:49:17.457Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DISCALCULIA",
+    "term": "dyscalculia calculator",
+    "key": "dyscalculia calculator",
+    "depth": 1,
+    "parent": "dyscalculia",
+    "result_count": 30,
+    "failed_app_ids": [],
+    "omitted_app_ids": [
+      "com.everydaycalculation.casiocalculator.pro",
+      "com.jjsoftware.fullscientificcalculatorfree",
+      "jp.co.conduits.calcbas",
+      "com.tazsrb.auroracalculator",
+      "com.dualcalculator.dual_calc",
+      "com.scientificcalculator.mathcalculator.aimathsolver",
+      "com.mrcalco",
+      "com.softonight.TwinCalc",
+      "my.android.calc",
+      "roviminteractive.materialcopy",
+      "com.nikhilapps.smartcalculatorallinonecalculator",
+      "com.kame3.apps.calculator"
+    ]
+  },
+  "apps": [
+    {
+      "title": "Discalculia Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.\n\nA discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.\n\nAs pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.\n\nFERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados aos distúrbios cognitivos associados à discalculia.<br><br>A discalculia é um distúrbio de aprendizagem que afeta a capacidade aritmética, o uso de números e a aprendizagem da matemática. A discalculia é geralmente detectada na infância e, se não for tratada adequadamente, as consequências desse distúrbio de aprendizagem podem continuar a ter efeitos na adolescência ou na idade adulta. Isso pode ter consequências diretas para o sucesso nos estudos, na vida social e até no trabalho. Não é incomum que estudantes com discalculia rejeitem e evitem qualquer atividade que exija cálculos, apesar de essas tarefas serem muito comuns em nossas vidas cotidianas.<br><br>As pessoas que vivem com discalculia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, percepção espacial, memória auditiva de curto prazo, memória operacional, planejamento e coordenação óculo-manual.<br><br>FERRAMENTA DE INVESTIGAÇÃO PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio de aprendizagem relacionado à matemática. A Pesquisa Cognitiva sobre a discalculia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à discalculia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Discalculia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11400,
+      "score": 4.2222223,
+      "scoreText": "4,2",
+      "ratings": 37,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyscalculia&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Discalculia: Números e Cálculo",
+      "description": "Ajude uma criança a fazer as pazes com os números — passo a passo, brincando.\n\nDiscalculia Matemática é um aplicativo gentil, baseado em jogos, feito para crianças que acham os números difíceis. Cada fase cresce junto com a criança: exercícios curtos, um mascote amigável e incentivo na hora. Sem pressão, sem cronômetros assustadores — só progresso constante no senso numérico e na matemática do dia a dia.\n\nPOR QUE AS CRIANÇAS AMAM\n• Exercícios curtinhos que parecem jogo, não dever de casa\n• Um mascote animado que comemora cada tentativa\n• Quatro mundos coloridos para diferentes idades\n• Novos desafios conforme o progresso\n\nO QUE TEM POR DENTRO\n• Dificuldade adaptativa que responde ao jeito de jogar\n• Sistema de repetição espaçada para fixar o aprendizado\n• Treino de senso numérico, contagem, cálculo e memória de trabalho\n• Painel simples para acompanhar a evolução em casa\n\nPARA QUEM\n• Crianças que têm dificuldade com números ou ansiedade matemática\n• Famílias que buscam prática em casa sem estresse\n• Educadores que acompanham alunos com perfis variados\n\nAplicativo educativo de prática. Não substitui um diagnóstico clínico.\n\nPrivacy Policy: https://firebasestorage.googleapis.com/v0/b/dyscalculia-ai-app.firebasestorage.app/o/public%2Fprivacy_policy.pdf?alt=media\nTerms of Use: https://firebasestorage.googleapis.com/v0/b/dyscalculia-ai-app.firebasestorage.app/o/public%2Fterms_of_use.pdf?alt=media\nSupport: aiandthehuman@gmail.com",
+      "descriptionHTML": "Ajude uma criança a fazer as pazes com os números — passo a passo, brincando.<br><br>Discalculia Matemática é um aplicativo gentil, baseado em jogos, feito para crianças que acham os números difíceis. Cada fase cresce junto com a criança: exercícios curtos, um mascote amigável e incentivo na hora. Sem pressão, sem cronômetros assustadores — só progresso constante no senso numérico e na matemática do dia a dia.<br><br>POR QUE AS CRIANÇAS AMAM<br>• Exercícios curtinhos que parecem jogo, não dever de casa<br>• Um mascote animado que comemora cada tentativa<br>• Quatro mundos coloridos para diferentes idades<br>• Novos desafios conforme o progresso<br><br>O QUE TEM POR DENTRO<br>• Dificuldade adaptativa que responde ao jeito de jogar<br>• Sistema de repetição espaçada para fixar o aprendizado<br>• Treino de senso numérico, contagem, cálculo e memória de trabalho<br>• Painel simples para acompanhar a evolução em casa<br><br>PARA QUEM<br>• Crianças que têm dificuldade com números ou ansiedade matemática<br>• Famílias que buscam prática em casa sem estresse<br>• Educadores que acompanham alunos com perfis variados<br><br>Aplicativo educativo de prática. Não substitui um diagnóstico clínico.<br><br>Privacy Policy: https://firebasestorage.googleapis.com/v0/b/dyscalculia-ai-app.firebasestorage.app/o/public%2Fprivacy_policy.pdf?alt=media<br>Terms of Use: https://firebasestorage.googleapis.com/v0/b/dyscalculia-ai-app.firebasestorage.app/o/public%2Fterms_of_use.pdf?alt=media<br>Support: aiandthehuman@gmail.com",
+      "summary": "Senso Numérico, Soma e Conta",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 232,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.indiex.dyscalculia",
+      "url": "https://play.google.com/store/apps/details?id=app.indiex.dyscalculia&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Calculadora tudo-em-um",
+      "description": "Calculadora tudo-em-um combina uma calculadora científica limpa com mais de 50 calculadoras e conversores de unidades para o dia a dia. Aproveite mais da sua calculadora — de GRAÇA!\n\n🏆 Aprovada por mais de 10 MILHÕES de usuários!\n\nCalculadora científica\n• Trigonometria, logaritmos, expoentes\n• Calculadora gráfica: plote funções\n• Suporte a números complexos (√-1 → i)\n• Resultados em fração (0,3333 → 1/3)\n• Botões de memória: MC, M+, M-, MR\n• Histórico da calculadora com notas\n\nConversor de moedas\n• 160+ moedas, taxas de câmbio ao vivo\n• Converta várias moedas de uma só vez\n• Funciona 100% offline\n\nConversor de unidades\n• Comprimento, peso, volume, temperatura\n• Área, velocidade, pressão, potência, energia\n• Armazenamento digital, cozinha, calçados\n• Unidades regionais, históricas e científicas\n• Unidades combinadas (m + cm, L + mL)\n\nCalculadoras matemáticas\n• Calculadora de porcentagem e desconto\n• Calculadora de média e proporção\n• Resolução de equações: linear, quadrática etc.\n• Área e volume de formas e sólidos\n• Soluções passo a passo\n\nCalculadoras financeiras\n• Calculadora de gorjeta e impostos\n• Calculadora de empréstimo e juros\n• Comparação de preço unitário\n\nData e saúde\n• Calculadora de idade e de datas\n• Tempo entre duas datas\n• IMC, gordura corporal e calorias\n\nRecursos extras\n• Sincronização na nuvem entre dispositivos\n• Widget de calculadora para a tela inicial\n• Layouts simples, clássico e moderno\n• Tema escuro AMOLED para economizar bateria\n\n👋 Uma nota do desenvolvedor\n\nOi, eu sou o Andrei, o desenvolvedor por trás deste app. Meu objetivo desde 2016 tem sido criar a calculadora mais completa, limpa e fácil de usar do mercado, melhorando-a continuamente com base no seu feedback.\n\nExperimente e me diga o que achou!",
+      "descriptionHTML": "<b>Calculadora tudo-em-um</b> combina uma calculadora científica limpa com mais de 50 calculadoras e conversores de unidades para o dia a dia. Aproveite mais da sua calculadora — de GRAÇA!<br><br>🏆 <b>Aprovada por mais de 10 MILHÕES de usuários!</b><br><br><b>Calculadora científica</b><br>• Trigonometria, logaritmos, expoentes<br>• Calculadora gráfica: plote funções<br>• Suporte a números complexos (√-1 → i)<br>• Resultados em fração (0,3333 → 1/3)<br>• Botões de memória: MC, M+, M-, MR<br>• Histórico da calculadora com notas<br><br><b>Conversor de moedas</b><br>• 160+ moedas, taxas de câmbio ao vivo<br>• Converta várias moedas de uma só vez<br>• Funciona <b>100% offline</b><br><br><b>Conversor de unidades</b><br>• Comprimento, peso, volume, temperatura<br>• Área, velocidade, pressão, potência, energia<br>• Armazenamento digital, cozinha, calçados<br>• Unidades regionais, históricas e científicas<br>• Unidades combinadas (m + cm, L + mL)<br><br><b>Calculadoras matemáticas</b><br>• Calculadora de porcentagem e desconto<br>• Calculadora de média e proporção<br>• Resolução de equações: linear, quadrática etc.<br>• Área e volume de formas e sólidos<br>• Soluções <b>passo a passo</b><br><br><b>Calculadoras financeiras</b><br>• Calculadora de gorjeta e impostos<br>• Calculadora de empréstimo e juros<br>• Comparação de preço unitário<br><br><b>Data e saúde</b><br>• Calculadora de idade e de datas<br>• Tempo entre duas datas<br>• IMC, gordura corporal e calorias<br><br><b>Recursos extras</b><br>• <b>Sincronização na nuvem</b> entre dispositivos<br>• Widget de calculadora para a tela inicial<br>• Layouts simples, clássico e moderno<br>• Tema escuro AMOLED para economizar bateria<br><br>👋 <b>Uma nota do desenvolvedor</b><br><br>Oi, eu sou o Andrei, o desenvolvedor por trás deste app. Meu objetivo desde 2016 tem sido criar a calculadora mais completa, limpa e fácil de usar do mercado, melhorando-a continuamente com base no seu feedback.<br><br><b>Experimente e me diga o que achou!</b>",
+      "summary": "A calculadora tudo-em-um original com conversor de unidades e moedas",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 20052935,
+      "score": 4.715762,
+      "scoreText": "4,7",
+      "ratings": 169948,
+      "reviews": 3210,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "all.in.one.calculator",
+      "url": "https://play.google.com/store/apps/details?id=all.in.one.calculator&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Dysia: copilot discalculia",
+      "description": "A Dysia foi criada para ajudar pessoas com discalculia a lidar com o dia a dia com mais confiança, menos stress e maior autonomia.\n\nSe os números lhe parecem confusos, se tem dificuldade em gerir o tempo, se as contas são uma fonte de stress ou se fazer cálculos de cabeça é complicado, a Dysia oferece-lhe ferramentas concebidas para situações reais. Quer tenha um diagnóstico, suspeite que tem sintomas ou simplesmente tenha dificuldade em lidar com números, a Dysia foi criada para si.\n\nO que é a discalculia?\n\nA discalculia é uma dificuldade de aprendizagem que afeta a compreensão dos números, a perceção do tempo, os cálculos, a gestão do dinheiro, a orientação e a confiança ao lidar com números.\nMuitas pessoas pesquisam o que é a discalculia ou perguntam-se por que motivo os números são mais difíceis para elas. A Dysia transforma este desafio em apoio prático para o dia a dia.\n\nA Dysia é uma aplicação de apoio focada nos adultos e nas necessidades do quotidiano.\nÉ um conjunto de ferramentas para a discalculia criado para ajudar a resolver problemas reais.\n\nConcebida para adultos com discalculia.\nA Dysia foi desenvolvida a pensar nos adultos: trabalho, compras, compromissos, transportes, restaurantes, dinheiro e autonomia.\n\nFuncionalidades incluídas na Dysia:\n\nFerramentas de tempo e relógio\nLeia as horas de um relógio analógico em formato digital\n\nConverta horas em formato AM/PM para o formato de 24 horas\nSaiba a que horas será o seu compromisso. Saiba a que horas deve sair para chegar a horas\nReduza a confusão relacionada com horários, prazos e reuniões\n\nFerramentas para dinheiro e compras\nPague na caixa com confiança\nUtilize corretamente notas e moedas\n\nCalcule gorjetas rapidamente\nVeja se um desconto vale realmente a pena\nCompare preços e números facilmente\n\nFerramentas para a discalculia no dia a dia\nCompare números instantaneamente\n\nReduza os erros em situações de pressão\nConcebida para aumentar a confiança\n\nComo lidar melhor com a discalculia?\nNão existe uma solução imediata, mas ferramentas práticas, estratégias, repetição e o apoio adequado podem tornar o dia a dia muito mais fácil.\n\nPor que razão os utilizadores escolhem a Dysia?\nRápida e fácil de utilizar\nCriada para situações reais da vida adulta\nÚtil tanto para pessoas com diagnóstico como para quem ainda não foi diagnosticado\n\nQuer se identifique como uma pessoa com discalculia, tenha um diagnóstico de discalculia ou simplesmente procure apoio para lidar melhor com números, a Dysia ajuda a transformar momentos difíceis em situações mais fáceis de gerir.\n\nO acesso às ferramentas da Dysia requer uma subscrição ativa.\nTermos de Utilização: https://chess.earium.org/terms-of-use",
+      "descriptionHTML": "A Dysia foi criada para ajudar pessoas com discalculia a lidar com o dia a dia com mais confiança, menos stress e maior autonomia.<br><br>Se os números lhe parecem confusos, se tem dificuldade em gerir o tempo, se as contas são uma fonte de stress ou se fazer cálculos de cabeça é complicado, a Dysia oferece-lhe ferramentas concebidas para situações reais. Quer tenha um diagnóstico, suspeite que tem sintomas ou simplesmente tenha dificuldade em lidar com números, a Dysia foi criada para si.<br><br>O que é a discalculia?<br><br>A discalculia é uma dificuldade de aprendizagem que afeta a compreensão dos números, a perceção do tempo, os cálculos, a gestão do dinheiro, a orientação e a confiança ao lidar com números.<br>Muitas pessoas pesquisam o que é a discalculia ou perguntam-se por que motivo os números são mais difíceis para elas. A Dysia transforma este desafio em apoio prático para o dia a dia.<br><br>A Dysia é uma aplicação de apoio focada nos adultos e nas necessidades do quotidiano.<br>É um conjunto de ferramentas para a discalculia criado para ajudar a resolver problemas reais.<br><br>Concebida para adultos com discalculia.<br>A Dysia foi desenvolvida a pensar nos adultos: trabalho, compras, compromissos, transportes, restaurantes, dinheiro e autonomia.<br><br>Funcionalidades incluídas na Dysia:<br><br>Ferramentas de tempo e relógio<br>Leia as horas de um relógio analógico em formato digital<br><br>Converta horas em formato AM/PM para o formato de 24 horas<br>Saiba a que horas será o seu compromisso. Saiba a que horas deve sair para chegar a horas<br>Reduza a confusão relacionada com horários, prazos e reuniões<br><br>Ferramentas para dinheiro e compras<br>Pague na caixa com confiança<br>Utilize corretamente notas e moedas<br><br>Calcule gorjetas rapidamente<br>Veja se um desconto vale realmente a pena<br>Compare preços e números facilmente<br><br>Ferramentas para a discalculia no dia a dia<br>Compare números instantaneamente<br><br>Reduza os erros em situações de pressão<br>Concebida para aumentar a confiança<br><br>Como lidar melhor com a discalculia?<br>Não existe uma solução imediata, mas ferramentas práticas, estratégias, repetição e o apoio adequado podem tornar o dia a dia muito mais fácil.<br><br>Por que razão os utilizadores escolhem a Dysia?<br>Rápida e fácil de utilizar<br>Criada para situações reais da vida adulta<br>Útil tanto para pessoas com diagnóstico como para quem ainda não foi diagnosticado<br><br>Quer se identifique como uma pessoa com discalculia, tenha um diagnóstico de discalculia ou simplesmente procure apoio para lidar melhor com números, a Dysia ajuda a transformar momentos difíceis em situações mais fáceis de gerir.<br><br>O acesso às ferramentas da Dysia requer uma subscrição ativa.<br>Termos de Utilização: https://chess.earium.org/terms-of-use",
+      "summary": "Discalculia Tools for Adults",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 254,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "org.earium.dysia.dyscalculia.dyscalculie",
+      "url": "https://play.google.com/store/apps/details?id=org.earium.dysia.dyscalculia.dyscalculie&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Calculadora Científica Desmos",
+      "description": "Vá além da aritmética com a calculadora científica rápida e poderosa da Desmos! Além das operações básicas, aproveite uma variedade de funções integradas para explorar trigonometria, estatística, análise combinatória e muito mais. Ou defina e avalie suas próprias funções - tudo de graça.\n\nRecursos:\n\nAritmética: além das operações básicas, a calculadora científica também oferece suporte à exponenciação, radicais, valor absoluto, logaritmos, arredondamentos e porcentagens.\n\nTrigonometria: avalie as funções trigonométricas fundamentais e suas inversas, seja usando radianos ou graus para a medida dos ângulos.\n\nEstatística: calcule a média e o desvio padrão (amostra ou população) de uma lista de dados.\n\nAnálise combinatória: conte combinações e permutações e calcule fatoriais.\n\nOutros recursos:\nAcessibilidade: leia e edite equações usando um leitor de tela ou uma tela Braille atualizável.\n- Funciona offline, sem necessidade de conexão à Internet.\n- Crie e avalie suas próprias funções usando uma notação de função familiar.\n- Atribua valores a variáveis para uso posterior.\n- Veja várias expressões de uma só vez. Ao contrário de muitas calculadoras científicas, todo o seu trabalho anterior permanece visível na tela.\n- A tecla \"resp\" sempre mantém o valor do seu último cálculo para que você nunca precise se lembrar ou copiar um resultado. Se você alterar uma expressão anterior, o valor de \"resp\" será atualizado automaticamente.\n- Já falamos que ela é gratuita?\n\nSaiba mais em www.desmos.com e acesse www.desmos.com/scientific para ver a versão web gratuita da nossa calculadora científica.",
+      "descriptionHTML": "Vá além da aritmética com a calculadora científica rápida e poderosa da Desmos! Além das operações básicas, aproveite uma variedade de funções integradas para explorar trigonometria, estatística, análise combinatória e muito mais. Ou defina e avalie suas próprias funções - tudo de graça.<br><br>Recursos:<br><br>Aritmética: além das operações básicas, a calculadora científica também oferece suporte à exponenciação, radicais, valor absoluto, logaritmos, arredondamentos e porcentagens.<br><br>Trigonometria: avalie as funções trigonométricas fundamentais e suas inversas, seja usando radianos ou graus para a medida dos ângulos.<br><br>Estatística: calcule a média e o desvio padrão (amostra ou população) de uma lista de dados.<br><br>Análise combinatória: conte combinações e permutações e calcule fatoriais.<br><br>Outros recursos:<br>Acessibilidade: leia e edite equações usando um leitor de tela ou uma tela Braille atualizável.<br>- Funciona offline, sem necessidade de conexão à Internet.<br>- Crie e avalie suas próprias funções usando uma notação de função familiar.<br>- Atribua valores a variáveis para uso posterior.<br>- Veja várias expressões de uma só vez. Ao contrário de muitas calculadoras científicas, todo o seu trabalho anterior permanece visível na tela.<br>- A tecla &quot;resp&quot; sempre mantém o valor do seu último cálculo para que você nunca precise se lembrar ou copiar um resultado. Se você alterar uma expressão anterior, o valor de &quot;resp&quot; será atualizado automaticamente.<br>- Já falamos que ela é gratuita?<br><br>Saiba mais em www.desmos.com e acesse www.desmos.com/scientific para ver a versão web gratuita da nossa calculadora científica.",
+      "summary": "Explore aritmética, trigonometria, estatística, combinatória e muito mais.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1295209,
+      "score": 4.149254,
+      "scoreText": "4,1",
+      "ratings": 2285,
+      "reviews": 25,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.desmos.scientific",
+      "url": "https://play.google.com/store/apps/details?id=com.desmos.scientific&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "NumWorks Graphing Calculator",
+      "description": "O NumWorks projetou uma calculadora gráfica intuitiva e evolutiva para facilitar o aprendizado de matemática.\n\nVocê gostaria de descobrir a calculadora NumWorks? Você não tem sua calculadora NumWorks acessível? Baixe o aplicativo gratuito NumWorks para usar sua calculadora diretamente no seu telefone ou tablet!\n\n\n\nATUALIZAÇÕES FREQUENTES\nFreqüentemente lançamos atualizações de software para melhorar nossa calculadora, adicionando novos recursos e aprimorando a interface para fornecer uma calculadora cada vez mais poderosa.\n\nUMA CALCULADORA FEITA SOB MEDIDA\nTrabalhamos de perto com uma comunidade crescente de educadores e desenvolvedores para construir juntos a calculadora perfeita para a educação STEM.\n\nCÓDIGO EM PYTHON\nTemos orgulho de ter sido pioneira na primeira calculadora gráfica programável em Python. Para guiá-lo na descoberta do Python, fornecemos muitos exemplos adaptados às suas necessidades: https://workshop.numworks.com/python.\n\nDESCUBRA TODOS OS RECURSOS\nResolva equações e sistemas lineares\nFunções de gráfico\nCompute estatísticas em seus dados\nUse várias distribuições para calcular probabilidades\n\nVisite www.numworks.com para mais informações!",
+      "descriptionHTML": "O NumWorks projetou uma calculadora gráfica intuitiva e evolutiva para facilitar o aprendizado de matemática.<br><br>Você gostaria de descobrir a calculadora NumWorks? Você não tem sua calculadora NumWorks acessível? Baixe o aplicativo gratuito NumWorks para usar sua calculadora diretamente no seu telefone ou tablet!<br><br><br><br>ATUALIZAÇÕES FREQUENTES<br>Freqüentemente lançamos atualizações de software para melhorar nossa calculadora, adicionando novos recursos e aprimorando a interface para fornecer uma calculadora cada vez mais poderosa.<br><br>UMA CALCULADORA FEITA SOB MEDIDA<br>Trabalhamos de perto com uma comunidade crescente de educadores e desenvolvedores para construir juntos a calculadora perfeita para a educação STEM.<br><br>CÓDIGO EM PYTHON<br>Temos orgulho de ter sido pioneira na primeira calculadora gráfica programável em Python. Para guiá-lo na descoberta do Python, fornecemos muitos exemplos adaptados às suas necessidades: https://workshop.numworks.com/python.<br><br>DESCUBRA TODOS OS RECURSOS<br>Resolva equações e sistemas lineares<br>Funções de gráfico<br>Compute estatísticas em seus dados<br>Use várias distribuições para calcular probabilidades<br><br>Visite www.numworks.com para mais informações!",
+      "summary": "A calculadora gráfica que facilita o aprendizado de matemática.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 957685,
+      "score": 4.4210525,
+      "scoreText": "4,4",
+      "ratings": 1918,
+      "reviews": 11,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.numworks.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.numworks.calculator&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "AI Mathematical Calculator",
+      "description": "📱 Descrição do Aplicativo\nTransforme sua resolução de problemas matemáticos com o conjunto de calculadoras com IA mais avançado disponível! Seja você estudante, engenheiro, pesquisador ou entusiasta de matemática, esta ferramenta abrangente combina cálculos tradicionais com inteligência artificial de ponta para fornecer soluções passo a passo e explicações detalhadas.\n\n✨ Principais Recursos\n🔢 Vários Tipos de Calculadora\n\nCalculadora de Logaritmo - Resolva qualquer equação logarítmica\nCalculadora Exponencial - Lide com funções exponenciais complexas\nCalculadora de Trigonometria - Complete funções trigonométricas com graus/radianos\nCalculadora de Cálculo - Derivadas e integrais simplificadas\nCalculadora de Álgebra - Resolução de equações e fatoração\nSolucionador de Problemas com IA - Resolução de problemas matemáticos em linguagem natural\n🤖 Inteligência com Tecnologia de IA\n\nDetalhamento passo a passo da solução\nExplicações matemáticas detalhadas\nEntrada de problemas em linguagem natural\nExplicações e tutoriais de conceitos\nReconhecimento e formatação inteligente de fórmulas\n🎨 Interface Moderna e Bonita\n\nTema escuro futurista com animações em gradiente\nElementos de design com morfismo de vidro\nBotões curvos e suaves com efeitos premium\nLayout responsivo otimizado para dispositivos móveis\nControles sensíveis ao toque\n📱 Otimizado para dispositivos móveis\n\nPerfeito para dispositivos Android\nDesign responsivo para todos os tamanhos de tela\nLayouts de botões otimizados para toque\nPaisagem e retrato Suporte\nDesempenho rápido e fluido\n🎯 Perfeito para\n👨‍🎓 Estudantes - Obtenha ajuda com a lição de casa com explicações detalhadas 👩‍🔬 Pesquisadores - Resolva problemas matemáticos complexos rapidamente 👨‍💼 Engenheiros - Lide com cálculos técnicos com confiança 📚 Educadores - Demonstre conceitos matemáticos com clareza 🧠 Entusiastas da matemática - Explore relações matemáticas\n\n🚀 O que nos diferencia\nAo contrário das calculadoras básicas, nosso pacote com IA não apenas fornece respostas, mas também ensina! Obtenha soluções detalhadas passo a passo, entenda os conceitos matemáticos por trás de cada problema e aprenda enquanto calcula.\n\n💡 Como Funciona\nEscolha o tipo de calculadora na interface intuitiva com abas\nInsira seu problema ou valores matemáticos\nObtenha cálculos instantâneos com nossos algoritmos padrão\nClique em \"Explicação de IA\" para análises detalhadas e aprendizado\nUse o Solucionador de Problemas de IA para perguntas em linguagem natural\n🌟 Recursos Avançados\nRenderização MathJax - Bela exibição de notação matemática\nSuporte a LaTeX - Formatação profissional de equações\nMúltiplos Métodos de Entrada - Números, expressões e linguagem natural\nAtalhos de Teclado - Navegação Rápida (Ctrl+1-6)\nExportar Resultados - Salve e compartilhe seus cálculos\nCompatível Offline - Funciona sem internet para cálculos básicos\n🔒 Privacidade e Segurança\nSuas consultas e cálculos matemáticos são processados com segurança. Respeitamos sua privacidade e não armazenamos dados pessoais de cálculo.\n\n📈 Atualizações Regulares\nAprimoramos continuamente nossos algoritmos de IA e adicionamos novas funções matemáticas com base no feedback dos usuários. Fique ligado para novos recursos interessantes!\n\nBaixe agora e experimente o futuro do cálculo matemático!\n\nPalavras-chave: calculadora, matemática, IA, inteligência artificial, logaritmo, trigonometria, cálculo, álgebra, aluno, dever de casa, passo a passo, solucionador matemático, solucionador de equações, calculadora científica",
+      "descriptionHTML": "📱 Descrição do Aplicativo<br>Transforme sua resolução de problemas matemáticos com o conjunto de calculadoras com IA mais avançado disponível! Seja você estudante, engenheiro, pesquisador ou entusiasta de matemática, esta ferramenta abrangente combina cálculos tradicionais com inteligência artificial de ponta para fornecer soluções passo a passo e explicações detalhadas.<br><br>✨ Principais Recursos<br>🔢 Vários Tipos de Calculadora<br><br>Calculadora de Logaritmo - Resolva qualquer equação logarítmica<br>Calculadora Exponencial - Lide com funções exponenciais complexas<br>Calculadora de Trigonometria - Complete funções trigonométricas com graus/radianos<br>Calculadora de Cálculo - Derivadas e integrais simplificadas<br>Calculadora de Álgebra - Resolução de equações e fatoração<br>Solucionador de Problemas com IA - Resolução de problemas matemáticos em linguagem natural<br>🤖 Inteligência com Tecnologia de IA<br><br>Detalhamento passo a passo da solução<br>Explicações matemáticas detalhadas<br>Entrada de problemas em linguagem natural<br>Explicações e tutoriais de conceitos<br>Reconhecimento e formatação inteligente de fórmulas<br>🎨 Interface Moderna e Bonita<br><br>Tema escuro futurista com animações em gradiente<br>Elementos de design com morfismo de vidro<br>Botões curvos e suaves com efeitos premium<br>Layout responsivo otimizado para dispositivos móveis<br>Controles sensíveis ao toque<br>📱 Otimizado para dispositivos móveis<br><br>Perfeito para dispositivos Android<br>Design responsivo para todos os tamanhos de tela<br>Layouts de botões otimizados para toque<br>Paisagem e retrato Suporte<br>Desempenho rápido e fluido<br>🎯 Perfeito para<br>👨‍🎓 Estudantes - Obtenha ajuda com a lição de casa com explicações detalhadas 👩‍🔬 Pesquisadores - Resolva problemas matemáticos complexos rapidamente 👨‍💼 Engenheiros - Lide com cálculos técnicos com confiança 📚 Educadores - Demonstre conceitos matemáticos com clareza 🧠 Entusiastas da matemática - Explore relações matemáticas<br><br>🚀 O que nos diferencia<br>Ao contrário das calculadoras básicas, nosso pacote com IA não apenas fornece respostas, mas também ensina! Obtenha soluções detalhadas passo a passo, entenda os conceitos matemáticos por trás de cada problema e aprenda enquanto calcula.<br><br>💡 Como Funciona<br>Escolha o tipo de calculadora na interface intuitiva com abas<br>Insira seu problema ou valores matemáticos<br>Obtenha cálculos instantâneos com nossos algoritmos padrão<br>Clique em &quot;Explicação de IA&quot; para análises detalhadas e aprendizado<br>Use o Solucionador de Problemas de IA para perguntas em linguagem natural<br>🌟 Recursos Avançados<br>Renderização MathJax - Bela exibição de notação matemática<br>Suporte a LaTeX - Formatação profissional de equações<br>Múltiplos Métodos de Entrada - Números, expressões e linguagem natural<br>Atalhos de Teclado - Navegação Rápida (Ctrl+1-6)<br>Exportar Resultados - Salve e compartilhe seus cálculos<br>Compatível Offline - Funciona sem internet para cálculos básicos<br>🔒 Privacidade e Segurança<br>Suas consultas e cálculos matemáticos são processados com segurança. Respeitamos sua privacidade e não armazenamos dados pessoais de cálculo.<br><br>📈 Atualizações Regulares<br>Aprimoramos continuamente nossos algoritmos de IA e adicionamos novas funções matemáticas com base no feedback dos usuários. Fique ligado para novos recursos interessantes!<br><br>Baixe agora e experimente o futuro do cálculo matemático!<br><br>Palavras-chave: calculadora, matemática, IA, inteligência artificial, logaritmo, trigonometria, cálculo, álgebra, aluno, dever de casa, passo a passo, solucionador matemático, solucionador de equações, calculadora científica",
+      "summary": "Cálculos matemáticos avançados com tecnologia de inteligência artificial",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 35056,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.kreggscode.logcalc",
+      "url": "https://play.google.com/store/apps/details?id=com.kreggscode.logcalc&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Calculadora Gráfica Desmos",
+      "description": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.\n\nRecursos:\n\nGráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato \"y=\"!\n\nControles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.\n\nTabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.\n\nEstatística: encontre retas, parábolas e muito mais.\n\nAmpliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.\n\nPontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.\n\nCalculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.\n\nDesigualdades: plote desigualdades cartesianas e polares.\n\nAcessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.\n\nOffline: não é necessário acesso à Internet.\n\nAcesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "descriptionHTML": "Explore a matemática com a calculadora gráfica rápida e poderosa da Desmos. Plote qualquer equação, de retas e parábolas a derivadas e séries de Fourier. Adicione controles deslizantes para demonstrar transformações de funções, crie tabelas para inserir e plotar dados, anime seus gráficos e muito mais - tudo de graça.<br><br>Recursos:<br><br>Gráficos: plote gráficos polares, cartesianos ou paramétricos. Não há limite de quantas expressões você pode traçar no gráfico ao mesmo tempo, e nem precisa inserir expressões no formato &quot;y=&quot;!<br><br>Controles deslizantes: ajuste os valores de forma interativa para observar o resultado ou anime qualquer parâmetro para visualizar seu efeito no gráfico.<br><br>Tabelas: insira e plote dados ou crie uma tabela com dados de entrada e saída para qualquer função.<br><br>Estatística: encontre retas, parábolas e muito mais.<br><br>Ampliação: dimensione os eixos de forma independente ou ao mesmo tempo com dois dedos, ou edite o tamanho da janela de forma manual para obter a visualização desejada.<br><br>Pontos de interesse: toque em uma curva para exibir máximos, mínimos e pontos de interseção. Toque nos pontos de interesse em cinza para ver as coordenadas. Segure e arraste ao longo de uma curva para ver as coordenadas mudarem sob o seu dedo.<br><br>Calculadora científica: basta inserir qualquer equação que você quiser resolver e a Desmos exibirá a resposta. Ela pode lidar com raízes quadradas, logaritmos, valor absoluto e muito mais.<br><br>Desigualdades: plote desigualdades cartesianas e polares.<br><br>Acessibilidade: leia e edite expressões usando um leitor de tela ou um display Braille atualizável, e use o rastreamento sonoro para explorar gráficos e dados por meio de som.<br><br>Offline: não é necessário acesso à Internet.<br><br>Acesse www.desmos.com para saber mais e ver a versão web gratuita da nossa calculadora.",
+      "summary": "Plote funções e equações, crie tabelas, adicione controles e anime gráficos",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 10819585,
+      "score": 4.77,
+      "scoreText": "4,8",
+      "ratings": 36466,
+      "reviews": 220,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.desmos.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.desmos.calculator&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Derivative Calculator w/Steps",
+      "description": "Calcule derivadas de funções matemáticas e obtenha explicações passo a passo usando esta calculadora gratuita e fácil de usar. Este é o aplicativo oficial da calculadora online www.derivative-calculator.net. É necessária conexão com a Internet.\n\nRecursos do aplicativo:\n• Editor intuitivo para funções matemáticas\n• Derivadas passo a passo com explicações para cada regra aplicada\n• Provas para as derivadas de funções básicas\n• Suporta funções elementares (exponenciais, logaritmos, raízes, funções trigonométricas e hiperbólicas e suas inversas) e funções especiais (função de erro de Gauss, função gama, integral exponencial, etc.)\n• Calcule a primeira, segunda,…, quinta derivada\n• Encontre raízes/zeros de funções e suas derivadas\n• Diferenciação implícita\n• Compreenda melhor as funções com uma ferramenta gráfica interativa\n• Modo escuro opcional para economizar bateria em telas OLED\n• Vários idiomas suportados",
+      "descriptionHTML": "Calcule derivadas de funções matemáticas e obtenha explicações passo a passo usando esta calculadora gratuita e fácil de usar. Este é o aplicativo oficial da calculadora online www.derivative-calculator.net. É necessária conexão com a Internet.<br><br>Recursos do aplicativo:<br>• Editor intuitivo para funções matemáticas<br>• Derivadas passo a passo com explicações para cada regra aplicada<br>• Provas para as derivadas de funções básicas<br>• Suporta funções elementares (exponenciais, logaritmos, raízes, funções trigonométricas e hiperbólicas e suas inversas) e funções especiais (função de erro de Gauss, função gama, integral exponencial, etc.)<br>• Calcule a primeira, segunda,…, quinta derivada<br>• Encontre raízes/zeros de funções e suas derivadas<br>• Diferenciação implícita<br>• Compreenda melhor as funções com uma ferramenta gráfica interativa<br>• Modo escuro opcional para economizar bateria em telas OLED<br>• Vários idiomas suportados",
+      "summary": "Calcule derivadas passo a passo de funções matemáticas com explicações",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 714540,
+      "score": 4.8125,
+      "scoreText": "4,8",
+      "ratings": 2059,
+      "reviews": 13,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "de.david_scherfgen.derivative_calculator",
+      "url": "https://play.google.com/store/apps/details?id=de.david_scherfgen.derivative_calculator&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "ClassCalc Calculadora Gráfica",
+      "description": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.\n\nPaying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:\n1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.\n2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.\n3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.\n\nList Of Features:\n\nScientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):\n\nAlgebra, Advanced Statistics, Trigonometry, Calculus\nFeatures: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder\n\nGraphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):\n\nGraphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (& Precalculus)\nFeatures: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes \n\nMatrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): \n\nLinear Algebra\nFeatures: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.\n\nWhy do we need accessibility permissions when you're joining test mode?\nIn order to give teachers full trust that the students can't access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don't collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student's end - no data is sent over.\n\nContact: Info@classcalc.com",
+      "descriptionHTML": "Test-safe Statistics, Graphing, Scientific and Matrix Calculator. 100% Free. No Ads. No “upgrade To Unlock” Functions. All Equivalent Functions Of A Ti 84 Calculator, X84, Casio Calculator Or Hp Calculator.<br><br>Paying $100+ For A Ti 84 / Ti Nspire Graphing Calculator (Or Casio, Or Even Hp) Is Just Silly. Here’s Our Logic:<br>1. We’ve Built A Beautiful, Easy To Use Online Digital Calculator Right There On Your Phone.<br>2. The Problem Is, That You Can’t Use Your Phone On Tests, So You’re Stuck Paying $100+ For Your Calculator.<br>3. With Our Easy-to-use Test-mode Lockdown, You Can Now Use Classcalc On Tests. Teachers Can Ask Students To Temporarily Lock Their Own Devices* Out Of All Outside Distractions Such As Instagram, Calls And Texts, Keeping Students Focused In Class, And Preventing Cheating On Tests. Students Can Leave Test Mode Whenever, And Once They Do, The Teacher Is Notified.<br><br>List Of Features:<br><br>Scientific Calculator (Similar To Ti 30, Ti 84, Ti Nspire, X84 Hp Or Casio Calculator):<br><br>Algebra, Advanced Statistics, Trigonometry, Calculus<br>Features: Cos, Pi, Average, Ln, Basic Stats, Mode, Percentage, Roots, Sin, Tan, Gcd,  Indefinite Integral, Modulus, Sin-inverse, Convert Decimal To Fraction, Tangent, Trig Inverse, Exponents, Z Score Table, Z Score Finder<br><br>Graphing And Statistics Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator):<br><br>Graphing, Algebra , Advanced Statistics (Stats), Trigonometry, Calculus (&amp; Precalculus)<br>Features: Plot Functions, Anova, Binomial Distribution, Cdf, Chi Square Test, Derivative, Histogram, Log, Normal Distribution, Poisson Distribution, Polynomials, Tables, Min, Max, Graph Intercepts, Intersections, Parametric Equations, Polar Coordinates, T Test, Z Test, Mean, Median, Mode, Range, Combinations (Ncr), Permutations (Npr), Factorial, Standard Deviation, Variance, Sort, Linear Regression, Statistics Calc (Abscissae), Function, Polynomial Regression Graph, Exponential Regression Graph, Logarithmic Regression, Sinusoidal Regression, One Variable Statistics (1var Stats), Two Variable Statistics (2var Stats), T Distribution, Geometric Distribution (Works Similar To Ti Nspire Or X84), Chi Square Distribution Graph, Cumulative Distribution Function, Probability Density Function, Box Plots, Qq Plots (Normal Probability Plot), Hypothesis Testing, Statistical Testing, Z Score Proportion Testing, Interval Testing, Hypothesis Interval, T Interval, Integrals, Statistics Tools, Find Vertices Of A Graph, Exponential Equations, Quadratic Functions, Linear Functions, Linear Equations, Inverse Functions, Asymptotes, Radical Functions, Stats Testing, Roots, Conics, Circle, Ellipses, Parabolas, Hyperbolas, Trig Functions, Z Score Table, Absolute Value Functions, Z Score Distribution Exponential Growth, Exponential Decay, Graphical Representation (Graphic Calculator), Graph Amplitudes <br><br>Matrix Calculator (Similar To Ti 30, Ti 84, X84, Ti Nspire, Hp Or Casio Calculator): <br><br>Linear Algebra<br>Features: Determinant, Matrices, Inverse Matrix Calculator, Matrix Multiplication, Reduced Row Echelon Form, Row Echelon Form, System Of Equations, Transpose Matrix Calculator, Adding Matrices, Exponent Matrix Calculator, Root Matrix Calculator.<br><br>Why do we need accessibility permissions when you&#39;re joining test mode?<br>In order to give teachers full trust that the students can&#39;t access data from other apps while on test mode, we make use of the accessibility services to make sure the student is using ClassCalc and only ClassCalc. Your data is 100% safe. We don&#39;t collect any data displayed on the screen. We analyze the behavior locally and only ask the teacher to make sure everything is fine on the student&#39;s end - no data is sent over.<br><br>Contact: Info@classcalc.com",
+      "summary": "Gráfica, Estatística, Científica &amp; Matrizes. 100% gratuita. Sem anúncios.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 57457,
+      "score": 4.972973,
+      "scoreText": "5,0",
+      "ratings": 485,
+      "reviews": 26,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.classcalc.classcalc",
+      "url": "https://play.google.com/store/apps/details?id=com.classcalc.classcalc&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Calculadora de Derivadas",
+      "description": "Calculadora Derivada permite que você calcule funções matemáticas por meio de diferenciação. Este aplicativo solucionador de derivadas fornece uma solução passo a passo detalhada da derivação. Assim, você pode entender facilmente a implementação da fórmula derivada de dy/dx.\n\nO aplicativo de solução Derivada ajuda a resolver rapidamente o cálculo de derivadas. Você não precisa fazer cálculo manual de Derivação, quando você tem este aplicativo de calculadora de equação derivada. Insira a pergunta com os valores corretos, clique no botão calcular. Obtenha uma solução precisa com gráficos e plotagens usando esta Calculadora de Derivação com Etapas.\n\nFizemos esta calculadora de diferenciação com as técnicas mais recentes para Resolver Derivadas. É por isso que economiza muito do seu tempo. Você pode resolver sua atribuição e equações difíceis de deriv. Se você tem falta de tempo e está procurando um bom Aplicativo de Solução Derivada! Experimente esta calculadora de derivativos gratuita e obtenha resultados precisos.\n\nBenefícios do Solucionador de Derivadas Matemáticas\nÉ simples usar esta calculadora de cálculo derivado. Aqui estão alguns passos simples para professores e alunos de cálculo. Para que todos possam usar facilmente esta Calculadora de Derivativos.\n\nIniciantes: Ao usar a Calculadora diferencial para resolver a função, qualquer iniciante em diferenciação pode ter alguma prática que mais tarde os salvará em sua temporada de testes e exames.\n\nAlunos seniores:  Aqueles que já entendem de derivadas ainda podem usar este solucionador de derivação. Eles podem usá-lo para resolver suas tarefas ou aprender a avaliar qualquer questão desafiadora de derivar.\n\nProfessores: Sim, até os professores acharão útil este aplicativo de solução derivada. Ele pode ser usado para verificar atribuições ou remover qualquer ambiguidade, quando você chegar a um beco sem saída ao diferenciar usando esta calculadora dy/dx.\n\nQualquer um que queira aprender: Aqueles que não são alunos ou professores em algum instituto, mas apenas querem aprender derivadas, porque as acham interessantes (sim, muitas pessoas adoram matemática). Eles podem aprender facilmente a fórmula derivada e sua implementação com esta calculadora de cálculo com etapas.\nDa mesma forma, os escritores de artigos de matemática podem resolver exemplos de cálculo de derivadas aqui que desejam adicionar às suas postagens.\n\nRecursos da Calculadora de Derivativos\n- Bom para alunos e professores de cálculo.\n- Implementação de fórmula com etapas.\n- Solucionador derivado de trabalho suave.\n- Suporta quase todos os dispositivos.\n- Aplicativo de Calculadora de Derivação muito leve.\n- Cálculo rápido de derivadas com gráficos e plotagens.\n- Fácil de encontrar a derivada de uma função.\n- Faça cálculos ilimitados de Derivativos gratuitamente.\n\nDiferenciação Múltipla\nVocê pode diferenciar a mesma função para primeira, segunda, terceira, quarta e quinta derivadas. Tudo o que você precisa fazer é inserir o número na caixa rotulada de derivada.\n\nSolução passo a passo\nA calculadora de diferenciação derivada T fornece a solução completa que contém todas as etapas da derivação. Isso ajuda muito a entender os derivados.\n\nEstas foram algumas das muitas funcionalidades, que ajudam você a resolver de forma fácil e rápida as complexas equações de derivação. Este Resolvedor de Derivadas Matemáticas será seu aplicativo favorito para Resolver Derivadas, depois de usá-lo uma vez.\n\nTemos certeza de que você vai gostar desta Calculadora de Derivativos. Porque é simples de usar e fornece soluções precisas de derivadas com etapas. Gostaríamos muito de ouvir suas opiniões e sugestões sobre esta Calculadora De Derivadas de cálculo. Assim, poderemos melhorar o cálculo da derivada de acordo com suas sugestões e torná-lo um Aplicativo de Solução de Derivadas maravilhoso e excelente.",
+      "descriptionHTML": "Calculadora Derivada permite que você calcule funções matemáticas por meio de diferenciação. Este <b>aplicativo solucionador de derivadas</b> fornece uma solução passo a passo detalhada da derivação. Assim, você pode entender facilmente a implementação da fórmula derivada de dy/dx.<br><br>O aplicativo de solução Derivada ajuda a resolver rapidamente o cálculo de derivadas. Você não precisa fazer cálculo manual de <b>Derivação</b>, quando você tem este aplicativo de calculadora de equação derivada. Insira a pergunta com os valores corretos, clique no botão calcular. Obtenha uma solução precisa com gráficos e plotagens usando esta <b>Calculadora de Derivação com Etapas</b>.<br><br>Fizemos esta calculadora de diferenciação com as técnicas mais recentes para <b>Resolver Derivadas</b>. É por isso que economiza muito do seu tempo. Você pode resolver sua atribuição e equações difíceis de <b>deriv</b>. Se você tem falta de tempo e está procurando um bom <b>Aplicativo de Solução Derivada</b>! Experimente esta calculadora de derivativos gratuita e obtenha resultados precisos.<br><br><h2>Benefícios do Solucionador de Derivadas Matemáticas</h2><br>É simples usar esta calculadora de cálculo derivado. Aqui estão alguns passos simples para professores e alunos de cálculo. Para que todos possam usar facilmente esta Calculadora de Derivativos.<br><br><b>Iniciantes:</b> Ao usar a Calculadora diferencial para resolver a função, qualquer iniciante em diferenciação pode ter alguma prática que mais tarde os salvará em sua temporada de testes e exames.<br><br>Alunos seniores:  Aqueles que já entendem de derivadas ainda podem usar este solucionador de derivação. Eles podem usá-lo para resolver suas tarefas ou aprender a avaliar qualquer questão desafiadora de <b>derivar</b>.<br><br>Professores: Sim, até os professores acharão útil este aplicativo de solução derivada. Ele pode ser usado para verificar atribuições ou remover qualquer ambiguidade, quando você chegar a um beco sem saída ao diferenciar usando esta <b>calculadora dy/dx</b>.<br><br><b>Qualquer um que queira aprender:</b> Aqueles que não são alunos ou professores em algum instituto, mas apenas querem aprender derivadas, porque as acham interessantes (sim, muitas pessoas adoram matemática). Eles podem aprender facilmente a fórmula derivada e sua implementação com esta calculadora de cálculo com etapas.<br>Da mesma forma, os escritores de artigos de matemática podem resolver exemplos de cálculo de derivadas aqui que desejam adicionar às suas postagens.<br><br><h2>Recursos da Calculadora de Derivativos</h2><br>- Bom para alunos e professores de cálculo.<br>- Implementação de fórmula com etapas.<br>- Solucionador derivado de trabalho suave.<br>- Suporta quase todos os dispositivos.<br>- Aplicativo de Calculadora de Derivação muito leve.<br>- Cálculo rápido de derivadas com gráficos e plotagens.<br>- Fácil de encontrar a derivada de uma função.<br>- Faça cálculos ilimitados de <b>Derivativos</b> gratuitamente.<br><br><b>Diferenciação Múltipla</b><br>Você pode diferenciar a mesma função para primeira, segunda, terceira, quarta e quinta derivadas. Tudo o que você precisa fazer é inserir o número na caixa rotulada de derivada.<br><br><b>Solução passo a passo</b><br>A calculadora de diferenciação derivada T fornece a solução completa que contém todas as etapas da <b>derivação</b>. Isso ajuda muito a entender os derivados.<br><br>Estas foram algumas das muitas funcionalidades, que ajudam você a resolver de forma fácil e rápida as complexas equações de derivação. Este <b>Resolvedor de Derivadas Matemáticas</b> será seu aplicativo favorito para Resolver Derivadas, depois de usá-lo uma vez.<br><br>Temos certeza de que você vai gostar desta Calculadora de Derivativos. Porque é simples de usar e fornece soluções precisas de derivadas com etapas. Gostaríamos muito de ouvir suas opiniões e sugestões sobre esta Calculadora De Derivadas de cálculo. Assim, poderemos melhorar o cálculo da derivada de acordo com suas sugestões e torná-lo um <b>Aplicativo de Solução de Derivadas</b> maravilhoso e excelente.",
+      "summary": "Resolver funções Derivadas passo a passo com a Calculadora de Derivadas.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 58281,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.enzipe.derivativecalculator",
+      "url": "https://play.google.com/store/apps/details?id=com.enzipe.derivativecalculator&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "iCalc: Kids Calculator",
+      "description": "iCalc Kids – A Calculadora Visual que Facilita a Matemática!\n\nAjude as crianças a entender matemática por meio de animações divertidas, sons e aprendizado visual.\n\nAo contrário das calculadoras tradicionais, o iCalc Kids mostra os números usando objetos coloridos, animais, frutas, brinquedos e muito mais, tornando a adição, subtração, multiplicação e divisão fáceis de entender.\n\nPerfeito para crianças em idade pré-escolar, alunos do jardim de infância e crianças pequenas em fase de aprendizado.\n\nPor que as crianças adoram o iCalc?\n\n🎨 Aprendizado Visual\n\nVeja a matemática ganhar vida com objetos coloridos.\n\nExemplo:\n\n🍎 + 🍎🍎 = 🍎🍎🍎\n\nAs crianças podem ver como os números funcionam em vez de apenas ler a resposta.\n\n🔢 Calculadora Ideal para Crianças\n\nCalculadora simples e fácil de usar, projetada especificamente para crianças.\n\nSuporta:\n\n✓ Adição\n\n✓ Subtração\n\n✓ Multiplicação\n\n✓ Divisão\n\n🎵 Sons divertidos e instruções por voz\n\nCada toque de botão reproduz efeitos sonoros envolventes.\n\nOuça os números falados em voz alta e acompanhe as explicações matemáticas completas.\n\nExemplo:\n\n\"Três mais dois é igual a cinco.\"\n\n✨ Animações interativas\n\nAs operações matemáticas são demonstradas com animações suaves e empolgantes.\n\n• Objetos se movem e se combinam\n\n• Itens são removidos para a subtração\n\n• A multiplicação mostra os grupos\n\n• A divisão mostra a divisão igualitária\n\n🐶 Muitos temas divertidos\n\nAprenda com:\n\n• Frutas\n\n• Animais\n\n• Brinquedos\n\n• Objetos espaciais\n\n• Elementos da natureza\n\n• Comidas e guloseimas\n\nCada cálculo parece novo e empolgante.\n\n👨‍👩‍👧 Projetado para Crianças\n\n• Botões grandes\n\n• Cores vibrantes\n\n• Navegação fácil\n\n• Interface amigável para crianças\n\n• Sem recursos complicados\n\n• Ambiente de aprendizado seguro\n\nBenefícios do Aprendizado\n\n• Reconhecimento de números\n\n• Habilidades de contagem\n\n• Prática de adição\n\n• Compreensão da subtração\n\n• Conceitos de multiplicação\n\n• Conceitos de divisão\n\n• Aprendizado visual\n\n• Confiança inicial em matemática\n\nPerfeito para\n\n• Crianças em idade pré-escolar\n\n• Alunos do jardim de infância\n\n• Alunos do ensino fundamental\n\n• Pais que ensinam matemática em casa\n\n• Professores e salas de aula\n\nRecursos\n\n⭐ Calculadora visual\n\n⭐ Demonstrações matemáticas animadas\n\n⭐ Narração em voz alta\n\n⭐ Efeitos sonoros\n\n⭐ Vários temas de aprendizado\n\n⭐ Design simples e amigável para crianças\n\n⭐ Funciona offline\n\n⭐ Não requer internet\n\n⭐ Educativo e divertido\n\nTorne o aprendizado da matemática divertido com o iCalc Kids e ajude seu filho A criança desenvolve confiança através da aprendizagem visual e interativa.\n\nBaixe hoje mesmo e transforme cálculos do dia a dia em divertidas aventuras de aprendizagem!",
+      "descriptionHTML": "iCalc Kids – A Calculadora Visual que Facilita a Matemática!<br><br>Ajude as crianças a entender matemática por meio de animações divertidas, sons e aprendizado visual.<br><br>Ao contrário das calculadoras tradicionais, o iCalc Kids mostra os números usando objetos coloridos, animais, frutas, brinquedos e muito mais, tornando a adição, subtração, multiplicação e divisão fáceis de entender.<br><br>Perfeito para crianças em idade pré-escolar, alunos do jardim de infância e crianças pequenas em fase de aprendizado.<br><br>Por que as crianças adoram o iCalc?<br><br>🎨 Aprendizado Visual<br><br>Veja a matemática ganhar vida com objetos coloridos.<br><br>Exemplo:<br><br>🍎 + 🍎🍎 = 🍎🍎🍎<br><br>As crianças podem ver como os números funcionam em vez de apenas ler a resposta.<br><br>🔢 Calculadora Ideal para Crianças<br><br>Calculadora simples e fácil de usar, projetada especificamente para crianças.<br><br>Suporta:<br><br>✓ Adição<br><br>✓ Subtração<br><br>✓ Multiplicação<br><br>✓ Divisão<br><br>🎵 Sons divertidos e instruções por voz<br><br>Cada toque de botão reproduz efeitos sonoros envolventes.<br><br>Ouça os números falados em voz alta e acompanhe as explicações matemáticas completas.<br><br>Exemplo:<br><br>&quot;Três mais dois é igual a cinco.&quot;<br><br>✨ Animações interativas<br><br>As operações matemáticas são demonstradas com animações suaves e empolgantes.<br><br>• Objetos se movem e se combinam<br><br>• Itens são removidos para a subtração<br><br>• A multiplicação mostra os grupos<br><br>• A divisão mostra a divisão igualitária<br><br>🐶 Muitos temas divertidos<br><br>Aprenda com:<br><br>• Frutas<br><br>• Animais<br><br>• Brinquedos<br><br>• Objetos espaciais<br><br>• Elementos da natureza<br><br>• Comidas e guloseimas<br><br>Cada cálculo parece novo e empolgante.<br><br>👨‍👩‍👧 Projetado para Crianças<br><br>• Botões grandes<br><br>• Cores vibrantes<br><br>• Navegação fácil<br><br>• Interface amigável para crianças<br><br>• Sem recursos complicados<br><br>• Ambiente de aprendizado seguro<br><br>Benefícios do Aprendizado<br><br>• Reconhecimento de números<br><br>• Habilidades de contagem<br><br>• Prática de adição<br><br>• Compreensão da subtração<br><br>• Conceitos de multiplicação<br><br>• Conceitos de divisão<br><br>• Aprendizado visual<br><br>• Confiança inicial em matemática<br><br>Perfeito para<br><br>• Crianças em idade pré-escolar<br><br>• Alunos do jardim de infância<br><br>• Alunos do ensino fundamental<br><br>• Pais que ensinam matemática em casa<br><br>• Professores e salas de aula<br><br>Recursos<br><br>⭐ Calculadora visual<br><br>⭐ Demonstrações matemáticas animadas<br><br>⭐ Narração em voz alta<br><br>⭐ Efeitos sonoros<br><br>⭐ Vários temas de aprendizado<br><br>⭐ Design simples e amigável para crianças<br><br>⭐ Funciona offline<br><br>⭐ Não requer internet<br><br>⭐ Educativo e divertido<br><br>Torne o aprendizado da matemática divertido com o iCalc Kids e ajude seu filho A criança desenvolve confiança através da aprendizagem visual e interativa.<br><br>Baixe hoje mesmo e transforme cálculos do dia a dia em divertidas aventuras de aprendizagem!",
+      "summary": "Aprenda matemática com animações divertidas, sons, contagem e objetos visuais.",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 36,
+      "price": 0,
+      "originalPrice": 8.49,
+      "discountEndDate": "A promoção termina em 9 dias",
+      "free": true,
+      "currency": "BRL",
+      "priceText": "R$ 0,00",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dowble.icalc",
+      "url": "https://play.google.com/store/apps/details?id=com.dowble.icalc&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Graphing calculator plus 84 83",
+      "description": "A calculadora gráfica científica 84 plus oferece muitos recursos úteis para os alunos:\n- A calculadora gráfica 83 plus suporta gráficos, desenhar gráficos de muitas funções, como paramétricas, polares e funções\n- Calculadora gráfica científica 84 além de funcionar bem como calculadora t1 83 com suporte ao solucionador de equações, descoberta de raiz de newton e cálculo de fração.\n- Calculadora Graphncalc 89 plus inclui calculadora integral, derivada simbólica\n- Estatística e regressão: uma estatística de variável e estatística de duas variáveis, regressão linear, quadrática, quártica, ...\n\nEsta calculadora gráfica 84 plus emula como um emulador 84 plus, os alunos podem usar como instrumentos ferramentas para o dever de casa.\nO solucionador de equações robusto pode resolver todas as equações, como 83 x ^ 4 - 84 x ^ 3 + 89 x = 83\nPor fim, grafischer taschenrechner 84 inclui documentação e exemplos completos de funções.",
+      "descriptionHTML": "A calculadora gráfica científica 84 plus oferece muitos recursos úteis para os alunos:<br>- A calculadora gráfica 83 plus suporta gráficos, desenhar gráficos de muitas funções, como paramétricas, polares e funções<br>- Calculadora gráfica científica 84 além de funcionar bem como calculadora t1 83 com suporte ao solucionador de equações, descoberta de raiz de newton e cálculo de fração.<br>- Calculadora Graphncalc 89 plus inclui calculadora integral, derivada simbólica<br>- Estatística e regressão: uma estatística de variável e estatística de duas variáveis, regressão linear, quadrática, quártica, ...<br><br>Esta calculadora gráfica 84 plus emula como um emulador 84 plus, os alunos podem usar como instrumentos ferramentas para o dever de casa.<br>O solucionador de equações robusto pode resolver todas as equações, como 83 x ^ 4 - 84 x ^ 3 + 89 x = 83<br>Por fim, grafischer taschenrechner 84 inclui documentação e exemplos completos de funções.",
+      "summary": "Calculadora gráfica robusta 84, 83, solucionador de equações, álgebra, matemática e frações",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1658807,
+      "score": 4.78,
+      "scoreText": "4,8",
+      "ratings": 13920,
+      "reviews": 126,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "scientific.graphing.calculator.t84.t36.t83",
+      "url": "https://play.google.com/store/apps/details?id=scientific.graphing.calculator.t84.t36.t83&hl=pt&gl=br",
+      "rank": 21
+    },
+    {
+      "title": "Scientific Calculator Panecal",
+      "description": "A calculadora científica Panecal pode exibir e corrigir fórmulas matemáticas. Você pode usá-lo para verificar as fórmulas, o que permite evitar erros de entrada. O Panecal possui funções como editar e recalcular fórmulas inseridas no passado. Você pode calcular rapidamente usando fórmulas no passado.\n\nUm cursor é exibido na tela e você pode tocar na tela ou pressionar as teclas de seta para mover rapidamente para o local que deseja editar. O Panecal permite deslizar para rolar pelas fórmulas, além de copiar e colar usando toques longos, o que o torna um aplicativo forte e flexível com uma interface de usuário intuitiva.\n\nRecursos\n- Edição fácil usando uma operação do cursor\n- Copie e cole texto\n- Histórico de expressões e tabela de histórico de respostas\n- Cálculo e conversão do número N-base (Max.32bits)\n- Memória e memória variável (A-F)\n- Operações aritméticas, funções trigonométricas, funções logarítmicas, graus-minutos-segundos e cálculos percentuais\n- Unidades angulares (DEG, RAD, GRAD)\n- Caracteres de ponto decimal e configurações do separador de agrupamento\n- Configurações de retrato e horizontal\n- Configurações de vibração\n\n\naviso Legal\nObserve com antecedência que a Appsys não é responsável por danos ou lucros cessantes causados ​​pelo uso deste software ou por quaisquer reclamações de terceiros.",
+      "descriptionHTML": "A calculadora científica Panecal pode exibir e corrigir fórmulas matemáticas. Você pode usá-lo para verificar as fórmulas, o que permite evitar erros de entrada. O Panecal possui funções como editar e recalcular fórmulas inseridas no passado. Você pode calcular rapidamente usando fórmulas no passado.<br><br>Um cursor é exibido na tela e você pode tocar na tela ou pressionar as teclas de seta para mover rapidamente para o local que deseja editar. O Panecal permite deslizar para rolar pelas fórmulas, além de copiar e colar usando toques longos, o que o torna um aplicativo forte e flexível com uma interface de usuário intuitiva.<br><br>Recursos<br>- Edição fácil usando uma operação do cursor<br>- Copie e cole texto<br>- Histórico de expressões e tabela de histórico de respostas<br>- Cálculo e conversão do número N-base (Max.32bits)<br>- Memória e memória variável (A-F)<br>- Operações aritméticas, funções trigonométricas, funções logarítmicas, graus-minutos-segundos e cálculos percentuais<br>- Unidades angulares (DEG, RAD, GRAD)<br>- Caracteres de ponto decimal e configurações do separador de agrupamento<br>- Configurações de retrato e horizontal<br>- Configurações de vibração<br><br><br>aviso Legal<br>Observe com antecedência que a Appsys não é responsável por danos ou lucros cessantes causados ​​pelo uso deste software ou por quaisquer reclamações de terceiros.",
+      "summary": "Para engenheiros e estudantes",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 9981932,
+      "score": 4.9,
+      "scoreText": "4,9",
+      "ratings": 69434,
+      "reviews": 927,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "jp.ne.kutu.Panecal",
+      "url": "https://play.google.com/store/apps/details?id=jp.ne.kutu.Panecal&hl=pt&gl=br",
+      "rank": 22
+    },
+    {
+      "title": "Maple Calculator: Math Solver",
+      "description": "Desenvolvido pelo Maple, o mecanismo matemático mais poderoso do mundo, esta calculadora multifuncional resolve problemas matemáticos, gera visualizações 2D e 3D e fornece soluções passo a passo para uma ampla variedade de problemas de trabalhos de casa de matemática encontrados no ensino médio e na universidade.\n\n💯SOLUÇÕES DE MATEMÁTICA PASSO A PASSO PARA DEVER DE CASA: Este aplicativo é uma calculadora gráfica, calculadora científica, calculadora de álgebra, calculadora de cálculo e calculadora de integração combinadas em um só! Tire uma foto do seu problema usando a câmera do seu telefone ou insira-a através do editor matemático integrado do aplicativo para ver a resposta final ou obter soluções passo a passo.\n\n⚡️SOLUCIONADOR DE MATEMÁTICA RÁPIDO E PODEROSO: Não importa como você insira seu problema, você pode encontrar derivadas e integrais, fatorar polinômios, inverter matrizes, resolver sistemas de equações, resolver EDOs e muito mais. Nossa calculadora tem o poder do mecanismo matemático Maple, líder mundial, por trás dela, então ela pode fazer MUITA matemática!\n\n📊PROBLEMAS E RESULTADOS GRÁFICOS: Veja gráficos 2D e 3D de suas expressões instantaneamente e observe como o gráfico muda conforme você altera a expressão. Nesta calculadora você pode ampliar, deslocar e até girar gráficos 3D para ver mais de perto as áreas de interesse.\n\nCARACTERÍSTICAS:\n• Insira problemas matemáticos usando sua câmera ou desenhando-os com a paleta de escrita manual ou digitando diretamente com o teclado matemático integrado\n • Faça todos os tipos de operações matemáticas e obtenha soluções passo a passo\n• Obtenha respostas mesmo quando estiver off-line\n• Faça anotações matemáticas de qualidade através do Maple Learn. Use a câmera da calculadora para enviar automaticamente suas etapas manuscritas para o Maple. Aprenda onde você pode descobrir erros e compartilhar seu trabalho com outras pessoas.\n• Você pode fazer upload de expressões matemáticas de nossa calculadora para o Maple Desktop\n• Suporte a idiomas internacionais (inglês, espanhol, francês, alemão, russo, dinamarquês, sueco, japonês, hindi e chinês simplificado)\n\nCAPACIDADES MATEMÁTICAS EM NOSSA CALCULADORA:\n• Matemática Básica: Aritmética, Frações, Decimais, Inteiros, Fatores, Raízes Quadradas, Potências\n• Álgebra: resolução e representação gráfica de equações lineares, resolução e representação gráfica de sistemas de equações, trabalho com polinômios, equações quadráticas e funções, funções logarítmicas e exponenciais, funções trigonométricas, identidades trigonométricas\n• Pré-cálculo: gráficos, funções por partes, valor absoluto, desigualdades, funções implícitas\n• Álgebra Linear: Encontrando o Determinante, Inverso, Transposto, Autovalores e Autovetores, Resolvendo Matrizes (Forma Escalonada Reduzida e Eliminação Gaussiana)\n• Equações Diferenciais: Resolvendo Equações Diferenciais Ordinárias\n• E mais",
+      "descriptionHTML": "Desenvolvido pelo Maple, o mecanismo matemático mais poderoso do mundo, esta calculadora multifuncional resolve problemas matemáticos, gera visualizações 2D e 3D e fornece soluções passo a passo para uma ampla variedade de problemas de trabalhos de casa de matemática encontrados no ensino médio e na universidade.<br><br>💯SOLUÇÕES DE MATEMÁTICA PASSO A PASSO PARA DEVER DE CASA: Este aplicativo é uma calculadora gráfica, calculadora científica, calculadora de álgebra, calculadora de cálculo e calculadora de integração combinadas em um só! Tire uma foto do seu problema usando a câmera do seu telefone ou insira-a através do editor matemático integrado do aplicativo para ver a resposta final ou obter soluções passo a passo.<br><br>⚡️SOLUCIONADOR DE MATEMÁTICA RÁPIDO E PODEROSO: Não importa como você insira seu problema, você pode encontrar derivadas e integrais, fatorar polinômios, inverter matrizes, resolver sistemas de equações, resolver EDOs e muito mais. Nossa calculadora tem o poder do mecanismo matemático Maple, líder mundial, por trás dela, então ela pode fazer MUITA matemática!<br><br>📊PROBLEMAS E RESULTADOS GRÁFICOS: Veja gráficos 2D e 3D de suas expressões instantaneamente e observe como o gráfico muda conforme você altera a expressão. Nesta calculadora você pode ampliar, deslocar e até girar gráficos 3D para ver mais de perto as áreas de interesse.<br><br>CARACTERÍSTICAS:<br>• Insira problemas matemáticos usando sua câmera ou desenhando-os com a paleta de escrita manual ou digitando diretamente com o teclado matemático integrado<br> • Faça todos os tipos de operações matemáticas e obtenha soluções passo a passo<br>• Obtenha respostas mesmo quando estiver off-line<br>• Faça anotações matemáticas de qualidade através do Maple Learn. Use a câmera da calculadora para enviar automaticamente suas etapas manuscritas para o Maple. Aprenda onde você pode descobrir erros e compartilhar seu trabalho com outras pessoas.<br>• Você pode fazer upload de expressões matemáticas de nossa calculadora para o Maple Desktop<br>• Suporte a idiomas internacionais (inglês, espanhol, francês, alemão, russo, dinamarquês, sueco, japonês, hindi e chinês simplificado)<br><br>CAPACIDADES MATEMÁTICAS EM NOSSA CALCULADORA:<br>• Matemática Básica: Aritmética, Frações, Decimais, Inteiros, Fatores, Raízes Quadradas, Potências<br>• Álgebra: resolução e representação gráfica de equações lineares, resolução e representação gráfica de sistemas de equações, trabalho com polinômios, equações quadráticas e funções, funções logarítmicas e exponenciais, funções trigonométricas, identidades trigonométricas<br>• Pré-cálculo: gráficos, funções por partes, valor absoluto, desigualdades, funções implícitas<br>• Álgebra Linear: Encontrando o Determinante, Inverso, Transposto, Autovalores e Autovetores, Resolvendo Matrizes (Forma Escalonada Reduzida e Eliminação Gaussiana)<br>• Equações Diferenciais: Resolvendo Equações Diferenciais Ordinárias<br>• E mais",
+      "summary": "Obtenha ajuda com sua lição de matemática com esta calculadora de matemática tudo-em-um",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 5871035,
+      "score": 4.66,
+      "scoreText": "4,7",
+      "ratings": 14710,
+      "reviews": 84,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.maplesoft.companion",
+      "url": "https://play.google.com/store/apps/details?id=com.maplesoft.companion&hl=pt&gl=br",
+      "rank": 23
+    },
+    {
+      "title": "Scientific Calculator App",
+      "description": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.\n\nSe você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.\n\nEste aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.\n\n🔢 Recursos da Calculadora Científica\n\n• Funções avançadas de calculadora científica\n• Expressões algébricas e cálculos simbólicos\n• Funções trigonométricas: seno, cosseno, tangente\n• Funções logarítmicas: logaritmo, ln\n• Raiz quadrada, potência, porcentagem e constantes (π)\n• Cálculos com frações e decimais\n• Parênteses e expressões complexas\n• Cálculos com precisão arbitrária\n• Suporte para aritmética intervalar\n• Variáveis ​​e constantes matemáticas\n• Suporte para propagação de incertezas\n• Recursos de plotagem para funções matemáticas\n• Suporta valores numéricos grandes e pequenos\n• Uso offline da calculadora científica\n\n📐 Cálculos Suportados\n\n• Operações aritméticas básicas\n• Expressões algébricas e matemáticas\n• Cálculos trigonométricos\n• Funções logarítmicas e exponenciais\n• Fórmulas científicas e estatísticas\n• Cálculos matemáticos de alta precisão\n\n🎓 Quem Pode Usar Esta Calculadora Científica\n\n• Estudantes do ensino fundamental, médio e superior\n• Professores e educadores\n• Engenheiros e profissionais técnicos\n• Para quem precisa de um aplicativo de calculadora científica avançada\n\nEste aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "descriptionHTML": "O aplicativo Calculadora Científica é uma calculadora científica fácil de usar, projetada para cálculos matemáticos avançados com alta precisão e confiabilidade. Esta calculadora científica avançada suporta expressões algébricas, funções trigonométricas, cálculos logarítmicos, variáveis ​​e constantes comumente usadas em escolas, faculdades e ambientes profissionais.<br><br>Se você procura um aplicativo de calculadora científica de verdade para resultados precisos e consistentes, esta calculadora científica oferece ferramentas matemáticas poderosas para cálculos do dia a dia e matemática de nível superior. De aritmética básica a cálculos científicos avançados, o aplicativo foi desenvolvido para lidar com expressões complexas com precisão.<br><br>Este aplicativo de calculadora científica fácil de usar é adequado para estudantes, professores, engenheiros e profissionais que precisam de uma calculadora científica confiável para trabalhos acadêmicos e profissionais.<br><br><b>🔢 Recursos da Calculadora Científica</b><br><br>• Funções avançadas de calculadora científica<br>• Expressões algébricas e cálculos simbólicos<br>• Funções trigonométricas: seno, cosseno, tangente<br>• Funções logarítmicas: logaritmo, ln<br>• Raiz quadrada, potência, porcentagem e constantes (π)<br>• Cálculos com frações e decimais<br>• Parênteses e expressões complexas<br>• Cálculos com precisão arbitrária<br>• Suporte para aritmética intervalar<br>• Variáveis ​​e constantes matemáticas<br>• Suporte para propagação de incertezas<br>• Recursos de plotagem para funções matemáticas<br>• Suporta valores numéricos grandes e pequenos<br>• Uso offline da calculadora científica<br><br>📐 Cálculos Suportados<br><br>• Operações aritméticas básicas<br>• Expressões algébricas e matemáticas<br>• Cálculos trigonométricos<br>• Funções logarítmicas e exponenciais<br>• Fórmulas científicas e estatísticas<br>• Cálculos matemáticos de alta precisão<br><br>🎓 Quem Pode Usar Esta Calculadora Científica<br><br>• Estudantes do ensino fundamental, médio e superior<br>• Professores e educadores<br>• Engenheiros e profissionais técnicos<br>• Para quem precisa de um aplicativo de calculadora científica avançada<br><br>Este aplicativo de calculadora científica oferece uma interface limpa e simples, focada na usabilidade, precisão e desempenho matemático consistente em dispositivos Android. Seja para uso diário, com uma calculadora científica fácil de usar, ou para cálculos profissionais avançados, este aplicativo fornece resultados precisos e confiáveis.",
+      "summary": "Aplicativo de calculadora científica fácil de usar para cálculos matemáticos avançados.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 183791,
+      "score": 3.6875,
+      "scoreText": "3,7",
+      "ratings": 618,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.aicalc.scientific.calculator",
+      "url": "https://play.google.com/store/apps/details?id=com.aicalc.scientific.calculator&hl=pt&gl=br",
+      "rank": 24
+    },
+    {
+      "title": "calculadora de raiz quadrada",
+      "description": "Este é um aplicativo de calculadora simples para calcular raízes quadradas e potências.\nCom esta poderosa ferramenta, você pode encontrar facilmente as raízes de um número.\n\n■Recursos.\n1. Cálculo da raiz quadrada: calcule instantaneamente a raiz quadrada de um número. Ele exibe os resultados com alto grau de precisão e permite obter a raiz quadrada exata sem se preocupar com cálculos complicados.\n2. computação de poderes de poderes: suporta o cálculo de vários poderes, como poderes de 2, 3 e qualquer n-quadrado. Multiplique facilmente números em potências para resolver rapidamente cálculos complexos.\n3. cálculos usando parênteses: O uso de parênteses em fórmulas esclarece a precedência e permite que cálculos complexos sejam executados com precisão. Por exemplo, cálculos como √(2+3) podem ser facilmente executados.\n4. Interface simples: PowerRoot oferece uma interface fácil de usar. A operação intuitiva permite que você obtenha rapidamente os resultados dos cálculos.\n\n■ Vantagens de usar este aplicativo\nAs vantagens de usar a \"Calculadora de Raiz Quadrada Simples\" são as seguintes:\n\n1. operação fácil: Calculadora de Raiz Quadrada Simples fornece uma interface intuitiva e é simples de usar. Os usuários podem realizar cálculos rapidamente.\n\n2. Cálculos altamente precisos: o aplicativo realiza cálculos de raiz quadrada com alta precisão. Resultados confiáveis ​​são obtidos, mesmo quando a precisão matemática é necessária.\n\n3. características convenientes: Calculadora de Raiz Quadrada Simples suporta cálculos envolvendo parênteses e outros operadores matemáticos (como potências). Ele pode ser usado para uma variedade de necessidades computacionais.\n\n4. Uso diário: O aplicativo é útil para uma variedade de cálculos na vida cotidiana. Por exemplo, é útil em situações em que são necessários cálculos de raiz quadrada, como cálculos de desconto ao fazer compras ou cálculos de área para plantas de construção.\n\nSuporte para aprendizado e pesquisa: A calculadora de raiz quadrada simples também é útil para aprendizado matemático e pesquisa científica. Ele suporta cálculos de raiz quadrada em equações complexas e análise numérica.\n\nCom a calculadora de raiz quadrada simples, os usuários podem calcular raízes quadradas com facilidade e precisão para atender a uma variedade de necessidades computacionais.\n\n■O que é uma raiz quadrada?\nA raiz quadrada é um conceito matemático que se refere a um número em que o quadrado de um número é igual a um determinado número. Em outras palavras, a raiz quadrada de um número é o número igual ao resultado do quadrado desse número.\n\nPor exemplo, a raiz quadrada de 4 é 2. Por exemplo, a raiz quadrada de 4 é 2, porque 2 ao quadrado é igual a 4. Da mesma forma, a raiz quadrada de 9 é 3 e a raiz quadrada de 25 é 5.\n\nAs raízes quadradas são geralmente expressas usando √ (o símbolo da raiz). Por exemplo, √4 representa a raiz quadrada de 4 e √9 representa a raiz quadrada de 9.\nAs raízes quadradas têm uma ampla gama de aplicações matemáticas e científicas. Eles são usados ​​em diversas áreas, incluindo análise de equações, cálculos geométricos e problemas em física e engenharia.\n\n■ Casos de uso\nOs casos de uso do aplicativo Simple Square Root Calculator são usados ​​nos seguintes cenários\n\n1. pesquisa acadêmica e estudo de matemática: Estudantes e pesquisadores usam a Calculadora de Raiz Quadrada Simples nas áreas de matemática e ciências. Eles o usam para resolver problemas complexos que exigem cálculos de raiz quadrada, como analisar equações, desenhar gráficos e realizar análises numéricas.\n\n2. Apoio educacional: Em ambientes educacionais, a Calculadora Simples de Raiz Quadrada é usada em aulas de matemática e ciências. Os alunos podem entender os conceitos enquanto realizam facilmente cálculos de raiz quadrada.\n\n3. Alunos: Alunos e estudantes universitários que estudam matemática usarão este aplicativo para uma variedade de problemas que exigem cálculos de raiz quadrada.",
+      "descriptionHTML": "Este é um aplicativo de calculadora simples para calcular raízes quadradas e potências.<br>Com esta poderosa ferramenta, você pode encontrar facilmente as raízes de um número.<br><br>■Recursos.<br>1. Cálculo da raiz quadrada: calcule instantaneamente a raiz quadrada de um número. Ele exibe os resultados com alto grau de precisão e permite obter a raiz quadrada exata sem se preocupar com cálculos complicados.<br>2. computação de poderes de poderes: suporta o cálculo de vários poderes, como poderes de 2, 3 e qualquer n-quadrado. Multiplique facilmente números em potências para resolver rapidamente cálculos complexos.<br>3. cálculos usando parênteses: O uso de parênteses em fórmulas esclarece a precedência e permite que cálculos complexos sejam executados com precisão. Por exemplo, cálculos como √(2+3) podem ser facilmente executados.<br>4. Interface simples: PowerRoot oferece uma interface fácil de usar. A operação intuitiva permite que você obtenha rapidamente os resultados dos cálculos.<br><br>■ Vantagens de usar este aplicativo<br>As vantagens de usar a &quot;Calculadora de Raiz Quadrada Simples&quot; são as seguintes:<br><br>1. operação fácil: Calculadora de Raiz Quadrada Simples fornece uma interface intuitiva e é simples de usar. Os usuários podem realizar cálculos rapidamente.<br><br>2. Cálculos altamente precisos: o aplicativo realiza cálculos de raiz quadrada com alta precisão. Resultados confiáveis ​​são obtidos, mesmo quando a precisão matemática é necessária.<br><br>3. características convenientes: Calculadora de Raiz Quadrada Simples suporta cálculos envolvendo parênteses e outros operadores matemáticos (como potências). Ele pode ser usado para uma variedade de necessidades computacionais.<br><br>4. Uso diário: O aplicativo é útil para uma variedade de cálculos na vida cotidiana. Por exemplo, é útil em situações em que são necessários cálculos de raiz quadrada, como cálculos de desconto ao fazer compras ou cálculos de área para plantas de construção.<br><br>Suporte para aprendizado e pesquisa: A calculadora de raiz quadrada simples também é útil para aprendizado matemático e pesquisa científica. Ele suporta cálculos de raiz quadrada em equações complexas e análise numérica.<br><br>Com a calculadora de raiz quadrada simples, os usuários podem calcular raízes quadradas com facilidade e precisão para atender a uma variedade de necessidades computacionais.<br><br>■O que é uma raiz quadrada?<br>A raiz quadrada é um conceito matemático que se refere a um número em que o quadrado de um número é igual a um determinado número. Em outras palavras, a raiz quadrada de um número é o número igual ao resultado do quadrado desse número.<br><br>Por exemplo, a raiz quadrada de 4 é 2. Por exemplo, a raiz quadrada de 4 é 2, porque 2 ao quadrado é igual a 4. Da mesma forma, a raiz quadrada de 9 é 3 e a raiz quadrada de 25 é 5.<br><br>As raízes quadradas são geralmente expressas usando √ (o símbolo da raiz). Por exemplo, √4 representa a raiz quadrada de 4 e √9 representa a raiz quadrada de 9.<br>As raízes quadradas têm uma ampla gama de aplicações matemáticas e científicas. Eles são usados ​​em diversas áreas, incluindo análise de equações, cálculos geométricos e problemas em física e engenharia.<br><br>■ Casos de uso<br>Os casos de uso do aplicativo Simple Square Root Calculator são usados ​​nos seguintes cenários<br><br>1. pesquisa acadêmica e estudo de matemática: Estudantes e pesquisadores usam a Calculadora de Raiz Quadrada Simples nas áreas de matemática e ciências. Eles o usam para resolver problemas complexos que exigem cálculos de raiz quadrada, como analisar equações, desenhar gráficos e realizar análises numéricas.<br><br>2. Apoio educacional: Em ambientes educacionais, a Calculadora Simples de Raiz Quadrada é usada em aulas de matemática e ciências. Os alunos podem entender os conceitos enquanto realizam facilmente cálculos de raiz quadrada.<br><br>3. Alunos: Alunos e estudantes universitários que estudam matemática usarão este aplicativo para uma variedade de problemas que exigem cálculos de raiz quadrada.",
+      "summary": "aplicativo de calculadora simples para calcular raízes quadradas e potências.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 150860,
+      "score": 3.5925925,
+      "scoreText": "3,6",
+      "ratings": 312,
+      "reviews": 11,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.root_calc",
+      "url": "https://play.google.com/store/apps/details?id=com.root_calc&hl=pt&gl=br",
+      "rank": 28
+    },
+    {
+      "title": "Calculadora N+ Solução Exata",
+      "description": "A Calculator N+ oferece um conjunto abrangente de ferramentas para álgebra, cálculo, trigonometria, estatística e muito mais. Projetada para estudantes, engenheiros, educadores e entusiastas de matemática, ela conta com um poderoso mecanismo de programação CAS (Symja) e uma interface intuitiva para cálculos do dia a dia e resolução avançada de problemas.\n\nÁLGEBRA\n\n1. Funções de ciência da computação\n2. Resolver equações\n3. Resolver sistemas de equações\n4. Plotar gráficos de funções\n5. Geometria cartesiana\n6. Conversão de unidades\n7. Simplificar expressões algébricas\n8. Fatoração de polinômios\n9. Expansão binomial (fórmula de Newton)\n10. Cálculos com matrizes\n\nCÁLCULO\n\n1. Derivadas\n2. Antiderivadas\n3. Integrais definidas\n4. Limites de sequências e funções\n\nTRIGONOMETRIA\n\n1. Expansão trigonométrica: sin(2x) → 2sin(x)cos(x)\n2. Redução trigonométrica: 2sin(x)cos(x) → sin(2x)\n3. Converter funções trigonométricas e hiperbólicas para forma exponencial\n\nESTATÍSTICA & COMBINATÓRIA\n\n1. Combinações\n2. Permutações\n\nRECURSOS ADICIONAIS\n\n1. Fatoração em números primos\n2. Cálculos com módulo\n3. Números de Catalan\n4. Números de Fibonacci\n\nA calculadora oferece dois modos de cálculo:\n\n- Modo decimal: ex.: 0.12312312323\n- Modo fração: resultados simbólicos exatos, ex.: 9^99999\n\nEssa combinação de programação CAS e funções matemáticas avançadas torna o app uma ferramenta confiável para aprendizado, ensino e trabalho técnico.",
+      "descriptionHTML": "A Calculator N+ oferece um conjunto abrangente de ferramentas para álgebra, cálculo, trigonometria, estatística e muito mais. Projetada para estudantes, engenheiros, educadores e entusiastas de matemática, ela conta com um poderoso mecanismo de programação CAS (Symja) e uma interface intuitiva para cálculos do dia a dia e resolução avançada de problemas.<br><br><b>ÁLGEBRA</b><br><br>1. Funções de ciência da computação<br>2. Resolver equações<br>3. Resolver sistemas de equações<br>4. Plotar gráficos de funções<br>5. Geometria cartesiana<br>6. Conversão de unidades<br>7. Simplificar expressões algébricas<br>8. Fatoração de polinômios<br>9. Expansão binomial (fórmula de Newton)<br>10. Cálculos com matrizes<br><br><b>CÁLCULO</b><br><br>1. Derivadas<br>2. Antiderivadas<br>3. Integrais definidas<br>4. Limites de sequências e funções<br><br><b>TRIGONOMETRIA</b><br><br>1. Expansão trigonométrica: sin(2x) → 2sin(x)cos(x)<br>2. Redução trigonométrica: 2sin(x)cos(x) → sin(2x)<br>3. Converter funções trigonométricas e hiperbólicas para forma exponencial<br><br><b>ESTATÍSTICA &amp; COMBINATÓRIA</b><br><br>1. Combinações<br>2. Permutações<br><br><b>RECURSOS ADICIONAIS</b><br><br>1. Fatoração em números primos<br>2. Cálculos com módulo<br>3. Números de Catalan<br>4. Números de Fibonacci<br><br>A calculadora oferece dois modos de cálculo:<br><br>- Modo decimal: ex.: 0.12312312323<br>- Modo fração: resultados simbólicos exatos, ex.: 9^99999<br><br>Essa combinação de programação CAS e funções matemáticas avançadas torna o app uma ferramenta confiável para aprendizado, ensino e trabalho técnico.",
+      "summary": "Equações, sistemas, derivada, integral, limite, álgebra linear",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 554760,
+      "score": 4.67,
+      "scoreText": "4,7",
+      "ratings": 12926,
+      "reviews": 224,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.duy.calculator.free",
+      "url": "https://play.google.com/store/apps/details?id=com.duy.calculator.free&hl=pt&gl=br",
+      "rank": 30
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "meta": {
+    "collect_time": "2026-10-19T23:05:37.404Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "DI",
+    "term": "intellectual disability",
+    "key": "intellectual disability",
+    "depth": 0,
+    "parent": null,
+    "result_count": 30,
+    "failed_app_ids": [],
+    "omitted_app_ids": [
+      "cloud.intellect",
+      "com.google.android.marvin.talkback",
+      "co.intellect.partner",
+      "com.community.disabilityclub.app",
+      "com.bonding",
+      "dk.nytorv.androidapp.HandicapApp",
+      "com.faciliti.appdys",
+      "com.righthear",
+      "org.blubblub.app.speechblubs",
+      "com.ibccesiacmobileapp",
+      "com.autismspeech.autismspeech"
+    ]
+  },
+  "apps": [
+    {
+      "title": "Intellect: Create A Better You",
+      "description": "Se você se sente menos motivado, mentalmente esgotado ou quer ser mais produtivo, veio ao lugar certo.\n\nIntellect é uma solução líder de saúde mental moderna para todos. Construa hábitos saudáveis ​​e melhore seu humor com nosso aplicativo de terapia cognitivo-comportamental de autocuidado. Clinicamente validado por psicólogos e especialistas em comportamento, nosso conteúdo pequeno e exercícios diários são uma maneira eficaz de criar uma pessoa melhor.\n\nCombine sem esforço com um terapeuta online para iniciar uma jornada guiada para uma mente saudável (disponível apenas em mercados selecionados a partir de 1º de abril de 2022). Junte-se à nossa comunidade de 3 milhões de usuários e contando inscrevendo-se hoje!\n\nRecursos\n\nUm dos melhores aplicativos do Google em 2020, o Intellect atende usuários em mais de 50 países em todo o mundo. Intellect não é apenas o seu aplicativo comum para terapia em movimento. O aplicativo apresenta uma variedade de programas autoguiados de terapia cognitivo-comportamental (TCC) para ajudar os usuários a enfrentar os desafios diários, como procrastinação, gerenciamento de estresse e problemas de relacionamento.\n\nPara usuários corporativos e consumidores em mercados selecionados, o aplicativo também oferece um sistema de correspondência para encontrar um terapeuta ou coach de saúde comportamental, especialmente certificado pela Intellect, para atender às suas necessidades exclusivas.\n\nEste aplicativo de saúde mental completo inclui os seguintes recursos:\n\nCaminhos de aprendizagem\n\nProjetado para ser facilmente acessível e simples de seguir, nossos caminhos de aprendizado ajudarão você a lidar com problemas como gerenciar suas emoções, dormir mal e ansiedade. Essas mini-sessões aumentam para mudar a maneira como você pensa e aborda os problemas. Desbloqueie tarefas especiais ao longo do caminho e divirta-se enquanto muda seus hábitos!\n\nRastreador de humor\n\nVocê sabia que as emoções são como icebergs? Há muito sob a superfície. Para realmente se entender melhor, nosso rastreador de humor o ajudará a identificar as causas e sugerir maneiras personalizadas de lidar, como fazer um caminho de aprendizado específico, uma breve sessão de resgate ou anotar seus pensamentos em nosso diário online.\n\nSessões de resgate\n\nTeve um dia difícil? Essas sessões oferecem suporte rápido para lidar com sentimentos avassaladores, como nervosismo, falta de sono, raiva e outras emoções estressantes.\n\nRevistas guiadas\n\nAcesse um lugar seguro para registrar seus pensamentos e sentimentos. Nossos diários fornecem orientação fácil sobre vários resultados, como obter clareza sobre os problemas que você está enfrentando, reservar um momento para expressar gratidão, bem como diários abertos.\n\nCoaching e terapia pessoal\n\nElimine o estresse de cultivar novos hábitos trabalhando com os treinadores de saúde comportamental da Intellect. Todos os nossos coaches passam por um rigoroso processo de qualificação para se tornarem “Certificados Intelect”. Com uma grande variedade de origens, especializações e idiomas, é fácil encontrar um que se relacione com você! Ligue e converse com seu coach em um horário conveniente para você e aproveite os benefícios do coaching ou da terapia sem o incômodo de agendar uma sessão presencial.\n\nDisponível apenas para determinados usuários corporativos e consumidores em mercados selecionados\n\nRecursos bônus:\n\nComplete uma Sessão do dia para descobrir conteúdo novo e relevante\nAcompanhe facilmente suas faixas e crachás de uso pessoal\nDefina metas de vida e acompanhe o que você alcançou\n\nAuto-aperfeiçoamento nunca foi tão fácil. Basta baixar o aplicativo Intellect e criar uma pessoa melhor hoje!",
+      "descriptionHTML": "Se você se sente menos motivado, mentalmente esgotado ou quer ser mais produtivo, veio ao lugar certo.<br><br>Intellect é uma solução líder de saúde mental moderna para todos. Construa hábitos saudáveis ​​e melhore seu humor com nosso aplicativo de terapia cognitivo-comportamental de autocuidado. Clinicamente validado por psicólogos e especialistas em comportamento, nosso conteúdo pequeno e exercícios diários são uma maneira eficaz de criar uma pessoa melhor.<br><br>Combine sem esforço com um terapeuta online para iniciar uma jornada guiada para uma mente saudável (disponível apenas em mercados selecionados a partir de 1º de abril de 2022). Junte-se à nossa comunidade de 3 milhões de usuários e contando inscrevendo-se hoje!<br><br>Recursos<br><br>Um dos melhores aplicativos do Google em 2020, o Intellect atende usuários em mais de 50 países em todo o mundo. Intellect não é apenas o seu aplicativo comum para terapia em movimento. O aplicativo apresenta uma variedade de programas autoguiados de terapia cognitivo-comportamental (TCC) para ajudar os usuários a enfrentar os desafios diários, como procrastinação, gerenciamento de estresse e problemas de relacionamento.<br><br>Para usuários corporativos e consumidores em mercados selecionados, o aplicativo também oferece um sistema de correspondência para encontrar um terapeuta ou coach de saúde comportamental, especialmente certificado pela Intellect, para atender às suas necessidades exclusivas.<br><br>Este aplicativo de saúde mental completo inclui os seguintes recursos:<br><br>Caminhos de aprendizagem<br><br>Projetado para ser facilmente acessível e simples de seguir, nossos caminhos de aprendizado ajudarão você a lidar com problemas como gerenciar suas emoções, dormir mal e ansiedade. Essas mini-sessões aumentam para mudar a maneira como você pensa e aborda os problemas. Desbloqueie tarefas especiais ao longo do caminho e divirta-se enquanto muda seus hábitos!<br><br>Rastreador de humor<br><br>Você sabia que as emoções são como icebergs? Há muito sob a superfície. Para realmente se entender melhor, nosso rastreador de humor o ajudará a identificar as causas e sugerir maneiras personalizadas de lidar, como fazer um caminho de aprendizado específico, uma breve sessão de resgate ou anotar seus pensamentos em nosso diário online.<br><br>Sessões de resgate<br><br>Teve um dia difícil? Essas sessões oferecem suporte rápido para lidar com sentimentos avassaladores, como nervosismo, falta de sono, raiva e outras emoções estressantes.<br><br>Revistas guiadas<br><br>Acesse um lugar seguro para registrar seus pensamentos e sentimentos. Nossos diários fornecem orientação fácil sobre vários resultados, como obter clareza sobre os problemas que você está enfrentando, reservar um momento para expressar gratidão, bem como diários abertos.<br><br>Coaching e terapia pessoal<br><br>Elimine o estresse de cultivar novos hábitos trabalhando com os treinadores de saúde comportamental da Intellect. Todos os nossos coaches passam por um rigoroso processo de qualificação para se tornarem “Certificados Intelect”. Com uma grande variedade de origens, especializações e idiomas, é fácil encontrar um que se relacione com você! Ligue e converse com seu coach em um horário conveniente para você e aproveite os benefícios do coaching ou da terapia sem o incômodo de agendar uma sessão presencial.<br><br>Disponível apenas para determinados usuários corporativos e consumidores em mercados selecionados<br><br>Recursos bônus:<br><br>Complete uma Sessão do dia para descobrir conteúdo novo e relevante<br>Acompanhe facilmente suas faixas e crachás de uso pessoal<br>Defina metas de vida e acompanhe o que você alcançou<br><br>Auto-aperfeiçoamento nunca foi tão fácil. Basta baixar o aplicativo Intellect e criar uma pessoa melhor hoje!",
+      "summary": "Acesso ao autocuidado, saúde mental, terapia e formação de hábitos em um único aplicativo.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3337020,
+      "score": 4.7874494,
+      "scoreText": "4,8",
+      "ratings": 129448,
+      "reviews": 1037,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "co.intellect.app",
+      "url": "https://play.google.com/store/apps/details?id=co.intellect.app&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Otsimo | Special Education",
+      "description": "Em destaque há mais de 300 dias!\n\nOtsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom's Choice Awards, Parent's Pick Awards, Education Alliance Finland, o prêmio Academics' Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.\n\nOs pais AMAM o Otsimo Special Education!\n\nCriados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:\nHistórias sociais,\nNúmeros e letras,\nVocabulário e palavras,\nEmoções e sentimentos,\nCores,\nMúsica e canto,\nAnimais e ambiente,\nVeículos e MUITO MAIS!\n\nCom a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.\n\nPor que você deveria experimentar o Otsimo Special Education em casa?\nCaminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.\nPersonalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.\nSem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.\n Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!\n\nPode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.\n\nOtsimo Premium\nO Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!\n\n O Otsimo Premium oferece:\nAcesso a mais de 100 jogos educativos\nAtualização regular de conteúdo\nCurrículo personalizado\nBoletins diários e semanais sobre os jogos jogados e para acompanhar o progresso\nSuporte multiplataforma\nRecurso para múltiplos usuários\nLivros de histórias sociais com dicas visuais e auditivas\nJogue offline a qualquer hora e em qualquer lugar\n\nPara o Otsimo Premium, oferecemos as seguintes assinaturas:\n1 mês a partir de US$ 20,99\n1 ano a partir de US$ 13,75/mês\nVitalícia a partir de US$ 229,99\n\nSe você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.\n\nAs assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.\n\nPara mais informações:\nPolítica de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html\nPolítica de Pagamento - https://otsimo.com/legal/payment.html",
+      "descriptionHTML": "Em destaque há mais de 300 dias!<br><br>Otsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom&#39;s Choice Awards, Parent&#39;s Pick Awards, Education Alliance Finland, o prêmio Academics&#39; Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.<br><br>Os pais AMAM o Otsimo Special Education!<br><br>Criados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:<br>Histórias sociais,<br>Números e letras,<br>Vocabulário e palavras,<br>Emoções e sentimentos,<br>Cores,<br>Música e canto,<br>Animais e ambiente,<br>Veículos e MUITO MAIS!<br><br>Com a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.<br><br>Por que você deveria experimentar o Otsimo Special Education em casa?<br>Caminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.<br>Personalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.<br>Sem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.<br> Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!<br><br>Pode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.<br><br>Otsimo Premium<br>O Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!<br><br> O Otsimo Premium oferece:<br>Acesso a mais de 100 jogos educativos<br>Atualização regular de conteúdo<br>Currículo personalizado<br>Boletins diários e semanais sobre os jogos jogados e para acompanhar o progresso<br>Suporte multiplataforma<br>Recurso para múltiplos usuários<br>Livros de histórias sociais com dicas visuais e auditivas<br>Jogue offline a qualquer hora e em qualquer lugar<br><br>Para o Otsimo Premium, oferecemos as seguintes assinaturas:<br>1 mês a partir de US$ 20,99<br>1 ano a partir de US$ 13,75/mês<br>Vitalícia a partir de US$ 229,99<br><br>Se você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.<br><br>As assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.<br><br>Para mais informações:<br>Política de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html<br>Política de Pagamento - https://otsimo.com/legal/payment.html",
+      "summary": "Jogos educativos certificados para dificuldades de aprendizagem, autismo e síndrome de Down.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 293973,
+      "score": 3.096774,
+      "scoreText": "3,1",
+      "ratings": 829,
+      "reviews": 14,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.otsimo.app",
+      "url": "https://play.google.com/store/apps/details?id=com.otsimo.app&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Jogos Intellecto Kids",
+      "description": "Prepare seu filho para a escola com Jogos IntellectoKids, um app eductivo para crianças de 2 a 7 anos.\n\nAprender é chato? Fonética, contagem, cores e quebra-cabeças musicais ajudarão as crianças a se prepararem para a escola. Com o app Intellecto Kids, a aprendizagem se torna uma aventura colorida e emocionante. Instale o app gratuito IntellectoKids e ensinar seu filho se tornará um jogo divertido!\n\nEste app para pré-escolares é um jogo desenvolvido com o envolvimento direto de professores com vasta experiência no ensino de raciocínio lógico e memória para crianças e inspirando neles o amor pela leitura, aprendizagem, escrita e contagem. Este app também oferece às crianças sua primeira introdução aos instrumentos musicais. Curiosidades do mundo da arte e da ciência também serão adicionados ao programa em um futuro próximo. O processo de ensino é baseado em um método de jogo que serve de base para as técnicas mais modernas e eficazes para o ensino de pré-escolares, crianças e bebês.\n\nOs jogos educativos tornam a aprendizagem ainda mais envolvente e divertida. Eles são construídos sobre as nuances do desenvolvimento mental das crianças e levam em consideração suas capacidades. IntellectoKids é perfeito para as seguintes faixas etárias:\n– 2-3 anos\n– 3-4 anos\n– 4-5 anos\n– 5-6 anos\n\nGrande seleção de jogos educativos:\n- Alfabeto Inglês, Fonética e Letras\nDesenho Alfabeto interativo: este é um divertido jogo educacional ABC com animais e dinossauros que ensina o alfabeto e a fonética de uma maneira divertida e casual. Este jogo também desenvolve habilidades de ortografia, leitura, caligrafia e tracejamento de letras.\n\n- Lógica e matemática\nA Escola Safari é uma maneira alegre e divertida de aprender sobre cores, classificação, números, formas e contagem\n\n- Música e instrumentos musicais (quebra-cabeça)\nQuebra-cabeças Musicais Animados é um jogo que ajuda as crianças a aprender o som de vários instrumentos musicais\n\n- Números e contagem\nUm Conto de Fadas Educativo sobre um ouriço mergulha as crianças em uma história fascinante e mágica, onde aprendem sobre matemática, números e sua sequência enquanto viajam com Carl, o ouriço\n\n- Lógica\n\nMais de 50 jogos divertidos projetados para ajudar crianças em idade pré-escolar a desenvolver uma ampla gama de habilidades:\n– aprenda o alfabeto e as letras\n– introdução a instrumentos musicais com quebra-cabeças musicais animados para crianças\n– pensamento lógico e conceitual\n– aprenda a contar\n– classificação e reconhecimento de cores, atividades de colorir\n– canções educativas, histórias de ninar e canção de ninar\n\nCompletar os exercícios um após o outro permite que as crianças expandam de forma abrangente suas capacidades intelectuais e ampliem seus horizontes.\n\nSeguro e sem anúncios\nEste app educativo da IntellectoKids não contém conteúdo publicitário se a assinatura for comprada e não exige que o usuário insira nenhuma informação pessoal sobre a criança\n\nCaracterísticas dos Jogos Educativos IntellectoKids para crianças\n– atualizado regularmente com novos conteúdos e jogos\n– ambiente de jogo divertido\n– fatores nas nuances do desenvolvimento das crianças em cada faixa etária\n\nInspirar o amor pela aprendizagem nas crianças é fácil - basta baixar e instalar o app gratuito Intellecto Kids!\n\nAccess to the Premium content is unlocked after signing up for a subscription. Subscription pricing and duration options vary by country. A free trial is generally available. The payment is charged and the subscription renews AUTOMATICALLY unless the subscription is canceled or the auto-renew is turned off at least 24-hours before the free trial or the current billing period ends. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription. Subscriptions may be managed & auto-renewal may be turned off by going to your iTunes Account Settings after purchase. \n\nTerms of Use: https://intellectokids.com/terms\nPrivacy Policy: https://intellectokids.com/privacy",
+      "descriptionHTML": "Prepare seu filho para a escola com Jogos IntellectoKids, um app eductivo para crianças de 2 a 7 anos.<br><br>Aprender é chato? Fonética, contagem, cores e quebra-cabeças musicais ajudarão as crianças a se prepararem para a escola. Com o app Intellecto Kids, a aprendizagem se torna uma aventura colorida e emocionante. Instale o app gratuito IntellectoKids e ensinar seu filho se tornará um jogo divertido!<br><br>Este app para pré-escolares é um jogo desenvolvido com o envolvimento direto de professores com vasta experiência no ensino de raciocínio lógico e memória para crianças e inspirando neles o amor pela leitura, aprendizagem, escrita e contagem. Este app também oferece às crianças sua primeira introdução aos instrumentos musicais. Curiosidades do mundo da arte e da ciência também serão adicionados ao programa em um futuro próximo. O processo de ensino é baseado em um método de jogo que serve de base para as técnicas mais modernas e eficazes para o ensino de pré-escolares, crianças e bebês.<br><br>Os jogos educativos tornam a aprendizagem ainda mais envolvente e divertida. Eles são construídos sobre as nuances do desenvolvimento mental das crianças e levam em consideração suas capacidades. IntellectoKids é perfeito para as seguintes faixas etárias:<br>– 2-3 anos<br>– 3-4 anos<br>– 4-5 anos<br>– 5-6 anos<br><br>Grande seleção de jogos educativos:<br>- Alfabeto Inglês, Fonética e Letras<br>Desenho Alfabeto interativo: este é um divertido jogo educacional ABC com animais e dinossauros que ensina o alfabeto e a fonética de uma maneira divertida e casual. Este jogo também desenvolve habilidades de ortografia, leitura, caligrafia e tracejamento de letras.<br><br>- Lógica e matemática<br>A Escola Safari é uma maneira alegre e divertida de aprender sobre cores, classificação, números, formas e contagem<br><br>- Música e instrumentos musicais (quebra-cabeça)<br>Quebra-cabeças Musicais Animados é um jogo que ajuda as crianças a aprender o som de vários instrumentos musicais<br><br>- Números e contagem<br>Um Conto de Fadas Educativo sobre um ouriço mergulha as crianças em uma história fascinante e mágica, onde aprendem sobre matemática, números e sua sequência enquanto viajam com Carl, o ouriço<br><br>- Lógica<br><br>Mais de 50 jogos divertidos projetados para ajudar crianças em idade pré-escolar a desenvolver uma ampla gama de habilidades:<br>– aprenda o alfabeto e as letras<br>– introdução a instrumentos musicais com quebra-cabeças musicais animados para crianças<br>– pensamento lógico e conceitual<br>– aprenda a contar<br>– classificação e reconhecimento de cores, atividades de colorir<br>– canções educativas, histórias de ninar e canção de ninar<br><br>Completar os exercícios um após o outro permite que as crianças expandam de forma abrangente suas capacidades intelectuais e ampliem seus horizontes.<br><br>Seguro e sem anúncios<br>Este app educativo da IntellectoKids não contém conteúdo publicitário se a assinatura for comprada e não exige que o usuário insira nenhuma informação pessoal sobre a criança<br><br>Características dos Jogos Educativos IntellectoKids para crianças<br>– atualizado regularmente com novos conteúdos e jogos<br>– ambiente de jogo divertido<br>– fatores nas nuances do desenvolvimento das crianças em cada faixa etária<br><br>Inspirar o amor pela aprendizagem nas crianças é fácil - basta baixar e instalar o app gratuito Intellecto Kids!<br><br>Access to the Premium content is unlocked after signing up for a subscription. Subscription pricing and duration options vary by country. A free trial is generally available. The payment is charged and the subscription renews AUTOMATICALLY unless the subscription is canceled or the auto-renew is turned off at least 24-hours before the free trial or the current billing period ends. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription. Subscriptions may be managed &amp; auto-renewal may be turned off by going to your iTunes Account Settings after purchase. <br><br>Terms of Use: https://intellectokids.com/terms<br>Privacy Policy: https://intellectokids.com/privacy",
+      "summary": "Mat. Fonética Contar Crianças",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1820711,
+      "score": 3.96,
+      "scoreText": "4,0",
+      "ratings": 10774,
+      "reviews": 102,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Estação de trem",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.intellectokids.academy",
+      "url": "https://play.google.com/store/apps/details?id=com.intellectokids.academy&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Terapia da Linguagem e Cogniçã",
+      "description": "• O PRIMEIRO E ÚNICO APLICATIVO DE TERAPIA DE LÍNGUA SUPORTADA POR DADOS CLÍNICOS: \nEm um ensaio clínico de 3 anos com 6.454 crianças autistas, o escore de linguagem das crianças que se envolveram com MITA aumentou para níveis 120% mais altos do que das crianças com avaliações iniciais semelhantes. Essa diferença foi estatisticamente significante (p = 0,0001). Veja os resultados em https://www.mdpi.com/2227-9032/8/4/566\n\n• Os exercícios MITA combinados foram projetados para durar 10 anos!\n\n• A terapia cognitiva e de linguagem MITA inclui milhares de atividades de aprendizado organizadas em 50+ jogos.\n\n• Melhor App de autismo na lista da Healthline\n\n• Usado por mais de um milhão de crianças com PEA como complemento da sua terapia regular\n\n• MITA nas notícias: https://youtu.be/giZymh3rMHc\n\n• Artigos de pesquisa MITA: https://goo.gl/28VCGg; http://goo.gl/lyHw95; https://goo.gl/nUpfNU; https://osf.io/preprints/psyarxiv/xtj2z/\n\n\nMITA é uma aplicação específica de intervenção precoce para crianças com autismo, com atraso do desenvolvimento ou com dificuldades de aprendizagem. A app inclui tarefas interativas e inteligentes, feitas para ajudar crianças a aprender como juntar mentalmente vários objetos, uma habilidade que já provou conseguir grandes melhorias na aprendizagem em geral. Sucesso com o MITA pode resultar, com o tempo, em melhorias significativas no desenvolvimento geral da criança, especificamente em termos de linguagem, atenção e habilidades visuais.\n\nA CIÊNCIA POR TRÁS DO PROJETO:\n\nA habilidade da criança em perceber e responder a múltiplas pequenas variações visuais apresentadas simultaneamente é a mais crítica. Esta habilidade é tipicamente afetada em indivíduos com autismo, levando àquilo que é comumente descrito como \"super seletividade de estímulos\" ou \"visão de túnel\". Melhorando a capacidade de responder a múltiplas pequenas variações tem mostrado conseguir reduzir essa super seletividade, que por sua vez leva a melhoramentos enormes na aprendizagem em geral. Para ver as últimas publicações de pesquisa do MITA, toque no botão na parte debaixo da tela: 'Aprenda mais sobre a ciência por trás do MITA'.\n\nCARACTERÍSTICAS:\n\n• Cada jogo é adaptativo e entrega exercícios que estão no nível exato de dificuldade apropriado para sua criança naquele momento do desenvolvimento.\n\n• A seleção de jogos é adaptativa. Novos jogos serão automaticamente selecionados baseados no desempenho de sua criança.\n\n• O mecanismo simples de arraste-e-solte faz com que seja fácil para crianças toquem e movam objetos.\n\n• Abordagem estruturada para exercícios cognitivos, com 6 jogos que as crianças podem concluir todos os dias antes de ganhar uma recompensa divertida no final dos seus exercícios diários.\n\n• Personagens animados e recompensas Hora da Diversão vão manter o seu filho envolvido enquanto aprende e se diverte.\n\n• Temas multiplos da Hora da Diversão irão permitir que o seu filho escolha o jogo mais divertido para ele ou ela.\n\n• Interfaces simples e intuitivas com gráficos bonitos que qualquer criança vai adorar.\n\n• Sem anúncios. MITA é um ambiente completamente seguro para crianças - não há propaganda ou meio de um grupo externo entrar em contato com o seu filho.\n\nOs exercícios de terapia da linguagem e cognição fornecidos no MITA podem ser usados por crianças com Perturbações da Linguagem, Perturbação do Espectro do Autismo (PEA), Perturbação do Desenvolvimento Intelectual (PDI), síndrome de Down e outras perturbações do neurodesenvolvimento como complemento à sua normal terapia da fala.\n\nMITA é desenvolvido pelo Dr. A. Vyshedskiy, neurocientista da Universidade de Boston; R. Dunn, especialista em desenvolvimento precoce infantil da Universidade de Harvard; J. Elgart e um grupo de artistas vencedores de prêmios e desenvolvedores trabalhando em conjunto com terapistas experientes, ligados ao MIT.",
+      "descriptionHTML": "• O PRIMEIRO E ÚNICO APLICATIVO DE TERAPIA DE LÍNGUA SUPORTADA POR DADOS CLÍNICOS: <br>Em um ensaio clínico de 3 anos com 6.454 crianças autistas, o escore de linguagem das crianças que se envolveram com MITA aumentou para níveis 120% mais altos do que das crianças com avaliações iniciais semelhantes. Essa diferença foi estatisticamente significante (p = 0,0001). Veja os resultados em https://www.mdpi.com/2227-9032/8/4/566<br><br>• Os exercícios MITA combinados foram projetados para durar 10 anos!<br><br>• A terapia cognitiva e de linguagem MITA inclui milhares de atividades de aprendizado organizadas em 50+ jogos.<br><br>• Melhor App de autismo na lista da Healthline<br><br>• Usado por mais de um milhão de crianças com PEA como complemento da sua terapia regular<br><br>• MITA nas notícias: https://youtu.be/giZymh3rMHc<br><br>• Artigos de pesquisa MITA: https://goo.gl/28VCGg; http://goo.gl/lyHw95; https://goo.gl/nUpfNU; https://osf.io/preprints/psyarxiv/xtj2z/<br><br><br>MITA é uma aplicação específica de intervenção precoce para crianças com autismo, com atraso do desenvolvimento ou com dificuldades de aprendizagem. A app inclui tarefas interativas e inteligentes, feitas para ajudar crianças a aprender como juntar mentalmente vários objetos, uma habilidade que já provou conseguir grandes melhorias na aprendizagem em geral. Sucesso com o MITA pode resultar, com o tempo, em melhorias significativas no desenvolvimento geral da criança, especificamente em termos de linguagem, atenção e habilidades visuais.<br><br>A CIÊNCIA POR TRÁS DO PROJETO:<br><br>A habilidade da criança em perceber e responder a múltiplas pequenas variações visuais apresentadas simultaneamente é a mais crítica. Esta habilidade é tipicamente afetada em indivíduos com autismo, levando àquilo que é comumente descrito como &quot;super seletividade de estímulos&quot; ou &quot;visão de túnel&quot;. Melhorando a capacidade de responder a múltiplas pequenas variações tem mostrado conseguir reduzir essa super seletividade, que por sua vez leva a melhoramentos enormes na aprendizagem em geral. Para ver as últimas publicações de pesquisa do MITA, toque no botão na parte debaixo da tela: &#39;Aprenda mais sobre a ciência por trás do MITA&#39;.<br><br>CARACTERÍSTICAS:<br><br>• Cada jogo é adaptativo e entrega exercícios que estão no nível exato de dificuldade apropriado para sua criança naquele momento do desenvolvimento.<br><br>• A seleção de jogos é adaptativa. Novos jogos serão automaticamente selecionados baseados no desempenho de sua criança.<br><br>• O mecanismo simples de arraste-e-solte faz com que seja fácil para crianças toquem e movam objetos.<br><br>• Abordagem estruturada para exercícios cognitivos, com 6 jogos que as crianças podem concluir todos os dias antes de ganhar uma recompensa divertida no final dos seus exercícios diários.<br><br>• Personagens animados e recompensas Hora da Diversão vão manter o seu filho envolvido enquanto aprende e se diverte.<br><br>• Temas multiplos da Hora da Diversão irão permitir que o seu filho escolha o jogo mais divertido para ele ou ela.<br><br>• Interfaces simples e intuitivas com gráficos bonitos que qualquer criança vai adorar.<br><br>• Sem anúncios. MITA é um ambiente completamente seguro para crianças - não há propaganda ou meio de um grupo externo entrar em contato com o seu filho.<br><br>Os exercícios de terapia da linguagem e cognição fornecidos no MITA podem ser usados por crianças com Perturbações da Linguagem, Perturbação do Espectro do Autismo (PEA), Perturbação do Desenvolvimento Intelectual (PDI), síndrome de Down e outras perturbações do neurodesenvolvimento como complemento à sua normal terapia da fala.<br><br>MITA é desenvolvido pelo Dr. A. Vyshedskiy, neurocientista da Universidade de Boston; R. Dunn, especialista em desenvolvimento precoce infantil da Universidade de Harvard; J. Elgart e um grupo de artistas vencedores de prêmios e desenvolvedores trabalhando em conjunto com terapistas experientes, ligados ao MIT.",
+      "summary": "Exercícios de intervenção precoce para crianças com Autismo (PEA)",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1891422,
+      "score": 4.7785716,
+      "scoreText": "4,8",
+      "ratings": 9544,
+      "reviews": 345,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.imagiration.mita",
+      "url": "https://play.google.com/store/apps/details?id=com.imagiration.mita&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Micro Learning: Upscroll",
+      "description": "Upscroll: Aprenda Mais a Cada Deslize\n\nTransforme a rolagem sem sentido em rolagem inteligente. O Upscroll transforma seu tempo de tela em uma fonte de conhecimento, tornando cada deslizada uma oportunidade para aprender, descobrir e crescer.\n\nO Upscroll ajuda você a recuperar seu tempo e curiosidade, apresentando fatos resumidos, histórias fascinantes e vídeos curtos. Descubra algo novo em segundos, torne-se a pessoa mais interessante da sala e crie hábitos de tela mais inteligentes, sem abrir mão da diversão.\n\nVocê sabia? Um estudo de Harvard mostra que aprender fatos surpreendentes pode ser tão gratificante quanto comida ou dinheiro. O Upscroll explora a curiosidade natural do seu cérebro, de modo que cada deslizada desperta uma dose de dopamina e conhecimento.\n\nO QUE VOCÊ GANHA COM O UPSCROLL\n\nAprendizagem resumida, do seu jeito\n\nEnvolva-se com fatos rápidos e selecionados, miniartigos e vídeos curtos envolventes sobre centenas de tópicos, de ciência e história a dicas de vida e cultura pop.\n\nFeed diário personalizado\n\nDefina seus interesses e objetivos. O Upscroll organiza seu feed pessoal, escolhendo histórias e fatos personalizados para você.\n\nAcompanhe seu progresso\n\nVeja quanto tempo você recuperou e quantos fatos novos aprendeu — motivação, direto no seu bolso.\n\nTORNE-SE A PESSOA MAIS INTERESSANTE DA SALA\n\nSeja para substituir o tempo gasto nas redes sociais, encontrar histórias incríveis para compartilhar ou simplesmente combater o tédio, o Upscroll facilita preencher seu dia com curiosidade e assuntos para conversar.\n\nComece hoje mesmo e veja como aprender pode ser divertido.\nTransforme seu tempo de tela em tempo para pensar!",
+      "descriptionHTML": "Upscroll: Aprenda Mais a Cada Deslize<br><br>Transforme a rolagem sem sentido em rolagem inteligente. O Upscroll transforma seu tempo de tela em uma fonte de conhecimento, tornando cada deslizada uma oportunidade para aprender, descobrir e crescer.<br><br>O Upscroll ajuda você a recuperar seu tempo e curiosidade, apresentando fatos resumidos, histórias fascinantes e vídeos curtos. Descubra algo novo em segundos, torne-se a pessoa mais interessante da sala e crie hábitos de tela mais inteligentes, sem abrir mão da diversão.<br><br>Você sabia? Um estudo de Harvard mostra que aprender fatos surpreendentes pode ser tão gratificante quanto comida ou dinheiro. O Upscroll explora a curiosidade natural do seu cérebro, de modo que cada deslizada desperta uma dose de dopamina e conhecimento.<br><br>O QUE VOCÊ GANHA COM O UPSCROLL<br><br>Aprendizagem resumida, do seu jeito<br><br>Envolva-se com fatos rápidos e selecionados, miniartigos e vídeos curtos envolventes sobre centenas de tópicos, de ciência e história a dicas de vida e cultura pop.<br><br>Feed diário personalizado<br><br>Defina seus interesses e objetivos. O Upscroll organiza seu feed pessoal, escolhendo histórias e fatos personalizados para você.<br><br>Acompanhe seu progresso<br><br>Veja quanto tempo você recuperou e quantos fatos novos aprendeu — motivação, direto no seu bolso.<br><br>TORNE-SE A PESSOA MAIS INTERESSANTE DA SALA<br><br>Seja para substituir o tempo gasto nas redes sociais, encontrar histórias incríveis para compartilhar ou simplesmente combater o tédio, o Upscroll facilita preencher seu dia com curiosidade e assuntos para conversar.<br><br>Comece hoje mesmo e veja como aprender pode ser divertido.<br>Transforme seu tempo de tela em tempo para pensar!",
+      "summary": "Fatos e notícias rápidas do dia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 12901,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.upriselabs.upscroll",
+      "url": "https://play.google.com/store/apps/details?id=com.upriselabs.upscroll&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Intellectual Academy",
+      "description": "Conectando pais e escola\n\nLinha do Tempo\nDescubra informações sobre os próximos eventos e programas.\nExperimente mídias dinâmicas, como fotos e vídeos de diferentes programas.\n\nExplorar\nRotina para acompanhar as rotinas de aulas e provas.\nAtualização de Tarefas para visualizar as tarefas diárias.\nBoletim permite que os pais visualizem o progresso exato de seus filhos.\nFrequência para garantir que seus filhos estejam presentes na escola/faculdade.\nRota de Ônibus e Rastreamento por GPS.\nReclamações e Feedback, Avisos, Sistema de Biblioteca e muito mais.\n\nNotificações\nCalendário Escolar/Faculdade para obter informações sobre dias letivos, feriados, comemorações, provas, férias e todas as datas importantes.\nNotificações e Eventos para ver os eventos que estão acontecendo na escola/faculdade e também adicionar um lembrete.\nNotificações por SMS\n\nAgradecimentos/Sugestões\n\nAgradecimentos/sugestões à escola/faculdade\n\nDownloads\nBaixe os materiais de estudo fornecidos pela sua escola/faculdade\n\n- Aplicativo da Escola Pública de Delhi",
+      "descriptionHTML": "<b>Conectando pais e escola</b><br><br><b>Linha do Tempo</b><br>Descubra informações sobre os próximos eventos e programas.<br>Experimente mídias dinâmicas, como fotos e vídeos de diferentes programas.<br><br><b>Explorar</b><br>Rotina para acompanhar as rotinas de aulas e provas.<br>Atualização de Tarefas para visualizar as tarefas diárias.<br>Boletim permite que os pais visualizem o progresso exato de seus filhos.<br>Frequência para garantir que seus filhos estejam presentes na escola/faculdade.<br>Rota de Ônibus e Rastreamento por GPS.<br>Reclamações e Feedback, Avisos, Sistema de Biblioteca e muito mais.<br><br><b>Notificações</b><br>Calendário Escolar/Faculdade para obter informações sobre dias letivos, feriados, comemorações, provas, férias e todas as datas importantes.<br>Notificações e Eventos para ver os eventos que estão acontecendo na escola/faculdade e também adicionar um lembrete.<br>Notificações por SMS<br><br><b>Agradecimentos/Sugestões</b><br><br>Agradecimentos/sugestões à escola/faculdade<br><br><b>Downloads</b><br>Baixe os materiais de estudo fornecidos pela sua escola/faculdade<br><br>- Aplicativo da Escola Pública de Delhi",
+      "summary": "Aplicativo “Academia Intelectual” para alunos e pais.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 436,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ingrails.intellectual_academy",
+      "url": "https://play.google.com/store/apps/details?id=com.ingrails.intellectual_academy&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Unmasked: Adult Autism & ADHD",
+      "description": "Você não está com defeito. Você pode simplesmente funcionar de forma diferente.\n\nO Unmasked é um guia de autodescoberta para adultos que suspeitam ter autismo, TDAH ou ambos — e que desejam explorar essa possibilidade sem gastar milhares de reais em uma avaliação.\n\nCriado por alguém que vivenciou o diagnóstico tardio, para pessoas que vivenciaram o diagnóstico tardio. Sem jargões clínicos. Sem enquadramento deficitário. Sem julgamentos.\n\nGratuito para começar. Upgrade Pro opcional por US$ 14,99 (pagamento único). Pague uma vez e tenha acesso para sempre.\n\nEste não é um instrumento de diagnóstico. O Unmasked utiliza questionários de pesquisa validados e ferramentas de reflexão acolhedoras para ajudar você a se compreender — o que você tem mascarado, o que te esgota, o que você precisa.\n\n🧠 SEIS AUTOAVALIAÇÕES COM BASE EM PESQUISA\n\nAQ-10 (Quociente do Espectro Autista, 2-3 min) - Gratuito\nEscala de Burnout Autista AASPIRE - Revisada (14 itens) - Gratuita\nRAADS-R (Escala Diagnóstica de Autismo e Asperger de Ritvo, 15-25 min) - Pago\nCAT-Q (Questionário de Camuflagem de Traços Autistas) - Pago\nCATI (Inventário Abrangente de Traços Autistas) - Pago\nASRS-v1.1 (Escala de Autoavaliação de TDAH para Adultos) - Pago\n\nO CATI funciona de forma diferente: em vez de uma única pontuação, ele mapeia seis dimensões de traços - interação social, comunicação, camuflagem, flexibilidade cognitiva, autorregulação e sensibilidade sensorial - para que você veja o formato do seu perfil, e não apenas um número.\n\nA Escala de Burnout Autista AASPIRE é diferente novamente. As outras perguntam como você sempre foi. Esta pergunta compara os últimos três meses com a sua linha de base, permitindo que você a refaça mais tarde e veja o que mudou. Incluída gratuitamente, usada com permissão da AASPIRE, com a citação completa exibida no aplicativo.\n\nSalve e retome qualquer avaliação. Áudio explicativo disponível durante todo o processo.\n\n✨ REFLEXÃO COM IA\n\nDuas narrativas gratuitas com IA — uma para o AQ-10 e outra para a escala de burnout — para que você possa ver o que torna o Unmasked diferente de qualquer outro teste online. A IA contextualiza suas pontuações usando uma linguagem que prioriza a identidade, em um tom acolhedor e afirmativo.\n\nA versão Pro desbloqueia interpretações ilimitadas com IA e a Síntese de Perfil Completo — uma análise mais aprofundada de todas as suas avaliações em conjunto.\n\n🎯 TUDO O QUE VOCÊ PRECISA, GRÁTIS\n\nAQ-10 e a Escala de Burnout Autista AASPIRE, com interpretações de IA gratuitas para ambos\nPainel com resultados codificados por cores\nConstrutor de Perfil Sensorial com gráfico de radar em 8 categorias\nVerificações diárias de Mascaramento e Energia com tendências de 7 dias\nTemporizador de Duplicação Corporal com 6 tipos de ruído (sessões de até 5 minutos)\n15 Roteiros Sociais pré-escritos para chamadas, limites e vida diária\nModo SOS - respiração quadrada, aterramento 5-4-3-2-1, temporizadores suaves\nDiscagem rápida \"Ligar para minha pessoa\"\nDiário de Reflexão com etiquetas específicas para neurodivergência\nKit de Ferramentas de Regulação com 20 estratégias personalizadas\nGlossário do Centro de Aprendizagem\nRecursos de apoio em crises, com um diretório internacional de linhas de ajuda\nLembretes diários para rastreadores e diário\n\n💎 RECURSOS PRO (US$ 14,99 - PAGAMENTO ÚNICO)\n\nInterpretações de IA ilimitadas e Perfil Completo Síntese\nRastreador RAADS-R, CAT-Q, CATI e ASRS-v1.1\nScripts sociais personalizados gerados por IA para qualquer situação\nDetalhamento de tarefas baseado em fotos - tire uma foto e a IA escreve as etapas\nGerador de relatórios clínicos com exportação para PDF\nGerador de cartas de acomodação com exportação para PDF\nSistema de alerta precoce de burnout\nSessões ilimitadas de simulação de corpo\nTendências de pontuação em reavaliações\nHistórico de rastreamento de 30 dias e sincronização na nuvem\nExportação de cartão de perfil compartilhável\n\nPague uma vez. Tenha para sempre.\n\n🔒 PRIVACIDADE\n\nSeu diário, scripts e check-ins permanecem em seu dispositivo e são excluídos dos backups do Android. Suas respostas nunca são armazenadas em nossos servidores e nunca são usadas para treinar modelos de IA. Faça login anonimamente, com o Google ou com e-mail.\n\nNOTA SOBRE DIAGNÓSTICO\n\nO Unmasked não diagnostica. Estas são ferramentas de triagem, não instrumentos de diagnóstico - um diagnóstico formal requer um profissional qualificado. O que o Unmasked oferece é o autoconhecimento que você construiria lendo uma pilha de livros e escrevendo em um diário por seis meses.\n\nVocê não está quebrado(a). Você está descobrindo quem você sempre foi.",
+      "descriptionHTML": "Você não está com defeito. Você pode simplesmente funcionar de forma diferente.<br><br>O Unmasked é um guia de autodescoberta para adultos que suspeitam ter autismo, TDAH ou ambos — e que desejam explorar essa possibilidade sem gastar milhares de reais em uma avaliação.<br><br>Criado por alguém que vivenciou o diagnóstico tardio, para pessoas que vivenciaram o diagnóstico tardio. Sem jargões clínicos. Sem enquadramento deficitário. Sem julgamentos.<br><br>Gratuito para começar. Upgrade Pro opcional por US$ 14,99 (pagamento único). <b>Pague uma vez e tenha acesso para sempre.</b><br><br>Este não é um instrumento de diagnóstico. O Unmasked utiliza questionários de pesquisa validados e ferramentas de reflexão acolhedoras para ajudar você a se compreender — o que você tem mascarado, o que te esgota, o que você precisa.<br><br>🧠 SEIS AUTOAVALIAÇÕES COM BASE EM PESQUISA<br><br>AQ-10 (Quociente do Espectro Autista, 2-3 min) - Gratuito<br>Escala de Burnout Autista AASPIRE - Revisada (14 itens) - Gratuita<br>RAADS-R (Escala Diagnóstica de Autismo e Asperger de Ritvo, 15-25 min) - Pago<br>CAT-Q (Questionário de Camuflagem de Traços Autistas) - Pago<br>CATI (Inventário Abrangente de Traços Autistas) - Pago<br>ASRS-v1.1 (Escala de Autoavaliação de TDAH para Adultos) - Pago<br><br>O CATI funciona de forma diferente: em vez de uma única pontuação, ele mapeia seis dimensões de traços - interação social, comunicação, camuflagem, flexibilidade cognitiva, autorregulação e sensibilidade sensorial - para que você veja o formato do seu perfil, e não apenas um número.<br><br>A Escala de Burnout Autista AASPIRE é diferente novamente. As outras perguntam como você sempre foi. Esta pergunta compara os últimos três meses com a sua linha de base, permitindo que você a refaça mais tarde e veja o que mudou. Incluída gratuitamente, usada com permissão da AASPIRE, com a citação completa exibida no aplicativo.<br><br>Salve e retome qualquer avaliação. Áudio explicativo disponível durante todo o processo.<br><br>✨ REFLEXÃO COM IA<br><br>Duas narrativas gratuitas com IA — uma para o AQ-10 e outra para a escala de burnout — para que você possa ver o que torna o Unmasked diferente de qualquer outro teste online. A IA contextualiza suas pontuações usando uma linguagem que prioriza a identidade, em um tom acolhedor e afirmativo.<br><br>A versão Pro desbloqueia interpretações ilimitadas com IA e a Síntese de Perfil Completo — uma análise mais aprofundada de todas as suas avaliações em conjunto.<br><br>🎯 TUDO O QUE VOCÊ PRECISA, GRÁTIS<br><br>AQ-10 e a Escala de Burnout Autista AASPIRE, com interpretações de IA gratuitas para ambos<br>Painel com resultados codificados por cores<br>Construtor de Perfil Sensorial com gráfico de radar em 8 categorias<br>Verificações diárias de Mascaramento e Energia com tendências de 7 dias<br>Temporizador de Duplicação Corporal com 6 tipos de ruído (sessões de até 5 minutos)<br>15 Roteiros Sociais pré-escritos para chamadas, limites e vida diária<br>Modo SOS - respiração quadrada, aterramento 5-4-3-2-1, temporizadores suaves<br>Discagem rápida &quot;Ligar para minha pessoa&quot;<br>Diário de Reflexão com etiquetas específicas para neurodivergência<br>Kit de Ferramentas de Regulação com 20 estratégias personalizadas<br>Glossário do Centro de Aprendizagem<br>Recursos de apoio em crises, com um diretório internacional de linhas de ajuda<br>Lembretes diários para rastreadores e diário<br><br>💎 RECURSOS PRO (US$ 14,99 - PAGAMENTO ÚNICO)<br><br>Interpretações de IA ilimitadas e Perfil Completo Síntese<br>Rastreador RAADS-R, CAT-Q, CATI e ASRS-v1.1<br>Scripts sociais personalizados gerados por IA para qualquer situação<br>Detalhamento de tarefas baseado em fotos - tire uma foto e a IA escreve as etapas<br>Gerador de relatórios clínicos com exportação para PDF<br>Gerador de cartas de acomodação com exportação para PDF<br>Sistema de alerta precoce de burnout<br>Sessões ilimitadas de simulação de corpo<br>Tendências de pontuação em reavaliações<br>Histórico de rastreamento de 30 dias e sincronização na nuvem<br>Exportação de cartão de perfil compartilhável<br><br>Pague uma vez. Tenha para sempre.<br><br>🔒 PRIVACIDADE<br><br>Seu diário, scripts e check-ins permanecem em seu dispositivo e são excluídos dos backups do Android. Suas respostas nunca são armazenadas em nossos servidores e nunca são usadas para treinar modelos de IA. Faça login anonimamente, com o Google ou com e-mail.<br><br>NOTA SOBRE DIAGNÓSTICO<br><br>O Unmasked não diagnostica. Estas são ferramentas de triagem, não instrumentos de diagnóstico - um diagnóstico formal requer um profissional qualificado. O que o Unmasked oferece é o autoconhecimento que você construiria lendo uma pilha de livros e escrevendo em um diário por seis meses.<br><br>Você não está quebrado(a). Você está descobrindo quem você sempre foi.",
+      "summary": "Autoavaliações, ferramentas sensoriais e insights de IA para adultos que exploram o autismo/TDAH.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2375,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ali3nstudios.unmasked",
+      "url": "https://play.google.com/store/apps/details?id=com.ali3nstudios.unmasked&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Psicologia: Linguagem Corporal",
+      "description": "Você quer entender as pessoas? Este aplicativo vai ensinar como interpretar a linguagem corporal, decodificar emoções ocultas e se comunicar de forma mais eficaz.\nEle contém mais de 70 gestos, 100 vídeos, 100 questões de teste, 50 situações contextuais e 100 exercícios de percepção.\nTodo o conteúdo é baseado em livros de psicologia, artigos acadêmicos e em nossas próprias pesquisas.\nOferecemos mais do que os livros oferecem e queremos ajudar a aumentar a inteligência emocional das pessoas.\n\nPrincipais Recursos:\n\nGestos e Microexpressões:\nDescrições completas de todos os aspectos da comunicação não verbal, cada uma contendo pelo menos uma foto de exemplo e a explicação de como o comportamento se apresenta e qual o seu significado. Para tornar tudo mais prático, muitos gestos também incluem: conselhos, curiosidades, dicas de detecção de mentiras e gatilhos.\n\nFotos e Vídeos Realistas:\nCada gesto vem acompanhado de várias fotos. Além disso, a maioria dos gestos também conta com vídeos. Isso permite que você veja determinados gestos em diferentes contextos e em diferentes pessoas.\n\nPercepção:\nVídeos e fotos mostrados rapidamente para testar quanto você consegue identificar.\n\nSituações:\nHistórias curtas com múltiplas respostas possíveis para testar sua compreensão de psicologia em contexto.\n\nTestes:\n8 testes diferentes com mais de 100 perguntas, ajudando você a avaliar seu conhecimento e compreensão da linguagem corporal.\n\nOffline:\nA maior parte das funcionalidades funciona completamente offline. A única parte que requer acesso à internet são as fotos e os vídeos.\n\nSeja você extrovertido ou esteja no espectro autista, nosso app vai ajudar você a melhorar em psicologia hoje mesmo.\nEle também foi projetado no estilo microlearning, permitindo que você aprenda no seu próprio ritmo, quando e onde quiser.",
+      "descriptionHTML": "Você quer entender as pessoas? Este aplicativo vai ensinar como interpretar a linguagem corporal, decodificar emoções ocultas e se comunicar de forma mais eficaz.<br>Ele contém mais de 70 gestos, 100 vídeos, 100 questões de teste, 50 situações contextuais e 100 exercícios de percepção.<br>Todo o conteúdo é baseado em livros de psicologia, artigos acadêmicos e em nossas próprias pesquisas.<br>Oferecemos mais do que os livros oferecem e queremos ajudar a aumentar a inteligência emocional das pessoas.<br><br><b>Principais Recursos:</b><br><br><b>Gestos e Microexpressões:</b><br>Descrições completas de todos os aspectos da comunicação não verbal, cada uma contendo pelo menos uma foto de exemplo e a explicação de como o comportamento se apresenta e qual o seu significado. Para tornar tudo mais prático, muitos gestos também incluem: conselhos, curiosidades, dicas de detecção de mentiras e gatilhos.<br><br><b>Fotos e Vídeos Realistas:</b><br>Cada gesto vem acompanhado de várias fotos. Além disso, a maioria dos gestos também conta com vídeos. Isso permite que você veja determinados gestos em diferentes contextos e em diferentes pessoas.<br><br><b>Percepção:</b><br>Vídeos e fotos mostrados rapidamente para testar quanto você consegue identificar.<br><br><b>Situações:</b><br>Histórias curtas com múltiplas respostas possíveis para testar sua compreensão de psicologia em contexto.<br><br><b>Testes:</b><br>8 testes diferentes com mais de 100 perguntas, ajudando você a avaliar seu conhecimento e compreensão da linguagem corporal.<br><br><b>Offline:</b><br>A maior parte das funcionalidades funciona completamente offline. A única parte que requer acesso à internet são as fotos e os vídeos.<br><br>Seja você extrovertido ou esteja no espectro autista, nosso app vai ajudar você a melhorar em psicologia hoje mesmo.<br>Ele também foi projetado no estilo microlearning, permitindo que você aprenda no seu próprio ritmo, quando e onde quiser.",
+      "summary": "Decifre intenções ocultas, construa confiança e comunique-se com mais eficácia",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1071073,
+      "score": 4.6372547,
+      "scoreText": "4,6",
+      "ratings": 12418,
+      "reviews": 52,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "io.blacklagoonapps.bodylanguage",
+      "url": "https://play.google.com/store/apps/details?id=io.blacklagoonapps.bodylanguage&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "SOS Borderline Habilidades TCD",
+      "description": "SOS Borderline é seu kit de emergência pessoal para momentos difíceis. Desenvolvido para pessoas com Transtorno de Personalidade Borderline (TPB) e instabilidade emocional – mas útil para qualquer pessoa lidando com emoções fortes, estresse ou tensão.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🆘 AJUDA IMEDIATA\n\n📋 Plano de Crise (Sistema de Semáforo)\nCrie seu plano de segurança pessoal:\n• Verde: O que te estabiliza no dia a dia?\n• Amarelo: O que ajuda quando a tensão sobe?\n• Vermelho: Estratégias de emergência, contatos e habilidades\n➜ Salvar ou compartilhar como PDF\n\n🧠 70+ Habilidades DBT / TCD\nEstratégias comprovadas da Terapia Comportamental Dialética (DBT):\n• Habilidades de mindfulness\n• Tolerância ao mal-estar\n• Regulação emocional\n• Adicione suas próprias atividades\n• Habilidade do Dia\n\n🧳 Kit de Emergência Físico (Lista)\nMonte sua caixa de habilidades real para casa ou para levar:\n• Lista interativa (Sensorial, Calmante, Atividade e Mente)\n• Marque os itens que você já tem à mão\n• Adicione seus próprios itens pessoais\n\n📞 Contatos de Emergência\n• Suas pessoas importantes a um clique\n• Chamada, SMS ou WhatsApp\n• Botão SOS com ajuda imediata (Respiração 4-7-8)\n\n━━━━━━━━━━━━━━━━━━━━\n\n📖 DIÁRIO DE HUMOR E CONQUISTAS\n\nEntenda melhor seus padrões:\n• Registre tensão, humor e energia diariamente\n• Documente gatilhos e pensamentos\n• Insights semanais: O que te ajuda mais?\n• Identifique qual habilidade funciona para qual gatilho\n\n🏆 Painel de Conquistas e Marcos\n• Sequência de check-ins: Mantenha sua rotina sem pressão\n• Descubra seus Anti-Gatilhos: O que te faz bem?\n• Celebre seus marcos e crises superadas\n\n☀️ Check-In Diário\n• Qualidade do sono\n• Controle de medicação\n• Bem-estar físico\n\n📄 Exportar PDF\nExporte seu diário em um PDF claro:\n• Para sua própria reflexão\n• Para compartilhar com pessoas de confiança\n• Para conversas com conselheiros ou terapeutas\n\n━━━━━━━━━━━━━━━━━━━━\n\n🔒 100% PRIVADO\n\nEste app respeita sua privacidade:\n• Local-First: Todos os dados ficam no SEU dispositivo\n• Sem nuvem, sem servidores\n• 100% utilizável offline\n• Sem conta, sem cadastro\n• Sem anúncios, sem rastreamento\n• Respeita a privacidade. Seus dados pertencem a você.\n\n━━━━━━━━━━━━━━━━━━━━\n\n👥 PARA QUEM É ESTE APP?\n\n• Pessoas com Transtorno Borderline (TPB)\n• Pessoas com instabilidade emocional\n• Familiares que querem entender e apoiar\n• Pacientes de DBT (acompanhamento terapêutico)\n• Autoajuda para estresse e tensão\n\n━━━━━━━━━━━━━━━━━━━━\n\n⚠️ AVISO\nSOS Borderline é uma ferramenta de apoio diário. O app não substitui tratamento médico ou psicoterapéutico profissional. Em caso de crises agudas, procure ajuda profissional imediatamente.\n\n━━━━━━━━━━━━━━━━━━━━\n\n🎁 Comece agora com 14 dias de Premium grátis!",
+      "descriptionHTML": "SOS Borderline é seu kit de emergência pessoal para momentos difíceis. Desenvolvido para pessoas com Transtorno de Personalidade Borderline (TPB) e instabilidade emocional – mas útil para qualquer pessoa lidando com emoções fortes, estresse ou tensão.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🆘 AJUDA IMEDIATA<br><br>📋 Plano de Crise (Sistema de Semáforo)<br>Crie seu plano de segurança pessoal:<br>• Verde: O que te estabiliza no dia a dia?<br>• Amarelo: O que ajuda quando a tensão sobe?<br>• Vermelho: Estratégias de emergência, contatos e habilidades<br>➜ Salvar ou compartilhar como PDF<br><br>🧠 70+ Habilidades DBT / TCD<br>Estratégias comprovadas da Terapia Comportamental Dialética (DBT):<br>• Habilidades de mindfulness<br>• Tolerância ao mal-estar<br>• Regulação emocional<br>• Adicione suas próprias atividades<br>• Habilidade do Dia<br><br>🧳 Kit de Emergência Físico (Lista)<br>Monte sua caixa de habilidades real para casa ou para levar:<br>• Lista interativa (Sensorial, Calmante, Atividade e Mente)<br>• Marque os itens que você já tem à mão<br>• Adicione seus próprios itens pessoais<br><br>📞 Contatos de Emergência<br>• Suas pessoas importantes a um clique<br>• Chamada, SMS ou WhatsApp<br>• Botão SOS com ajuda imediata (Respiração 4-7-8)<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>📖 DIÁRIO DE HUMOR E CONQUISTAS<br><br>Entenda melhor seus padrões:<br>• Registre tensão, humor e energia diariamente<br>• Documente gatilhos e pensamentos<br>• Insights semanais: O que te ajuda mais?<br>• Identifique qual habilidade funciona para qual gatilho<br><br>🏆 Painel de Conquistas e Marcos<br>• Sequência de check-ins: Mantenha sua rotina sem pressão<br>• Descubra seus Anti-Gatilhos: O que te faz bem?<br>• Celebre seus marcos e crises superadas<br><br>☀️ Check-In Diário<br>• Qualidade do sono<br>• Controle de medicação<br>• Bem-estar físico<br><br>📄 Exportar PDF<br>Exporte seu diário em um PDF claro:<br>• Para sua própria reflexão<br>• Para compartilhar com pessoas de confiança<br>• Para conversas com conselheiros ou terapeutas<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🔒 100% PRIVADO<br><br>Este app respeita sua privacidade:<br>• Local-First: Todos os dados ficam no SEU dispositivo<br>• Sem nuvem, sem servidores<br>• 100% utilizável offline<br>• Sem conta, sem cadastro<br>• Sem anúncios, sem rastreamento<br>• Respeita a privacidade. Seus dados pertencem a você.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>👥 PARA QUEM É ESTE APP?<br><br>• Pessoas com Transtorno Borderline (TPB)<br>• Pessoas com instabilidade emocional<br>• Familiares que querem entender e apoiar<br>• Pacientes de DBT (acompanhamento terapêutico)<br>• Autoajuda para estresse e tensão<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>⚠️ AVISO<br>SOS Borderline é uma ferramenta de apoio diário. O app não substitui tratamento médico ou psicoterapéutico profissional. Em caso de crises agudas, procure ajuda profissional imediatamente.<br><br>━━━━━━━━━━━━━━━━━━━━<br><br>🎁 Comece agora com 14 dias de Premium grátis!",
+      "summary": "Seu kit de emergência TPB: 70+ habilidades TCD, plano de crise e diário.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3988,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sosborderline.app",
+      "url": "https://play.google.com/store/apps/details?id=com.sosborderline.app&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "National Disability Register",
+      "description": "Cadastre-se no aplicativo Registro Nacional de Deficiência das Bermudas para acessar recursos essenciais e suporte personalizado para Pessoas com Deficiência (PcDs) nas Bermudas.\n\nCaracterísticas:\n\n- Registre e gerencie seu perfil sem esforço\n- Conecte-se com serviços e organizações locais para deficientes nas Bermudas\n- Mantenha-se atualizado com eventos e recursos personalizados nas Bermudas para Pessoas com Deficiência\n- Receba suporte e assistência personalizados\n\nO aplicativo Bermuda National Disability Register é a sua solução abrangente para navegar pelos serviços de deficiência nas Bermudas. Baixe hoje e comece a se conectar com o suporte que você precisa!\"",
+      "descriptionHTML": "Cadastre-se no aplicativo Registro Nacional de Deficiência das Bermudas para acessar recursos essenciais e suporte personalizado para Pessoas com Deficiência (PcDs) nas Bermudas.<br><br>Características:<br><br>- Registre e gerencie seu perfil sem esforço<br>- Conecte-se com serviços e organizações locais para deficientes nas Bermudas<br>- Mantenha-se atualizado com eventos e recursos personalizados nas Bermudas para Pessoas com Deficiência<br>- Receba suporte e assistência personalizados<br><br>O aplicativo Bermuda National Disability Register é a sua solução abrangente para navegar pelos serviços de deficiência nas Bermudas. Baixe hoje e comece a se conectar com o suporte que você precisa!&quot;",
+      "summary": "Acesse serviços, informações e suporte para deficientes nas Bermudas.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 11311,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.bmregisterdisability",
+      "url": "https://play.google.com/store/apps/details?id=com.bmregisterdisability&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Speech Assistant AAC",
+      "description": "O Speech Assistant AAC é um aplicativo de conversão de texto em fala (TTS) projetado para pessoas com problemas de fala, por exemplo, devido a Afasia, MND/ALS, Autismo, AVC, Paralisia Cerebral ou outros problemas de fala.\n\nCom o app você pode criar categorias e frases, que são colocadas em botões. Com esses botões, você pode criar mensagens que podem ser mostradas ou faladas (text-to-speech). Também é possível digitar qualquer texto usando o teclado.\n\nPrincipais recursos\n• Fácil de usar e totalmente personalizável de acordo com suas necessidades e preferências.\n• Categorias para organizar suas frases.\n• Histórico para acesso rápido a frases digitadas anteriormente.\n• Opção para selecionar fotos de sua Fototeca ou Símbolos nos botões.\n• Opção para gravar fala ou usar uma voz text-to-speech.\n• Botão de tela cheia para mostrar sua mensagem com uma fonte grande.\n• Recurso de preenchimento automático para encontrar rapidamente suas frases.\n• Guias para várias conversas (configuração opcional).\n• Projetado para smartphones e tablets com layout retrato e paisagem.\n• Backup para Mail ou Google Drive.\n\nCategorias e frases\n• Adicione, altere ou exclua suas próprias categorias e frases.\n• Você pode criar categorias para organizar suas frases para acesso rápido.\n• Pressione e segure (configuração opcional) para editar facilmente os botões de frase e categoria.\n• Opção para fazer backup e restaurar suas categorias e frases.\n\nTotalmente personalizável\n• O tamanho dos botões, da caixa de texto e do texto podem ser ajustados.\n• O aplicativo possui vários esquemas de cores e você também pode criar um esquema de cores pessoal.\n• Dê cores diferentes aos botões individuais com frases.\n\nTela cheia\n• Mostre sua mensagem em tela cheia com uma fonte muito grande.\n• Útil para comunicação em ambientes ruidosos.\n• Botão para girar o texto para mostrar sua mensagem para a pessoa à sua frente.\n\nOutras funcionalidades\n• Botão para compartilhar sua mensagem por e-mail, texto e mídia social.\n• Conecte um teclado bluetooth e crie atalhos para as funções Falar, Limpar, Mostrar e Som de Atenção.\n• Opção para evitar o toque duplo, desativando o botão (por um curto período de tempo) após o toque.\n• Desfazer opção em caso de toque involuntário no botão limpar.\n• Botão de som de atenção na tela principal e cheia.\n\nVozes\nA voz não faz parte do app, mas o app usa a voz instalada no seu aparelho.\nPor exemplo, você pode usar uma das vozes de 'Speech Services by Google'. Tem vozes femininas e masculinas em vários idiomas. Se não estiver disponível no seu dispositivo, você pode baixá-lo na Google Play Store.\nVocê pode alterar a voz selecionada nas configurações de voz do aplicativo.\n\nVersão completa\nA versão básica do aplicativo é gratuita. Nas configurações do aplicativo, você pode atualizar para a versão completa. Este é um pagamento único para esses recursos extras, não há assinatura.\n• Um número ilimitado de categorias.\n• Opção de backup e restauração.\n• Opção para selecionar símbolos do conjunto de 3400 símbolos de amora (mulberrysymbols.org).\n• Opção para mudar a cor dos botões individuais.\n• Histórico para acesso rápido a frases faladas anteriormente.\n• Crie perfis de usuário para diferentes idiomas, situações ou pessoas.\n• Guias para alternar facilmente entre várias conversas.\n• Opção para gravar fala em um botão e importar gravações de voz para o aplicativo.\n\nSobre o aplicativo\n• O aplicativo não requer conexão com a internet.\n• Para comentários ou perguntas, entre em contato: android@asoft.nl.\n• Em www.asoft.nl você pode encontrar um manual do usuário.",
+      "descriptionHTML": "O Speech Assistant AAC é um aplicativo de conversão de texto em fala (TTS) projetado para pessoas com problemas de fala, por exemplo, devido a Afasia, MND/ALS, Autismo, AVC, Paralisia Cerebral ou outros problemas de fala.<br><br>Com o app você pode criar categorias e frases, que são colocadas em botões. Com esses botões, você pode criar mensagens que podem ser mostradas ou faladas (text-to-speech). Também é possível digitar qualquer texto usando o teclado.<br><br><b>Principais recursos</b><br>• Fácil de usar e totalmente personalizável de acordo com suas necessidades e preferências.<br>• Categorias para organizar suas frases.<br>• Histórico para acesso rápido a frases digitadas anteriormente.<br>• Opção para selecionar fotos de sua Fototeca ou Símbolos nos botões.<br>• Opção para gravar fala ou usar uma voz text-to-speech.<br>• Botão de tela cheia para mostrar sua mensagem com uma fonte grande.<br>• Recurso de preenchimento automático para encontrar rapidamente suas frases.<br>• Guias para várias conversas (configuração opcional).<br>• Projetado para smartphones e tablets com layout retrato e paisagem.<br>• Backup para Mail ou Google Drive.<br><br><b>Categorias e frases</b><br>• Adicione, altere ou exclua suas próprias categorias e frases.<br>• Você pode criar categorias para organizar suas frases para acesso rápido.<br>• Pressione e segure (configuração opcional) para editar facilmente os botões de frase e categoria.<br>• Opção para fazer backup e restaurar suas categorias e frases.<br><br><b>Totalmente personalizável</b><br>• O tamanho dos botões, da caixa de texto e do texto podem ser ajustados.<br>• O aplicativo possui vários esquemas de cores e você também pode criar um esquema de cores pessoal.<br>• Dê cores diferentes aos botões individuais com frases.<br><br><b>Tela cheia</b><br>• Mostre sua mensagem em tela cheia com uma fonte muito grande.<br>• Útil para comunicação em ambientes ruidosos.<br>• Botão para girar o texto para mostrar sua mensagem para a pessoa à sua frente.<br><br><b>Outras funcionalidades</b><br>• Botão para compartilhar sua mensagem por e-mail, texto e mídia social.<br>• Conecte um teclado bluetooth e crie atalhos para as funções Falar, Limpar, Mostrar e Som de Atenção.<br>• Opção para evitar o toque duplo, desativando o botão (por um curto período de tempo) após o toque.<br>• Desfazer opção em caso de toque involuntário no botão limpar.<br>• Botão de som de atenção na tela principal e cheia.<br><br><b>Vozes</b><br>A voz não faz parte do app, mas o app usa a voz instalada no seu aparelho.<br>Por exemplo, você pode usar uma das vozes de &#39;Speech Services by Google&#39;. Tem vozes femininas e masculinas em vários idiomas. Se não estiver disponível no seu dispositivo, você pode baixá-lo na Google Play Store.<br>Você pode alterar a voz selecionada nas configurações de voz do aplicativo.<br><br><b>Versão completa</b><br>A versão básica do aplicativo é gratuita. Nas configurações do aplicativo, você pode atualizar para a versão completa. Este é um pagamento único para esses recursos extras, não há assinatura.<br>• Um número ilimitado de categorias.<br>• Opção de backup e restauração.<br>• Opção para selecionar símbolos do conjunto de 3400 símbolos de amora (mulberrysymbols.org).<br>• Opção para mudar a cor dos botões individuais.<br>• Histórico para acesso rápido a frases faladas anteriormente.<br>• Crie perfis de usuário para diferentes idiomas, situações ou pessoas.<br>• Guias para alternar facilmente entre várias conversas.<br>• Opção para gravar fala em um botão e importar gravações de voz para o aplicativo.<br><br><b>Sobre o aplicativo</b><br>• O aplicativo não requer conexão com a internet.<br>• Para comentários ou perguntas, entre em contato: android@asoft.nl.<br>• Em www.asoft.nl você pode encontrar um manual do usuário.",
+      "summary": "Speech Assistant é um aplicativo Text to Speech AAC para pessoas com deficiência de fala.",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 856632,
+      "score": 4.4179106,
+      "scoreText": "4,4",
+      "ratings": 3049,
+      "reviews": 71,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "nl.asoft.speechassistant",
+      "url": "https://play.google.com/store/apps/details?id=nl.asoft.speechassistant&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Elevate - Brain Training",
+      "description": "*** Observe que as habilidades de linguagem ensinadas neste aplicativo estão disponíveis apenas em inglês. \n\nElevate é um programa de treinamento cerebral desenhado para melhorar sua concentração, habilidade de expressão, velocidade de processamento, memória, habilidades matemáticas e mais. Cada pessoa recebe seu programa de treinamento personalizado que se ajusta ao longo do tempo para maximizar os resultados. \n\nQuanto mais você treina com o Elevate, mais você melhora habilidades cognitivas que impulsionam a sua produtividade, obtenção de poder e auto-estima. Usuários que treinam pelo menos 3 vezes por semana reportam ganhos dramáticos e aumento na confiança. \n\nDESTAQUES \n\n* 40+ jogos para treinar habilidades cognitivas importantes como concentração, processamento, contas, precisão e compreensão. \n* Monitoramento detalhado de performance \n* Treinamentos diários personalizados que incluem as habilidades que você mais precisa \n* Progressão de dificuldade adaptativa para garantir que a sua experiência é desafiante \n* Calendário de exercícios para ajudar você a continuar motivado e jogando \n* E mais! \n\nNAS NOTÍCIAS \n\nCNET \n\"Elevate está na liderança\" da batalha dos aplicativos de treinamento cerebral. \n\nWashington Post \nElevate é um \"estimulante cognitivo\" com jogos que são \"ótimos intervalos mentais durante o seu dia de trabalho\". \n\nPESQUISA POR TRÁS DO ELEVATE \n\nOs jogos do Elevate são desenhados em colaboração com especialistas em neurociência e aprendizado cognitivo, e são baseados em pesquisa científica extensiva. Os algoritmos do treinamento cerebral do Elevate concentram ainda mais a experiência de aprendizado utilizando pesquisa de estudos da memória para desenvolver um programa de treinamento personalizado para cada usuário. \n\n***************** \n\nElevate is a brain training program designed to improve focus, speaking skills, processing speed, memory, math skills, and more. Each person is provided with his or her own personalized training program that adjusts over time to maximize results. \n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. Users who train at least 3 times per week have reported dramatic gains and increased confidence. \n\nFEATURES \n\n* 40+ games for critical cognitive skills like focus, memory, processing, math, precision, and comprehension \n* Detailed performance tracking \n* Personalized daily workouts that include the skills you need most \n* Adaptive difficulty progression to ensure your experience is challenging \n* Workout calendar to help you track your streaks and stay motivated \n* And more! \n\nIN THE NEWS \n\nCNET \n“Elevate comes out ahead” in the battle of the brain training apps. \n\nWashington Post \nElevate is a “cognitive pick-me-up” with games that are “good for mental breaks throughout the workday.” \n\nRESEARCH BEHIND ELEVATE \n\nElevate's games are designed in collaboration with experts in neuroscience and cognitive learning and are based on extensive scientific research. Elevate’s brain training algorithms further focus the learning experience by drawing from research in memory studies to develop a personalized training program for each user.",
+      "descriptionHTML": "*** Observe que as habilidades de linguagem ensinadas neste aplicativo estão disponíveis apenas em inglês. <br><br>Elevate é um programa de treinamento cerebral desenhado para melhorar sua concentração, habilidade de expressão, velocidade de processamento, memória, habilidades matemáticas e mais. Cada pessoa recebe seu programa de treinamento personalizado que se ajusta ao longo do tempo para maximizar os resultados. <br><br>Quanto mais você treina com o Elevate, mais você melhora habilidades cognitivas que impulsionam a sua produtividade, obtenção de poder e auto-estima. Usuários que treinam pelo menos 3 vezes por semana reportam ganhos dramáticos e aumento na confiança. <br><br>DESTAQUES <br><br>* 40+ jogos para treinar habilidades cognitivas importantes como concentração, processamento, contas, precisão e compreensão. <br>* Monitoramento detalhado de performance <br>* Treinamentos diários personalizados que incluem as habilidades que você mais precisa <br>* Progressão de dificuldade adaptativa para garantir que a sua experiência é desafiante <br>* Calendário de exercícios para ajudar você a continuar motivado e jogando <br>* E mais! <br><br>NAS NOTÍCIAS <br><br>CNET <br>&quot;Elevate está na liderança&quot; da batalha dos aplicativos de treinamento cerebral. <br><br>Washington Post <br>Elevate é um &quot;estimulante cognitivo&quot; com jogos que são &quot;ótimos intervalos mentais durante o seu dia de trabalho&quot;. <br><br>PESQUISA POR TRÁS DO ELEVATE <br><br>Os jogos do Elevate são desenhados em colaboração com especialistas em neurociência e aprendizado cognitivo, e são baseados em pesquisa científica extensiva. Os algoritmos do treinamento cerebral do Elevate concentram ainda mais a experiência de aprendizado utilizando pesquisa de estudos da memória para desenvolver um programa de treinamento personalizado para cada usuário. <br><br>***************** <br><br>Elevate is a brain training program designed to improve focus, speaking skills, processing speed, memory, math skills, and more. Each person is provided with his or her own personalized training program that adjusts over time to maximize results. <br><br>The more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. Users who train at least 3 times per week have reported dramatic gains and increased confidence. <br><br>FEATURES <br><br>* 40+ games for critical cognitive skills like focus, memory, processing, math, precision, and comprehension <br>* Detailed performance tracking <br>* Personalized daily workouts that include the skills you need most <br>* Adaptive difficulty progression to ensure your experience is challenging <br>* Workout calendar to help you track your streaks and stay motivated <br>* And more! <br><br>IN THE NEWS <br><br>CNET <br>“Elevate comes out ahead” in the battle of the brain training apps. <br><br>Washington Post <br>Elevate is a “cognitive pick-me-up” with games that are “good for mental breaks throughout the workday.” <br><br>RESEARCH BEHIND ELEVATE <br><br>Elevate&#39;s games are designed in collaboration with experts in neuroscience and cognitive learning and are based on extensive scientific research. Elevate’s brain training algorithms further focus the learning experience by drawing from research in memory studies to develop a personalized training program for each user.",
+      "summary": "Elevate, ferramenta de treino cerebral para melhoria da memória, foco e mais.",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 28697953,
+      "score": 4.7014136,
+      "scoreText": "4,7",
+      "ratings": 519972,
+      "reviews": 3621,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.wonder",
+      "url": "https://play.google.com/store/apps/details?id=com.wonder&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Dictio AI: Dicção e Oratória",
+      "description": "Quer falar com confiança, clareza e autoridade? O Dictio AI é o seu treinador pessoal de dicção, articulação e oratória baseado em inteligência artificial (IA), desenvolvido para aprimorar sua técnica vocal e habilidade de falar em público através de um método prático de cartões interativos (flashcards).\n\nNOVO: ANÁLISE DE FALA COM IA\n- Avaliação de Pronúncia Instantânea: Pratique lendo cartões ou trava-línguas e receba um feedback detalhado da IA sobre sua precisão, ritmo e clareza vocal.\n- Acompanhamento Inteligente de Progresso: Elimine a dicção presa, melhore a fluidez da fala e aperfeiçoe seu tom de voz todos os dias com a ajuda do seu assistente de IA.\n\nRECURSOS PRINCIPAIS PARA UMA DICÇÃO PERFEITA\nO Dictio AI estrutura um plano de treinamento diário para aquecer seu aparelho fonador:\n\n- Combinações Complexas: Domine padrões de sons difíceis para falar com fluidez e evitar que a língua trave durante a fala.\n- Palavras Difíceis: Treine seus músculos bucais com uma seleção de palavras complexas que costumam causar tropeços.\n- Biblioteca Completa de Trava-línguas: Desde exercícios básicos de aquecimento até textos profissionais utilizados por locutores, atores e palestrantes.\n\nTRÊS NÍVEIS DE DIFICULDADE ADAPTADOS\n- Iniciante: Aquecimento vocal básico e pronúncia limpa para o dia a dia.\n- Intermediário: Desenvolva segurança ao falar em reuniões de trabalho, apresentações e negociações.\n- Avançado: Treinamento intensivo de articulação em alta velocidade para criadores de conteúdo, podcasters e comunicadores.\n\nPARA QUEM É O DICTIO AI?\n- Criadores de Conteúdo e Blogueiros: Grave vídeos, Reels e Podcasts com fluidez, sem erros ou vícios de linguagem.\n- Empresários e Líderes: Realize apresentações persuasivas e negociações de sucesso.\n- Estudantes: Fale com segurança em exames, entrevistas de emprego e apresentações acadêmicas.\n- Treinamento Vocal Autônomo: Método prático e eficaz para melhorar o tom de voz e a performance vocal em adultos.\n\nFalar bem e com impacto é uma habilidade que se treina. Baixe o Dictio AI hoje mesmo, comece sua rotina vocal diária e sinta a confiança em cada palavra que disser!",
+      "descriptionHTML": "Quer falar com confiança, clareza e autoridade? O Dictio AI é o seu treinador pessoal de dicção, articulação e oratória baseado em inteligência artificial (IA), desenvolvido para aprimorar sua técnica vocal e habilidade de falar em público através de um método prático de cartões interativos (flashcards).<br><br>NOVO: ANÁLISE DE FALA COM IA<br>- Avaliação de Pronúncia Instantânea: Pratique lendo cartões ou trava-línguas e receba um feedback detalhado da IA sobre sua precisão, ritmo e clareza vocal.<br>- Acompanhamento Inteligente de Progresso: Elimine a dicção presa, melhore a fluidez da fala e aperfeiçoe seu tom de voz todos os dias com a ajuda do seu assistente de IA.<br><br>RECURSOS PRINCIPAIS PARA UMA DICÇÃO PERFEITA<br>O Dictio AI estrutura um plano de treinamento diário para aquecer seu aparelho fonador:<br><br>- Combinações Complexas: Domine padrões de sons difíceis para falar com fluidez e evitar que a língua trave durante a fala.<br>- Palavras Difíceis: Treine seus músculos bucais com uma seleção de palavras complexas que costumam causar tropeços.<br>- Biblioteca Completa de Trava-línguas: Desde exercícios básicos de aquecimento até textos profissionais utilizados por locutores, atores e palestrantes.<br><br>TRÊS NÍVEIS DE DIFICULDADE ADAPTADOS<br>- Iniciante: Aquecimento vocal básico e pronúncia limpa para o dia a dia.<br>- Intermediário: Desenvolva segurança ao falar em reuniões de trabalho, apresentações e negociações.<br>- Avançado: Treinamento intensivo de articulação em alta velocidade para criadores de conteúdo, podcasters e comunicadores.<br><br>PARA QUEM É O DICTIO AI?<br>- Criadores de Conteúdo e Blogueiros: Grave vídeos, Reels e Podcasts com fluidez, sem erros ou vícios de linguagem.<br>- Empresários e Líderes: Realize apresentações persuasivas e negociações de sucesso.<br>- Estudantes: Fale com segurança em exames, entrevistas de emprego e apresentações acadêmicas.<br>- Treinamento Vocal Autônomo: Método prático e eficaz para melhorar o tom de voz e a performance vocal em adultos.<br><br>Falar bem e com impacto é uma habilidade que se treina. Baixe o Dictio AI hoje mesmo, comece sua rotina vocal diária e sinta a confiança em cada palavra que disser!",
+      "summary": "Melhore sua dicção e voz com análise de IA. Exercícios diários de oratória.",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 48421,
+      "score": 4.25,
+      "scoreText": "4,2",
+      "ratings": 100,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.merkulofff.dictio",
+      "url": "https://play.google.com/store/apps/details?id=com.merkulofff.dictio&hl=pt&gl=br",
+      "rank": 21
+    },
+    {
+      "title": "Constant Therapy: Brain+Speech",
+      "description": "O Constant Therapy é um aplicativo premiado de terapia cognitiva, de linguagem e de fala, baseado em evidências científicas, desenvolvido para ajudar pessoas em recuperação de AVC, traumatismo cranioencefálico (TCE), afasia, apraxia, demência ou outras condições neurológicas. Junte-se a uma comunidade com mais de 800.000 usuários, que já realizaram mais de 325 milhões de atividades terapêuticas comprovadas cientificamente com o Constant Therapy. Obtenha terapia ilimitada guiada por IA, que permite que você participe de exercícios terapêuticos quando e onde quiser. Oferecemos suporte a usuários que buscam terapia estruturada para afasia ou terapia cognitiva, acessível a qualquer momento.\n\nDISPONÍVEL em dialetos do inglês (EUA, Reino Unido, Austrália, Índia) e espanhol americano.\n\nO Constant Therapy foi desenvolvido para abordar problemas como:\n– Eu sei o que quero dizer, mas não consigo encontrar as palavras devido à afasia.\n– Minha família não consegue me entender quando falo.\n– Antes do meu TCE, eu era um gênio da matemática. Agora, tenho dificuldade com matemática do dia a dia.\n– Sou esquecido(a) e preciso de ajuda para melhorar minha memória.\n– Manter o foco tem sido difícil para mim desde o meu AVC. Preciso aprimorar minha atenção e funções executivas\n– Meu ente querido está fazendo terapia da fala uma vez por mês, mas não é suficiente. Ele precisa de terapia diária\n– Preciso de mais exercícios para afasia, fala ou tratamento cognitivo entre as sessões de terapia\n\nCARACTERÍSTICAS E BENEFÍCIOS\n\n• Está se recuperando de um AVC, TCE, afasia, apraxia, demência ou outras condições neurológicas? Escolha seus objetivos de terapia da fala e cognitiva, e o aplicativo oferece exercícios personalizados e em constante adaptação com base em suas necessidades específicas.\n\n• Supere desafios de memória, aprimore suas habilidades de comunicação e recupere suas capacidades diárias com um programa individualizado.\n\n• Pratique fala, memória, atenção, leitura, escrita, linguagem, matemática, compreensão, resolução de problemas, processamento visual, memória auditiva e muitas outras habilidades essenciais para o desenvolvimento da fala.\n\n• Trabalhe de forma independente em casa, combine o aplicativo com a terapia na clínica ou adicione seu terapeuta para que ele possa monitorar seu progresso.\n\n• Ideal para usuários que desejam complementar a terapia da afasia, a terapia da fala e/ou a terapia cognitiva com exercícios diários para fazer em casa.\n\n• Aproveite nosso suporte ao cliente amigável e em tempo real – treinado para trabalhar com pessoas com dificuldades cognitivas e de comunicação.\n\n• Monitore seu progresso com relatórios de desempenho fáceis de entender e em tempo real.\n\n• Aumente suas chances de obter resultados positivos: pesquisas mostram que pacientes que usam o Constant Therapy praticam 5 vezes mais terapia, apresentam melhora mais rápida e melhores resultados***.\n\n• Acesse a biblioteca mais completa do mundo de exercícios baseados em evidências: mais de 1 milhão de exercícios. Em mais de 90 áreas terapêuticas\n\n• Experimente antes de assinar com um teste gratuito de 14 dias\n\n***A CIÊNCIA POR TRÁS DA CONSTANT THERAPY\n\nA Constant Therapy estabelece o padrão ouro com mais de 70 estudos que validam as evidências clínicas por trás de nossos exercícios de terapia da fala, linguagem e cognição. Também contamos com o respaldo de 19 estudos de pesquisa revisados ​​por pares que comprovam a eficácia da Constant Therapy. Veja a lista de estudos clínicos e pesquisas em:\nconstanttherapyhealth.com/science/\n\nA Constant Therapy é muito mais do que um aplicativo de treinamento cerebral ou jogos para o cérebro. Ela foi desenvolvida por médicos e cientistas da Universidade de Boston especificamente para lidar com os desafios da recuperação após AVC, lesão cerebral, TCE, afasia, demência, apraxia e outros distúrbios neurológicos. Ela monitora sistematicamente o progresso do paciente em diversas áreas funcionais.\n\nVencedora de múltiplos prêmios da Hearst Health, UCSF Health Hub, American Stroke Association e AARP, a Constant Therapy é recomendada por milhares de fonoaudiólogos, neurologistas, terapeutas ocupacionais e clínicos em hospitais, clínicas e centros de reabilitação.\n\nINSCREVA-SE PARA UM TESTE GRATUITO DE 14 DIAS\n\nCONTATE-NOS\nsupport@constanttherapy.com\nconstanttherapy.com\n\nTERMOS\nconstanttherapy.com/privacy/\nconstanttherapy.com/eula/\n\nA Constant Therapy não oferece serviços de reabilitação nem garante melhorias na função cerebral. Ela fornece ferramentas de autoajuda e ferramentas para que os pacientes trabalhem com seus profissionais de saúde.",
+      "descriptionHTML": "O Constant Therapy é um aplicativo premiado de terapia cognitiva, de linguagem e de fala, baseado em evidências científicas, desenvolvido para ajudar pessoas em recuperação de AVC, traumatismo cranioencefálico (TCE), afasia, apraxia, demência ou outras condições neurológicas. Junte-se a uma comunidade com mais de 800.000 usuários, que já realizaram mais de 325 milhões de atividades terapêuticas comprovadas cientificamente com o Constant Therapy. Obtenha terapia ilimitada guiada por IA, que permite que você participe de exercícios terapêuticos quando e onde quiser. Oferecemos suporte a usuários que buscam terapia estruturada para afasia ou terapia cognitiva, acessível a qualquer momento.<br><br>DISPONÍVEL em dialetos do inglês (EUA, Reino Unido, Austrália, Índia) e espanhol americano.<br><br>O Constant Therapy foi desenvolvido para abordar problemas como:<br>– Eu sei o que quero dizer, mas não consigo encontrar as palavras devido à afasia.<br>– Minha família não consegue me entender quando falo.<br>– Antes do meu TCE, eu era um gênio da matemática. Agora, tenho dificuldade com matemática do dia a dia.<br>– Sou esquecido(a) e preciso de ajuda para melhorar minha memória.<br>– Manter o foco tem sido difícil para mim desde o meu AVC. Preciso aprimorar minha atenção e funções executivas<br>– Meu ente querido está fazendo terapia da fala uma vez por mês, mas não é suficiente. Ele precisa de terapia diária<br>– Preciso de mais exercícios para afasia, fala ou tratamento cognitivo entre as sessões de terapia<br><br>CARACTERÍSTICAS E BENEFÍCIOS<br><br>• Está se recuperando de um AVC, TCE, afasia, apraxia, demência ou outras condições neurológicas? Escolha seus objetivos de terapia da fala e cognitiva, e o aplicativo oferece exercícios personalizados e em constante adaptação com base em suas necessidades específicas.<br><br>• Supere desafios de memória, aprimore suas habilidades de comunicação e recupere suas capacidades diárias com um programa individualizado.<br><br>• Pratique fala, memória, atenção, leitura, escrita, linguagem, matemática, compreensão, resolução de problemas, processamento visual, memória auditiva e muitas outras habilidades essenciais para o desenvolvimento da fala.<br><br>• Trabalhe de forma independente em casa, combine o aplicativo com a terapia na clínica ou adicione seu terapeuta para que ele possa monitorar seu progresso.<br><br>• Ideal para usuários que desejam complementar a terapia da afasia, a terapia da fala e/ou a terapia cognitiva com exercícios diários para fazer em casa.<br><br>• Aproveite nosso suporte ao cliente amigável e em tempo real – treinado para trabalhar com pessoas com dificuldades cognitivas e de comunicação.<br><br>• Monitore seu progresso com relatórios de desempenho fáceis de entender e em tempo real.<br><br>• Aumente suas chances de obter resultados positivos: pesquisas mostram que pacientes que usam o Constant Therapy praticam 5 vezes mais terapia, apresentam melhora mais rápida e melhores resultados***.<br><br>• Acesse a biblioteca mais completa do mundo de exercícios baseados em evidências: mais de 1 milhão de exercícios. Em mais de 90 áreas terapêuticas<br><br>• Experimente antes de assinar com um teste gratuito de 14 dias<br><br>***A CIÊNCIA POR TRÁS DA CONSTANT THERAPY<br><br>A Constant Therapy estabelece o padrão ouro com mais de 70 estudos que validam as evidências clínicas por trás de nossos exercícios de terapia da fala, linguagem e cognição. Também contamos com o respaldo de 19 estudos de pesquisa revisados ​​por pares que comprovam a eficácia da Constant Therapy. Veja a lista de estudos clínicos e pesquisas em:<br>constanttherapyhealth.com/science/<br><br>A Constant Therapy é muito mais do que um aplicativo de treinamento cerebral ou jogos para o cérebro. Ela foi desenvolvida por médicos e cientistas da Universidade de Boston especificamente para lidar com os desafios da recuperação após AVC, lesão cerebral, TCE, afasia, demência, apraxia e outros distúrbios neurológicos. Ela monitora sistematicamente o progresso do paciente em diversas áreas funcionais.<br><br>Vencedora de múltiplos prêmios da Hearst Health, UCSF Health Hub, American Stroke Association e AARP, a Constant Therapy é recomendada por milhares de fonoaudiólogos, neurologistas, terapeutas ocupacionais e clínicos em hospitais, clínicas e centros de reabilitação.<br><br>INSCREVA-SE PARA UM TESTE GRATUITO DE 14 DIAS<br><br>CONTATE-NOS<br>support@constanttherapy.com<br>constanttherapy.com<br><br>TERMOS<br>constanttherapy.com/privacy/<br>constanttherapy.com/eula/<br><br>A Constant Therapy não oferece serviços de reabilitação nem garante melhorias na função cerebral. Ela fornece ferramentas de autoajuda e ferramentas para que os pacientes trabalhem com seus profissionais de saúde.",
+      "summary": "Terapia cognitiva, de linguagem e fonoaudiológica comprovada para afasia, demência, acidente vascular cerebral, TCE",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 295516,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.constanttherapy.android.main",
+      "url": "https://play.google.com/store/apps/details?id=com.constanttherapy.android.main&hl=pt&gl=br",
+      "rank": 22
+    },
+    {
+      "title": "Talksy: Communication Skills",
+      "description": "Talksy é seu treinador diário para desenvolver habilidades de comunicação reais — por meio de jogos, desafios e prática.\n\nSem palestras tediosas. Sem frases decoradas. Apenas exercícios divertidos e focados que aprimoram sua maneira de pensar, falar e se conectar com as pessoas.\n\nO que você encontra aqui:\n🎮 Mais de 50 jogos de linguagem que estimulam a criatividade, a dicção, o vocabulário, o humor, a narrativa, a paquera, a improvisação e muito mais. Cada jogo é um novo desafio que leva sua comunicação a um novo patamar.\n\n🤖 Revisão com inteligência artificial — fale sua resposta em voz alta e receba feedback instantâneo da IA. Ela analisa sua resposta, destaca o que funcionou e indica exatamente como você pode melhorar.\n🎯 Desafios diários — tarefas curtas que mantêm seu ritmo e criam o hábito de falar com confiança todos os dias.\n\n🏆 Progresso gamificado — ganhe recompensas, desbloqueie novos jogos e veja seu progresso. Cada sessão conta.\n\nO que você vai aprimorar:\n🗣️ Dicção e clareza\n💬 Narrativa e expressão\n😄 Humor e sagacidade\n🎨 Criatividade e improvisação\n💗 Conexão emocional\n🔥 Confiança em qualquer conversa\n\nPara quem é o Talksy?\n\n• Pessoas que travam em conversas e querem se sentir à vontade para falar\n• Introvertidos que querem se comunicar naturalmente, sem pensar demais\n• Qualquer pessoa se preparando para entrevistas, encontros, apresentações em público ou simplesmente para o dia a dia\n• Pessoas que querem falar com mais criatividade, confiança e sem medo\n\nO Talksy não é um curso. É uma academia de comunicação — participe diariamente, brinque, pratique e torne-se o tipo de pessoa com quem os outros adoram conversar.\n\n📲 Baixe agora e comece a falar.",
+      "descriptionHTML": "Talksy é seu treinador diário para desenvolver habilidades de comunicação reais — por meio de jogos, desafios e prática.<br><br>Sem palestras tediosas. Sem frases decoradas. Apenas exercícios divertidos e focados que aprimoram sua maneira de pensar, falar e se conectar com as pessoas.<br><br>O que você encontra aqui:<br>🎮 Mais de 50 jogos de linguagem que estimulam a criatividade, a dicção, o vocabulário, o humor, a narrativa, a paquera, a improvisação e muito mais. Cada jogo é um novo desafio que leva sua comunicação a um novo patamar.<br><br>🤖 Revisão com inteligência artificial — fale sua resposta em voz alta e receba feedback instantâneo da IA. Ela analisa sua resposta, destaca o que funcionou e indica exatamente como você pode melhorar.<br>🎯 Desafios diários — tarefas curtas que mantêm seu ritmo e criam o hábito de falar com confiança todos os dias.<br><br>🏆 Progresso gamificado — ganhe recompensas, desbloqueie novos jogos e veja seu progresso. Cada sessão conta.<br><br>O que você vai aprimorar:<br>🗣️ Dicção e clareza<br>💬 Narrativa e expressão<br>😄 Humor e sagacidade<br>🎨 Criatividade e improvisação<br>💗 Conexão emocional<br>🔥 Confiança em qualquer conversa<br><br>Para quem é o Talksy?<br><br>• Pessoas que travam em conversas e querem se sentir à vontade para falar<br>• Introvertidos que querem se comunicar naturalmente, sem pensar demais<br>• Qualquer pessoa se preparando para entrevistas, encontros, apresentações em público ou simplesmente para o dia a dia<br>• Pessoas que querem falar com mais criatividade, confiança e sem medo<br><br>O Talksy não é um curso. É uma academia de comunicação — participe diariamente, brinque, pratique e torne-se o tipo de pessoa com quem os outros adoram conversar.<br><br>📲 Baixe agora e comece a falar.",
+      "summary": "Aprimore sua fala, dicção, vocabulário e habilidades interpessoais.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 51935,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.korop.yaroslavhorach.lingoFlow",
+      "url": "https://play.google.com/store/apps/details?id=com.korop.yaroslavhorach.lingoFlow&hl=pt&gl=br",
+      "rank": 23
+    },
+    {
+      "title": "Therapeutic Listening",
+      "description": "Escuta terapêutica é uma intervenção auditiva baseada em evidência a intenção de apoiar os indivíduos que experimentam desafios com disfunção sensorial processamento, escuta, atenção e comunicação.\n\nVital Ligações oferece uma variedade de oficinas de educação continuada para terapeutas ocupacionais, fonoaudiólogos, fisioterapeutas e outros profissionais relacionados. O objetivo principal de todas as ligações vitais cursos é fornecer ferramentas clínicas inovadoras e estratégias que podem ser implementadas imediatamente após a conclusão do curso em escolas, clínicas e casas.",
+      "descriptionHTML": "Escuta terapêutica é uma intervenção auditiva baseada em evidência a intenção de apoiar os indivíduos que experimentam desafios com disfunção sensorial processamento, escuta, atenção e comunicação.<br><br>Vital Ligações oferece uma variedade de oficinas de educação continuada para terapeutas ocupacionais, fonoaudiólogos, fisioterapeutas e outros profissionais relacionados. O objetivo principal de todas as ligações vitais cursos é fornecer ferramentas clínicas inovadoras e estratégias que podem ser implementadas imediatamente após a conclusão do curso em escolas, clínicas e casas.",
+      "summary": "Com o TL® App, você pode acessar a nossa música com um simples clique de um botão",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 40831,
+      "score": 4.125,
+      "scoreText": "4,1",
+      "ratings": 279,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.therapeuticlistening.app",
+      "url": "https://play.google.com/store/apps/details?id=com.therapeuticlistening.app&hl=pt&gl=br",
+      "rank": 24
+    },
+    {
+      "title": "AAC Autism Communication Cards",
+      "description": "Dê ao seu filho uma ferramenta poderosa para expressar pensamentos e sentimentos!\n\nEste aplicativo profissional de CAA (Comunicação Aumentativa e Alternativa) foi desenvolvido especificamente para pessoas com autismo (TEA), paralisia cerebral (PC) e atrasos na fala. É um quadro de comunicação digital flexível, seguro e intuitivo.\n\nO que torna este aplicativo especial:\n\n\nSistema Fitzgerald Key: Bordas coloridas nos cartões ajudam os usuários a identificar categorias e classes gramaticais mais rapidamente (opção de ativar/desativar nas configurações).\nModo Seguro para Pais: Defina uma senha para bloquear os recursos de edição. Permita que seu filho se comunique livremente sem o risco de exclusões acidentais.\n\nConstrutor de Frases Avançado: Adicione até 3 cartões ao painel inferior animado. Reorganize os itens arrastando e soltando ou limpe o painel com um simples deslizar para baixo.\nVisualização em tela cheia: Exiba sequências de cartões em modo de tela cheia para uma comunicação visual mais clara.\nLayout adaptável: Otimizado para todos os dispositivos. Grade com ajuste automático (de 2 a 4 cartões por linha) para smartphones e tablets.\nNavegação moderna: Desfrute de animações fluidas e suporte intuitivo a gestos, incluindo a funcionalidade de deslizar para voltar.\n\n\nPrincipais recursos:\n\n\nPersonalização total: Carregue suas próprias fotos, crie categorias personalizadas e reorganize tudo para atender às suas necessidades.\n\nSaída de voz (TTS): Síntese de fala de alta qualidade com feedback visual (bordas destacadas durante a reprodução).\n\nSequências de ações: Salve rotinas e agendas visuais na tela \"Cadeias de ações\" para suporte diário.\n\nConfigurações de acessibilidade: Oculte/exiba rótulos e ative/desative esquemas de cores para reduzir a sobrecarga sensorial.\n\n\nQuebre a barreira da comunicação com uma ferramenta profissional feita sob medida para necessidades especiais Precisa de ajuda? Baixe hoje mesmo o nosso comunicador de CAA para autistas!",
+      "descriptionHTML": "Dê ao seu filho uma ferramenta poderosa para expressar pensamentos e sentimentos!<br><br>Este aplicativo profissional de CAA (Comunicação Aumentativa e Alternativa) foi desenvolvido especificamente para pessoas com autismo (TEA), paralisia cerebral (PC) e atrasos na fala. É um quadro de comunicação digital flexível, seguro e intuitivo.<br><br>O que torna este aplicativo especial:<br><br><ul><br><li><b>Sistema Fitzgerald Key:</b> Bordas coloridas nos cartões ajudam os usuários a identificar categorias e classes gramaticais mais rapidamente (opção de ativar/desativar nas configurações).</li><br><li><b>Modo Seguro para Pais:</b> Defina uma senha para bloquear os recursos de edição. Permita que seu filho se comunique livremente sem o risco de exclusões acidentais.</li><br><br><li><b>Construtor de Frases Avançado:</b> Adicione até 3 cartões ao painel inferior animado. Reorganize os itens arrastando e soltando ou limpe o painel com um simples deslizar para baixo.</li><br><li><b>Visualização em tela cheia:</b> Exiba sequências de cartões em modo de tela cheia para uma comunicação visual mais clara.</li><br><li><b>Layout adaptável:</b> Otimizado para todos os dispositivos. Grade com ajuste automático (de 2 a 4 cartões por linha) para smartphones e tablets.</li><br><li><b>Navegação moderna:</b> Desfrute de animações fluidas e suporte intuitivo a gestos, incluindo a funcionalidade de deslizar para voltar.</li><br></ul><br><br><b>Principais recursos:</b><br><ul><br><br><li><b>Personalização total:</b> Carregue suas próprias fotos, crie categorias personalizadas e reorganize tudo para atender às suas necessidades.</li><br><br><li><b>Saída de voz (TTS):</b> Síntese de fala de alta qualidade com feedback visual (bordas destacadas durante a reprodução).</li><br><br><li><b>Sequências de ações:</b> Salve rotinas e agendas visuais na tela &quot;Cadeias de ações&quot; para suporte diário.</li><br><br><li><b>Configurações de acessibilidade:</b> Oculte/exiba rótulos e ative/desative esquemas de cores para reduzir a sobrecarga sensorial.</li><br></ul><br><br><b>Quebre a barreira da comunicação com uma ferramenta profissional feita sob medida para necessidades especiais Precisa de ajuda? Baixe hoje mesmo o nosso comunicador de CAA para autistas!</b>",
+      "summary": "Comunicador de CAA para autismo e TEA. Possui tecla Fitzgerald, Modo Pais e TTS (Texto para Fala).",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2822,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.aac.autism.cards",
+      "url": "https://play.google.com/store/apps/details?id=com.aac.autism.cards&hl=pt&gl=br",
+      "rank": 25
+    },
+    {
+      "title": "Lira - TDAH & Autismo Feminino",
+      "description": "Suporte para mulheres com TDAH ou autismo\n\nA Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.\n\nMuitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.\n\nA Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.\n\nDesenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.\n\nMuitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.\n\nO que você pode fazer com a Lira:\n\n• Registrar sua energia e capacidade diariamente\n• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual\n• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento\n• Receber recomendações personalizadas com base nos seus registros\n• Reconhecer sinais precoces de burnout e sobrecarga\n• Explorar a relação entre TDAH, autismo e flutuações hormonais\n• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial\n\nMundo Interior: aprender através da experiência\n\nO Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.\n\nCriada para a vida real\n\nA Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.\n\nCriada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.\n\nEste aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.\n\nEstamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "descriptionHTML": "Suporte para mulheres com TDAH ou autismo<br><br>A Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.<br><br>Muitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.<br><br>A Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.<br><br>Desenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.<br><br>Muitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.<br><br>O que você pode fazer com a Lira:<br><br>• Registrar sua energia e capacidade diariamente<br>• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual<br>• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento<br>• Receber recomendações personalizadas com base nos seus registros<br>• Reconhecer sinais precoces de burnout e sobrecarga<br>• Explorar a relação entre TDAH, autismo e flutuações hormonais<br>• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial<br><br>Mundo Interior: aprender através da experiência<br><br>O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.<br><br>Criada para a vida real<br><br>A Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.<br><br>Criada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.<br><br>Este aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.<br><br>Estamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "summary": "Energia e apoio diário para mulheres com TDAH e autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10085,
+      "score": 4.4666667,
+      "scoreText": "4,5",
+      "ratings": 80,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "url": "https://play.google.com/store/apps/details?id=com.hugomeninoaguiar.mymobileapp&hl=pt&gl=br",
+      "rank": 28
+    },
+    {
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "description": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.\n\nA dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente \"aprimoram\" seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.\n\nAs pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.\n\nFERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA\n\nEste aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.\n\nPara participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.\n\nTermos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "descriptionHTML": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.<br><br>A dislexia é muito mais comum do que pensamos. De fato, afeta mais de 10% da população. Esse distúrbio prejudica a aprendizagem, dificultando a leitura e a escrita em geral. A dislexia pode ocorrer em crianças de qualquer nível de inteligência, mesmo naquelas sem problemas psicológicos, físicos ou sociais. A dificuldade que eles têm na leitura não afeta suas outras habilidades cognitivas. Além disso, as pessoas que vivem com dislexia geralmente &quot;aprimoram&quot; seus sentidos mais profundamente e desenvolvem um alto nível de inteligência e criatividade.<br><br>As pessoas que vivem com dislexia podem ser afetadas por várias alterações em suas habilidades cognitivas. Este aplicativo é usado para investigar os seguintes aspectos relacionados a esse distúrbio: atenção focada, atenção dividida, exploração visual, memória de curto prazo, memória visual de curto prazo, reconhecimento, memória operacional, planejamento, velocidade de processamento e tempo de resposta.<br><br>FERRAMENTA DE PESQUISA PARA ESPECIALISTAS EM NEUROCIÊNCIA<br><br>Este aplicativo foi criado para promover a pesquisa científica, fornecendo ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio. A Pesquisa Cognitiva sobre a dislexia é um recurso de confiança da comunidade científica e das universidades de todo o mundo.<br><br>Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia, baixe o aplicativo e experimente as ferramentas digitais mais avançadas que estão sendo desenvolvidas por pesquisadores de todo o mundo.<br><br>Termos e Condições: https://www.cognifit.com/br/termos-e-condicoes-de-uso",
+      "summary": "Estudos sobre a Dislexia",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 24943,
+      "score": 3.1666667,
+      "scoreText": "3,2",
+      "ratings": 68,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cognifit.android.dyslexia",
+      "url": "https://play.google.com/store/apps/details?id=com.cognifit.android.dyslexia&hl=pt&gl=br",
+      "rank": 29
+    }
+  ]
+}

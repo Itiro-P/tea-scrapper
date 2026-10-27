@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:15:14.736Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TEA",
+    "term": "caju app autismo",
+    "key": "caju app autismo",
+    "depth": 2,
+    "parent": "autismo app",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Caju: autismo, CAA e rotinas",
+      "description": "A Caju é uma companheira gamificada que apoia crianças com autismo a se comunicar, a aprender e a viver o dia a dia com mais inclusão e autonomia. Comunicação alternativa e ampliada (CAA), rotinas visuais com pictogramas, histórias ilustradas e prática de escrita, num só lugar. Foi criada com famílias e profissionais em Portugal.\n\nPranchas CAA: comunicação por imagens\nCartões visuais que ajudam a criança a expressar o que precisa e o que sente, no ritmo dela, com voz em português do Brasil.\n\nRotinas visuais\nSequências passo a passo que deixam o dia mais previsível e tranquilo, com uma pequena comemoração a cada passo.\n\nHistórias ilustradas e calmas\nHistórias suaves e narradas para preparar momentos novos: ir ao dentista, cortar o cabelo, o primeiro dia de escola.\n\nVamos escrever\nPratique traços, letras e números com o dedo, com guias que mostram onde começa cada traço.\n\nOrdenar\nJogos de sequência em que a criança coloca as peças na ordem certa.\n\nBiblioteca pronta para usar\nPranchas, rotinas, histórias e sequências já criadas e narradas, para começar sem precisar construir tudo do zero.\n\nPara quem cuida\nUm planejador de sessão, uma biblioteca de fotos para cada criança, um resumo carinhoso para os pais no fim de cada sessão e uma comunidade para trocar experiências.\n\nPensada para a criança\nBotões grandes, ícones claros, sem cronômetros nem mensagens de erro. Só incentivo e progresso.\n\nA Caju tem um período de teste gratuito e, depois, um plano mensal. Os valores atuais estão em trycaju.com/pricing\n\nA Caju é uma ferramenta de apoio, não um instrumento clínico. Não diagnostica nem substitui o acompanhamento de profissionais de saúde ou de educação.",
+      "descriptionHTML": "A Caju é uma companheira gamificada que apoia crianças com autismo a se comunicar, a aprender e a viver o dia a dia com mais inclusão e autonomia. Comunicação alternativa e ampliada (CAA), rotinas visuais com pictogramas, histórias ilustradas e prática de escrita, num só lugar. Foi criada com famílias e profissionais em Portugal.<br><br>Pranchas CAA: comunicação por imagens<br>Cartões visuais que ajudam a criança a expressar o que precisa e o que sente, no ritmo dela, com voz em português do Brasil.<br><br>Rotinas visuais<br>Sequências passo a passo que deixam o dia mais previsível e tranquilo, com uma pequena comemoração a cada passo.<br><br>Histórias ilustradas e calmas<br>Histórias suaves e narradas para preparar momentos novos: ir ao dentista, cortar o cabelo, o primeiro dia de escola.<br><br>Vamos escrever<br>Pratique traços, letras e números com o dedo, com guias que mostram onde começa cada traço.<br><br>Ordenar<br>Jogos de sequência em que a criança coloca as peças na ordem certa.<br><br>Biblioteca pronta para usar<br>Pranchas, rotinas, histórias e sequências já criadas e narradas, para começar sem precisar construir tudo do zero.<br><br>Para quem cuida<br>Um planejador de sessão, uma biblioteca de fotos para cada criança, um resumo carinhoso para os pais no fim de cada sessão e uma comunidade para trocar experiências.<br><br>Pensada para a criança<br>Botões grandes, ícones claros, sem cronômetros nem mensagens de erro. Só incentivo e progresso.<br><br>A Caju tem um período de teste gratuito e, depois, um plano mensal. Os valores atuais estão em trycaju.com/pricing<br><br>A Caju é uma ferramenta de apoio, não um instrumento clínico. Não diagnostica nem substitui o acompanhamento de profissionais de saúde ou de educação.",
+      "summary": "Comunicação alternativa (CAA), rotinas e histórias para crianças com autismo",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 347,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.trycaju.app",
+      "url": "https://play.google.com/store/apps/details?id=com.trycaju.app&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Caju - Benefícios por inteiro",
+      "description": "Oi! Conhece a Caju?\n\nA Caju é uma empresa de tecnologia fruto do empreendedorismo brasileiro para aqueles que enxergam pessoas por trás dos seus colaboradores.\n\nOferecemos produtos mais flexíveis e inovadores que transformam as interações e relações entre pessoas e empresas em uma nova experiência.\n\nCom a Caju, fica fácil reorganizar o saldo dos seus benefícios. Se sobrou VR, você manda para outro saldo como, por exemplo, Vale Cultura. Com o saldo do Vale Cultura, você garante entrada em museus, compras em livrarias, e a assinatura de serviços como Spotify, Netflix e HBO GO.\n\nAlguns dos benefícios que estarão disponíveis logo logo:\n- Vale Refeição: iFood, Rappi, UberEats, Apptite, LivUp e outros;\n- Vale Alimentação: James, Shopper, Carrefour, HomeRefill e outros;\n- Vale Transporte: Bilhete Unico, 99, Uber, Cabify, Grin, Lime e outros;\n- Vale Cultura: Spotify, Amazon Video, Netflix, HBOGo, Ingresso.com e outros;\n- Vale Saúde: Classpass, Headspace, famarcias e outros;\n- Vale Educação: Rocketseat, Alura, Udemy, Coursera, Doulingo, EnglishLive Ironhack e outros;\n- Saldo Livre: Receba reembolsos e prêmios em seu Caju.\n\nFuncionalidades disponíveis:\n- Saldo e extrato por categoria;\n- Gerencie seu Cartão virtual;\n- Desbloqueio e bloqueio do cartão físico;\n- Rede Caju - benefícios que só tem aqui (em breve);\n- Market - melhores opções para fazer seus benefícios renderem mais (em breve).\n\n\nSua empresa já usa Caju? Se não, mande um email para quero@caju.com.br\nPrecisa de ajuda? Então nos avise pelo email oi@caju.com.br",
+      "descriptionHTML": "Oi! Conhece a Caju?<br><br>A Caju é uma empresa de tecnologia fruto do empreendedorismo brasileiro para aqueles que enxergam pessoas por trás dos seus colaboradores.<br><br>Oferecemos produtos mais flexíveis e inovadores que transformam as interações e relações entre pessoas e empresas em uma nova experiência.<br><br>Com a Caju, fica fácil reorganizar o saldo dos seus benefícios. Se sobrou VR, você manda para outro saldo como, por exemplo, Vale Cultura. Com o saldo do Vale Cultura, você garante entrada em museus, compras em livrarias, e a assinatura de serviços como Spotify, Netflix e HBO GO.<br><br>Alguns dos benefícios que estarão disponíveis logo logo:<br>- Vale Refeição: iFood, Rappi, UberEats, Apptite, LivUp e outros;<br>- Vale Alimentação: James, Shopper, Carrefour, HomeRefill e outros;<br>- Vale Transporte: Bilhete Unico, 99, Uber, Cabify, Grin, Lime e outros;<br>- Vale Cultura: Spotify, Amazon Video, Netflix, HBOGo, Ingresso.com e outros;<br>- Vale Saúde: Classpass, Headspace, famarcias e outros;<br>- Vale Educação: Rocketseat, Alura, Udemy, Coursera, Doulingo, EnglishLive Ironhack e outros;<br>- Saldo Livre: Receba reembolsos e prêmios em seu Caju.<br><br>Funcionalidades disponíveis:<br>- Saldo e extrato por categoria;<br>- Gerencie seu Cartão virtual;<br>- Desbloqueio e bloqueio do cartão físico;<br>- Rede Caju - benefícios que só tem aqui (em breve);<br>- Market - melhores opções para fazer seus benefícios renderem mais (em breve).<br><br><br>Sua empresa já usa Caju? Se não, mande um email para quero@caju.com.br<br>Precisa de ajuda? Então nos avise pelo email oi@caju.com.br",
+      "summary": "A Caju é uma solução nova para empresas. Seus benefícios, por inteiro!",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3963006,
+      "score": 4.6886234,
+      "scoreText": "4,7",
+      "ratings": 88040,
+      "reviews": 13362,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.caju.employeeApp",
+      "url": "https://play.google.com/store/apps/details?id=com.caju.employeeApp&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Caju Social Club",
+      "description": "Sua comunidade brasileira em Madrid 🇧🇷\nCaju Social Club conecta mulheres brasileiras em Madrid através de eventos exclusivos e matches personalizados.\nAcabou de chegar em Madrid e não conhece ninguém? Já está há meses, mas sente falta de conversas que te entendem de verdade? A Caju é o seu lugar.\nO QUE VOCÊ ENCONTRA NO APP:\n📅 Eventos toda semana\nHappy hours, workshops, fitness, brunches, clube do livro e muito mais. Experiências pensadas para criar conexão genuína.\n🤝 Matches personalizados\nTe conectamos com brasileiras que têm interesses e vibe parecidos. Encontre amigas de verdade!\n💬 Chat direto\nConverse com suas novas amigas, organize rolês ou tire dúvidas sobre Madrid.\n🎁 Benefícios exclusivos\nDescontos em cafés, restaurantes, academias e serviços parceiros.\nCOMO FUNCIONA:\n\t1.\tCrie seu perfil e conte sobre você\n\t2.\tReceba matches com brasileiras compatíveis\n\t3.\tDescubra eventos que combinam com você\n\t4.\tParticipe e faça amigas para a vida\nPRA QUEM É:\n✓ Mulheres brasileiras que moram em Madrid\n✓ Quem busca conexões verdadeiras\n✓ Quem quer explorar Madrid com amigas\n✓ Quem valoriza curadoria e autenticidade\n🔐 Seus dados são privados e protegidos. Comunidade moderada e segura.\nDe “não conheço ninguém” para “essa é minha tribo” em alguns cliques!\nBem-vinda à Caju! 🧡✨\nInstagram: @cajusocialclub\nCaju Social Club - Sua tribo brasileira em Madrid.",
+      "descriptionHTML": "Sua comunidade brasileira em Madrid 🇧🇷<br>Caju Social Club conecta mulheres brasileiras em Madrid através de eventos exclusivos e matches personalizados.<br>Acabou de chegar em Madrid e não conhece ninguém? Já está há meses, mas sente falta de conversas que te entendem de verdade? A Caju é o seu lugar.<br>O QUE VOCÊ ENCONTRA NO APP:<br>📅 Eventos toda semana<br>Happy hours, workshops, fitness, brunches, clube do livro e muito mais. Experiências pensadas para criar conexão genuína.<br>🤝 Matches personalizados<br>Te conectamos com brasileiras que têm interesses e vibe parecidos. Encontre amigas de verdade!<br>💬 Chat direto<br>Converse com suas novas amigas, organize rolês ou tire dúvidas sobre Madrid.<br>🎁 Benefícios exclusivos<br>Descontos em cafés, restaurantes, academias e serviços parceiros.<br>COMO FUNCIONA:<br>\t1.\tCrie seu perfil e conte sobre você<br>\t2.\tReceba matches com brasileiras compatíveis<br>\t3.\tDescubra eventos que combinam com você<br>\t4.\tParticipe e faça amigas para a vida<br>PRA QUEM É:<br>✓ Mulheres brasileiras que moram em Madrid<br>✓ Quem busca conexões verdadeiras<br>✓ Quem quer explorar Madrid com amigas<br>✓ Quem valoriza curadoria e autenticidade<br>🔐 Seus dados são privados e protegidos. Comunidade moderada e segura.<br>De “não conheço ninguém” para “essa é minha tribo” em alguns cliques!<br>Bem-vinda à Caju! 🧡✨<br>Instagram: @cajusocialclub<br>Caju Social Club - Sua tribo brasileira em Madrid.",
+      "summary": "Conectando mulheres brasileiras em Madrid. Eventos, amizades e comunidade",
+      "installs": "500+",
+      "minInstalls": 500,
+      "maxInstalls": 549,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Social",
+      "genreId": "SOCIAL",
+      "categories": [
+        {
+          "name": "Social",
+          "id": "SOCIAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.davidrfb.cajuapp",
+      "url": "https://play.google.com/store/apps/details?id=com.davidrfb.cajuapp&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "LoriComunica: Autismo TDAH CAA",
+      "description": "Dê voz a quem precisa, com apenas um clique ou um sorriso!\n\nO LoriComunica é o app de Comunicação Aumentativa e Alternativa (CAA) que transforma a vida de crianças, adultos e profissionais que lidam com desafios na fala, como Autismo, Paralisia Cerebral, AVC, Síndrome de Down, ELA, AME, Afasia, entre outros.\n\n🎯 Fácil, rápido e acessível!\nCom interface simples e Inteligência Artificial, que reconhece movimentos faciais, o LoriComunica permite que qualquer pessoa se comunique com autonomia! Utilizando o toque, piscar de olhos ou sorriso.\n\n✨ Como o LoriComunica transforma a comunicação no dia a dia?\n\n👦 Para quem vive o desafio:\n- Converse com poucos cliques ou movimentos do rosto;\n- Crie frases, expresse sentimentos, peça ajuda com mais liberdade;\n- Utilize uma interface simples e intuitiva, mesmo para iniciantes.\n\n👩‍⚕️ Para quem cuida:\n- Crie cartões personalizados com fotos pessoais;\n- Crie pranchas para diferentes ambientes, seja para o dia a dia, escola e muito mais;\n- Compartilhe perfis com cuidadores, escolas e profissionais;\n- Adapte a comunicação às necessidades de cada usuário.\n\n🏥 Ideal para:\n- Crianças e adultos autistas;\n- Pessoas com afasia, AVC, ELA, AME, e mais de 18 diagnósticos;\n- Profissionais da saúde e educação (fonoaudiólogos, terapeutas ocupacionais, professores, psicopedagogos, neuropsicólogos);\n- Clínicas, APAEs, hospitais, escolas e instituições.\n\n🎓 O LoriComunica se adapta à forma como você trabalha. Compatível com as metodologias mais usadas por profissionais da saúde e da educação: TEACCH, PECS, ABA e CAA\n\n💡 Destaques que fazem a diferença:\n✅ Comunicação com cliques manuais ou com o rosto;\n✅ Personalização com imagens reais da família e do dia a dia;\n✅ Pranchas para diferentes ambientes;\n✅ Perfis compartilháveis entre profissionais e cuidadores;\n✅ Dados na nuvem e acesso em vários dispositivos;\n✅ Atualizações constantes com base no que os usuários pedem.\n\n🎁 Comece agora com nossa versão gratuita ou teste grátis por 7 dias!\n\nBaixe agora e tenha acesso gratuito por 7 dias para testar todos os recursos, aproveite enquanto está disponível!\n\nDescubra como é possível transformar a vida de quem não consegue se comunicar.",
+      "descriptionHTML": "Dê voz a quem precisa, com apenas um clique ou um sorriso!<br><br>O LoriComunica é o app de Comunicação Aumentativa e Alternativa (CAA) que transforma a vida de crianças, adultos e profissionais que lidam com desafios na fala, como Autismo, Paralisia Cerebral, AVC, Síndrome de Down, ELA, AME, Afasia, entre outros.<br><br>🎯 Fácil, rápido e acessível!<br>Com interface simples e Inteligência Artificial, que reconhece movimentos faciais, o LoriComunica permite que qualquer pessoa se comunique com autonomia! Utilizando o toque, piscar de olhos ou sorriso.<br><br>✨ Como o LoriComunica transforma a comunicação no dia a dia?<br><br>👦 Para quem vive o desafio:<br>- Converse com poucos cliques ou movimentos do rosto;<br>- Crie frases, expresse sentimentos, peça ajuda com mais liberdade;<br>- Utilize uma interface simples e intuitiva, mesmo para iniciantes.<br><br>👩‍⚕️ Para quem cuida:<br>- Crie cartões personalizados com fotos pessoais;<br>- Crie pranchas para diferentes ambientes, seja para o dia a dia, escola e muito mais;<br>- Compartilhe perfis com cuidadores, escolas e profissionais;<br>- Adapte a comunicação às necessidades de cada usuário.<br><br>🏥 Ideal para:<br>- Crianças e adultos autistas;<br>- Pessoas com afasia, AVC, ELA, AME, e mais de 18 diagnósticos;<br>- Profissionais da saúde e educação (fonoaudiólogos, terapeutas ocupacionais, professores, psicopedagogos, neuropsicólogos);<br>- Clínicas, APAEs, hospitais, escolas e instituições.<br><br>🎓 O LoriComunica se adapta à forma como você trabalha. Compatível com as metodologias mais usadas por profissionais da saúde e da educação: TEACCH, PECS, ABA e CAA<br><br>💡 Destaques que fazem a diferença:<br>✅ Comunicação com cliques manuais ou com o rosto;<br>✅ Personalização com imagens reais da família e do dia a dia;<br>✅ Pranchas para diferentes ambientes;<br>✅ Perfis compartilháveis entre profissionais e cuidadores;<br>✅ Dados na nuvem e acesso em vários dispositivos;<br>✅ Atualizações constantes com base no que os usuários pedem.<br><br>🎁 Comece agora com nossa versão gratuita ou teste grátis por 7 dias!<br><br>Baixe agora e tenha acesso gratuito por 7 dias para testar todos os recursos, aproveite enquanto está disponível!<br><br>Descubra como é possível transformar a vida de quem não consegue se comunicar.",
+      "summary": "Comunicação Alternativa para pessoas com autismo, paralisia cerebral, AVC etc.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 9227,
+      "score": 4.125,
+      "scoreText": "4,1",
+      "ratings": 16,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.loriconecta.loricomunica",
+      "url": "https://play.google.com/store/apps/details?id=com.loriconecta.loricomunica&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "AutistApp",
+      "description": "AutistApp é um aplicativo móvel gratuito criado por e para a comunidade autista, com o objetivo de facilitar os processos de desenvolvimento da autonomia e melhorar a qualidade de vida das pessoas autistas. Com o AutistApp, você terá acesso a uma variedade de ferramentas e recursos projetados especificamente para apoiar a autorregulação, a comunicação e a autonomia pessoal.\n\nPrincipais Funcionalidades:\nPictogramas e Guias de Apoio: Auxílios visuais para facilitar a compreensão e a comunicação.\nFerramentas para Autorregulação: Técnicas e recursos para gerenciar o estresse e a ansiedade.\nInformação Legal: Conhecimento essencial sobre direitos e leis relacionadas ao autismo.\nRegistro Diário de Emoções: Uma maneira simples de manter um diário emocional.\nTo-Do List (Lista de Tarefas): Listas de tarefas personalizáveis para organizar o dia a dia.\nGuias de Informação sobre Autismo: Informações atualizadas e úteis sobre o autismo.\nCartões de Mutismo Sazonal / Seletivo: Ferramentas de apoio para situações de comunicação difíceis.\nBanco de Empregos: Conexão com oportunidades de trabalho adaptadas.\nRotinas: Adicione e gerencie sua rotina diária.\nEspaço Publicitário: Conecte-se com escolas, centros médicos, profissionais, lojas e serviços com foco inclusivo.\nAgenda de Consultas Médicas: Organize e acompanhe suas consultas médicas, psicológicas, odontológicas ou outras.",
+      "descriptionHTML": "AutistApp é um aplicativo móvel gratuito criado por e para a comunidade autista, com o objetivo de facilitar os processos de desenvolvimento da autonomia e melhorar a qualidade de vida das pessoas autistas. Com o AutistApp, você terá acesso a uma variedade de ferramentas e recursos projetados especificamente para apoiar a autorregulação, a comunicação e a autonomia pessoal.<br><br>Principais Funcionalidades:<br>Pictogramas e Guias de Apoio: Auxílios visuais para facilitar a compreensão e a comunicação.<br>Ferramentas para Autorregulação: Técnicas e recursos para gerenciar o estresse e a ansiedade.<br>Informação Legal: Conhecimento essencial sobre direitos e leis relacionadas ao autismo.<br>Registro Diário de Emoções: Uma maneira simples de manter um diário emocional.<br>To-Do List (Lista de Tarefas): Listas de tarefas personalizáveis para organizar o dia a dia.<br>Guias de Informação sobre Autismo: Informações atualizadas e úteis sobre o autismo.<br>Cartões de Mutismo Sazonal / Seletivo: Ferramentas de apoio para situações de comunicação difíceis.<br>Banco de Empregos: Conexão com oportunidades de trabalho adaptadas.<br>Rotinas: Adicione e gerencie sua rotina diária.<br>Espaço Publicitário: Conecte-se com escolas, centros médicos, profissionais, lojas e serviços com foco inclusivo.<br>Agenda de Consultas Médicas: Organize e acompanhe suas consultas médicas, psicológicas, odontológicas ou outras.",
+      "summary": "AutistApp é um aplicativo gratuito para empoderar pessoas autistas.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 80994,
+      "score": 4.785714,
+      "scoreText": "4,8",
+      "ratings": 429,
+      "reviews": 12,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "cl.autistapp.autistapp",
+      "url": "https://play.google.com/store/apps/details?id=cl.autistapp.autistapp&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Comunicaut: CAA e Autismo",
+      "description": "Comunicaut — Comunicação Alternativa (CAA) para crianças autistas\n\nO Comunicaut ajuda crianças autistas a se expressarem em casa, na escola e na terapia, com pranchas personalizadas, fotos reais e a voz da própria família.\n\nPor que famílias e profissionais escolhem o Comunicaut:\n\n🗣️ Voz da família gravada\nA criança ouve a voz de quem ela conhece, em vez de apenas uma voz sintética.\n\n📸 Fotos reais personalizadas\nMonte os cards com fotos da casa, da comida, dos brinquedos e da rotina da criança.\n\n🧩 Pranchas simples e organizadas\nCategorias claras, sem hierarquias complicadas. Fácil para a criança encontrar o que quer dizer.\n\n📅 Rotina visual\nAntecipe o dia com sequências visuais e ajude a criança a se preparar para as atividades.\n\n🎉 Histórias sociais e economia de fichas\nFerramentas terapêuticas prontas para usar no dia a dia.\n\n🎨 Gerador de pictogramas por IA\nNão tem a foto? A inteligência artificial cria o pictograma na hora.\n\n☁️ Backup automático na nuvem\nTrocou de celular ou tablet? Tudo continua sincronizado.\n\n👨‍👩‍👧‍👦 Múltiplos perfis\nVários irmãos no mesmo aparelho, cada um com seu próprio acervo.\n\nPainel para profissionais\n\nFonoaudiólogos, terapeutas e professores podem acompanhar o progresso da criança em tempo real:\n• Histórico de frases faladas\n• Relatórios de uso\n• Plano de modelagem\n• Agenda de consultas\n\nTudo só acontece com autorização clara da família, que pode ser revogada a qualquer momento.\n\nAcessibilidade de verdade\n\n• Grade ajustável (2 a 8 colunas)\n• Alto contraste e fonte ampliada\n• Compatível com TalkBack\n• Acesso por varredura (para quem tem dificuldade motora)\n• Modo de baixo estímulo\n\nPrivacidade em primeiro lugar\n\nSeus dados e os da criança são protegidos com criptografia e regras de acesso rígidas. Nunca vendemos dados e não usamos para publicidade.\nPolítica de Privacidade completa: comunicaut.com.br/privacidade\n\nExperimente grátis\n\nTodo novo cadastro ganha acesso completo por um período de teste, sem precisar de cartão de crédito.\n\nComunicaut: a plataforma completa de Comunicação Alternativa (CAA) feita para o dia a dia real das famílias e dos profissionais.",
+      "descriptionHTML": "Comunicaut — Comunicação Alternativa (CAA) para crianças autistas<br><br>O Comunicaut ajuda crianças autistas a se expressarem em casa, na escola e na terapia, com pranchas personalizadas, fotos reais e a voz da própria família.<br><br>Por que famílias e profissionais escolhem o Comunicaut:<br><br>🗣️ Voz da família gravada<br>A criança ouve a voz de quem ela conhece, em vez de apenas uma voz sintética.<br><br>📸 Fotos reais personalizadas<br>Monte os cards com fotos da casa, da comida, dos brinquedos e da rotina da criança.<br><br>🧩 Pranchas simples e organizadas<br>Categorias claras, sem hierarquias complicadas. Fácil para a criança encontrar o que quer dizer.<br><br>📅 Rotina visual<br>Antecipe o dia com sequências visuais e ajude a criança a se preparar para as atividades.<br><br>🎉 Histórias sociais e economia de fichas<br>Ferramentas terapêuticas prontas para usar no dia a dia.<br><br>🎨 Gerador de pictogramas por IA<br>Não tem a foto? A inteligência artificial cria o pictograma na hora.<br><br>☁️ Backup automático na nuvem<br>Trocou de celular ou tablet? Tudo continua sincronizado.<br><br>👨‍👩‍👧‍👦 Múltiplos perfis<br>Vários irmãos no mesmo aparelho, cada um com seu próprio acervo.<br><br>Painel para profissionais<br><br>Fonoaudiólogos, terapeutas e professores podem acompanhar o progresso da criança em tempo real:<br>• Histórico de frases faladas<br>• Relatórios de uso<br>• Plano de modelagem<br>• Agenda de consultas<br><br>Tudo só acontece com autorização clara da família, que pode ser revogada a qualquer momento.<br><br>Acessibilidade de verdade<br><br>• Grade ajustável (2 a 8 colunas)<br>• Alto contraste e fonte ampliada<br>• Compatível com TalkBack<br>• Acesso por varredura (para quem tem dificuldade motora)<br>• Modo de baixo estímulo<br><br>Privacidade em primeiro lugar<br><br>Seus dados e os da criança são protegidos com criptografia e regras de acesso rígidas. Nunca vendemos dados e não usamos para publicidade.<br>Política de Privacidade completa: comunicaut.com.br/privacidade<br><br>Experimente grátis<br><br>Todo novo cadastro ganha acesso completo por um período de teste, sem precisar de cartão de crédito.<br><br>Comunicaut: a plataforma completa de Comunicação Alternativa (CAA) feita para o dia a dia real das famílias e dos profissionais.",
+      "summary": "CAA para crianças autistas. Voz da família e acompanhamento profissional.",
+      "installs": "10+",
+      "minInstalls": 10,
+      "maxInstalls": 16,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.almeiida99.comunicaut",
+      "url": "https://play.google.com/store/apps/details?id=com.almeiida99.comunicaut&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Matraquinha: Autismo",
+      "description": "Recebeu o diagnóstico de Autismo (TEA) e não sabe por onde começar? Nós entendemos você.\n\nO dia a dia de uma família com uma criança autista pode ser desafiador. Quando a fala não vem de forma natural, a dificuldade da criança em expressar necessidades básicas, como fome, sede ou dor, gera frustração, choro e crises frequentes. O Matraquinha nasceu para acolher sua família, oferecendo ajuda prática e imediata para transformar esse silêncio em conexão.\n\nNosso aplicativo foi criado pensando na realidade da sua família. Ele é simples, e foi feito para que pais e cuidadores comecem a usar hoje mesmo, sem precisar de treinamentos. Nosso objetivo? Reduzir as crises de ansiedade da criança e dar a ela uma forma fácil de se comunicar com o mundo.\n\n★ COMO FUNCIONA NA PRÁTICA:\n\n• Dar Voz à Criança (Fim das Frustrações): Chega de adivinhar o que seu filho quer ou sente. Com um simples toque nas imagens da tela, o app fala por ele! Desde pedir água e a comida favorita até avisar que precisa ir ao banheiro. Essa comunicação rápida e clara diminui instantaneamente a frustração de não ser compreendido.\n\n• Rotina Visual para Reduzir Crises: A previsibilidade é o segredo para o conforto no Autismo. Crie rotinas visuais passo a passo para as atividades diárias (como escovar os dentes, tomar banho ou ir à escola). Saber o que vai acontecer reduz o estresse, a desregulação emocional e previne as crises de ansiedade.\n\n• Personalizado para a Sua Casa: O Matraquinha se adapta à vida da sua criança, e não o contrário. Tire e adicione fotos reais do quarto dela, do brinquedo favorito ou do cachorrinho de vocês para tornar a comunicação ainda mais familiar.\n\n• Apoio em Momentos Difíceis: Tenha na palma da mão pranchas rápidas para situações de emergência. Ajude seu filho a expressar emoções, apontar onde dói em situações de desconforto ou pedir ajuda de forma independente.\n\n★ COMO AJUDAMOS SUA FAMÍLIA:\n\n• Simples e Acolhedor: Criado por e para famílias atípicas, sem termos técnicos complicados.\n\n• Múltiplos Idiomas: Totalmente adaptado para Português, Inglês, Espanhol, Francês e Italiano.\n\n• Aprendizado e Inclusão: Histórias em quadrinhos divertidas com o André, o personagem autista da Turma da Mônica, além de seções lúdicas para ensinar cores e números.\n\n• 100% Adaptável: Escolha a visualização em lista ou grade, do jeito que for mais confortável para as características motoras e visuais do seu filho.\n\nCada toque no Matraquinha é uma vitória diária. É a garantia de ouvir os desejos, os medos e as alegrias de quem você mais ama.\n\nSe você está buscando apoio real para lidar com os desafios do TEA em casa, baixe o Matraquinha agora mesmo. Dê voz ao seu filho e traga mais tranquilidade para a sua rotina. Nós estamos juntos com a sua família nessa jornada!\n\nFale com a gente: Tem dúvidas, precisa de ajuda ou quer compartilhar uma vitória do seu filho com o app? \nEscreva para: help@matraquinha.com.br \nSugestões: matraquinha@matraquinha.com.br",
+      "descriptionHTML": "Recebeu o diagnóstico de Autismo (TEA) e não sabe por onde começar? Nós entendemos você.<br><br>O dia a dia de uma família com uma criança autista pode ser desafiador. Quando a fala não vem de forma natural, a dificuldade da criança em expressar necessidades básicas, como fome, sede ou dor, gera frustração, choro e crises frequentes. O Matraquinha nasceu para acolher sua família, oferecendo ajuda prática e imediata para transformar esse silêncio em conexão.<br><br>Nosso aplicativo foi criado pensando na realidade da sua família. Ele é simples, e foi feito para que pais e cuidadores comecem a usar hoje mesmo, sem precisar de treinamentos. Nosso objetivo? Reduzir as crises de ansiedade da criança e dar a ela uma forma fácil de se comunicar com o mundo.<br><br>★ COMO FUNCIONA NA PRÁTICA:<br><br>• Dar Voz à Criança (Fim das Frustrações): Chega de adivinhar o que seu filho quer ou sente. Com um simples toque nas imagens da tela, o app fala por ele! Desde pedir água e a comida favorita até avisar que precisa ir ao banheiro. Essa comunicação rápida e clara diminui instantaneamente a frustração de não ser compreendido.<br><br>• Rotina Visual para Reduzir Crises: A previsibilidade é o segredo para o conforto no Autismo. Crie rotinas visuais passo a passo para as atividades diárias (como escovar os dentes, tomar banho ou ir à escola). Saber o que vai acontecer reduz o estresse, a desregulação emocional e previne as crises de ansiedade.<br><br>• Personalizado para a Sua Casa: O Matraquinha se adapta à vida da sua criança, e não o contrário. Tire e adicione fotos reais do quarto dela, do brinquedo favorito ou do cachorrinho de vocês para tornar a comunicação ainda mais familiar.<br><br>• Apoio em Momentos Difíceis: Tenha na palma da mão pranchas rápidas para situações de emergência. Ajude seu filho a expressar emoções, apontar onde dói em situações de desconforto ou pedir ajuda de forma independente.<br><br>★ COMO AJUDAMOS SUA FAMÍLIA:<br><br>• Simples e Acolhedor: Criado por e para famílias atípicas, sem termos técnicos complicados.<br><br>• Múltiplos Idiomas: Totalmente adaptado para Português, Inglês, Espanhol, Francês e Italiano.<br><br>• Aprendizado e Inclusão: Histórias em quadrinhos divertidas com o André, o personagem autista da Turma da Mônica, além de seções lúdicas para ensinar cores e números.<br><br>• 100% Adaptável: Escolha a visualização em lista ou grade, do jeito que for mais confortável para as características motoras e visuais do seu filho.<br><br>Cada toque no Matraquinha é uma vitória diária. É a garantia de ouvir os desejos, os medos e as alegrias de quem você mais ama.<br><br>Se você está buscando apoio real para lidar com os desafios do TEA em casa, baixe o Matraquinha agora mesmo. Dê voz ao seu filho e traga mais tranquilidade para a sua rotina. Nós estamos juntos com a sua família nessa jornada!<br><br>Fale com a gente: Tem dúvidas, precisa de ajuda ou quer compartilhar uma vitória do seu filho com o app? <br>Escreva para: help@matraquinha.com.br <br>Sugestões: matraquinha@matraquinha.com.br",
+      "summary": "App de comunicação alternativa para pessoas com autismo!",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 637291,
+      "score": 3.160584,
+      "scoreText": "3,2",
+      "ratings": 1415,
+      "reviews": 661,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.phonegap.matraquinha",
+      "url": "https://play.google.com/store/apps/details?id=com.phonegap.matraquinha&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Virta7 - Autismo",
+      "description": "Aplicativo educacional em forma de jogo desenvolvido para individuos com autismo e dificuldades de aprendizagem.",
+      "descriptionHTML": "Aplicativo educacional em forma de jogo desenvolvido para individuos com autismo e dificuldades de aprendizagem.",
+      "summary": "App desenvolvida para individuos c/ autismo e dificuldades de aprendizagem.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 374,
+      "score": 5,
+      "scoreText": "5,0",
+      "ratings": 9,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mycompany.virta7day",
+      "url": "https://play.google.com/store/apps/details?id=com.mycompany.virta7day&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Cajucap",
+      "description": "Com o app Cajucap, você fica por dentro de tudo que acontece nos sorteios de forma rápida, prática e segura. Nunca mais perca um resultado!\n\nPrincipais funcionalidades:\n\nAcompanhe sorteios ao vivo\nConsulte resultados atualizados\nVeja histórico de resultados anteriores\nInterface simples e fácil de usar\n\nNotificações para você não perder nenhum sorteio\n\nTenha acesso às informações em tempo real, direto no seu celular.",
+      "descriptionHTML": "Com o app Cajucap, você fica por dentro de tudo que acontece nos sorteios de forma rápida, prática e segura. Nunca mais perca um resultado!<br><br>Principais funcionalidades:<br><br>Acompanhe sorteios ao vivo<br>Consulte resultados atualizados<br>Veja histórico de resultados anteriores<br>Interface simples e fácil de usar<br><br>Notificações para você não perder nenhum sorteio<br><br>Tenha acesso às informações em tempo real, direto no seu celular.",
+      "summary": "Acompanhe sorteios e resultados",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 9661,
+      "score": 4.0833335,
+      "scoreText": "4,1",
+      "ratings": 12,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mrm.cajucap2",
+      "url": "https://play.google.com/store/apps/details?id=com.mrm.cajucap2&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "CommBoards – CAA para autismo",
+      "description": "Dê voz ao seu filho. O CommBoards transforma qualquer celular ou tablet em uma prancha de comunicação CAA: toque nos pictogramas e o app fala em voz alta.\n\nFeito para o autismo (TEA) e para crianças e adultos não verbais ou com fala limitada. Sem configuração complicada: abra o app e comece a se comunicar no mesmo dia. As pranchas iniciais são grátis — teste o Premium por 7 dias grátis.\n\n★ COMO FUNCIONA\nCartões com pictogramas em uma grade simples, no estilo PECS. Monte a frase tocando nas imagens e aperte o play: a voz do app lê tudo em voz alta, em português. Funciona offline — em casa, na escola ou na terapia. A comunicação alternativa nunca foi tão simples.\n\nExemplo: Eu + Quero + Mamãe. Aperte o play e o CommBoards fala.\n\n★ PRINCIPAIS RECURSOS\n• Pranchas de comunicação personalizáveis – crie pranchas de CAA com imagens e palavras do dia a dia do seu filho\n• Use SUAS fotos – câmera ou galeria: família, comida, brinquedos, lugares favoritos\n• Grave sua voz – grave a sua voz ou a do seu filho em qualquer cartão\n• Voz natural em português – texto para fala com várias vozes, incluindo opções em HD\n• Frases rápidas – salve frases do dia a dia para acesso com um toque\n• Funciona offline – o essencial não precisa de internet\n• Backup e restauração – proteja suas pranchas e leve para outro aparelho\n\n★ PARA QUEM É\n• Crianças e adultos não verbais ou com fala limitada\n• Autismo (TEA), atraso de fala, apraxia, afasia, paralisia cerebral, síndrome de Down, recuperação pós-AVC\n• Pais, cuidadores e famílias que buscam um app de CAA simples e acessível\n• Fonoaudiólogos, terapeutas e salas de educação especial\n\n★ POR QUE O COMMBOARDS?\nHá mais de 10 anos, o CommBoards ajuda famílias a romper barreiras de comunicação com um app de comunicação alternativa poderoso e fácil de usar. Milhares de famílias no Brasil já usam o CommBoards todos os dias.\n\nBaixe grátis e comece a se comunicar hoje. Assine o Premium quando quiser para desbloquear tudo.\n\nDê voz à sua família. Baixe o CommBoards agora.\n\n---\nPolítica de Privacidade: https://commboards.app/privacy\nDúvidas? Escreva para support@commboards.app",
+      "descriptionHTML": "Dê voz ao seu filho. O CommBoards transforma qualquer celular ou tablet em uma prancha de comunicação CAA: toque nos pictogramas e o app fala em voz alta.<br><br>Feito para o autismo (TEA) e para crianças e adultos não verbais ou com fala limitada. Sem configuração complicada: abra o app e comece a se comunicar no mesmo dia. As pranchas iniciais são grátis — teste o Premium por 7 dias grátis.<br><br>★ COMO FUNCIONA<br>Cartões com pictogramas em uma grade simples, no estilo PECS. Monte a frase tocando nas imagens e aperte o play: a voz do app lê tudo em voz alta, em português. Funciona offline — em casa, na escola ou na terapia. A comunicação alternativa nunca foi tão simples.<br><br>Exemplo: Eu + Quero + Mamãe. Aperte o play e o CommBoards fala.<br><br>★ PRINCIPAIS RECURSOS<br>• Pranchas de comunicação personalizáveis – crie pranchas de CAA com imagens e palavras do dia a dia do seu filho<br>• Use SUAS fotos – câmera ou galeria: família, comida, brinquedos, lugares favoritos<br>• Grave sua voz – grave a sua voz ou a do seu filho em qualquer cartão<br>• Voz natural em português – texto para fala com várias vozes, incluindo opções em HD<br>• Frases rápidas – salve frases do dia a dia para acesso com um toque<br>• Funciona offline – o essencial não precisa de internet<br>• Backup e restauração – proteja suas pranchas e leve para outro aparelho<br><br>★ PARA QUEM É<br>• Crianças e adultos não verbais ou com fala limitada<br>• Autismo (TEA), atraso de fala, apraxia, afasia, paralisia cerebral, síndrome de Down, recuperação pós-AVC<br>• Pais, cuidadores e famílias que buscam um app de CAA simples e acessível<br>• Fonoaudiólogos, terapeutas e salas de educação especial<br><br>★ POR QUE O COMMBOARDS?<br>Há mais de 10 anos, o CommBoards ajuda famílias a romper barreiras de comunicação com um app de comunicação alternativa poderoso e fácil de usar. Milhares de famílias no Brasil já usam o CommBoards todos os dias.<br><br>Baixe grátis e comece a se comunicar hoje. Assine o Premium quando quiser para desbloquear tudo.<br><br>Dê voz à sua família. Baixe o CommBoards agora.<br><br>---<br>Política de Privacidade: https://commboards.app/privacy<br>Dúvidas? Escreva para support@commboards.app",
+      "summary": "App de CAA para autismo: prancha de comunicação com pictogramas que falam.",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 87551,
+      "score": 3.857143,
+      "scoreText": "3,9",
+      "ratings": 769,
+      "reviews": 4,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.shmoontz.commboards.lite",
+      "url": "https://play.google.com/store/apps/details?id=com.shmoontz.commboards.lite&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Comunicação Infantil: Autismo",
+      "description": "Um novo app desenvolvido para apoiar psicólogos, terapeutas e familiares no cuidado de crianças com autismo infantil, utilizando recursos visuais, comunicação alternativa e economia de fichas.\n\nEste aplicativo foi criado para facilitar a rotina de crianças com TEA (Transtorno do Espectro Autista), promovendo mais autonomia, organização e engajamento durante e após as sessões de terapia.\n\nCom uma interface intuitiva e lúdica, o app oferece ferramentas práticas baseadas em metodologias reconhecidas na psicologia infantil e nas intervenções em autismo.",
+      "descriptionHTML": "Um novo app desenvolvido para apoiar psicólogos, terapeutas e familiares no cuidado de crianças com autismo infantil, utilizando recursos visuais, comunicação alternativa e economia de fichas.<br><br>Este aplicativo foi criado para facilitar a rotina de crianças com TEA (Transtorno do Espectro Autista), promovendo mais autonomia, organização e engajamento durante e após as sessões de terapia.<br><br>Com uma interface intuitiva e lúdica, o app oferece ferramentas práticas baseadas em metodologias reconhecidas na psicologia infantil e nas intervenções em autismo.",
+      "summary": "Apoio no autismo infantil com comunicação alternativa, timer e fichas visuais.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 8813,
+      "score": 4,
+      "scoreText": "4,0",
+      "ratings": 18,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comunicação",
+      "genreId": "COMMUNICATION",
+      "categories": [
+        {
+          "name": "Comunicação",
+          "id": "COMMUNICATION"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.dmwaresolutions.meuabinha",
+      "url": "https://play.google.com/store/apps/details?id=com.dmwaresolutions.meuabinha&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "ABC Autismo",
+      "description": "ABC AUTISMO - Um mundo de atividades coloridas e pedagógicas para realizar e curtir!\n\nA diversão para os pequenos começa agora com o jogo ABC Autismo! Utilizando fundamentos da metodologia TEACCH tem como objetivo auxiliar no processo de aprendizagem de crianças autistas por meio de divertidas atividades!\n\nO aplicativo está disponível em três idiomas (inglês, espanhol e português), é baseado na metodologia TEACCH, possui 4 níveis de dificuldade e 40 fases interativas.\n\nUtilizado por professores, psicólogos e terapeutas para avaliar crianças autistas.",
+      "descriptionHTML": "ABC AUTISMO - Um mundo de atividades coloridas e pedagógicas para realizar e curtir!<br><br>A diversão para os pequenos começa agora com o jogo ABC Autismo! Utilizando fundamentos da metodologia TEACCH tem como objetivo auxiliar no processo de aprendizagem de crianças autistas por meio de divertidas atividades!<br><br>O aplicativo está disponível em três idiomas (inglês, espanhol e português), é baseado na metodologia TEACCH, possui 4 níveis de dificuldade e 40 fases interativas.<br><br>Utilizado por professores, psicólogos e terapeutas para avaliar crianças autistas.",
+      "summary": "Um divertido e educativo jogo destinado a auxiliar na aprendizagem de autistas.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 292800,
+      "score": 4.07,
+      "scoreText": "4,1",
+      "ratings": 1408,
+      "reviews": 434,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dokye.abcautismo",
+      "url": "https://play.google.com/store/apps/details?id=com.dokye.abcautismo&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Jogos Infantis: Autismo e TEA",
+      "description": "Jogos Infantis: com suporte para crianças com Autismo e TEA. No Mundo da Isis você encontra diversão e aprendizado para crianças de 2 a 10 anos, com atividades especiais para autismo (TEA) e TDAH! 🎓💜\n\nMundo da Isis, a criança aprende brincando (letras, números, cores, memória, lógica e inglês) e conta com ferramentas de comunicação, fala, rotina e emoções pensadas para o TEA e o TDAH, com design acolhedor e calmo.\n\n💬 COMUNICAÇÃO (CAA) — a novidade mais pedida\nPrancha de comunicação com voz: a criança toca e o app fala por ela (quero, água, banheiro, dor, ajuda…), organizada por categorias e com prancha de emergência.\n• Os pais podem criar cartões com FOTOS REAIS (da família, da casa, dos objetos e pets)\n• E GRAVAR A PRÓPRIA VOZ em cada cartão — a criança ouve uma voz familiar\n• Tudo fica só no aparelho, protegido pelo PIN dos pais\n\n🗓️ ROTINA E REGULAÇÃO EMOCIONAL\n• Rotina do dia com horários, lembretes e recompensas\n• Emoções: a criança registra “como estou me sentindo”\n• Zona de Calma e Respira Comigo — respiração guiada para se acalmar\n\n📊 RELATÓRIO PARA OS PAIS (e terapeutas)\n• Evolução por habilidade, tempo de uso, emoções e conquistas\n• Análise feita por INTELIGÊNCIA ARTIFICIAL no próprio aparelho, sem enviar dados\n• Exporte um RELATÓRIO EM PDF para acompanhar em casa ou levar à terapia\n\n✨ INTELIGÊNCIA QUE SE ADAPTA\n• A dificuldade se ajusta ao ritmo da criança\n• Sugestão de “atividade de hoje” na tela inicial\n• Vozes narradas naturais em português e feedback gentil, sem punição\n\n🧠 JOGOS EDUCATIVOS\n• Formas e Cores, Sons e Letras, Palavras\n• Contagem e Quiz de Matemática\n• Memória (3 níveis), Lógica, Conhecimento e Quebra-Cabeça\n• Inglês para Crianças — primeiras palavras, leitura e soletração\n\n🎨 BRINCADEIRAS CRIATIVAS\n• Cozinhar, estourar bolhas e jogos de ação\n\n♿ FEITO PARA TODAS AS CRIANÇAS\nDesign acolhedor e calmo, acessibilidade (alto contraste, animações reduzidas), feedback de erro gentil e todas as fases liberadas — sem travar o que a criança já usa.\n\n💜 POR QUE OS PAIS CONFIAM\n• 100% gratuito, sem anúncios e sem coleta de dados\n• Processamento local — nada é enviado para servidores\n• Projeto independente, feito com carinho\n\nIdeal para educação infantil, alfabetização, pré-escola e crianças com TEA ou TDAH — em casa, na escola ou na terapia (fonoaudiologia, terapia ocupacional, psicopedagogia).\n\nBaixe agora o Mundo da Isis e dê ao seu filho um mundo de comunicação, emoções e aprendizado. 💜",
+      "descriptionHTML": "Jogos Infantis: com suporte para crianças com Autismo e TEA. No Mundo da Isis você encontra diversão e aprendizado para crianças de 2 a 10 anos, com atividades especiais para autismo (TEA) e TDAH! 🎓💜<br><br>Mundo da Isis, a criança aprende brincando (letras, números, cores, memória, lógica e inglês) e conta com ferramentas de comunicação, fala, rotina e emoções pensadas para o TEA e o TDAH, com design acolhedor e calmo.<br><br>💬 COMUNICAÇÃO (CAA) — a novidade mais pedida<br>Prancha de comunicação com voz: a criança toca e o app fala por ela (quero, água, banheiro, dor, ajuda…), organizada por categorias e com prancha de emergência.<br>• Os pais podem criar cartões com FOTOS REAIS (da família, da casa, dos objetos e pets)<br>• E GRAVAR A PRÓPRIA VOZ em cada cartão — a criança ouve uma voz familiar<br>• Tudo fica só no aparelho, protegido pelo PIN dos pais<br><br>🗓️ ROTINA E REGULAÇÃO EMOCIONAL<br>• Rotina do dia com horários, lembretes e recompensas<br>• Emoções: a criança registra “como estou me sentindo”<br>• Zona de Calma e Respira Comigo — respiração guiada para se acalmar<br><br>📊 RELATÓRIO PARA OS PAIS (e terapeutas)<br>• Evolução por habilidade, tempo de uso, emoções e conquistas<br>• Análise feita por INTELIGÊNCIA ARTIFICIAL no próprio aparelho, sem enviar dados<br>• Exporte um RELATÓRIO EM PDF para acompanhar em casa ou levar à terapia<br><br>✨ INTELIGÊNCIA QUE SE ADAPTA<br>• A dificuldade se ajusta ao ritmo da criança<br>• Sugestão de “atividade de hoje” na tela inicial<br>• Vozes narradas naturais em português e feedback gentil, sem punição<br><br>🧠 JOGOS EDUCATIVOS<br>• Formas e Cores, Sons e Letras, Palavras<br>• Contagem e Quiz de Matemática<br>• Memória (3 níveis), Lógica, Conhecimento e Quebra-Cabeça<br>• Inglês para Crianças — primeiras palavras, leitura e soletração<br><br>🎨 BRINCADEIRAS CRIATIVAS<br>• Cozinhar, estourar bolhas e jogos de ação<br><br>♿ FEITO PARA TODAS AS CRIANÇAS<br>Design acolhedor e calmo, acessibilidade (alto contraste, animações reduzidas), feedback de erro gentil e todas as fases liberadas — sem travar o que a criança já usa.<br><br>💜 POR QUE OS PAIS CONFIAM<br>• 100% gratuito, sem anúncios e sem coleta de dados<br>• Processamento local — nada é enviado para servidores<br>• Projeto independente, feito com carinho<br><br>Ideal para educação infantil, alfabetização, pré-escola e crianças com TEA ou TDAH — em casa, na escola ou na terapia (fonoaudiologia, terapia ocupacional, psicopedagogia).<br><br>Baixe agora o Mundo da Isis e dê ao seu filho um mundo de comunicação, emoções e aprendizado. 💜",
+      "summary": "Mundo da Isis jogos para autismo (TEA) e TDAH: comunicação, emoções e mais.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1060,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.mundodaisis",
+      "url": "https://play.google.com/store/apps/details?id=app.mundodaisis&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Rotina Divertida - Autismo",
+      "description": "* TRANSFORME DESAFIOS EM CONQUISTAS:\n-----\nRotina Divertida não é apenas um aplicativo - é uma revolução no apoio a crianças e adultos no espectro autista. Combinando interatividade e personalização, este app é uma ferramenta indispensável para gerenciar a rotina diária e organizar as tarefas, melhorar a comunicação e fortalecer a evolução socioemocional.\n\n\n* FUNCIONALIDADES INOVADORAS:\n-----\nTarefa Personalizada: Crie atividades estimulantes com descrições, imagens customizadas e notificações.\nFlash Card Interativo: Enriqueça a troca de informações com cards que integram áudio e figuras, adaptáveis às necessidades individuais.\nRegistro de Emoção: Monitore e entenda as emoções registradas, contribuindo para o crescimento emocional.\nReforçador Customizável: Engaje e motive com recompensas sob medida, alinhadas aos interesses da mesma.\nAcompanhamento por Profissional: Ferramentas específicas para educadores e terapeutas, fortalecendo o suporte especializado.\n\n\n* BENEFÍCIOS TRANSFORMADORES:\n-----\nEquilibrio Pessoal: Promove confiança e independência, elementos-chave no desenvolvimento infantil.\nOrganização e Gestão do Tempo: Auxilia na criação de rotinas estruturadas, fundamentais para quem tem autismo.\nHabilidade Social: Estimula o aprendizado e a interação interpessoal, habilidades vitais para o crescimento.\n\n\n* POR QUE ESCOLHER NOSSO APP?\n-----\nInterface Amigável: Desenvolvido para ser intuitivo e fácil de usar por pessoas de todas as idades.\nBaseado em Pesquisa: Criado com insights de especialistas em TEA, garantindo eficácia e relevância.\nReconhecimento Global: Com mais de 300 mil downloads é um sucesso mundial.\n\n\n* Baixe Agora e Revolucione!\n-----\nJunte-se a milhares de famílias e profissionais que estão revolucionando o dia a dia. Baixe agora e comece uma jornada para um cotidiano mais feliz e organizado para quem você ama.",
+      "descriptionHTML": "* TRANSFORME DESAFIOS EM CONQUISTAS:<br>-----<br>Rotina Divertida não é apenas um aplicativo - é uma revolução no apoio a crianças e adultos no espectro autista. Combinando interatividade e personalização, este app é uma ferramenta indispensável para gerenciar a rotina diária e organizar as tarefas, melhorar a comunicação e fortalecer a evolução socioemocional.<br><br><br>* FUNCIONALIDADES INOVADORAS:<br>-----<br>Tarefa Personalizada: Crie atividades estimulantes com descrições, imagens customizadas e notificações.<br>Flash Card Interativo: Enriqueça a troca de informações com cards que integram áudio e figuras, adaptáveis às necessidades individuais.<br>Registro de Emoção: Monitore e entenda as emoções registradas, contribuindo para o crescimento emocional.<br>Reforçador Customizável: Engaje e motive com recompensas sob medida, alinhadas aos interesses da mesma.<br>Acompanhamento por Profissional: Ferramentas específicas para educadores e terapeutas, fortalecendo o suporte especializado.<br><br><br>* BENEFÍCIOS TRANSFORMADORES:<br>-----<br>Equilibrio Pessoal: Promove confiança e independência, elementos-chave no desenvolvimento infantil.<br>Organização e Gestão do Tempo: Auxilia na criação de rotinas estruturadas, fundamentais para quem tem autismo.<br>Habilidade Social: Estimula o aprendizado e a interação interpessoal, habilidades vitais para o crescimento.<br><br><br>* POR QUE ESCOLHER NOSSO APP?<br>-----<br>Interface Amigável: Desenvolvido para ser intuitivo e fácil de usar por pessoas de todas as idades.<br>Baseado em Pesquisa: Criado com insights de especialistas em TEA, garantindo eficácia e relevância.<br>Reconhecimento Global: Com mais de 300 mil downloads é um sucesso mundial.<br><br><br>* Baixe Agora e Revolucione!<br>-----<br>Junte-se a milhares de famílias e profissionais que estão revolucionando o dia a dia. Baixe agora e comece uma jornada para um cotidiano mais feliz e organizado para quem você ama.",
+      "summary": "Gerenciar rotinas e tarefas diárias e estimular a comunicação para TEA",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 350963,
+      "score": 3.9306931,
+      "scoreText": "3,9",
+      "ratings": 1408,
+      "reviews": 527,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Criação de filhos",
+      "genreId": "PARENTING",
+      "categories": [
+        {
+          "name": "Criação de filhos",
+          "id": "PARENTING"
+        }
+      ],
+      "adSupported": true,
+      "appId": "br.com.phaneronsoft.rotinadivertida",
+      "url": "https://play.google.com/store/apps/details?id=br.com.phaneronsoft.rotinadivertida&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Cajubá",
+      "description": "APP do Cajubá!\n\n* Tenha a carteirinha digital na palma da sua mão.\n* Gerencie seus débitos diretamente do seu celular.\n* Habilite o FaceID ou TouchID para maior segurança!",
+      "descriptionHTML": "APP do Cajubá!<br><br>* Tenha a carteirinha digital na palma da sua mão.<br>* Gerencie seus débitos diretamente do seu celular.<br>* Habilite o FaceID ou TouchID para maior segurança!",
+      "summary": "APP do Associado",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1871,
+      "score": 2.8,
+      "scoreText": "2,8",
+      "ratings": 5,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Esportes",
+      "genreId": "SPORTS",
+      "categories": [
+        {
+          "name": "Esportes",
+          "id": "SPORTS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.qualitysys.cajuba",
+      "url": "https://play.google.com/store/apps/details?id=com.qualitysys.cajuba&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "123 Autismo",
+      "description": "Mergulhe no divertido mundo de aprendizado dos fundamentos de Matemática do 123 Autismo.\n\nO aplicativo usa as premissas do ensino estruturado com o objetivo de auxiliar no processo de aprendizagem de crianças com autismo por meio de divertidas atividades. Disponível em 5 idiomas, com quatro níveis de dificuldade e 40 fases interativas.\n\nUtilizado por Professores e Terapeutas para ensinar crianças com Autismo.",
+      "descriptionHTML": "Mergulhe no divertido mundo de aprendizado dos fundamentos de Matemática do 123 Autismo.<br><br>O aplicativo usa as premissas do ensino estruturado com o objetivo de auxiliar no processo de aprendizagem de crianças com autismo por meio de divertidas atividades. Disponível em 5 idiomas, com quatro níveis de dificuldade e 40 fases interativas.<br><br>Utilizado por Professores e Terapeutas para ensinar crianças com Autismo.",
+      "summary": "Chegou a hora do seu pequeno autista aprender Matemática.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1606,
+      "score": 3.6666667,
+      "scoreText": "3,7",
+      "ratings": 9,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.dokye.umdoistresautismo",
+      "url": "https://play.google.com/store/apps/details?id=com.dokye.umdoistresautismo&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Cajuu",
+      "description": "Aplicativo de sistema de gerenciamento de transporte automotivo",
+      "descriptionHTML": "Aplicativo de sistema de gerenciamento de transporte automotivo",
+      "summary": "Aplicativo de sistema de gerenciamento de transporte automotivo",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 163,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Veículos",
+      "genreId": "AUTO_AND_VEHICLES",
+      "categories": [
+        {
+          "name": "Veículos",
+          "id": "AUTO_AND_VEHICLES"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cajuu.app.cajuu_app",
+      "url": "https://play.google.com/store/apps/details?id=com.cajuu.app.cajuu_app&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "AAC Autism Communication Cards",
+      "description": "Dê ao seu filho uma ferramenta poderosa para expressar pensamentos e sentimentos!\n\nEste aplicativo profissional de CAA (Comunicação Aumentativa e Alternativa) foi desenvolvido especificamente para pessoas com autismo (TEA), paralisia cerebral (PC) e atrasos na fala. É um quadro de comunicação digital flexível, seguro e intuitivo.\n\nO que torna este aplicativo especial:\n\n\nSistema Fitzgerald Key: Bordas coloridas nos cartões ajudam os usuários a identificar categorias e classes gramaticais mais rapidamente (opção de ativar/desativar nas configurações).\nModo Seguro para Pais: Defina uma senha para bloquear os recursos de edição. Permita que seu filho se comunique livremente sem o risco de exclusões acidentais.\n\nConstrutor de Frases Avançado: Adicione até 3 cartões ao painel inferior animado. Reorganize os itens arrastando e soltando ou limpe o painel com um simples deslizar para baixo.\nVisualização em tela cheia: Exiba sequências de cartões em modo de tela cheia para uma comunicação visual mais clara.\nLayout adaptável: Otimizado para todos os dispositivos. Grade com ajuste automático (de 2 a 4 cartões por linha) para smartphones e tablets.\nNavegação moderna: Desfrute de animações fluidas e suporte intuitivo a gestos, incluindo a funcionalidade de deslizar para voltar.\n\n\nPrincipais recursos:\n\n\nPersonalização total: Carregue suas próprias fotos, crie categorias personalizadas e reorganize tudo para atender às suas necessidades.\n\nSaída de voz (TTS): Síntese de fala de alta qualidade com feedback visual (bordas destacadas durante a reprodução).\n\nSequências de ações: Salve rotinas e agendas visuais na tela \"Cadeias de ações\" para suporte diário.\n\nConfigurações de acessibilidade: Oculte/exiba rótulos e ative/desative esquemas de cores para reduzir a sobrecarga sensorial.\n\n\nQuebre a barreira da comunicação com uma ferramenta profissional feita sob medida para necessidades especiais Precisa de ajuda? Baixe hoje mesmo o nosso comunicador de CAA para autistas!",
+      "descriptionHTML": "Dê ao seu filho uma ferramenta poderosa para expressar pensamentos e sentimentos!<br><br>Este aplicativo profissional de CAA (Comunicação Aumentativa e Alternativa) foi desenvolvido especificamente para pessoas com autismo (TEA), paralisia cerebral (PC) e atrasos na fala. É um quadro de comunicação digital flexível, seguro e intuitivo.<br><br>O que torna este aplicativo especial:<br><br><ul><br><li><b>Sistema Fitzgerald Key:</b> Bordas coloridas nos cartões ajudam os usuários a identificar categorias e classes gramaticais mais rapidamente (opção de ativar/desativar nas configurações).</li><br><li><b>Modo Seguro para Pais:</b> Defina uma senha para bloquear os recursos de edição. Permita que seu filho se comunique livremente sem o risco de exclusões acidentais.</li><br><br><li><b>Construtor de Frases Avançado:</b> Adicione até 3 cartões ao painel inferior animado. Reorganize os itens arrastando e soltando ou limpe o painel com um simples deslizar para baixo.</li><br><li><b>Visualização em tela cheia:</b> Exiba sequências de cartões em modo de tela cheia para uma comunicação visual mais clara.</li><br><li><b>Layout adaptável:</b> Otimizado para todos os dispositivos. Grade com ajuste automático (de 2 a 4 cartões por linha) para smartphones e tablets.</li><br><li><b>Navegação moderna:</b> Desfrute de animações fluidas e suporte intuitivo a gestos, incluindo a funcionalidade de deslizar para voltar.</li><br></ul><br><br><b>Principais recursos:</b><br><ul><br><br><li><b>Personalização total:</b> Carregue suas próprias fotos, crie categorias personalizadas e reorganize tudo para atender às suas necessidades.</li><br><br><li><b>Saída de voz (TTS):</b> Síntese de fala de alta qualidade com feedback visual (bordas destacadas durante a reprodução).</li><br><br><li><b>Sequências de ações:</b> Salve rotinas e agendas visuais na tela &quot;Cadeias de ações&quot; para suporte diário.</li><br><br><li><b>Configurações de acessibilidade:</b> Oculte/exiba rótulos e ative/desative esquemas de cores para reduzir a sobrecarga sensorial.</li><br></ul><br><br><b>Quebre a barreira da comunicação com uma ferramenta profissional feita sob medida para necessidades especiais Precisa de ajuda? Baixe hoje mesmo o nosso comunicador de CAA para autistas!</b>",
+      "summary": "Comunicador de CAA para autismo e TEA. Possui tecla Fitzgerald, Modo Pais e TTS (Texto para Fala).",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2822,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.aac.autism.cards",
+      "url": "https://play.google.com/store/apps/details?id=com.aac.autism.cards&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Jade - Aprender Brincando",
+      "description": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.\nEnquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.\n\n🌟 Aprendizagem ativa em mundos temáticos\n\nOs jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.\n\n🎧 Experiência sonora e linguagem acessível\nAo tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.\n\n🎮 Jogos adaptativos\n\nO Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:\n\n• Pareamento e associação\n• Memória visual e auditiva\n• Completar figuras\n• Reconhecimento de formas e letras\n• Desafios cognitivos progressivos\nCom interface simples, toque intuitivo e imagens do cotidiano.\n\n🧩 Conteúdos multimídia\n\nInclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.\n\n👨‍👩‍👧 Para quem é o Jade App\n\nIdeal para:\n\n• Famílias\n• Professores e educadores\n• Psicopedagogos e terapeutas\n• Escolas públicas e privadas\n• Crianças e adolescentes que precisam de apoio cognitivo estruturado\nRecomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.\n\n📊 Recursos para adultos\n\nAcompanhe indicadores como:\n\n• Desempenho e evolução\n• Atenção e motivação\n• Impulsividade\n• Padrões motores\n• Habilidades cognitivas estimuladas\n\nOs relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.\n\n🔒 Seguro e sem anúncios\n\nO Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.\n\n🌍 Multilíngue\n\nDisponível em Português, Inglês e futuramente Espanhol e Árabe.\n\n💻 Onde usar\n\nO Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.\n\nDúvidas e suporte: contato@jadend.tech\nSaiba mais: https://jadend.tech\nInstagram: @jadendbr",
+      "descriptionHTML": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.<br>Enquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.<br><br>🌟 Aprendizagem ativa em mundos temáticos<br><br>Os jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.<br><br>🎧 Experiência sonora e linguagem acessível<br>Ao tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.<br><br>🎮 Jogos adaptativos<br><br>O Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:<br><br>• Pareamento e associação<br>• Memória visual e auditiva<br>• Completar figuras<br>• Reconhecimento de formas e letras<br>• Desafios cognitivos progressivos<br>Com interface simples, toque intuitivo e imagens do cotidiano.<br><br>🧩 Conteúdos multimídia<br><br>Inclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.<br><br>👨‍👩‍👧 Para quem é o Jade App<br><br>Ideal para:<br><br>• Famílias<br>• Professores e educadores<br>• Psicopedagogos e terapeutas<br>• Escolas públicas e privadas<br>• Crianças e adolescentes que precisam de apoio cognitivo estruturado<br>Recomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.<br><br>📊 Recursos para adultos<br><br>Acompanhe indicadores como:<br><br>• Desempenho e evolução<br>• Atenção e motivação<br>• Impulsividade<br>• Padrões motores<br>• Habilidades cognitivas estimuladas<br><br>Os relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.<br><br>🔒 Seguro e sem anúncios<br><br>O Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.<br><br>🌍 Multilíngue<br><br>Disponível em Português, Inglês e futuramente Espanhol e Árabe.<br><br>💻 Onde usar<br><br>O Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.<br><br>Dúvidas e suporte: contato@jadend.tech<br>Saiba mais: https://jadend.tech<br>Instagram: @jadendbr",
+      "summary": "Aprendizagem inclusiva com jogos cognitivos.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 171763,
+      "score": 3.34,
+      "scoreText": "3,3",
+      "ratings": 326,
+      "reviews": 127,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jadeautism.jadeautism",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeautism.jadeautism&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Tala: CAA para autismo",
+      "description": "O Tala ajuda crianças que falam pouco ou não falam a expressar necessidades e ideias com frases completas e naturais. Escolha uma voz adequada ou use gravações de voz da sua família, adicione suas próprias fotos e use o Tala em 25 idiomas.\n\nCOMO USAR O TALA:\n1) Cadastre-se em 90 segundos, comece grátis\n2) Adicione as comidas e atividades favoritas do seu filho\n3) Seu filho toca um cartão e ouve a frase completa, em voz alta\n\n\"Me dá água?\" \"Eu quero uma maçã.\" \"Preciso ir ao banheiro.\"\n\nO Tala é para crianças com atraso de fala e crianças não verbais, para toda criança que entende mais do que consegue falar. Seu filho tem tanto para te contar. O Tala dá um jeito para isso. Ótimo também para praticar em casa entre as sessões de fono.\n\nSem cursos de configuração. Sem aparelho caro. Sem manuais.\n\nO Tala foi construído em torno de como muitas crianças autistas realmente aprendem a linguagem: frases inteiras, não palavras soltas. Se o seu filho repete falas de filmes, músicas ou do YouTube, o Tala é para ele.\n\nEscolha a voz em português que combina com seu filho: mulher, homem, menino ou menina. O Tala fala 25 idiomas, e famílias bilíngues podem misturar idiomas no mesmo quadro.\n\nO Tala funciona em todos os aparelhos ao redor do seu filho: no tablet dele, no seu celular, no celular da professora. Os mesmos quadros em todo lugar, para que todo o time ao redor do seu filho apoie do mesmo jeito.\n\nAdicione suas próprias fotos. Crie seus próprios quadros. Grátis para sempre para fonoaudiólogos e educadores.\n\nCriei o Tala para o meu filho Tom, 7 anos e autista. A fala não é confiável para ele. Em alguns dias as palavras vêm, em outros não. Eu queria dar a ele o melhor jeito possível de ser ouvido, todos os dias. Testamos todos os apps de CAA. Nenhum servia. Então fiz um que serve.\n\nIdeias ou dúvidas? Escreva para hello@talaaac.com.\n\n* O Tala é uma assinatura, com 7 dias de teste grátis para novos assinantes\n* Grátis para sempre para fonoaudiólogos e educadores verificados\n\nO Tala é uma assinatura mensal ou anual com renovação automática. O pagamento é cobrado na sua conta do Google Play na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Gerencie sua assinatura nas configurações de assinatura do Google Play.\n\nTERMOS: https://talaaac.com/terms\nPRIVACIDADE: https://talaaac.com/privacy",
+      "descriptionHTML": "O Tala ajuda crianças que falam pouco ou não falam a expressar necessidades e ideias com frases completas e naturais. Escolha uma voz adequada ou use gravações de voz da sua família, adicione suas próprias fotos e use o Tala em 25 idiomas.<br><br>COMO USAR O TALA:<br>1) Cadastre-se em 90 segundos, comece grátis<br>2) Adicione as comidas e atividades favoritas do seu filho<br>3) Seu filho toca um cartão e ouve a frase completa, em voz alta<br><br>&quot;Me dá água?&quot; &quot;Eu quero uma maçã.&quot; &quot;Preciso ir ao banheiro.&quot;<br><br>O Tala é para crianças com atraso de fala e crianças não verbais, para toda criança que entende mais do que consegue falar. Seu filho tem tanto para te contar. O Tala dá um jeito para isso. Ótimo também para praticar em casa entre as sessões de fono.<br><br>Sem cursos de configuração. Sem aparelho caro. Sem manuais.<br><br>O Tala foi construído em torno de como muitas crianças autistas realmente aprendem a linguagem: frases inteiras, não palavras soltas. Se o seu filho repete falas de filmes, músicas ou do YouTube, o Tala é para ele.<br><br>Escolha a voz em português que combina com seu filho: mulher, homem, menino ou menina. O Tala fala 25 idiomas, e famílias bilíngues podem misturar idiomas no mesmo quadro.<br><br>O Tala funciona em todos os aparelhos ao redor do seu filho: no tablet dele, no seu celular, no celular da professora. Os mesmos quadros em todo lugar, para que todo o time ao redor do seu filho apoie do mesmo jeito.<br><br>Adicione suas próprias fotos. Crie seus próprios quadros. Grátis para sempre para fonoaudiólogos e educadores.<br><br>Criei o Tala para o meu filho Tom, 7 anos e autista. A fala não é confiável para ele. Em alguns dias as palavras vêm, em outros não. Eu queria dar a ele o melhor jeito possível de ser ouvido, todos os dias. Testamos todos os apps de CAA. Nenhum servia. Então fiz um que serve.<br><br>Ideias ou dúvidas? Escreva para hello@talaaac.com.<br><br>* O Tala é uma assinatura, com 7 dias de teste grátis para novos assinantes<br>* Grátis para sempre para fonoaudiólogos e educadores verificados<br><br>O Tala é uma assinatura mensal ou anual com renovação automática. O pagamento é cobrado na sua conta do Google Play na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Gerencie sua assinatura nas configurações de assinatura do Google Play.<br><br>TERMOS: https://talaaac.com/terms<br>PRIVACIDADE: https://talaaac.com/privacy",
+      "summary": "CAA com frases completas, vozes adequadas, fotos e gravações de voz da família.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 2618,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tala.aac",
+      "url": "https://play.google.com/store/apps/details?id=com.tala.aac&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

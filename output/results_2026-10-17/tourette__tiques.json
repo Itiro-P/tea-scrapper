@@ -1,0 +1,584 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:12:54.840Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TOURETTE",
+    "term": "tiques",
+    "key": "tiques",
+    "depth": 0,
+    "parent": null,
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Tickzi",
+      "description": "Compre, venda e valide ingressos com segurança inigualável. Com tecnologia blockchain, a Tickzi garante autenticidade para shows, esportes e eventos por todo o Brasil.",
+      "descriptionHTML": "Compre, venda e valide ingressos com segurança inigualável. Com tecnologia blockchain, a Tickzi garante autenticidade para shows, esportes e eventos por todo o Brasil.",
+      "summary": "Compre ingressos seguros com blockchain para eventos em todo o Brasil.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 144288,
+      "score": 4.0961537,
+      "scoreText": "4,1",
+      "ratings": 212,
+      "reviews": 67,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tickzi.app.android",
+      "url": "https://play.google.com/store/apps/details?id=com.tickzi.app.android&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Ticket",
+      "description": "O App oficial dos cartões Ticket®, traz uma experiência totalmente nova!\nO que já era bom, ficou ainda melhor! Você pode consultar o saldo do seu cartão, extrato, ver toda a rede credenciada que aceita Ticket, ter acesso a vantagens exclusivas e cupons de desconto para usuários Ticket e, ainda, realizar o autoatendimento e gestão do seu benefício direto pelo App, como: alteração de senha do cartão, bloqueio, reemissão e muito mais, de forma simples e prática!\nCadastre seus cartões:\n• Ticket Restaurante®;\n• Ticket Alimentação®;\n• Ticket Alimentação Natal®.\n• Ticket Flex®.\n• Ticket SuperFlex®\n• Ticket Transporte®.\n• Ticket Cultura®;\n• Ticket Plus®;\n• Ticket Car®;\n• Ticket Saúde®.\n• Por questões de segurança, e para o desenvolvimento de melhorias e novos serviços para você, o cadastro no App Ticket é obrigatório, além de trazer mais segurança traz maior conforto no acesso e consulta dos cartões, ao salvá-los automaticamente.\nNesta nova versão, trouxemos algumas novidades e melhorias pra você!\n• Login por CPF: Além do email, o login por CPF também está disponível!\n• Troca de e-mail via Whatsapp: Altere o e-mail via Whatsapp sem necessidade de ligação.\n• Relate seu problema no link abaixo. Preencha o formulário e nosso atendimento entrará em contato via email.\nhttps://app.pipefy.com/public/form/gL--zxpW\nINFORMAÇÕES IMPORTANTES:\n• Este App necessita de conexão com a internet;\n• Por razão de desempenho e segurança mantenha seu App Ticket sempre atualizado;\n• Cadastre seus cartões apenas nos aplicativos oficiais da Ticket;\n• E não se esqueça de avaliar o nosso aplicativo! A sua opinião é muito importante para que possamos melhorá-lo cada vez mais!\n* Serviço disponível para os produtos: Ticket Cultura®, Ticket Alimentação®, Ticket Restaurante® e Ticket Flex®.\n** Segunda via entregue no RH da sua empresa, serviço disponível para os produtos: Ticket Cultura®, Ticket Alimentação®, Ticket Restaurante®, Ticket Plus® e Ticket Flex®;\nImportante: Mantenha seu App Ticket sempre atualizado! Versões anteriores podem não ter mais suporte técnico",
+      "descriptionHTML": "O App oficial dos cartões Ticket®, traz uma experiência totalmente nova!<br>O que já era bom, ficou ainda melhor! Você pode consultar o saldo do seu cartão, extrato, ver toda a rede credenciada que aceita Ticket, ter acesso a vantagens exclusivas e cupons de desconto para usuários Ticket e, ainda, realizar o autoatendimento e gestão do seu benefício direto pelo App, como: alteração de senha do cartão, bloqueio, reemissão e muito mais, de forma simples e prática!<br>Cadastre seus cartões:<br>• Ticket Restaurante®;<br>• Ticket Alimentação®;<br>• Ticket Alimentação Natal®.<br>• Ticket Flex®.<br>• Ticket SuperFlex®<br>• Ticket Transporte®.<br>• Ticket Cultura®;<br>• Ticket Plus®;<br>• Ticket Car®;<br>• Ticket Saúde®.<br>• Por questões de segurança, e para o desenvolvimento de melhorias e novos serviços para você, o cadastro no App Ticket é obrigatório, além de trazer mais segurança traz maior conforto no acesso e consulta dos cartões, ao salvá-los automaticamente.<br>Nesta nova versão, trouxemos algumas novidades e melhorias pra você!<br>• Login por CPF: Além do email, o login por CPF também está disponível!<br>• Troca de e-mail via Whatsapp: Altere o e-mail via Whatsapp sem necessidade de ligação.<br>• Relate seu problema no link abaixo. Preencha o formulário e nosso atendimento entrará em contato via email.<br>https://app.pipefy.com/public/form/gL--zxpW<br>INFORMAÇÕES IMPORTANTES:<br>• Este App necessita de conexão com a internet;<br>• Por razão de desempenho e segurança mantenha seu App Ticket sempre atualizado;<br>• Cadastre seus cartões apenas nos aplicativos oficiais da Ticket;<br>• E não se esqueça de avaliar o nosso aplicativo! A sua opinião é muito importante para que possamos melhorá-lo cada vez mais!<br>* Serviço disponível para os produtos: Ticket Cultura®, Ticket Alimentação®, Ticket Restaurante® e Ticket Flex®.<br>** Segunda via entregue no RH da sua empresa, serviço disponível para os produtos: Ticket Cultura®, Ticket Alimentação®, Ticket Restaurante®, Ticket Plus® e Ticket Flex®;<br>Importante: Mantenha seu App Ticket sempre atualizado! Versões anteriores podem não ter mais suporte técnico",
+      "summary": "Aplicativo oficial da Ticket. Consulte saldo, extrato, rede credenciada e mais!",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 22602966,
+      "score": 4.791611,
+      "scoreText": "4,8",
+      "ratings": 1755185,
+      "reviews": 232997,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Finanças",
+      "genreId": "FINANCE",
+      "categories": [
+        {
+          "name": "Finanças",
+          "id": "FINANCE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "br.com.mobile.ticket",
+      "url": "https://play.google.com/store/apps/details?id=br.com.mobile.ticket&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Tic Tac Toe Endless Strategy",
+      "description": "Acha que domina o Jogo da Velha? Pense de novo.\n\nEste NÃO é o jogo clássico.\nSem empates. Sem repetição. Apenas estratégia pura.\n...\nSem cadastro. Apenas diversão.",
+      "descriptionHTML": "Acha que domina o Jogo da Velha? Pense de novo.<br><br>Este NÃO é o jogo clássico.<br>Sem empates. Sem repetição. Apenas estratégia pura.<br>...<br>Sem cadastro. Apenas diversão.",
+      "summary": "Sem empates. 20 níveis de estratégia. Você consegue vencer a IA final?",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1061,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.devmon.galo",
+      "url": "https://play.google.com/store/apps/details?id=com.devmon.galo&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Tic-Tac Mobile",
+      "description": "Tic-Tac Mobile é uma aplicação baseada em nuvem para controle de tempo de projeto, orçamento, planejamento e faturamento.\nEle está online desde 2002 e hoje é usado por mais de 350 empresas em todo o mundo.\n\nEste aplicativo irá fornecer uma maneira fácil de entrar tempo e despesas para você e seus colegas de trabalho. É totalmente integrado com a aplicação web.\n\nEste aplicativo é livre para usar, mas requer uma conta com Tic-Tac.\nDe dentro do aplicativo que você pode aplicar para um teste de 30 dias grátis sem obrigações.\n\nJá é usuário Tic-Tac, irá fazer login com seu ID e senha.\n\nCaracterísticas deste app\n\nDigite horas por projeto e atividade em uma exibição semanal och diária\nVer horas acumuladas, saldo de horário flexível, atividades planejadas no painel de instrumentos\nDigite despesas, custos de viagem, a quilometragem, os reembolsos, vendas\nConecte-se com colleaques através de bilhetes e o diário de projeto\nBaixar fotos, vincular uma despesa para a foto do recibo\nSeis línguas para escolher\n\ninformações completas sobre Tic-Tac Mobile, incluindo a nossa política de assinaturas e integridade do usuário, você vai encontrar no nosso web-site www.tictacmobile.com",
+      "descriptionHTML": "Tic-Tac Mobile é uma aplicação baseada em nuvem para controle de tempo de projeto, orçamento, planejamento e faturamento.<br>Ele está online desde 2002 e hoje é usado por mais de 350 empresas em todo o mundo.<br><br>Este aplicativo irá fornecer uma maneira fácil de entrar tempo e despesas para você e seus colegas de trabalho. É totalmente integrado com a aplicação web.<br><br>Este aplicativo é livre para usar, mas requer uma conta com Tic-Tac.<br>De dentro do aplicativo que você pode aplicar para um teste de 30 dias grátis sem obrigações.<br><br>Já é usuário Tic-Tac, irá fazer login com seu ID e senha.<br><br>Características deste app<br><br>Digite horas por projeto e atividade em uma exibição semanal och diária<br>Ver horas acumuladas, saldo de horário flexível, atividades planejadas no painel de instrumentos<br>Digite despesas, custos de viagem, a quilometragem, os reembolsos, vendas<br>Conecte-se com colleaques através de bilhetes e o diário de projeto<br>Baixar fotos, vincular uma despesa para a foto do recibo<br>Seis línguas para escolher<br><br>informações completas sobre Tic-Tac Mobile, incluindo a nossa política de assinaturas e integridade do usuário, você vai encontrar no nosso web-site www.tictacmobile.com",
+      "summary": "tempo de projeto e controle de despesas",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6236,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tictacmobile.TicTacMobile",
+      "url": "https://play.google.com/store/apps/details?id=com.tictacmobile.TicTacMobile&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Power Tic-Tac-Toe",
+      "description": "Power Tic-Tac-Toe é uma evolução inovadora e estratégica do clássico atemporal, levando a conhecida grade 3x3 do Jogo da Velha a um novo nível de complexidade e emoção. Este jogo é jogado em uma grade 3x3 de tabuleiros menores de Jogo da Velha, onde cada movimento que você faz não afeta apenas o tabuleiro menor atual, mas também determina onde seu oponente deve jogar em seguida. O objetivo é dominar esses tabuleiros menores, buscando alinhar três em uma fileira no tabuleiro principal, vencendo tabuleiros individuais.\n\nPara garantir a vitória, os jogadores devem equilibrar táticas locais com estratégias globais abrangentes. Uma pequena vitória em um tabuleiro não garante apenas uma posição no tabuleiro principal; também influencia o próximo movimento do seu oponente, criando camadas de estratégia e antecipação. O jogo não se trata apenas de planejar seu próximo movimento, mas também de prever o do seu oponente, tornando cada decisão crucial.\n\nCom sua mistura de jogabilidade clássica e profundidade estratégica, Power Tic-Tac-Toe oferece uma experiência desafiadora e envolvente para jogadores que gostam de pensar melhor do que seus oponentes.\n\n #JogoDaVelhaPoderoso #JogosDeEstratégia #JogosDeTabuleiro #NoiteDeJogos #JogosMentales #JogoDaVelha #ComunidadeGaming #JogoCompetitivo #Quebra-Cabeças #DesignDeJogos",
+      "descriptionHTML": "Power Tic-Tac-Toe é uma evolução inovadora e estratégica do clássico atemporal, levando a conhecida grade 3x3 do Jogo da Velha a um novo nível de complexidade e emoção. Este jogo é jogado em uma grade 3x3 de tabuleiros menores de Jogo da Velha, onde cada movimento que você faz não afeta apenas o tabuleiro menor atual, mas também determina onde seu oponente deve jogar em seguida. O objetivo é dominar esses tabuleiros menores, buscando alinhar três em uma fileira no tabuleiro principal, vencendo tabuleiros individuais.<br><br>Para garantir a vitória, os jogadores devem equilibrar táticas locais com estratégias globais abrangentes. Uma pequena vitória em um tabuleiro não garante apenas uma posição no tabuleiro principal; também influencia o próximo movimento do seu oponente, criando camadas de estratégia e antecipação. O jogo não se trata apenas de planejar seu próximo movimento, mas também de prever o do seu oponente, tornando cada decisão crucial.<br><br>Com sua mistura de jogabilidade clássica e profundidade estratégica, Power Tic-Tac-Toe oferece uma experiência desafiadora e envolvente para jogadores que gostam de pensar melhor do que seus oponentes.<br><br> #JogoDaVelhaPoderoso #JogosDeEstratégia #JogosDeTabuleiro #NoiteDeJogos #JogosMentales #JogoDaVelha #ComunidadeGaming #JogoCompetitivo #Quebra-Cabeças #DesignDeJogos",
+      "summary": "Power TicTacToe é uma reviravolta estratégica onde cada movimento controla as opções do oponente",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 5838,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.powertictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.powertictactoe&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Signalement TIQUE",
+      "description": "Ao longo dos anos, as doenças transmitidas por carrapatos se tornaram um grande problema de saúde pública. Várias equipes de cientistas se uniram para pedir a todos os voluntários franceses que participem do esforço de pesquisa, sinalizando em alguns momentos as picadas de carrapatos sofridas por humanos e animais. Uma maneira simples e útil de promover a ciência",
+      "descriptionHTML": "Ao longo dos anos, as doenças transmitidas por carrapatos se tornaram um grande problema de saúde pública. Várias equipes de cientistas se uniram para pedir a todos os voluntários franceses que participem do esforço de pesquisa, sinalizando em alguns momentos as picadas de carrapatos sofridas por humanos e animais. Uma maneira simples e útil de promover a ciência",
+      "summary": "Os relatórios de ticks permitem que você relate mordidas de ticks",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 77152,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.inra.VigiTic",
+      "url": "https://play.google.com/store/apps/details?id=com.inra.VigiTic&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Tic-Tac-XO",
+      "description": "O aplicativo Tic-Tac-XO é um aplicativo móvel desenvolvido para smartphones que permite aos usuários jogar o clássico jogo da velha em seus dispositivos.\n\nO Jogo da Velha possui uma interface intuitiva e fácil de usar, permitindo que os usuários realizem seus movimentos com facilidade e controlem o andamento do jogo. O campo de jogo é apresentado em uma grade 3x3, onde os jogadores podem escolher uma célula para colocar seu símbolo (cruz ou zero).\n\nCampo de jogo interativo: O aplicativo permite selecionar células no campo de jogo e colocar símbolos (cruz ou zero) tocando na tela.\nAtualmente, o jogo possui dois modos de jogo: single player (contra bots) e multiplayer (permitindo que você desafie seus amigos).",
+      "descriptionHTML": "O aplicativo Tic-Tac-XO é um aplicativo móvel desenvolvido para smartphones que permite aos usuários jogar o clássico jogo da velha em seus dispositivos.<br><br>O Jogo da Velha possui uma interface intuitiva e fácil de usar, permitindo que os usuários realizem seus movimentos com facilidade e controlem o andamento do jogo. O campo de jogo é apresentado em uma grade 3x3, onde os jogadores podem escolher uma célula para colocar seu símbolo (cruz ou zero).<br><br>Campo de jogo interativo: O aplicativo permite selecionar células no campo de jogo e colocar símbolos (cruz ou zero) tocando na tela.<br>Atualmente, o jogo possui dois modos de jogo: single player (contra bots) e multiplayer (permitindo que você desafie seus amigos).",
+      "summary": "Jogo simples de jogo da velha",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 336727,
+      "score": 3.8461537,
+      "scoreText": "3,8",
+      "ratings": 398,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.chisw.TicTacXO",
+      "url": "https://play.google.com/store/apps/details?id=com.chisw.TicTacXO&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Ultimate Tic Tac Toe",
+      "description": "O Jogo da Velha Supremo é um jogo estratégico para dois jogadores. O jogo começa com o Jogador X, que sempre joga primeiro. A regra principal é que o próximo jogador deve colocar seu marcador no quadrado maior que corresponde ao quadrado menor da jogada do jogador anterior. No entanto, se o quadrado maior já tiver sido vencido por X ou O, e a jogada anterior tiver sido feita nesse quadrado, o próximo jogador pode colocar seu marcador em qualquer quadrado disponível no tabuleiro. Esta regra única introduz uma camada adicional de estratégia ao jogo.",
+      "descriptionHTML": "O Jogo da Velha Supremo é um jogo estratégico para dois jogadores. O jogo começa com o Jogador X, que sempre joga primeiro. A regra principal é que o próximo jogador deve colocar seu marcador no quadrado maior que corresponde ao quadrado menor da jogada do jogador anterior. No entanto, se o quadrado maior já tiver sido vencido por X ou O, e a jogada anterior tiver sido feita nesse quadrado, o próximo jogador pode colocar seu marcador em qualquer quadrado disponível no tabuleiro. Esta regra única introduz uma camada adicional de estratégia ao jogo.",
+      "summary": "Um jogo da velha maior e mais difícil",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 21019,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.MertTaylan.UltimateTicTacToe",
+      "url": "https://play.google.com/store/apps/details?id=com.MertTaylan.UltimateTicTacToe&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Tic Tac Toe : Infinite&Classic",
+      "description": "Título: Jogo da Velha: Infinito e Clássico\n\nDescrição:\nExperimente o jogo da velha definitivo, que traz a jogabilidade clássica e infinita ao seu alcance! Jogo da Velha oferece uma mistura perfeita de tradição e inovação, garantindo diversão sem fim e desafios estratégicos. Seja na grade atemporal 3x3 ou no dinâmico modo Infinito, este jogo é perfeito para jogadores de todas as idades. Baixe agora e aproveite a melhor experiência de Jogo da Velha no seu dispositivo!\n\nCaracterísticas do Jogo:\n\nDois Tipos de Jogo:\nModo Clássico: Aproveite o tradicional jogo da velha em grade 3x3 que você conhece e adora.\nModo Infinito: Adote uma abordagem única em que, após a terceira jogada de cada jogador, a jogada mais antiga desaparece, garantindo que o jogo nunca termine empatado.\n\nDois Modos Emocionantes:\nModo Computador: Desafie uma IA inteligente e adaptável que o mantém alerta. Teste suas habilidades e estratégias contra um oponente formidável.\n\n Modo 1 contra 1: Compita contra amigos e familiares em emocionantes partidas frente a frente.\n\nJogabilidade infinita no Modo Infinito:\nAo contrário do Jogo da Velha tradicional, o Modo Infinito apresenta um toque dinâmico. Planeje seus movimentos cuidadosamente para enganar seu oponente e manter o jogo continuamente desafiador.\n\nIA avançada:\nNo Modo Computador, enfrente uma IA desafiadora projetada para proporcionar uma experiência competitiva e envolvente.\n\nControles suaves e intuitivos:\nNossa interface amigável e controles suaves facilitam o aprendizado para qualquer pessoa. Perfeito tanto para jogadores experientes quanto para iniciantes.\n\nGráficos envolventes:\nDesfrute de gráficos vibrantes e efeitos encantadores que aprimoram sua experiência de jogo. O design elegante garante que você se mantenha focado em sua estratégia.\n\nSistema de pontos:\nAcompanhe suas vitórias e derrotas com nosso sistema de pontos. Veja como você se compara aos seus amigos e se esforce para melhorar seu recorde!\n\nComo jogar:\nOs jogadores se revezam marcando (X ou O) em quadrados vazios.\n\n O primeiro jogador a conseguir três marcas consecutivas (para cima, para baixo, na horizontal ou na diagonal) em qualquer minitabuleiro vence o tabuleiro.\nNo Modo Infinito, após o terceiro movimento de cada jogador, o movimento mais antigo desaparece quando ele faz um novo movimento, mantendo o tabuleiro dinâmico e desafiador.\nO jogo continua indefinidamente no Modo Infinito, garantindo um desafio sem fim e evitando empates.\n\nPor que Jogo da Velha?\nDiversão sem Fim: A regra exclusiva de movimento de desaparecimento no Modo Infinito garante que o jogo continue desafiador e divertido sem nunca terminar em empate.\nProfundidade Estratégica: Requer mais estratégia e planejamento do que o Jogo da Velha tradicional, mantendo os jogadores engajados e pensando no futuro.\nÓtimo para todas as idades: Simples o suficiente para as crianças entenderem, mas desafiador o suficiente para manter os adultos engajados.\n Palavras-chave:\nJogo da Velha, Jogo da Velha Clássico, Jogo da Velha Infinito, Jogos de Estratégia, Jogos Clássicos, Jogos de Quebra-Cabeça, Jogos para Dois Jogadores, Jogos em Família, Jogo X e O, Jogo da Velha, Jogos Mentais, Jogos Divertidos, Jogos Casuais, Jogos de Tabuleiro, Modo Computador, Jogo da Velha com IA, Jogo da Velha Avançado, Jogo da Velha Offline, Multijogador Competitivo, Um Jogador, Jogo da Velha Dinâmico.\n\nBaixe o Jogo da Velha Hoje Mesmo!\nMergulhe na melhor experiência de Jogo da Velha com os modos Clássico e Infinito. Desafie sua mente, compita com amigos e desfrute de horas infinitas de diversão estratégica. Baixe agora e comece a jogar!",
+      "descriptionHTML": "Título: Jogo da Velha: Infinito e Clássico<br><br>Descrição:<br>Experimente o jogo da velha definitivo, que traz a jogabilidade clássica e infinita ao seu alcance! Jogo da Velha oferece uma mistura perfeita de tradição e inovação, garantindo diversão sem fim e desafios estratégicos. Seja na grade atemporal 3x3 ou no dinâmico modo Infinito, este jogo é perfeito para jogadores de todas as idades. Baixe agora e aproveite a melhor experiência de Jogo da Velha no seu dispositivo!<br><br>Características do Jogo:<br><br>Dois Tipos de Jogo:<br>Modo Clássico: Aproveite o tradicional jogo da velha em grade 3x3 que você conhece e adora.<br>Modo Infinito: Adote uma abordagem única em que, após a terceira jogada de cada jogador, a jogada mais antiga desaparece, garantindo que o jogo nunca termine empatado.<br><br>Dois Modos Emocionantes:<br>Modo Computador: Desafie uma IA inteligente e adaptável que o mantém alerta. Teste suas habilidades e estratégias contra um oponente formidável.<br><br> Modo 1 contra 1: Compita contra amigos e familiares em emocionantes partidas frente a frente.<br><br>Jogabilidade infinita no Modo Infinito:<br>Ao contrário do Jogo da Velha tradicional, o Modo Infinito apresenta um toque dinâmico. Planeje seus movimentos cuidadosamente para enganar seu oponente e manter o jogo continuamente desafiador.<br><br>IA avançada:<br>No Modo Computador, enfrente uma IA desafiadora projetada para proporcionar uma experiência competitiva e envolvente.<br><br>Controles suaves e intuitivos:<br>Nossa interface amigável e controles suaves facilitam o aprendizado para qualquer pessoa. Perfeito tanto para jogadores experientes quanto para iniciantes.<br><br>Gráficos envolventes:<br>Desfrute de gráficos vibrantes e efeitos encantadores que aprimoram sua experiência de jogo. O design elegante garante que você se mantenha focado em sua estratégia.<br><br>Sistema de pontos:<br>Acompanhe suas vitórias e derrotas com nosso sistema de pontos. Veja como você se compara aos seus amigos e se esforce para melhorar seu recorde!<br><br>Como jogar:<br>Os jogadores se revezam marcando (X ou O) em quadrados vazios.<br><br> O primeiro jogador a conseguir três marcas consecutivas (para cima, para baixo, na horizontal ou na diagonal) em qualquer minitabuleiro vence o tabuleiro.<br>No Modo Infinito, após o terceiro movimento de cada jogador, o movimento mais antigo desaparece quando ele faz um novo movimento, mantendo o tabuleiro dinâmico e desafiador.<br>O jogo continua indefinidamente no Modo Infinito, garantindo um desafio sem fim e evitando empates.<br><br>Por que Jogo da Velha?<br>Diversão sem Fim: A regra exclusiva de movimento de desaparecimento no Modo Infinito garante que o jogo continue desafiador e divertido sem nunca terminar em empate.<br>Profundidade Estratégica: Requer mais estratégia e planejamento do que o Jogo da Velha tradicional, mantendo os jogadores engajados e pensando no futuro.<br>Ótimo para todas as idades: Simples o suficiente para as crianças entenderem, mas desafiador o suficiente para manter os adultos engajados.<br> Palavras-chave:<br>Jogo da Velha, Jogo da Velha Clássico, Jogo da Velha Infinito, Jogos de Estratégia, Jogos Clássicos, Jogos de Quebra-Cabeça, Jogos para Dois Jogadores, Jogos em Família, Jogo X e O, Jogo da Velha, Jogos Mentais, Jogos Divertidos, Jogos Casuais, Jogos de Tabuleiro, Modo Computador, Jogo da Velha com IA, Jogo da Velha Avançado, Jogo da Velha Offline, Multijogador Competitivo, Um Jogador, Jogo da Velha Dinâmico.<br><br>Baixe o Jogo da Velha Hoje Mesmo!<br>Mergulhe na melhor experiência de Jogo da Velha com os modos Clássico e Infinito. Desafie sua mente, compita com amigos e desfrute de horas infinitas de diversão estratégica. Baixe agora e comece a jogar!",
+      "summary": "Diversão no jogo da velha (XOX) com modos computador e 1x1! Estratégia sem fim",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3000,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.ashishgokani.tictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.ashishgokani.tictactoe&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Tickzi Controle de acesso",
+      "description": "O App de Controle de Acesso é uma aplicação mobile complementar à plataforma Tickzi, projetada especificamente para equipes de entrada e organizadores de eventos. Utilizando a mesma tecnologia blockchain que garante a autenticidade dos ingressos na plataforma principal, o app oferece uma interface otimizada para validação em tempo real durante os eventos.\n\nFuncionalidades Principais\n\n1. Validação por QR Code\n2. Busca por CPF\n3. Histórico de Validações",
+      "descriptionHTML": "O App de Controle de Acesso é uma aplicação mobile complementar à plataforma Tickzi, projetada especificamente para equipes de entrada e organizadores de eventos. Utilizando a mesma tecnologia blockchain que garante a autenticidade dos ingressos na plataforma principal, o app oferece uma interface otimizada para validação em tempo real durante os eventos.<br><br>Funcionalidades Principais<br><br>1. Validação por QR Code<br>2. Busca por CPF<br>3. Histórico de Validações",
+      "summary": "solução mobile para organizadores de eventos que precisam validar ingressos.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1674,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Entretenimento",
+      "genreId": "ENTERTAINMENT",
+      "categories": [
+        {
+          "name": "Entretenimento",
+          "id": "ENTERTAINMENT"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tickzi.tickzicontroledeacesso",
+      "url": "https://play.google.com/store/apps/details?id=com.tickzi.tickzicontroledeacesso&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Jogo da Velha Infinito",
+      "description": "🎮 Descubra uma nova maneira de jogar Jogo da Velha!\n\nDesafie sua mente com este clássico atemporal reinventado! Seja jogando contra a Inteligência Artificial (IA) ou em partidas para dois jogadores no mesmo dispositivo, a diversão é garantida para todas as idades.\n\n✨ Escolha entre diferentes tamanhos de tabuleiro:\n• 3x3 – o clássico que todo mundo conhece\n• 4x4 – mais espaço para novas estratégias\n• 5x5 – desafios ainda mais empolgantes\n\n🎯 Três modos de jogo exclusivos:\n\n🔹 Tradicional\nA experiência clássica do Jogo da Velha. Alinhe três peças na horizontal, vertical ou diagonal antes do seu oponente.\n\n🔹 Infinito\nAqui, a partida nunca termina empatada! Após algumas jogadas, suas peças mais antigas são removidas automaticamente, criando um desafio estratégico dinâmico onde cada movimento conta.\n\n🔹 Invisível\nTeste sua memória e concentração. As peças desaparecem após serem jogadas, e você precisará se lembrar de onde cada marca foi colocada para vencer.\n\n🤖 Jogue sozinho contra a IA\nEscolha seu nível de dificuldade preferido e tente vencer o computador.\n\n👥 Jogue com outra pessoa\nDesafie amigos e familiares para partidas locais rápidas e divertidas.\n\n🧠 Desenvolva raciocínio lógico, estratégia, memória e habilidades de tomada de decisão enquanto se diverte com diferentes regras e estilos de jogo.\n\nSe você gosta de Jogo da Velha, jogos de estratégia, quebra-cabeças e desafios de lógica, este jogo é para você!\n\nBaixe agora e descubra qual modo se tornará o seu favorito!",
+      "descriptionHTML": "🎮 Descubra uma nova maneira de jogar Jogo da Velha!<br><br>Desafie sua mente com este clássico atemporal reinventado! Seja jogando contra a Inteligência Artificial (IA) ou em partidas para dois jogadores no mesmo dispositivo, a diversão é garantida para todas as idades.<br><br>✨ Escolha entre diferentes tamanhos de tabuleiro:<br>• 3x3 – o clássico que todo mundo conhece<br>• 4x4 – mais espaço para novas estratégias<br>• 5x5 – desafios ainda mais empolgantes<br><br>🎯 Três modos de jogo exclusivos:<br><br>🔹 Tradicional<br>A experiência clássica do Jogo da Velha. Alinhe três peças na horizontal, vertical ou diagonal antes do seu oponente.<br><br>🔹 Infinito<br>Aqui, a partida nunca termina empatada! Após algumas jogadas, suas peças mais antigas são removidas automaticamente, criando um desafio estratégico dinâmico onde cada movimento conta.<br><br>🔹 Invisível<br>Teste sua memória e concentração. As peças desaparecem após serem jogadas, e você precisará se lembrar de onde cada marca foi colocada para vencer.<br><br>🤖 Jogue sozinho contra a IA<br>Escolha seu nível de dificuldade preferido e tente vencer o computador.<br><br>👥 Jogue com outra pessoa<br>Desafie amigos e familiares para partidas locais rápidas e divertidas.<br><br>🧠 Desenvolva raciocínio lógico, estratégia, memória e habilidades de tomada de decisão enquanto se diverte com diferentes regras e estilos de jogo.<br><br>Se você gosta de Jogo da Velha, jogos de estratégia, quebra-cabeças e desafios de lógica, este jogo é para você!<br><br>Baixe agora e descubra qual modo se tornará o seu favorito!",
+      "summary": "∞Jogue agora o Jogo da Velha infinito ∞",
+      "installs": "50+",
+      "minInstalls": 50,
+      "maxInstalls": 59,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Tabuleiros",
+      "genreId": "GAME_BOARD",
+      "categories": [
+        {
+          "name": "Tabuleiros",
+          "id": "GAME_BOARD"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.fiereck.infinitytictactoe",
+      "url": "https://play.google.com/store/apps/details?id=br.com.fiereck.infinitytictactoe&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Jogo da Velha Animal",
+      "description": "Jogo da Velha Animal – Uma Versão Selvagem de um Clássico!\n\nPrepare-se para a versão mais fofa e emocionante do Jogo da Velha! Em Jogo da Velha Animal, você trocará os tradicionais Xs e Os por uma divertida seleção de 30 animais diferentes! Escolha suas criaturas favoritas e desafie amigos, familiares ou oponentes controlados por IA nesta disputa estratégica e adorável.\n\nRecursos que você vai adorar:\n- 30 Animais Únicos – Escolha entre uma variedade de amigos peludos, emplumados e escamosos!\n- Diversão Clássica do Jogo da Velha – Fácil de aprender, impossível de largar!\n- Modos Solo & Multiplayer – Jogue contra a IA ou desafie um amigo!\n- Design Colorido e Envolvente – Aproveite animações encantadoras e gráficos vibrantes!\n- Diversão para Todas as Idades – Perfeito para crianças e adultos!\n\nSe você é um amante de gatos, fã de criaturas exóticas ou simplesmente adora um bom Jogo da Velha, Jogo da Velha Animal é o jogo perfeito para você!\n\nBaixe agora e deixe a batalha animal começar!",
+      "descriptionHTML": "Jogo da Velha Animal – Uma Versão Selvagem de um Clássico!<br><br>Prepare-se para a versão mais fofa e emocionante do Jogo da Velha! Em Jogo da Velha Animal, você trocará os tradicionais Xs e Os por uma divertida seleção de 30 animais diferentes! Escolha suas criaturas favoritas e desafie amigos, familiares ou oponentes controlados por IA nesta disputa estratégica e adorável.<br><br>Recursos que você vai adorar:<br>- 30 Animais Únicos – Escolha entre uma variedade de amigos peludos, emplumados e escamosos!<br>- Diversão Clássica do Jogo da Velha – Fácil de aprender, impossível de largar!<br>- Modos Solo &amp; Multiplayer – Jogue contra a IA ou desafie um amigo!<br>- Design Colorido e Envolvente – Aproveite animações encantadoras e gráficos vibrantes!<br>- Diversão para Todas as Idades – Perfeito para crianças e adultos!<br><br>Se você é um amante de gatos, fã de criaturas exóticas ou simplesmente adora um bom Jogo da Velha, Jogo da Velha Animal é o jogo perfeito para você!<br><br>Baixe agora e deixe a batalha animal começar!",
+      "summary": "Jogue o jogo da velha com 30 animais adoráveis ao invés de Xs and Os!",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1551,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Casuais",
+      "genreId": "GAME_CASUAL",
+      "categories": [
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.framefactorylabs.animaltictactoe",
+      "url": "https://play.google.com/store/apps/details?id=com.framefactorylabs.animaltictactoe&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Stretic: Stretching & Mobility",
+      "description": "Finalmente, um aplicativo de alongamento que te ajuda a manter a consistência.\n\nO Stretic é o seu companheiro diário de alongamento guiado e mobilidade. Seja para melhorar a flexibilidade, se recuperar de um treino intenso ou fazer exercícios preventivos para evitar lesões, o Stretic oferece rotinas estruturadas para que você alcance seus objetivos, todos os dias.\n\nPor que o Stretic?\n\nA maioria das pessoas sabe que precisa se alongar. Poucas, porém, fazem isso com regularidade. O Stretic resolve esse problema, transformando sua rotina diária de mobilidade em algo que você realmente espera ansiosamente, com programas guiados, acompanhamento do progresso e sequências de exercícios que te motivam a voltar sempre.\n\nPROGRAMAS DE ALONGAMENTO GUIADO\nEscolha entre programas elaborados por especialistas e focados nos seus objetivos:\n\nFlexibilidade: Aumente a amplitude de movimento com rotinas progressivas que funcionam.\n\nTreinamento de Mobilidade: Melhore a saúde das articulações e os padrões de movimento funcionais.\n\nPrevenção de Lesões: Fortaleça as áreas mais propensas a sofrer lesões, antes que elas aconteçam.\n\nRecuperação Pós-Treino: Sessões de recuperação ativa para reduzir a dor e fortalecer os músculos.\n\nCorreção Postural: Reverta os danos causados ​​por ficar sentado, em frente a telas e em uma mesa o dia todo.\n\nRotinas Matinais: Desperte seu corpo com um alongamento diário de 5 a 15 minutos.\n\nRelaxamento Noturno: Desestresse e relaxe antes de dormir.\n\nTODOS OS EXERCÍCIOS GUIADOS\nSem adivinhações. Sem pesquisas no Google. Cada exercício de alongamento e mobilidade no Stretic inclui:\n\nInstruções claras passo a passo\n\nDemonstrações em vídeo\n\nTempo de sustentação e número de repetições sugeridos\n\nEtiquetas de foco para que você saiba exatamente o que está trabalhando\n\nSeja você um iniciante completo ou um atleta experiente em exercícios corretivos, nossa biblioteca abrange tudo.\n\nCRIADO PARA CRIAR HÁBITOS\nO Stretic usa sequências, marcos de progresso e uma estrutura de rotina diária para manter sua consistência, porque o único alongamento que funciona é o alongamento que você realmente faz.\n\nAcompanhe sua sequência diária de alongamentos\n\nRegistre rotinas e exercícios concluídos\n\nVeja seu progresso em flexibilidade e mobilidade ao longo do tempo\n\nReceba lembretes no horário que for melhor para você\n\nPARA QUEM É O STRETIC\n\nAtletas e frequentadores de academia que fazem exercícios preventivos para evitar lesões\n\nCorredores, ciclistas e praticantes de CrossFit que precisam de recuperação ativa\n\nTrabalhadores de escritório com quadris rígidos, torcicolo ou dor nas costas\n\nIniciantes que desejam um ponto de partida para o treinamento de flexibilidade\n\nQualquer pessoa que já tenha praticado ioga e queira algo mais focado\n\nIdosos que desejam manter a saúde das articulações e a amplitude de movimento\n\nSTRETIC PRO\nDesbloqueie a biblioteca completa de programas, rotinas e exercícios com o Stretic Pro.\n\nAcesso total a todos os programas guiados\n\nNovas rotinas adicionadas regularmente\n\nCancele quando quiser\n\nComece seu primeiro alongamento guiado hoje. Seu corpo agradecerá amanhã.\n\nTermos de Uso: https://stretic.app/terms\nPolítica de Privacidade: https://stretic.app/privacy",
+      "descriptionHTML": "Finalmente, um aplicativo de alongamento que te ajuda a manter a consistência.<br><br>O Stretic é o seu companheiro diário de alongamento guiado e mobilidade. Seja para melhorar a flexibilidade, se recuperar de um treino intenso ou fazer exercícios preventivos para evitar lesões, o Stretic oferece rotinas estruturadas para que você alcance seus objetivos, todos os dias.<br><br>Por que o Stretic?<br><br>A maioria das pessoas sabe que precisa se alongar. Poucas, porém, fazem isso com regularidade. O Stretic resolve esse problema, transformando sua rotina diária de mobilidade em algo que você realmente espera ansiosamente, com programas guiados, acompanhamento do progresso e sequências de exercícios que te motivam a voltar sempre.<br><br>PROGRAMAS DE ALONGAMENTO GUIADO<br>Escolha entre programas elaborados por especialistas e focados nos seus objetivos:<br><br>Flexibilidade: Aumente a amplitude de movimento com rotinas progressivas que funcionam.<br><br>Treinamento de Mobilidade: Melhore a saúde das articulações e os padrões de movimento funcionais.<br><br>Prevenção de Lesões: Fortaleça as áreas mais propensas a sofrer lesões, antes que elas aconteçam.<br><br>Recuperação Pós-Treino: Sessões de recuperação ativa para reduzir a dor e fortalecer os músculos.<br><br>Correção Postural: Reverta os danos causados ​​por ficar sentado, em frente a telas e em uma mesa o dia todo.<br><br>Rotinas Matinais: Desperte seu corpo com um alongamento diário de 5 a 15 minutos.<br><br>Relaxamento Noturno: Desestresse e relaxe antes de dormir.<br><br>TODOS OS EXERCÍCIOS GUIADOS<br>Sem adivinhações. Sem pesquisas no Google. Cada exercício de alongamento e mobilidade no Stretic inclui:<br><br>Instruções claras passo a passo<br><br>Demonstrações em vídeo<br><br>Tempo de sustentação e número de repetições sugeridos<br><br>Etiquetas de foco para que você saiba exatamente o que está trabalhando<br><br>Seja você um iniciante completo ou um atleta experiente em exercícios corretivos, nossa biblioteca abrange tudo.<br><br>CRIADO PARA CRIAR HÁBITOS<br>O Stretic usa sequências, marcos de progresso e uma estrutura de rotina diária para manter sua consistência, porque o único alongamento que funciona é o alongamento que você realmente faz.<br><br>Acompanhe sua sequência diária de alongamentos<br><br>Registre rotinas e exercícios concluídos<br><br>Veja seu progresso em flexibilidade e mobilidade ao longo do tempo<br><br>Receba lembretes no horário que for melhor para você<br><br>PARA QUEM É O STRETIC<br><br>Atletas e frequentadores de academia que fazem exercícios preventivos para evitar lesões<br><br>Corredores, ciclistas e praticantes de CrossFit que precisam de recuperação ativa<br><br>Trabalhadores de escritório com quadris rígidos, torcicolo ou dor nas costas<br><br>Iniciantes que desejam um ponto de partida para o treinamento de flexibilidade<br><br>Qualquer pessoa que já tenha praticado ioga e queira algo mais focado<br><br>Idosos que desejam manter a saúde das articulações e a amplitude de movimento<br><br>STRETIC PRO<br>Desbloqueie a biblioteca completa de programas, rotinas e exercícios com o Stretic Pro.<br><br>Acesso total a todos os programas guiados<br><br>Novas rotinas adicionadas regularmente<br><br>Cancele quando quiser<br><br>Comece seu primeiro alongamento guiado hoje. Seu corpo agradecerá amanhã.<br><br>Termos de Uso: https://stretic.app/terms<br>Política de Privacidade: https://stretic.app/privacy",
+      "summary": "Rotinas diárias guiadas de alongamento e mobilidade para flexibilidade e recuperação.",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 146,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.stretchy.app",
+      "url": "https://play.google.com/store/apps/details?id=com.stretchy.app&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Tic-Tac-Logic: X or O?",
+      "description": "Preencha todos os quadrados de forma que não haja mais do que dois Xs ou O's adjacentes em uma linha ou coluna! Cada quebra-cabeça consiste em uma grade contendo Xs e O's em vários lugares. O objetivo é colocar Xs ou O's nos quadrados restantes de forma que não haja mais do que dois Xs ou O's consecutivos em uma linha ou coluna. O número de Xs é igual ao número de O's em cada linha e em cada coluna, e todas as linhas e colunas são únicas.\n\nTic-Tac-Logic é um quebra-cabeça para um jogador baseado no Jogo da Velha, um jogo de lápis e papel que muitos de nós gostávamos quando crianças. Usando lógica pura e sem necessidade de matemática para resolver, esses quebra-cabeças viciantes oferecem diversão sem fim e entretenimento intelectual para fãs de quebra-cabeças de todas as habilidades e idades.\n\nO jogo possui uma régua para ajudar a visualizar e comparar linhas ou colunas, contadores para mostrar quantos Xs e O's existem em cada linha e coluna e marcas de lápis para colocar Xs ou O's temporários ao resolver quebra-cabeças muito difíceis.\n\n Para ajudar a acompanhar o progresso do quebra-cabeça, visualizações gráficas na lista de quebra-cabeças mostram o progresso de todos os quebra-cabeças em um volume à medida que são resolvidos. A opção de visualização em Galeria oferece essas visualizações em um formato maior.\n\nPara mais diversão, Tic-Tac-Logic não contém anúncios e inclui uma seção de Bônus Semanal, que oferece um quebra-cabeça extra grátis a cada semana.\n\n RECURSOS DO QUEBRA-CABEÇA\n\n• 120 quebra-cabeças Tic-Tac-Logic gratuitos\n• 30 quebra-cabeças extragrandes de bônus apenas para tablets\n• Quebra-cabeça bônus extra publicado gratuitamente a cada semana\n• Vários níveis de dificuldade, de muito fácil a extremamente difícil\n• Tamanhos de grade de até 18x24\n• Biblioteca de quebra-cabeças atualizada continuamente com novos conteúdos\n• Quebra-cabeças selecionados manualmente e de alta qualidade\n• Solução única para cada quebra-cabeça\n• Horas de desafio intelectual e diversão\n• Aprimora a lógica e melhora as habilidades cognitivas\n\nRECURSOS DO JOGO\n\n• Sem anúncios\n• Quebra-cabeças de verificação ilimitados\n• Desfazer e Refazer ilimitados\n• Marcas de lápis para resolver quebra-cabeças difíceis\n• Régua para fácil visualização e comparação de linhas/colunas\n• Caixas de contagem de linhas e colunas\n• Jogar e salvar vários quebra-cabeças simultaneamente\n• Opções de filtragem, classificação e arquivamento de quebra-cabeças\n• Suporte ao Modo Escuro\n• Pré-visualizações gráficas mostrando o progresso dos quebra-cabeças à medida que são resolvidos\n• Suporte para telas retrato e paisagem (somente tablets)\n• Acompanhe o tempo de resolução dos quebra-cabeças\n• Faça backup e restaure o progresso dos quebra-cabeças no Google Drive\n\nSOBRE\n\nO Tic-Tac-Logic também se tornou popular sob outros nomes, como Binero, Binaire, Binairo, Binoxxo, Jogo da Velha e Takuzu. Assim como Sudoku, Kakuro e Hashi, os quebra-cabeças são resolvidos usando apenas a lógica. Todos os quebra-cabeças neste aplicativo são produzidos pela Conceptis Ltd. - a principal fornecedora de quebra-cabeças de lógica para mídia impressa e eletrônica em todo o mundo. Em média, mais de 20 milhões de quebra-cabeças da Conceptis são resolvidos diariamente em jornais, revistas, livros e online, bem como em smartphones e tablets em todo o mundo.",
+      "descriptionHTML": "Preencha todos os quadrados de forma que não haja mais do que dois Xs ou O&#39;s adjacentes em uma linha ou coluna! Cada quebra-cabeça consiste em uma grade contendo Xs e O&#39;s em vários lugares. O objetivo é colocar Xs ou O&#39;s nos quadrados restantes de forma que não haja mais do que dois Xs ou O&#39;s consecutivos em uma linha ou coluna. O número de Xs é igual ao número de O&#39;s em cada linha e em cada coluna, e todas as linhas e colunas são únicas.<br><br>Tic-Tac-Logic é um quebra-cabeça para um jogador baseado no Jogo da Velha, um jogo de lápis e papel que muitos de nós gostávamos quando crianças. Usando lógica pura e sem necessidade de matemática para resolver, esses quebra-cabeças viciantes oferecem diversão sem fim e entretenimento intelectual para fãs de quebra-cabeças de todas as habilidades e idades.<br><br>O jogo possui uma régua para ajudar a visualizar e comparar linhas ou colunas, contadores para mostrar quantos Xs e O&#39;s existem em cada linha e coluna e marcas de lápis para colocar Xs ou O&#39;s temporários ao resolver quebra-cabeças muito difíceis.<br><br> Para ajudar a acompanhar o progresso do quebra-cabeça, visualizações gráficas na lista de quebra-cabeças mostram o progresso de todos os quebra-cabeças em um volume à medida que são resolvidos. A opção de visualização em Galeria oferece essas visualizações em um formato maior.<br><br>Para mais diversão, Tic-Tac-Logic não contém anúncios e inclui uma seção de Bônus Semanal, que oferece um quebra-cabeça extra grátis a cada semana.<br><br> RECURSOS DO QUEBRA-CABEÇA<br><br>• 120 quebra-cabeças Tic-Tac-Logic gratuitos<br>• 30 quebra-cabeças extragrandes de bônus apenas para tablets<br>• Quebra-cabeça bônus extra publicado gratuitamente a cada semana<br>• Vários níveis de dificuldade, de muito fácil a extremamente difícil<br>• Tamanhos de grade de até 18x24<br>• Biblioteca de quebra-cabeças atualizada continuamente com novos conteúdos<br>• Quebra-cabeças selecionados manualmente e de alta qualidade<br>• Solução única para cada quebra-cabeça<br>• Horas de desafio intelectual e diversão<br>• Aprimora a lógica e melhora as habilidades cognitivas<br><br>RECURSOS DO JOGO<br><br>• Sem anúncios<br>• Quebra-cabeças de verificação ilimitados<br>• Desfazer e Refazer ilimitados<br>• Marcas de lápis para resolver quebra-cabeças difíceis<br>• Régua para fácil visualização e comparação de linhas/colunas<br>• Caixas de contagem de linhas e colunas<br>• Jogar e salvar vários quebra-cabeças simultaneamente<br>• Opções de filtragem, classificação e arquivamento de quebra-cabeças<br>• Suporte ao Modo Escuro<br>• Pré-visualizações gráficas mostrando o progresso dos quebra-cabeças à medida que são resolvidos<br>• Suporte para telas retrato e paisagem (somente tablets)<br>• Acompanhe o tempo de resolução dos quebra-cabeças<br>• Faça backup e restaure o progresso dos quebra-cabeças no Google Drive<br><br>SOBRE<br><br>O Tic-Tac-Logic também se tornou popular sob outros nomes, como Binero, Binaire, Binairo, Binoxxo, Jogo da Velha e Takuzu. Assim como Sudoku, Kakuro e Hashi, os quebra-cabeças são resolvidos usando apenas a lógica. Todos os quebra-cabeças neste aplicativo são produzidos pela Conceptis Ltd. - a principal fornecedora de quebra-cabeças de lógica para mídia impressa e eletrônica em todo o mundo. Em média, mais de 20 milhões de quebra-cabeças da Conceptis são resolvidos diariamente em jornais, revistas, livros e online, bem como em smartphones e tablets em todo o mundo.",
+      "summary": "Quebra-cabeças de jogo da velha solitário",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 242583,
+      "score": 4.8,
+      "scoreText": "4,8",
+      "ratings": 2291,
+      "reviews": 9,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Lógica",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Abstrato",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.conceptispuzzles.tictaclogic",
+      "url": "https://play.google.com/store/apps/details?id=com.conceptispuzzles.tictaclogic&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "NarTick - Shared todo reminder",
+      "description": "Este é um APP de lista que busca a máxima simplicidade e eficiência. Possui funções poderosas e sem design gordo.\n\nNarTick, um software de lista de tarefas flexível e conveniente, ajuda você a organizar o trabalho e a vida de maneira eficiente.\nNarTick possui um estilo simples e funções poderosas. Ele suporta funções avançadas de gerenciamento de tarefas, como: visualização de calendário, notas leves, técnica Pomodoro, gerenciamento de grupo, gerenciamento de tags, lembretes recorrentes, subtarefas, sincronização em nuvem, vários lembretes e outras funções. Atualmente, todas as Funções podem ser utilizadas sem restrições.\nO NarTick pode ajudá-lo a fazer planos diários, arranjos de trabalho semanais e definir lembretes de reuniões, lembretes de aniversários e outros lembretes. Também pode ajudá-lo a organizar sua agenda, notas, listas de compras e muito mais. O NarTick também pode sincronizar seus dados na nuvem.\nNarTick oferece suporte ao cliente de calendário eletrônico Ink Screen, que pode sincronizar lembretes de todos os dados do seu cliente e oferece suporte à assinatura de calendários de terceiros.\n【Usar visualização de calendário】\nPara ver seu trabalho diário com mais clareza, você precisa usar a visualização do calendário. Basta clicar em “Calendário” na interface principal. Você pode visualizar suas tarefas por mês ou dia. As tarefas suportam marcas de classificação de cores e tarefas de período de tempo.\n【Use notas leves】\nO NarTick Notes pode gerenciar facilmente suas notas e oferecer suporte à edição de notas com sua família e colegas. Ele suporta notas flutuantes, permitindo que você recupere o conteúdo da gravação de notas a qualquer momento em qualquer interface, e suporta gerenciamento de diretório no estilo matryoshka, permitindo classificar facilmente as notas.\n[Usando a Técnica Pomodoro]\nQuer supervisionar seu trabalho com mais eficiência? Quer maior produção de trabalho e estudo? A Técnica Pomodoro pode ser certa para você.\n[Gerenciamento de tarefas estilo Matryoshka]\nNarTick suporta gerenciamento de listas no estilo matryoshka e gerenciamento de tarefas no estilo matryoshka, permitindo que você gerencie seus itens de tarefas com mais flexibilidade.\nUma coisa grande geralmente contém várias coisas pequenas e cada coisa precisa ser concluída separadamente. Neste momento, podemos usar subtarefas para gerenciamento de tarefas.\n【Compartilhamento de Tarefas】\nNarTick oferece suporte ao compartilhamento de tarefas. Você pode compartilhar tarefas com sua família, colegas, amigos e colegas de quarto. O NarTick suporta convites com um clique para amigos compartilharem tarefas.\n【Lidar com coisas fixas todos os dias】\nTodo mundo tem algumas coisas fixas para fazer todos os dias, e só precisamos concluí-las na hora certa e no ritmo habitual. Usando o NarTick, podemos designar tarefas como tarefas “recorrentes diariamente”, para que recebamos lembretes de tarefas em um horário fixo todos os dias. Se quisermos ser lembrados apenas nos dias úteis, podemos configurá-lo para o “ciclo de dias úteis” e excluir de forma inteligente os feriados legais.\n[Como lembrar com antecedência? Como lembrar mais? 】\n\"Há uma reunião importante na próxima semana. Tenho que me preparar para ela com um dia de antecedência. Você deve me lembrar com um dia de antecedência e depois me lembrar novamente uma hora antes de começar.\" Várias configurações de cena de lembrete podem ser facilmente definidas no APP.\n【Como lidar com assuntos triviais】\nHá sempre muitas pequenas coisas que perturbam o nosso ritmo normal de trabalho todos os dias. Para essas pequenas tarefas e tarefas, podemos registrá-las primeiro e depois nos concentrar em 5 a 10 minutos para concluí-las todas de uma vez ou em lotes. Para registrar pequenas coisas rapidamente, você pode usar a função de tarefa flutuante do NarTick, inserir a hora e a tarefa e entrar para confirmar.\n\nBem-vindo a visitar nosso site oficial https://nartick.com/en/, onde temos todo o nosso conteúdo de compartilhamento: compartilhamento de uso de produtos, compartilhamento de perguntas frequentes, compartilhamento de tecnologia. Você pode nos dar feedback diretamente e fornecer opiniões sobre a construção do produto.",
+      "descriptionHTML": "Este é um APP de lista que busca a máxima simplicidade e eficiência. Possui funções poderosas e sem design gordo.<br><br>NarTick, um software de lista de tarefas flexível e conveniente, ajuda você a organizar o trabalho e a vida de maneira eficiente.<br>NarTick possui um estilo simples e funções poderosas. Ele suporta funções avançadas de gerenciamento de tarefas, como: visualização de calendário, notas leves, técnica Pomodoro, gerenciamento de grupo, gerenciamento de tags, lembretes recorrentes, subtarefas, sincronização em nuvem, vários lembretes e outras funções. Atualmente, todas as Funções podem ser utilizadas sem restrições.<br>O NarTick pode ajudá-lo a fazer planos diários, arranjos de trabalho semanais e definir lembretes de reuniões, lembretes de aniversários e outros lembretes. Também pode ajudá-lo a organizar sua agenda, notas, listas de compras e muito mais. O NarTick também pode sincronizar seus dados na nuvem.<br>NarTick oferece suporte ao cliente de calendário eletrônico Ink Screen, que pode sincronizar lembretes de todos os dados do seu cliente e oferece suporte à assinatura de calendários de terceiros.<br>【Usar visualização de calendário】<br>Para ver seu trabalho diário com mais clareza, você precisa usar a visualização do calendário. Basta clicar em “Calendário” na interface principal. Você pode visualizar suas tarefas por mês ou dia. As tarefas suportam marcas de classificação de cores e tarefas de período de tempo.<br>【Use notas leves】<br>O NarTick Notes pode gerenciar facilmente suas notas e oferecer suporte à edição de notas com sua família e colegas. Ele suporta notas flutuantes, permitindo que você recupere o conteúdo da gravação de notas a qualquer momento em qualquer interface, e suporta gerenciamento de diretório no estilo matryoshka, permitindo classificar facilmente as notas.<br>[Usando a Técnica Pomodoro]<br>Quer supervisionar seu trabalho com mais eficiência? Quer maior produção de trabalho e estudo? A Técnica Pomodoro pode ser certa para você.<br>[Gerenciamento de tarefas estilo Matryoshka]<br>NarTick suporta gerenciamento de listas no estilo matryoshka e gerenciamento de tarefas no estilo matryoshka, permitindo que você gerencie seus itens de tarefas com mais flexibilidade.<br>Uma coisa grande geralmente contém várias coisas pequenas e cada coisa precisa ser concluída separadamente. Neste momento, podemos usar subtarefas para gerenciamento de tarefas.<br>【Compartilhamento de Tarefas】<br>NarTick oferece suporte ao compartilhamento de tarefas. Você pode compartilhar tarefas com sua família, colegas, amigos e colegas de quarto. O NarTick suporta convites com um clique para amigos compartilharem tarefas.<br>【Lidar com coisas fixas todos os dias】<br>Todo mundo tem algumas coisas fixas para fazer todos os dias, e só precisamos concluí-las na hora certa e no ritmo habitual. Usando o NarTick, podemos designar tarefas como tarefas “recorrentes diariamente”, para que recebamos lembretes de tarefas em um horário fixo todos os dias. Se quisermos ser lembrados apenas nos dias úteis, podemos configurá-lo para o “ciclo de dias úteis” e excluir de forma inteligente os feriados legais.<br>[Como lembrar com antecedência? Como lembrar mais? 】<br>&quot;Há uma reunião importante na próxima semana. Tenho que me preparar para ela com um dia de antecedência. Você deve me lembrar com um dia de antecedência e depois me lembrar novamente uma hora antes de começar.&quot; Várias configurações de cena de lembrete podem ser facilmente definidas no APP.<br>【Como lidar com assuntos triviais】<br>Há sempre muitas pequenas coisas que perturbam o nosso ritmo normal de trabalho todos os dias. Para essas pequenas tarefas e tarefas, podemos registrá-las primeiro e depois nos concentrar em 5 a 10 minutos para concluí-las todas de uma vez ou em lotes. Para registrar pequenas coisas rapidamente, você pode usar a função de tarefa flutuante do NarTick, inserir a hora e a tarefa e entrar para confirmar.<br><br>Bem-vindo a visitar nosso site oficial https://nartick.com/en/, onde temos todo o nosso conteúdo de compartilhamento: compartilhamento de uso de produtos, compartilhamento de perguntas frequentes, compartilhamento de tecnologia. Você pode nos dar feedback diretamente e fornecer opiniões sobre a construção do produto.",
+      "summary": "Assistente profissional de gerenciamento de cronograma de tarefas",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 3085,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.vifird.flicker.mobile",
+      "url": "https://play.google.com/store/apps/details?id=com.vifird.flicker.mobile&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "I-TIC Smart Controller",
+      "description": "A aplicação I-TIC -Smart Controller permite-lhe gerir as unidades de controlo de rega Bluetooth TECNIDRO srl através do seu smartphone ou tablet, definindo as datas, horários e volumes de água a fornecer a cada válvula de rega de forma simples e eficiente para realizar uma irrigação pontual e precisa e com o objetivo de utilizar o recurso hídrico de forma otimizada.\n\nA aplicação I-TIC -Smart Controller permite-lhe gerir as unidades de controlo de rega Bluetooth TECNIDRO srl através do seu smartphone ou tablet, definindo as datas, horários e volumes de água a fornecer a cada válvula de rega de forma simples e eficiente para realizar uma irrigação pontual e precisa e com o objetivo de utilizar o recurso hídrico de forma otimizada.\n\nMais informações disponíveis em https://tecnidro.com.\nMais informações disponíveis em https://tecnidro.com.",
+      "descriptionHTML": "A aplicação I-TIC -Smart Controller permite-lhe gerir as unidades de controlo de rega Bluetooth TECNIDRO srl através do seu smartphone ou tablet, definindo as datas, horários e volumes de água a fornecer a cada válvula de rega de forma simples e eficiente para realizar uma irrigação pontual e precisa e com o objetivo de utilizar o recurso hídrico de forma otimizada.<br><br>A aplicação I-TIC -Smart Controller permite-lhe gerir as unidades de controlo de rega Bluetooth TECNIDRO srl através do seu smartphone ou tablet, definindo as datas, horários e volumes de água a fornecer a cada válvula de rega de forma simples e eficiente para realizar uma irrigação pontual e precisa e com o objetivo de utilizar o recurso hídrico de forma otimizada.<br><br>Mais informações disponíveis em https://tecnidro.com.<br>Mais informações disponíveis em https://tecnidro.com.",
+      "summary": "Controlador Bluetooth de irrigação inteligente",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 126,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "it.tecnidro.ble.app",
+      "url": "https://play.google.com/store/apps/details?id=it.tecnidro.ble.app&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "MEU STICC",
+      "description": "Nosso app foi desenvolvido para oferecer a você uma experiência completa e prática, trazendo diversas funcionalidades essenciais para o seu dia a dia. Confira tudo o que você pode fazer:  Perfil e Edição de Perfil: Crie e personalize seu perfil de forma simples e rápida. Mantenha suas informações sempre atualizadas. Ainda não é associado?: Associe-se facilmente e aproveite todas as vantagens exclusivas que oferecemos. Carteirinha Virtual: Tenha sua carteirinha sempre à mão, de forma digital, facilitando o acesso a todos os seus benefícios. Assembleias: Participe de assembleias e fique por dentro das decisões importantes. Boletos: Visualize e pague seus boletos diretamente pelo app, com praticidade e segurança. Benefícios: Explore e usufrua de todos os benefícios que sua entidade oferece.  Baixe agora e descubra como nosso aplicativo pode facilitar ainda mais o seu dia a dia. Com uma interface amigável e navegação intuitiva, você terá tudo o que precisa na palma da sua mão.",
+      "descriptionHTML": "Nosso app foi desenvolvido para oferecer a você uma experiência completa e prática, trazendo diversas funcionalidades essenciais para o seu dia a dia. Confira tudo o que você pode fazer:  Perfil e Edição de Perfil: Crie e personalize seu perfil de forma simples e rápida. Mantenha suas informações sempre atualizadas. Ainda não é associado?: Associe-se facilmente e aproveite todas as vantagens exclusivas que oferecemos. Carteirinha Virtual: Tenha sua carteirinha sempre à mão, de forma digital, facilitando o acesso a todos os seus benefícios. Assembleias: Participe de assembleias e fique por dentro das decisões importantes. Boletos: Visualize e pague seus boletos diretamente pelo app, com praticidade e segurança. Benefícios: Explore e usufrua de todos os benefícios que sua entidade oferece.  Baixe agora e descubra como nosso aplicativo pode facilitar ainda mais o seu dia a dia. Com uma interface amigável e navegação intuitiva, você terá tudo o que precisa na palma da sua mão.",
+      "summary": "Sindicato dos Trabalhadores nas Industrias da Construção Civil de Porto Alegre",
+      "installs": "100+",
+      "minInstalls": 100,
+      "maxInstalls": 410,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sindsystem.sticc",
+      "url": "https://play.google.com/store/apps/details?id=com.sindsystem.sticc&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "stoic. journal & mental health",
+      "description": "O Stoic é seu companheiro para a saúde mental e diário pessoal – ele ajuda você a entender suas emoções e oferece insights sobre como ser mais feliz, produtivo e superar obstáculos.\n\nEm sua essência, o Stoic ajuda você a se preparar para o dia pela manhã e a refletir sobre ele à noite. Nesse processo, também o guiamos a escrever em seu diário com sugestões instigantes, a construir hábitos melhores, a monitorar seu humor e muito mais.\n\n* Junte-se a mais de 3 milhões de pessoas que estão melhorando suas vidas *\n\n“Nunca usei um aplicativo de diário que tenha impactado tanto a minha vida. É meu melhor amigo.” – Michael\n\nPREPARAÇÃO MATINAL E REFLEXÃO NOTURNA:\n\n• Comece o dia perfeito com nosso planejador diário personalizado. Prepare suas anotações e lista de tarefas para que nada o surpreenda durante o dia.\n\n• Monitore seu humor ao longo do dia e faça exercícios rápidos de saúde mental, se precisar.\n\n• Reflita sobre suas ações com nosso rastreador de hábitos e diário guiado à noite para crescer como pessoa e se tornar uma pessoa melhor a cada dia.\n\nDIÁRIOS GUIADOS:\n\nSeja você um profissional em escrita terapêutica ou iniciante, o Stoic oferece um espaço acolhedor com diários guiados, sugestões e exercícios para inspirar a reflexão e cultivar o hábito de escrever em um diário. Se escrever não é a sua praia, você também pode usar o diário com notas de voz e fotos/vídeos do seu dia.\n\nEscolha entre tópicos como produtividade, felicidade, gratidão, estresse e ansiedade, relacionamentos, terapia, autodescoberta e muito mais. O Stoic também oferece modelos de diário para ajudar você em diversas situações, como preparação para uma sessão de terapia, desabafo de pensamentos com base na Terapia Cognitivo-Comportamental (TCC), diário de sonhos e pesadelos, etc.\n\nEscrever em um diário é uma ferramenta terapêutica para clarear a mente, expressar pensamentos, definir metas, praticar a gratidão, promover o bem-estar emocional e a autorreflexão.\n\nFERRAMENTAS PARA SAÚDE MENTAL:\n\nO Stoic oferece as ferramentas necessárias para você se sentir melhor, reduzir o estresse e a ansiedade, lidar com o TDAH, praticar mindfulness e muito mais.\n\n• Meditação – sessões sem guia para ajudar você a meditar com sons de fundo e toques sincronizados.\n• Respiração – exercícios com comprovação científica para ajudar você a relaxar, se concentrar, se sentir calmo, dormir melhor e muito mais.\n\n• Mentores de IA – dicas e orientações personalizadas de 10 mentores.\n• Durma Melhor – registre seus sonhos e pesadelos e supere a insônia com lições de Huberman e da Sleep Foundation.\n\n• Citações e Afirmações – aprenda sobre filosofia estoica e melhore seu humor.\n\n• Anotações de Terapia – prepare-se para suas sessões de terapia, acompanhe seu progresso e reflita sobre elas.\n\n• Diário com Perguntas – perguntas diárias instigantes para ajudar você a escrever melhor em seu diário. Aprimore sua experiência com perguntas perspicazes elaboradas para aprofundar a autorreflexão e o crescimento pessoal.\n\nE MUITO MAIS:\n\n• Privacidade – proteja seu diário com uma senha.\n\n• Conquistas e Insígnias – mantenha-se motivado em sua jornada com nosso rastreador de hábitos. • Jornada – reflita sobre sua história, seus hábitos de escrita no diário, pesquise com base em sugestões, veja como suas respostas mudaram ao longo do tempo e acompanhe seu crescimento.\n• Tendências – visualize as métricas que são importantes para você, incluindo humor, emoções, sono, saúde, escrita e muito mais. [Em desenvolvimento]\n• Exportar – compartilhe seu diário.\n\nAproveite o poder do estoicismo para melhorar sua saúde mental e escrever em seu diário de forma mais eficaz. Com o estoicismo, você pode utilizar técnicas comprovadas para aprimorar sua saúde mental, facilitando o gerenciamento do estresse, o desenvolvimento da resiliência e o cultivo de uma mentalidade positiva. As ferramentas de escrita do estoicismo ajudam você a documentar seus pensamentos e emoções, fornecendo informações valiosas sobre sua jornada de saúde mental.\n\nEstamos constantemente adicionando mais ferramentas de saúde mental para ajudar você a superar mais obstáculos e situações. Você também pode participar da nossa comunidade de apoio no Discord e deixar suas sugestões em nosso fórum de feedback.",
+      "descriptionHTML": "O Stoic é seu companheiro para a saúde mental e diário pessoal – ele ajuda você a entender suas emoções e oferece insights sobre como ser mais feliz, produtivo e superar obstáculos.<br><br>Em sua essência, o Stoic ajuda você a se preparar para o dia pela manhã e a refletir sobre ele à noite. Nesse processo, também o guiamos a escrever em seu diário com sugestões instigantes, a construir hábitos melhores, a monitorar seu humor e muito mais.<br><br>* Junte-se a mais de 3 milhões de pessoas que estão melhorando suas vidas *<br><br>“Nunca usei um aplicativo de diário que tenha impactado tanto a minha vida. É meu melhor amigo.” – Michael<br><br>PREPARAÇÃO MATINAL E REFLEXÃO NOTURNA:<br><br>• Comece o dia perfeito com nosso planejador diário personalizado. Prepare suas anotações e lista de tarefas para que nada o surpreenda durante o dia.<br><br>• Monitore seu humor ao longo do dia e faça exercícios rápidos de saúde mental, se precisar.<br><br>• Reflita sobre suas ações com nosso rastreador de hábitos e diário guiado à noite para crescer como pessoa e se tornar uma pessoa melhor a cada dia.<br><br>DIÁRIOS GUIADOS:<br><br>Seja você um profissional em escrita terapêutica ou iniciante, o Stoic oferece um espaço acolhedor com diários guiados, sugestões e exercícios para inspirar a reflexão e cultivar o hábito de escrever em um diário. Se escrever não é a sua praia, você também pode usar o diário com notas de voz e fotos/vídeos do seu dia.<br><br>Escolha entre tópicos como produtividade, felicidade, gratidão, estresse e ansiedade, relacionamentos, terapia, autodescoberta e muito mais. O Stoic também oferece modelos de diário para ajudar você em diversas situações, como preparação para uma sessão de terapia, desabafo de pensamentos com base na Terapia Cognitivo-Comportamental (TCC), diário de sonhos e pesadelos, etc.<br><br>Escrever em um diário é uma ferramenta terapêutica para clarear a mente, expressar pensamentos, definir metas, praticar a gratidão, promover o bem-estar emocional e a autorreflexão.<br><br>FERRAMENTAS PARA SAÚDE MENTAL:<br><br>O Stoic oferece as ferramentas necessárias para você se sentir melhor, reduzir o estresse e a ansiedade, lidar com o TDAH, praticar mindfulness e muito mais.<br><br>• Meditação – sessões sem guia para ajudar você a meditar com sons de fundo e toques sincronizados.<br>• Respiração – exercícios com comprovação científica para ajudar você a relaxar, se concentrar, se sentir calmo, dormir melhor e muito mais.<br><br>• Mentores de IA – dicas e orientações personalizadas de 10 mentores.<br>• Durma Melhor – registre seus sonhos e pesadelos e supere a insônia com lições de Huberman e da Sleep Foundation.<br><br>• Citações e Afirmações – aprenda sobre filosofia estoica e melhore seu humor.<br><br>• Anotações de Terapia – prepare-se para suas sessões de terapia, acompanhe seu progresso e reflita sobre elas.<br><br>• Diário com Perguntas – perguntas diárias instigantes para ajudar você a escrever melhor em seu diário. Aprimore sua experiência com perguntas perspicazes elaboradas para aprofundar a autorreflexão e o crescimento pessoal.<br><br>E MUITO MAIS:<br><br>• Privacidade – proteja seu diário com uma senha.<br><br>• Conquistas e Insígnias – mantenha-se motivado em sua jornada com nosso rastreador de hábitos. • Jornada – reflita sobre sua história, seus hábitos de escrita no diário, pesquise com base em sugestões, veja como suas respostas mudaram ao longo do tempo e acompanhe seu crescimento.<br>• Tendências – visualize as métricas que são importantes para você, incluindo humor, emoções, sono, saúde, escrita e muito mais. [Em desenvolvimento]<br>• Exportar – compartilhe seu diário.<br><br>Aproveite o poder do estoicismo para melhorar sua saúde mental e escrever em seu diário de forma mais eficaz. Com o estoicismo, você pode utilizar técnicas comprovadas para aprimorar sua saúde mental, facilitando o gerenciamento do estresse, o desenvolvimento da resiliência e o cultivo de uma mentalidade positiva. As ferramentas de escrita do estoicismo ajudam você a documentar seus pensamentos e emoções, fornecendo informações valiosas sobre sua jornada de saúde mental.<br><br>Estamos constantemente adicionando mais ferramentas de saúde mental para ajudar você a superar mais obstáculos e situações. Você também pode participar da nossa comunidade de apoio no Discord e deixar suas sugestões em nosso fórum de feedback.",
+      "summary": "Perguntas de IA para um diário de saúde mental: diário de autocuidado, monitoramento da ansiedade, terapia.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 447281,
+      "score": 4.54,
+      "scoreText": "4,5",
+      "ratings": 3455,
+      "reviews": 37,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.stoicroutine.stoic",
+      "url": "https://play.google.com/store/apps/details?id=com.stoicroutine.stoic&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "TiqueTaque",
+      "description": "Este aplicativo é um complemento da solução TiqueTaque para Gestão de Ponto.\nO TiqueTaque mobile app possibilita aos funcionários o acesso aos horários registrados, horas trabalhadas, comprovantes, registro de ponto, entre outras informações relacionadas à jornada de trabalho.\n\nA TiqueTaque utiliza a Internet das Coisas (Internet of Things) para fazer a gestão de ponto em tempo real. Do hardware ao software, de ponta a ponta.\n\nPorque ponto, é só o começo!",
+      "descriptionHTML": "Este aplicativo é um complemento da solução TiqueTaque para Gestão de Ponto.<br>O TiqueTaque mobile app possibilita aos funcionários o acesso aos horários registrados, horas trabalhadas, comprovantes, registro de ponto, entre outras informações relacionadas à jornada de trabalho.<br><br>A TiqueTaque utiliza a Internet das Coisas (Internet of Things) para fazer a gestão de ponto em tempo real. Do hardware ao software, de ponta a ponta.<br><br>Porque ponto, é só o começo!",
+      "summary": "Chegamos na hora certa",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 206647,
+      "score": 4.751479,
+      "scoreText": "4,8",
+      "ratings": 1694,
+      "reviews": 294,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tiquetaque.funcionario",
+      "url": "https://play.google.com/store/apps/details?id=com.tiquetaque.funcionario&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Stix",
+      "description": "Na Stix, fidelidade vai além de pontos e prêmios: trata-se de oferecer liberdade de escolha. A Stix é um programa de pontos diferente. Aqui você usa seus pontos onde faz sentido para você: no mercado, na farmácia, no posto de gasolina, na loja de construção ou até na ração do seu pet. A rede de fidelidade Stix reúne marcas que fazem parte do seu dia a dia: Pão de Açúcar, Extra, Drogasil, Raia, Shell Box, Petlove e Sodimac.\n \nE tem mais: você pode usar pontos stix, Livelo ou Itaú para pagar as compras e economizar, ou trocar por prêmios  no app Stix.\nCom Stix é assim, use seus pontos aqui e ali.",
+      "descriptionHTML": "Na Stix, fidelidade vai além de pontos e prêmios: trata-se de oferecer liberdade de escolha. A Stix é um programa de pontos diferente. Aqui você usa seus pontos onde faz sentido para você: no mercado, na farmácia, no posto de gasolina, na loja de construção ou até na ração do seu pet. A rede de fidelidade Stix reúne marcas que fazem parte do seu dia a dia: Pão de Açúcar, Extra, Drogasil, Raia, Shell Box, Petlove e Sodimac.<br> <br>E tem mais: você pode usar pontos stix, Livelo ou Itaú para pagar as compras e economizar, ou trocar por prêmios  no app Stix.<br>Com Stix é assim, use seus pontos aqui e ali.",
+      "summary": "Use seus pontos aqui. E ali.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2281984,
+      "score": 4.3943844,
+      "scoreText": "4,4",
+      "ratings": 15714,
+      "reviews": 3248,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.soustix.app",
+      "url": "https://play.google.com/store/apps/details?id=br.com.soustix.app&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

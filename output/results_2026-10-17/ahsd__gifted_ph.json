@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T00:51:58.502Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "AHSD",
+    "term": "gifted.ph",
+    "key": "gifted.ph",
+    "depth": 1,
+    "parent": "gifted",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "GIFTD",
+      "description": "Trabalhe com marcas que você realmente ama.\n\nO GIFTD é onde criadores descobrem marcas, se candidatam a colaborações e gerenciam suas parcerias — tudo em um só lugar.\n\nJunte-se à comunidade de criadores do GIFTD para se conectar com marcas incríveis, encontrar oportunidades de colaboração que combinem com você e seu conteúdo e acompanhar suas colaborações em andamento, da candidatura à conclusão.\n\nComo funciona\n🤝 Descubra e Candidate-se a Colaborações com Marcas\n\n- Explore marcas e oportunidades de colaboração disponíveis para a comunidade de criadores do GIFTD.\n\n- Candidate-se diretamente às marcas com as quais você deseja trabalhar.\n\n- Compartilhe seu perfil e conteúdo para que as marcas encontrem os criadores ideais para sua comunidade e campanhas.\n\n🎁 Gerencie suas Colaborações\n\n- Mantenha suas colaborações com marcas organizadas em um só lugar.\n\n- Acompanhe cada colaboração desde a candidatura e seleção até o envio de produtos, criação de conteúdo e conclusão.\n\n- Tenha acesso a produtos, campanhas de brindes e outras oportunidades de marcas que você ama.\n\n🧥 Presenteie com Produtos Usados\n- O GIFTD também oferece um marketplace de produtos usados ​​exclusivo para nossa comunidade.\n- Descubra peças de moda seminovas de outros membros do GIFTD.\n\n- Reserve itens para retirada local ou escolha o envio, quando disponível.\n\n- Dê uma segunda vida às suas roupas, presenteando-as a outros membros da comunidade.\n\nCriado para Relacionamentos Genuínos entre Marcas e Criadores\n\nO GIFTD não se concentra em parcerias pontuais com influenciadores. Trata-se de conectar criadores e marcas para colaborações que podem crescer ao longo do tempo.\n\nAs marcas usam o GIFTD para construir suas próprias comunidades de criadores e realizar campanhas contínuas com nano e microcriadores. Como criador, o aplicativo GIFTD é o seu lugar para fazer parte dessas comunidades, candidatar-se a oportunidades e gerenciar as colaborações para as quais você for selecionado.\n\nEncontre marcas que você ama. Candidate-se a colaborações. Crie conteúdo incrível. Construa relacionamentos duradouros.\n\nJunte-se à comunidade de criadores do GIFTD hoje mesmo.\n\n🌐 Site: giftd.app\n📸 Instagram: @giftd.app\n📩 Dúvidas ou feedback? hello@giftd.app",
+      "descriptionHTML": "Trabalhe com marcas que você realmente ama.<br><br>O GIFTD é onde criadores descobrem marcas, se candidatam a colaborações e gerenciam suas parcerias — tudo em um só lugar.<br><br>Junte-se à comunidade de criadores do GIFTD para se conectar com marcas incríveis, encontrar oportunidades de colaboração que combinem com você e seu conteúdo e acompanhar suas colaborações em andamento, da candidatura à conclusão.<br><br>Como funciona<br>🤝 Descubra e Candidate-se a Colaborações com Marcas<br><br>- Explore marcas e oportunidades de colaboração disponíveis para a comunidade de criadores do GIFTD.<br><br>- Candidate-se diretamente às marcas com as quais você deseja trabalhar.<br><br>- Compartilhe seu perfil e conteúdo para que as marcas encontrem os criadores ideais para sua comunidade e campanhas.<br><br>🎁 Gerencie suas Colaborações<br><br>- Mantenha suas colaborações com marcas organizadas em um só lugar.<br><br>- Acompanhe cada colaboração desde a candidatura e seleção até o envio de produtos, criação de conteúdo e conclusão.<br><br>- Tenha acesso a produtos, campanhas de brindes e outras oportunidades de marcas que você ama.<br><br>🧥 Presenteie com Produtos Usados<br>- O GIFTD também oferece um marketplace de produtos usados ​​exclusivo para nossa comunidade.<br>- Descubra peças de moda seminovas de outros membros do GIFTD.<br><br>- Reserve itens para retirada local ou escolha o envio, quando disponível.<br><br>- Dê uma segunda vida às suas roupas, presenteando-as a outros membros da comunidade.<br><br>Criado para Relacionamentos Genuínos entre Marcas e Criadores<br><br>O GIFTD não se concentra em parcerias pontuais com influenciadores. Trata-se de conectar criadores e marcas para colaborações que podem crescer ao longo do tempo.<br><br>As marcas usam o GIFTD para construir suas próprias comunidades de criadores e realizar campanhas contínuas com nano e microcriadores. Como criador, o aplicativo GIFTD é o seu lugar para fazer parte dessas comunidades, candidatar-se a oportunidades e gerenciar as colaborações para as quais você for selecionado.<br><br>Encontre marcas que você ama. Candidate-se a colaborações. Crie conteúdo incrível. Construa relacionamentos duradouros.<br><br>Junte-se à comunidade de criadores do GIFTD hoje mesmo.<br><br>🌐 Site: giftd.app<br>📸 Instagram: @giftd.app<br>📩 Dúvidas ou feedback? hello@giftd.app",
+      "summary": "Junte-se à revolução dos criadores.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4106,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Social",
+      "genreId": "SOCIAL",
+      "categories": [
+        {
+          "name": "Social",
+          "id": "SOCIAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.giftd",
+      "url": "https://play.google.com/store/apps/details?id=com.giftd&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "Gifted for CogAT, OLSAT, CCAT",
+      "description": "O aplicativo Preparação para Testes de Superdotação aprimora as habilidades cognitivas do seu filho. Ele contém milhares de questões para os testes CogAT, NNAT, OLSAT e CCAT que seu filho vai adorar resolver e que fortalecerão suas habilidades não verbais, verbais e quantitativas. Também ajudará você a identificar as dificuldades do seu filho e a ajudá-lo a superá-las. As questões deste aplicativo de preparação para testes de superdotação são baseadas nos padrões mais recentes dos testes Cognitive Abilities Test, Otis-Lennon School Ability Test, Naglieri Nonverbal Ability Test e Canadian Cognitive Abilities Test.\n\nIndependentemente de você pretender que seu filho faça o CCAT, NNAT, OLSAT ou CogAT, as questões do aplicativo Gifted Talented Test Prep o ajudarão a aprimorar suas habilidades de raciocínio abstrato.\n\nBaterias separadas nesses exames cognitivos avaliam as habilidades cognitivas gerais usando tarefas verbais, quantitativas e não verbais.\n\n> Quantitativo (Analogias Numéricas, Quebra-cabeças Numéricos, Sequências Numéricas)\n> Verbal (Analogias de Imagens, Completar Frases, Classificação de Imagens)\n> Não Verbal (Matrizes de Figuras, Dobradura de Papel, Classificação de Figuras)\n\nO Gifted ajudará os pais a se prepararem para o CogAT G&T, OLSAT, NNAT e CCAT, auxiliando seus filhos a dominar as habilidades necessárias para obterem sucesso nesses testes de habilidades cognitivas. Este aplicativo online de preparação para os testes CCAT, NNAT, OLSAT e CogAT oferece mais de 42.000 questões práticas para alunos do jardim de infância ao 8º ano, além de testes práticos gratuitos.\n\nAvalie os pontos fortes e fracos cognitivos do seu filho, identifique áreas que precisam ser aprimoradas e ajude-o a se preparar de forma mais eficaz para os testes CogAT, OLSAT, CCAT e NNAT. A versão gratuita deste aplicativo de preparação para o teste CogAT inclui mais de 300 questões gratuitas para alunos do jardim de infância ao 8º ano.\n\nCom este aplicativo de preparação para testes para alunos superdotados, você pode ajudar seu pequeno aluno a compreender melhor o conteúdo da pré-escola ou do ensino fundamental. Pratique com as folhas de exercícios do CogAT, NNAT, OLSAT e CCAT canadense para o jardim de infância, 1º, 2º, 3º, 4º, 5º, 6º, 7º e 8º ano e elimine as dificuldades dele/dela.\n\nMais de 42.000 questões práticas para os testes CogAT, CCAT, OLSAT e Nalgeri ~ Este aplicativo de prática para testes de habilidades cognitivas oferece uma ampla variedade de questões de todos os 9 tipos de perguntas para a preparação de programas de educação para superdotados.\n\nExperiência de Aprendizagem Personalizada ~ Trabalha habilidades cognitivas gerais e específicas. Desenvolve habilidades de raciocínio lógico para a preparação para os testes NNAT, OLSAT, CCAT e CogAT.\n\nTestes Práticos Ilimitados ~ Você pode personalizar a preparação criando testes de todas as 9 categorias e ajudar seu filho superdotado na busca por habilidades cognitivas do jardim de infância ao 8º ano.\n\nTestes Diários ~ Domine o padrão mais recente dos testes NNAT, CCAT, OLSAT e CogAT do 8º ano ao jardim de infância e familiarize-se com o formato do teste de avaliação de habilidades cognitivas.\n\nExplicações Detalhadas ~ Permite que os usuários comparem e compreendam as respostas de seus testes práticos do CogAT. O QuestionDNA mede o raciocínio e as habilidades de resolução de problemas em testes práticos online.\n\nAcompanhe e Analise o Progresso Diário do seu Filho ~ Análises no aplicativo para avaliar o QI (quociente intelectual), o desempenho acadêmico e o desenvolvimento cognitivo do seu filho.\n\nRevisão Regular de Erros em Testes Práticos ~ Com a revisão diária, seu filho pode trabalhar especificamente para melhorar suas dificuldades na preparação para o CogAT, CCAT e OLSAT, sentindo-se mais confiante no dia da prova.\n\nVocê pode consultar nossa política de privacidade em https://gifted.achieve.ai/policy/privacy e nossos termos de uso em https://gifted.achieve.ai/policy/terms",
+      "descriptionHTML": "O aplicativo <b>Preparação para Testes de Superdotação</b> aprimora as habilidades cognitivas do seu filho. Ele contém milhares de questões para os testes CogAT, NNAT, OLSAT e CCAT que seu filho vai adorar resolver e que fortalecerão suas habilidades não verbais, verbais e quantitativas. Também ajudará você a identificar as dificuldades do seu filho e a ajudá-lo a superá-las. As questões deste aplicativo de preparação para testes de superdotação são baseadas nos padrões mais recentes dos testes Cognitive Abilities Test, Otis-Lennon School Ability Test, Naglieri Nonverbal Ability Test e Canadian Cognitive Abilities Test.<br><br>Independentemente de você pretender que seu filho faça o CCAT, NNAT, OLSAT ou CogAT, as questões do aplicativo Gifted Talented Test Prep o ajudarão a aprimorar suas habilidades de raciocínio abstrato.<br><br>Baterias separadas nesses exames cognitivos avaliam as habilidades cognitivas gerais usando tarefas verbais, quantitativas e não verbais.<br><br>&gt; Quantitativo (Analogias Numéricas, Quebra-cabeças Numéricos, Sequências Numéricas)<br>&gt; Verbal (Analogias de Imagens, Completar Frases, Classificação de Imagens)<br>&gt; Não Verbal (Matrizes de Figuras, Dobradura de Papel, Classificação de Figuras)<br><br>O Gifted ajudará os pais a se prepararem para o CogAT G&amp;T, OLSAT, NNAT e CCAT, auxiliando seus filhos a dominar as habilidades necessárias para obterem sucesso nesses testes de habilidades cognitivas. Este aplicativo online de preparação para os testes CCAT, NNAT, OLSAT e CogAT oferece mais de 42.000 questões práticas para alunos do jardim de infância ao 8º ano, além de testes práticos gratuitos.<br><br>Avalie os pontos fortes e fracos cognitivos do seu filho, identifique áreas que precisam ser aprimoradas e ajude-o a se preparar de forma mais eficaz para os testes CogAT, OLSAT, CCAT e NNAT. A versão gratuita deste aplicativo de preparação para o teste CogAT inclui mais de 300 questões gratuitas para alunos do jardim de infância ao 8º ano.<br><br>Com este aplicativo de preparação para testes para alunos superdotados, você pode ajudar seu pequeno aluno a compreender melhor o conteúdo da pré-escola ou do ensino fundamental. Pratique com as folhas de exercícios do CogAT, NNAT, OLSAT e CCAT canadense para o jardim de infância, 1º, 2º, 3º, 4º, 5º, 6º, 7º e 8º ano e elimine as dificuldades dele/dela.<br><br><b>Mais de 42.000 questões práticas para os testes CogAT, CCAT, OLSAT e Nalgeri</b> ~ Este aplicativo de prática para testes de habilidades cognitivas oferece uma ampla variedade de questões de todos os 9 tipos de perguntas para a preparação de programas de educação para superdotados.<br><br><b>Experiência de Aprendizagem Personalizada</b> ~ Trabalha habilidades cognitivas gerais e específicas. Desenvolve habilidades de raciocínio lógico para a preparação para os testes NNAT, OLSAT, CCAT e CogAT.<br><br><b>Testes Práticos Ilimitados</b> ~ Você pode personalizar a preparação criando testes de todas as 9 categorias e ajudar seu filho superdotado na busca por habilidades cognitivas do jardim de infância ao 8º ano.<br><br><b>Testes Diários</b> ~ Domine o padrão mais recente dos testes NNAT, CCAT, OLSAT e CogAT do 8º ano ao jardim de infância e familiarize-se com o formato do teste de avaliação de habilidades cognitivas.<br><br><b>Explicações Detalhadas</b> ~ Permite que os usuários comparem e compreendam as respostas de seus testes práticos do CogAT. O QuestionDNA mede o raciocínio e as habilidades de resolução de problemas em testes práticos online.<br><br><b>Acompanhe e Analise o Progresso Diário do seu Filho</b> ~ Análises no aplicativo para avaliar o QI (quociente intelectual), o desempenho acadêmico e o desenvolvimento cognitivo do seu filho.<br><br><b>Revisão Regular de Erros em Testes Práticos</b> ~ Com a revisão diária, seu filho pode trabalhar especificamente para melhorar suas dificuldades na preparação para o CogAT, CCAT e OLSAT, sentindo-se mais confiante no dia da prova.<br><br>Você pode consultar nossa política de privacidade em https://gifted.achieve.ai/policy/privacy e nossos termos de uso em https://gifted.achieve.ai/policy/terms",
+      "summary": "Mais de 42 mil perguntas práticas para CogAT, NNAT, OLSAT e CCAT | Do jardim de infância à 8ª série",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 18011,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.cogat_gifted",
+      "url": "https://play.google.com/store/apps/details?id=com.cogat_gifted&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "SodaGift - Earn, Save, Gift",
+      "description": "Pare de dar apenas um presente. Dê uma lembrança.\n\nPOR QUE AS PESSOAS AMAM A SODAGIFT\n\n◆ Acumule pontos e economize em cartões-presente\nGanhe até 100% de desconto ao acumular pontos! Ganhe cartões-presente grátis.\n\n◆ Chega de frete internacional caro\nEnvie presentes digitais ou físicos sem pagar taxas de entrega internacionais.\n\n◆ Entrega instantânea ou rápida\nPresentes digitais chegam instantaneamente. Presentes físicos chegam em 1 a 5 dias no mundo todo.\n\n◆ Compre de mais de 1.000 marcas\nEscolha entre lojas populares, cartões-presente e restaurantes nos EUA, Canadá, Austrália, Reino Unido, Singapura, Filipinas e Coreia do Sul.\n\n◆ Personalize seu presente especial.\nPresentes personalizados nunca foram tão fáceis\nAdicione mensagens sinceras, fotos, vídeos ou GIFs para tornar seu presente inesquecível.\n\nPERFEITO PARA TODAS AS OCASIÕES, como aniversários, casamentos, bodas, feriados, formaturas e muito mais.\n\n◆ Usado em mais de 130 países por mais de 300.000 usuários\nJunte-se a mais de 300.000 usuários que espalham amor pelo mundo todos os dias.\n\nCOMO FUNCIONA O SODAGIFT\n\n1. Navegue por marcas globais e locais.\n\n2. Escolha um presente digital ou físico.\n\n3. Personalize com mensagens e mídias.\n\n4. Envie por SMS, e-mail ou redes sociais.\n\n5. Veja seu presente chegar — instantaneamente ou em poucos dias.\n\nO SODAGIFT FACILITA O ENVIO DE PRESENTES PELO MUNDO\n\n◆ Sem as dores de cabeça das entregas internacionais.\n\n◆ Sem esperar semanas pela entrega.\n\n◆ Sem complicações com alfândega.\n\n◆ Compartilhe seu presente globalmente.\n\nSeu feedback é o que nos motiva! Reserve um momento para avaliar nosso aplicativo.\n\nESPALHE AMOR, UM PRESENTE DE CADA VEZ\nPerfeito para aniversários, feriados, bodas, casamentos e muito mais.\nExperimente o SodaGift hoje mesmo e desfrute de uma experiência de presentear internacional sem complicações.\n\nCaso tenha alguma dúvida, entre em contato conosco pelo e-mail support@sodagift.com.",
+      "descriptionHTML": "Pare de dar apenas um presente. Dê uma lembrança.<br><br>POR QUE AS PESSOAS AMAM A SODAGIFT<br><br>◆ Acumule pontos e economize em cartões-presente<br>Ganhe até 100% de desconto ao acumular pontos! Ganhe cartões-presente grátis.<br><br>◆ Chega de frete internacional caro<br>Envie presentes digitais ou físicos sem pagar taxas de entrega internacionais.<br><br>◆ Entrega instantânea ou rápida<br>Presentes digitais chegam instantaneamente. Presentes físicos chegam em 1 a 5 dias no mundo todo.<br><br>◆ Compre de mais de 1.000 marcas<br>Escolha entre lojas populares, cartões-presente e restaurantes nos EUA, Canadá, Austrália, Reino Unido, Singapura, Filipinas e Coreia do Sul.<br><br>◆ Personalize seu presente especial.<br>Presentes personalizados nunca foram tão fáceis<br>Adicione mensagens sinceras, fotos, vídeos ou GIFs para tornar seu presente inesquecível.<br><br>PERFEITO PARA TODAS AS OCASIÕES, como aniversários, casamentos, bodas, feriados, formaturas e muito mais.<br><br>◆ Usado em mais de 130 países por mais de 300.000 usuários<br>Junte-se a mais de 300.000 usuários que espalham amor pelo mundo todos os dias.<br><br>COMO FUNCIONA O SODAGIFT<br><br>1. Navegue por marcas globais e locais.<br><br>2. Escolha um presente digital ou físico.<br><br>3. Personalize com mensagens e mídias.<br><br>4. Envie por SMS, e-mail ou redes sociais.<br><br>5. Veja seu presente chegar — instantaneamente ou em poucos dias.<br><br>O SODAGIFT FACILITA O ENVIO DE PRESENTES PELO MUNDO<br><br>◆ Sem as dores de cabeça das entregas internacionais.<br><br>◆ Sem esperar semanas pela entrega.<br><br>◆ Sem complicações com alfândega.<br><br>◆ Compartilhe seu presente globalmente.<br><br>Seu feedback é o que nos motiva! Reserve um momento para avaliar nosso aplicativo.<br><br>ESPALHE AMOR, UM PRESENTE DE CADA VEZ<br>Perfeito para aniversários, feriados, bodas, casamentos e muito mais.<br>Experimente o SodaGift hoje mesmo e desfrute de uma experiência de presentear internacional sem complicações.<br><br>Caso tenha alguma dúvida, entre em contato conosco pelo e-mail support@sodagift.com.",
+      "summary": "Pare de dar apenas um presente. Dê uma lembrança! Envie um presente na Sodagift",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 185498,
+      "score": 3.090909,
+      "scoreText": "3,1",
+      "ratings": 887,
+      "reviews": 6,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.sodacrew.sodagift",
+      "url": "https://play.google.com/store/apps/details?id=com.sodacrew.sodagift&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Garden Gift",
+      "description": "Garden Keyft é o primeiro aplicativo em Bagdá especializado em entrega no mesmo dia de flores, presentes e perfumes, oferecendo um serviço rápido e profissional. Disponibiliza diversas opções de pagamento, uma seção de descontos diários e embalagem profissional para presentes com cartão-presente gratuito. Além disso, o aplicativo doa parte de seus lucros para apoiar causas humanitárias.",
+      "descriptionHTML": "Garden Keyft é o primeiro aplicativo em Bagdá especializado em entrega no mesmo dia de flores, presentes e perfumes, oferecendo um serviço rápido e profissional. Disponibiliza diversas opções de pagamento, uma seção de descontos diários e embalagem profissional para presentes com cartão-presente gratuito. Além disso, o aplicativo doa parte de seus lucros para apoiar causas humanitárias.",
+      "summary": "Aplicativo Cardin Gift",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 4537,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mdsoft.flowery",
+      "url": "https://play.google.com/store/apps/details?id=com.mdsoft.flowery&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Loja dos Gifts",
+      "description": "Bem-vindo à Loja dos Gifts, sua plataforma única para presentear seus entes queridos com cartões-presente das marcas mais populares! Nosso aplicativo simplifica o processo de compra de presentes, permitindo que você adquira códigos de presente instantaneamente para diversas plataformas, desde serviços de entrega de comida até jogos e entretenimento.\n\nComo Funciona:\n\nExplorar o Catálogo:\nNavegue por uma extensa seleção de cartões-presente para iFoo, Uber, Netflix, PlayStation, Xbox, Google Play, App Store, Roblox, League of Legends, Valorant, Minecraft e muito mais.\n\nPagamento Fácil:\nEfetue o pagamento de forma conveniente e segura usando Pix ou Cartão de Crédito. Nosso sistema de pagamento é protegido para garantir uma experiência tranquila.\n\nCódigo Instantâneo:\nApós o pagamento, seu código de presente estará disponível instantaneamente na página \"Meus Pedidos\". Sem espera, sem complicações.\n\nRecursos Principais:\n\nCatálogo diversificado com opções para todos os gostos.\nProcesso de compra simples e intuitivo.\nPagamento seguro com Pix ou Cartão de Crédito.\nEntrega instantânea dos códigos de presente na página \"Meus Pedidos\".\n\nRecarregue sua diversão!",
+      "descriptionHTML": "Bem-vindo à Loja dos Gifts, sua plataforma única para presentear seus entes queridos com cartões-presente das marcas mais populares! Nosso aplicativo simplifica o processo de compra de presentes, permitindo que você adquira códigos de presente instantaneamente para diversas plataformas, desde serviços de entrega de comida até jogos e entretenimento.<br><br>Como Funciona:<br><br>Explorar o Catálogo:<br>Navegue por uma extensa seleção de cartões-presente para iFoo, Uber, Netflix, PlayStation, Xbox, Google Play, App Store, Roblox, League of Legends, Valorant, Minecraft e muito mais.<br><br>Pagamento Fácil:<br>Efetue o pagamento de forma conveniente e segura usando Pix ou Cartão de Crédito. Nosso sistema de pagamento é protegido para garantir uma experiência tranquila.<br><br>Código Instantâneo:<br>Após o pagamento, seu código de presente estará disponível instantaneamente na página &quot;Meus Pedidos&quot;. Sem espera, sem complicações.<br><br>Recursos Principais:<br><br>Catálogo diversificado com opções para todos os gostos.<br>Processo de compra simples e intuitivo.<br>Pagamento seguro com Pix ou Cartão de Crédito.<br>Entrega instantânea dos códigos de presente na página &quot;Meus Pedidos&quot;.<br><br>Recarregue sua diversão!",
+      "summary": "Gift Card para milhares de jogos com entrega imediata. Recarregue sua diversão!",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 54678,
+      "score": 4.75,
+      "scoreText": "4,8",
+      "ratings": 267,
+      "reviews": 186,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "br.com.lojadosgifts",
+      "url": "https://play.google.com/store/apps/details?id=br.com.lojadosgifts&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "TP-Link Tapo",
+      "description": "O aplicativo Tapo ajuda a configurar os dispositivos inteligentes Tapo em minutos e coloca tudo o que você precisa na ponta dos dedos\n• Controle seu dispositivo inteligente de qualquer lugar.\n• Controle o dispositivo via voz com o Google Home e o Amazon Echo.\n• Modo Preset Away para fazer parecer que alguém está em casa.\n• Defina um contador regressivo para ligar ou desligar o dispositivo automaticamente.\n• Programe quando ligar ou desligar o dispositivo automaticamente às vezes.\n• Convide famílias para gerenciar o dispositivo juntos.",
+      "descriptionHTML": "O aplicativo Tapo ajuda a configurar os dispositivos inteligentes Tapo em minutos e coloca tudo o que você precisa na ponta dos dedos<br>• Controle seu dispositivo inteligente de qualquer lugar.<br>• Controle o dispositivo via voz com o Google Home e o Amazon Echo.<br>• Modo Preset Away para fazer parecer que alguém está em casa.<br>• Defina um contador regressivo para ligar ou desligar o dispositivo automaticamente.<br>• Programe quando ligar ou desligar o dispositivo automaticamente às vezes.<br>• Convide famílias para gerenciar o dispositivo juntos.",
+      "summary": "Controle seus dispositivos inteligentes Tapo de qualquer lugar.",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 44112517,
+      "score": 4.821018,
+      "scoreText": "4,8",
+      "ratings": 539804,
+      "reviews": 5709,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tplink.iot",
+      "url": "https://play.google.com/store/apps/details?id=com.tplink.iot&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Giftoor",
+      "description": "Giftoor é um aplicativo de compras inteligente projetado para tornar a navegação e a compra de produtos em diversas lojas rápida, simples e conveniente. Ele oferece uma experiência de compra moderna com uma interface limpa e intuitiva.\n\nO aplicativo permite que os usuários explorem uma variedade de produtos e lojas, pesquisem com eficiência e concluam pedidos sem problemas, em uma experiência móvel fluida e responsiva.",
+      "descriptionHTML": "Giftoor é um aplicativo de compras inteligente projetado para tornar a navegação e a compra de produtos em diversas lojas rápida, simples e conveniente. Ele oferece uma experiência de compra moderna com uma interface limpa e intuitiva.<br><br>O aplicativo permite que os usuários explorem uma variedade de produtos e lojas, pesquisem com eficiência e concluam pedidos sem problemas, em uma experiência móvel fluida e responsiva.",
+      "summary": "Giftoor é um aplicativo de compras inteligente projetado para facilitar a compra de produtos.",
+      "installs": "1.000+",
+      "minInstalls": 1000,
+      "maxInstalls": 1090,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Comer e beber",
+      "genreId": "FOOD_AND_DRINK",
+      "categories": [
+        {
+          "name": "Comer e beber",
+          "id": "FOOD_AND_DRINK"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.giftoor.uae",
+      "url": "https://play.google.com/store/apps/details?id=com.giftoor.uae&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "Mobile Legends: Bang Bang",
+      "description": "Junte-se ao seus amigos no Mobile Legends: Bang Bang, o mais novo MOBA 5v5, e lute contra jogadores reais! Escolha seus heróis favoritos e monte o time perfeito com seus irmãos de armas! Encontre partidas em 10 segundos e jogue durante 10 minutos. Passe pelas rotas, pela selva, avance e participe das lutas em equipe. Toda a diversão de um MOBA de PC e jogos de ação na palma de suas mãos! Alimente seu espírito de eSports!\n \nMobile Legends: Bang Bang, o fascinante MOBA para dispositivos móveis. Esmague e vença seus inimigos e alcance a vitória final com seus companheiros de equipe!\n \nSeu celular anseia pela batalha!\n \nRecursos\n \n1. Mapas Clássicos de MOBA & Batalhas 5v5 \nBatalha 5v5 em tempo real contra jogadores reais. Três rotas, quatro áreas de selva, dois chefões, dezoito torres de defesa e batalhas sem fim. Tudo que um MOBA clássico tem, você encontra aqui!\n \n2. Vença com Trabalho em Equipe & Estratégia\nEsquive do dano, controle inimigos e cure aliados! Escolha entre Tanks, Magos, Atiradores, Assassinos, Suportes, etc. para ajudar seu time e ser o MVP da partida! Novos heróis são lançados constantemente!\n \n3. Lutas Justas, Leve o Seu Time à Vitória! \nAssim como em MOBAs clássicos, não é necessário treinar heróis ou pagar por atributos. Habilidade e estratégia são os únicos requisitos que você precisa para ganhar a intensa competição nesta plataforma justa e balanceada. Jogue para Ganhar e Ganhe sem Pagar Nada.\n \n4. Controles Simples, Fáceis de Masterizar \nCom um analógico virtual na esquerda e botões de habilidade na direita, dois dedos são tudo o que você precisa para se tornar um mestre! Ao travar a mira e mudar os alvos, permitirá que você dê o último golpe no que desejar. Nunca erre! E um conveniente sistema de toque-para-equipar permite que você compre equipamentos em qualquer lugar do mapa para que você possa focar mais na emoção da batalha!\n \n5. 10 Segundos para Achar Partida e Jogue por 10 Minutos \nA combinação de partidas dura apenas 10 segundos e uma partida dura apenas 10 minutos. Esqueça o calmo começo de jogo em que você apenas sobe de nível e vá direto para a batalha. Menos partidas lentas e repetitivas e mais vitórias intensas e emocionantes. Em qualquer lugar e a qualquer momento, apenas pegue o seu telefone, abra o jogo e entre na competição MOBA de tirar o fôlego.\n \n6. Assistência de IA Inteligente para Jogadores Offline \nUma queda de conexão pode significar deixar seus companheiros em apuros em meio a uma batalha intensa. Mas, com o poderoso sistema de reconexão do Mobile Legends: Bang Bang, caso você perca a conexão, você voltará em segundos. E, enquanto estiver offline, uma IA irá temporariamente assumir o controle do seu personagem para evitar uma situação 4v5.\n \nPOR FAVOR, NOTE QUE: O Mobile Legends: Bang Bang é grátis para baixar e jogar. Portanto, alguns itens do jogo podem ser comprados com dinheiro real. Se você deseja usar essa função, coloque uma senha de proteção para comprar nas configurações do seu aplicativo Google Play Store. Note também que, de acordo com nossos Termos de Uso e Política de Privacidade, você deverá ter 12 anos ou mais para jogar ou baixar Mobile Legends: Bang Bang. \n \nEntre em Contato Conosco \nVocê pode receber ajuda do Serviço de Atendimento ao Cliente através do botão [Entre em Contato Conosco] no jogo para te ajudar a resolver quaisquer problemas que venha a encontrar enquanto estiver jogando. Você também pode nos encontrar nas seguintes plataformas. Nós apreciamos todos os seus pensamentos e sugestões sobre o Mobile Legends: Bang Bang:\n \nE-mail do Serviço de Atendimento ao Cliente: mobilelegendsgame@moonton.com\nInstagram: @mobilelegendsgame\nYouTube: https://www.youtube.com/c/MobileLegends5v5MOBA",
+      "descriptionHTML": "Junte-se ao seus amigos no Mobile Legends: Bang Bang, o mais novo MOBA 5v5, e lute contra jogadores reais! Escolha seus heróis favoritos e monte o time perfeito com seus irmãos de armas! Encontre partidas em 10 segundos e jogue durante 10 minutos. Passe pelas rotas, pela selva, avance e participe das lutas em equipe. Toda a diversão de um MOBA de PC e jogos de ação na palma de suas mãos! Alimente seu espírito de eSports!<br> <br>Mobile Legends: Bang Bang, o fascinante MOBA para dispositivos móveis. Esmague e vença seus inimigos e alcance a vitória final com seus companheiros de equipe!<br> <br>Seu celular anseia pela batalha!<br> <br><b>Recursos</b><br> <br><b>1. Mapas Clássicos de MOBA &amp; Batalhas 5v5</b> <br>Batalha 5v5 em tempo real contra jogadores reais. Três rotas, quatro áreas de selva, dois chefões, dezoito torres de defesa e batalhas sem fim. Tudo que um MOBA clássico tem, você encontra aqui!<br> <br><b>2. Vença com Trabalho em Equipe &amp; Estratégia</b><br>Esquive do dano, controle inimigos e cure aliados! Escolha entre Tanks, Magos, Atiradores, Assassinos, Suportes, etc. para ajudar seu time e ser o MVP da partida! Novos heróis são lançados constantemente!<br> <br><b>3. Lutas Justas, Leve o Seu Time à Vitória!</b> <br>Assim como em MOBAs clássicos, não é necessário treinar heróis ou pagar por atributos. Habilidade e estratégia são os únicos requisitos que você precisa para ganhar a intensa competição nesta plataforma justa e balanceada. Jogue para Ganhar e Ganhe sem Pagar Nada.<br> <br><b>4. Controles Simples, Fáceis de Masterizar</b> <br>Com um analógico virtual na esquerda e botões de habilidade na direita, dois dedos são tudo o que você precisa para se tornar um mestre! Ao travar a mira e mudar os alvos, permitirá que você dê o último golpe no que desejar. Nunca erre! E um conveniente sistema de toque-para-equipar permite que você compre equipamentos em qualquer lugar do mapa para que você possa focar mais na emoção da batalha!<br> <br><b>5. 10 Segundos para Achar Partida e Jogue por 10 Minutos</b> <br>A combinação de partidas dura apenas 10 segundos e uma partida dura apenas 10 minutos. Esqueça o calmo começo de jogo em que você apenas sobe de nível e vá direto para a batalha. Menos partidas lentas e repetitivas e mais vitórias intensas e emocionantes. Em qualquer lugar e a qualquer momento, apenas pegue o seu telefone, abra o jogo e entre na competição MOBA de tirar o fôlego.<br> <br><b>6. Assistência de IA Inteligente para Jogadores Offline</b> <br>Uma queda de conexão pode significar deixar seus companheiros em apuros em meio a uma batalha intensa. Mas, com o poderoso sistema de reconexão do Mobile Legends: Bang Bang, caso você perca a conexão, você voltará em segundos. E, enquanto estiver offline, uma IA irá temporariamente assumir o controle do seu personagem para evitar uma situação 4v5.<br> <br>POR FAVOR, NOTE QUE: O Mobile Legends: Bang Bang é grátis para baixar e jogar. Portanto, alguns itens do jogo podem ser comprados com dinheiro real. Se você deseja usar essa função, coloque uma senha de proteção para comprar nas configurações do seu aplicativo Google Play Store. Note também que, de acordo com nossos Termos de Uso e Política de Privacidade, você deverá ter 12 anos ou mais para jogar ou baixar Mobile Legends: Bang Bang. <br> <br><b>Entre em Contato Conosco</b> <br>Você pode receber ajuda do Serviço de Atendimento ao Cliente através do botão [Entre em Contato Conosco] no jogo para te ajudar a resolver quaisquer problemas que venha a encontrar enquanto estiver jogando. Você também pode nos encontrar nas seguintes plataformas. Nós apreciamos todos os seus pensamentos e sugestões sobre o Mobile Legends: Bang Bang:<br> <br><b>E-mail do Serviço de Atendimento ao Cliente:</b> mobilelegendsgame@moonton.com<br><b>Instagram:</b> @mobilelegendsgame<br><b>YouTube:</b> https://www.youtube.com/c/MobileLegends5v5MOBA",
+      "summary": "Jogue o MOBA 5v5 com jogadores de todo o mundo.",
+      "installs": "500.000.000+",
+      "minInstalls": 500000000,
+      "maxInstalls": 951727092,
+      "score": 4.198576,
+      "scoreText": "4,2",
+      "ratings": 39082234,
+      "reviews": 574533,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ação",
+      "genreId": "GAME_ACTION",
+      "categories": [
+        {
+          "name": "Estratégia",
+          "id": "GAME_STRATEGY"
+        },
+        {
+          "name": "MOBA",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Multiplayer",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Anime",
+          "id": null
+        },
+        {
+          "name": "Combate",
+          "id": null
+        },
+        {
+          "name": "Fantasia",
+          "id": null
+        },
+        {
+          "name": "Fantasia oriental",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.mobile.legends",
+      "url": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "VeryFit",
+      "description": "VeryFit Esportes e Fitness\n\nEste aplicativo requer um dispositivo vestível inteligente compatível (smartwatch/smartband) para funcionar. Todas as funções de monitoramento de dados de saúde e condicionamento físico dependem do hardware correspondente e não podem operar independentemente sem o dispositivo relevante.\n\nEle ajuda você a monitorar sua atividade diária, exercícios e descanso, para que você possa desenvolver melhores hábitos de condicionamento físico ao longo do tempo.\n\nO aplicativo é compatível com vários modelos de smartwatch, incluindo a série VeryFit.\n\nRecursos relacionados à saúde\n\n1. Atividade e condicionamento físico\nO aplicativo se conecta aos smartwatches VeryFit e lê dados de atividade, como passos, distância, tempo ativo, calorias queimadas e frequência cardíaca.\n\nUsamos esses dados para fornecer resumos de atividades diárias, semanais e mensais, registros de exercícios e metas de atividade diária, ajudando os usuários a entender melhor seu nível geral de condicionamento físico e padrões de atividade.\n\nEsses dados são usados ​​apenas para fornecer os principais recursos de atividade e condicionamento físico no aplicativo e não são usados ​​para fins médicos.\n\n2. Nutrição e controle de peso\nOs usuários podem optar por inserir sua altura e peso no aplicativo. Essas informações são usadas apenas para estimar as calorias queimadas e calcular estatísticas relacionadas à atividade (por exemplo, estimativa do gasto energético durante os treinos).\nO aplicativo não monitora a ingestão de alimentos, não fornece planos de refeições nem executa programas de perda de peso.\n\nOs dados de altura e peso são usados ​​apenas para dar suporte aos recursos de condicionamento físico e não são usados ​​para publicidade ou para quaisquer fins médicos ou clínicos.\n\n3. Gerenciamento do Sono\nO aplicativo lê a duração e os estágios do sono (como sono leve, sono profundo e sono REM) do smartwatch e exibe resumos do sono e tendências simples.\n\nO objetivo é ajudar os usuários a entender quanto tempo e quão bem eles descansam.\n\nAs informações sobre o sono são usadas apenas para fins gerais de bem-estar e condicionamento físico e não são usadas para diagnosticar distúrbios do sono ou qualquer outra condição médica.\n\n4. Gerenciamento do Estresse\nQuando compatível com o smartwatch, o aplicativo exibe um nível estimado de estresse com base nos dados do sensor (por exemplo, variabilidade da frequência cardíaca).\n\nEste recurso destina-se apenas ao bem-estar geral e à conscientização sobre o estilo de vida e não se destina ao tratamento de saúde mental, aconselhamento ou diagnóstico médico.\n\n5. Monitoramento da Pressão Arterial\nSe o smartwatch for compatível, o aplicativo exibe os dados da pressão arterial (pressão sistólica e diastólica) com base nas medições do dispositivo.\n\nEste recurso destina-se apenas a fins gerais de saúde e registro, e não se destina a diagnóstico ou tratamento médico.\n\n6. Acompanhamento do Ciclo Menstrual\nO aplicativo inclui um recurso opcional de lembrete do ciclo menstrual que os usuários podem ativar.\n\nEste recurso não oferece contracepção, tratamento de fertilidade ou aconselhamento médico e não é usado para diagnosticar, tratar ou gerenciar qualquer condição médica.\n\nOutros Recursos\n1. Notificações de Chamadas e Mensagens\nReceba alertas de chamadas e notificações de SMS no seu smartwatch, para que você possa ver rapidamente quem está ligando ou enviando mensagens sem precisar pegar o telefone. Ao receber uma mensagem SMS no smartwatch, você pode enviar uma mensagem SMS para responder no próprio smartwatch.\n\n(Este recurso requer sua autorização.)\n\n2. Lembretes de Estilo de Vida\nConfigure alarmes (com sincronização bidirecional), lembretes de atividades, lembretes para beber água, lembretes de exercícios e muito mais, para ajudar você a organizar sua vida diária e criar rotinas saudáveis.\n\nAviso Legal\n\nO VeryFit e os dispositivos vestíveis compatíveis não são dispositivos médicos e não fornecem aconselhamento ou diagnóstico médico.\n\nTodas as medições e resultados de análises são apenas para referência geral de condicionamento físico e bem-estar e não devem ser usados ​​para diagnosticar, tratar, curar ou prevenir qualquer doença ou condição de saúde.\n\nSe você tiver alguma dúvida ou preocupação relacionada à saúde, consulte um profissional de saúde qualificado.",
+      "descriptionHTML": "VeryFit Esportes e Fitness<br><br>Este aplicativo requer um dispositivo vestível inteligente compatível (smartwatch/smartband) para funcionar. Todas as funções de monitoramento de dados de saúde e condicionamento físico dependem do hardware correspondente e não podem operar independentemente sem o dispositivo relevante.<br><br>Ele ajuda você a monitorar sua atividade diária, exercícios e descanso, para que você possa desenvolver melhores hábitos de condicionamento físico ao longo do tempo.<br><br>O aplicativo é compatível com vários modelos de smartwatch, incluindo a série VeryFit.<br><br>Recursos relacionados à saúde<br><br>1. Atividade e condicionamento físico<br>O aplicativo se conecta aos smartwatches VeryFit e lê dados de atividade, como passos, distância, tempo ativo, calorias queimadas e frequência cardíaca.<br><br>Usamos esses dados para fornecer resumos de atividades diárias, semanais e mensais, registros de exercícios e metas de atividade diária, ajudando os usuários a entender melhor seu nível geral de condicionamento físico e padrões de atividade.<br><br>Esses dados são usados ​​apenas para fornecer os principais recursos de atividade e condicionamento físico no aplicativo e não são usados ​​para fins médicos.<br><br>2. Nutrição e controle de peso<br>Os usuários podem optar por inserir sua altura e peso no aplicativo. Essas informações são usadas apenas para estimar as calorias queimadas e calcular estatísticas relacionadas à atividade (por exemplo, estimativa do gasto energético durante os treinos).<br>O aplicativo não monitora a ingestão de alimentos, não fornece planos de refeições nem executa programas de perda de peso.<br><br>Os dados de altura e peso são usados ​​apenas para dar suporte aos recursos de condicionamento físico e não são usados ​​para publicidade ou para quaisquer fins médicos ou clínicos.<br><br>3. Gerenciamento do Sono<br>O aplicativo lê a duração e os estágios do sono (como sono leve, sono profundo e sono REM) do smartwatch e exibe resumos do sono e tendências simples.<br><br>O objetivo é ajudar os usuários a entender quanto tempo e quão bem eles descansam.<br><br>As informações sobre o sono são usadas apenas para fins gerais de bem-estar e condicionamento físico e não são usadas para diagnosticar distúrbios do sono ou qualquer outra condição médica.<br><br>4. Gerenciamento do Estresse<br>Quando compatível com o smartwatch, o aplicativo exibe um nível estimado de estresse com base nos dados do sensor (por exemplo, variabilidade da frequência cardíaca).<br><br>Este recurso destina-se apenas ao bem-estar geral e à conscientização sobre o estilo de vida e não se destina ao tratamento de saúde mental, aconselhamento ou diagnóstico médico.<br><br>5. Monitoramento da Pressão Arterial<br>Se o smartwatch for compatível, o aplicativo exibe os dados da pressão arterial (pressão sistólica e diastólica) com base nas medições do dispositivo.<br><br>Este recurso destina-se apenas a fins gerais de saúde e registro, e não se destina a diagnóstico ou tratamento médico.<br><br>6. Acompanhamento do Ciclo Menstrual<br>O aplicativo inclui um recurso opcional de lembrete do ciclo menstrual que os usuários podem ativar.<br><br>Este recurso não oferece contracepção, tratamento de fertilidade ou aconselhamento médico e não é usado para diagnosticar, tratar ou gerenciar qualquer condição médica.<br><br>Outros Recursos<br>1. Notificações de Chamadas e Mensagens<br>Receba alertas de chamadas e notificações de SMS no seu smartwatch, para que você possa ver rapidamente quem está ligando ou enviando mensagens sem precisar pegar o telefone. Ao receber uma mensagem SMS no smartwatch, você pode enviar uma mensagem SMS para responder no próprio smartwatch.<br><br>(Este recurso requer sua autorização.)<br><br>2. Lembretes de Estilo de Vida<br>Configure alarmes (com sincronização bidirecional), lembretes de atividades, lembretes para beber água, lembretes de exercícios e muito mais, para ajudar você a organizar sua vida diária e criar rotinas saudáveis.<br><br>Aviso Legal<br><br>O VeryFit e os dispositivos vestíveis compatíveis não são dispositivos médicos e não fornecem aconselhamento ou diagnóstico médico.<br><br>Todas as medições e resultados de análises são apenas para referência geral de condicionamento físico e bem-estar e não devem ser usados ​​para diagnosticar, tratar, curar ou prevenir qualquer doença ou condição de saúde.<br><br>Se você tiver alguma dúvida ou preocupação relacionada à saúde, consulte um profissional de saúde qualificado.",
+      "summary": "Este é um aplicativo que serve como um aplicativo complementar para smart watch.",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 10613028,
+      "score": 4.729293,
+      "scoreText": "4,7",
+      "ratings": 166944,
+      "reviews": 2061,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.watch.life",
+      "url": "https://play.google.com/store/apps/details?id=com.watch.life&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "#gifted",
+      "description": "Seja recompensado por sua influência social com presentes e experiências das principais marcas que você adora.\n\nPara ser aprovado como criador, você precisa de mais de 3.000 seguidores no Instagram OU de mais de 10.000 no Tiktok.",
+      "descriptionHTML": "Seja recompensado por sua influência social com presentes e experiências das principais marcas que você adora.<br><br>Para ser aprovado como criador, você precisa de mais de 3.000 seguidores no Instagram OU de mais de 10.000 no Tiktok.",
+      "summary": "Presentes para influenciadores e criadores.",
+      "installs": "5.000+",
+      "minInstalls": 5000,
+      "maxInstalls": 6576,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Social",
+      "genreId": "SOCIAL",
+      "categories": [
+        {
+          "name": "Social",
+          "id": "SOCIAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hashgifted.gifted",
+      "url": "https://play.google.com/store/apps/details?id=com.hashgifted.gifted&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "Freegiftzone - Get Redeem Code",
+      "description": "FreeGiftZone – Acumule pontos e use-os para resgatar recompensas digitais e códigos.\n\nO FreeGiftZone é um aplicativo envolvente onde você acumula pontos ao completar atividades simples no seu celular. Ao acumular pontos suficientes, você pode usá-los para resgatar diversos itens no aplicativo e códigos digitais.\n\nO que você pode fazer no aplicativo:\n• Jogar minijogos casuais e acumular pontos\n• Completar ofertas e tarefas simples de parceiros confiáveis\n• Assistir a vídeos curtos para ganhar pontos bônus\n• Compartilhar sua opinião em pesquisas para ganhar pontos extras\n• Fazer login diariamente para acumular bônus de sequência\n• Convidar amigos e ganhar um bônus de indicação quando eles se cadastrarem\n• Explorar atualizações diárias de jogos e atividades interativas\n• Ler notícias e participar de quizzes informativos para acumular pontos diariamente\n\nComo seus pontos funcionam:\n• Seus pontos refletem sua atividade e progresso individuais.\n\n• Você pode solicitar recompensas ao atingir o limite de pontos necessário.\n\n• O processamento dos pontos pode levar até 48 horas para verificação do parceiro.\n\n• Um indicador de disponibilidade em tempo real mostra o estoque atual de códigos. • Os pontos não têm valor monetário fora do aplicativo e não podem ser transferidos ou vendidos.\n\nCentral de Resgates:\n• Use seus pontos FreeGiftZone para resgatar créditos de jogos e vouchers digitais disponíveis.\n\n• Use pontos para estender o tempo de jogo em minijogos em destaque.\n\n• Escolha entre uma variedade de opções de recompensa disponíveis com base no seu saldo.\n\n• Veja seu histórico completo de resgates e pontos a qualquer momento.\n\n• Não são necessários dados bancários ou informações financeiras para usar o aplicativo.\n\nPlataforma transparente e segura:\n• NÃO há pagamentos ou saques em dinheiro real.\n\n• Somente seu e-mail é usado para login na conta e entrega de recompensas.\n\n• Pesquisas e tarefas de terceiros seguem as diretrizes de seus respectivos parceiros.\n\n• Pontos e itens operam estritamente dentro do ecossistema da plataforma.\n\nContato e Suporte:\nSe você tiver alguma dúvida, feedback ou precisar de assistência, entre em contato conosco:\nE-mail: freegiftzonecom@gmail.com\n\nAviso importante para usuários:\nO FreeGiftZone é uma plataforma independente e não é afiliado, autorizado, patrocinado ou endossado pelo Google LLC (Google Play), Amazon.com, Apple Inc., Microsoft Corporation (Xbox), PayPal ou qualquer outra marca mencionada. Todas as marcas registradas, marcas de serviço e nomes de marcas são propriedade de seus respectivos proprietários.\n\nO único propósito do aplicativo é fornecer uma plataforma para que os usuários acumulem pontos por meio de jogos, pesquisas, vídeos, quizzes e tarefas interativas.\n\nSe você for detentor de direitos autorais ou de marca registrada e tiver alguma preocupação com relação ao conteúdo do FreeGiftZone, entre em contato conosco pelo e-mail reenasahusm@gmail.com e nossa equipe o ajudará prontamente.",
+      "descriptionHTML": "FreeGiftZone – Acumule pontos e use-os para resgatar recompensas digitais e códigos.<br><br>O FreeGiftZone é um aplicativo envolvente onde você acumula pontos ao completar atividades simples no seu celular. Ao acumular pontos suficientes, você pode usá-los para resgatar diversos itens no aplicativo e códigos digitais.<br><br>O que você pode fazer no aplicativo:<br>• Jogar minijogos casuais e acumular pontos<br>• Completar ofertas e tarefas simples de parceiros confiáveis<br>• Assistir a vídeos curtos para ganhar pontos bônus<br>• Compartilhar sua opinião em pesquisas para ganhar pontos extras<br>• Fazer login diariamente para acumular bônus de sequência<br>• Convidar amigos e ganhar um bônus de indicação quando eles se cadastrarem<br>• Explorar atualizações diárias de jogos e atividades interativas<br>• Ler notícias e participar de quizzes informativos para acumular pontos diariamente<br><br>Como seus pontos funcionam:<br>• Seus pontos refletem sua atividade e progresso individuais.<br><br>• Você pode solicitar recompensas ao atingir o limite de pontos necessário.<br><br>• O processamento dos pontos pode levar até 48 horas para verificação do parceiro.<br><br>• Um indicador de disponibilidade em tempo real mostra o estoque atual de códigos. • Os pontos não têm valor monetário fora do aplicativo e não podem ser transferidos ou vendidos.<br><br>Central de Resgates:<br>• Use seus pontos FreeGiftZone para resgatar créditos de jogos e vouchers digitais disponíveis.<br><br>• Use pontos para estender o tempo de jogo em minijogos em destaque.<br><br>• Escolha entre uma variedade de opções de recompensa disponíveis com base no seu saldo.<br><br>• Veja seu histórico completo de resgates e pontos a qualquer momento.<br><br>• Não são necessários dados bancários ou informações financeiras para usar o aplicativo.<br><br>Plataforma transparente e segura:<br>• NÃO há pagamentos ou saques em dinheiro real.<br><br>• Somente seu e-mail é usado para login na conta e entrega de recompensas.<br><br>• Pesquisas e tarefas de terceiros seguem as diretrizes de seus respectivos parceiros.<br><br>• Pontos e itens operam estritamente dentro do ecossistema da plataforma.<br><br>Contato e Suporte:<br>Se você tiver alguma dúvida, feedback ou precisar de assistência, entre em contato conosco:<br>E-mail: freegiftzonecom@gmail.com<br><br>Aviso importante para usuários:<br>O FreeGiftZone é uma plataforma independente e não é afiliado, autorizado, patrocinado ou endossado pelo Google LLC (Google Play), Amazon.com, Apple Inc., Microsoft Corporation (Xbox), PayPal ou qualquer outra marca mencionada. Todas as marcas registradas, marcas de serviço e nomes de marcas são propriedade de seus respectivos proprietários.<br><br>O único propósito do aplicativo é fornecer uma plataforma para que os usuários acumulem pontos por meio de jogos, pesquisas, vídeos, quizzes e tarefas interativas.<br><br>Se você for detentor de direitos autorais ou de marca registrada e tiver alguma preocupação com relação ao conteúdo do FreeGiftZone, entre em contato conosco pelo e-mail reenasahusm@gmail.com e nossa equipe o ajudará prontamente.",
+      "summary": "Acumule pontos com tarefas simples e use-os para resgatar códigos de vários jogos.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1824032,
+      "score": 4.4,
+      "scoreText": "4,4",
+      "ratings": 42845,
+      "reviews": 36,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Produtividade",
+      "genreId": "PRODUCTIVITY",
+      "categories": [
+        {
+          "name": "Produtividade",
+          "id": "PRODUCTIVITY"
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.freeredeem.codetoday",
+      "url": "https://play.google.com/store/apps/details?id=com.freeredeem.codetoday&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "HeyCash: Pesquisa por Dinheiro",
+      "description": "Bem-vindo ao HeyCash, seu destino ideal para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo por meio de pesquisas pagas, jogos e offer walls! Com o HeyCash, você pode responder pesquisas, jogar e participar de offer walls para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo diretamente do seu dispositivo móvel. O HeyCash conecta você a várias oportunidades para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo, tornando-se um dos melhores apps para ganhar dinheiro. Esteja você em casa ou em movimento, comece a transformar suas opiniões e atividades em recompensas valiosas em cash instantâneo.\n\nRecursos e benefícios\n\n💸 Ganhe dinheiro com eficiência: Responda pesquisas pagas, jogue e participe de offer walls com rapidez e segurança, com recompensas pagas diretamente no seu PayPal ou em cartões-presente para cash instantâneo.\n📊 Variedade de pesquisas pagas: Acesse uma ampla variedade de pesquisas pagas que combinam com seus interesses.\n🎮 Jogue e ganhe: Descubra novos jogos gratuitos e redescubra seus favoritos. Quanto mais você joga, mais cash você ganha, mais dinheiro grátis consegue e mais cash instantâneo recebe.\n📅 Oportunidades constantes de ganho: Com novas pesquisas pagas, jogos e ofertas adicionados diariamente, seu potencial para ganhar cash, conseguir dinheiro grátis e receber recompensas instantâneas é infinito.\n👆 Interface fácil de usar: Nosso app foi criado para tornar simples e sem complicações responder pesquisas pagas, jogar e participar de offer walls.\n🔒 Seguro e privado: Priorizamos sua privacidade, garantindo que suas respostas às pesquisas e atividades permaneçam confidenciais e seguras.\n📈 Acompanhe seus ganhos: Monitore seus ganhos e as pesquisas pagas, jogos e ofertas disponíveis pelo nosso painel em tempo real, para saber sempre quanto dinheiro, dinheiro grátis e cash instantâneo você ganhou.\n💰 Pagamento direto por pesquisas: Aproveite pagamentos rápidos e limites baixos de saque, facilitando ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo.\n🌐 Acessível em qualquer lugar: Use o HeyCash em vários dispositivos e aumente suas chances de ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo a qualquer hora, em qualquer lugar.\n\nPor que escolher o HeyCash?\n\nEstá procurando uma forma simples de ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo? O HeyCash é seu app ideal para ganhos confiáveis e rápidos. Receba recompensas por compartilhar sua opinião, jogar e participar de offer walls.\n\n💬 Pesquisas pagas: Compartilhe sua opinião e ganhe dinheiro com recompensas em cash instantâneo.\n🎁 Convide amigos: Ganhe dinheiro, consiga dinheiro grátis e receba cash instantâneo convidando amigos para entrar no HeyCash e participar de pesquisas pagas, jogos e ofertas.\n📱 Ganhe em movimento: Ganhe dinheiro, consiga dinheiro grátis e receba cash instantâneo respondendo pesquisas pagas, jogando e participando de offer walls a qualquer hora, em qualquer lugar.\n\nComece com o HeyCash\n\n🎮 Jogue e ganhe: Aproveite jogos gratuitos pelo HeyCash. Quanto mais você joga, mais pode ganhar.\n📝 Responda pesquisas e complete ofertas: Cadastre-se e comece a ganhar compartilhando sua opinião e participando de ofertas.\n🎁 Resgate suas recompensas: Converta seus ganhos em cartões-presente para PayPal, DoorDash, Amazon, Walmart e muito mais para receber cash instantâneo.",
+      "descriptionHTML": "Bem-vindo ao <b>HeyCash</b>, seu destino ideal para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo por meio de pesquisas pagas, jogos e offer walls! Com o <b>HeyCash</b>, você pode responder pesquisas, jogar e participar de offer walls para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo diretamente do seu dispositivo móvel. O <b>HeyCash</b> conecta você a várias oportunidades para ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo, tornando-se um dos melhores apps para ganhar dinheiro. Esteja você em casa ou em movimento, comece a transformar suas opiniões e atividades em recompensas valiosas em cash instantâneo.<br><br><b>Recursos e benefícios</b><br><br>💸 <b>Ganhe dinheiro com eficiência</b>: Responda pesquisas pagas, jogue e participe de offer walls com rapidez e segurança, com recompensas pagas diretamente no seu PayPal ou em cartões-presente para cash instantâneo.<br>📊 <b>Variedade de pesquisas pagas</b>: Acesse uma ampla variedade de pesquisas pagas que combinam com seus interesses.<br>🎮 <b>Jogue e ganhe</b>: Descubra novos jogos gratuitos e redescubra seus favoritos. Quanto mais você joga, mais cash você ganha, mais dinheiro grátis consegue e mais cash instantâneo recebe.<br>📅 <b>Oportunidades constantes de ganho</b>: Com novas pesquisas pagas, jogos e ofertas adicionados diariamente, seu potencial para ganhar cash, conseguir dinheiro grátis e receber recompensas instantâneas é infinito.<br>👆 <b>Interface fácil de usar</b>: Nosso app foi criado para tornar simples e sem complicações responder pesquisas pagas, jogar e participar de offer walls.<br>🔒 <b>Seguro e privado</b>: Priorizamos sua privacidade, garantindo que suas respostas às pesquisas e atividades permaneçam confidenciais e seguras.<br>📈 <b>Acompanhe seus ganhos</b>: Monitore seus ganhos e as pesquisas pagas, jogos e ofertas disponíveis pelo nosso painel em tempo real, para saber sempre quanto dinheiro, dinheiro grátis e cash instantâneo você ganhou.<br>💰 <b>Pagamento direto por pesquisas</b>: Aproveite pagamentos rápidos e limites baixos de saque, facilitando ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo.<br>🌐 <b>Acessível em qualquer lugar</b>: Use o <b>HeyCash</b> em vários dispositivos e aumente suas chances de ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo a qualquer hora, em qualquer lugar.<br><br><b>Por que escolher o HeyCash?</b><br><br>Está procurando uma forma simples de ganhar dinheiro, conseguir dinheiro grátis e receber cash instantâneo? O <b>HeyCash</b> é seu app ideal para ganhos confiáveis e rápidos. Receba recompensas por compartilhar sua opinião, jogar e participar de offer walls.<br><br>💬 <b>Pesquisas pagas</b>: Compartilhe sua opinião e ganhe dinheiro com recompensas em cash instantâneo.<br>🎁 <b>Convide amigos</b>: Ganhe dinheiro, consiga dinheiro grátis e receba cash instantâneo convidando amigos para entrar no <b>HeyCash</b> e participar de pesquisas pagas, jogos e ofertas.<br>📱 <b>Ganhe em movimento</b>: Ganhe dinheiro, consiga dinheiro grátis e receba cash instantâneo respondendo pesquisas pagas, jogando e participando de offer walls a qualquer hora, em qualquer lugar.<br><br><b>Comece com o HeyCash</b><br><br>🎮 <b>Jogue e ganhe</b>: Aproveite jogos gratuitos pelo <b>HeyCash</b>. Quanto mais você joga, mais pode ganhar.<br>📝 <b>Responda pesquisas e complete ofertas</b>: Cadastre-se e comece a ganhar compartilhando sua opinião e participando de ofertas.<br>🎁 <b>Resgate suas recompensas</b>: Converta seus ganhos em cartões-presente para PayPal, DoorDash, Amazon, Walmart e muito mais para receber cash instantâneo.",
+      "summary": "Ganhe dinheiro e gift cards jogando jogos e respondendo pesquisas!",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3285332,
+      "score": 4.6237884,
+      "scoreText": "4,6",
+      "ratings": 255785,
+      "reviews": 1950,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.heycash.surveys.earn.money",
+      "url": "https://play.google.com/store/apps/details?id=com.heycash.surveys.earn.money&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "VIDAA Smart TV",
+      "description": "Não consegue entregar o seu commando à distância? A aplicação VIDAA smart Remote é uma forma conveniente e fácil de controlar qualquer televisão que tenha em casa com o Sistema Operativo VIDAA Smart TV.\n\nFornece todas as funções do seu commando à Distância.\nPrincipais Funções:\n- Ligar e Desligar\n- Controlo do volume\n- Mudar o canal\n- Partilha Video / Música / Fotografias para a TV\n- Procurar VoD\n\nAlgumas funcionalidades podem variar dependendo do modelo da TV.",
+      "descriptionHTML": "Não consegue entregar o seu commando à distância? A aplicação VIDAA smart Remote é uma forma conveniente e fácil de controlar qualquer televisão que tenha em casa com o Sistema Operativo VIDAA Smart TV.<br><br>Fornece todas as funções do seu commando à Distância.<br>Principais Funções:<br>- Ligar e Desligar<br>- Controlo do volume<br>- Mudar o canal<br>- Partilha Video / Música / Fotografias para a TV<br>- Procurar VoD<br><br>Algumas funcionalidades podem variar dependendo do modelo da TV.",
+      "summary": "Um controle remoto virtual para TV inteligente",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 12831198,
+      "score": 4.589011,
+      "scoreText": "4,6",
+      "ratings": 118626,
+      "reviews": 1838,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Ferramentas",
+      "genreId": "TOOLS",
+      "categories": [
+        {
+          "name": "Ferramentas",
+          "id": "TOOLS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.universal.remote.multi",
+      "url": "https://play.google.com/store/apps/details?id=com.universal.remote.multi&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "Icon Pack Studio",
+      "description": "Criamos o IPS com a ideia de que nenhum pacote de ícones pode se ajustar melhor à sua tela inicial do que aquela criada por você. Com o IPS, você pode criar um pacote de ícones do zero ou fazer o download e aplicar um dos milhares enviados diariamente pela nossa comunidade.\n\nO editor avançado permite redimensionar e mover qualquer elemento do seu ícone personalizado. Use filtros especiais como luzes, sombras, texturas e molduras e, quando estiver satisfeito com o resultado, aplique o novo pacote de ícones ao seu iniciador personalizado em apenas alguns toques.\n\nO Icon Pack Studio não é apenas um criador de pacotes de ícones. A partir da versão 2, você pode importar e ajustar qualquer pacote de ícones instalado no seu dispositivo.\n\nOs pacotes de ícones criados com o Icon Pack Studio cobrem  qualquer aplicativo no seu dispositivo. Nenhum outro pacote de ícones baixado da Play Store pode fazer o mesmo .\n\nO Icon Pack Studio foi projetado para funcionar com o Smart Launcher, mas  funciona com praticamente qualquer iniciador \n\n Lançadores testados: \n- Nova Launcher\n- Lançador de ação\n- Lançador de gramado\n- Lançador Hyperion\n- Poco Launcher\n- Miui Launcher\n- Lançador ADW\n- Lançador da Microsoft\n- Evie Launcher\n- Total Launcher\n- Niagara Launcher\n- Square Home Launcher\n- Apex Launcher\n- Apex Launcher Classic\n\n Lançadores não suportados: \n- Xperia Home Launcher\n- Aviate\n- Pixel Launcher\n- Lançador AOSP\n- Huawei Launcher\n- Lançador Yahoo Japão\n- + Iniciador Inicial\n- Samsung One UI Home\n- Lançador LINE / Dodol\n- Lançador Yandex\n\nMuitos outros lançadores que não estão na lista podem ser compatíveis com o IPS.",
+      "descriptionHTML": "Criamos o IPS com a ideia de que nenhum pacote de ícones pode se ajustar melhor à sua tela inicial do que aquela criada por você. Com o IPS, você pode criar um pacote de ícones do zero ou fazer o download e aplicar um dos milhares enviados diariamente pela nossa comunidade.<br><br>O editor avançado permite redimensionar e mover qualquer elemento do seu ícone personalizado. Use filtros especiais como luzes, sombras, texturas e molduras e, quando estiver satisfeito com o resultado, aplique o novo pacote de ícones ao seu iniciador personalizado em apenas alguns toques.<br><br>O Icon Pack Studio não é apenas um criador de pacotes de ícones. A partir da versão 2, você pode importar e ajustar qualquer pacote de ícones instalado no seu dispositivo.<br><br>Os pacotes de ícones criados com o Icon Pack Studio cobrem <b> qualquer aplicativo no seu dispositivo. Nenhum outro pacote de ícones baixado da Play Store pode fazer o mesmo </b>.<br><br>O Icon Pack Studio foi projetado para funcionar com o Smart Launcher, mas <b> funciona com praticamente qualquer iniciador </b><br><br><i> Lançadores testados: </i><br>- Nova Launcher<br>- Lançador de ação<br>- Lançador de gramado<br>- Lançador Hyperion<br>- Poco Launcher<br>- Miui Launcher<br>- Lançador ADW<br>- Lançador da Microsoft<br>- Evie Launcher<br>- Total Launcher<br>- Niagara Launcher<br>- Square Home Launcher<br>- Apex Launcher<br>- Apex Launcher Classic<br><br><i> Lançadores não suportados: </i><br>- Xperia Home Launcher<br>- Aviate<br>- Pixel Launcher<br>- Lançador AOSP<br>- Huawei Launcher<br>- Lançador Yahoo Japão<br>- + Iniciador Inicial<br>- Samsung One UI Home<br>- Lançador LINE / Dodol<br>- Lançador Yandex<br><br>Muitos outros lançadores que não estão na lista podem ser compatíveis com o IPS.",
+      "summary": "O criador e editor definitivo de pacotes de ícones",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 12589505,
+      "score": 3.9217877,
+      "scoreText": "3,9",
+      "ratings": 21192,
+      "reviews": 730,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Personalização",
+      "genreId": "PERSONALIZATION",
+      "categories": [
+        {
+          "name": "Personalização",
+          "id": "PERSONALIZATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "ginlemon.iconpackstudio",
+      "url": "https://play.google.com/store/apps/details?id=ginlemon.iconpackstudio&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "Giftworld: Send gift cards",
+      "description": "❣️ Encontre ideias de presentes para seus entes queridos com Giftworld!\n\nEnvie facilmente presentes atenciosos, encomende flores, compre cartões-presente eletrônicos, flores de aniversário ou presentes divertidos para seus amigos e familiares com apenas alguns toques. Defina lembretes e gerencie seu calendário de datas. Agora você pode enviar flores como presentes para ele ou presentes para mães em toda a América do Norte! Você também pode enviar cartões de presente para lojas como Nordstrom, AMC, Groupon, Wayfair, Petco e DSW por e-mail (somente destinatários dos EUA e Canadá).\n\nUse o calendário de aniversário no aplicativo e o lembrete de data para dar presentes virtuais, enviar presentes online, enviar flores em todas as datas especiais.\n\n💐 PRESENTEIE FLORES A QUEM AMA🌹\nAgora você pode comprar flores para pessoas em toda a América do Norte com Giftworld. Escolha entre nossa ampla variedade de opções de flores e envie flores para quem você quiser usando seu número de telefone e endereço de entrega. Presentear fácil: dê presentes e flores de aniversário para seus entes queridos!\n\n📩 ENVIAR CARTÕES PRESENTE 🎁\nEsse recurso permite que os usuários comprem presentes divertidos e comprem cartões-presente (para destinatários dos EUA e Canadá) via e-mail facilmente! Basta selecionar o vale-presente, o valor e inserir o e-mail do destinatário. Você pode dar presentes de marcas como AMC, Petco, Groupon, Nordstrom, DSW, Wayfair e muito mais!\n\nGiftWorld tem quatro (4) abas principais como ideia de presente:\n\n🎁 Aba Loja de Presentes para cartões eletrônicos, flores, cartões-presente, aniversário, presentes de aniversário e muito mais!\n- Você pode escolher entre nossos modelos pré-selecionados ou fazer upload de sua própria imagem. Decore seu cartão de presente eletrônico/cartões de presente de aniversário com uma moldura e título e corpo personalizados. O destinatário receberá um arquivo de imagem semelhante ao de um cartão postal.\n- Você também pode comprar cartões-presente para lojas como AMC, Petco, Groupon, Nordstrom, DSW e Wayfair e enviá-los por e-mail.\n\n📲 Contatos\n- Nesta guia, você pode inserir nome, aniversário, parentesco (com você), sexo, números de telefone, endereços de e-mail, endereços, datas especiais (aniversário, aniversários, etc.) e seus interesses. Configure seu calendário de datas para ser lembrado de pedir presentes para ele ou comprar flores quando uma data especial estiver chegando. Verifique seu calendário de aniversários regularmente!\n\n📅 Calendário\n- Esta guia fornece um instantâneo das datas importantes que ocorrerão em um mês (aniversários, aniversário etc.), para que você tenha uma ideia de quem deseja enviar presentes atenciosos para este mês (cartões de presente, flores etc.) comece a se preparar. GiftWorld é mais do que apenas um lembrete de aniversário e calendário de aniversário!\n- Você receberá lembretes no canto superior esquerdo a partir de 7 dias antes de uma data especial. Você pode usar o aplicativo como lembrete de aniversário, calendário de aniversário, aplicativo de contagem regressiva de aniversário e muito mais!\n\n🌎 Mapa\n- Encontre todos os seus contatos no mapa do mundo com base nos endereços que você digitou.\n- Ao clicar em um contato, você tem a opção de ir ao seu perfil ou enviar cartões eletrônicos, encomendar flores ou comprar cartões-presente.\n\nComentar Estratégia IOS + Android\nNesta seção há uma série de regras:\nResponda a todas as avaliações.\nAvaliações positivas, responda em até 48 horas.\nAvaliação negativa, responda em até 24 horas.\nEvite a repetitividade, as respostas devem ser leves, “ao nível dos olhos”.\nComece cada resposta à revisão com gratidão e termine com o nome ou o nome da equipe.\nNa resposta, tente implementar palavras-chave principais, Você pode escolher entre uma variedade de expressões em vez da mesma.\n\nO que há de novo IOS + Android\nNesta seção há uma série de regras:\nSem mencionar a correção de bugs, falhas e problemas.\nUse palavras-chave principais em pequena medida e evite spam (repetição excessiva).\nCada nova versão indica o que é realmente novo, resolução, opções, upgrade, aprimoramento, etc.",
+      "descriptionHTML": "❣️ Encontre ideias de presentes para seus entes queridos com Giftworld!<br><br>Envie facilmente presentes atenciosos, encomende flores, compre cartões-presente eletrônicos, flores de aniversário ou presentes divertidos para seus amigos e familiares com apenas alguns toques. Defina lembretes e gerencie seu calendário de datas. Agora você pode enviar flores como presentes para ele ou presentes para mães em toda a América do Norte! Você também pode enviar cartões de presente para lojas como Nordstrom, AMC, Groupon, Wayfair, Petco e DSW por e-mail (somente destinatários dos EUA e Canadá).<br><br>Use o calendário de aniversário no aplicativo e o lembrete de data para dar presentes virtuais, enviar presentes online, enviar flores em todas as datas especiais.<br><br>💐 PRESENTEIE FLORES A QUEM AMA🌹<br>Agora você pode comprar flores para pessoas em toda a América do Norte com Giftworld. Escolha entre nossa ampla variedade de opções de flores e envie flores para quem você quiser usando seu número de telefone e endereço de entrega. Presentear fácil: dê presentes e flores de aniversário para seus entes queridos!<br><br>📩 ENVIAR CARTÕES PRESENTE 🎁<br>Esse recurso permite que os usuários comprem presentes divertidos e comprem cartões-presente (para destinatários dos EUA e Canadá) via e-mail facilmente! Basta selecionar o vale-presente, o valor e inserir o e-mail do destinatário. Você pode dar presentes de marcas como AMC, Petco, Groupon, Nordstrom, DSW, Wayfair e muito mais!<br><br>GiftWorld tem quatro (4) abas principais como ideia de presente:<br><br>🎁 Aba Loja de Presentes para cartões eletrônicos, flores, cartões-presente, aniversário, presentes de aniversário e muito mais!<br>- Você pode escolher entre nossos modelos pré-selecionados ou fazer upload de sua própria imagem. Decore seu cartão de presente eletrônico/cartões de presente de aniversário com uma moldura e título e corpo personalizados. O destinatário receberá um arquivo de imagem semelhante ao de um cartão postal.<br>- Você também pode comprar cartões-presente para lojas como AMC, Petco, Groupon, Nordstrom, DSW e Wayfair e enviá-los por e-mail.<br><br>📲 Contatos<br>- Nesta guia, você pode inserir nome, aniversário, parentesco (com você), sexo, números de telefone, endereços de e-mail, endereços, datas especiais (aniversário, aniversários, etc.) e seus interesses. Configure seu calendário de datas para ser lembrado de pedir presentes para ele ou comprar flores quando uma data especial estiver chegando. Verifique seu calendário de aniversários regularmente!<br><br>📅 Calendário<br>- Esta guia fornece um instantâneo das datas importantes que ocorrerão em um mês (aniversários, aniversário etc.), para que você tenha uma ideia de quem deseja enviar presentes atenciosos para este mês (cartões de presente, flores etc.) comece a se preparar. GiftWorld é mais do que apenas um lembrete de aniversário e calendário de aniversário!<br>- Você receberá lembretes no canto superior esquerdo a partir de 7 dias antes de uma data especial. Você pode usar o aplicativo como lembrete de aniversário, calendário de aniversário, aplicativo de contagem regressiva de aniversário e muito mais!<br><br>🌎 Mapa<br>- Encontre todos os seus contatos no mapa do mundo com base nos endereços que você digitou.<br>- Ao clicar em um contato, você tem a opção de ir ao seu perfil ou enviar cartões eletrônicos, encomendar flores ou comprar cartões-presente.<br><br>Comentar Estratégia IOS + Android<br>Nesta seção há uma série de regras:<br>Responda a todas as avaliações.<br>Avaliações positivas, responda em até 48 horas.<br>Avaliação negativa, responda em até 24 horas.<br>Evite a repetitividade, as respostas devem ser leves, “ao nível dos olhos”.<br>Comece cada resposta à revisão com gratidão e termine com o nome ou o nome da equipe.<br>Na resposta, tente implementar palavras-chave principais, Você pode escolher entre uma variedade de expressões em vez da mesma.<br><br>O que há de novo IOS + Android<br>Nesta seção há uma série de regras:<br>Sem mencionar a correção de bugs, falhas e problemas.<br>Use palavras-chave principais em pequena medida e evite spam (repetição excessiva).<br>Cada nova versão indica o que é realmente novo, resolução, opções, upgrade, aprimoramento, etc.",
+      "summary": "Compre cartões de presente, presentes divertidos e presentes virtuais! Compre presentes pensativos para as mães!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 31243,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": false,
+      "appId": "app.giftworld",
+      "url": "https://play.google.com/store/apps/details?id=app.giftworld&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Jobstreet: Smart job matching",
+      "description": "ENCONTRE SUA PRÓXIMA OPORTUNIDADE DE CARREIRA COM A JOBSTREET\nA Jobstreet by SEEK é a principal plataforma de busca de empregos e carreira da Ásia, com a confiança de milhões de pessoas há mais de 20 anos.\n\nExplore milhares de vagas na Malásia, Singapura, Filipinas e Indonésia. Seja você um iniciante na carreira ou alguém pronto para o próximo desafio, a Jobstreet ajuda você a encontrar a oportunidade ideal — de forma mais inteligente, rápida e personalizada, com IA.\n\nBUSCA DE CARREIRA MAIS INTELIGENTE COM IA\nNossa IA avançada transforma a maneira como você descobre trabalhos significativos:\n- Sugestões de vagas personalizadas com base em sua atividade e interesses\n- A correspondência inteligente destaca vagas alinhadas às suas habilidades e objetivos de carreira\n- Alertas instantâneos para vagas e ofertas relevantes que você pode perder\n\nNunca perca a chance de impulsionar sua carreira com os empregos certos na Jobstreet.\n\nFERRAMENTAS DE BUSCA DE EMPREGO SEM ESFORÇO\n- Filtros avançados para refinar sua busca por localização, salário, setor e muito mais\n- Candidate-se instantaneamente com um toque — a qualquer hora, em qualquer lugar\n\n- Acompanhe suas candidaturas em tempo real com um painel dedicado\n\n- Acesse vagas locais, remotas e híbridas em 8 mercados asiáticos\n\nSeja no trajeto para o trabalho pela manhã ou no final do dia, o Jobstreet facilita a busca por emprego.\n\nCRIE UM PERFIL PROFISSIONAL MAIS FORTE\n- Criador de perfil fácil de usar para destacar seus pontos fortes\n- Envie vários currículos para candidaturas personalizadas\n- Destaque-se para os recrutadores com cartas de apresentação e visibilidade otimizada\n\n- Seja notado pelos melhores empregadores que procuram exatamente o que você oferece\n\nUm perfil no Jobstreet permite que as oportunidades certas cheguem até você\n\nSua busca por emprego se torna mais significativa a cada dia.\n\nEncontre o que é certo para você e sua carreira no Jobstreet.\n\nCom milhares de novas vagas de emprego publicadas diariamente, o Jobstreet é o parceiro de carreira confiável em toda a Ásia. Seja para vagas de meio período, empregos em tempo integral, opções remotas ou contratos temporários, o Jobstreet facilita a busca pelas melhores oportunidades.\n\nDeixe nossas ferramentas com inteligência artificial otimizarem sua busca para que você possa se concentrar em conquistar seu próximo emprego com confiança.\n\nBaixe o aplicativo Jobstreet agora mesmo. Se tiver algum feedback, entre em contato conosco através da nossa página de Contato.",
+      "descriptionHTML": "ENCONTRE SUA PRÓXIMA OPORTUNIDADE DE CARREIRA COM A JOBSTREET<br>A Jobstreet by SEEK é a principal plataforma de busca de empregos e carreira da Ásia, com a confiança de milhões de pessoas há mais de 20 anos.<br><br>Explore milhares de vagas na Malásia, Singapura, Filipinas e Indonésia. Seja você um iniciante na carreira ou alguém pronto para o próximo desafio, a Jobstreet ajuda você a encontrar a oportunidade ideal — de forma mais inteligente, rápida e personalizada, com IA.<br><br>BUSCA DE CARREIRA MAIS INTELIGENTE COM IA<br>Nossa IA avançada transforma a maneira como você descobre trabalhos significativos:<br>- Sugestões de vagas personalizadas com base em sua atividade e interesses<br>- A correspondência inteligente destaca vagas alinhadas às suas habilidades e objetivos de carreira<br>- Alertas instantâneos para vagas e ofertas relevantes que você pode perder<br><br>Nunca perca a chance de impulsionar sua carreira com os empregos certos na Jobstreet.<br><br>FERRAMENTAS DE BUSCA DE EMPREGO SEM ESFORÇO<br>- Filtros avançados para refinar sua busca por localização, salário, setor e muito mais<br>- Candidate-se instantaneamente com um toque — a qualquer hora, em qualquer lugar<br><br>- Acompanhe suas candidaturas em tempo real com um painel dedicado<br><br>- Acesse vagas locais, remotas e híbridas em 8 mercados asiáticos<br><br>Seja no trajeto para o trabalho pela manhã ou no final do dia, o Jobstreet facilita a busca por emprego.<br><br>CRIE UM PERFIL PROFISSIONAL MAIS FORTE<br>- Criador de perfil fácil de usar para destacar seus pontos fortes<br>- Envie vários currículos para candidaturas personalizadas<br>- Destaque-se para os recrutadores com cartas de apresentação e visibilidade otimizada<br><br>- Seja notado pelos melhores empregadores que procuram exatamente o que você oferece<br><br>Um perfil no Jobstreet permite que as oportunidades certas cheguem até você<br><br>Sua busca por emprego se torna mais significativa a cada dia.<br><br>Encontre o que é certo para você e sua carreira no Jobstreet.<br><br>Com milhares de novas vagas de emprego publicadas diariamente, o Jobstreet é o parceiro de carreira confiável em toda a Ásia. Seja para vagas de meio período, empregos em tempo integral, opções remotas ou contratos temporários, o Jobstreet facilita a busca pelas melhores oportunidades.<br><br>Deixe nossas ferramentas com inteligência artificial otimizarem sua busca para que você possa se concentrar em conquistar seu próximo emprego com confiança.<br><br>Baixe o aplicativo Jobstreet agora mesmo. Se tiver algum feedback, entre em contato conosco através da nossa página de Contato.",
+      "summary": "Aumente sua procura de emprego, encontre trabalho em casa e avance em sua carreira hoje",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 32607580,
+      "score": 4.2,
+      "scoreText": "4,2",
+      "ratings": 493884,
+      "reviews": 3,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Negócios",
+      "genreId": "BUSINESS",
+      "categories": [
+        {
+          "name": "Negócios",
+          "id": "BUSINESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jobstreet.jobstreet",
+      "url": "https://play.google.com/store/apps/details?id=com.jobstreet.jobstreet&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Poll Pay: Earn Money & Cash",
+      "description": "Participe de pesquisas pagas, jogue, descubra novos produtos e saque!\n\nPollPay é o aplicativo que paga pela sua opinião. Responda perguntas sobre dinheiro - em casa ou em trânsito. Onde quer que você vá e sempre que tiver liberdade, escolha uma pesquisa que pareça interessante para você, selecionando a duração, o tópico e o valor do prêmio ideais. As pesquisas PollPay são fáceis e diretas - tanto para responder quanto para reivindicar os ganhos da pesquisa. \n\nSua opinião pode fazer a diferença nos produtos e serviços que você adora. Compartilhe sua opinião com pesquisas pagas com dinheiro real. Compartilhe suas idéias sobre novos produtos, anúncios, slogans ou até mesmo qual preço você acha que deveriam custar novos estilos de calçados de marcas internacionalmente conhecidas. Cadastre-se no PollPay agora gratuitamente! \n\nFAÇA PESQUISAS PAGAS\nConfira o PollPay, o aplicativo definitivo para ganhar dinheiro simplesmente compartilhando suas opiniões! Esteja você no telefone ou no computador, você pode preencher facilmente pesquisas e questionários divertidos para ganhar dinheiro ou cartões-presente grátis. Com uma vasta rede de parceiros de pesquisa de mercado, o PollPay conecta você às pesquisas mais bem pagas sobre tópicos como política, programas de TV, lanches e muito mais. Além disso, você pode até dar uma espiada nos novos produtos de grandes marcas!\nVocê pode resgatar seus ganhos do PollPay por dinheiro grátis do PayPal, cartões-presente grátis da Amazon ou cartões-presente para outras lojas e marcas populares como Apple, Target, Mastercard, Amex, Walmart, Starbucks, Home Depot, eBay e muito mais.\n\nVERIFIQUE TODAS AS OFERTAS DE GANHAR DINHEIRO RECÉM-ADICIONADAS \n\n-Seja pago por jogar no seu telefone! \n-Descubra novos produtos e serviços. Seja pago para instalar novos aplicativos gratuitos, inscrever-se em boletins informativos, experimentar amostras grátis e muito mais.\n\n\nIsenção de responsabilidade: o uso contínuo do GPS em segundo plano pode diminuir drasticamente a vida útil da bateria.",
+      "descriptionHTML": "Participe de pesquisas pagas, jogue, descubra novos produtos e saque!<br><br>PollPay é o aplicativo que paga pela sua opinião. Responda perguntas sobre dinheiro - em casa ou em trânsito. Onde quer que você vá e sempre que tiver liberdade, escolha uma pesquisa que pareça interessante para você, selecionando a duração, o tópico e o valor do prêmio ideais. As pesquisas PollPay são fáceis e diretas - tanto para responder quanto para reivindicar os ganhos da pesquisa. <br><br>Sua opinião pode fazer a diferença nos produtos e serviços que você adora. Compartilhe sua opinião com pesquisas pagas com dinheiro real. Compartilhe suas idéias sobre novos produtos, anúncios, slogans ou até mesmo qual preço você acha que deveriam custar novos estilos de calçados de marcas internacionalmente conhecidas. Cadastre-se no PollPay agora gratuitamente! <br><br>FAÇA PESQUISAS PAGAS<br>Confira o PollPay, o aplicativo definitivo para ganhar dinheiro simplesmente compartilhando suas opiniões! Esteja você no telefone ou no computador, você pode preencher facilmente pesquisas e questionários divertidos para ganhar dinheiro ou cartões-presente grátis. Com uma vasta rede de parceiros de pesquisa de mercado, o PollPay conecta você às pesquisas mais bem pagas sobre tópicos como política, programas de TV, lanches e muito mais. Além disso, você pode até dar uma espiada nos novos produtos de grandes marcas!<br>Você pode resgatar seus ganhos do PollPay por dinheiro grátis do PayPal, cartões-presente grátis da Amazon ou cartões-presente para outras lojas e marcas populares como Apple, Target, Mastercard, Amex, Walmart, Starbucks, Home Depot, eBay e muito mais.<br><br>VERIFIQUE TODAS AS OFERTAS DE GANHAR DINHEIRO RECÉM-ADICIONADAS <br><br>-Seja pago por jogar no seu telefone! <br>-Descubra novos produtos e serviços. Seja pago para instalar novos aplicativos gratuitos, inscrever-se em boletins informativos, experimentar amostras grátis e muito mais.<br><br><br>Isenção de responsabilidade: o uso contínuo do GPS em segundo plano pode diminuir drasticamente a vida útil da bateria.",
+      "summary": "Responda perguntas e receba pagamentos",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 19367965,
+      "score": 4.5400696,
+      "scoreText": "4,5",
+      "ratings": 1273597,
+      "reviews": 22264,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Estilo de vida",
+      "genreId": "LIFESTYLE",
+      "categories": [
+        {
+          "name": "Estilo de vida",
+          "id": "LIFESTYLE"
+        }
+      ],
+      "adSupported": true,
+      "appId": "net.bitburst.pollpay",
+      "url": "https://play.google.com/store/apps/details?id=net.bitburst.pollpay&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "WeWard - Caminhe e Ganhe",
+      "description": "Junte-se à comunidade WeWard e transforme suas caminhadas diárias! Prepare-se para se sentir mais motivado do que nunca enquanto ganha recompensas por cada passo dado.\n\nDesafie-se, suba de nível enquanto ultrapassa seus amigos no ranking e colete WeCards no nosso jogo de caça ao tesouro dentro do app. Converta seus 'Wards' em boas ações apoiando instituições de caridade, participando de sorteios com prêmios incríveis, solicitando transferências bancárias ou cartões-presente. Pronto para dar um novo sentido às suas caminhadas?\n\nPor que baixar WeWard?\n\nNOSSA MISSÃO\n\nCaminhar é uma forma de encontrar equilíbrio, e nossa missão é incentivar mais pessoas a caminhar pelo mundo! Por isso, desenvolvemos um aplicativo adequado para pessoas de todos os níveis e habilidades. Ao baixar WeWard, você se junta a mais de 20 milhões de WeWarders que estão tornando a caminhada uma parte mais divertida e gratificante de suas vidas, aumentando seu tempo de caminhada em 24%.\n\nCAMINHE & GANHE\n\nDe recompensas financeiras a conexões com sua comunidade e apoio a causas, WeWard oferece recompensas incríveis para incentivar a caminhada. Converta seus passos em transferências bancárias, doações para instituições de caridade, cartões-presente ou participe de sorteios. Seja recompensado por cada passo dado!\n\n\nGAMIFICAÇÃO + MOTIVAÇÃO\n\nWardy, nosso mascote, irá guiá-lo por uma série de desafios, incentivando-o constantemente a se superar. Aumente suas metas de passos diários e colete WeCards em nosso jogo de caça ao tesouro no aplicativo. Você explorará o mundo de uma nova maneira, dando um novo significado às suas caminhadas. Além disso, você poderá acompanhar suas principais conquistas à medida que se empenha em aumentar seus passos diariamente.\n\nCAMINHE (E COMPARE SEU PROGRESSO) COM SEUS AMIGOS\n\nForme uma equipe ou tente superar seus amigos e familiares no nosso ranking social. Não se preocupe, eles não vão julgar você pelos domingos de preguiça.\n\nOFERTAS EXCLUSIVAS DE PARCEIROS\n\nTemos parceria com algumas de suas marcas favoritas e várias outras que você terá a oportunidade de descobrir! Tenha acesso a ofertas especiais e opções de cashback, exclusivamente no aplicativo WeWard.\n\nO que você está esperando? Baixe o aplicativo WeWard e junte-se a mais de 20 milhões de WeWarders que estão tornando a caminhada uma parte mais divertida e gratificante de suas vidas! Se você tiver alguma dúvida ou feedback sobre o aplicativo, ficaremos felizes em ajudá-lo! Basta escrever para contact@wewardapp.com.",
+      "descriptionHTML": "Junte-se à comunidade WeWard e transforme suas caminhadas diárias! Prepare-se para se sentir mais motivado do que nunca enquanto ganha recompensas por cada passo dado.<br><br>Desafie-se, suba de nível enquanto ultrapassa seus amigos no ranking e colete WeCards no nosso jogo de caça ao tesouro dentro do app. Converta seus &#39;Wards&#39; em boas ações apoiando instituições de caridade, participando de sorteios com prêmios incríveis, solicitando transferências bancárias ou cartões-presente. Pronto para dar um novo sentido às suas caminhadas?<br><br>Por que baixar WeWard?<br><br>NOSSA MISSÃO<br><br>Caminhar é uma forma de encontrar equilíbrio, e nossa missão é incentivar mais pessoas a caminhar pelo mundo! Por isso, desenvolvemos um aplicativo adequado para pessoas de todos os níveis e habilidades. Ao baixar WeWard, você se junta a mais de 20 milhões de WeWarders que estão tornando a caminhada uma parte mais divertida e gratificante de suas vidas, aumentando seu tempo de caminhada em 24%.<br><br>CAMINHE &amp; GANHE<br><br>De recompensas financeiras a conexões com sua comunidade e apoio a causas, WeWard oferece recompensas incríveis para incentivar a caminhada. Converta seus passos em transferências bancárias, doações para instituições de caridade, cartões-presente ou participe de sorteios. Seja recompensado por cada passo dado!<br><br><br>GAMIFICAÇÃO + MOTIVAÇÃO<br><br>Wardy, nosso mascote, irá guiá-lo por uma série de desafios, incentivando-o constantemente a se superar. Aumente suas metas de passos diários e colete WeCards em nosso jogo de caça ao tesouro no aplicativo. Você explorará o mundo de uma nova maneira, dando um novo significado às suas caminhadas. Além disso, você poderá acompanhar suas principais conquistas à medida que se empenha em aumentar seus passos diariamente.<br><br>CAMINHE (E COMPARE SEU PROGRESSO) COM SEUS AMIGOS<br><br>Forme uma equipe ou tente superar seus amigos e familiares no nosso ranking social. Não se preocupe, eles não vão julgar você pelos domingos de preguiça.<br><br>OFERTAS EXCLUSIVAS DE PARCEIROS<br><br>Temos parceria com algumas de suas marcas favoritas e várias outras que você terá a oportunidade de descobrir! Tenha acesso a ofertas especiais e opções de cashback, exclusivamente no aplicativo WeWard.<br><br>O que você está esperando? Baixe o aplicativo WeWard e junte-se a mais de 20 milhões de WeWarders que estão tornando a caminhada uma parte mais divertida e gratificante de suas vidas! Se você tiver alguma dúvida ou feedback sobre o aplicativo, ficaremos felizes em ajudá-lo! Basta escrever para contact@wewardapp.com.",
+      "summary": "Transforme seus passos em recompensas",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 16441058,
+      "score": 4.5,
+      "scoreText": "4,5",
+      "ratings": 158565,
+      "reviews": 325,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.weward",
+      "url": "https://play.google.com/store/apps/details?id=com.weward&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Bonoxs",
+      "description": "Recargas, créditos e jogos para jogar sem limites.\n\nA BONOXS foi criada para facilitar a vida de quem joga. Se você quer comprar jogos digitais, recarregar sua conta para desbloquear skins, adquirir créditos virtuais ou acessar serviços digitais sem complicações, a BONOXS é o app certo para você.\n\nDentro da nossa loja, você encontra créditos digitais das principais plataformas e serviços, como PlayStation, Nintendo, Steam, Riot Games, iFood, Netflix, Free Fire e muito mais. Tudo reunido em um único app, pensado para gamers que valorizam praticidade, rapidez e controle.\n\nCom a BONOXS, você pode fazer recargas para jogos, adquirir créditos e pagar conteúdos digitais de forma simples e segura. A plataforma funciona como um verdadeiro hub gamer digital, onde você centraliza suas compras e pagamentos sem precisar usar vários sites ou aplicativos diferentes.\n\nOferecemos diversos métodos de pagamento locais, incluindo PIX, Boleto e Cartão de Crédito, garantindo um processo transparente e acessível para jogadores do Brasil. Todas as compras seguem padrões internacionais de cibersegurança, protegendo seus dados e garantindo tranquilidade em cada transação.\n\nNo app, você acompanha o status dos pedidos em tempo real, acessa seu histórico completo de compras e tem controle total sobre o que compra e quando paga. Seja no computador ou no celular, a experiência é intuitiva, rápida e pensada para o dia a dia dos gamers.\n\nTorneios gratuitos com prêmios\n\nNa BONOXS, você não apenas joga — você compete e ganha. Organizamos torneios gratuitos com prêmios exclusivos para a comunidade gamer. É a sua chance de mostrar habilidade, competir com outros jogadores e ainda concorrer a recompensas especiais, tudo dentro do ecossistema BONOXS.\n\nAlém de comprar e recarregar, você participa de uma comunidade ativa que valoriza competição, diversão e reconhecimento.\nPrecisa de créditos agora? Com a BONOXS, os créditos chegam na hora. Temos orgulho da nossa entrega imediata: seus códigos digitais são enviados para o e-mail em questão de segundos. Assim, você pode recarregar jogos, liberar aquela skin desejada ou garantir créditos enquanto escolhe seu próximo jogo.\n\nA BONOXS atende jogadores de diferentes estilos e jogos populares, oferecendo acesso rápido a conteúdos digitais usados diariamente por gamers. É a solução ideal para quem quer jogar sem interrupções e sem burocracia.\n\nCom a BONOXS, você pode:\n• Comprar créditos digitais\n• Recarregar saldo para jogos online\n• Comprar jogos digitais com rapidez\n• Adquirir conteúdos digitais\n• Controlar pedidos e histórico de compras\n• Com suas recargas de jogos, você acumula na balança possibilidades de ganhar mais créditos.\n\nSomos uma equipe formada por profissionais com ampla experiência em comércio eletrônico, videogames e serviços digitais. Amamos o que fazemos e estamos sempre evoluindo para oferecer uma experiência cada vez melhor aos jogadores.\n\nSe você procura um app confiável para comprar jogos, fazer recargas gaming e acessar serviços digitais no Brasil, a BONOXS é sua aliada.\n\nEntão… bora montar um lobby?\nBaixe a BONOXS e jogue do seu jeito, com mais liberdade, velocidade e controle.",
+      "descriptionHTML": "Recargas, créditos e jogos para jogar sem limites.<br><br>A BONOXS foi criada para facilitar a vida de quem joga. Se você quer comprar jogos digitais, recarregar sua conta para desbloquear skins, adquirir créditos virtuais ou acessar serviços digitais sem complicações, a BONOXS é o app certo para você.<br><br>Dentro da nossa loja, você encontra créditos digitais das principais plataformas e serviços, como PlayStation, Nintendo, Steam, Riot Games, iFood, Netflix, Free Fire e muito mais. Tudo reunido em um único app, pensado para gamers que valorizam praticidade, rapidez e controle.<br><br>Com a BONOXS, você pode fazer recargas para jogos, adquirir créditos e pagar conteúdos digitais de forma simples e segura. A plataforma funciona como um verdadeiro hub gamer digital, onde você centraliza suas compras e pagamentos sem precisar usar vários sites ou aplicativos diferentes.<br><br>Oferecemos diversos métodos de pagamento locais, incluindo PIX, Boleto e Cartão de Crédito, garantindo um processo transparente e acessível para jogadores do Brasil. Todas as compras seguem padrões internacionais de cibersegurança, protegendo seus dados e garantindo tranquilidade em cada transação.<br><br>No app, você acompanha o status dos pedidos em tempo real, acessa seu histórico completo de compras e tem controle total sobre o que compra e quando paga. Seja no computador ou no celular, a experiência é intuitiva, rápida e pensada para o dia a dia dos gamers.<br><br>Torneios gratuitos com prêmios<br><br>Na BONOXS, você não apenas joga — você compete e ganha. Organizamos torneios gratuitos com prêmios exclusivos para a comunidade gamer. É a sua chance de mostrar habilidade, competir com outros jogadores e ainda concorrer a recompensas especiais, tudo dentro do ecossistema BONOXS.<br><br>Além de comprar e recarregar, você participa de uma comunidade ativa que valoriza competição, diversão e reconhecimento.<br>Precisa de créditos agora? Com a BONOXS, os créditos chegam na hora. Temos orgulho da nossa entrega imediata: seus códigos digitais são enviados para o e-mail em questão de segundos. Assim, você pode recarregar jogos, liberar aquela skin desejada ou garantir créditos enquanto escolhe seu próximo jogo.<br><br>A BONOXS atende jogadores de diferentes estilos e jogos populares, oferecendo acesso rápido a conteúdos digitais usados diariamente por gamers. É a solução ideal para quem quer jogar sem interrupções e sem burocracia.<br><br>Com a BONOXS, você pode:<br>• Comprar créditos digitais<br>• Recarregar saldo para jogos online<br>• Comprar jogos digitais com rapidez<br>• Adquirir conteúdos digitais<br>• Controlar pedidos e histórico de compras<br>• Com suas recargas de jogos, você acumula na balança possibilidades de ganhar mais créditos.<br><br>Somos uma equipe formada por profissionais com ampla experiência em comércio eletrônico, videogames e serviços digitais. Amamos o que fazemos e estamos sempre evoluindo para oferecer uma experiência cada vez melhor aos jogadores.<br><br>Se você procura um app confiável para comprar jogos, fazer recargas gaming e acessar serviços digitais no Brasil, a BONOXS é sua aliada.<br><br>Então… bora montar um lobby?<br>Baixe a BONOXS e jogue do seu jeito, com mais liberdade, velocidade e controle.",
+      "summary": "Recargas rapidas, Torneios e pagamentos para seus jogos favoritos.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3595972,
+      "score": 4.899859,
+      "scoreText": "4,9",
+      "ratings": 49438,
+      "reviews": 913,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Compras",
+      "genreId": "SHOPPING",
+      "categories": [
+        {
+          "name": "Compras",
+          "id": "SHOPPING"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.bonoxs",
+      "url": "https://play.google.com/store/apps/details?id=com.bonoxs&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Smart-ID",
+      "description": "O Smart-ID é a maneira mais fácil, conveniente e segura de se autenticar online – verifique sua conta bancária online, acesse serviços eletrônicos e confirme transações.\n\nO Smart-ID permite-lhe atribuir assinaturas iguais às assinaturas manuscritas (exceto no nível Básico), o que cumpre os regulamentos da UE sobre assinaturas eletrónicas qualificadas.\n\nO Smart-ID está atualmente disponível para:\n- Residentes da Estónia, Letónia e Lituânia\n- Residentes eletrônicos da Estônia\n- Residentes na Bélgica\n\n\nFÁCIL\nComece baixando o aplicativo Smart-ID.\n\nSiga as etapas do aplicativo para confirmar sua identidade e concluir o processo de registro. Depois de fazer isso, você estará pronto – nenhuma outra confirmação é necessária!\n\nCONVENIENTE\nSeu Smart-ID está sempre ao seu alcance!\n\nVocê pode usar o Smart-ID em quantos dispositivos inteligentes desejar e obter acesso às suas contas online em todos eles, a qualquer hora e em qualquer lugar. O uso do Smart-ID é gratuito e totalmente ilimitado.\n\nSEGURO\n\nO aplicativo Smart-ID não armazena sua identidade ou códigos PIN. O aplicativo é usado para gerenciamento de chaves: ele cria suas chaves privadas durante o registro da conta e posteriormente medeia solicitações de autenticação e assinatura. A identidade do usuário é gerenciada de forma segura pelo provedor de serviços. Foi utilizada uma tecnologia neste produto para a qual a Cybernetica AS apresentou um pedido de patente ou uma patente foi concedida.\n\nExperimente o Smart-ID, visite portal.smart-id.com!",
+      "descriptionHTML": "O Smart-ID é a maneira mais fácil, conveniente e segura de se autenticar online – verifique sua conta bancária online, acesse serviços eletrônicos e confirme transações.<br><br>O Smart-ID permite-lhe atribuir assinaturas iguais às assinaturas manuscritas (exceto no nível Básico), o que cumpre os regulamentos da UE sobre assinaturas eletrónicas qualificadas.<br><br>O Smart-ID está atualmente disponível para:<br>- Residentes da Estónia, Letónia e Lituânia<br>- Residentes eletrônicos da Estônia<br>- Residentes na Bélgica<br><br><br>FÁCIL<br>Comece baixando o aplicativo Smart-ID.<br><br>Siga as etapas do aplicativo para confirmar sua identidade e concluir o processo de registro. Depois de fazer isso, você estará pronto – nenhuma outra confirmação é necessária!<br><br>CONVENIENTE<br>Seu Smart-ID está sempre ao seu alcance!<br><br>Você pode usar o Smart-ID em quantos dispositivos inteligentes desejar e obter acesso às suas contas online em todos eles, a qualquer hora e em qualquer lugar. O uso do Smart-ID é gratuito e totalmente ilimitado.<br><br>SEGURO<br><br>O aplicativo Smart-ID não armazena sua identidade ou códigos PIN. O aplicativo é usado para gerenciamento de chaves: ele cria suas chaves privadas durante o registro da conta e posteriormente medeia solicitações de autenticação e assinatura. A identidade do usuário é gerenciada de forma segura pelo provedor de serviços. Foi utilizada uma tecnologia neste produto para a qual a Cybernetica AS apresentou um pedido de patente ou uma patente foi concedida.<br><br>Experimente o Smart-ID, visite portal.smart-id.com!",
+      "summary": "Smart-ID - solução fácil, conveniente e segura para identificação eletrônica.",
+      "installs": "5.000.000+",
+      "minInstalls": 5000000,
+      "maxInstalls": 5570546,
+      "score": 4.5,
+      "scoreText": "4,5",
+      "ratings": 245882,
+      "reviews": 2,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Negócios",
+      "genreId": "BUSINESS",
+      "categories": [
+        {
+          "name": "Negócios",
+          "id": "BUSINESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.smart_id",
+      "url": "https://play.google.com/store/apps/details?id=com.smart_id&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}

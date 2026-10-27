@@ -1,0 +1,876 @@
+{
+  "meta": {
+    "collect_time": "2026-10-18T01:21:40.323Z",
+    "lang": "pt",
+    "country": "br",
+    "group": "TDAH",
+    "term": "jogos para tdah infantil",
+    "key": "jogos para tdah infantil",
+    "depth": 2,
+    "parent": "tdah jogos",
+    "result_count": 20,
+    "failed_app_ids": []
+  },
+  "apps": [
+    {
+      "title": "Lusha: TDAH Tarefas e Conduta",
+      "description": "Descubra o Lusha, um jogo imersivo para ajudar as crianças a fortalecer sua saúde mental e a se desenvolver (TDAH, transtornos de comportamento, gestão das emoções, ansiedade).  \n\nPARA VOCÊ, PAIS:\nLusha oferece um suporte concreto, integrando orientações baseadas em programas de saúde mental como o programa Barkley. Acesse ferramentas e informações essenciais para gerenciar de forma mais eficaz a saúde mental do seu filho.  \n\nAcompanhe e compartilhe seu progresso com profissionais de saúde por meio do painel do Lusha, facilitando a tomada de decisões informadas e promovendo uma abordagem colaborativa na gestão da sua saúde mental.  \n\nPARA SEU FILHO (6 a 12 anos):\nMergulhe-o em um universo cativante da selva, onde seu avatar encontra animais acolhedores que o ajudam a compreender melhor seus comportamentos, emoções e interações sociais, oferecendo conselhos práticos baseados em abordagens cognitivo-comportamentais.  \n\nLusha é um jogo de e-saúde que auxilia na gestão das rotinas diárias, no desenvolvimento de competências emocionais e habilidades sociais. O jogo se baseia na digitalização de módulos de terapia cognitivo-comportamental e no reforço positivo. As tarefas e mudanças de comportamento realizadas na \"vida real\" são associadas a recompensas no jogo para incentivá-las. Dessa forma, você pode valorizar pequenas mudanças do dia a dia que ajudam a fortalecer sua autoestima, autocontrole e interações sociais.  \n\nGerencie o tempo de tela de forma eficaz: Lusha limita as sessões de jogo conforme sua preferência. Você define um tempo máximo diário (por exemplo, 30 minutos). Quando esse tempo se esgota, o avatar do seu filho se cansa e precisa descansar, incentivando-o a fazer uma pausa.  \n\nUM APLICATIVO BASEADO NA CIÊNCIA:\nLusha foi desenvolvido em colaboração com pedopsiquiatras, psicólogos e famílias para garantir um jogo adaptado e eficaz. É uma ferramenta valiosa para auxiliá-lo na gestão da saúde mental do seu filho.  \n\nLusha é oferecido por meio de assinatura após um período de teste gratuito de 7 dias. \n\nTermos de uso: Saiba mais sobre nossos termos de uso visitando https://lusha.care/term_of_use.\n\nPolítica de privacidade: Leia nossa política de privacidade para entender como tratamos suas informações em https://lusha.care/privacy.",
+      "descriptionHTML": "Descubra o Lusha, um jogo imersivo para ajudar as crianças a fortalecer sua saúde mental e a se desenvolver (TDAH, transtornos de comportamento, gestão das emoções, ansiedade).  <br><br>PARA VOCÊ, PAIS:<br>Lusha oferece um suporte concreto, integrando orientações baseadas em programas de saúde mental como o programa Barkley. Acesse ferramentas e informações essenciais para gerenciar de forma mais eficaz a saúde mental do seu filho.  <br><br>Acompanhe e compartilhe seu progresso com profissionais de saúde por meio do painel do Lusha, facilitando a tomada de decisões informadas e promovendo uma abordagem colaborativa na gestão da sua saúde mental.  <br><br>PARA SEU FILHO (6 a 12 anos):<br>Mergulhe-o em um universo cativante da selva, onde seu avatar encontra animais acolhedores que o ajudam a compreender melhor seus comportamentos, emoções e interações sociais, oferecendo conselhos práticos baseados em abordagens cognitivo-comportamentais.  <br><br>Lusha é um jogo de e-saúde que auxilia na gestão das rotinas diárias, no desenvolvimento de competências emocionais e habilidades sociais. O jogo se baseia na digitalização de módulos de terapia cognitivo-comportamental e no reforço positivo. As tarefas e mudanças de comportamento realizadas na &quot;vida real&quot; são associadas a recompensas no jogo para incentivá-las. Dessa forma, você pode valorizar pequenas mudanças do dia a dia que ajudam a fortalecer sua autoestima, autocontrole e interações sociais.  <br><br>Gerencie o tempo de tela de forma eficaz: Lusha limita as sessões de jogo conforme sua preferência. Você define um tempo máximo diário (por exemplo, 30 minutos). Quando esse tempo se esgota, o avatar do seu filho se cansa e precisa descansar, incentivando-o a fazer uma pausa.  <br><br>UM APLICATIVO BASEADO NA CIÊNCIA:<br>Lusha foi desenvolvido em colaboração com pedopsiquiatras, psicólogos e famílias para garantir um jogo adaptado e eficaz. É uma ferramenta valiosa para auxiliá-lo na gestão da saúde mental do seu filho.  <br><br>Lusha é oferecido por meio de assinatura após um período de teste gratuito de 7 dias. <br><br>Termos de uso: Saiba mais sobre nossos termos de uso visitando https://lusha.care/term_of_use.<br><br>Política de privacidade: Leia nossa política de privacidade para entender como tratamos suas informações em https://lusha.care/privacy.",
+      "summary": "Jogo TDAH para crianças. Cria rotinas e ajuda no controlo da raiva e TOD.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 151843,
+      "score": 4.54,
+      "scoreText": "4,5",
+      "ratings": 1207,
+      "reviews": 23,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.Dygie.Lusha",
+      "url": "https://play.google.com/store/apps/details?id=com.Dygie.Lusha&hl=pt&gl=br",
+      "rank": 1
+    },
+    {
+      "title": "MemoKids: jogo da memória",
+      "description": "🎉 Bem-vindo ao MemoKids, um jogo da memória para crianças com animais adoráveis, mundos coloridos e atividades simples de associação, observação, contagem e memória. MemoKids combina o clássico jogo da memória com um Modo Aventura de 120 fases e quatro minijogos pensados para crianças.\n\n🔍 Como jogar?\nVire as cartas, lembre onde está cada figura e encontre todos os pares para completar o tabuleiro.\n\n🐾 Modo Clássico:\nEscolha um habitat e um nível de dificuldade. Jogue em ambientes como jardim, fazenda, floresta, selva, oceano e Ártico.\n\n🌟 Modo Aventura:\nExplore 120 fases com dificuldade progressiva. Descubra diferentes habitats e avance passo a passo no MemoKids.\n\n🎮 Minijogos:\nEm determinados momentos do Modo Aventura, você encontrará quatro minijogos com animais:\n• Combine cada figura com sua sombra.\n• Encontre as diferenças entre duas imagens.\n• Descubra qual figura está faltando.\n• Conte as figuras e escolha a resposta correta.\n\nEssas atividades usam interações simples e adequadas para crianças, com associação, observação, contagem e memória.\n\n🎁 Recompensas com figurinhas:\nJogue o Modo Aventura para desbloquear figurinhas de animais e completar aos poucos seu álbum.\n\n🚀 Por que escolher MemoKids?\n• Jogo de memória e jogo de pares com animais.\n• Controles simples e adequados para crianças.\n• Animais adoráveis e habitats coloridos.\n• Modo Clássico e Modo Aventura.\n• 120 fases.\n• Quatro minijogos diferentes.\n• Figurinhas para colecionar no Modo Aventura.\n• Vários níveis de dificuldade.\n\nMemoKids é um jogo infantil para crianças que gostam de jogos da memória, jogos de pares e atividades divertidas. Para famílias que procuram jogos infantis, o jogo reúne memória, pares e minijogos em uma experiência simples. Se a criança gosta de jogos de animais, há diferentes habitats e desafios para explorar.\n\nMemoKids é gratuito para jogar e contém anúncios. Uma compra opcional remove os anúncios. Baixe MemoKids e comece a combinar, explorar e colecionar figurinhas!",
+      "descriptionHTML": "🎉 Bem-vindo ao MemoKids, um jogo da memória para crianças com animais adoráveis, mundos coloridos e atividades simples de associação, observação, contagem e memória. MemoKids combina o clássico jogo da memória com um Modo Aventura de 120 fases e quatro minijogos pensados para crianças.<br><br><b>🔍 Como jogar?</b><br>Vire as cartas, lembre onde está cada figura e encontre todos os pares para completar o tabuleiro.<br><br>🐾 <b>Modo Clássico:</b><br>Escolha um habitat e um nível de dificuldade. Jogue em ambientes como jardim, fazenda, floresta, selva, oceano e Ártico.<br><br>🌟 <b>Modo Aventura:</b><br>Explore 120 fases com dificuldade progressiva. Descubra diferentes habitats e avance passo a passo no MemoKids.<br><br>🎮 <b>Minijogos:</b><br>Em determinados momentos do Modo Aventura, você encontrará quatro minijogos com animais:<br>• Combine cada figura com sua sombra.<br>• Encontre as diferenças entre duas imagens.<br>• Descubra qual figura está faltando.<br>• Conte as figuras e escolha a resposta correta.<br><br>Essas atividades usam interações simples e adequadas para crianças, com associação, observação, contagem e memória.<br><br>🎁 <b>Recompensas com figurinhas:</b><br>Jogue o Modo Aventura para desbloquear figurinhas de animais e completar aos poucos seu álbum.<br><br><b>🚀 Por que escolher MemoKids?</b><br>• Jogo de memória e jogo de pares com animais.<br>• Controles simples e adequados para crianças.<br>• Animais adoráveis e habitats coloridos.<br>• Modo Clássico e Modo Aventura.<br>• 120 fases.<br>• Quatro minijogos diferentes.<br>• Figurinhas para colecionar no Modo Aventura.<br>• Vários níveis de dificuldade.<br><br>MemoKids é um jogo infantil para crianças que gostam de jogos da memória, jogos de pares e atividades divertidas. Para famílias que procuram jogos infantis, o jogo reúne memória, pares e minijogos em uma experiência simples. Se a criança gosta de jogos de animais, há diferentes habitats e desafios para explorar.<br><br>MemoKids é gratuito para jogar e contém anúncios. Uma compra opcional remove os anúncios. Baixe MemoKids e comece a combinar, explorar e colecionar figurinhas!",
+      "summary": "Jogo da memória infantil com animais, 120 fases, minijogos e figurinhas.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 1031128,
+      "score": 4.6969695,
+      "scoreText": "4,7",
+      "ratings": 10259,
+      "reviews": 200,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Quebra-cabeças",
+      "genreId": "GAME_PUZZLE",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Combinação de pares",
+          "id": null
+        },
+        {
+          "name": "Memória",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Light-hearted",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.monkeygames.memorykidsanimals",
+      "url": "https://play.google.com/store/apps/details?id=com.monkeygames.memorykidsanimals&hl=pt&gl=br",
+      "rank": 2
+    },
+    {
+      "title": "Lira - TDAH & Autismo Feminino",
+      "description": "Suporte para mulheres com TDAH ou autismo\n\nA Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.\n\nMuitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.\n\nA Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.\n\nDesenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.\n\nMuitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.\n\nO que você pode fazer com a Lira:\n\n• Registrar sua energia e capacidade diariamente\n• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual\n• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento\n• Receber recomendações personalizadas com base nos seus registros\n• Reconhecer sinais precoces de burnout e sobrecarga\n• Explorar a relação entre TDAH, autismo e flutuações hormonais\n• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial\n\nMundo Interior: aprender através da experiência\n\nO Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.\n\nCriada para a vida real\n\nA Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.\n\nCriada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.\n\nEste aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.\n\nEstamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "descriptionHTML": "Suporte para mulheres com TDAH ou autismo<br><br>A Lira é um aplicativo criado para mulheres com TDAH, autismo ou suspeita de neurodivergência que querem entender melhor seus padrões de energia, reduzir a sobrecarga e viver de forma mais alinhada consigo mesmas.<br><br>Muitas mulheres só descobrem o TDAH ou o autismo na vida adulta — depois de anos tentando acompanhar um mundo que exige mais energia do que elas realmente têm.<br><br>A Lira não é sobre produtividade nem sobre “consertar” você. É sobre entender como sua energia funciona.<br><br>Desenvolvida por neuropsicólogas clínicas em conjunto com mulheres neurodivergentes, a Lira ajuda você a perceber o que drena e o que restaura sua energia, oferecendo recomendações personalizadas e práticas para apoiar o seu dia a dia.<br><br>Muitas mulheres com TDAH ou autismo vivem em constante “dívida de energia”, sentindo-se cansadas, sobrecarregadas, emocionalmente intensas ou desconectadas do próprio corpo sem entender exatamente por quê. A Lira ajuda a tornar esses padrões mais visíveis — incluindo como o ciclo menstrual pode influenciar a energia, o foco e a regulação emocional.<br><br>O que você pode fazer com a Lira:<br><br>• Registrar sua energia e capacidade diariamente<br>• Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual<br>• Entender como sono, emoções, rotinas e atividades influenciam seu funcionamento<br>• Receber recomendações personalizadas com base nos seus registros<br>• Reconhecer sinais precoces de burnout e sobrecarga<br>• Explorar a relação entre TDAH, autismo e flutuações hormonais<br>• Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial<br><br>Mundo Interior: aprender através da experiência<br><br>O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades, no seu próprio ritmo. É um espaço para reconhecer padrões, ganhar linguagem para o que você sente e se compreender sem culpa.<br><br>Criada para a vida real<br><br>A Lira não foi criada para que você se adapte a um padrão. Foi criada para ajudar você a entender como funciona — especialmente se você é uma mulher com TDAH, autismo ou perfil AuDHD que mascara, acumula cansaço e quer sair do modo de sobrevivência.<br><br>Criada por profissionais com experiência clínica em TDAH, autismo feminino e avaliação neuropsicológica.<br><br>Este aplicativo não substitui avaliação clínica nem constitui um instrumento de diagnóstico.<br><br>Estamos construindo a Lira com cuidado e ouvindo atentamente o seu feedback.",
+      "summary": "Energia e apoio diário para mulheres com TDAH e autismo",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 10051,
+      "score": 4.4666667,
+      "scoreText": "4,5",
+      "ratings": 80,
+      "reviews": 7,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "url": "https://play.google.com/store/apps/details?id=com.hugomeninoaguiar.mymobileapp&hl=pt&gl=br",
+      "rank": 3
+    },
+    {
+      "title": "Jade - Aprender Brincando",
+      "description": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.\nEnquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.\n\n🌟 Aprendizagem ativa em mundos temáticos\n\nOs jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.\n\n🎧 Experiência sonora e linguagem acessível\nAo tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.\n\n🎮 Jogos adaptativos\n\nO Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:\n\n• Pareamento e associação\n• Memória visual e auditiva\n• Completar figuras\n• Reconhecimento de formas e letras\n• Desafios cognitivos progressivos\nCom interface simples, toque intuitivo e imagens do cotidiano.\n\n🧩 Conteúdos multimídia\n\nInclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.\n\n👨‍👩‍👧 Para quem é o Jade App\n\nIdeal para:\n\n• Famílias\n• Professores e educadores\n• Psicopedagogos e terapeutas\n• Escolas públicas e privadas\n• Crianças e adolescentes que precisam de apoio cognitivo estruturado\nRecomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.\n\n📊 Recursos para adultos\n\nAcompanhe indicadores como:\n\n• Desempenho e evolução\n• Atenção e motivação\n• Impulsividade\n• Padrões motores\n• Habilidades cognitivas estimuladas\n\nOs relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.\n\n🔒 Seguro e sem anúncios\n\nO Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.\n\n🌍 Multilíngue\n\nDisponível em Português, Inglês e futuramente Espanhol e Árabe.\n\n💻 Onde usar\n\nO Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.\n\nDúvidas e suporte: contato@jadend.tech\nSaiba mais: https://jadend.tech\nInstagram: @jadendbr",
+      "descriptionHTML": "O Jade App é uma plataforma de aprendizagem criada para apoiar o desenvolvimento de crianças e adolescentes neurodivergentes — incluindo autismo (TEA), TDAH, dislexia, discalculia, Síndrome de Down e outras condições do neurodesenvolvimento. Também é indicado para estudantes que aprendem melhor por meio de experiências visuais, sonoras e interativas.<br>Enquanto as crianças jogam e exploram mundos temáticos, pais, responsáveis, educadores e terapeutas podem acompanhar o progresso por meio de relatórios e indicadores que tornam o acompanhamento mais claro e assertivo.<br><br>🌟 Aprendizagem ativa em mundos temáticos<br><br>Os jogos do Jade App estimulam habilidades como atenção, memória, raciocínio lógico, flexibilidade cognitiva e reconhecimento emocional. Explore temas como Emoções, Animais, Alimentos, Formas, Cores, Letras, Números e muito mais.<br><br>🎧 Experiência sonora e linguagem acessível<br>Ao tocar nas imagens, o estudante ouve a palavra correspondente — facilitando o reconhecimento auditivo, a ampliação de vocabulário e o uso de comunicação alternativa.<br><br>🎮 Jogos adaptativos<br><br>O Jade App ajusta a dificuldade conforme o desempenho, oferecendo uma experiência individualizada. São mais de 3.000 atividades, incluindo:<br><br>• Pareamento e associação<br>• Memória visual e auditiva<br>• Completar figuras<br>• Reconhecimento de formas e letras<br>• Desafios cognitivos progressivos<br>Com interface simples, toque intuitivo e imagens do cotidiano.<br><br>🧩 Conteúdos multimídia<br><br>Inclui vídeos exclusivos com personagens e conteúdos educativos que tornam o aprendizado mais motivador.<br><br>👨‍👩‍👧 Para quem é o Jade App<br><br>Ideal para:<br><br>• Famílias<br>• Professores e educadores<br>• Psicopedagogos e terapeutas<br>• Escolas públicas e privadas<br>• Crianças e adolescentes que precisam de apoio cognitivo estruturado<br>Recomendado para estudantes com desafios em atenção, linguagem, memória, percepção visual e reconhecimento emocional.<br><br>📊 Recursos para adultos<br><br>Acompanhe indicadores como:<br><br>• Desempenho e evolução<br>• Atenção e motivação<br>• Impulsividade<br>• Padrões motores<br>• Habilidades cognitivas estimuladas<br><br>Os relatórios ajudam no planejamento pedagógico e terapêutico, facilitando a comunicação entre família, escola e clínicas.<br><br>🔒 Seguro e sem anúncios<br><br>O Jade App é livre de propagandas, prioriza privacidade e segue diretrizes recomendadas para aplicações usadas por crianças.<br><br>🌍 Multilíngue<br><br>Disponível em Português, Inglês e futuramente Espanhol e Árabe.<br><br>💻 Onde usar<br><br>O Jade App pode ser utilizado em casa, na escola, em consultórios e em sessões terapêuticas.<br><br>Dúvidas e suporte: contato@jadend.tech<br>Saiba mais: https://jadend.tech<br>Instagram: @jadendbr",
+      "summary": "Aprendizagem inclusiva com jogos cognitivos.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 171763,
+      "score": 3.34,
+      "scoreText": "3,3",
+      "ratings": 326,
+      "reviews": 127,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jadeautism.jadeautism",
+      "url": "https://play.google.com/store/apps/details?id=com.jadeautism.jadeautism&hl=pt&gl=br",
+      "rank": 4
+    },
+    {
+      "title": "Propel: TDAH Jogo da Memoria",
+      "description": "Avaliado com 4,8 estrelas no mundo todo. +100.000 downloads. Feito por pessoas com TDAH, para pessoas com TDAH.\n\nTDAH não é preguiça. O Propel é o app de TDAH (ADHD) criado para funcionar com o seu cérebro, e não contra ele, com jogos divertidos desenvolvidos junto com psicólogos e construídos em torno do que você quer mudar.\n\nDificuldade para manter o foco nas tarefas? Esquece as coisas com facilidade? Começa projetos que nunca termina? O Propel transforma essas batalhas diárias em vitórias rápidas e recompensadoras.\n\nTREINAMENTO CEREBRAL PARA TDAH FOCADO NOS SEUS OBJETIVOS\nA maioria dos apps de treinamento cerebral trata todos os cérebros da mesma forma. O Propel parte dos seus objetivos e conecta a eles mais de 20 jogos mentais de inteligência, memória e lógica:\n• Melhorar seu foco com jogos que aguçam a atenção e silenciam as distrações\n• Melhorar sua memória com jogo da memória e desafios de recordação que ajudam a fixar o que você aprende\n• Vencer a procrastinação com jogos curtos de raciocínio lógico que tornam mais fácil começar\n• Lidar melhor com o estresse: jogos calmos e tranquilos que aliviam momentos de ansiedade\n• Reduzir sua impulsividade com jogos de reação que treinam o autocontrole\n• Prestar mais atenção aos detalhes com desafios inteligentes que apuram seu olhar\n\nUM PLANO DIÁRIO QUE ENTENDE VOCÊ\nConte sobre você em uma autoavaliação rápida inspirada no ASRS, um teste de TDAH amplamente usado. O Propel então monta seu treino diário personalizado, com jogos rápidos pensados para cérebros com TDAH. Cada jogo leva cerca de 2 minutos, funciona offline e adapta a dificuldade conforme você evolui.\n\nACOMPANHE SUA EVOLUÇÃO\n• Veja seu progresso em cada objetivo que você escolheu, do foco ao estresse\n• Mantenha sequências e colecione mais de 60 medalhas ao atingir marcos\n• Compare suas pontuações com pessoas do seu nível\n\nTREINE PESADO, RELAXE LEVE\nDia longo? Abra nossos jogos relaxantes para um momento de calma. Quebra-cabeças antiestresse e desafios tranquilos ajudam você a desacelerar, soltar a ansiedade e desligar antes de dormir.\n\nPOR QUE O PROPEL\nA maioria dos apps espera que você se adapte a eles. O Propel se adapta a você. As sessões são curtas, o feedback é instantâneo e não existe culpa quando a vida atravessa o caminho. Nós mesmos somos adultos com TDAH e criamos o treinamento cerebral que sempre quisemos: um que combina com o jeito como a sua mente realmente funciona.\n\nJunte-se a +100.000 pessoas treinando a mente com o Propel. Baixe hoje e transforme distração em ação.\n\nO Propel oferece um teste grátis com acesso completo a todos os jogos, totalmente sem anúncios. Se você optar por assinar, o pagamento será cobrado na sua conta do Google Play na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Você pode gerenciar sua assinatura e cancelar a qualquer momento nas configurações de assinatura do Google Play.\n\nTermos de Serviço: https://www.propeladhd.com/terms-of-service\nPolítica de Privacidade: https://www.propeladhd.com/privacy-policy\nSuporte: support@neuronwizard.com",
+      "descriptionHTML": "Avaliado com 4,8 estrelas no mundo todo. +100.000 downloads. Feito por pessoas com TDAH, para pessoas com TDAH.<br><br>TDAH não é preguiça. O Propel é o app de TDAH (ADHD) criado para funcionar com o seu cérebro, e não contra ele, com jogos divertidos desenvolvidos junto com psicólogos e construídos em torno do que você quer mudar.<br><br>Dificuldade para manter o foco nas tarefas? Esquece as coisas com facilidade? Começa projetos que nunca termina? O Propel transforma essas batalhas diárias em vitórias rápidas e recompensadoras.<br><br>TREINAMENTO CEREBRAL PARA TDAH FOCADO NOS SEUS OBJETIVOS<br>A maioria dos apps de treinamento cerebral trata todos os cérebros da mesma forma. O Propel parte dos seus objetivos e conecta a eles mais de 20 jogos mentais de inteligência, memória e lógica:<br>• Melhorar seu foco com jogos que aguçam a atenção e silenciam as distrações<br>• Melhorar sua memória com jogo da memória e desafios de recordação que ajudam a fixar o que você aprende<br>• Vencer a procrastinação com jogos curtos de raciocínio lógico que tornam mais fácil começar<br>• Lidar melhor com o estresse: jogos calmos e tranquilos que aliviam momentos de ansiedade<br>• Reduzir sua impulsividade com jogos de reação que treinam o autocontrole<br>• Prestar mais atenção aos detalhes com desafios inteligentes que apuram seu olhar<br><br>UM PLANO DIÁRIO QUE ENTENDE VOCÊ<br>Conte sobre você em uma autoavaliação rápida inspirada no ASRS, um teste de TDAH amplamente usado. O Propel então monta seu treino diário personalizado, com jogos rápidos pensados para cérebros com TDAH. Cada jogo leva cerca de 2 minutos, funciona offline e adapta a dificuldade conforme você evolui.<br><br>ACOMPANHE SUA EVOLUÇÃO<br>• Veja seu progresso em cada objetivo que você escolheu, do foco ao estresse<br>• Mantenha sequências e colecione mais de 60 medalhas ao atingir marcos<br>• Compare suas pontuações com pessoas do seu nível<br><br>TREINE PESADO, RELAXE LEVE<br>Dia longo? Abra nossos jogos relaxantes para um momento de calma. Quebra-cabeças antiestresse e desafios tranquilos ajudam você a desacelerar, soltar a ansiedade e desligar antes de dormir.<br><br>POR QUE O PROPEL<br>A maioria dos apps espera que você se adapte a eles. O Propel se adapta a você. As sessões são curtas, o feedback é instantâneo e não existe culpa quando a vida atravessa o caminho. Nós mesmos somos adultos com TDAH e criamos o treinamento cerebral que sempre quisemos: um que combina com o jeito como a sua mente realmente funciona.<br><br>Junte-se a +100.000 pessoas treinando a mente com o Propel. Baixe hoje e transforme distração em ação.<br><br>O Propel oferece um teste grátis com acesso completo a todos os jogos, totalmente sem anúncios. Se você optar por assinar, o pagamento será cobrado na sua conta do Google Play na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do fim do período atual. Você pode gerenciar sua assinatura e cancelar a qualquer momento nas configurações de assinatura do Google Play.<br><br>Termos de Serviço: https://www.propeladhd.com/terms-of-service<br>Política de Privacidade: https://www.propeladhd.com/privacy-policy<br>Suporte: support@neuronwizard.com",
+      "summary": "Jogos de Memória para Adultos",
+      "installs": "50.000+",
+      "minInstalls": 50000,
+      "maxInstalls": 65178,
+      "score": 4.84,
+      "scoreText": "4,8",
+      "ratings": 1000,
+      "reviews": 18,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.jupys.brain",
+      "url": "https://play.google.com/store/apps/details?id=com.jupys.brain&hl=pt&gl=br",
+      "rank": 5
+    },
+    {
+      "title": "Jogos Lógica Infantil: Cérebro",
+      "description": "Seu pequeno merece um tempo de tela que realmente vale a pena. Jogos de Lógica Infantil tem 36 joguinhos com tema de animais feitos pra crianças de 3 a 6 anos — onde cada toque, cada pulo e cada quebra-cabeça constrói habilidades de verdade enquanto eles se divertem.\n\nSem assinaturas que não acabam nunca. Sem propaganda interrompendo seu filho no meio do jogo. Só uma coleção grandona e colorida de jogos educativos prontos pra jogar a qualquer hora, em qualquer lugar — até sem internet.\n\n\n🟠 MEXE & BRINCA — 12 Jogos de Ação\n\nJogos divertidos que fazem os dedinhos se mexerem rapidinho. Seus filhos podem fazer cestas no Basquete, correr e coletar estrelas na Corrida da Raposa, disputar com outros carros na Corrida de Carros, pular num trampolim e estourar balões, jogar bolas em alvos que se movem, pegar rosquinhas antes que as pimentas te peguem no Duelo de Rosquinhas, desviar e arremessar na Queimada, subir em postes desviando de coisas que caem lá de cima, girar e aterrissar nas plataformas no Toque Gira Pula, e acertar o momento certo de cair no Gato Desastrado. São aqueles jogos que seu filho não vai querer largar de jeito nenhum.\n\n\n🟢 PENSA & RESOLVE — 12 Jogos de Raciocínio & Quebra-cabeças\n\nJogos de lógica que fazem as crianças pensarem sem perceber que estão aprendendo. Mova blocos de bichinhos pra limpar o tabuleiro em mais de 100 fases, separe as cores nas almofadas certas, resolva tangrams, deslize e gire anéis pra combinar padrões, coloque objetos como espelho na Simetria, colete números em ordem, organize elementos nos cilindros certos, desenhe formas movendo pontinhos no Quebra-cabeça de Linhas, e nade por um labirinto submarino como um polvo. Os quebra-cabeças começam fáceis pra crianças de 3 anos e vão ficando bem desafiadores pra quem tem 6 — então seu filho sempre tem algo novo pra quebrar a cabeça.\n\n\n🔵 CRIA & CUIDA — 12 Atividades de Aprendizado\n\nJogos criativos onde as crianças constroem, se fantasiam, cozinham e cuidam de animais. Construa uma casinha de cachorro passo a passo, vista um ursinho de médico ou bombeiro, cultive uma plantinha da semente até a flor, faça uma pizza do zero, crie músicas misturando sons engraçados de bichinhos, conheça profissões escolhendo as ferramentas certas, separe passarinhos coloridos mandando pro lado certo, vá pescar de um barquinho, dê banho e limpe um amiguinho animal todo sujo, e faça cócegas num hamster até ele não conseguir parar de rir. Essas atividades acendem a imaginação e ensinam habilidades do dia a dia brincando.\n\n\n🧠 O QUE SEU FILHO REALMENTE APRENDE\n\nCada jogo tem um objetivo por trás da diversão. Brincando, seu pequeno desenvolve naturalmente:\n• Resolução de problemas e raciocínio lógico\n• Coordenação olho-mão e habilidades motoras\n• Reconhecimento de cores e padrões\n• Memória, foco e concentração\n• Criatividade e imaginação\n• Classificação, sequência e tomada de decisão\n\nA melhor parte? Eles acham que estão só brincando.\n\n\n👨‍👩‍👧 POR QUE OS PAIS ESCOLHEM ESSE APP\n\n✅ 36 jogos de verdade — não é o mesmo jogo com cara nova repetido 12 vezes\n✅ Três categorias bem claras pra você saber o que seu filho tá jogando\n✅ Personagens de bichinhos fofos em cada jogo\n✅ Níveis de dificuldade que crescem junto com seu filho de 3 a 6 anos\n✅ Funciona sem internet — perfeito pro carro e pra sala de espera\n✅ Seguro e simples pras mãozinhas usarem sozinhas\n✅ Jogos educativos e jogos divertidos juntos num app só\n\nSeja seu filho de 3 aninhos tocando no primeiro quebra-cabeça ou de 6 tentando bater o próprio recorde — Jogos de Lógica Infantil dá pro seu filho uma variedade de verdade. É o tipo de app educativo que você se sente bem de verdade em entregar na mãozinha do seu pequeno.\n\nBaixe Jogos de Lógica Infantil e deixe seu filho brincar, aprender e crescer — um jogo de cada vez.",
+      "descriptionHTML": "Seu pequeno merece um tempo de tela que realmente vale a pena. Jogos de Lógica Infantil tem 36 joguinhos com tema de animais feitos pra crianças de 3 a 6 anos — onde cada toque, cada pulo e cada quebra-cabeça constrói habilidades de verdade enquanto eles se divertem.<br><br>Sem assinaturas que não acabam nunca. Sem propaganda interrompendo seu filho no meio do jogo. Só uma coleção grandona e colorida de jogos educativos prontos pra jogar a qualquer hora, em qualquer lugar — até sem internet.<br><br><br>🟠 MEXE &amp; BRINCA — 12 Jogos de Ação<br><br>Jogos divertidos que fazem os dedinhos se mexerem rapidinho. Seus filhos podem fazer cestas no Basquete, correr e coletar estrelas na Corrida da Raposa, disputar com outros carros na Corrida de Carros, pular num trampolim e estourar balões, jogar bolas em alvos que se movem, pegar rosquinhas antes que as pimentas te peguem no Duelo de Rosquinhas, desviar e arremessar na Queimada, subir em postes desviando de coisas que caem lá de cima, girar e aterrissar nas plataformas no Toque Gira Pula, e acertar o momento certo de cair no Gato Desastrado. São aqueles jogos que seu filho não vai querer largar de jeito nenhum.<br><br><br>🟢 PENSA &amp; RESOLVE — 12 Jogos de Raciocínio &amp; Quebra-cabeças<br><br>Jogos de lógica que fazem as crianças pensarem sem perceber que estão aprendendo. Mova blocos de bichinhos pra limpar o tabuleiro em mais de 100 fases, separe as cores nas almofadas certas, resolva tangrams, deslize e gire anéis pra combinar padrões, coloque objetos como espelho na Simetria, colete números em ordem, organize elementos nos cilindros certos, desenhe formas movendo pontinhos no Quebra-cabeça de Linhas, e nade por um labirinto submarino como um polvo. Os quebra-cabeças começam fáceis pra crianças de 3 anos e vão ficando bem desafiadores pra quem tem 6 — então seu filho sempre tem algo novo pra quebrar a cabeça.<br><br><br>🔵 CRIA &amp; CUIDA — 12 Atividades de Aprendizado<br><br>Jogos criativos onde as crianças constroem, se fantasiam, cozinham e cuidam de animais. Construa uma casinha de cachorro passo a passo, vista um ursinho de médico ou bombeiro, cultive uma plantinha da semente até a flor, faça uma pizza do zero, crie músicas misturando sons engraçados de bichinhos, conheça profissões escolhendo as ferramentas certas, separe passarinhos coloridos mandando pro lado certo, vá pescar de um barquinho, dê banho e limpe um amiguinho animal todo sujo, e faça cócegas num hamster até ele não conseguir parar de rir. Essas atividades acendem a imaginação e ensinam habilidades do dia a dia brincando.<br><br><br>🧠 O QUE SEU FILHO REALMENTE APRENDE<br><br>Cada jogo tem um objetivo por trás da diversão. Brincando, seu pequeno desenvolve naturalmente:<br>• Resolução de problemas e raciocínio lógico<br>• Coordenação olho-mão e habilidades motoras<br>• Reconhecimento de cores e padrões<br>• Memória, foco e concentração<br>• Criatividade e imaginação<br>• Classificação, sequência e tomada de decisão<br><br>A melhor parte? Eles acham que estão só brincando.<br><br><br>👨‍👩‍👧 POR QUE OS PAIS ESCOLHEM ESSE APP<br><br>✅ 36 jogos de verdade — não é o mesmo jogo com cara nova repetido 12 vezes<br>✅ Três categorias bem claras pra você saber o que seu filho tá jogando<br>✅ Personagens de bichinhos fofos em cada jogo<br>✅ Níveis de dificuldade que crescem junto com seu filho de 3 a 6 anos<br>✅ Funciona sem internet — perfeito pro carro e pra sala de espera<br>✅ Seguro e simples pras mãozinhas usarem sozinhas<br>✅ Jogos educativos e jogos divertidos juntos num app só<br><br>Seja seu filho de 3 aninhos tocando no primeiro quebra-cabeça ou de 6 tentando bater o próprio recorde — Jogos de Lógica Infantil dá pro seu filho uma variedade de verdade. É o tipo de app educativo que você se sente bem de verdade em entregar na mãozinha do seu pequeno.<br><br>Baixe Jogos de Lógica Infantil e deixe seu filho brincar, aprender e crescer — um jogo de cada vez.",
+      "summary": "36 jogos educativos crianças 3-6 anos: animais, memória, vestir, quebra-cabeça",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 33427,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iabuzz.kidslogicfun",
+      "url": "https://play.google.com/store/apps/details?id=com.iabuzz.kidslogicfun&hl=pt&gl=br",
+      "rank": 6
+    },
+    {
+      "title": "Jogos de Bebê 1-3 Educativos",
+      "description": "Com este jogo, o tempo de ecrã transforma-se numa experiência calma e positiva para o bebê. Estes jogos educativos foram pensados para oferecer joguinhos simples, seguros e envolventes, onde cada jogo de bebê ajuda a aprender brincando. A app reúne jogos claros e intuitivos para que o bebê explore cores, números, formas e sons ao seu próprio ritmo.\nO que há dentro dos jogos de bebê\nJoguinhos para bebê: pequenos jogos e joguinhos com toques simples, ideais para mãos pequenas; cada jogo de bebê foi criado para despertar curiosidade e atenção.\nJogos educativos: uma coleção de jogos educativos que ajudam o bebê e o bebe a reconhecer cores, números e padrões básicos.\nJogos de colorir e pintar: jogo pintar, jogos de colorir e jogo para colorir com pintura infantil, incentivando criatividade e coordenação.\nMúsica e piano: jogo de piano e jogos de musica suaves, onde o bebê descobre sons e ritmo de forma relaxante.\nNúmeros e lógica: jogo de matemática, ler e contar e jogo da memória infantil para apoiar o pensamento inicial.\nABC e linguagem: atividades com abc e aprender a ler, pensadas para o início da linguagem.\nJogos por idade\nPara bebê e bebe: bebe jogo, jogo bebe e jogo para bebe com ritmo calmo e interações simples.\n2 anos: jogo 2 anos, jogos 2 anos, jogos para 2 anos e jogo infantil 2 anos com formas, cores e sons.\n3 anos: jogo 3 anos, jogos 3 anos, jogo crianca 3 anos e jogos criancas 3 anos com desafios leves.\n4 anos: jogo 4 anos, jogos 4 anos, jogo infantil 4 anos e jogos criancas 4 anos com mais lógica e memória.\n5 anos: jogo crianca 5 anos e jogos criancas 5 anos para quem quer um pouco mais de desafio.\nAprender brincando\nEstes jogos educativos ajudam o bebê, o bebe e a crianca a aprender com calma. Cada jogo educativo foi criado para apoiar o desenvolvimento inicial, combinando jogos infantis, jogo infantil e joguinhos adequados à pré escola. Inclui também jogos de criança, jogos de crianca, jogo de crianca e jogo para criança, sempre adaptados à idade.\nPara meninas e meninos\nOs jogos são pensados para jogos para meninas e meninos, com temas neutros e amigáveis. Há jogos de menino, atividades criativas e desafios simples que agradam a todos.\nPor que escolher este jogo de bebê\nSeguro e tranquilo: ideal para meu bebe, com jogos para bebês e jogos de bebe sem pressa.\nFácil de usar: cada jogo é intuitivo, permitindo que o bebê explore sozinho.\nEducativo: combina jogos educativos, jogos infantis e jogo educativo num só lugar.\nCompleto: reúne jogos para crianças, jogos para criancas, jogos crianca e jogos de criancas numa experiência contínua.\nEste jogo de bebê foi criado para acompanhar o bebê, os bebês e o bebe desde os primeiros toques até à pré escola, oferecendo jogos calmos, educativos e cheios de descobertas",
+      "descriptionHTML": "Com este jogo, o tempo de ecrã transforma-se numa experiência calma e positiva para o bebê. Estes jogos educativos foram pensados para oferecer joguinhos simples, seguros e envolventes, onde cada jogo de bebê ajuda a aprender brincando. A app reúne jogos claros e intuitivos para que o bebê explore cores, números, formas e sons ao seu próprio ritmo.<br><b>O que há dentro dos jogos de bebê</b><br><b>Joguinhos para bebê:</b> pequenos jogos e joguinhos com toques simples, ideais para mãos pequenas; cada jogo de bebê foi criado para despertar curiosidade e atenção.<br><b>Jogos educativos:</b> uma coleção de jogos educativos que ajudam o bebê e o bebe a reconhecer cores, números e padrões básicos.<br><b>Jogos de colorir e pintar:</b> jogo pintar, jogos de colorir e jogo para colorir com pintura infantil, incentivando criatividade e coordenação.<br><b>Música e piano:</b> jogo de piano e jogos de musica suaves, onde o bebê descobre sons e ritmo de forma relaxante.<br><b>Números e lógica:</b> jogo de matemática, ler e contar e jogo da memória infantil para apoiar o pensamento inicial.<br><b>ABC e linguagem:</b> atividades com abc e aprender a ler, pensadas para o início da linguagem.<br><b>Jogos por idade</b><br><b>Para bebê e bebe:</b> bebe jogo, jogo bebe e jogo para bebe com ritmo calmo e interações simples.<br><b>2 anos:</b> jogo 2 anos, jogos 2 anos, jogos para 2 anos e jogo infantil 2 anos com formas, cores e sons.<br><b>3 anos:</b> jogo 3 anos, jogos 3 anos, jogo crianca 3 anos e jogos criancas 3 anos com desafios leves.<br><b>4 anos:</b> jogo 4 anos, jogos 4 anos, jogo infantil 4 anos e jogos criancas 4 anos com mais lógica e memória.<br><b>5 anos:</b> jogo crianca 5 anos e jogos criancas 5 anos para quem quer um pouco mais de desafio.<br><b>Aprender brincando</b><br>Estes jogos educativos ajudam o bebê, o bebe e a crianca a aprender com calma. Cada jogo educativo foi criado para apoiar o desenvolvimento inicial, combinando jogos infantis, jogo infantil e joguinhos adequados à pré escola. Inclui também jogos de criança, jogos de crianca, jogo de crianca e jogo para criança, sempre adaptados à idade.<br><b>Para meninas e meninos</b><br>Os jogos são pensados para jogos para meninas e meninos, com temas neutros e amigáveis. Há jogos de menino, atividades criativas e desafios simples que agradam a todos.<br><b>Por que escolher este jogo de bebê</b><br><b>Seguro e tranquilo:</b> ideal para meu bebe, com jogos para bebês e jogos de bebe sem pressa.<br><b>Fácil de usar:</b> cada jogo é intuitivo, permitindo que o bebê explore sozinho.<br><b>Educativo:</b> combina jogos educativos, jogos infantis e jogo educativo num só lugar.<br><b>Completo:</b> reúne jogos para crianças, jogos para criancas, jogos crianca e jogos de criancas numa experiência contínua.<br>Este jogo de bebê foi criado para acompanhar o bebê, os bebês e o bebe desde os primeiros toques até à pré escola, oferecendo jogos calmos, educativos e cheios de descobertas",
+      "summary": "Jogo infantil pré escola para criança aprender: joguinhos, colorir, ler e contar",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 11118121,
+      "score": 4.670498,
+      "scoreText": "4,7",
+      "ratings": 122317,
+      "reviews": 1489,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Matemática",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.educational.baby.games",
+      "url": "https://play.google.com/store/apps/details?id=com.educational.baby.games&hl=pt&gl=br",
+      "rank": 7
+    },
+    {
+      "title": "TDAH",
+      "description": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.\n\nE muito mais recursos como...\n\n• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual\n• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade\n• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo\n• Dicas úteis para realizar suas tarefas e aumentar a produtividade\n• Técnicas de Organização, Saúde e Estudos\n• Suporte para vários idiomas, incluindo inglês, espanhol e português\n• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "descriptionHTML": "Este aplicativo traz Diagnósticos e Testes incluindo o ASRS 1.1 para adultos e SNAP-IV para crianças, estas são as ferramentas mais confiáveis ​​usadas mundialmente por psiquiatras no diagnóstico de TDAH.<br><br>E muito mais recursos como...<br><br>• Reconhecimento facial através de Inteligência Artificial com sugestões de atividades personalizadas pelo seu humor atual<br>• Várias técnicas com insights e dicas sobre como tirar o máximo proveito de cada atividade<br>• Os vídeos traduzidos fornecerão uma representação visual mais rica sobre como usar o aplicativo<br>• Dicas úteis para realizar suas tarefas e aumentar a produtividade<br>• Técnicas de Organização, Saúde e Estudos<br>• Suporte para vários idiomas, incluindo inglês, espanhol e português<br>• Modo Noturno e uma fonte dedicada adaptada para melhorar a legibilidade para pessoas com dislexia",
+      "summary": "Auxiliar crianças e adultos com TDAH",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 147235,
+      "score": 4.36,
+      "scoreText": "4,4",
+      "ratings": 390,
+      "reviews": 99,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "tk.tdah",
+      "url": "https://play.google.com/store/apps/details?id=tk.tdah&hl=pt&gl=br",
+      "rank": 8
+    },
+    {
+      "title": "Otsimo | Special Education",
+      "description": "Em destaque há mais de 300 dias!\n\nOtsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom's Choice Awards, Parent's Pick Awards, Education Alliance Finland, o prêmio Academics' Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.\n\nOs pais AMAM o Otsimo Special Education!\n\nCriados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:\nHistórias sociais,\nNúmeros e letras,\nVocabulário e palavras,\nEmoções e sentimentos,\nCores,\nMúsica e canto,\nAnimais e ambiente,\nVeículos e MUITO MAIS!\n\nCom a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.\n\nPor que você deveria experimentar o Otsimo Special Education em casa?\nCaminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.\nPersonalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.\nSem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.\n Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!\n\nPode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.\n\nOtsimo Premium\nO Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!\n\n O Otsimo Premium oferece:\nAcesso a mais de 100 jogos educativos\nAtualização regular de conteúdo\nCurrículo personalizado\nBoletins diários e semanais sobre os jogos jogados e para acompanhar o progresso\nSuporte multiplataforma\nRecurso para múltiplos usuários\nLivros de histórias sociais com dicas visuais e auditivas\nJogue offline a qualquer hora e em qualquer lugar\n\nPara o Otsimo Premium, oferecemos as seguintes assinaturas:\n1 mês a partir de US$ 20,99\n1 ano a partir de US$ 13,75/mês\nVitalícia a partir de US$ 229,99\n\nSe você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.\n\nAs assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.\n\nPara mais informações:\nPolítica de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html\nPolítica de Pagamento - https://otsimo.com/legal/payment.html",
+      "descriptionHTML": "Em destaque há mais de 300 dias!<br><br>Otsimo é um aplicativo de jogo educacional certificado e premiado, desenvolvido para indivíduos com diagnóstico de transtornos de aprendizagem, transtornos de déficit de atenção, autismo, síndrome de Down, síndrome de Asperger e outras necessidades especiais. O Otsimo Special Education recebeu os prêmios Mom&#39;s Choice Awards, Parent&#39;s Pick Awards, Education Alliance Finland, o prêmio Academics&#39; Choice Mind-Building Media and Toys Award e foi selecionado para a HundredED Global Collection de 2020, 2021 e 2022. Foi escolhido como o MELHOR aplicativo para autismo por diversas publicações sobre autismo.<br><br>Os pais AMAM o Otsimo Special Education!<br><br>Criados sob a orientação de pais, psicólogos e professores de educação especial, os jogos assistivos do Otsimo ensinam educação fundamental e conceitos que desenvolvem habilidades cognitivas, de comunicação e motoras com métodos bem pesquisados. Aqui estão algumas das categorias encontradas no aplicativo:<br>Histórias sociais,<br>Números e letras,<br>Vocabulário e palavras,<br>Emoções e sentimentos,<br>Cores,<br>Música e canto,<br>Animais e ambiente,<br>Veículos e MUITO MAIS!<br><br>Com a ajuda de dicas visuais e auditivas, o Otsimo Special Education ajuda os usuários a aprimorar suas habilidades motoras e cognitivas, ajudando-os a combinar, desenhar, escolher e organizar itens.<br><br>Por que você deveria experimentar o Otsimo Special Education em casa?<br>Caminho de aprendizagem: O recurso perfeito para proporcionar a experiência mais personalizada. Ele oferece um currículo específico para as necessidades de educação especial e terapia de aprendizagem de cada indivíduo. Dependendo do progresso de aprendizagem e brincadeira de cada indivíduo, o Caminho de Aprendizagem ajusta a dificuldade e o conteúdo da educação especial.<br>Personalização: Todas as configurações de jogo e dificuldade de aprendizagem são completamente personalizáveis para você ajustar.<br>Sem anúncios, nunca: O Otsimo Special Education segue uma política rigorosa contra anúncios, prevenindo qualquer tipo de intrusão e perturbação indesejada.<br> Relatórios detalhados de progresso: acesse relatórios detalhados que fornecem informações sobre o desempenho e o progresso. Os jogos que os indivíduos jogaram, o progresso na educação especial e as habilidades que eles têm trabalhado estarão todos neste relatório!<br><br>Pode ser usado por pessoas com transtornos de desenvolvimento ou aprendizagem, como transtorno do espectro autista, síndrome de Down, síndrome de Asperger, TDAH, paralisia cerebral, esclerose lateral amiotrófica, doença do neurônio motor (DNM), dificuldades de fala e afasia.<br><br>Otsimo Premium<br>O Otsimo oferece uma variedade de jogos gratuitos, mas você sempre pode fazer o upgrade para a versão premium para acessar mais jogos e recursos educativos!<br><br> O Otsimo Premium oferece:<br>Acesso a mais de 100 jogos educativos<br>Atualização regular de conteúdo<br>Currículo personalizado<br>Boletins diários e semanais sobre os jogos jogados e para acompanhar o progresso<br>Suporte multiplataforma<br>Recurso para múltiplos usuários<br>Livros de histórias sociais com dicas visuais e auditivas<br>Jogue offline a qualquer hora e em qualquer lugar<br><br>Para o Otsimo Premium, oferecemos as seguintes assinaturas:<br>1 mês a partir de US$ 20,99<br>1 ano a partir de US$ 13,75/mês<br>Vitalícia a partir de US$ 229,99<br><br>Se você atualizar para o Otsimo Premium, o pagamento será cobrado em sua conta da App Store na confirmação da compra. As assinaturas são renovadas automaticamente, a menos que a renovação automática seja desativada ou a assinatura seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada pela renovação em até 24 horas após o final do período atual, e o custo da renovação será fornecido.<br><br>As assinaturas só podem ser gerenciadas pelo usuário. A renovação automática pode ser desativada acessando as Configurações de Assinatura do usuário após a compra. Qualquer período de teste gratuito não utilizado, se oferecido, será perdido quando o usuário adquirir uma assinatura da publicação.<br><br>Para mais informações:<br>Política de Privacidade e Termos de Uso - https://otsimo.com/legal/privacy-en.html<br>Política de Pagamento - https://otsimo.com/legal/payment.html",
+      "summary": "Jogos educativos certificados para dificuldades de aprendizagem, autismo e síndrome de Down.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 293973,
+      "score": 3.096774,
+      "scoreText": "3,1",
+      "ratings": 828,
+      "reviews": 14,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.otsimo.app",
+      "url": "https://play.google.com/store/apps/details?id=com.otsimo.app&hl=pt&gl=br",
+      "rank": 9
+    },
+    {
+      "title": "Criança Lógica Labirinto Jogos",
+      "description": "Criança Lógica Labirinto Jogos - o aplicativo definitivo para crianças, bebês e pré-escolares de 3 a 14 anos embarcarem numa jornada emocionante de aprendizado precoce e educação através de quebra-cabeças divertidos e desafios que estimulam o cérebro.\n\nCriança Lógica Labirinto Jogos, entendemos o papel crucial que a aprendizagem interativa desempenha no desenvolvimento da criança. Como pais, educadores e cuidadores, reconhecemos a importância de fornecer às crianças uma plataforma que estimule suas mentes, promova o pensamento lógico e melhore suas habilidades de resolução de problemas. Este aplicativo é projetado especificamente para crianças de 3 a 14 anos, garantindo que ele se alinhe perfeitamente com suas necessidades de desenvolvimento.\n\nPor que nos escolher?\n\nNosso aplicativo apresenta uma extensa coleção de quebra-cabeças que abrangem uma ampla gama de temas, incluindo cores, formas, números e muito mais. Através desses quebra-cabeças, bebês, crianças, bebês e pré-escolares não apenas identificam diferentes cores e formas, mas também desenvolvem suas habilidades de resolução de problemas, raciocínio lógico e habilidades cognitivas.\n\nEntendemos as necessidades únicas de aprendizagem dos bebês, e por isso nossos jogos são desenvolvidos com seus interesses apropriados para a idade em mente. A interface intuitiva, gráficos coloridos e jogabilidade interativa facilitam a navegação tanto para meninos quanto para meninas no aplicativo.\n\nCriança Lógica Labirinto Jogos apresenta uma perfeita mistura de entretenimento e aprendizado. À medida que os bebês e as crianças pré-escolares jogam e resolvem problemas, eles absorvem sem saber conteúdo educacional valioso, tornando a aprendizagem uma experiência alegre e envolvente.\n\nAo desafiar as crianças com quebra-cabeças e jogos desafiadores, buscamos estimular suas habilidades cognitivas. Esses jogos ajudam a desenvolver sua memória, atenção e foco, ao mesmo tempo em que nutrem suas habilidades de pensamento lógico.\n\nÀ medida que as crianças avançam no aplicativo, elas desbloqueiam níveis mais altos de complexidade e intrincadeza. Esse nível progressivo de dificuldade garante que elas permaneçam motivadas para aprender, explorar e se desafiar.\n\nFique tranquilo que a segurança de seu filho é nossa principal prioridade. A Criança Lógica Labirinto Jogos é um ambiente sem anúncios e amigável para crianças, onde elas podem explorar e aprender livremente, sem distrações.\n\nNosso aplicativo incentiva as crianças a pensar criticamente, planejar estrategicamente e superar desafios. Essas habilidades de resolução de problemas são essenciais não apenas para o sucesso acadêmico, mas também para lidar com situações cotidianas.\n\nA Criança Lógica Labirinto Jogos é projetada para todas as crianças, independentemente do sexo. Acreditamos que a educação é para todos, e nossos jogos atendem igualmente meninos e meninas.\n\nDetalhes da Assinatura:\n\nRecomendamos jogos educativos offline para crianças e bebês.\nAssine Criança Lógica Labirinto Jogos para desbloquear acesso ilimitado a todos os jogos e recursos. Os assinantes recebem atualizações regulares de conteúdo, novos jogos emocionantes e sem anúncios. Escolha entre opções de assinatura mensal ou anual.\n\nO pagamento é cobrado da conta do iTunes do usuário após a confirmação da compra. A assinatura será renovada automaticamente a cada mês, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do ciclo de faturamento atual. Quando o usuário cancela a assinatura, o cancelamento se aplicará ao próximo ciclo de assinatura. Observe que excluir o aplicativo não cancela a assinatura, pois ela é gerenciada nas Configurações da Conta iTunes do usuário.\n\nDamos grande atenção ao feedback de nossos clientes, não hesite em nos contatar pelo e-mail meemu.kids@gmail.com\n\nPolítica de Privacidade: http://www.meemukids.com/privacy-policy\nTermos de Uso: http://www.meemukids.com/terms-and-conditions",
+      "descriptionHTML": "Criança Lógica Labirinto Jogos - o aplicativo definitivo para crianças, bebês e pré-escolares de 3 a 14 anos embarcarem numa jornada emocionante de aprendizado precoce e educação através de quebra-cabeças divertidos e desafios que estimulam o cérebro.<br><br>Criança Lógica Labirinto Jogos, entendemos o papel crucial que a aprendizagem interativa desempenha no desenvolvimento da criança. Como pais, educadores e cuidadores, reconhecemos a importância de fornecer às crianças uma plataforma que estimule suas mentes, promova o pensamento lógico e melhore suas habilidades de resolução de problemas. Este aplicativo é projetado especificamente para crianças de 3 a 14 anos, garantindo que ele se alinhe perfeitamente com suas necessidades de desenvolvimento.<br><br>Por que nos escolher?<br><br>Nosso aplicativo apresenta uma extensa coleção de quebra-cabeças que abrangem uma ampla gama de temas, incluindo cores, formas, números e muito mais. Através desses quebra-cabeças, bebês, crianças, bebês e pré-escolares não apenas identificam diferentes cores e formas, mas também desenvolvem suas habilidades de resolução de problemas, raciocínio lógico e habilidades cognitivas.<br><br>Entendemos as necessidades únicas de aprendizagem dos bebês, e por isso nossos jogos são desenvolvidos com seus interesses apropriados para a idade em mente. A interface intuitiva, gráficos coloridos e jogabilidade interativa facilitam a navegação tanto para meninos quanto para meninas no aplicativo.<br><br>Criança Lógica Labirinto Jogos apresenta uma perfeita mistura de entretenimento e aprendizado. À medida que os bebês e as crianças pré-escolares jogam e resolvem problemas, eles absorvem sem saber conteúdo educacional valioso, tornando a aprendizagem uma experiência alegre e envolvente.<br><br>Ao desafiar as crianças com quebra-cabeças e jogos desafiadores, buscamos estimular suas habilidades cognitivas. Esses jogos ajudam a desenvolver sua memória, atenção e foco, ao mesmo tempo em que nutrem suas habilidades de pensamento lógico.<br><br>À medida que as crianças avançam no aplicativo, elas desbloqueiam níveis mais altos de complexidade e intrincadeza. Esse nível progressivo de dificuldade garante que elas permaneçam motivadas para aprender, explorar e se desafiar.<br><br>Fique tranquilo que a segurança de seu filho é nossa principal prioridade. A Criança Lógica Labirinto Jogos é um ambiente sem anúncios e amigável para crianças, onde elas podem explorar e aprender livremente, sem distrações.<br><br>Nosso aplicativo incentiva as crianças a pensar criticamente, planejar estrategicamente e superar desafios. Essas habilidades de resolução de problemas são essenciais não apenas para o sucesso acadêmico, mas também para lidar com situações cotidianas.<br><br>A Criança Lógica Labirinto Jogos é projetada para todas as crianças, independentemente do sexo. Acreditamos que a educação é para todos, e nossos jogos atendem igualmente meninos e meninas.<br><br>Detalhes da Assinatura:<br><br>Recomendamos jogos educativos offline para crianças e bebês.<br>Assine Criança Lógica Labirinto Jogos para desbloquear acesso ilimitado a todos os jogos e recursos. Os assinantes recebem atualizações regulares de conteúdo, novos jogos emocionantes e sem anúncios. Escolha entre opções de assinatura mensal ou anual.<br><br>O pagamento é cobrado da conta do iTunes do usuário após a confirmação da compra. A assinatura será renovada automaticamente a cada mês, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do ciclo de faturamento atual. Quando o usuário cancela a assinatura, o cancelamento se aplicará ao próximo ciclo de assinatura. Observe que excluir o aplicativo não cancela a assinatura, pois ela é gerenciada nas Configurações da Conta iTunes do usuário.<br><br>Damos grande atenção ao feedback de nossos clientes, não hesite em nos contatar pelo e-mail meemu.kids@gmail.com<br><br>Política de Privacidade: http://www.meemukids.com/privacy-policy<br>Termos de Uso: http://www.meemukids.com/terms-and-conditions",
+      "summary": "Labirinto jogos para crianças, aprender jogos pré escolar e infantil educativo!",
+      "installs": "10.000+",
+      "minInstalls": 10000,
+      "maxInstalls": 27054,
+      "score": 3.7142856,
+      "scoreText": "3,7",
+      "ratings": 94,
+      "reviews": 1,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "brain.games.kids",
+      "url": "https://play.google.com/store/apps/details?id=brain.games.kids&hl=pt&gl=br",
+      "rank": 10
+    },
+    {
+      "title": "LogicLike Jogos educativos 2-8",
+      "description": "🧩LogicLike: jogos educativos e cognitivos para crianças; preparação para a escola e educação pré-escolar, estimulando o raciocínio e a vontade de aprender. Jogos educativos infantis de lógica, memória e atenção.\n👩‍🏫 Nossos jogos educativos para crianças são desenvolvidos por pedagogos e educadores profissionais. Seu filho vai se divertir ao resolver os desafios e problemas. O design incrível e as animações dos jogos educativos infantis são agradáveis e ajudam a assimilar melhor o conteúdo. \n🎨Os desafios afetam positivamente o desenvolvimento do raciocínio da criança. Recomendamos 20 minutos por dia de dedicação aos jogos educativos para crianças. Assim, a criança se acostuma sem se cansar, adotando os exercícios como hábito diário. O próprio jogo sugere pausas de descanso, permitindo manter a concentração e o avanço com o aprendizado.\n😊 Nós tornamos os jogos educativos para crianças simples, compreensíveis e saudáveis. Todas as atividades possuem áudio e são de fácil compreensão. Instruções e dicas de visual colorido ajudarão as crianças a superar dificuldades. Os jogos educativos do LogicLike são variados e empolgantes. O sistema gradual do curso Lógica e raciocínio ajuda no aprendizado e assimilação do conteúdo visto. Você pode fazer as atividades na língua que desejar.\n⌛️ Criar desafios de lógica exige muitas horas de trabalho, e nós fazemos isso com prazer há 8 anos. Nosso objetivo é mostrar às crianças que aprender pode ser divertido e emocionante, estimulando nelas o interesse em aprender e as ensinando a encarar desafios complexos. Queremos uma geração de crianças inteligentes e que pensem de forma crítica. Por isso, alguns desafios estão disponíveis de graça para que você possa comprovar a qualidade dos jogos infantis. O formato de quiz é muito popular entre as crianças. As atividades de colorir, música e jogos educativos para crianças estimulam a criatividade.\nA criança aprenderá muitas coisas interessantes com os minijogos. Diversão e educação com jogos criativos: jogos de pintar e instrumentos musicais.\nAlguns conteúdos só estão disponíveis com uma assinatura ativa do serviço. Você sempre pode experimentar todas as funcionalidades do aplicativo de forma gratuita. Ative o teste por 3 dias e aproveite.\n🔸 O que oferecemos: 🔸\n• Mais de 8100 desafios de lógica\n• Mais de 60 minicursos\n• Cartões de heróis coloridos para colecionar\n• Ranking pessoal\n• Jogos que estimulam criatividade (Crie seu personagem, Crie seu próprio mundo, Colorir, Instrumentos musicais, Bichinho virtual)\n• Instruções e dicas\n• Correção de erros\n• Certificados do LogicLike\n• Áudios de instruções e trilha sonora agradáveis\n\n🔹 Tópicos de atividades LogicLike: 🔹\n• Pensamento 3D: formas, figuras geométricas e cores.\n• Desafios de xadrez.\n• Jogos em grade: colmeia numérica, sago, sudoku, kakuro, números.\n• Cuidando do bichinho virtual.\n• Jogos de pintar.\n• Jogos de matemática e aritmética para o primário: tabuada, cálculo de cabeça, adição, subtração, multiplicação e divisão.\n• Jogos de matemática para pré-escolares.\n• Ciências Naturais: animais, países e capitais.\n• Minijogos Bois e vacas, Cactos e outros.\n• Jogos de lógica: encontre o objeto ou palavra diferente do grupo, Conjuntos, Coloque em ordem, Agrupamento de objetos, Quebra-cabeças.\n• Quebra-cabeças, jogos educativos e de alfabetização para crianças.\n• Inglês para crianças\n\n📙 A biblioteca de jogos educativos para crianças é ampliada regularmente.\n📗 Jogos e desafios educativos para crianças de 4 anos.\n\nPolítica de Privacidade  - https://logiclike.com/en/docs/privacy-app \nContrato de Licença de Usuário - https://logiclike.com/en/docs/public-app \nEnvie perguntas ou sugestões para o e-mail: office@logiclike.com\nNós tornamos os jogos educativos para crianças divertidos e saudáveis. Se você gostou dos nossos jogos educativos infantis, dos jogos de matemática para crianças, do jogo de alfabetização, da preparação para a escola e do ensino pré-escolar, conte para os amigos sobre o LogicLike 😊",
+      "descriptionHTML": "🧩LogicLike: jogos educativos e cognitivos para crianças; preparação para a escola e educação pré-escolar, estimulando o raciocínio e a vontade de aprender. Jogos educativos infantis de lógica, memória e atenção.<br>👩‍🏫 Nossos jogos educativos para crianças são desenvolvidos por pedagogos e educadores profissionais. Seu filho vai se divertir ao resolver os desafios e problemas. O design incrível e as animações dos jogos educativos infantis são agradáveis e ajudam a assimilar melhor o conteúdo. <br>🎨Os desafios afetam positivamente o desenvolvimento do raciocínio da criança. Recomendamos 20 minutos por dia de dedicação aos jogos educativos para crianças. Assim, a criança se acostuma sem se cansar, adotando os exercícios como hábito diário. O próprio jogo sugere pausas de descanso, permitindo manter a concentração e o avanço com o aprendizado.<br>😊 Nós tornamos os jogos educativos para crianças simples, compreensíveis e saudáveis. Todas as atividades possuem áudio e são de fácil compreensão. Instruções e dicas de visual colorido ajudarão as crianças a superar dificuldades. Os jogos educativos do LogicLike são variados e empolgantes. O sistema gradual do curso Lógica e raciocínio ajuda no aprendizado e assimilação do conteúdo visto. Você pode fazer as atividades na língua que desejar.<br>⌛️ Criar desafios de lógica exige muitas horas de trabalho, e nós fazemos isso com prazer há 8 anos. Nosso objetivo é mostrar às crianças que aprender pode ser divertido e emocionante, estimulando nelas o interesse em aprender e as ensinando a encarar desafios complexos. Queremos uma geração de crianças inteligentes e que pensem de forma crítica. Por isso, alguns desafios estão disponíveis de graça para que você possa comprovar a qualidade dos jogos infantis. O formato de quiz é muito popular entre as crianças. As atividades de colorir, música e jogos educativos para crianças estimulam a criatividade.<br>A criança aprenderá muitas coisas interessantes com os minijogos. Diversão e educação com jogos criativos: jogos de pintar e instrumentos musicais.<br>Alguns conteúdos só estão disponíveis com uma assinatura ativa do serviço. Você sempre pode experimentar todas as funcionalidades do aplicativo de forma gratuita. Ative o teste por 3 dias e aproveite.<br>🔸 O que oferecemos: 🔸<br>• Mais de 8100 desafios de lógica<br>• Mais de 60 minicursos<br>• Cartões de heróis coloridos para colecionar<br>• Ranking pessoal<br>• Jogos que estimulam criatividade (Crie seu personagem, Crie seu próprio mundo, Colorir, Instrumentos musicais, Bichinho virtual)<br>• Instruções e dicas<br>• Correção de erros<br>• Certificados do LogicLike<br>• Áudios de instruções e trilha sonora agradáveis<br><br>🔹 Tópicos de atividades LogicLike: 🔹<br>• Pensamento 3D: formas, figuras geométricas e cores.<br>• Desafios de xadrez.<br>• Jogos em grade: colmeia numérica, sago, sudoku, kakuro, números.<br>• Cuidando do bichinho virtual.<br>• Jogos de pintar.<br>• Jogos de matemática e aritmética para o primário: tabuada, cálculo de cabeça, adição, subtração, multiplicação e divisão.<br>• Jogos de matemática para pré-escolares.<br>• Ciências Naturais: animais, países e capitais.<br>• Minijogos Bois e vacas, Cactos e outros.<br>• Jogos de lógica: encontre o objeto ou palavra diferente do grupo, Conjuntos, Coloque em ordem, Agrupamento de objetos, Quebra-cabeças.<br>• Quebra-cabeças, jogos educativos e de alfabetização para crianças.<br>• Inglês para crianças<br><br>📙 A biblioteca de jogos educativos para crianças é ampliada regularmente.<br>📗 Jogos e desafios educativos para crianças de 4 anos.<br><br>Política de Privacidade  - https://logiclike.com/en/docs/privacy-app <br>Contrato de Licença de Usuário - https://logiclike.com/en/docs/public-app <br>Envie perguntas ou sugestões para o e-mail: office@logiclike.com<br>Nós tornamos os jogos educativos para crianças divertidos e saudáveis. Se você gostou dos nossos jogos educativos infantis, dos jogos de matemática para crianças, do jogo de alfabetização, da preparação para a escola e do ensino pré-escolar, conte para os amigos sobre o LogicLike 😊",
+      "summary": "Jogos para crianças: lógica, aprendizado e pré-escolar divertido",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 16532035,
+      "score": 4.7109604,
+      "scoreText": "4,7",
+      "ratings": 90188,
+      "reviews": 1462,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.logicappkids",
+      "url": "https://play.google.com/store/apps/details?id=com.logicappkids&hl=pt&gl=br",
+      "rank": 11
+    },
+    {
+      "title": "Jogos de memória infantis",
+      "description": "Memory Games for Kids Toddlers é uma coleção de jogos educativos e divertidos para crianças de 2 a 6 anos. Os pequenos podem combinar imagens, lembrar onde os objetos estão escondidos, seguir sequências, contar animais, ouvir sons, aprender novas palavras, colorir de memória e muito mais.\n\nCada atividade é simples de entender, colorida e feita para brincar. Enquanto se diverte, a criança também exercita a memória, a concentração, a atenção e o raciocínio de diferentes maneiras.\n\nOs jogos clássicos de memória e associação continuam por aqui – mas cada um tem uma surpresa diferente. Encontre pares de animais e objetos do dia a dia escondidos atrás de ovos, nuvens, caixas e outros cenários divertidos. Depois de encontrar um par, novos objetos podem aparecer, as peças podem mudar de lugar ou todo o tabuleiro pode se transformar. Assim, o conhecido jogo da memória fica sempre um pouco diferente e mais interessante.\n\nE ainda tem muito mais para descobrir.\n\n18 ATIVIDADES DE MEMÓRIA E APRENDIZADO\n\n• Encontre e combine pares em diferentes jogos da memória\n• Acompanhe os arbustos se mexendo e lembre onde os animais estão escondidos\n• Ouça uma sequência de sons e repita na mesma ordem\n• Memorize as formas dentro do foguete e coloque tudo novamente na ordem correta\n• Conte os pintinhos e as vacas entrando no celeiro – mas preste atenção, porque alguns podem passar direto ou sair de novo!\n• Olhe pelas janelas da casa, memorize os animais e depois encontre aquele que o jogo pedir\n• Ajude o polvo faminto lembrando quais alimentos ele quer e em qual ordem\n• Explore um quarto escuro com uma lanterna e encontre os pares iguais\n• Observe um animal colorido, memorize suas cores e depois pinte do mesmo jeito\n• Veja os brinquedos caindo da prateleira e lembre exatamente onde cada um deve voltar\n\nAs atividades ficam um pouco mais desafiadoras aos poucos, para a criança praticar e evoluir sem sentir que está fazendo uma lição.\n\nAPRENDA MAIS DE 200 PALAVRAS DO DIA A DIA\n\nAs crianças podem conhecer objetos e palavras familiares de vários temas:\n\nAnimais • Comidas • Cozinha • Instrumentos musicais • Pré-escola • Formas • Números\n\nCada objeto tem seu nome e pronúncia, ajudando os pequenos a relacionar a imagem, a palavra e o som.\n\nAs palavras e pronúncias estão disponíveis em 30 idiomas. A criança pode jogar no próprio idioma ou se divertir descobrindo palavras novas em outra língua.\n\nFEITO PARA OS PEQUENOS\n\nEnquanto brincam, as crianças podem praticar:\n\n• Memória visual e memória de curto prazo\n• Concentração e atenção\n• Associação e reconhecimento\n• Memória auditiva\n• Sequências e padrões\n• Contagem e observação\n• Lógica e resolução de problemas\n• Cores e formas\n• Vocabulário do dia a dia e pronúncia\n\nAs imagens claras, a repetição e a forma simples de jogar também podem funcionar muito bem para muitas crianças autistas. As atividades são fáceis de começar, podem ser repetidas quantas vezes a criança quiser e permitem que cada uma aprenda no seu próprio ritmo.\n\nSEGURO, SIMPLES E SEM ANÚNCIOS\n\nNada de anúncios interrompendo a brincadeira. Só animações coloridas, personagens simpáticos e 18 atividades educativas feitas para crianças pequenas e em idade pré-escolar.\n\nSe seu filho gosta de jogos da memória, jogos de associação, jogos de lógica, jogos de raciocínio, colorir ou aprender novas palavras, sempre tem alguma coisa diferente para descobrir.\n\nAprenda, lembre, brinque – e divirta-se pelo caminho.",
+      "descriptionHTML": "Memory Games for Kids Toddlers é uma coleção de jogos educativos e divertidos para crianças de 2 a 6 anos. Os pequenos podem combinar imagens, lembrar onde os objetos estão escondidos, seguir sequências, contar animais, ouvir sons, aprender novas palavras, colorir de memória e muito mais.<br><br>Cada atividade é simples de entender, colorida e feita para brincar. Enquanto se diverte, a criança também exercita a memória, a concentração, a atenção e o raciocínio de diferentes maneiras.<br><br>Os jogos clássicos de memória e associação continuam por aqui – mas cada um tem uma surpresa diferente. Encontre pares de animais e objetos do dia a dia escondidos atrás de ovos, nuvens, caixas e outros cenários divertidos. Depois de encontrar um par, novos objetos podem aparecer, as peças podem mudar de lugar ou todo o tabuleiro pode se transformar. Assim, o conhecido jogo da memória fica sempre um pouco diferente e mais interessante.<br><br>E ainda tem muito mais para descobrir.<br><br>18 ATIVIDADES DE MEMÓRIA E APRENDIZADO<br><br>• Encontre e combine pares em diferentes jogos da memória<br>• Acompanhe os arbustos se mexendo e lembre onde os animais estão escondidos<br>• Ouça uma sequência de sons e repita na mesma ordem<br>• Memorize as formas dentro do foguete e coloque tudo novamente na ordem correta<br>• Conte os pintinhos e as vacas entrando no celeiro – mas preste atenção, porque alguns podem passar direto ou sair de novo!<br>• Olhe pelas janelas da casa, memorize os animais e depois encontre aquele que o jogo pedir<br>• Ajude o polvo faminto lembrando quais alimentos ele quer e em qual ordem<br>• Explore um quarto escuro com uma lanterna e encontre os pares iguais<br>• Observe um animal colorido, memorize suas cores e depois pinte do mesmo jeito<br>• Veja os brinquedos caindo da prateleira e lembre exatamente onde cada um deve voltar<br><br>As atividades ficam um pouco mais desafiadoras aos poucos, para a criança praticar e evoluir sem sentir que está fazendo uma lição.<br><br>APRENDA MAIS DE 200 PALAVRAS DO DIA A DIA<br><br>As crianças podem conhecer objetos e palavras familiares de vários temas:<br><br>Animais • Comidas • Cozinha • Instrumentos musicais • Pré-escola • Formas • Números<br><br>Cada objeto tem seu nome e pronúncia, ajudando os pequenos a relacionar a imagem, a palavra e o som.<br><br>As palavras e pronúncias estão disponíveis em 30 idiomas. A criança pode jogar no próprio idioma ou se divertir descobrindo palavras novas em outra língua.<br><br>FEITO PARA OS PEQUENOS<br><br>Enquanto brincam, as crianças podem praticar:<br><br>• Memória visual e memória de curto prazo<br>• Concentração e atenção<br>• Associação e reconhecimento<br>• Memória auditiva<br>• Sequências e padrões<br>• Contagem e observação<br>• Lógica e resolução de problemas<br>• Cores e formas<br>• Vocabulário do dia a dia e pronúncia<br><br>As imagens claras, a repetição e a forma simples de jogar também podem funcionar muito bem para muitas crianças autistas. As atividades são fáceis de começar, podem ser repetidas quantas vezes a criança quiser e permitem que cada uma aprenda no seu próprio ritmo.<br><br>SEGURO, SIMPLES E SEM ANÚNCIOS<br><br>Nada de anúncios interrompendo a brincadeira. Só animações coloridas, personagens simpáticos e 18 atividades educativas feitas para crianças pequenas e em idade pré-escolar.<br><br>Se seu filho gosta de jogos da memória, jogos de associação, jogos de lógica, jogos de raciocínio, colorir ou aprender novas palavras, sempre tem alguma coisa diferente para descobrir.<br><br>Aprenda, lembre, brinque – e divirta-se pelo caminho.",
+      "summary": "18 atividades educativas para crianças: pares, lógica, palavras, sons e colorir",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3137540,
+      "score": 4.2727275,
+      "scoreText": "4,3",
+      "ratings": 4841,
+      "reviews": 119,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Quebra-cabeças",
+          "id": "GAME_PUZZLE"
+        },
+        {
+          "name": "Combinação de pares",
+          "id": null
+        },
+        {
+          "name": "Memória",
+          "id": null
+        },
+        {
+          "name": "Casuais",
+          "id": "GAME_CASUAL"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iabuzz.MemoryMatchFood",
+      "url": "https://play.google.com/store/apps/details?id=com.iabuzz.MemoryMatchFood&hl=pt&gl=br",
+      "rank": 12
+    },
+    {
+      "title": "Jogos para bebê 2 anos Criança",
+      "description": "Descubra o melhor lugar para iniciar a jornada de aprendizado do seu pequeno, com mais de 100+ jogos educativos para bebês e crianças! Com nossos jogos infantis para crianças de 2 a 5 anos, seu filho aprenderá de forma divertida e envolvente o alfabeto, números, formas, cores, animais e muito mais. Esses joguinhos educativos são especialmente desenvolvidos para ajudar as crianças a desenvolverem habilidades essenciais, tornando o aprendizado algo prazeroso.\n\nCom mais de 100+ jogos educativos, nosso aplicativo oferece uma programação completa de aprendizado pré-escolar para crianças de 2 a 5 anos, cobrindo temas como ABC, números, cores, formas, frutas, vegetais, animais, e veículos. Além de jogos de aprendizado como estouro de bolhas, estourar balões, ovos surpresa, instrumentos musicais, jogos de colorir, quebra-cabeças, jogos de alimentação e muito mais. Estes jogos são uma combinação perfeita de diversão e educação!\n\nOs jogos para bebê são divertidos, aprendizagem, envolventes e educativos ao mesmo tempo. Ele contém jogos de estouro de bolhas, estouro de balão, ovos surpresa, música e outros jogos divertidos infantis, que deixarão seu bebê inteligente e feliz.\n\n\nEsses jogos infantis para crianças contêm jogos de aprendizado que não são apenas divertidos de jogar, mas também ajudam as crianças a desenvolver a concentração, coordenação olho-mão, habilidades motoras finas e muito mais.\n\n\nAqui está o que torna nossos jogos para bebê & jogos de aprendizagem infantis tão emocionantes e divertidos de jogar:\n\n- Melhor maneira de desenvolver habilidades para crianças de 1 a 5 anos.\n\n- Mais de 5 divertidos jogos de estouros de balão e estouro de bolhas, ovos surpresa, jogos musicais e jogos divertidos infantis para crianças.\n\n- Personagens animados fofos tornam os nossos jogos de aprendizagem muito divertidos.\n\n- Conteúdo 100% seguro para crianças.\n\n\nAqui está o que você encontrará dentro do nosso jogos para bebê: Jogos de aprendizagem para crianças de 2 anos ou mais.\n\n\n- Ovos Surpresa\n\nAbra os ovos tocando neles para revelar surpresas escondidas!\n\nEsmague Doces Coloridos\nAma doces? Divirta-se tocando em doces e gelatinas coloridas e observando-os explodir!\n\n- Alimente o Dinossauro\n\nOh não! Os dinossauros estão com fome, e sua comida está voando! Toque rapidamente nos balões para soltar a comida e alimentar os dinos.\n- Dinossauro Voador\n\nNão deixe os dinossauros impertinentes escaparem. Toque nos balões para impedi-los de fugir!\n\n- Aventura Subaquática\n\nJunte-se ao dinossauro em uma aventura subaquática. Ajude-o a estourar todas as bolhas e a se divertir juntos.\n\n- Jogos de estourar balões e bolhas\n\nEstoure muitos balões e bolhas para aprender o ABCs, números, formas e muito mais.\n\n\nAlém do mais, há mais jogos divertidos para serem descobertos. Nossos jogos de estourar balões infantis para crianças são tudo o que você precisa para manter seus pequenos envolvidos - seja em casa ou em longas viagens.\n\n\nNossos jogos infantis são divertidos jogos de estourar balões para deixar seu filho inteligente e feliz. Um programa completo de aprendizado pré-escolar para crianças de 1 a 5 anos para manter seus filhos ocupados enquanto os ajudam a desenvolver habilidades iniciais cruciais da maneira mais divertida.\n\n\nBaixe hoje nossos jogos para bebê para crianças de 2 anos ou mais\ne ajude seu pequeno a aproveitar os divertidos jogos infantis.\n\nJogos para bebê 2 anos Criança\n\nJogue jogos para bebê 2 anos infantis! 100+ Jogos de educativos para crianças.",
+      "descriptionHTML": "Descubra o melhor lugar para iniciar a jornada de aprendizado do seu pequeno, com mais de 100+ jogos educativos para bebês e crianças! Com nossos jogos infantis para crianças de 2 a 5 anos, seu filho aprenderá de forma divertida e envolvente o alfabeto, números, formas, cores, animais e muito mais. Esses joguinhos educativos são especialmente desenvolvidos para ajudar as crianças a desenvolverem habilidades essenciais, tornando o aprendizado algo prazeroso.<br><br>Com mais de 100+ jogos educativos, nosso aplicativo oferece uma programação completa de aprendizado pré-escolar para crianças de 2 a 5 anos, cobrindo temas como ABC, números, cores, formas, frutas, vegetais, animais, e veículos. Além de jogos de aprendizado como estouro de bolhas, estourar balões, ovos surpresa, instrumentos musicais, jogos de colorir, quebra-cabeças, jogos de alimentação e muito mais. Estes jogos são uma combinação perfeita de diversão e educação!<br><br>Os jogos para bebê são divertidos, aprendizagem, envolventes e educativos ao mesmo tempo. Ele contém jogos de estouro de bolhas, estouro de balão, ovos surpresa, música e outros jogos divertidos infantis, que deixarão seu bebê inteligente e feliz.<br><br><br>Esses jogos infantis para crianças contêm jogos de aprendizado que não são apenas divertidos de jogar, mas também ajudam as crianças a desenvolver a concentração, coordenação olho-mão, habilidades motoras finas e muito mais.<br><br><br>Aqui está o que torna nossos jogos para bebê &amp; jogos de aprendizagem infantis tão emocionantes e divertidos de jogar:<br><br>- Melhor maneira de desenvolver habilidades para crianças de 1 a 5 anos.<br><br>- Mais de 5 divertidos jogos de estouros de balão e estouro de bolhas, ovos surpresa, jogos musicais e jogos divertidos infantis para crianças.<br><br>- Personagens animados fofos tornam os nossos jogos de aprendizagem muito divertidos.<br><br>- Conteúdo 100% seguro para crianças.<br><br><br>Aqui está o que você encontrará dentro do nosso jogos para bebê: Jogos de aprendizagem para crianças de 2 anos ou mais.<br><br><br>- Ovos Surpresa<br><br>Abra os ovos tocando neles para revelar surpresas escondidas!<br><br>Esmague Doces Coloridos<br>Ama doces? Divirta-se tocando em doces e gelatinas coloridas e observando-os explodir!<br><br>- Alimente o Dinossauro<br><br>Oh não! Os dinossauros estão com fome, e sua comida está voando! Toque rapidamente nos balões para soltar a comida e alimentar os dinos.<br>- Dinossauro Voador<br><br>Não deixe os dinossauros impertinentes escaparem. Toque nos balões para impedi-los de fugir!<br><br>- Aventura Subaquática<br><br>Junte-se ao dinossauro em uma aventura subaquática. Ajude-o a estourar todas as bolhas e a se divertir juntos.<br><br>- Jogos de estourar balões e bolhas<br><br>Estoure muitos balões e bolhas para aprender o ABCs, números, formas e muito mais.<br><br><br>Além do mais, há mais jogos divertidos para serem descobertos. Nossos jogos de estourar balões infantis para crianças são tudo o que você precisa para manter seus pequenos envolvidos - seja em casa ou em longas viagens.<br><br><br>Nossos jogos infantis são divertidos jogos de estourar balões para deixar seu filho inteligente e feliz. Um programa completo de aprendizado pré-escolar para crianças de 1 a 5 anos para manter seus filhos ocupados enquanto os ajudam a desenvolver habilidades iniciais cruciais da maneira mais divertida.<br><br><br>Baixe hoje nossos jogos para bebê para crianças de 2 anos ou mais<br>e ajude seu pequeno a aproveitar os divertidos jogos infantis.<br><br>Jogos para bebê 2 anos Criança<br><br>Jogue jogos para bebê 2 anos infantis! 100+ Jogos de educativos para crianças.",
+      "summary": "Jogue jogos para bebê 2 anos infantis! 100+ Jogos de educativos para crianças.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 4540304,
+      "score": 4.764151,
+      "scoreText": "4,8",
+      "ratings": 10043,
+      "reviews": 132,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": true,
+      "appId": "com.iz.baby.world.kids.learning.games.balloon.popping.educational",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.baby.world.kids.learning.games.balloon.popping.educational&hl=pt&gl=br",
+      "rank": 13
+    },
+    {
+      "title": "AutiSpark: Autistas Jogos",
+      "description": "AutiSpark é um app educacional único para crianças com Transtorno do Espectro do Autismo (TEA) com jogos de aprendizagem especialmente concebidos e aprovados por especialistas. Se você está se esforçando para ensinar conceitos básicos ao seu filho, o AutiSpark é perfeito para você.\n\nAutiSpark oferece uma infinidade de jogos de aprendizagem bem pesquisados, envolventes e interativos cuidadosamente projetados para atender aos requisitos de aprendizagem da criança. Inclui conceitos de associação de imagens, compreensão de emoções, reconhecimento de sons e muito mais.\n\n✓ Adequado para crianças com Transtorno do Espectro do Autismo (TEA).\n✓ Jogos educacionais e atividades especialmente concebidos.\n✓ Conteúdo envolvente para garantir o foco e a atenção da criança.\n✓ Desenvolva habilidades visuais, de comunicação e de linguagem básicas.\n\nComo Esses Jogos de Aprendizagem São Diferentes?\nEsses jogos educativos são feitos especialmente considerando as diversas necessidades das crianças no espectro autista, com a ajuda e orientação de terapeutas. Inclui reforço positivo de que as crianças precisam aprender e lembrar. Esses jogos para autismo são criados mantendo os conceitos fundamentais em mente para ajudar as crianças a aprender as habilidades básicas necessárias diariamente.\n\nPalavras & Ortografias:\nPode ser um desafio ensinar habilidades de leitura a crianças com autismo. Nossa compreensão de leitura precoce se concentrará no reconhecimento de letras, combinações de letras e palavras.\n\nHabilidades Básicas de Matemática:\nAutiSpark tornará a matemática divertida com jogos de aprendizagem especialmente concebidos, fáceis de compreender e jogar. As crianças aprenderão conceitos matemáticos de maneira fácil.\n\nJogos de Tracejamento:\nEscrever é uma habilidade importante que toda criança precisa dominar. AutiSpark ensinará letras maiúsculas e minúsculas do alfabeto, números e formas.\n\nJogos da Memória:\nAs crianças irão aprimorar sua memória e habilidades cognitivas jogando jogos de memória divertidos e educacionais. Haverá diferentes níveis de dificuldade para atender às necessidades da criança.\n\nJogos de Classificação:\nAutiSpark vai ensinar as crianças a identificar as semelhanças e diferenças facilmente. As crianças aprenderão a categorizar e organizar diferentes objetos.\n\nJogos de Correspondência:\nA capacidade de compreender e reconhecer objetos diferentes ajudará as crianças a desenvolver o senso de lógica.\n\nQuebra-cabeças:\nOs jogos de quebra-cabeça ajudam as crianças a melhorar as habilidades de resolução de problemas, a velocidade mental e o processo de pensamento.\n\nQuer que seu filho aprenda habilidades essenciais? Baixe AutiSpark - Jogos Para Autismo agora!",
+      "descriptionHTML": "AutiSpark é um app educacional único para crianças com Transtorno do Espectro do Autismo (TEA) com jogos de aprendizagem especialmente concebidos e aprovados por especialistas. Se você está se esforçando para ensinar conceitos básicos ao seu filho, o AutiSpark é perfeito para você.<br><br>AutiSpark oferece uma infinidade de jogos de aprendizagem bem pesquisados, envolventes e interativos cuidadosamente projetados para atender aos requisitos de aprendizagem da criança. Inclui conceitos de associação de imagens, compreensão de emoções, reconhecimento de sons e muito mais.<br><br>✓ Adequado para crianças com Transtorno do Espectro do Autismo (TEA).<br>✓ Jogos educacionais e atividades especialmente concebidos.<br>✓ Conteúdo envolvente para garantir o foco e a atenção da criança.<br>✓ Desenvolva habilidades visuais, de comunicação e de linguagem básicas.<br><br>Como Esses Jogos de Aprendizagem São Diferentes?<br>Esses jogos educativos são feitos especialmente considerando as diversas necessidades das crianças no espectro autista, com a ajuda e orientação de terapeutas. Inclui reforço positivo de que as crianças precisam aprender e lembrar. Esses jogos para autismo são criados mantendo os conceitos fundamentais em mente para ajudar as crianças a aprender as habilidades básicas necessárias diariamente.<br><br>Palavras &amp; Ortografias:<br>Pode ser um desafio ensinar habilidades de leitura a crianças com autismo. Nossa compreensão de leitura precoce se concentrará no reconhecimento de letras, combinações de letras e palavras.<br><br>Habilidades Básicas de Matemática:<br>AutiSpark tornará a matemática divertida com jogos de aprendizagem especialmente concebidos, fáceis de compreender e jogar. As crianças aprenderão conceitos matemáticos de maneira fácil.<br><br>Jogos de Tracejamento:<br>Escrever é uma habilidade importante que toda criança precisa dominar. AutiSpark ensinará letras maiúsculas e minúsculas do alfabeto, números e formas.<br><br>Jogos da Memória:<br>As crianças irão aprimorar sua memória e habilidades cognitivas jogando jogos de memória divertidos e educacionais. Haverá diferentes níveis de dificuldade para atender às necessidades da criança.<br><br>Jogos de Classificação:<br>AutiSpark vai ensinar as crianças a identificar as semelhanças e diferenças facilmente. As crianças aprenderão a categorizar e organizar diferentes objetos.<br><br>Jogos de Correspondência:<br>A capacidade de compreender e reconhecer objetos diferentes ajudará as crianças a desenvolver o senso de lógica.<br><br>Quebra-cabeças:<br>Os jogos de quebra-cabeça ajudam as crianças a melhorar as habilidades de resolução de problemas, a velocidade mental e o processo de pensamento.<br><br>Quer que seu filho aprenda habilidades essenciais? Baixe AutiSpark - Jogos Para Autismo agora!",
+      "summary": "Aprender jogos autistas feitos apenas para crianças com autismo.",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 3927597,
+      "score": 4.18,
+      "scoreText": "4,2",
+      "ratings": 3637,
+      "reviews": 64,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.iz.autispark.kids.autism.games.special.needs.educational.learning.therapy.social.skills.speech",
+      "url": "https://play.google.com/store/apps/details?id=com.iz.autispark.kids.autism.games.special.needs.educational.learning.therapy.social.skills.speech&hl=pt&gl=br",
+      "rank": 14
+    },
+    {
+      "title": "GraphoGame Brasil",
+      "description": "Prepare seu filho ou aluno para o sucesso na leitura! O lançamento do GraphoGame no Brasil é uma ação do Ministério da Educação, no âmbito da Política Nacional de Alfabetização e do programa Tempo de Aprender e em colaboração com cientistas brasileiros, para apoiar os professores, em atividades de ensino remoto, e as famílias, no acompanhamento das crianças no processo de aquisição de habilidades de literacia.\n \nO GraphoGame ajuda as crianças que estão na pré-escola ou nos anos iniciais do ensino fundamental a aprender a ler e a soletrar suas primeiras letras, sílabas e palavras, com sons e instruções do português brasileiro. O jogo é especialmente eficaz para crianças que estão aprendendo as relações entre letras e sons. Tudo isso sem anúncios e totalmente offline!\n\nO aplicativo apresenta uma dinâmica de jogo baseada em evidências científicas a fim de desenvolver, por exemplo, as habilidades de leitura e a ortografia das crianças.\n\nGraphoGame é o resultado de décadas de pesquisas de cientistas da leitura da Finlândia e de outros países. Todo o seu conteúdo foi adaptado para o português do Brasil pelo Instituto do Cérebro do RS e Pontifícia Universidade Católica do Rio Grande do Sul.\n\nO GraphoGame apresenta:\n\n☆ Metodologia baseada em evidências científicas;\n\n☆ Interface para crianças;\n\n☆ Gráficos 3D envolventes;\n\n☆ Criação e personalização de personagens;\n\n☆ Relatórios de desempenho da criança;\n\n☆ Incentivos de aprendizagem divertidos;\n\n☆ Interface 100% off-line – a conexão com a internet é necessária apenas para o download do jogo!\n\nÉ tempo de aprender!",
+      "descriptionHTML": "Prepare seu filho ou aluno para o sucesso na leitura! O lançamento do GraphoGame no Brasil é uma ação do Ministério da Educação, no âmbito da Política Nacional de Alfabetização e do programa Tempo de Aprender e em colaboração com cientistas brasileiros, para apoiar os professores, em atividades de ensino remoto, e as famílias, no acompanhamento das crianças no processo de aquisição de habilidades de literacia.<br> <br>O GraphoGame ajuda as crianças que estão na pré-escola ou nos anos iniciais do ensino fundamental a aprender a ler e a soletrar suas primeiras letras, sílabas e palavras, com sons e instruções do português brasileiro. O jogo é especialmente eficaz para crianças que estão aprendendo as relações entre letras e sons. Tudo isso sem anúncios e totalmente offline!<br><br>O aplicativo apresenta uma dinâmica de jogo baseada em evidências científicas a fim de desenvolver, por exemplo, as habilidades de leitura e a ortografia das crianças.<br><br>GraphoGame é o resultado de décadas de pesquisas de cientistas da leitura da Finlândia e de outros países. Todo o seu conteúdo foi adaptado para o português do Brasil pelo Instituto do Cérebro do RS e Pontifícia Universidade Católica do Rio Grande do Sul.<br><br>O GraphoGame apresenta:<br><br>☆ Metodologia baseada em evidências científicas;<br><br>☆ Interface para crianças;<br><br>☆ Gráficos 3D envolventes;<br><br>☆ Criação e personalização de personagens;<br><br>☆ Relatórios de desempenho da criança;<br><br>☆ Incentivos de aprendizagem divertidos;<br><br>☆ Interface 100% off-line – a conexão com a internet é necessária apenas para o download do jogo!<br><br>É tempo de aprender!",
+      "summary": "Jogo de alfabetização português",
+      "installs": "1.000.000+",
+      "minInstalls": 1000000,
+      "maxInstalls": 2130304,
+      "score": 4.375,
+      "scoreText": "4,4",
+      "ratings": 5959,
+      "reviews": 2776,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativos",
+          "id": "GAME_EDUCATIONAL"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.graphogame.gg_brazil_free",
+      "url": "https://play.google.com/store/apps/details?id=com.graphogame.gg_brazil_free&hl=pt&gl=br",
+      "rank": 15
+    },
+    {
+      "title": "Little Minds: Jogos infantis",
+      "description": "Discover the joy of learning with Little Minds!\n\nCriado para crianças de 3 a 7 anos e confiado por pais no mundo todo, este pacote divertido reúne 5 jogos populares da TutoTOONS em um único aplicativo. Por meio de brincadeiras envolventes e educativas, Little Minds ajuda as crianças a aprender hábitos do dia a dia, desenvolver habilidades de resolução de problemas, empatia e estimular a criatividade. \n\n​🧽 Sweet Baby Girl Cleanup 6\nAs tarefas diárias podem ser divertidas! Com atividades interativas de limpeza e decoração, as crianças aprendem a concluir tarefas, assumir responsabilidades e cuidar do ambiente ao redor.\n\n🍼​ My Baby Unicorn 2\nCrie seu próprio bebê unicórnio! Desde alimentar e dar banho até ensinar a usar o penico e colocá-lo para dormir, as crianças aprendem a cuidar, desenvolver empatia e praticar hábitos de autocuidado de forma divertida. \n\n​🐶​ Kiki & Fifi Pet Friends\nO jogo perfeito para crianças que sonham em ter bichinhos de estimação! Elas aprendem a cuidar de seus amiguinhos peludos limpando, escovando e estilizando com carinho.\n\n🏡​ Panda Lu Treehouse\nConstrua a casa na árvore mais legal de todas! Com salas e níveis infinitos para criar, as crianças desenvolvem o raciocínio lógico, habilidades de resolução de problemas e se divertem interpretando com personagens adoráveis.\n\n😺 Little Kitty Town\nExplore um mundo encantador de gatinhos! É onde as crianças podem colecionar mais de 40 gatos exclusivos, criar suas próprias histórias, soltar a imaginação com brincadeiras e descobrir surpresas que despertam a curiosidade!\n\nATUALIZE PARA O TUTOCLUB!\nAssine agora e aproveite uma ampla variedade de jogos incríveis com os recursos extraordinários do TutoClub!\n- CONTEÚDO DE JOGO ILIMITADO: Acesso exclusivo a jogos completos.\n- SEM ANÚNCIOS: Desfrute de uma experiência de jogo suave e sem interrupções.\n- ESPAÇO ON-LINE SEGURO: Um lugar 100% familiar sem conteúdo indesejado.\n- ATUALIZAÇÕES REGULARES: Acesso a todas as atualizações futuras, novos lançamentos de jogos e conteúdo adicional.\n- COMPRAS PREMIUM NO APLICATIVO DESBLOQUEADAS: Os membros do TutoClub desfrutam de conteúdo exclusivo.\n- DIVERSÃO PARA TODAS AS IDADES: Jogos originais TutoTOONS projetados para meninos e meninas de 3 a 8 anos ou mais.\n- APRENDIZAGEM ATRAVÉS DO JOGO: Uma cuidadosa seleção de jogos que valorizam a criatividade, a autoexpressão, a responsabilidade, a atenção aos detalhes e as habilidades de resolução de problemas.\nJunte-se ao TutoClub hoje mesmo e proporcione experiências de brincadeiras enriquecedoras aos seus filhos! Saiba mais em: https://tutotoons.com/tutoclub/\n\n- - - - - - - - - - - - - - - - - - - - - - - -\n\nMensagem importante\nEste aplicativo é gratuito para baixar e jogar, mas pode haver certos itens no jogo disponíveis mediante compra com dinheiro real. Ao baixar este aplicativo, você concorda com a Política de Privacidade do TutoTOONS https://tutotoons.com/privacy_policy/ e os Termos de Uso https://tutotoons.com/terms.\n\nDescubra mais diversão com a TutoTOONS!\n· Inscreva-se no nosso canal do YouTube: https://www.youtube.com/@TutoTOONS\n· Saiba mais sobre nós: https://tutotoons.com\n· Leia o nosso blog: https://blog.tutotoons.com\n· Curta-nos no Facebook: https://www.facebook.com/tutotoons\n· Siga-nos no Instagram: https://www.instagram.com/tutotoons/",
+      "descriptionHTML": "<b>Discover the joy of learning with Little Minds!</b><br><br>Criado para crianças de 3 a 7 anos e confiado por pais no mundo todo, este pacote divertido reúne 5 jogos populares da TutoTOONS em um único aplicativo. Por meio de brincadeiras envolventes e educativas, Little Minds ajuda as crianças a aprender hábitos do dia a dia, desenvolver habilidades de resolução de problemas, empatia e estimular a criatividade. <br><br>​🧽 <b>Sweet Baby Girl Cleanup 6</b><br>As tarefas diárias podem ser divertidas! Com atividades interativas de limpeza e decoração, as crianças aprendem a concluir tarefas, assumir responsabilidades e cuidar do ambiente ao redor.<br><br>🍼​ <b>My Baby Unicorn 2</b><br>Crie seu próprio bebê unicórnio! Desde alimentar e dar banho até ensinar a usar o penico e colocá-lo para dormir, as crianças aprendem a cuidar, desenvolver empatia e praticar hábitos de autocuidado de forma divertida. <br><br>​🐶​ <b>Kiki &amp; Fifi Pet Friends</b><br>O jogo perfeito para crianças que sonham em ter bichinhos de estimação! Elas aprendem a cuidar de seus amiguinhos peludos limpando, escovando e estilizando com carinho.<br><br>🏡​ <b>Panda Lu Treehouse</b><br>Construa a casa na árvore mais legal de todas! Com salas e níveis infinitos para criar, as crianças desenvolvem o raciocínio lógico, habilidades de resolução de problemas e se divertem interpretando com personagens adoráveis.<br><br>😺 <b>Little Kitty Town</b><br>Explore um mundo encantador de gatinhos! É onde as crianças podem colecionar mais de 40 gatos exclusivos, criar suas próprias histórias, soltar a imaginação com brincadeiras e descobrir surpresas que despertam a curiosidade!<br><br>ATUALIZE PARA O TUTOCLUB!<br>Assine agora e aproveite uma ampla variedade de jogos incríveis com os recursos extraordinários do TutoClub!<br>- CONTEÚDO DE JOGO ILIMITADO: Acesso exclusivo a jogos completos.<br>- SEM ANÚNCIOS: Desfrute de uma experiência de jogo suave e sem interrupções.<br>- ESPAÇO ON-LINE SEGURO: Um lugar 100% familiar sem conteúdo indesejado.<br>- ATUALIZAÇÕES REGULARES: Acesso a todas as atualizações futuras, novos lançamentos de jogos e conteúdo adicional.<br>- COMPRAS PREMIUM NO APLICATIVO DESBLOQUEADAS: Os membros do TutoClub desfrutam de conteúdo exclusivo.<br>- DIVERSÃO PARA TODAS AS IDADES: Jogos originais TutoTOONS projetados para meninos e meninas de 3 a 8 anos ou mais.<br>- APRENDIZAGEM ATRAVÉS DO JOGO: Uma cuidadosa seleção de jogos que valorizam a criatividade, a autoexpressão, a responsabilidade, a atenção aos detalhes e as habilidades de resolução de problemas.<br>Junte-se ao TutoClub hoje mesmo e proporcione experiências de brincadeiras enriquecedoras aos seus filhos! Saiba mais em: https://tutotoons.com/tutoclub/<br><br>- - - - - - - - - - - - - - - - - - - - - - - -<br><br>Mensagem importante<br>Este aplicativo é gratuito para baixar e jogar, mas pode haver certos itens no jogo disponíveis mediante compra com dinheiro real. Ao baixar este aplicativo, você concorda com a Política de Privacidade do TutoTOONS https://tutotoons.com/privacy_policy/ e os Termos de Uso https://tutotoons.com/terms.<br><br>Descubra mais diversão com a TutoTOONS!<br>· Inscreva-se no nosso canal do YouTube: https://www.youtube.com/@TutoTOONS<br>· Saiba mais sobre nós: https://tutotoons.com<br>· Leia o nosso blog: https://blog.tutotoons.com<br>· Curta-nos no Facebook: https://www.facebook.com/tutotoons<br>· Siga-nos no Instagram: https://www.instagram.com/tutotoons/",
+      "summary": "Aprenda e divirta-se com 5 jogos TutoTOONS que ensinam habilidades para a vida.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 354287,
+      "score": 3.6818182,
+      "scoreText": "3,7",
+      "ratings": 317,
+      "reviews": 8,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Simulação",
+          "id": "GAME_SIMULATION"
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Fofo",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tutotoons.app.littleminds.free",
+      "url": "https://play.google.com/store/apps/details?id=com.tutotoons.app.littleminds.free&hl=pt&gl=br",
+      "rank": 16
+    },
+    {
+      "title": "Toddler Games for Kids 2-5",
+      "description": "🎓 Jogos para Crianças de 2 a 5 Anos\n\nAjude seu filho a aprender brincando com jogos educativos divertidos, desenvolvidos para crianças pequenas, em idade pré-escolar e no jardim de infância. Com mais de 20 atividades coloridas de aprendizado, este aplicativo ajuda as crianças a desenvolver habilidades essenciais para o aprendizado precoce enquanto se divertem.\n\nPerfeitos para crianças de 2 a 5 anos, esses jogos educativos incentivam a curiosidade, a criatividade e a autoconfiança por meio de uma jogabilidade simples e envolvente.\n\n🌟 O que está incluído\n🧩 Quebra-cabeças\n🎨 Cores\n🔺 Formas\n🔢 Números\n🧠 Jogos da Memória\n🧩 Atividades de Lógica\n👀 Jogos de Atenção\n📦 Jogos de Classificação\n\nCada atividade foi criada para aprimorar:\n• Coordenação motora\n• Habilidades motoras finas\n• Raciocínio lógico\n• Percepção visual\n• Memória\n• Concentração\n\n📚 Aprenda Brincando\n\nAs crianças podem explorar e aprender:\n• Alfabeto básico\n• Cores\n• Formas geométricas\n• Contagem\n• Combinações\n• Classificação\n• Resolução de problemas\n\nAprender se torna uma brincadeira, ideal para crianças em idade pré-escolar e do jardim de infância.\n\n❤️ Projetado para crianças pequenas\n\n✔ Controles de toque fáceis\n✔ Gráficos coloridos e vibrantes\n✔ Animações amigáveis\n✔ Seguro para crianças pequenas\n✔ Sem menus confusos\n✔ Perfeito para brincar sozinho\n\n👨‍👩‍👧 Ideal para crianças de 2 a 5 anos\n\nSe seu filho está começando a reconhecer cores ou se preparando para a pré-escola, estes jogos educativos para crianças pequenas oferecem uma maneira divertida e envolvente de praticar importantes habilidades de aprendizagem precoce.\n\nOs pais podem experimentar o jogo gratuitamente antes de desbloquear a versão completa.\n\nBaixe Jogos para Crianças de 2 a 5 anos hoje mesmo e proporcione ao seu filho uma maneira divertida, segura e envolvente de aprender brincando!",
+      "descriptionHTML": "🎓 Jogos para Crianças de 2 a 5 Anos<br><br>Ajude seu filho a aprender brincando com jogos educativos divertidos, desenvolvidos para crianças pequenas, em idade pré-escolar e no jardim de infância. Com mais de 20 atividades coloridas de aprendizado, este aplicativo ajuda as crianças a desenvolver habilidades essenciais para o aprendizado precoce enquanto se divertem.<br><br>Perfeitos para crianças de 2 a 5 anos, esses jogos educativos incentivam a curiosidade, a criatividade e a autoconfiança por meio de uma jogabilidade simples e envolvente.<br><br>🌟 O que está incluído<br>🧩 Quebra-cabeças<br>🎨 Cores<br>🔺 Formas<br>🔢 Números<br>🧠 Jogos da Memória<br>🧩 Atividades de Lógica<br>👀 Jogos de Atenção<br>📦 Jogos de Classificação<br><br>Cada atividade foi criada para aprimorar:<br>• Coordenação motora<br>• Habilidades motoras finas<br>• Raciocínio lógico<br>• Percepção visual<br>• Memória<br>• Concentração<br><br>📚 Aprenda Brincando<br><br>As crianças podem explorar e aprender:<br>• Alfabeto básico<br>• Cores<br>• Formas geométricas<br>• Contagem<br>• Combinações<br>• Classificação<br>• Resolução de problemas<br><br>Aprender se torna uma brincadeira, ideal para crianças em idade pré-escolar e do jardim de infância.<br><br>❤️ Projetado para crianças pequenas<br><br>✔ Controles de toque fáceis<br>✔ Gráficos coloridos e vibrantes<br>✔ Animações amigáveis<br>✔ Seguro para crianças pequenas<br>✔ Sem menus confusos<br>✔ Perfeito para brincar sozinho<br><br>👨‍👩‍👧 Ideal para crianças de 2 a 5 anos<br><br>Se seu filho está começando a reconhecer cores ou se preparando para a pré-escola, estes jogos educativos para crianças pequenas oferecem uma maneira divertida e envolvente de praticar importantes habilidades de aprendizagem precoce.<br><br>Os pais podem experimentar o jogo gratuitamente antes de desbloquear a versão completa.<br><br>Baixe Jogos para Crianças de 2 a 5 anos hoje mesmo e proporcione ao seu filho uma maneira divertida, segura e envolvente de aprender brincando!",
+      "summary": "Mais de 20 jogos educativos divertidos! Alfabeto, cores, números, quebra-cabeças e habilidades pré-escolares.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 159462,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.queleas.toddlergames",
+      "url": "https://play.google.com/store/apps/details?id=com.queleas.toddlergames&hl=pt&gl=br",
+      "rank": 17
+    },
+    {
+      "title": "Puzzles para crianças - Jogos",
+      "description": "- Um jogo gratuito para crianças de 1 a 3 anos de idade!\n\nBem-vindo a Puzzles para crianças - um jogo divertido para crianças de 1 a 3 anos de idade! Neste jogo infantil em português, há 34 quebra-cabeças diferentes com mais de 70 opções distintas de animais, carros e objetos para escolher.   \n\nPuzzles para crianças é um jogo infantil gratuito para crianças de 1, 2 ou 3 anos. O seu filho vai mover as peças de quebra-cabeça com facilidade, arrastando-as na tela e, quando terminar um quebra-cabeça, haverá uma animação divertida de um carro ou um animal e um som de torcida. \n\nTodos os puzzles para crianças visam exercitar o raciocínio lógico do seu filho e visam ser realmente lúdicos e divertidos. Todas as peças de quebra-cabeça são fáceis de selecionar e colocar na posição correta. \n\nA interface deste jogo infantil gratuito foi desenhada especialmente para crianças pequenas de 1, 2 e 3 anos de idade - e está totalmente em português.\n\t\nOs jogos para crianças são uma forma excelente para os pais e os filhos passarem tempo juntos enquanto a criança aprende vocabulário e desenvolve o raciocínio lógico. As crianças pequenas aprendem a utilizar sozinhas o Puzzles para crianças num piscar de olhos. \n\nO Puzzles para crianças é um app infantil gratuito, mais adequado para crianças de 1, 2 ou 3 anos de idade. Todas as imagens são de excelente qualidade e contêm carros, animais, aviões, robôs, viaturas policiais e muito mais. \n\nMUITOS QUEBRA-CABEÇAS\nHá mais de 34 puzzles diferentes para a criançada curtir neste app infantil. Os puzzles incluem animais, carros e outras coisas divertidas. \n\nTESTADO COM ATENÇÃO\nO app foi testado por crianças pequenas de 1, 2 e 3 anos. Na nossa opinião, todos os jogos infantis devem ser testados em crianças durante o desenvolvimento do app.\n\nPRINCIPAIS CARACTERÍSTICAS\n- Jogos grátis para crianças\n- Animações e sons selecionados para crianças pequenas \n- Ideal para crianças de 1, 2 e 3 anos de idade \n- Testado em smartphones e tablets\n- Quebra-cabeças divertidos e educativos para crianças \n- Disponível em inglês, holandês, alemão, italiano, espanhol, português, sueco, francês e outras línguas \n\nPuzzles para crianças é fornecido pela Tappy Happy, desenvolvedora de aplicativos e jogos divertidos para crianças de 1, 2 e 3 anos de idade. Todos os nossos aplicativos e jogos infantis são gratuitos e em português.",
+      "descriptionHTML": "- Um jogo gratuito para crianças de 1 a 3 anos de idade!<br><br>Bem-vindo a Puzzles para crianças - um jogo divertido para crianças de 1 a 3 anos de idade! Neste jogo infantil em português, há 34 quebra-cabeças diferentes com mais de 70 opções distintas de animais, carros e objetos para escolher.   <br><br>Puzzles para crianças é um jogo infantil gratuito para crianças de 1, 2 ou 3 anos. O seu filho vai mover as peças de quebra-cabeça com facilidade, arrastando-as na tela e, quando terminar um quebra-cabeça, haverá uma animação divertida de um carro ou um animal e um som de torcida. <br><br>Todos os puzzles para crianças visam exercitar o raciocínio lógico do seu filho e visam ser realmente lúdicos e divertidos. Todas as peças de quebra-cabeça são fáceis de selecionar e colocar na posição correta. <br><br>A interface deste jogo infantil gratuito foi desenhada especialmente para crianças pequenas de 1, 2 e 3 anos de idade - e está totalmente em português.<br>\t<br>Os jogos para crianças são uma forma excelente para os pais e os filhos passarem tempo juntos enquanto a criança aprende vocabulário e desenvolve o raciocínio lógico. As crianças pequenas aprendem a utilizar sozinhas o Puzzles para crianças num piscar de olhos. <br><br>O Puzzles para crianças é um app infantil gratuito, mais adequado para crianças de 1, 2 ou 3 anos de idade. Todas as imagens são de excelente qualidade e contêm carros, animais, aviões, robôs, viaturas policiais e muito mais. <br><br>MUITOS QUEBRA-CABEÇAS<br>Há mais de 34 puzzles diferentes para a criançada curtir neste app infantil. Os puzzles incluem animais, carros e outras coisas divertidas. <br><br>TESTADO COM ATENÇÃO<br>O app foi testado por crianças pequenas de 1, 2 e 3 anos. Na nossa opinião, todos os jogos infantis devem ser testados em crianças durante o desenvolvimento do app.<br><br>PRINCIPAIS CARACTERÍSTICAS<br>- Jogos grátis para crianças<br>- Animações e sons selecionados para crianças pequenas <br>- Ideal para crianças de 1, 2 e 3 anos de idade <br>- Testado em smartphones e tablets<br>- Quebra-cabeças divertidos e educativos para crianças <br>- Disponível em inglês, holandês, alemão, italiano, espanhol, português, sueco, francês e outras línguas <br><br>Puzzles para crianças é fornecido pela Tappy Happy, desenvolvedora de aplicativos e jogos divertidos para crianças de 1, 2 e 3 anos de idade. Todos os nossos aplicativos e jogos infantis são gratuitos e em português.",
+      "summary": "Um jogo gratuito para crianças de 1 a 3 anos de idade!",
+      "installs": "500.000+",
+      "minInstalls": 500000,
+      "maxInstalls": 821992,
+      "score": 3.9777777,
+      "scoreText": "4,0",
+      "ratings": 708,
+      "reviews": 21,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educação",
+      "genreId": "EDUCATION",
+      "categories": [
+        {
+          "name": "Educação",
+          "id": "EDUCATION"
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.tappyhappy.puzzleforchildren",
+      "url": "https://play.google.com/store/apps/details?id=com.tappyhappy.puzzleforchildren&hl=pt&gl=br",
+      "rank": 18
+    },
+    {
+      "title": "Impulse - Jogos para o cérebro",
+      "description": "Treine seu cérebro. Descubra-se. Torne-se mais afiado.\nO Impulse é mais do que um app de treinamento cerebral — é um kit completo para entender como sua mente funciona e desenvolvê-la em sua versão mais forte.\n\nDificuldade em manter o foco? Esquece as coisas facilmente? Sente que seu cérebro pode fazer mais? É aí que o Impulse entra.\n\nTREINE O QUE SEU CÉREBRO MAIS PRECISA\nO Impulse cria um plano de treinamento diário personalizado voltado para as áreas cerebrais que você mais precisa:\n- Memória e velocidade de processamento\n- Atenção e foco\n- Cálculo mental\n- Resolução de problemas\nNossos jogos inspirados na ciência são desafiadores o suficiente para manter seu progresso e simples o suficiente para serem aproveitados todos os dias — em qualquer idade ou nível de habilidade.\n\nDESCUBRA SEU PERFIL COGNITIVO\nAprofunde-se com uma biblioteca de testes de autoconhecimento que revelam como sua mente realmente funciona:\n- Testes de QI e pontos fortes cognitivos\n- Tipo de personalidade e insights sobre arquétipos\n- Testes de inteligência emocional e autoconsciência\nCada teste vem com recomendações personalizadas para que você saiba exatamente em quais áreas se concentrar e como crescer.\n\nACOMPANHE SEU CRESCIMENTO\n- Veja as tendências do seu desempenho ao longo do tempo\n- Obtenha insights acionáveis — não apenas pontuações\n- Mantenha-se motivado com sequências e relatórios de progresso\n\nPOR QUE O IMPULSE\nA maioria dos apps cerebrais só te oferece jogos. O Impulse também te dá uma compreensão mais profunda de você mesmo.\nTreine de forma mais inteligente e mantenha-se afiado para a vida toda.\nJunte-se a 100 milhões de pessoas em todo o mundo que tornaram o Impulse parte de sua rotina diária.\n\nO Impulse oferece um teste gratuito de 3 dias com acesso completo a todos os jogos - sem anúncios, sem interrupções. Se você optar pela assinatura, a taxa será exibida no app antes de concluir o pagamento. O pagamento será cobrado em sua conta do Google na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual. Você pode gerenciar sua assinatura e desativar a renovação automática a qualquer momento nas Configurações da conta do Google.\n\nTermos de Serviço: https://brainimpulse.me/app/tos.html\nPolítica de Privacidade: https://brainimpulse.me/app/privacy_policy.html\nContato: support@brainimpulse.me",
+      "descriptionHTML": "Treine seu cérebro. Descubra-se. Torne-se mais afiado.<br>O Impulse é mais do que um app de treinamento cerebral — é um kit completo para entender como sua mente funciona e desenvolvê-la em sua versão mais forte.<br><br>Dificuldade em manter o foco? Esquece as coisas facilmente? Sente que seu cérebro pode fazer mais? É aí que o Impulse entra.<br><br>TREINE O QUE SEU CÉREBRO MAIS PRECISA<br>O Impulse cria um plano de treinamento diário personalizado voltado para as áreas cerebrais que você mais precisa:<br>- Memória e velocidade de processamento<br>- Atenção e foco<br>- Cálculo mental<br>- Resolução de problemas<br>Nossos jogos inspirados na ciência são desafiadores o suficiente para manter seu progresso e simples o suficiente para serem aproveitados todos os dias — em qualquer idade ou nível de habilidade.<br><br>DESCUBRA SEU PERFIL COGNITIVO<br>Aprofunde-se com uma biblioteca de testes de autoconhecimento que revelam como sua mente realmente funciona:<br>- Testes de QI e pontos fortes cognitivos<br>- Tipo de personalidade e insights sobre arquétipos<br>- Testes de inteligência emocional e autoconsciência<br>Cada teste vem com recomendações personalizadas para que você saiba exatamente em quais áreas se concentrar e como crescer.<br><br>ACOMPANHE SEU CRESCIMENTO<br>- Veja as tendências do seu desempenho ao longo do tempo<br>- Obtenha insights acionáveis — não apenas pontuações<br>- Mantenha-se motivado com sequências e relatórios de progresso<br><br>POR QUE O IMPULSE<br>A maioria dos apps cerebrais só te oferece jogos. O Impulse também te dá uma compreensão mais profunda de você mesmo.<br>Treine de forma mais inteligente e mantenha-se afiado para a vida toda.<br>Junte-se a 100 milhões de pessoas em todo o mundo que tornaram o Impulse parte de sua rotina diária.<br><br>O Impulse oferece um teste gratuito de 3 dias com acesso completo a todos os jogos - sem anúncios, sem interrupções. Se você optar pela assinatura, a taxa será exibida no app antes de concluir o pagamento. O pagamento será cobrado em sua conta do Google na confirmação da compra. A assinatura é renovada automaticamente, a menos que a renovação automática seja desativada pelo menos 24 horas antes do final do período atual. Você pode gerenciar sua assinatura e desativar a renovação automática a qualquer momento nas Configurações da conta do Google.<br><br>Termos de Serviço: https://brainimpulse.me/app/tos.html<br>Política de Privacidade: https://brainimpulse.me/app/privacy_policy.html<br>Contato: support@brainimpulse.me",
+      "summary": "Jogos de QI e Enigmas Mentais",
+      "installs": "10.000.000+",
+      "minInstalls": 10000000,
+      "maxInstalls": 25706056,
+      "score": 4.776436,
+      "scoreText": "4,8",
+      "ratings": 655530,
+      "reviews": 14215,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Saúde e fitness",
+      "genreId": "HEALTH_AND_FITNESS",
+      "categories": [
+        {
+          "name": "Saúde e fitness",
+          "id": "HEALTH_AND_FITNESS"
+        }
+      ],
+      "adSupported": true,
+      "appId": "gen.tech.impulse.android",
+      "url": "https://play.google.com/store/apps/details?id=gen.tech.impulse.android&hl=pt&gl=br",
+      "rank": 19
+    },
+    {
+      "title": "Learning games for Kids. Bodo",
+      "description": "Os jogos educativos com Bodo Borodo são jogos educativos para crianças e bebês. O aplicativo contém jogos com letras, alfabeto, fonética, números, formas, oficina de brinquedos, pizza, quebra-cabeças e jogos para o jardim de infância. Os livros de colorir e quebra-cabeças melhoram a criatividade, o pensamento lógico e a atenção. Nosso aplicativo é ideal para o jardim de infância e a pré-escola. ABC, 123 e viagens espaciais estão disponíveis gratuitamente, sem anúncios e sem Wi-Fi. 😊\n\n👨‍🏫 O aplicativo foi desenvolvido por especialistas e professores com 20 anos de experiência na área de jogos educativos e para o jardim de infância e testado por crianças em idade pré-escolar.\n\n🦉Os jogos educativos servem como preparação escolar para crianças de 5 a 6 anos e ajudam a aprender as letras e o alfabeto. Para crianças de 3 a 4 anos, nosso aplicativo é perfeito para desenvolver a criatividade, a dramatização, a autoexpressão e as habilidades acadêmicas.\n\nJogos para crianças e bebês com Bodo Borodo:\n· ✨Vamos brincar de oficina com Bodo - um jogo educativo e para o cérebro para crianças pequenas. Desenvolvemos habilidades de lógica, atenção e raciocínio.\n· 🌲 🐂Uma série de jogos sobre ecologia - aprenda a separar o lixo corretamente, plante uma nova floresta e introduza animais para viver nela, apague um incêndio na floresta.\n· 🚀 Viagem espacial é um jogo educativo para meninos e meninas. Voe em um foguete com Bodo e descubra novos planetas. Chame seus pais e mães para se divertirem juntos.\n· 🎨 Colorir com cores - criatividade, atividade de autoexpressão.\n· 🧩 Muitos quebra-cabeças da aventura de Bodo Borodo - colecione todos.\n\n📒Jogos educativos de alfabeto para crianças ajudarão a memorizar sons e a aprender a escrever letras. Letras coloridas com Bodo Borodo são jogos educativos úteis para crianças em idade pré-escolar de 5 a 6 anos. O jogo educativo ABC atrairá crianças e seus pais e aprimorará suas habilidades acadêmicas.\n\n📚Aprender formas e números de 1 a 10, contar objetos, aprender traçando o contorno com o dedo. Aprendizado divertido no aplicativo para meninos e meninas com personagens de desenhos animados.\n✍🏻Os jogos educativos para crianças com Bodo possuem gráficos coloridos e vibrantes, uma interface simples e muitas animações. Todos os jogos infantis estão disponíveis sem conexão com a internet e sem anúncios. Meninos e meninas podem aprender, crescer e se expressar no aplicativo.\n\n😊Os jogos infantis são atraentes para meninos e meninas de 3, 4 e 5 anos. Os jogos educativos ajudam a aprender letras, alfabeto, números e formas e serão úteis na preparação para a escola aos 6 anos de idade. As crianças vão adorar colorir e quebra-cabeças coloridos. Os jogos para crianças com Bodo são jogos educativos divertidos com animações coloridas e tarefas úteis. Jogos sem anúncios e sem internet.\n\nPolítica de Privacidade https://1cmobile.com/edu-app-privacy-policy/\nTermos de Uso https://1cmobile.com/edu-app-terms-of-use/\nE-mail: support@1cwireless.com",
+      "descriptionHTML": "Os jogos educativos com Bodo Borodo são jogos educativos para crianças e bebês. O aplicativo contém jogos com letras, alfabeto, fonética, números, formas, oficina de brinquedos, pizza, quebra-cabeças e jogos para o jardim de infância. Os livros de colorir e quebra-cabeças melhoram a criatividade, o pensamento lógico e a atenção. Nosso aplicativo é ideal para o jardim de infância e a pré-escola. ABC, 123 e viagens espaciais estão disponíveis gratuitamente, sem anúncios e sem Wi-Fi. 😊<br><br>👨‍🏫 O aplicativo foi desenvolvido por especialistas e professores com 20 anos de experiência na área de jogos educativos e para o jardim de infância e testado por crianças em idade pré-escolar.<br><br>🦉Os jogos educativos servem como preparação escolar para crianças de 5 a 6 anos e ajudam a aprender as letras e o alfabeto. Para crianças de 3 a 4 anos, nosso aplicativo é perfeito para desenvolver a criatividade, a dramatização, a autoexpressão e as habilidades acadêmicas.<br><br>Jogos para crianças e bebês com Bodo Borodo:<br>· ✨Vamos brincar de oficina com Bodo - um jogo educativo e para o cérebro para crianças pequenas. Desenvolvemos habilidades de lógica, atenção e raciocínio.<br>· 🌲 🐂Uma série de jogos sobre ecologia - aprenda a separar o lixo corretamente, plante uma nova floresta e introduza animais para viver nela, apague um incêndio na floresta.<br>· 🚀 Viagem espacial é um jogo educativo para meninos e meninas. Voe em um foguete com Bodo e descubra novos planetas. Chame seus pais e mães para se divertirem juntos.<br>· 🎨 Colorir com cores - criatividade, atividade de autoexpressão.<br>· 🧩 Muitos quebra-cabeças da aventura de Bodo Borodo - colecione todos.<br><br>📒Jogos educativos de alfabeto para crianças ajudarão a memorizar sons e a aprender a escrever letras. Letras coloridas com Bodo Borodo são jogos educativos úteis para crianças em idade pré-escolar de 5 a 6 anos. O jogo educativo ABC atrairá crianças e seus pais e aprimorará suas habilidades acadêmicas.<br><br>📚Aprender formas e números de 1 a 10, contar objetos, aprender traçando o contorno com o dedo. Aprendizado divertido no aplicativo para meninos e meninas com personagens de desenhos animados.<br>✍🏻Os jogos educativos para crianças com Bodo possuem gráficos coloridos e vibrantes, uma interface simples e muitas animações. Todos os jogos infantis estão disponíveis sem conexão com a internet e sem anúncios. Meninos e meninas podem aprender, crescer e se expressar no aplicativo.<br><br>😊Os jogos infantis são atraentes para meninos e meninas de 3, 4 e 5 anos. Os jogos educativos ajudam a aprender letras, alfabeto, números e formas e serão úteis na preparação para a escola aos 6 anos de idade. As crianças vão adorar colorir e quebra-cabeças coloridos. Os jogos para crianças com Bodo são jogos educativos divertidos com animações coloridas e tarefas úteis. Jogos sem anúncios e sem internet.<br><br>Política de Privacidade https://1cmobile.com/edu-app-privacy-policy/<br>Termos de Uso https://1cmobile.com/edu-app-terms-of-use/<br>E-mail: support@1cwireless.com",
+      "summary": "Jogos educativos - aprenda letras, números, alfabeto, formas e quebra-cabeças.",
+      "installs": "100.000+",
+      "minInstalls": 100000,
+      "maxInstalls": 130847,
+      "score": 3.6333334,
+      "scoreText": "3,6",
+      "ratings": 322,
+      "reviews": 5,
+      "price": 0,
+      "free": true,
+      "currency": "BRL",
+      "priceText": "Free",
+      "available": true,
+      "genre": "Educativos",
+      "genreId": "GAME_EDUCATIONAL",
+      "categories": [
+        {
+          "name": "Educativo",
+          "id": "GAME_EDUCATIONAL"
+        },
+        {
+          "name": "Linguagem",
+          "id": null
+        },
+        {
+          "name": "ABC",
+          "id": null
+        },
+        {
+          "name": "Um jogador",
+          "id": null
+        },
+        {
+          "name": "Estilizado",
+          "id": null
+        },
+        {
+          "name": "Desenho animado",
+          "id": null
+        },
+        {
+          "name": "Off-line",
+          "id": null
+        }
+      ],
+      "adSupported": false,
+      "appId": "com.gamos.learning.games.kids.beardy.bodo",
+      "url": "https://play.google.com/store/apps/details?id=com.gamos.learning.games.kids.beardy.bodo&hl=pt&gl=br",
+      "rank": 20
+    }
+  ]
+}
