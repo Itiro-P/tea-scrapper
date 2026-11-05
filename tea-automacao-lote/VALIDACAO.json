@@ -1,0 +1,23 @@
+{
+  "new_automated_tests_passed": 33,
+  "installer_checks_passed": [
+    "root_apply_and_reapply",
+    "monorepo_apply_and_reapply",
+    "different_existing_file_protected",
+    "tampered_package_rejected"
+  ],
+  "actual_corpus_preparation": {
+    "real_apps": 3141,
+    "real_parts": 5122,
+    "generation_calls": 0,
+    "all_non_whitespace_preserved": true,
+    "all_offsets_verified": true,
+    "model_inference_performed": false
+  },
+  "real_model_inference_tested": false,
+  "UTFPR_server_accessed": false,
+  "semantic_accuracy_measured": false,
+  "old_repository_files_modified": 0,
+  "commits_created": 0,
+  "note": "Testes de software/HTTP usam respostas simuladas. Preparação cobre a coleta real. Não são 3.141 extrações de LLM."
+}
