@@ -1,5 +1,5 @@
 {
-  "new_automated_tests_passed": 33,
+  "new_automated_tests_passed": 38,
   "installer_checks_passed": [
     "root_apply_and_reapply",
     "monorepo_apply_and_reapply",
@@ -9,6 +9,11 @@
   "actual_corpus_preparation": {
     "real_apps": 3141,
     "real_parts": 5122,
+    "explicit_mention_filter": {
+      "eligible_apps": 713,
+      "filtered_no_explicit_mention": 2428,
+      "eligible_parts": 1303
+    },
     "generation_calls": 0,
     "all_non_whitespace_preserved": true,
     "all_offsets_verified": true,

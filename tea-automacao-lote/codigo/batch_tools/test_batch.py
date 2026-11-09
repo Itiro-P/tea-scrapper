@@ -41,11 +41,11 @@ class Pipeline(unittest.TestCase):
         self.tmp=tempfile.TemporaryDirectory();self.root=Path(self.tmp.name)
         self.raw=self.root/'raw';self.raw.mkdir();self.out=self.root/'analysis'
         self.put('01.json',{'meta':{'group':'TEA','term':'autismo'},'apps':[
-            {'appId':'a.one','title':'Um','description':'Crie rotinas. Receba alertas.'},
-            {'appId':'b.two','title':'Dois','description':'Receba alertas.'}]})
+            {'appId':'a.one','title':'Um','description':'Crie rotinas para pessoas autistas. Receba alertas.'},
+            {'appId':'b.two','title':'Dois','description':'Receba alertas para autismo.'}]})
         self.put('02.json',{'meta':{'group':'TDAH','term':'atenção'},'apps':[
-            {'appId':'a.one','title':'Um','description':'Crie rotinas. Receba alertas.'},
-            {'appId':'c.three','title':'Três','description':'Um design bonito para você.'}]})
+            {'appId':'a.one','title':'Um','description':'Crie rotinas para pessoas autistas. Receba alertas.'},
+            {'appId':'c.three','title':'Três','description':'Um design bonito para pessoas com TDAH.'}]})
         self.client=Fake()
     def tearDown(self):self.tmp.cleanup()
     def put(self,name,value):(self.raw/name).write_text(json.dumps(value,ensure_ascii=False),encoding='utf-8')
@@ -58,6 +58,25 @@ class Pipeline(unittest.TestCase):
         apps,_=b.read_corpus(self.out)
         self.assertEqual(apps[0]['groups'],['TDAH','TEA'])
         self.assertEqual(before,{p:p.read_bytes() for p in self.raw.iterdir()})
+    def test_explicit_condition_mentions_match_but_generic_superlinear_does_not(self):
+        self.assertEqual(b.find_explicit_condition_mention('ABA para crianças autistas.'),'autistas')
+        self.assertIsNone(b.find_explicit_condition_mention('Cursos de engenharia de IA na Superlinear Academy.'))
+        self.assertEqual(b.find_explicit_condition_mention('Courses for gifted learners.'),'gifted')
+    def test_filters_academy_superlinear_before_generation(self):
+        self.put('03.json',{'meta':{'group':'AHSD','term':'superdotação'},'apps':[
+            {'appId':'academy.superlinear.www','title':'Superlinear Academy',
+             'description':'Cursos de engenharia de IA, projetos reais e desenvolvimento de carreira.'}]})
+        out=self.root/'filtered-analysis'
+        b.prepare(self.raw,out)
+        apps,_=b.read_corpus(out)
+        academy=next(app for app in apps if app['appId']=='academy.superlinear.www')
+        self.assertEqual(academy['relevance_status'],'excluded_no_explicit_mention')
+        plan=b.plan(out,dict(CONFIG))
+        self.assertEqual(plan['apps_filtered_no_explicit_mention'],1)
+        result=b.run(out,'test:1',dict(CONFIG),client=self.client,app_ids=['academy.superlinear.www'])
+        self.assertEqual(self.client.calls,[])
+        self.assertEqual(result['states']['filtered_no_explicit_mention'],1)
+        self.assertEqual(result['apps_remaining'],3)
     def test_wrong_expected_count_creates_no_output(self):
         with self.assertRaises(ValueError):b.prepare(self.raw,self.out,3141)
         self.assertFalse(self.out.exists())
@@ -81,7 +100,7 @@ class Pipeline(unittest.TestCase):
         self.put('03.json',{'group':'DI','apps':[{'appId':'a.one','description':'Outro texto.'}]})
         self.ready();apps,m=b.read_corpus(self.out)
         self.assertEqual(m['apps_with_description_variants'],1)
-        self.assertEqual(apps[0]['description'],'Crie rotinas. Receba alertas.')
+        self.assertEqual(apps[0]['description'],'Crie rotinas para pessoas autistas. Receba alertas.')
         self.assertEqual(len(apps[0]['variants']),2)
     def test_raw_and_grouped_formats(self):
         other=self.root/'grouped';other.mkdir()
@@ -112,6 +131,12 @@ class Pipeline(unittest.TestCase):
         parts=b.segments('Crie rotinas. Receba alertas. Organize reforços positivos.')
         resolved=b.resolve(json.dumps({'features':[{'name':'Criar rotinas','evidence_id':parts[0]['id']},{'name':'Receber alertas','evidence_id':parts[1]['id']}]}),parts,'Crie rotinas. Receba alertas. Organize reforços positivos.')
         self.assertEqual([f['name'] for f in resolved],['Criar rotinas','Receber alertas'])
+    def test_keeps_contextualized_progress_feature_from_aba_picture_deck(self):
+        name='Visualizar frequência de prática, cartões mais solicitados e progresso diário na comunicação'
+        text=f'{name}.'
+        parts=b.segments(text)
+        resolved=b.resolve(json.dumps({'features':[{'name':name,'evidence_id':parts[0]['id']}]}),parts,text)
+        self.assertEqual([feature['name'] for feature in resolved],[name])
     def test_context_id_cannot_be_cited(self):
         parts=b.segments('Crie rotinas. Receba alertas.')
         with self.assertRaises(ValueError):b.resolve(json.dumps({'features':[{'name':'Criar rotinas','evidence_id':parts[0]['id']}]}),parts[1:],'Crie rotinas. Receba alertas.')
@@ -130,8 +155,8 @@ class Pipeline(unittest.TestCase):
         calls=len(self.client.calls);second=self.run_it()
         self.assertEqual(second['apps_technically_complete'],3);self.assertEqual(len(self.client.calls)-calls,2)
     def test_resume_preserves_completed_chunk_inside_long_app(self):
-        self.put('01.json',{'group':'TEA','apps':[{'appId':'a.one','title':'Um','description':'Crie rotinas. '*70},
-                                                 {'appId':'b.two','title':'Dois','description':'Receba alertas.'}]})
+        self.put('01.json',{'group':'TEA','apps':[{'appId':'a.one','title':'Um','description':'Crie rotinas para pessoas autistas. '*70},
+                                                 {'appId':'b.two','title':'Dois','description':'Receba alertas para autismo.'}]})
         self.ready();conf={**CONFIG,'chunk_bytes':512}
         self.client.fail_at=2
         r=b.run(self.out,'test:1',conf,client=self.client,limit=1,max_attempts=1)
@@ -213,7 +238,10 @@ class Pipeline(unittest.TestCase):
         self.assertEqual(r['apps_remaining'],3);self.assertEqual(len(self.client.calls),0)
     def test_empty_description_is_visible_input_error_without_generation(self):
         self.put('03.json',{'group':'DI','apps':[{'appId':'d.four','description':''}]})
-        b.prepare(self.raw,self.out,4);r=self.run_it()
+        b.prepare(self.raw,self.out,4)
+        planned=b.plan(self.out,dict(CONFIG))
+        self.assertEqual(planned['apps_needing_empty_description_review'],1)
+        r=self.run_it()
         self.assertEqual(r['states']['input_error'],1);self.assertEqual(len(self.client.calls),3)
     def test_lock_prevents_two_writers(self):
         self.ready()

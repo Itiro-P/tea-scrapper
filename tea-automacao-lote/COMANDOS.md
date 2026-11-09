@@ -11,9 +11,12 @@ resultados. Nenhum arquivo antigo do projeto é substituído. Nenhum commit é f
 ## O que executa
 
 1. Lê os JSONs locais, preserva os dez grupos de busca e deduplica por appId.
-2. Congela texto completo, fontes, hashes e origem. Não faz filtro de TEA ou de
-   relevância. Os grupos indicam origem da busca, não diagnóstico ou adequação.
-3. Divide descrições em partes com orçamento conservador de contexto. Todos os
+2. Congela texto completo, fontes, hashes e origem. Antes da extração, inclui o
+   app somente se a descrição mencionar explicitamente uma condição ou
+   neurodivergência reconhecida; grupos ainda indicam origem da busca, não
+   diagnóstico nem adequação. A lista de termos e a ocorrência escolhida ficam
+   registradas no corpus e em `apps.csv`; descrições vazias ficam para revisão.
+3. Divide descrições elegíveis em partes com orçamento conservador de contexto. Todos os
    caracteres não brancos são preservados. IDs e offsets apontam para a fonte.
 4. Chama o modelo para obter ações e IDs de evidência. O Python copia a evidência;
    não usa aproximação textual nem inventa citações para corrigir uma previsão.
@@ -25,6 +28,15 @@ Respostas vazias ficam como `review_empty` quando o app inteiro não tem candida
 Isso não comprova ausência de funcionalidades. `complete` significa apenas que
 todas as partes passaram pela validação estrutural e literal. A correção semântica
 e as omissões continuam exigindo avaliação humana de uma amostra.
+Apps sem menção explícita ficam como `filtered_no_explicit_mention` e não geram
+chamadas ao modelo. Esse filtro lexical não comprova relevância quando encontra um
+termo nem irrelevância quando não encontra; revise a política e os termos em casos
+limítrofes.
+Os termos incluem variantes em português e inglês de autismo, TDAH/ADHD,
+dislexia, disgrafia, discalculia, dispraxia, transtornos de linguagem,
+deficiência intelectual, Tourette, altas habilidades/superdotação/gifted e
+neurodivergência. Basta a descrição mencionar explicitamente um deles; o grupo de
+busca não restringe a lista.
 
 ## Aplicar e testar o código
 
@@ -53,62 +65,64 @@ Na raiz do repositório:
 ```bash
 python3 batch_tools/tea_batch.py prepare \
   --results output/results_2026-10-19 \
-  --out analysis/lote-3141 \
+  --out analysis/lote-3141-v2 \
   --expect-apps 3141
 
-python3 batch_tools/tea_batch.py plan --out analysis/lote-3141
+python3 batch_tools/tea_batch.py plan --out analysis/lote-3141-v2
 ```
 
 Na coleta enviada foram encontrados 3.141 apps, zero descrições vazias e 5.122
-partes com as opções padrão. Esses números são preparação, não resultados de LLM.
-Se a coleta for outra, `--expect-apps 3141` evita executar o conjunto errado.
+partes brutas. Com a regra de menção explícita, o plano prevê 713 apps elegíveis,
+2.428 filtrados e 1.303 partes para extração. Esses números são preparação, não
+resultados de LLM. Se a coleta for outra, `--expect-apps 3141` evita executar o
+conjunto errado.
 
 ## Primeiro teste com o modelo real no servidor
 
-Veja `ollama list` na máquina que executará a extração. Abaixo usamos `qwen2.5:3b`,
-que estava instalado no seu notebook. Ele precisa estar instalado também no
-servidor para usar esse nome lá. O exemplo não atesta a qualidade desse modelo:
-ele já apresentou omissões no teste anterior. Troque o nome pelo modelo local
-que a equipe escolher; faça isso antes da primeira geração desta pasta.
+Veja `ollama list` na máquina que executará a extração. A coleta anterior usou
+`qwen3.6-35b-cpu:latest`; o modelo precisa estar instalado na máquina local ou no
+servidor. Troque o nome se estiver usando outro modelo e faça isso antes da
+primeira geração desta pasta.
 
 ```bash
-python3 batch_tools/tea_batch.py doctor --model qwen2.5:3b
+python3 batch_tools/tea_batch.py doctor --model qwen3.6-35b-cpu:latest
 
 python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141 --model qwen2.5:3b \
+  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest \
   --app-id uk.co.mymolehillmountain.autistica \
   --app-id com.dmwaresolutions.meuabinha \
-  --app-id com.learnItalianforbeginners.freerd
+  --app-id aba.picture.deck
 
-python3 batch_tools/tea_batch.py status --out analysis/lote-3141
+python3 batch_tools/tea_batch.py status --out analysis/lote-3141-v2
 ```
 
-Esse comando testa três apps dentro do corpus completo e deixa os outros pendentes.
+Esse comando testa três apps elegíveis e deixa os demais elegíveis pendentes.
+Apps sem menção explícita ficam filtrados e não são enviados ao modelo.
 `apps` continuará mostrando 3.141, com três tecnicamente concluídos se não houver
 falhas. A seleção de três não altera a identidade da execução nem impede retomar.
 
-Abra `analysis/lote-3141/funcionalidades.csv` e confira especialmente Molehill
+Abra `analysis/lote-3141-v2/funcionalidades.csv` e confira especialmente Molehill
 Mountain. Sua descrição anuncia acompanhamento de preocupações, gráfico de
 check-ins, consulta de check-ins anteriores, dicas de ansiedade e atividades de
 TCC. Não aceite uma resposta vazia como demonstração de qualidade. Essa lista
 serve como verificação de desenvolvimento, não padrão ouro independente.
 
-O app de italiano pode ter funcionalidades mesmo sem ser relevante para TEA.
-Neste lote queremos extrair capacidades de todos os grupos; não existe filtro
-automático que elimine o app antes da extração.
+Apps como o de italiano, sem menção explícita a neurodivergência na descrição,
+serão excluídos antes da extração, mesmo que tenham sido encontrados por uma
+busca relacionada a TEA.
 
 `mean_completed_app_seconds` informa tempo observado, incluindo tentativas.
 `estimated_serial_hours_remaining` é extrapolação aproximada para execução
 serial, sem garantia. Três apps não representam todos os tamanhos e dificuldades.
 O tempo depende do modelo e do servidor; não foi prometida execução em minutos.
 
-## Executar o restante dos 3.141
+## Executar os apps elegíveis
 
 Se o primeiro teste tiver fluxo e qualidade aceitáveis para desenvolvimento:
 
 ```bash
 python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141 --model qwen2.5:3b --retry-errors
+  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest --retry-errors
 ```
 
 Use exatamente a mesma pasta e configuração para retomar. Os três apps do teste,
@@ -135,13 +149,13 @@ Para deixar o processo rodando mesmo após encerrar a sessão SSH, opcionalmente
 
 ```bash
 nohup python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141 --model qwen2.5:3b --retry-errors \
-  > analysis/lote-3141/execucao.log 2>&1 &
+  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest --retry-errors \
+  > analysis/lote-3141-v2/execucao.log 2>&1 &
 ```
 
 Não inicie outra geração na mesma pasta enquanto essa estiver ativa. O lock impede
-dois escritores. Nesse caso, acompanhe `tail -n 20 analysis/lote-3141/execucao.log`
-ou use `status --out analysis/lote-3141`, que consulta o checkpoint sem interromper
+dois escritores. Nesse caso, acompanhe `tail -n 20 analysis/lote-3141-v2/execucao.log`
+ou use `status --out analysis/lote-3141-v2`, que consulta o checkpoint sem interromper
 o lote e sem reescrever arquivos. `resumo.json` é atualizado a cada 25 partes e ao
 finalizar/parar.
 
@@ -164,7 +178,7 @@ Para registrar revisão sem sobrescrever trabalho humano, crie uma cópia separa
 
 ```bash
 python3 batch_tools/tea_batch.py review \
-  --out analysis/lote-3141 --review-dir analysis/revisao-lote-3141
+  --out analysis/lote-3141-v2 --review-dir analysis/revisao-lote-3141-v2
 ```
 
 Esse comando exige pasta de revisão nova. Preencha `human_decision`,

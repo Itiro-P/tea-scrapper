@@ -10,11 +10,15 @@ test_complete_empty_flagged_and_repeat_makes_no_new_generation (test_batch.Pipel
 test_consecutive_failures_open_circuit (test_batch.Pipeline.test_consecutive_failures_open_circuit) ... ok
 test_context_id_cannot_be_cited (test_batch.Pipeline.test_context_id_cannot_be_cited) ... ok
 test_empty_description_is_visible_input_error_without_generation (test_batch.Pipeline.test_empty_description_is_visible_input_error_without_generation) ... ok
+test_explicit_condition_mentions_match_but_generic_superlinear_does_not (test_batch.Pipeline.test_explicit_condition_mentions_match_but_generic_superlinear_does_not) ... ok
 test_export_contains_failed_and_pending_app_rows (test_batch.Pipeline.test_export_contains_failed_and_pending_app_rows) ... ok
 test_fatal_http_stops_scheduling_and_preserves_pending (test_batch.Pipeline.test_fatal_http_stops_scheduling_and_preserves_pending) ... ok
+test_filters_academy_superlinear_before_generation (test_batch.Pipeline.test_filters_academy_superlinear_before_generation) ... ok
 test_generation_deadline_is_not_automatically_retried (test_batch.Pipeline.test_generation_deadline_is_not_automatically_retried) ... ok
 test_idempotent_prepare_and_changed_source_rejected (test_batch.Pipeline.test_idempotent_prepare_and_changed_source_rejected) ... ok
 test_invalid_json_ids_never_count_as_complete_and_retry_is_explicit (test_batch.Pipeline.test_invalid_json_ids_never_count_as_complete_and_retry_is_explicit) ... ok
+test_keeps_condition_specific_features (test_batch.Pipeline.test_keeps_condition_specific_features) ... ok
+test_keeps_contextualized_progress_feature_from_aba_picture_deck (test_batch.Pipeline.test_keeps_contextualized_progress_feature_from_aba_picture_deck) ... ok
 test_live_status_is_read_only_and_does_not_require_writer_lock (test_batch.Pipeline.test_live_status_is_read_only_and_does_not_require_writer_lock) ... ok
 test_lock_prevents_two_writers (test_batch.Pipeline.test_lock_prevents_two_writers) ... ok
 test_malformed_output_evidence_and_placeholders_rejected (test_batch.Pipeline.test_malformed_output_evidence_and_placeholders_rejected) ... ok
@@ -22,7 +26,14 @@ test_no_source_directory_output (test_batch.Pipeline.test_no_source_directory_ou
 test_parallel_execution_does_not_duplicate_jobs (test_batch.Pipeline.test_parallel_execution_does_not_duplicate_jobs) ... ok
 test_partial_run_resumes_all_other_apps_without_repeating_success (test_batch.Pipeline.test_partial_run_resumes_all_other_apps_without_repeating_success) ... ok
 test_raw_and_grouped_formats (test_batch.Pipeline.test_raw_and_grouped_formats) ... ok
-test_resume_preserves_completed_chunk_inside_long_app (test_batch.Pipeline.test_resume_preserves_completed_chunk_inside_long_app) ... ok
+test_rejects_generic_features_that_are_not_condition_specific (test_batch.Pipeline.test_rejects_generic_features_that_are_not_condition_specific) ... ok
+test_resume_preserves_completed_chunk_inside_long_app (test_batch.Pipeline.test_resume_preserves_completed_chunk_inside_long_app) ... /usr/lib/python3.14/json/decoder.py:346: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7f6b1532a6b0>
+  end = _w(s, end).end()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/usr/lib/python3.14/json/decoder.py:346: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x7f6b1532a890>
+  end = _w(s, end).end()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
 test_review_copy_is_not_overwritten_on_resume (test_batch.Pipeline.test_review_copy_is_not_overwritten_on_resume) ... ok
 test_selection_controls_do_not_limit_future_full_run (test_batch.Pipeline.test_selection_controls_do_not_limit_future_full_run) ... ok
 test_tampered_corpus_rejected (test_batch.Pipeline.test_tampered_corpus_rejected) ... ok
@@ -33,6 +44,6 @@ test_unicode_line_separators_inside_jsonl_strings (test_batch.Pipeline.test_unic
 test_wrong_expected_count_creates_no_output (test_batch.Pipeline.test_wrong_expected_count_creates_no_output) ... ok
 
 ----------------------------------------------------------------------
-Ran 33 tests in 2.341s
+Ran 38 tests in 2.143s
 
 OK

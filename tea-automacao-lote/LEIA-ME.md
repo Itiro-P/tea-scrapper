@@ -10,11 +10,12 @@ docs/AUTOMACAO-3141.md no repositório.
 Inclui patch, cópia integral dos arquivos adicionados em codigo/, aplicador com
 verificação de integridade e VALIDACAO.json.
 
-Foi validado o carregamento/planejamento da coleta real (3.141 apps, 5.122 partes)
-e o funcionamento do software com respostas simuladas. Não houve inferência com
-modelo real nem acesso ao servidor UTFPR neste ambiente. O primeiro teste no
-servidor mede tempo e permite conferir a extração; não é uma avaliação científica
-completa da qualidade.
+Foi validado o carregamento da coleta real (3.141 apps, 5.122 partes brutas).
+O filtro por menção explícita selecionou 713 apps e 1.303 partes para extração;
+2.428 apps não mencionam explicitamente uma condição reconhecida. Esses números
+não são avaliação semântica e o filtro lexical pode errar. O software foi testado
+com respostas simuladas; não houve inferência com modelo real nem acesso ao
+servidor UTFPR neste ambiente.
 
 Os resultados dos 100 apps produzidos anteriormente pelo ChatGPT continuam
 separados. Não são rotulados como saídas do modelo local.
