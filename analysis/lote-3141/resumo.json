@@ -1,0 +1,27 @@
+{
+  "apps": 3141,
+  "apps_technically_complete": 3008,
+  "apps_with_features_complete": 2983,
+  "apps_empty_needing_review": 25,
+  "apps_remaining": 133,
+  "states": {
+    "complete": 2983,
+    "partial_error": 28,
+    "review_empty": 25,
+    "error": 5,
+    "pending": 100
+  },
+  "parts_total": 5122,
+  "parts_done": 4927,
+  "feature_candidates": 38787,
+  "generation_attempts": 5053,
+  "human_reviewed_apps": 0,
+  "semantic_accuracy_measured": false,
+  "google_play_requests": 0,
+  "model_source": "Ollama configurado em run-manifest.json",
+  "mean_completed_app_seconds": 80.64765809607981,
+  "estimated_serial_hours_remaining": 2.979482924105171,
+  "eta_note": "Média observada por app, inclui tentativas. Não é previsão garantida; paralelismo, carga e tamanhos variam.",
+  "legend": "complete = todas as partes passaram validação estrutural/literal; não significa correção semântica. review_empty exige conferência.",
+  "updated_at": "2026-11-09T15:41:18.389253+00:00"
+}

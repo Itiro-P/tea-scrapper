@@ -45,7 +45,36 @@ context_previous é somente contexto, não pode ser citado como evidence_id.
 SCHEMA = {'type':'object','additionalProperties':False,'required':['features'],'properties':{
     'features':{'type':'array','items':{'type':'object','additionalProperties':False,
         'required':['name','evidence_id'],'properties':{'name':{'type':'string'},'evidence_id':{'type':'string'}}}}}}
+GENERIC_FEATURE_EXACTS = {
+    'acompanhar progresso', 'acompanhar o progresso', 'acompanhar o progresso do usuario',
+    'acompanhar progresso do aluno', 'acompanhar progresso do usuario', 'acompanhar o progresso do aluno',
+    'ativar modo escuro', 'usar o aplicativo offline', 'funcionar offline', 'jogar offline',
+    'baixar o aplicativo', 'baixar aplicativo', 'acessar conteudo offline', 'acessar conteúdo offline',
+    'configurar lembretes', 'definir lembretes', 'gerenciar assinatura', 'cancelar assinatura',
+    'sincronizar dados entre dispositivos', 'sincronizar dados', 'receber notificacoes', 'receber notificações',
+    'criar listas de tarefas', 'criar tarefas', 'listar tarefas', 'definir prioridades', 'visualizar progresso',
+    'acessar com autenticacao biometrica', 'acessar com autenticação biométrica', 'salvar dados localmente',
+    'exportar dados csv', 'imprimir lista de tarefas', 'usar emoji', 'usar emotes', 'ver notificacoes'
+}
+GENERIC_FEATURE_KEYWORDS = (
+    'modo escuro', 'offline', 'assinatura', 'sincronizar', 'progresso', 'lembrete', 'download',
+    'baixar aplicativo', 'notificacao', 'autenticacao', 'biometrica', 'widget', 'tema', 'tema escuro',
+    'sincronizar dados', 'exportar dados', 'acessar conteudo', 'acessar aplicativo', 'lista de tarefas'
+)
 PRINT_LOCK = threading.Lock()
+
+
+def is_generic_feature_name(name: str) -> bool:
+    """Reject generic app-level features that do not describe a neurodivergence-specific capability."""
+    cleaned = re.sub(r'\s+', ' ', name.strip()).casefold()
+    if not cleaned:
+        return False
+    if cleaned in GENERIC_FEATURE_EXACTS:
+        return True
+    for token in GENERIC_FEATURE_KEYWORDS:
+        if token in cleaned:
+            return True
+    return False
 
 
 def utc():
@@ -226,6 +255,8 @@ def resolve(content, parts, description):
         cleaned=re.sub(r'\s+',' ',name.strip());key=cleaned.casefold()
         if re.sub(r'\W','',key) in {'verboobjeto','verbocomplemento','nomedafuncionalidade','name','feature','funcionalidade'}:
             raise ValueError('Nome genérico copiado das instruções.')
+        if is_generic_feature_name(cleaned):
+            raise ValueError('Feature genérica demais para a análise de neurodivergência.')
         if not isinstance(ref,str) or ref not in lookup:raise ValueError('evidence_id não pertence aos segmentos desta parte.')
         part=lookup[ref]
         if description[part['start']:part['end']]!=part['text']:raise ValueError('Offset de evidência inconsistente.')

@@ -104,6 +104,14 @@ class Pipeline(unittest.TestCase):
         for response in ['{}','[]','{"features":null}',json.dumps({'features':[{'name':'Verbo + objeto','evidence_id':parts[0]['id']}]}),
                          json.dumps({'features':[{'name':'Criar rotinas','evidence_id':'inventado'}]})]:
             with self.subTest(response=response),self.assertRaises(ValueError):b.resolve(response,parts,'Crie rotinas.')
+    def test_rejects_generic_features_that_are_not_condition_specific(self):
+        parts=b.segments('Crie rotinas. Ativar modo escuro. Usar o aplicativo offline. Acompanhar progresso.')
+        with self.assertRaises(ValueError):
+            b.resolve(json.dumps({'features':[{'name':'Ativar modo escuro','evidence_id':parts[1]['id']},{'name':'Acompanhar progresso','evidence_id':parts[2]['id']}]}),parts,'Crie rotinas. Ativar modo escuro. Usar o aplicativo offline. Acompanhar progresso.')
+    def test_keeps_condition_specific_features(self):
+        parts=b.segments('Crie rotinas. Receba alertas. Organize reforços positivos.')
+        resolved=b.resolve(json.dumps({'features':[{'name':'Criar rotinas','evidence_id':parts[0]['id']},{'name':'Receber alertas','evidence_id':parts[1]['id']}]}),parts,'Crie rotinas. Receba alertas. Organize reforços positivos.')
+        self.assertEqual([f['name'] for f in resolved],['Criar rotinas','Receber alertas'])
     def test_context_id_cannot_be_cited(self):
         parts=b.segments('Crie rotinas. Receba alertas.')
         with self.assertRaises(ValueError):b.resolve(json.dumps({'features':[{'name':'Criar rotinas','evidence_id':parts[0]['id']}]}),parts[1:],'Crie rotinas. Receba alertas.')

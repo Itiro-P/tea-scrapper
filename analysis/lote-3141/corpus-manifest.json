@@ -1,0 +1,674 @@
+{
+  "version": "batch-v1",
+  "created_at": "2026-11-06T16:52:00.933138+00:00",
+  "apps": 3141,
+  "corpus_sha256": "d13aa08ff3df0260a2b9937937ab6b314080afdc39ec9acc74fbd385f5636c59",
+  "description_hash_algorithm": "sha256 of original UTF-8 text",
+  "groups": {
+    "AHSD": 229,
+    "DI": 116,
+    "DISCALCULIA": 304,
+    "DISGRAFIA": 413,
+    "DISLEXIA": 718,
+    "TDAH": 979,
+    "TDC": 396,
+    "TDL": 397,
+    "TEA": 847,
+    "TOURETTE": 182
+  },
+  "empty_descriptions": 0,
+  "apps_with_description_variants": 0,
+  "description_selection": "primeiro texto não vazio em arquivos ordenados pelo nome; versões alternativas registradas por hash",
+  "input_files": [
+    {
+      "file": "ahsd__altas_habilidades.json",
+      "sha256": "7d18227d8cb79e8c471ed966452d8e0f59e81815bc516df0344daf83c636e7cd",
+      "group": "AHSD",
+      "term": "altas habilidades"
+    },
+    {
+      "file": "ahsd__superdotacao.json",
+      "sha256": "33ed4cd85f0ce0b17db6c703fcd8ab706eecbdc8f2d642cd88ab3074f08eda37",
+      "group": "AHSD",
+      "term": "superdotação"
+    },
+    {
+      "file": "ahsd__teste_de_altas_habilidades.json",
+      "sha256": "675ae3ad6ce7886b1993d0866811a11271eb4c66523cb4db39547b6a7e835530",
+      "group": "AHSD",
+      "term": "teste de altas habilidades"
+    },
+    {
+      "file": "ahsd__teste_de_superdotacao.json",
+      "sha256": "d8b9fda1742c018fc90b247dd4713c4c42f1fd15f952db5dfe3995f07f742df8",
+      "group": "AHSD",
+      "term": "teste de superdotação"
+    },
+    {
+      "file": "di__deficiencia_intelectual.json",
+      "sha256": "b56d73cad7ea6dda5931f8bc5bf451cfd2020214138c1686c429736a489112b6",
+      "group": "DI",
+      "term": "deficiência intelectual"
+    },
+    {
+      "file": "di__intellectual_disability.json",
+      "sha256": "29df2d0251fbed5373ac7874f2382b6c27251096fd7367843bc14aaf6a1de857",
+      "group": "DI",
+      "term": "intellectual disability"
+    },
+    {
+      "file": "discalculia__discalculia.json",
+      "sha256": "02640a22f1ccf41bfea5b34ef85af026640e4326f9972b6bcea136a3d59451ee",
+      "group": "DISCALCULIA",
+      "term": "discalculia"
+    },
+    {
+      "file": "discalculia__discalculia_trainer.json",
+      "sha256": "8c6e9a013529770deb5ff4c0e6d44f13f8f31bcdbb6341ca3c6c099b9812c282",
+      "group": "DISCALCULIA",
+      "term": "discalculia trainer"
+    },
+    {
+      "file": "discalculia__dyscalculia.json",
+      "sha256": "0cdd029ff1a1b13c9d0efbd4e8c0a78eea10b3abdf6a14e332197293711747d8",
+      "group": "DISCALCULIA",
+      "term": "dyscalculia"
+    },
+    {
+      "file": "discalculia__dyscalculia_apps_for_adults.json",
+      "sha256": "dbca6daedff722ec1561ec35307211f4c31196fe04a30c9c666874798f8f487b",
+      "group": "DISCALCULIA",
+      "term": "dyscalculia apps for adults"
+    },
+    {
+      "file": "discalculia__dyscalculia_calculator.json",
+      "sha256": "a5ea20263d443b389fc5820166bbacb3ae40443168394ecff6e8df8487f751d3",
+      "group": "DISCALCULIA",
+      "term": "dyscalculia calculator"
+    },
+    {
+      "file": "discalculia__dyscalculia_games.json",
+      "sha256": "e7382bff0e4d412ae0855fb5f664717ae02af6fd9b74f98bce6b4ca7510413bc",
+      "group": "DISCALCULIA",
+      "term": "dyscalculia games"
+    },
+    {
+      "file": "disgrafia__dificuldade_de_escrita.json",
+      "sha256": "fda7ff97aa5fbdd5ecfde3375c0b32b550eb691c8d76398bdcc7fc8868a501e2",
+      "group": "DISGRAFIA",
+      "term": "dificuldade de escrita"
+    },
+    {
+      "file": "disgrafia__disgrafia.json",
+      "sha256": "d0833187f5c68b705f59d89b5bf3d42a620c83fa2d9c4bc7f4c403eb41eac883",
+      "group": "DISGRAFIA",
+      "term": "disgrafia"
+    },
+    {
+      "file": "disgrafia__dysgraphia.json",
+      "sha256": "01c5c8c6066edca09339e7dd395ff5cc669b22b6ef35ebb04b728b14c6f73c52",
+      "group": "DISGRAFIA",
+      "term": "dysgraphia"
+    },
+    {
+      "file": "disgrafia__dysgraphia_apps.json",
+      "sha256": "e6db3231c903efb37ca183c0680f103f961876ba3b8636bfce480357ddb76460",
+      "group": "DISGRAFIA",
+      "term": "dysgraphia apps"
+    },
+    {
+      "file": "dislexia__app_para_dislexia.json",
+      "sha256": "2040ec09bf855f1f0deffc7d0839a8471f8847f304e6bd21ca53bafb46aec95e",
+      "group": "DISLEXIA",
+      "term": "app para dislexia"
+    },
+    {
+      "file": "dislexia__dislexia.json",
+      "sha256": "37cb87b8ebd4f91ba0fe79d3217ad4387d53509a7aaa82f45d153d229f1884d5",
+      "group": "DISLEXIA",
+      "term": "dislexia"
+    },
+    {
+      "file": "dislexia__dislexia_app.json",
+      "sha256": "dfa3eb0abb0ee395675abfa453fdca9839f3c1d9ba79ae8f53d4d16c0bde359f",
+      "group": "DISLEXIA",
+      "term": "dislexia app"
+    },
+    {
+      "file": "dislexia__dislexia_app_gratis_en_espanol.json",
+      "sha256": "16e3ec6fcbc535b47db82ada51309317929a50723642487f9fa03e0ae393fb91",
+      "group": "DISLEXIA",
+      "term": "dislexia app gratis en español"
+    },
+    {
+      "file": "dislexia__dislexia_gratis.json",
+      "sha256": "9998ca0380378a224fc95378248eeb70a404c7608f67114ddc0d80ae6eaaa7da",
+      "group": "DISLEXIA",
+      "term": "dislexia gratis"
+    },
+    {
+      "file": "dislexia__dislexia_jogos_em_portugues.json",
+      "sha256": "4d1a35e3c8440a413cb133f681ac7d3ab3a9613ef429a30ac7a7810f81068d54",
+      "group": "DISLEXIA",
+      "term": "dislexia jogos em português"
+    },
+    {
+      "file": "dislexia__dislexia_teste.json",
+      "sha256": "ba347c28fa86a3149f9edb20f3631a94cfc926ec47c15f2545d67152a8f8d9aa",
+      "group": "DISLEXIA",
+      "term": "dislexia teste"
+    },
+    {
+      "file": "dislexia__dyslexia.json",
+      "sha256": "2c6e9707dca7b406c7947585068e8318de81919ee552717943e3287aaa7c9960",
+      "group": "DISLEXIA",
+      "term": "dyslexia"
+    },
+    {
+      "file": "dislexia__dyslexia_apps.json",
+      "sha256": "ca8eb6ab0bc4368fad1e0910befe0880241368e6ab4aae478bf574b28cf73f74",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps"
+    },
+    {
+      "file": "dislexia__dyslexia_apps_for_adults.json",
+      "sha256": "506fbbfd2e894842ab265470245bee490a44fad70cc4d7232374839c15cd456d",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps for adults"
+    },
+    {
+      "file": "dislexia__dyslexia_apps_for_adults_spelling.json",
+      "sha256": "a3479cd9d72d04320e4559b86ea849adc0dbac599933bfc3a13dba1ebf6af53a",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps for adults spelling"
+    },
+    {
+      "file": "dislexia__dyslexia_apps_for_kids.json",
+      "sha256": "920b253b66ff31cb2cc767577f399b2bd2dbdc81d386cb187be7d3c2091c6806",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps for kids"
+    },
+    {
+      "file": "dislexia__dyslexia_apps_for_kids_free.json",
+      "sha256": "2af2d2f9c7337cacf5d28232b9a9e8d9f35f0d4d310d39b3859f3b4ec868b762",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps for kids free"
+    },
+    {
+      "file": "dislexia__dyslexia_apps_free.json",
+      "sha256": "c6acb51ecf2f92beeda5604c26bf22705e49a52b245f6046c94f11a537854d6b",
+      "group": "DISLEXIA",
+      "term": "dyslexia apps free"
+    },
+    {
+      "file": "dislexia__dyslexia_font.json",
+      "sha256": "c804b0cd511ec65f0ccf696eff0f474d7d1e7e85dd468ac0bedbcada6237c2cd",
+      "group": "DISLEXIA",
+      "term": "dyslexia font"
+    },
+    {
+      "file": "dislexia__dyslexia_font_keyboard.json",
+      "sha256": "d80e10eb42c49cd8b76bf53328c41a9e4bcdfcc4a5677306269537ca64836c22",
+      "group": "DISLEXIA",
+      "term": "dyslexia font keyboard"
+    },
+    {
+      "file": "dislexia__dyslexia_fonts.json",
+      "sha256": "7d2dff7a18002c21f2af7e06ee23e371dbe1fac3b9d689129ec3799992e81e40",
+      "group": "DISLEXIA",
+      "term": "dyslexia fonts"
+    },
+    {
+      "file": "dislexia__dyslexia_overlay.json",
+      "sha256": "07c0f1a0bac4ae4ed2f10535a484c9ca2d29d0fbd238696035a728089ac27abd",
+      "group": "DISLEXIA",
+      "term": "dyslexia overlay"
+    },
+    {
+      "file": "dislexia__dyslexic_fonts.json",
+      "sha256": "555d1583881dad1b05de90cca890513f2b0a1595b9ae14365be06dc8c180c9a5",
+      "group": "DISLEXIA",
+      "term": "dyslexic fonts"
+    },
+    {
+      "file": "dislexia__open_dyslexia_font.json",
+      "sha256": "c85d858c8e354a1346fbe8f27460fc1a2af78097d67f64952a71c8e529d2e1e7",
+      "group": "DISLEXIA",
+      "term": "open dyslexia font"
+    },
+    {
+      "file": "dislexia__opendyslexic_font.json",
+      "sha256": "a751819f55c16cc9d085e67c1649466470596a8a22ca5eb2c58ce206f2800b97",
+      "group": "DISLEXIA",
+      "term": "opendyslexic font"
+    },
+    {
+      "file": "dislexia__opendyslexic_font_for_android.json",
+      "sha256": "25bb218055890f88e2f219db25e8d2e24ca7418b54ceef217fb0ade6ad1139e7",
+      "group": "DISLEXIA",
+      "term": "opendyslexic font for android"
+    },
+    {
+      "file": "dislexia__screen_overlay_dyslexia.json",
+      "sha256": "4ee4287235552eccdfedecb4d706511506b135274049b4605986aefab544f570",
+      "group": "DISLEXIA",
+      "term": "screen overlay dyslexia"
+    },
+    {
+      "file": "dislexia__teste_de_dislexia.json",
+      "sha256": "0fbe9d2fb0a60b511f755bd060c685fc7d031840ca73bdfde92c04d4ee5908c7",
+      "group": "DISLEXIA",
+      "term": "teste de dislexia"
+    },
+    {
+      "file": "dislexia__transtorno_de_leitura.json",
+      "sha256": "cd2ad9177df98ca11f362403cafc717e56a6f8ecd88fcd703b92cea59fe3d6c9",
+      "group": "DISLEXIA",
+      "term": "transtorno de leitura"
+    },
+    {
+      "file": "tdah__adhd.json",
+      "sha256": "9ac4badef8abd6112137145063870f359bb6f1248cfaff14cb72b37640607779",
+      "group": "TDAH",
+      "term": "adhd"
+    },
+    {
+      "file": "tdah__adhd_apps_for_adults.json",
+      "sha256": "82465928da8e126a0bae8df6ec1c66b1b9a7456e81fb95e515b90c43d7fa666c",
+      "group": "TDAH",
+      "term": "adhd apps for adults"
+    },
+    {
+      "file": "tdah__adhd_apps_for_adults_free.json",
+      "sha256": "dc504c0e8d11453925ca0bcfe0d8944576bfbaedb332eddf6ba89dc4bceea717",
+      "group": "TDAH",
+      "term": "adhd apps for adults free"
+    },
+    {
+      "file": "tdah__adhd_cleaning_apps_for_adults.json",
+      "sha256": "2d8c9ff2dbcfdcf50196a9e2165f603458f73c285379fcb4c0637990a217aae0",
+      "group": "TDAH",
+      "term": "adhd cleaning apps for adults"
+    },
+    {
+      "file": "tdah__adhd_games.json",
+      "sha256": "c2ed43aa8727512c0366de5b22c1510d98b82817002febb3244a1b3ee7795dce",
+      "group": "TDAH",
+      "term": "adhd games"
+    },
+    {
+      "file": "tdah__adhd_games_for_adults.json",
+      "sha256": "9569d7535aded546d6e2e99a3110ec611d252c06e717bffc88fd3a442fcb3551",
+      "group": "TDAH",
+      "term": "adhd games for adults"
+    },
+    {
+      "file": "tdah__adhd_games_for_adults_free.json",
+      "sha256": "8166b97efc6b5b0bef68728fc79b7f09531022cb5a3e6dff382f2f051c91f23a",
+      "group": "TDAH",
+      "term": "adhd games for adults free"
+    },
+    {
+      "file": "tdah__adhd_games_for_kids.json",
+      "sha256": "d83e9f3ffcb12fe36eed2923fa1966fc9d51260bf12a6c840bd5ae71a5c9c159",
+      "group": "TDAH",
+      "term": "adhd games for kids"
+    },
+    {
+      "file": "tdah__adhd_games_for_kids_free.json",
+      "sha256": "f5e53c799e4c5efdece413fe6b53e48073fb0ce7c22b4aa962386c43156f37af",
+      "group": "TDAH",
+      "term": "adhd games for kids free"
+    },
+    {
+      "file": "tdah__adhd_games_offline.json",
+      "sha256": "2ac13fec650172592612b1f1e08f8ad10804adc88aeabf10b04476bbdca80b25",
+      "group": "TDAH",
+      "term": "adhd games offline"
+    },
+    {
+      "file": "tdah__adhd_music_apps_for_adults.json",
+      "sha256": "e6c1ec23ffd63774f9a5b90d338369f41cac869fbb1c9517481fc6283ccf111f",
+      "group": "TDAH",
+      "term": "adhd music apps for adults"
+    },
+    {
+      "file": "tdah__adhd_planner.json",
+      "sha256": "2211814927dabf9f660ff9b1886d9025d2dede62accb03c8d4c0279e97ca06c6",
+      "group": "TDAH",
+      "term": "adhd planner"
+    },
+    {
+      "file": "tdah__adhd_planner_app.json",
+      "sha256": "3a6d068f0b983420f9a346c57559d0b37dcb7c9d9dac3ce22dfc100593f6c02b",
+      "group": "TDAH",
+      "term": "adhd planner app"
+    },
+    {
+      "file": "tdah__adhd_planner_for_adults.json",
+      "sha256": "ed4639f5921d6ef23cac003385a04054f3521b4fb6b8207da89963cab25a8af7",
+      "group": "TDAH",
+      "term": "adhd planner for adults"
+    },
+    {
+      "file": "tdah__adhd_planner_for_adults_free.json",
+      "sha256": "8eac2672e074125f409e44f683f5a91f6c60dfe70787e14d5ce760bfc1d44cb3",
+      "group": "TDAH",
+      "term": "adhd planner for adults free"
+    },
+    {
+      "file": "tdah__adhd_planner_for_kids.json",
+      "sha256": "109ac39e4b6680c6f653bebdc3d6896fa0a9e5df76841115329ade9f3fb84f4e",
+      "group": "TDAH",
+      "term": "adhd planner for kids"
+    },
+    {
+      "file": "tdah__adhd_reader.json",
+      "sha256": "8f04d52c2d324a8daeebfd71890347a23a5c96fbdce232d3adf4baffb8a834d6",
+      "group": "TDAH",
+      "term": "adhd reader"
+    },
+    {
+      "file": "tdah__app_para_tdah.json",
+      "sha256": "880c87bf3cc7a779fc6c2fcf7213e762f016f75e87c86f25389a952de853a531",
+      "group": "TDAH",
+      "term": "app para tdah"
+    },
+    {
+      "file": "tdah__app_para_tdah_gratis.json",
+      "sha256": "5d96dcfe9f7cebd3a707847337477683d46d21f0c65300bc76bddb627ac89266",
+      "group": "TDAH",
+      "term": "app para tdah gratis"
+    },
+    {
+      "file": "tdah__app_tdah_gratis.json",
+      "sha256": "d4b3ce6e54fe0be56a50ed8dda3ad5067fbc8d24d80fbbe727f8b0c621a37d78",
+      "group": "TDAH",
+      "term": "app tdah gratis"
+    },
+    {
+      "file": "tdah__apps_para_tdah.json",
+      "sha256": "bc0bd72a3a66e62c84e54167d0616a93d4f95970e443e9a6138690ce4d165a89",
+      "group": "TDAH",
+      "term": "apps para tdah"
+    },
+    {
+      "file": "tdah__deficit_de_atencao.json",
+      "sha256": "a93eaa427eab96ffd182351ad88af900cadf200f3dbc87367b621bb205cb15aa",
+      "group": "TDAH",
+      "term": "déficit de atenção"
+    },
+    {
+      "file": "tdah__jogos_para_tdah.json",
+      "sha256": "8898572bd880b88f724598f0c0074ded615781d1de4fff0e78bc1c7fdee1638e",
+      "group": "TDAH",
+      "term": "jogos para tdah"
+    },
+    {
+      "file": "tdah__jogos_para_tdah_adulto.json",
+      "sha256": "bcaaf8eff14a6d67221b0b5cac9a85b636cd636eb7e8171e89a2c57b22f57b6d",
+      "group": "TDAH",
+      "term": "jogos para tdah adulto"
+    },
+    {
+      "file": "tdah__jogos_para_tdah_infantil.json",
+      "sha256": "ce1bde3b569d9d129601db76fbc2d7fe1e0e2f356fbb794c40e68825098a6b33",
+      "group": "TDAH",
+      "term": "jogos para tdah infantil"
+    },
+    {
+      "file": "tdah__jogos_tdah_gratis.json",
+      "sha256": "bf71c4df3f24951fd6c7c0cdac43d59ac937e342cf439a1a7a19c12a44dd227a",
+      "group": "TDAH",
+      "term": "jogos tdah grátis"
+    },
+    {
+      "file": "tdah__propel_adhd_games_for_adults.json",
+      "sha256": "ecbb70df06cbc79142a80a28cdaa7ca84813a4a5da41dc1715df53bd63131012",
+      "group": "TDAH",
+      "term": "propel adhd games for adults"
+    },
+    {
+      "file": "tdah__super_planner_rotina_tdah.json",
+      "sha256": "1a82e2871b2c591ec48759632ab61462d8b5b85ffaa92760869b7af6846089bf",
+      "group": "TDAH",
+      "term": "super planner rotina tdah"
+    },
+    {
+      "file": "tdah__tdah.json",
+      "sha256": "e4cf915443008607f1df103e81835d11dad2457f2a996e4ec114137019eba5d9",
+      "group": "TDAH",
+      "term": "tdah"
+    },
+    {
+      "file": "tdah__tdah_app.json",
+      "sha256": "c996ee537035f307ed07afd1140c9e190f7b0028827d6b39056f3db1067b5023",
+      "group": "TDAH",
+      "term": "tdah app"
+    },
+    {
+      "file": "tdah__tdah_jogos.json",
+      "sha256": "ae4749fd0fbb66b446a256e827d57b6f64d6659a51d47af450ac411995f1f67c",
+      "group": "TDAH",
+      "term": "tdah jogos"
+    },
+    {
+      "file": "tdah__tdah_rotina.json",
+      "sha256": "e177704dafe732d9850b375636ac3d5126ac97efe9c94afda1559171e514332f",
+      "group": "TDAH",
+      "term": "tdah rotina"
+    },
+    {
+      "file": "tdah__tdah_teste.json",
+      "sha256": "44d900e78dc273cc3524d5dabdd6258dd59adcbf592840642a378c41aa57cdc2",
+      "group": "TDAH",
+      "term": "tdah teste"
+    },
+    {
+      "file": "tdah__teste_de_tdah_gratis.json",
+      "sha256": "09b8113bf8ef08e4e65e0e51446bcd155b82706d8df05e80e9a7bdbd52f2f79b",
+      "group": "TDAH",
+      "term": "teste de tdah grátis"
+    },
+    {
+      "file": "tdah__teste_para_tdah.json",
+      "sha256": "020f084f11ffcbf1ec7afa93bb6ee46866d6c40d461f7f75ddf847603d750972",
+      "group": "TDAH",
+      "term": "teste para tdah"
+    },
+    {
+      "file": "tdah__teste_tdah_adulto.json",
+      "sha256": "6601f949fb0433136cf4bf537321bfc7fc343d91fee48e3a546c91e590a5bafb",
+      "group": "TDAH",
+      "term": "teste tdah adulto"
+    },
+    {
+      "file": "tdah__teste_tdah_adulto_gratis.json",
+      "sha256": "fad9e1a0b3e42f9d33b2071a4cd8e70abc06d66f69f456cb1a9efb76536f9423",
+      "group": "TDAH",
+      "term": "teste tdah adulto grátis"
+    },
+    {
+      "file": "tdah__transtorno_do_deficit_de_atencao_com_hiperatividade.json",
+      "sha256": "d61ba6d1e4e42131ee47a5003cbcf1b0298c7ead1c8e868c82fe15765570ea2c",
+      "group": "TDAH",
+      "term": "transtorno do déficit de atenção com hiperatividade"
+    },
+    {
+      "file": "tdc__dispraxia.json",
+      "sha256": "db10e710e47e6d65d5a2650c1493d734d7b1f532f36009c84c61555e5da02a2b",
+      "group": "TDC",
+      "term": "dispraxia"
+    },
+    {
+      "file": "tdc__dyspraxia.json",
+      "sha256": "46b8d601d4b82c4dcbcdef36db1f91d51b8ceefbe9fc35c4338a7048ffaa1fb4",
+      "group": "TDC",
+      "term": "dyspraxia"
+    },
+    {
+      "file": "tdc__transtorno_do_desenvolvimento_da_coordenacao.json",
+      "sha256": "1e615bfc4b1ff4b78db3f1b0cd4b39296d399bcd906bfa199b501fb9b947199d",
+      "group": "TDC",
+      "term": "transtorno do desenvolvimento da coordenação"
+    },
+    {
+      "file": "tdl__atraso_de_linguagem.json",
+      "sha256": "8737d5be49573a2418262b60a12224158ad7ca4e003757702ac5ff185da6c3d9",
+      "group": "TDL",
+      "term": "atraso de linguagem"
+    },
+    {
+      "file": "tdl__atraso_na_fala.json",
+      "sha256": "a3bf7bfbfa0174f74536e8e6f07f6f05955b5126ff2db5a91946d040f056ddc5",
+      "group": "TDL",
+      "term": "atraso na fala"
+    },
+    {
+      "file": "tdl__developmental_language_disorder.json",
+      "sha256": "481d7c961628e39228e9cfd774b1cc08bd987ede13c68959842e652f0db758c1",
+      "group": "TDL",
+      "term": "developmental language disorder"
+    },
+    {
+      "file": "tdl__transtorno_do_desenvolvimento_da_linguagem.json",
+      "sha256": "213b7826ed50d5c846476fce84ecf030ff4c0efc8e9c8f71233b762ba2fefd4a",
+      "group": "TDL",
+      "term": "transtorno do desenvolvimento da linguagem"
+    },
+    {
+      "file": "tea__app_autismo_italiano_gratis.json",
+      "sha256": "e28af2e838ee53b37385653ce3e385adb327201a7110a1b96dd1a7f109aac022",
+      "group": "TEA",
+      "term": "app autismo italiano gratis"
+    },
+    {
+      "file": "tea__autism.json",
+      "sha256": "d72e5b2118a7067b61bdfa61d405cc9d11f451343d57a3a5a00dfc1b98580a4e",
+      "group": "TEA",
+      "term": "autism"
+    },
+    {
+      "file": "tea__autismo.json",
+      "sha256": "2414c17dcf3d2a3b8162edbba9b843742b96a55a06f5fcb9d6d524dcff549ed6",
+      "group": "TEA",
+      "term": "autismo"
+    },
+    {
+      "file": "tea__autismo_app.json",
+      "sha256": "61dff89aed3fb936c62fc1b2e9dafb3e8e258dd649a96263b381792530ef148e",
+      "group": "TEA",
+      "term": "autismo app"
+    },
+    {
+      "file": "tea__autismo_apps_en_espanol_gratis.json",
+      "sha256": "cfff93a6b4512656f91406b7c9b3e08617aced16a16372764265f225573d36bc",
+      "group": "TEA",
+      "term": "autismo apps en espanol gratis"
+    },
+    {
+      "file": "tea__autismo_jogos.json",
+      "sha256": "832ac696c68eae593d2ab94ebabb2f4d261f311123f2b41bfa9962bae6fd1649",
+      "group": "TEA",
+      "term": "autismo jogos"
+    },
+    {
+      "file": "tea__autismo_teste.json",
+      "sha256": "b82223ecc9be3fe7dbb6fe449e15bdd8fb74ae2297c9e0bc08c4f24cff4f4ac9",
+      "group": "TEA",
+      "term": "autismo teste"
+    },
+    {
+      "file": "tea__caju_app_autismo.json",
+      "sha256": "9a5f37673fb30fcfa57036f99f07a49ee1b4e1c823dd138d71cd2b2d9e55d779",
+      "group": "TEA",
+      "term": "caju app autismo"
+    },
+    {
+      "file": "tea__espectro_autista.json",
+      "sha256": "05e03dc24ab6e61af7c48cea9ca6d7b7fcde8993976d2e57488bc315f52fa305",
+      "group": "TEA",
+      "term": "espectro autista"
+    },
+    {
+      "file": "tea__hablemos_tea_autismo_app.json",
+      "sha256": "d78b81b5d2798a89916d14ac525c019583c2595bad8043d1ad6c21f60b5d474f",
+      "group": "TEA",
+      "term": "hablemos tea autismo app"
+    },
+    {
+      "file": "tea__jogos_educativos_autismo.json",
+      "sha256": "ec614ee95f6544c708ea0bdb13d9e64e805421305682d86407befa1153734b48",
+      "group": "TEA",
+      "term": "jogos educativos autismo"
+    },
+    {
+      "file": "tea__jogos_educativos_para_autismo.json",
+      "sha256": "4f37a8e3caf8f9687b2b6f384b933395f8b647cc8778603fc8ab6640fb2e31f9",
+      "group": "TEA",
+      "term": "jogos educativos para autismo"
+    },
+    {
+      "file": "tea__jogos_infantis_autismo.json",
+      "sha256": "bd64d92c059a5c94ce0e114dc85cd175769653a1bace0afbb7dd00496cd05101",
+      "group": "TEA",
+      "term": "jogos infantis autismo"
+    },
+    {
+      "file": "tea__jogos_para_autismo.json",
+      "sha256": "9391b1d109db502a5cd48acbb49dd3d510fbce171a4a76590e40b4c26db5174b",
+      "group": "TEA",
+      "term": "jogos para autismo"
+    },
+    {
+      "file": "tea__teste_de_autismo_adulto.json",
+      "sha256": "e35db9db8e2cd394fc5c2cbdb7510584460028ca6dbc453910a7bcc89ee8c5eb",
+      "group": "TEA",
+      "term": "teste de autismo adulto"
+    },
+    {
+      "file": "tea__teste_de_autismo_adulto_gratis.json",
+      "sha256": "22b54a5f1837fcfdf325e674c7ecf168e3c9b4cb665c4d0a6635537c1b6fc950",
+      "group": "TEA",
+      "term": "teste de autismo adulto grátis"
+    },
+    {
+      "file": "tea__teste_para_autismo.json",
+      "sha256": "e77a66416a315958c7c069d5f56a5adc208611fb2ccbc34366c00fbf042f9906",
+      "group": "TEA",
+      "term": "teste para autismo"
+    },
+    {
+      "file": "tea__transtorno_do_espectro_autista.json",
+      "sha256": "b204b2662a109fa24460335a2d8de2c2a8a1f4d6d627b980a5199d7635b18cc3",
+      "group": "TEA",
+      "term": "transtorno do espectro autista"
+    },
+    {
+      "file": "tourette__sindrome_de_tourette.json",
+      "sha256": "616f49d4bc3cac35e19e53c7f16d6612cc92a513dbfc8af8c8282c37224bc599",
+      "group": "TOURETTE",
+      "term": "síndrome de tourette"
+    },
+    {
+      "file": "tourette__tourette.json",
+      "sha256": "ca15fc34a9b551b83d6faf343c36cf1728ae71f3cb1d574c9c3c84a8bfdb2087",
+      "group": "TOURETTE",
+      "term": "tourette"
+    },
+    {
+      "file": "tourette__tourette_s_syndrome.json",
+      "sha256": "83199d5ee2ed7e642e61d3123962d97f4b9fc8595f911da772eda2a203374560",
+      "group": "TOURETTE",
+      "term": "tourette's syndrome"
+    },
+    {
+      "file": "tourette__tourettes.json",
+      "sha256": "ecdc2476ebbfd3924071b250d2d862bdcfdf80530b8664c49d9c2554f265316f",
+      "group": "TOURETTE",
+      "term": "tourettes"
+    }
+  ],
+  "google_play_requests": 0,
+  "relevance_filter": false
+}
