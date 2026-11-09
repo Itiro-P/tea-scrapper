@@ -47,7 +47,7 @@ def main(argv=None):
     p.add_argument('--model',required=True);p.add_argument('--base-url',default='http://127.0.0.1:11434')
     p=sub.add_parser('run',help='Extract and checkpoint; rerun to resume unfinished work.')
     p.add_argument('--out',type=Path,required=True);p.add_argument('--model',required=True)
-    p.add_argument('--base-url',default='http://127.0.0.1:11434');p.add_argument('--timeout',type=int,default=180)
+    p.add_argument('--base-url',default='http://127.0.0.1:11434');p.add_argument('--timeout',type=int,default=720)
     p.add_argument('--workers',type=int,default=1);p.add_argument('--max-attempts',type=int,default=2)
     p.add_argument('--limit',type=int);p.add_argument('--app-id',action='append',default=[])
     p.add_argument('--retry-errors',action='store_true');p.add_argument('--stop-after-errors',type=int,default=3)

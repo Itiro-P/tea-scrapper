@@ -269,7 +269,7 @@ def resolve(content, parts, description):
 
 
 class Client:
-    def __init__(self, base_url='http://127.0.0.1:11434', timeout=180):
+    def __init__(self, base_url='http://127.0.0.1:11434', timeout=720):
         parsed=urlsplit(base_url)
         if parsed.scheme not in {'http','https'} or not parsed.hostname or parsed.query or parsed.fragment or parsed.username:
             raise ValueError('Use URL http(s) do Ollama sem credenciais, query ou fragmento.')
@@ -501,7 +501,7 @@ def review_copy(out,destination):
         return {'review_directory':str(destination),'apps':summary['apps'],'features':summary['feature_candidates'],'human_review':'pending'}
 
 
-def run(out, model, config, base_url='http://127.0.0.1:11434', timeout=180, workers=1,
+def run(out, model, config, base_url='http://127.0.0.1:11434', timeout=720, workers=1,
         max_attempts=2, limit=None, app_ids=(), retry_errors=False, stop_after_errors=3,
         export_every=25, callback=None, client=None, cancel_event=None):
     if not 1<=workers<=8 or not 1<=max_attempts<=5 or timeout<=0 or stop_after_errors<1 or export_every<1:

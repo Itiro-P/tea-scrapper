@@ -53,7 +53,7 @@ index 0000000..b146b02
 +    p.add_argument('--model',required=True);p.add_argument('--base-url',default='http://127.0.0.1:11434')
 +    p=sub.add_parser('run',help='Extract and checkpoint; rerun to resume unfinished work.')
 +    p.add_argument('--out',type=Path,required=True);p.add_argument('--model',required=True)
-+    p.add_argument('--base-url',default='http://127.0.0.1:11434');p.add_argument('--timeout',type=int,default=180)
++    p.add_argument('--base-url',default='http://127.0.0.1:11434');p.add_argument('--timeout',type=int,default=720)
 +    p.add_argument('--workers',type=int,default=1);p.add_argument('--max-attempts',type=int,default=2)
 +    p.add_argument('--limit',type=int);p.add_argument('--app-id',action='append',default=[])
 +    p.add_argument('--retry-errors',action='store_true');p.add_argument('--stop-after-errors',type=int,default=3)
@@ -337,7 +337,7 @@ index 0000000..7812a46
 +
 +
 +class Client:
-+    def __init__(self, base_url='http://127.0.0.1:11434', timeout=180):
++    def __init__(self, base_url='http://127.0.0.1:11434', timeout=720):
 +        parsed=urlsplit(base_url)
 +        if parsed.scheme not in {'http','https'} or not parsed.hostname or parsed.query or parsed.fragment or parsed.username:
 +            raise ValueError('Use URL http(s) do Ollama sem credenciais, query ou fragmento.')
@@ -569,7 +569,7 @@ index 0000000..7812a46
 +        return {'review_directory':str(destination),'apps':summary['apps'],'features':summary['feature_candidates'],'human_review':'pending'}
 +
 +
-+def run(out, model, config, base_url='http://127.0.0.1:11434', timeout=180, workers=1,
++def run(out, model, config, base_url='http://127.0.0.1:11434', timeout=720, workers=1,
 +        max_attempts=2, limit=None, app_ids=(), retry_errors=False, stop_after_errors=3,
 +        export_every=25, callback=None, client=None, cancel_event=None):
 +    if not 1<=workers<=8 or not 1<=max_attempts<=5 or timeout<=0 or stop_after_errors<1 or export_every<1:
