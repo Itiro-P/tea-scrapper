@@ -1,7 +1,7 @@
 {
-  "batch_tools/tea_batch.py": "ce8145f8108fc31c62768de0d4a27d94dbb943675e6e352c840f76177ce29eb5",
-  "batch_tools/batch_core.py": "4a754aa2cc1d5bc33fde9ada55325b82d34f1257ce1752190830a736fe05a237",
+  "batch_tools/tea_batch.py": "b39a5891d94c21040b2b66b3af6081e0a6369ad3baf9003471a669865271961e",
+  "batch_tools/batch_core.py": "3a5939e79dbca5d9ae347c8baaef681b7bad0e161ff94c01ff38da01205481c7",
   "batch_tools/ollama_transport.py": "58835de9bceef50013f83160ecc97e94d6090443b3cbc69463c82bd0a95bca01",
-  "batch_tools/test_batch.py": "42fa4050dc5ff57d6921dad1a972f00beac3d2625c48cfbdc5ccd04cfa40d7b8",
-  "docs/AUTOMACAO-3141.md": "0e5af788c6d31033984972b3e767ad249180bbb3e1f5a16e5edbd93c8dc8d90c"
+  "batch_tools/test_batch.py": "c1e76e92ee9b5885d96d7c98809a48cd8118578c42ae11e596c45826f44c055c",
+  "docs/AUTOMACAO-3141.md": "64873fb443177f9cf38668455652e2de2f78037cf715e623d85c6ff57e015b1b"
 }

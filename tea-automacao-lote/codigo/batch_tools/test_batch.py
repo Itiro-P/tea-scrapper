@@ -26,7 +26,20 @@ class Fake:
         if self.callback:self.callback()
         if self.failures:
             self.failures-=1;raise OllamaRequestError('simulated failure',status=self.failure_status)
-        payload=json.loads(body['messages'][1]['content']);features=[]
+        payload=json.loads(body['messages'][1]['content'])
+        if 'description' in payload:
+            description=payload['description']
+            if not description.strip():
+                decision='uncertain';evidence=''
+            elif payload['title']=='Superlinear Academy' or self.mode=='not_relevant':
+                decision='not_relevant';evidence=description[:min(120,len(description))]
+            elif self.mode=='uncertain':
+                decision='uncertain';evidence=''
+            else:
+                decision='relevant';evidence=description[:min(120,len(description))]
+            result={'decision':decision,'reason':'fixture rationale','evidence':evidence}
+            return {'done':True,'done_reason':'stop','message':{'content':json.dumps(result)},'eval_count':12}
+        features=[]
         for key,text in payload['segments'].items():
             if 'Crie rotinas' in text:features.append({'name':'Criar rotinas','evidence_id':key})
             if 'Receba alertas' in text:features.append({'name':'Receber alertas','evidence_id':key})
@@ -58,25 +71,45 @@ class Pipeline(unittest.TestCase):
         apps,_=b.read_corpus(self.out)
         self.assertEqual(apps[0]['groups'],['TDAH','TEA'])
         self.assertEqual(before,{p:p.read_bytes() for p in self.raw.iterdir()})
-    def test_explicit_condition_mentions_match_but_generic_superlinear_does_not(self):
-        self.assertEqual(b.find_explicit_condition_mention('ABA para crianças autistas.'),'autistas')
-        self.assertIsNone(b.find_explicit_condition_mention('Cursos de engenharia de IA na Superlinear Academy.'))
-        self.assertEqual(b.find_explicit_condition_mention('Courses for gifted learners.'),'gifted')
-    def test_filters_academy_superlinear_before_generation(self):
+    def test_prepare_does_not_filter_by_lexical_mention_or_search_group(self):
         self.put('03.json',{'meta':{'group':'AHSD','term':'superdotação'},'apps':[
             {'appId':'academy.superlinear.www','title':'Superlinear Academy',
              'description':'Cursos de engenharia de IA, projetos reais e desenvolvimento de carreira.'}]})
-        out=self.root/'filtered-analysis'
+        out=self.root/'classification-analysis'
         b.prepare(self.raw,out)
         apps,_=b.read_corpus(out)
         academy=next(app for app in apps if app['appId']=='academy.superlinear.www')
-        self.assertEqual(academy['relevance_status'],'excluded_no_explicit_mention')
+        self.assertEqual(academy['relevance_status'],'pending_llm_classification')
         plan=b.plan(out,dict(CONFIG))
-        self.assertEqual(plan['apps_filtered_no_explicit_mention'],1)
+        self.assertEqual(plan['apps_to_classify'],4)
+        self.assertEqual(plan['apps_filtered_before_classification'],0)
         result=b.run(out,'test:1',dict(CONFIG),client=self.client,app_ids=['academy.superlinear.www'])
-        self.assertEqual(self.client.calls,[])
-        self.assertEqual(result['states']['filtered_no_explicit_mention'],1)
-        self.assertEqual(result['apps_remaining'],3)
+        self.assertEqual(len(self.client.calls),1)
+        self.assertEqual(result['states']['classified_not_relevant'],1)
+        self.assertEqual(result['apps_classified_not_relevant'],1)
+        self.assertEqual(result['parts_total'],0)
+    def test_classifier_decision_requires_literal_evidence(self):
+        description='Este app oferece apoio direcionado para pessoas autistas.'
+        valid={'decision':'relevant','reason':'Suporte direcionado.','evidence':'apoio direcionado para pessoas autistas'}
+        self.assertEqual(b.resolve_classification(json.dumps(valid),description)['decision'],'relevant')
+        invalid={**valid,'evidence':'apoio para pessoas autistas'}
+        with self.assertRaises(ValueError):b.resolve_classification(json.dumps(invalid),description)
+    def test_llm_classification_receives_full_description_before_extraction(self):
+        self.ready()
+        description='Crie rotinas para pessoas autistas. Receba alertas.'
+        self.run_it(app_ids=['a.one'])
+        classification,extraction=self.client.calls
+        self.assertIn('Classifique como relevant',classification['messages'][0]['content'])
+        self.assertEqual(json.loads(classification['messages'][1]['content']),
+                         {'title':'Um','description':description})
+        self.assertIn('Extraia capacidades',extraction['messages'][0]['content'])
+    def test_uncertain_classification_is_held_for_review_without_extraction(self):
+        self.ready();self.client.mode='uncertain'
+        result=self.run_it(app_ids=['a.one'])
+        self.assertEqual(result['states']['needs_relevance_review'],1)
+        self.assertEqual(result['apps_uncertain_needing_relevance_review'],1)
+        self.assertEqual(result['parts_total'],0)
+        self.assertEqual(result['feature_candidates'],0)
     def test_wrong_expected_count_creates_no_output(self):
         with self.assertRaises(ValueError):b.prepare(self.raw,self.out,3141)
         self.assertFalse(self.out.exists())
@@ -85,6 +118,13 @@ class Pipeline(unittest.TestCase):
         self.put('03.json',{'group':'DI','apps':[{'appId':'d.four','description':'outro'}]})
         with self.assertRaises(ValueError):b.prepare(self.raw,self.out)
         self.assertEqual(b.read_corpus(self.out)[1]['apps'],3)
+    def test_old_corpus_requires_a_new_versioned_output_directory(self):
+        self.ready()
+        manifest_path=self.out/'corpus-manifest.json'
+        manifest=json.loads(manifest_path.read_text(encoding='utf-8'));manifest['version']='batch-v2'
+        manifest_path.write_text(json.dumps(manifest),encoding='utf-8')
+        with self.assertRaisesRegex(ValueError,'nova pasta'):
+            b.prepare(self.raw,self.out,3)
     def test_tampered_corpus_rejected(self):
         self.ready();(self.out/'corpus.jsonl').write_text('changed')
         with self.assertRaises(ValueError):self.run_it()
@@ -95,7 +135,7 @@ class Pipeline(unittest.TestCase):
         b.prepare(self.raw,self.out,4)
         apps,_=b.read_corpus(self.out)
         self.assertEqual(apps[-1]['description'],text)
-        self.assertGreater(b.plan(self.out,CONFIG)['chunks'],0)
+        self.assertGreater(b.plan(self.out,CONFIG)['extraction_chunks_if_all_relevant'],0)
     def test_alternative_description_logged_not_silently_combined(self):
         self.put('03.json',{'group':'DI','apps':[{'appId':'a.one','description':'Outro texto.'}]})
         self.ready();apps,m=b.read_corpus(self.out)
@@ -143,6 +183,7 @@ class Pipeline(unittest.TestCase):
     def test_complete_empty_flagged_and_repeat_makes_no_new_generation(self):
         self.ready();r=self.run_it()
         self.assertEqual(r['apps_technically_complete'],3);self.assertEqual(r['apps_empty_needing_review'],1)
+        self.assertEqual(r['apps_classified_relevant'],3)
         self.assertEqual(r['feature_candidates'],3)
         count=len(self.client.calls);again=self.run_it()
         self.assertEqual(len(self.client.calls),count);self.assertEqual(again['scheduled_parts'],0)
@@ -153,22 +194,24 @@ class Pipeline(unittest.TestCase):
     def test_partial_run_resumes_all_other_apps_without_repeating_success(self):
         self.ready();first=self.run_it(limit=1);self.assertEqual(first['apps_technically_complete'],1)
         calls=len(self.client.calls);second=self.run_it()
-        self.assertEqual(second['apps_technically_complete'],3);self.assertEqual(len(self.client.calls)-calls,2)
+        self.assertEqual(second['apps_technically_complete'],3);self.assertEqual(len(self.client.calls)-calls,4)
     def test_resume_preserves_completed_chunk_inside_long_app(self):
         self.put('01.json',{'group':'TEA','apps':[{'appId':'a.one','title':'Um','description':'Crie rotinas para pessoas autistas. '*70},
                                                  {'appId':'b.two','title':'Dois','description':'Receba alertas para autismo.'}]})
         self.ready();conf={**CONFIG,'chunk_bytes':512}
-        self.client.fail_at=2
+        self.client.fail_at=3
         r=b.run(self.out,'test:1',conf,client=self.client,limit=1,max_attempts=1)
         self.assertEqual(r['apps_technically_complete'],0)
         with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:
             self.assertEqual(db.execute("SELECT COUNT(*) FROM jobs WHERE state='ok'").fetchone()[0],1)
-            total=db.execute('SELECT COUNT(*) FROM jobs').fetchone()[0]
         del self.client.fail_at
         r=b.run(self.out,'test:1',conf,client=self.client,retry_errors=True,max_attempts=1)
         self.assertEqual(r['apps_remaining'],0)
-        # First success + one failure + every other job exactly once.
-        self.assertEqual(len(self.client.calls),total+1)
+        # Completed classifications/jobs are not repeated when unfinished work resumes.
+        with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:
+            classification_count=db.execute('SELECT COUNT(*) FROM classifications').fetchone()[0]
+            final_jobs=db.execute('SELECT COUNT(*) FROM jobs').fetchone()[0]
+        self.assertEqual(len(self.client.calls),classification_count+final_jobs+1)
     def test_selection_controls_do_not_limit_future_full_run(self):
         self.ready();r=self.run_it(app_ids=['b.two'])
         self.assertEqual(r['apps_technically_complete'],1)
@@ -176,9 +219,9 @@ class Pipeline(unittest.TestCase):
     def test_bounded_transport_retries_and_raw_audit(self):
         self.ready();self.client.failures=1
         r=self.run_it(limit=1,max_attempts=2)
-        self.assertEqual(r['apps_technically_complete'],1);self.assertEqual(len(self.client.calls),2)
+        self.assertEqual(r['apps_technically_complete'],1);self.assertEqual(len(self.client.calls),3)
         with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:
-            self.assertEqual(db.execute('SELECT COUNT(*) FROM attempts').fetchone()[0],2)
+            self.assertEqual(db.execute('SELECT COUNT(*) FROM classification_attempts').fetchone()[0],2)
     def test_invalid_json_ids_never_count_as_complete_and_retry_is_explicit(self):
         self.ready();self.client.mode='bad_id';r=self.run_it(limit=1,max_attempts=1)
         self.assertEqual(r['apps_technically_complete'],0);self.assertEqual(r['errors_this_run'],1)
@@ -195,11 +238,13 @@ class Pipeline(unittest.TestCase):
         self.assertEqual(r['apps_remaining'],3)
     def test_generation_deadline_is_not_automatically_retried(self):
         self.ready()
+        original=self.client.chat
         def timeout(body,on_progress,cancel):
+            if 'description' in json.loads(body['messages'][1]['content']):return original(body,on_progress,cancel)
             self.client.calls.append(body);raise OllamaDeadlineError('time limit reached')
         self.client.chat=timeout
         r=self.run_it(max_attempts=2)
-        self.assertEqual(len(self.client.calls),1);self.assertEqual(r['stop_reason'],'generation_timeout')
+        self.assertEqual(len(self.client.calls),4);self.assertEqual(r['stop_reason'],'generation_timeout')
         self.assertEqual(r['apps_remaining'],3)
     def test_consecutive_failures_open_circuit(self):
         self.ready();self.client.failures=99
@@ -214,11 +259,11 @@ class Pipeline(unittest.TestCase):
         with self.assertRaises(ValueError):b.run(self.out,'test:1',{**CONFIG,'seed':43},client=self.client)
     def test_abandoned_running_job_is_recovered(self):
         self.ready();self.run_it(limit=1)
-        with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:db.execute("UPDATE jobs SET state='running' WHERE app_id='b.two'")
+        with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:db.execute("UPDATE classifications SET state='running' WHERE app_id='b.two'")
         self.assertEqual(self.run_it()['apps_remaining'],0)
     def test_parallel_execution_does_not_duplicate_jobs(self):
         self.ready();r=self.run_it(workers=3)
-        self.assertEqual(len(self.client.calls),3);self.assertEqual(r['apps_remaining'],0)
+        self.assertEqual(len(self.client.calls),6);self.assertEqual(r['apps_remaining'],0)
     def test_thinking_metadata_avoids_unsupported_flags(self):
         identity={'capabilities':['thinking'],'thinking':{'values':['low','high']}}
         self.assertIsNone(b.thinking_option(identity,'auto'))
@@ -240,9 +285,9 @@ class Pipeline(unittest.TestCase):
         self.put('03.json',{'group':'DI','apps':[{'appId':'d.four','description':''}]})
         b.prepare(self.raw,self.out,4)
         planned=b.plan(self.out,dict(CONFIG))
-        self.assertEqual(planned['apps_needing_empty_description_review'],1)
+        self.assertEqual(planned['empty_descriptions'],1)
         r=self.run_it()
-        self.assertEqual(r['states']['input_error'],1);self.assertEqual(len(self.client.calls),3)
+        self.assertEqual(r['states']['needs_relevance_review'],1);self.assertEqual(len(self.client.calls),6)
     def test_lock_prevents_two_writers(self):
         self.ready()
         with b.exclusive(self.out),self.assertRaises(ValueError):self.run_it()
@@ -251,10 +296,15 @@ class Pipeline(unittest.TestCase):
         snapshot=(self.out/'apps.csv').read_bytes()
         with b.exclusive(self.out):self.assertEqual(b.status(self.out)['apps_technically_complete'],1)
         self.assertEqual(snapshot,(self.out/'apps.csv').read_bytes())
+    def test_status_reports_old_checkpoint_as_incompatible(self):
+        self.out.mkdir()
+        with sqlite3.connect(self.out/'checkpoint.sqlite3') as db:db.execute('CREATE TABLE jobs(id INTEGER)')
+        with self.assertRaisesRegex(ValueError,'versão antiga'):
+            b.status(self.out)
     def test_export_contains_failed_and_pending_app_rows(self):
         self.ready();self.run_it(limit=1)
         with (self.out/'apps.csv').open(encoding='utf-8-sig') as f:rows=list(csv.DictReader(f))
-        self.assertEqual(len(rows),3);self.assertEqual(sum(r['status']=='pending' for r in rows),2)
+        self.assertEqual(len(rows),3);self.assertEqual(sum(r['status']=='pending_classification' for r in rows),2)
         self.assertTrue(all(r['human_reviewer']=='' for r in rows))
 
 

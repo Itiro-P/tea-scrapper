@@ -1,28 +1,32 @@
 {
-  "new_automated_tests_passed": 38,
+  "new_automated_tests_passed": 42,
+  "syntax_check_passed": true,
   "installer_checks_passed": [
-    "root_apply_and_reapply",
-    "monorepo_apply_and_reapply",
-    "different_existing_file_protected",
-    "tampered_package_rejected"
+    "clean_install_and_reapply",
+    "recognized_v2_upgrade_and_reapply",
+    "monorepo_project_path",
+    "modified_file_protection"
   ],
   "actual_corpus_preparation": {
     "real_apps": 3141,
-    "real_parts": 5122,
-    "explicit_mention_filter": {
-      "eligible_apps": 713,
-      "filtered_no_explicit_mention": 2428,
-      "eligible_parts": 1303
-    },
-    "generation_calls": 0,
-    "all_non_whitespace_preserved": true,
-    "all_offsets_verified": true,
-    "model_inference_performed": false
+    "apps_to_classify": 3141,
+    "apps_filtered_before_classification": 0,
+    "potential_extraction_parts_if_all_relevant": 5122,
+    "generation_requests": 0
   },
-  "real_model_inference_tested": false,
+  "classification_protocol": {
+    "labels": ["relevant", "not_relevant", "uncertain"],
+    "uses_full_title_and_description": true,
+    "requires_literal_evidence_for_relevant_and_not_relevant": true,
+    "uncertain_is_held_for_human_review": true,
+    "uncertain_is_extracted_automatically": false
+  },
+  "real_model_inference_performed": false,
+  "classification_accuracy_measured": false,
+  "feature_semantic_accuracy_measured": false,
   "UTFPR_server_accessed": false,
-  "semantic_accuracy_measured": false,
-  "old_repository_files_modified": 0,
+  "original_collection_modified": false,
+  "lote_3141_v2_modified": false,
   "commits_created": 0,
-  "note": "Testes de software/HTTP usam respostas simuladas. Preparação cobre a coleta real. Não são 3.141 extrações de LLM."
+  "note": "Tests use deterministic model doubles and validate pipeline behavior, not LLM classification accuracy or feature quality."
 }

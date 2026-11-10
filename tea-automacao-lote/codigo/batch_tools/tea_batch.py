@@ -31,21 +31,22 @@ def config(args):
 def progress(event):
     with PRINT_LOCK:
         if event['event']=='waiting':
-            print(f"aguardando | {event['appId']} | parte {event['part']} | {event['elapsed_seconds']:.0f}s | {event['content_chars']} caracteres",file=sys.stderr,flush=True)
+            stage='classificação' if event.get('stage')=='classification' else 'extração'
+            print(f"aguardando | {stage} | {event['appId']} | parte {event['part']} | {event['elapsed_seconds']:.0f}s | {event['content_chars']} caracteres",file=sys.stderr,flush=True)
         else:print(json.dumps(event,ensure_ascii=False),file=sys.stderr,flush=True)
 
 
 def main(argv=None):
     parser=argparse.ArgumentParser(description=__doc__)
     sub=parser.add_subparsers(dest='command',required=True)
-    p=sub.add_parser('prepare',help='Freeze all unique apps from local JSONs; no network.')
+    p=sub.add_parser('prepare',help='Freeze all unique apps from local JSONs; no model calls.')
     p.add_argument('--results',type=Path,required=True);p.add_argument('--out',type=Path,required=True)
     p.add_argument('--expect-apps',type=int)
-    p=sub.add_parser('plan',help='Calculate chunks without calling any model.')
+    p=sub.add_parser('plan',help='Estimate classification and extraction work without model calls.')
     p.add_argument('--out',type=Path,required=True);settings(p)
     p=sub.add_parser('doctor',help='Inspect configured Ollama and installed model; no generation.')
     p.add_argument('--model',required=True);p.add_argument('--base-url',default='http://127.0.0.1:11434')
-    p=sub.add_parser('run',help='Extract and checkpoint; rerun to resume unfinished work.')
+    p=sub.add_parser('run',help='Classify apps, extract relevant ones and checkpoint both stages.')
     p.add_argument('--out',type=Path,required=True);p.add_argument('--model',required=True)
     p.add_argument('--base-url',default='http://127.0.0.1:11434');p.add_argument('--timeout',type=int,default=720)
     p.add_argument('--workers',type=int,default=1);p.add_argument('--max-attempts',type=int,default=2)
@@ -78,7 +79,8 @@ def main(argv=None):
         if args.command=='run':
             if result['stop_reason']=='interrupted':return 130
             if result['errors_this_run'] or result['stop_reason']:return 2
-            if result['states'].get('error') or result['states'].get('partial_error') or result['states'].get('input_error'):return 2
+            if any(result['states'].get(state) for state in
+                   ('error','partial_error','input_error','classification_error')):return 2
         return 0
     except (ValueError,OSError,RuntimeError,KeyError,sqlite3.Error) as exc:
         print('Erro: '+str(exc),file=sys.stderr);return 2

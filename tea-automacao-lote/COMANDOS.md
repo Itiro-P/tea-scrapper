@@ -1,42 +1,28 @@
-# Extração automática dos 3.141 apps
+# Classificação e extração dos 3.141 apps
 
-Esta automação usa somente Python 3.10+ e a API do Ollama configurada. Não precisa
-de venv, pip, npm, assinatura de API ou coleta adicional da Google Play. O Ollama
-e um modelo local instalado precisam estar disponíveis na máquina que vai rodar
-as gerações. Não há download automático de modelo.
+Esta versão usa Python 3.10+ e Ollama local. Não precisa de venv, pip, npm,
+assinatura de API ou coleta adicional da Google Play. Não baixa modelos.
 
-O novo comando é independente do extrator anterior para preservar seus patches e
-resultados. Nenhum arquivo antigo do projeto é substituído. Nenhum commit é feito.
+O fluxo é feito em duas etapas sequenciais para cada app:
 
-## O que executa
+1. **Classificação LLM:** lê o título e a descrição completa dos 3.141 apps,
+   sem pré-filtro lexical. Decide `relevant`, `not_relevant` ou `uncertain`.
+2. **Extração LLM:** somente apps `relevant` seguem para extração das
+   funcionalidades por partes.
 
-1. Lê os JSONs locais, preserva os dez grupos de busca e deduplica por appId.
-2. Congela texto completo, fontes, hashes e origem. Antes da extração, inclui o
-   app somente se a descrição mencionar explicitamente uma condição ou
-   neurodivergência reconhecida; grupos ainda indicam origem da busca, não
-   diagnóstico nem adequação. A lista de termos e a ocorrência escolhida ficam
-   registradas no corpus e em `apps.csv`; descrições vazias ficam para revisão.
-3. Divide descrições elegíveis em partes com orçamento conservador de contexto. Todos os
-   caracteres não brancos são preservados. IDs e offsets apontam para a fonte.
-4. Chama o modelo para obter ações e IDs de evidência. O Python copia a evidência;
-   não usa aproximação textual nem inventa citações para corrigir uma previsão.
-5. Salva cada parte validada em SQLite. Repetir o comando retoma pendências sem
-   gerar novamente as partes concluídas, inclusive em um app parcialmente feito.
-6. Exporta CSVs, JSONL, contagens e uma tabela inicial para normalizar nomes.
+`relevant` significa que o app apresenta pessoas neurodivergentes como público-alvo
+ou descreve suporte direcionado como finalidade/recurso central. Menção incidental
+(por exemplo, um teste de TDAH entre muitos testes de um app geral de bem-estar)
+deve ser `not_relevant`. Casos que a descrição não permite decidir ficam
+`uncertain`, para revisão; não são extraídos nem descartados silenciosamente.
+Grupos de busca servem apenas como proveniência e não são enviados como evidência.
 
-Respostas vazias ficam como `review_empty` quando o app inteiro não tem candidatas.
-Isso não comprova ausência de funcionalidades. `complete` significa apenas que
-todas as partes passaram pela validação estrutural e literal. A correção semântica
-e as omissões continuam exigindo avaliação humana de uma amostra.
-Apps sem menção explícita ficam como `filtered_no_explicit_mention` e não geram
-chamadas ao modelo. Esse filtro lexical não comprova relevância quando encontra um
-termo nem irrelevância quando não encontra; revise a política e os termos em casos
-limítrofes.
-Os termos incluem variantes em português e inglês de autismo, TDAH/ADHD,
-dislexia, disgrafia, discalculia, dispraxia, transtornos de linguagem,
-deficiência intelectual, Tourette, altas habilidades/superdotação/gifted e
-neurodivergência. Basta a descrição mencionar explicitamente um deles; o grupo de
-busca não restringe a lista.
+A classificação e as funcionalidades são previsões do modelo, não verdade de
+referência. O Python valida formato e se a evidência citada é literal, mas isso
+não prova que a justificativa esteja semanticamente correta. Revise uma amostra,
+incluindo `uncertain` e `not_relevant`, antes de usar os resultados como dados
+finais. Cada classificação e sua citação ficam registradas no SQLite, `apps.csv`
+e `extractions.jsonl`; as tentativas brutas ficam no checkpoint.
 
 ## Aplicar e testar o código
 
@@ -49,9 +35,10 @@ bash ~/Downloads/tea-automacao-lote/aplicar.sh &&
 python3 -m unittest discover -s batch_tools -p 'test_*.py' -v
 ```
 
-O aplicador verifica os arquivos do pacote, aceita reaplicação idêntica e recusa
-colisões com código diferente. Não usa reset, checkout, clean ou aplicação forçada.
-É compatível com as versões anteriores porque adiciona somente arquivos novos.
+O aplicador verifica os arquivos do pacote, aceita reaplicação idêntica, atualiza
+somente os arquivos da versão anterior se seus hashes ainda forem exatamente os
+esperados e recusa qualquer outra colisão. Não usa reset, checkout, clean ou
+aplicação forçada.
 
 Se estiver no servidor e o repositório tiver outro endereço, entre nele primeiro
 e execute os mesmos comandos a partir de `bash .../aplicar.sh`. Copie o pacote e
@@ -65,17 +52,18 @@ Na raiz do repositório:
 ```bash
 python3 batch_tools/tea_batch.py prepare \
   --results output/results_2026-10-19 \
-  --out analysis/lote-3141-v2 \
+  --out analysis/lote-3141-v3 \
   --expect-apps 3141
 
-python3 batch_tools/tea_batch.py plan --out analysis/lote-3141-v2
+python3 batch_tools/tea_batch.py plan --out analysis/lote-3141-v3
 ```
 
-Na coleta enviada foram encontrados 3.141 apps, zero descrições vazias e 5.122
-partes brutas. Com a regra de menção explícita, o plano prevê 713 apps elegíveis,
-2.428 filtrados e 1.303 partes para extração. Esses números são preparação, não
-resultados de LLM. Se a coleta for outra, `--expect-apps 3141` evita executar o
-conjunto errado.
+Use uma pasta nova. `lote-3141-v2` contém o filtro lexical antigo e seus
+checkpoints não são compatíveis com esta versão. O planejamento estima chamadas
+de classificação para todos os apps e partes de extração se todos forem relevantes;
+não faz chamadas ao modelo. Na coleta atual, são 3.141 classificações e até 5.122
+partes de extração se todos forem relevantes. `--expect-apps 3141` evita executar
+uma coleta diferente.
 
 ## Primeiro teste com o modelo real no servidor
 
@@ -88,48 +76,38 @@ primeira geração desta pasta.
 python3 batch_tools/tea_batch.py doctor --model qwen3.6-35b-cpu:latest
 
 python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest \
+  --out analysis/lote-3141-v3 --model qwen3.6-35b-cpu:latest \
   --app-id uk.co.mymolehillmountain.autistica \
   --app-id com.dmwaresolutions.meuabinha \
   --app-id aba.picture.deck
 
-python3 batch_tools/tea_batch.py status --out analysis/lote-3141-v2
+python3 batch_tools/tea_batch.py status --out analysis/lote-3141-v3
 ```
 
-Esse comando testa três apps elegíveis e deixa os demais elegíveis pendentes.
-Apps sem menção explícita ficam filtrados e não são enviados ao modelo.
-`apps` continuará mostrando 3.141, com três tecnicamente concluídos se não houver
-falhas. A seleção de três não altera a identidade da execução nem impede retomar.
+Cada app selecionado passa primeiro pela classificação. Só os rotulados
+`relevant` são enviados à extração; `uncertain` fica para revisão e
+`not_relevant` não é extraído. `apps.csv` registra decisão, justificativa, citação
+e estado. `--app-id` restringe o teste sem impedir a retomada do restante depois.
 
-Abra `analysis/lote-3141-v2/funcionalidades.csv` e confira especialmente Molehill
-Mountain. Sua descrição anuncia acompanhamento de preocupações, gráfico de
-check-ins, consulta de check-ins anteriores, dicas de ansiedade e atividades de
-TCC. Não aceite uma resposta vazia como demonstração de qualidade. Essa lista
-serve como verificação de desenvolvimento, não padrão ouro independente.
+Inspecione os três resultados em `apps.csv` e `funcionalidades.csv`; confirme
+especialmente que uma menção incidental não é classificada como relevante e que
+uma descrição sem menção literal mas com suporte direcionado não é descartada.
+Esse teste inicial não mede acurácia representativa.
 
-Apps como o de italiano, sem menção explícita a neurodivergência na descrição,
-serão excluídos antes da extração, mesmo que tenham sido encontrados por uma
-busca relacionada a TEA.
+## Executar a classificação e extração
 
-`mean_completed_app_seconds` informa tempo observado, incluindo tentativas.
-`estimated_serial_hours_remaining` é extrapolação aproximada para execução
-serial, sem garantia. Três apps não representam todos os tamanhos e dificuldades.
-O tempo depende do modelo e do servidor; não foi prometida execução em minutos.
-
-## Executar os apps elegíveis
-
-Se o primeiro teste tiver fluxo e qualidade aceitáveis para desenvolvimento:
+Uma execução completa classifica todos os apps ainda pendentes e extrai os que o
+modelo classificar como relevantes:
 
 ```bash
 python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest --retry-errors
+  --out analysis/lote-3141-v3 --model qwen3.6-35b-cpu:latest --retry-errors
 ```
 
-Use exatamente a mesma pasta e configuração para retomar. Os três apps do teste,
-se já concluídos, não serão gerados novamente. Ctrl+C encerra o agendamento e
-preserva o checkpoint; depois repita o comando. Um encerramento forçado pode
-repetir uma chamada que terminou, mas ainda não havia sido salva. Resultados já
-confirmados no SQLite são preservados.
+O mesmo comando retoma classificação e extração sem repetir resultados salvos.
+Ctrl+C encerra o agendamento e preserva o checkpoint; depois repita o comando.
+Uma classificação bem-sucedida também fica salva, inclusive quando a extração
+posterior falha.
 
 O padrão usa um worker para não multiplicar a demanda de memória e a fila do
 modelo. `--workers 2` permite duas chamadas em paralelo, mas só vale aumentar se
@@ -137,59 +115,58 @@ o servidor suportar e a medição mostrar ganho. Workers, timeout e seleção de
 apps podem mudar ao retomar. Modelo, digest, versão, prompt, código ou opções de
 geração diferentes exigem uma nova pasta preparada com os mesmos JSONs.
 
-Retentativas são limitadas: no máximo duas chamadas por parte por execução.
-Um timeout de geração não é repetido automaticamente e interrompe o agendamento
-de novas partes, para não deixar a máquina repetindo chamadas lentas por horas.
-`--retry-errors` autoriza tentar erros anteriores outra vez; sucessos não são
-repetidos. HTTP 400/401/403/404 interrompe novo agendamento. Três falhas seguidas
-de transporte também interrompem o lote para não insistir em serviço indisponível.
+Retentativas são limitadas: no máximo duas chamadas por classificação ou parte
+por execução. Um timeout não é repetido automaticamente e interrompe o
+agendamento. `--retry-errors` autoriza tentar erros anteriores outra vez;
+sucessos não são repetidos. HTTP 400/401/403/404 interrompe novo agendamento.
+Três falhas seguidas de transporte também interrompem o lote.
 Leia o erro e corrija a causa antes de repetir indefinidamente.
 
 Para deixar o processo rodando mesmo após encerrar a sessão SSH, opcionalmente:
 
 ```bash
 nohup python3 batch_tools/tea_batch.py run \
-  --out analysis/lote-3141-v2 --model qwen3.6-35b-cpu:latest --retry-errors \
-  > analysis/lote-3141-v2/execucao.log 2>&1 &
+  --out analysis/lote-3141-v3 --model qwen3.6-35b-cpu:latest --retry-errors \
+  > analysis/lote-3141-v3/execucao.log 2>&1 &
 ```
 
 Não inicie outra geração na mesma pasta enquanto essa estiver ativa. O lock impede
-dois escritores. Nesse caso, acompanhe `tail -n 20 analysis/lote-3141-v2/execucao.log`
-ou use `status --out analysis/lote-3141-v2`, que consulta o checkpoint sem interromper
-o lote e sem reescrever arquivos. `resumo.json` é atualizado a cada 25 partes e ao
+dois escritores. Nesse caso, acompanhe `tail -n 20 analysis/lote-3141-v3/execucao.log`
+ou use `status --out analysis/lote-3141-v3`, que consulta o checkpoint sem interromper
+o lote e sem reescrever arquivos. `resumo.json` é atualizado a cada 25 respostas e ao
 finalizar/parar.
 
 ## Resultados e revisão
 
-- `apps.csv`: todos os apps, estados e cobertura por partes.
+- `apps.csv`: todos os apps, decisão de relevância, justificativa, evidência e estado.
 - `funcionalidades.csv`: nomes propostos, evidências, offsets, origem e hashes.
 - `extractions.jsonl`: um registro por app, incluindo pendentes, vazios e erros.
 - `taxonomia-para-revisao.csv`: nomes brutos e frequência por app. A igualdade de
   texto não é agrupamento semântico. Códigos normalizados ficam para revisão.
-- `checkpoint.sqlite3`: partes, respostas brutas e histórico das tentativas.
+- `checkpoint.sqlite3`: classificações, partes, respostas brutas e histórico das tentativas.
 - `run-manifest.json`: modelo/digest, versão Ollama, prompt, opções e hashes do código.
 - `executions.jsonl`: parâmetros operacionais e término de cada execução.
 
 Os CSVs dessa pasta são saídas automáticas e são atualizados durante a execução.
-Enquanto houver partes pendentes ou com erro, uma candidata já exportada pode
-pertencer a app parcialmente analisado. Confira `technical_complete` em apps.csv
-e `app_complete` em funcionalidades.csv antes de usar contagens como finais.
+Enquanto houver classificações ou partes pendentes/com erro, uma candidata já
+exportada pode pertencer a app parcialmente analisado. Confira `technical_complete`
+em apps.csv e `app_complete` em funcionalidades.csv. Revise também os casos
+`needs_relevance_review` e a amostra dos `classified_not_relevant`.
 Para registrar revisão sem sobrescrever trabalho humano, crie uma cópia separada:
 
 ```bash
 python3 batch_tools/tea_batch.py review \
-  --out analysis/lote-3141-v2 --review-dir analysis/revisao-lote-3141-v2
+  --out analysis/lote-3141-v3 --review-dir analysis/revisao-lote-3141-v3
 ```
 
-Esse comando exige pasta de revisão nova. Preencha `human_decision`,
-`human_name_correction` e `human_reviewer` na cópia. As revisões não são importadas
-automaticamente de volta ao checkpoint nem usadas para inventar métricas.
+Esse comando exige pasta de revisão nova. Em `apps.csv`, preencha
+`relevance_human_decision` e `relevance_human_reviewer`; em
+`funcionalidades.csv`, preencha `human_decision`, `human_name_correction` e
+`human_reviewer`. As revisões não são importadas automaticamente para o checkpoint.
 
-Não é necessário que uma pessoa extraia manualmente os 3.141 apps. A equipe deve
-avaliar uma amostra independente para estimar erros e revisar a normalização/FODA.
-Para os 60 apps já separados, mantenha as previsões ocultas dos anotadores até
-terminarem a referência humana. Depois compare nomes por significado, não apenas
-por igualdade textual. Esses controles não são substituídos por citação literal.
+Não é necessário que uma pessoa revise os 3.141 apps um a um. Avalie amostras
+independentes de cada decisão de relevância e de funcionalidades; preserve rótulos
+humanos como referência independente. A citação literal não substitui essa revisão.
 
 Os 100 apps analisados pelo ChatGPT anteriormente não são importados como saídas
 do Ollama nem como padrão ouro. Para obter um corpus uniforme atribuído a um
@@ -198,15 +175,14 @@ os apps nem consulta a Google Play.
 
 ## O que foi testado e o que ainda depende do servidor
 
-Foram testados entrada real dos 3.141 apps, cobertura integral da segmentação,
-retomada por parte, deduplicação entre grupos, IDs inválidos, respostas truncadas,
-limite total de tempo, HTTP real com servidor simulado, concorrência, isolamento
-de configurações, respostas vazias e proteção da revisão humana.
+Foram testados classificação seguida de extração, bloqueio da extração para
+`not_relevant`/`uncertain`, validação de evidência literal, retomada de cada etapa,
+entrada real dos 3.141 apps, cobertura integral da segmentação, IDs inválidos,
+respostas truncadas, timeout, HTTP simulado, concorrência e proteção da revisão.
 
-Não foi realizada aqui inferência com um modelo real nem acesso ao servidor da
-UTFPR. Os testes de transporte usam respostas controladas e não medem acurácia
-de LLM. A automação está implementada; desempenho e qualidade no servidor precisam
-ser medidos no primeiro teste com o modelo real.
+Não houve inferência com modelo real nem acesso ao servidor UTFPR neste ambiente.
+Os testes usam classificações/respostas simuladas e não medem precisão ou recall.
+Valide as categorias com uma amostra humana antes de tirar conclusões.
 
 API usada: documentação oficial consultada em 05/11/2026:
 
