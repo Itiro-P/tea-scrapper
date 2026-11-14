@@ -3,5 +3,9 @@
   "batch_tools/batch_core.py": "3a5939e79dbca5d9ae347c8baaef681b7bad0e161ff94c01ff38da01205481c7",
   "batch_tools/ollama_transport.py": "58835de9bceef50013f83160ecc97e94d6090443b3cbc69463c82bd0a95bca01",
   "batch_tools/test_batch.py": "c1e76e92ee9b5885d96d7c98809a48cd8118578c42ae11e596c45826f44c055c",
-  "docs/AUTOMACAO-3141.md": "64873fb443177f9cf38668455652e2de2f78037cf715e623d85c6ff57e015b1b"
+  "batch_tools/tea_foda.py": "4d1653aa01c29ce6cda8ba701a73c118dc02a90eb51c64d1da63e776577ab6b7",
+  "batch_tools/foda_evaluation.py": "e0c47a31ba9eb925bc01d8c5eeec4247daed11893ace732583fa848e345d93ac",
+  "batch_tools/foda_structure.py": "eee46ce4579be772c4bbb39687c74257b508318809549b99e95e594d6821ebf3",
+  "batch_tools/test_foda.py": "db7ad855d77ca56504bc8add30fcbc91775eb4b4039c5ce75f38874c88ab5fc0",
+  "docs/AUTOMACAO-3141.md": "bfe5de450e742e34d31d0f91f0353cce018381448356e8919cf39356f0623597"
 }

@@ -1,0 +1,14 @@
+{
+  "version": "foda-llm-v1",
+  "input_dir": "/home/itiro/repos/tea-scrapper/analysis/lote-3141-v3",
+  "input_hashes": {
+    "corpus.jsonl": "d13aa08ff3df0260a2b9937937ab6b314080afdc39ec9acc74fbd385f5636c59",
+    "extractions.jsonl": "eaf56eb408f51a908f359acedd50464ba87d5459cc2385f5774a6ab7723bb8ec",
+    "funcionalidades.csv": "45260e28cac675074f1200fce3858bc4d3137f7e9e80c4958721954e71b549d4"
+  },
+  "apps": 3141,
+  "feature_rows": 40022,
+  "unique_source_features": 33695,
+  "technically_complete_apps": 3107,
+  "batch_size": 60
+}

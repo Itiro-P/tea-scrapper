@@ -173,6 +173,134 @@ do Ollama nem como padrão ouro. Para obter um corpus uniforme atribuído a um
 modelo registrado, o lote extrai novamente suas descrições locais; isso não baixa
 os apps nem consulta a Google Play.
 
+## Analisar as funcionalidades com FODA apoiado por LLM
+
+Depois de ter `corpus.jsonl`, `extractions.jsonl` e `funcionalidades.csv` no
+diretório v3, prepare uma análise separada. O comando usa esses três arquivos
+locais, não altera o lote original e não chama o modelo durante `prepare`:
+
+Após aplicar o pacote, o script fica em `batch_tools/tea_foda.py`. Para executar
+diretamente da cópia do pacote sem aplicar, substitua esse caminho por
+`tea-automacao-lote/codigo/batch_tools/tea_foda.py` (ou pelo caminho onde extraiu
+o pacote).
+
+```bash
+python3 batch_tools/tea_foda.py prepare \
+  --input-dir analysis/lote-3141-v3 \
+  --out analysis/foda-lote-3141-v3 \
+  --batch-size 60
+
+python3 batch_tools/tea_foda.py plan \
+  --out analysis/foda-lote-3141-v3
+```
+
+O preparador valida que os três artefatos correspondem aos mesmos apps,
+normaliza nomes repetidos sem acentos/variações de caixa e congela cada entrada
+por hash. No lote atual isso resulta em 33.695 nomes de origem e 562 chamadas
+planejadas com lotes de 60 conceitos. O tamanho do lote, o modelo ou as opções
+não podem ser alterados no checkpoint já iniciado; use uma pasta nova se quiser
+repreparar.
+
+Teste primeiro poucas chamadas com o modelo local instalado:
+
+```bash
+python3 batch_tools/tea_foda.py run \
+  --out analysis/foda-lote-3141-v3 \
+  --model qwen3.6-35b-cpu:latest --limit 2
+
+python3 batch_tools/tea_foda.py status \
+  --out analysis/foda-lote-3141-v3
+```
+
+Se a saída e o desempenho estiverem adequados, processe os lotes restantes:
+
+```bash
+python3 batch_tools/tea_foda.py run \
+  --out analysis/foda-lote-3141-v3 \
+  --model qwen3.6-35b-cpu:latest --retry-errors
+
+python3 batch_tools/tea_foda.py structure-prepare \
+  --out analysis/foda-lote-3141-v3 --batch-size 50
+
+python3 batch_tools/tea_foda.py structure-run \
+  --out analysis/foda-lote-3141-v3 \
+  --model qwen3.6-35b-cpu:latest --limit 2
+
+python3 batch_tools/tea_foda.py structure-status \
+  --out analysis/foda-lote-3141-v3
+
+python3 batch_tools/tea_foda.py structure-run \
+  --out analysis/foda-lote-3141-v3 \
+  --model qwen3.6-35b-cpu:latest --retry-errors
+
+python3 batch_tools/tea_foda.py export \
+  --out analysis/foda-lote-3141-v3
+```
+
+O primeiro estágio normaliza/categoriza nomes; o segundo compara globalmente
+conceitos candidatos a partir de sobreposição lexical e propõe fusões de
+sinônimos e relações pai-filho. Cada fusão/parentesco fica marcado para revisão.
+O candidato lexical pode deixar passar sinônimos sem palavras em comum; o LLM
+não é prova de equivalência. Ciclos hierárquicos propostos são removidos e
+relatados. Não se inferem relações requires/excludes/alternative a partir de
+coocorrência. Ambos os estágios são sequenciais e retomáveis. `--retry-errors`
+autoriza novas tentativas para lotes que falharam; sucessos não são repetidos.
+Use `--num-predict` para aumentar o limite de saída quando necessário. Se um
+lote exceder o contexto ou truncar a resposta, prepare uma pasta nova com
+`--batch-size` menor. A versão do modelo, os parâmetros e os resultados de cada
+estágio são congelados no checkpoint.
+
+Saídas:
+
+- `foda-model.json`: categorias, funcionalidades, frequências e proveniência.
+- `structure-proposals.json`: consolidação global, hierarquia candidata e ciclos rejeitados.
+- `normalized-features.csv`: cada nome de origem e seu mapeamento proposto.
+- `app-feature-matrix.csv`: relação longa app × funcionalidade canônica.
+- `review-queue.csv`: mapeamentos ambíguos e ainda não processados.
+- `desmet-reference-template.csv`: amostra estratificada e ficha para dois revisores.
+- `desmet-report.json`: métricas calculadas contra referência adjudicada.
+- `foda-checkpoint.sqlite3`: progresso, respostas e tentativas para retomada.
+- `run-manifest.json`: hashes da entrada, modelo, prompt e opções.
+
+Para avaliar o processo com DESMET, crie uma amostra depois de completar ambos
+os estágios e exportar:
+
+```bash
+python3 batch_tools/tea_foda.py sample \
+  --out analysis/foda-lote-3141-v3 --sample-size 100 --seed 42
+```
+
+Dois revisores independentes preenchem `reviewer1_features_json` e
+`reviewer2_features_json` como arrays JSON de funcionalidades explícitas por app,
+identificam-se nas colunas correspondentes e adjudicam a lista em
+`adjudicated_features_json`; então marcam `adjudicated_complete=true` e registram
+o adjudicador. Array vazio `[]` significa que não há funcionalidade explícita.
+Não revelem a saída do LLM antes da anotação. Para pontuar sinônimos, os revisores
+devem adjudicar rótulos canônicos equivalentes. O evaluator rejeita amostras
+incompletas, IDs fora do corpus e revisores repetidos.
+
+```bash
+python3 batch_tools/tea_foda.py evaluate \
+  --out analysis/foda-lote-3141-v3 \
+  --reference analysis/foda-lote-3141-v3/desmet-reference-template.csv
+```
+
+O relatório calcula precisão, revocação, F1 micro ponderados pela amostragem,
+médias macro por app, correspondência exata de conjuntos, concordância entre
+revisores e resultados por estrato. Isso avalia correspondência com a referência
+humana e com as descrições, não valida comportamento em runtime nem torna o
+domínio semanticamente completo.
+
+O modelo hierárquico, as fusões e as categorias são propostas do LLM. Frequências são
+calculadas apenas entre apps tecnicamente completos, com candidatos de apps
+incompletos mantidos à parte. A normalização não valida semanticamente a extração
+original. Frequência não implica funcionalidade obrigatória;
+as fusões e relações propostas precisam de adjudicação; o analisador não infere
+exclusões ou dependências. Os resultados continuam sendo
+funcionalidades anunciadas nas descrições, não validação do comportamento dos
+apps. Revise `review-queue.csv` e `structure-proposals.json` antes de publicar
+conclusões. Esta execução não foi feita com um modelo real neste ambiente.
+
 ## O que foi testado e o que ainda depende do servidor
 
 Foram testados classificação seguida de extração, bloqueio da extração para

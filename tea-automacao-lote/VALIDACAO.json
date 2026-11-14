@@ -1,11 +1,13 @@
 {
-  "new_automated_tests_passed": 42,
+  "new_automated_tests_passed": 51,
   "syntax_check_passed": true,
   "installer_checks_passed": [
     "clean_install_and_reapply",
     "recognized_v2_upgrade_and_reapply",
     "monorepo_project_path",
-    "modified_file_protection"
+    "modified_file_protection",
+    "intact_base_additive_foda_update",
+    "foda_desmet_and_structure_modules"
   ],
   "actual_corpus_preparation": {
     "real_apps": 3141,
@@ -13,6 +15,15 @@
     "apps_filtered_before_classification": 0,
     "potential_extraction_parts_if_all_relevant": 5122,
     "generation_requests": 0
+  },
+  "foda_analyzer": {
+    "input_apps": 3141,
+    "input_feature_rows": 40022,
+    "unique_source_features": 33695,
+    "batches_at_size_60": 562,
+    "model_calls": 0,
+    "real_model_inference_performed": false,
+    "semantic_accuracy_measured": false
   },
   "classification_protocol": {
     "labels": ["relevant", "not_relevant", "uncertain"],

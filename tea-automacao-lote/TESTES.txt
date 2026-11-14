@@ -1,12 +1,16 @@
-Validação v3:
+Validação v3 + analisador FODA:
 
 python -m unittest discover -s tea-automacao-lote/codigo/batch_tools -p 'test_*.py' -v
-Ran 42 tests in 2.178s
+Ran 51 tests
 OK
 
 python -m py_compile tea-automacao-lote/codigo/batch_tools/batch_core.py \
   tea-automacao-lote/codigo/batch_tools/tea_batch.py \
+  tea-automacao-lote/codigo/batch_tools/tea_foda.py \
+  tea-automacao-lote/codigo/batch_tools/foda_evaluation.py \
+  tea-automacao-lote/codigo/batch_tools/foda_structure.py \
   tea-automacao-lote/codigo/batch_tools/test_batch.py \
+  tea-automacao-lote/codigo/batch_tools/test_foda.py \
   tea-automacao-lote/aplicar.py
 OK
 
@@ -17,4 +21,13 @@ Preparação da coleta real, sem inferência:
 - 5.122 partes potenciais de extração se todos forem relevantes
 - 0 chamadas ao modelo
 
+Preparação FODA com o lote v3 real, sem inferência:
+- 3.141 apps correlacionados entre corpus.jsonl e extractions.jsonl
+- 40.022 linhas de funcionalidades
+- 33.695 nomes de origem após normalização exata
+- 562 lotes planejados de até 60 conceitos
+- 0 chamadas ao modelo
+
+Testes do analisador FODA usam cliente simulado para validação de estrutura,
+retomada, exportação e rejeição de respostas incompletas/inválidas.
 Inferência com modelo real/acurácia semântica: não realizada.

@@ -6,11 +6,15 @@ só substitui arquivos v2 cujos hashes correspondam exatamente à versão conhec
 não altera os resultados nem o checkpoint v2.
 
 Leia COMANDOS.md, que contém aplicação, teste, preparação dos 3.141, teste com
-três apps, classificação LLM, extração, execução completa e retomada. O mesmo guia
-será instalado em docs/AUTOMACAO-3141.md no repositório.
+três apps, classificação LLM, extração, execução completa e retomada, além do
+analisador FODA retomável. O código do analisador está em
+`codigo/batch_tools/tea_foda.py` e consome o lote v3 existente.
 
 Inclui patch, cópia integral dos arquivos adicionados em codigo/, aplicador com
-verificação de integridade e VALIDACAO.json.
+verificação de integridade e VALIDACAO.json. O instalador reconhece a versão
+anterior e só acrescenta os arquivos do analisador quando os arquivos-base
+existentes continuam íntegros. O analisador inclui os módulos de avaliação
+DESMET e estrutura global de conceitos, mais os testes.
 
 O plano da coleta atual prevê 3.141 classificações e até 5.122 partes de extração
 caso todos os apps sejam relevantes. A classificação por Ollama usa título e
