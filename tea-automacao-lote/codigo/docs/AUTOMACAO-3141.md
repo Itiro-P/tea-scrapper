@@ -247,8 +247,10 @@ coocorrência. Ambos os estágios são sequenciais e retomáveis. `--retry-error
 autoriza novas tentativas para lotes que falharam; sucessos não são repetidos.
 Use `--num-predict` para aumentar o limite de saída quando necessário. Se um
 lote exceder o contexto ou truncar a resposta, prepare uma pasta nova com
-`--batch-size` menor. A versão do modelo, os parâmetros e os resultados de cada
-estágio são congelados no checkpoint.
+`--batch-size` menor. No estágio FODA, a requisição desativa o modo de
+raciocínio (`think=false`) para reservar a geração à resposta JSON; isso depende
+de suporte da versão do Ollama e do modelo. A versão do modelo, os parâmetros e
+os resultados de cada estágio são congelados no checkpoint.
 
 Saídas:
 

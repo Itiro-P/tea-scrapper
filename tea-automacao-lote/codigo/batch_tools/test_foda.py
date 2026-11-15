@@ -136,10 +136,12 @@ class FodaPipeline(unittest.TestCase):
         partial = foda.run(self.out, "fixture:1", limit=1, client=self.client)
         self.assertEqual(partial["batches_done"], 1)
         self.assertEqual(len(self.client.calls), 1)
+        self.assertFalse(self.client.calls[0]["think"])
 
         finished = foda.run(self.out, "fixture:1", client=self.client)
         self.assertEqual(finished["batches_done"], 2)
         self.assertEqual(len(self.client.calls), 2)
+        self.assertTrue(all(not call["think"] for call in self.client.calls))
         result = foda.export(self.out)
         self.assertTrue(result["model_complete"])
         self.assertEqual(result["feature_rows"], 3)

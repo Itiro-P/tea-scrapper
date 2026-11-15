@@ -405,6 +405,7 @@ def _execute_batch(batch: sqlite3.Row, db: sqlite3.Connection, identity: dict, c
             {"role": "user", "content": user},
         ],
         "format": "json",
+        "think": False,
         "keep_alive": "10m",
         "options": {"temperature": 0, "seed": 42, "num_ctx": NUM_CTX, "num_predict": num_predict},
     }
@@ -419,7 +420,8 @@ def _execute_batch(batch: sqlite3.Row, db: sqlite3.Connection, identity: dict, c
             def progress(event: dict) -> None:
                 print(
                     f"FODA lote {batch['batch_id']}: aguardando "
-                    f"{event['elapsed_seconds']:.0f}s, {event['content_chars']} caracteres",
+                    f"{event['elapsed_seconds']:.0f}s, resposta {event['content_chars']} caracteres, "
+                    f"raciocínio {event['thinking_chars']} caracteres",
                     file=sys.stderr,
                     flush=True,
                 )
@@ -466,7 +468,7 @@ def _freeze_run(db: sqlite3.Connection, identity: dict, endpoint: str, num_predi
         "model": identity,
         "endpoint": endpoint,
         "options": {"num_ctx": NUM_CTX, "num_predict": num_predict, "seed": 42, "temperature": 0,
-                    "batch_size": manifest.get("batch_size")},
+                    "think": False, "batch_size": manifest.get("batch_size")},
         "system_prompt": SYSTEM_PROMPT,
         "categories": CATEGORIES,
     }
