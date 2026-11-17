@@ -22,7 +22,7 @@ from ollama_transport import OllamaDeadlineError, OllamaRequestError
 
 VERSION = "foda-llm-v1"
 BATCH_SIZE = 60
-NUM_CTX = 8192
+NUM_CTX = 16384
 NUM_PREDICT = 3072
 CATEGORIES = (
     "Comunicação e linguagem",
