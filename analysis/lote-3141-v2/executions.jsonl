@@ -1,2 +1,0 @@
-{"app_ids":[],"at":"2026-11-09T22:17:43.497920+00:00","event":"start","export_every":25,"limit":null,"max_attempts":2,"model":"qwen3.6-35b-cpu:latest","model_digest":"6c86c9e9a3c36b8191d5cf0bd21a7418427c75ba0aae6fb4955d721bf962199d","retry_errors":false,"stop_after_errors":3,"timeout":720,"workers":1}
-{"apps_technically_complete":620,"at":"2026-11-10T18:58:30.630062+00:00","errors_this_run":98,"event":"stop","finished_parts_this_run":1303,"scheduled_parts":1303,"stop_reason":null}
