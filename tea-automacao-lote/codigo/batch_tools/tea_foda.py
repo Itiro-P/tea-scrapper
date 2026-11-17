@@ -616,9 +616,14 @@ def export(out: Path) -> dict:
                 global_feature = global_by_source.get(source["feature_id"])
                 mapped_name = global_feature["name"] if global_feature else source["canonical_name"]
                 category = global_feature["category"] if global_feature else source["category"]
-                feature_id = global_feature["id"] if global_feature else (
-                    "c_" + sha256_bytes((category + "|" + normalized_name(mapped_name)).encode("utf-8"))
-                )
+                if global_feature:
+                    feature_id = global_feature["id"]
+                elif mapped_name and category:
+                    feature_id = "c_" + sha256_bytes(
+                        (category + "|" + normalized_name(mapped_name)).encode("utf-8")
+                    )
+                else:
+                    feature_id = ""
                 mapped_rows.append({
                     "appId": row["app_id"],
                     "title": apps[row["app_id"]]["title"],

@@ -153,6 +153,17 @@ class FodaPipeline(unittest.TestCase):
         self.assertTrue(all(edge["type"] == "category_contains" for edge in model["relationships"]))
         self.assertIn("variability candidate", model["feature_model"][3]["features"][0]["selection"])
 
+    def test_export_handles_pending_mappings(self):
+        foda.prepare(self.input_dir, self.out, batch_size=1)
+        foda.run(self.out, "fixture:1", limit=1, client=self.client)
+
+        result = foda.export(self.out)
+
+        self.assertFalse(result["model_complete"])
+        with (self.out / "review-queue.csv").open(encoding="utf-8-sig", newline="") as stream:
+            review_rows = list(csv.DictReader(stream))
+        self.assertTrue(any(row["mapping_status"] == "pending" for row in review_rows))
+
     def test_stratified_desmet_sample_and_reference_evaluation(self):
         foda.prepare(self.input_dir, self.out, batch_size=1)
         foda.run(self.out, "fixture:1", client=self.client)
