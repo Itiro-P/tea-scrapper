@@ -330,6 +330,7 @@ def run_structure(out: Path, model: str, base_url: str = "http://127.0.0.1:11434
                                 {"role": "user", "content": user},
                             ],
                             "format": "json",
+                            "think": False,
                             "keep_alive": "10m",
                             "options": {"temperature": 0, "seed": 42, "num_ctx": NUM_CTX, "num_predict": num_predict},
                         }

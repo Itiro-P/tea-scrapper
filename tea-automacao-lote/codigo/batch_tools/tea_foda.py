@@ -857,11 +857,13 @@ def main(argv: list[str] | None = None) -> int:
     p = sub.add_parser("export", help="Gerar modelo FODA, matriz app-feature e fila de revisão.")
     p.add_argument("--out", type=Path, required=True)
     p = sub.add_parser("sample", help="Criar amostra estratificada e template de anotação para DESMET.")
+    p.add_argument("--scope", choices=("complete", "all"), default="complete")
     p.add_argument("--out", type=Path, required=True)
     p.add_argument("--sample-size", type=int, required=True)
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--output", type=Path)
     p = sub.add_parser("evaluate", help="Calcular métricas DESMET contra referência humana adjudicada.")
+    p.add_argument("--scope", choices=("complete", "all"), default="complete")
     p.add_argument("--out", type=Path, required=True)
     p.add_argument("--reference", type=Path, required=True)
     p.add_argument("--report", type=Path)
@@ -888,9 +890,9 @@ def main(argv: list[str] | None = None) -> int:
             result = run(args.out, args.model, args.base_url, args.timeout, args.num_predict,
                          args.limit, args.retry_errors)
         elif args.command == "sample":
-            result = create_sample(args.out, args.sample_size, args.seed, args.output)
+            result = create_sample(args.out, args.sample_size, args.seed, args.output, args.scope)
         elif args.command == "evaluate":
-            result = evaluate(args.out, args.reference, args.report)
+            result = evaluate(args.out, args.reference, args.report, args.scope)
         elif args.command == "structure-prepare":
             result = prepare_structure(args.out, args.batch_size)
         elif args.command == "structure-run":
