@@ -213,6 +213,30 @@ class FodaPipeline(unittest.TestCase):
         self.assertTrue(all(edge["needs_review"] for edge in model["relationships"]
                             if edge["type"] == "proposed_parent_of"))
 
+    def test_global_structure_ignores_failed_normalization_batches(self):
+        foda.prepare(self.input_dir, self.out, batch_size=1)
+        foda.run(self.out, "fixture:1", limit=1, client=self.client)
+        db = foda.connect(self.out)
+        try:
+            db.execute("UPDATE batches SET state='error' WHERE state='pending'")
+            db.commit()
+        finally:
+            db.close()
+
+        prepared = foda.prepare_structure(self.out, batch_size=1)
+
+        self.assertEqual(prepared["concepts"], 1)
+        self.assertEqual(prepared["batches_pending"], 1)
+        structure = foda.run_structure(self.out, "fixture:1", client=self.client)
+        self.assertEqual(structure["batches_done"], 1)
+
+        exported = foda.export(self.out)
+        self.assertFalse(exported["model_complete"])
+        with (self.out / "foda-model.json").open(encoding="utf-8") as stream:
+            model = json.load(stream)
+        self.assertTrue(model["structure_complete"])
+        self.assertEqual(model["statistics"]["canonical_features"], 1)
+
     def test_global_structure_rejects_ids_outside_candidate_list(self):
         target = {
             "id": "child",

@@ -147,9 +147,11 @@ def prepare_structure(out: Path, batch_size: int = 50) -> dict:
         db.row_factory = sqlite3.Row
         try:
             _ensure_tables(db)
-            pending = db.execute("SELECT COUNT(*) FROM batches WHERE state!='complete'").fetchone()[0]
+            pending = db.execute(
+                "SELECT COUNT(*) FROM batches WHERE state IN ('pending','running')"
+            ).fetchone()[0]
             if pending:
-                raise ValueError(f"Conclua os {pending} lotes de normalização antes da estrutura.")
+                raise ValueError(f"Conclua os {pending} lotes pendentes de normalização antes da estrutura.")
             concepts = _source_concepts(db)
             if not concepts:
                 raise ValueError("Nenhum conceito canônico disponível; rode a normalização e exporte.")

@@ -243,7 +243,11 @@ sinônimos e relações pai-filho. Cada fusão/parentesco fica marcado para revi
 O candidato lexical pode deixar passar sinônimos sem palavras em comum; o LLM
 não é prova de equivalência. Ciclos hierárquicos propostos são removidos e
 relatados. Não se inferem relações requires/excludes/alternative a partir de
-coocorrência. Ambos os estágios são sequenciais e retomáveis. `--retry-errors`
+coocorrência. Ambos os estágios são sequenciais e retomáveis. A estrutura exige
+que não haja lotes de normalização pendentes ou em execução; lotes já em erro
+são ignorados, pois não têm mapeamento canônico para propor. Eles não entram nas
+propostas de estrutura, e o modelo exportado continua marcado como incompleto.
+`--retry-errors`
 autoriza novas tentativas para lotes que falharam; sucessos não são repetidos.
 Use `--num-predict` para aumentar o limite de saída quando necessário. Se um
 lote exceder o contexto ou truncar a resposta, prepare uma pasta nova com
