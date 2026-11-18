@@ -330,6 +330,32 @@ def resolve(content, parts, description):
                        'literal_verified':True,'semantic_review':'pending'})
     return result
 
+_FOLD_CHARS={'“':'"','”':'"','„':'"','‘':"'",'’':"'",'–':'-','—':'-','…':'...'}
+
+
+def _fold(text):
+    """Normalized view of text (spacing, quote style, case) plus each char's index in the original."""
+    chars=[];index=[];gap=False
+    for i,ch in enumerate(text):
+        if ch.isspace():
+            gap=bool(chars);continue
+        if gap:
+            chars.append(' ');index.append(i);gap=False
+        for c in _FOLD_CHARS.get(ch,ch).casefold():
+            chars.append(c);index.append(i)
+    return ''.join(chars),index
+
+
+def locate_evidence(evidence, description):
+    """Find the evidence in the description, ignoring spacing/quote/case differences.
+    Returns (start,end) in the ORIGINAL text, or None."""
+    trimmed=re.sub(r'^\s*(\.{3}|…)\s*|\s*(\.{3}|…)\s*$','',evidence)
+    needle,_=_fold(trimmed)
+    if len(needle)<10:return None
+    haystack,index=_fold(description)
+    pos=haystack.find(needle)
+    if pos<0:return None
+    return index[pos],index[pos+len(needle)-1]+1
 
 def resolve_classification(content, description):
     payload=json.loads(content)
@@ -342,11 +368,16 @@ def resolve_classification(content, description):
         raise ValueError('Justificativa vazia ou maior que 500 caracteres.')
     if not isinstance(evidence,str) or len(evidence)>500:
         raise ValueError('Evidência inválida ou maior que 500 caracteres.')
-    if decision!='uncertain' and (not evidence.strip() or evidence not in description):
-        raise ValueError('Evidência de classificação ausente ou não literal.')
-    start=description.find(evidence) if evidence else -1
+    start=-1;end=None
+    if evidence.strip():
+        span=locate_evidence(evidence,description)
+        if span:
+            start,end=span
+            evidence=description[start:end]   # always the real original text
+    if decision!='uncertain' and start<0:
+        raise ValueError('Evidência de classificação ausente ou não encontrada na descrição.')
     return {'decision':decision,'reason':reason.strip(),'evidence':evidence,
-            'evidence_start':start,'evidence_end':start+len(evidence) if start>=0 else None}
+            'evidence_start':start,'evidence_end':end}
 
 
 class Client:
