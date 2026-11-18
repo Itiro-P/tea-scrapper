@@ -1,0 +1,1405 @@
+{
+  "version": "foda-llm-v1",
+  "input_fingerprint": "075b896023e6fa570d66059c865160fd0f0bf1dae49973846672560383703d54",
+  "run_fingerprint": "cf605d44f7abe437f6d357e90024f4e9ae327ac012fc318517eb9db77f2cd290",
+  "complete": false,
+  "structure_complete": false,
+  "semantically_validated": false,
+  "domain_model_status": "structure analysis incomplete",
+  "statistics": {
+    "apps_in_corpus": 3141,
+    "technically_complete_apps": 595,
+    "feature_rows": 2200,
+    "unique_source_features": 2155,
+    "canonical_features": 39,
+    "batches_total": 216,
+    "batches_complete": 4,
+    "source_features_needing_review": 3,
+    "global_concepts_proposed": 0,
+    "parent_relationships_proposed": 0,
+    "structure_cycles_rejected": 0,
+    "method_note": "Frequências descrevem funcionalidades anunciadas nas descrições. Prevalência é calculada entre apps tecnicamente completos; não prova que o recurso exista no produto. A normalização não valida semanticamente a extração de origem. Nenhuma relação obrigatória, exclusão ou dependência foi inferida."
+  },
+  "feature_model": [
+    {
+      "name": "Comunicação e linguagem",
+      "features": [
+        {
+          "id": "c_3920651577a24a79dc94dfacb31d9809ed967222f311fdb0d285fea3bce50a19",
+          "name": "Acessar exercícios de fala e vocabulário",
+          "parent_id": "cat_7ff873b31e50bfd1",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDL": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar flashcards, jogos de palavras, exercícios de fala e prática de pronúncia para reforço"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.myloph.learningapp",
+              "evidence": "• Flashcards, jogos de palavras, exercícios de fala e prática de pronúncia para reforçar cada palavra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aprendizagem e conteúdo educacional",
+      "features": [
+        {
+          "id": "c_fb78db36968bfa343eeaad3dad7f2cfaa74ce72fc09a24d5e2642aec5af86744",
+          "name": "Acessar atividades estruturadas",
+          "parent_id": "cat_4ff92d3b556db252",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar atividades de aprendizado estruturadas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.apt.autism.kids.skills.learning",
+              "evidence": "O aplicativo Autism Life Skills for Kids é um aplicativo educativo desenvolvido para apoiar crianças com autismo e outras necessidades de aprendizagem por meio de atividades simples, envolventes e estruturadas."
+            }
+          ]
+        },
+        {
+          "id": "c_3b05d77e29f7d27e055292ae56f82c6ace8a7ede8eb0fb043b519a891f2cc4ab",
+          "name": "Acessar ferramentas de apoio à aprendizagem",
+          "parent_id": "cat_4ff92d3b556db252",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "DISCALCULIA": 1,
+            "DISGRAFIA": 1,
+            "TDC": 1
+          },
+          "source_names": [
+            "Acessar ferramentas digitais para dislexia e dificuldades de aprendizagem"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "fr.cantoo.scribe",
+              "evidence": "A escola digital inclusiva: ferramentas DYS para o sucesso de todos os alunos."
+            }
+          ]
+        },
+        {
+          "id": "c_b680604b188f5f9d28177be480640f6e331cbf1f26098822da4cd3012e892917",
+          "name": "Acessar sistema fonético",
+          "parent_id": "cat_4ff92d3b556db252",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "DISLEXIA": 1
+          },
+          "source_names": [
+            "Acessar sistema fonético para dificuldades de aprendizagem"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.wordsmart.wordsmart",
+              "evidence": "- Sistema Fonético para ajudar crianças com dificuldades de aprendizagem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Atenção, memória e habilidades cognitivas",
+      "features": [
+        {
+          "id": "c_a175a253129a8085c847c81f51575c3b66cf0888a85ae5064a004c281c05461d",
+          "name": "Acessar guia sobre hiperfoco",
+          "parent_id": "cat_7e6489c1f1e18d87",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar guia sobre hiperfoco"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "24 textos curtos e próximos sobre disfunção executiva, cegueira temporal, sensibilidade à rejeição, hiperfoco, dinheiro e PHDA, e mais."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Organização, rotinas e planejamento",
+      "features": [
+        {
+          "id": "c_6b294ec5443b370eaff3f51d6eabce3ee87fcc830e82b47075c8af49d24ccce6",
+          "name": "Acessar biblioteca de estratégias",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar biblioteca de estratégias"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "click.adhdsupport.focus",
+              "evidence": "O Premium desbloqueia rotinas ilimitadas, etapas de tarefas, duração de cada bloco de foco, a biblioteca completa de estratégias e suas tendências de longo prazo."
+            }
+          ]
+        },
+        {
+          "id": "c_c00716131d65aa4d36a61d75d732471e37a327f917390098d1eb5b8a5e66d2e9",
+          "name": "Acessar biblioteca de recursos",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar biblioteca pré-definida de recursos"
+          ],
+          "needs_review": true,
+          "examples": [
+            {
+              "appId": "com.mts.visualscheduleandstorymaker",
+              "evidence": "• built-in biblioteca bonita de programações visuais e histórias sociais"
+            }
+          ]
+        },
+        {
+          "id": "c_dece395c0c14fa5fb905dceb57befbf593ac8432ecfb624700815b60cae3c20b",
+          "name": "Acessar guia sobre cegueira temporal",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar guia sobre cegueira temporal"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "24 textos curtos e próximos sobre disfunção executiva, cegueira temporal, sensibilidade à rejeição, hiperfoco, dinheiro e PHDA, e mais."
+            }
+          ]
+        },
+        {
+          "id": "c_bfdc3b6f10a9cd7af79f3db2809b41921035e479373c5c76022ff8b886f856cf",
+          "name": "Acessar guia sobre disfunção executiva",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar guia sobre disfunção executiva"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "24 textos curtos e próximos sobre disfunção executiva, cegueira temporal, sensibilidade à rejeição, hiperfoco, dinheiro e PHDA, e mais."
+            }
+          ]
+        },
+        {
+          "id": "c_df295b22078051ff41b4886d56379e1cb5281d471b3c775f28bf19a29c1e5277",
+          "name": "Acessar guia sobre gestão financeira",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar guia sobre gestão financeira no PHDA"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "24 textos curtos e próximos sobre disfunção executiva, cegueira temporal, sensibilidade à rejeição, hiperfoco, dinheiro e PHDA, e mais."
+            }
+          ]
+        },
+        {
+          "id": "c_d1b3a8023023a509c5cd8a6ccda95759878882717aa75597b1a72f1961795cb4",
+          "name": "Acessar plano do dia",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar plano do dia"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "Até 50 despejos mentais por dia (limite de utilização razoável), o plano do dia, as rotinas, filtros de energia, histórico completo de sequências, sensibilidade dos lembretes e o guia PHDA completo."
+            }
+          ]
+        },
+        {
+          "id": "c_bcfda80912b4fb0dbd545e876d46e745bca5cf98ab138d68731aad498729fdee",
+          "name": "Acessar playbooks TDAH",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar playbooks para TDAH"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.savemytime",
+              "evidence": "🧠 Playbooks e Modelos para TDAH (ADHD): Tenha acesso a playbooks integrados e sugestões curadas de hábitos, perfeitamente desenhados para reduzir a carga mental, ajudar no foco e facilitar a construção de rotinas."
+            }
+          ]
+        },
+        {
+          "id": "c_4af67f4e59f01d0400b6a1794860c074aab58b4fd09a9d47e1d3341a1664eb64",
+          "name": "Acessar roteiros de situações",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDC": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar roteiros para situações comuns"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.novaautism.app",
+              "evidence": "Roteiros para situações comuns, tanto para crianças quanto para pessoas que não falam ou que se comunicam minimamente."
+            }
+          ]
+        },
+        {
+          "id": "c_7a88f497f1f4f6851692d2a740b51a84d35890cbd4d11979b03d599ae7835240",
+          "name": "Acessar rotinas estruturadas",
+          "parent_id": "cat_2f4e87becf66c278",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar rotinas estruturadas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.kainsuite.android.capyplanner",
+              "evidence": "- Suporte para TDAH e Saúde Mental: O Capy Care oferece lembretes, rotinas estruturadas e atividades calmantes de autocuidado desenvolvidas especificamente para auxiliar usuários de TDAH, aliviar o estresse e promover práticas que se asseme"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Regulação emocional e sensorial",
+      "features": [
+        {
+          "id": "c_a51801a8bec5ccd895c73aed4d558b7c2f7e4359333b8863fb4a30b180a160ed",
+          "name": "Acessar afirmações",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar afirmações com foco no TDAH"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.mcsEdition.afflo",
+              "evidence": "Explore afirmações sobre autoconfiança, autocompaixão, atenção plena, emoções e o dia a dia com uma mentalidade voltada para o TDAH."
+            }
+          ]
+        },
+        {
+          "id": "c_8f7734b742ac91583ab4708766899e3d61d682bdc70468461a8a31c63c72d18b",
+          "name": "Acessar atividades sensoriais",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar atividades sensoriais com cronômetro"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.audhd.app",
+              "evidence": "Jogos sensoriais com cronômetros."
+            }
+          ]
+        },
+        {
+          "id": "c_6d1cb00d8f08cfdcc241c2d27985936924560c96c5778b0c7de9d8e36995fa95",
+          "name": "Acessar auxiliares de tranquilidade",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar auxiliares de tranquilidade"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.sailorlux.tinyspritekit",
+              "evidence": "• 60 Cartões de Apoio para Síndrome de Burnout em Autismo e 72 pequenos auxiliares do Pote de Escolha de Auxiliares, juntos em 6 categorias de tranquilidade: cuidados básicos, baixa energia, meu espaço, recuperação, comunicação e calma."
+            }
+          ]
+        },
+        {
+          "id": "c_26b94ea3face89e7fdfc3a194c80bd192baed5dbc23bcb7ed09cb0c94ad5d9cd",
+          "name": "Acessar ferramentas de regulação emocional",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar ferramentas para regulação emocional e ambiente"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "www.rithimapp.com",
+              "evidence": "- Um conjunto completo de ferramentas para TDAH com estratégias para design de ambiente, regulação emocional, corpo e movimento, e conversas clínicas"
+            }
+          ]
+        },
+        {
+          "id": "c_20a69af6f20d3bf315543ced9eea7590b539ad2cd17b1ff69c56ad163f3720f1",
+          "name": "Acessar ferramentas sensoriais calmantes",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDC": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar ferramentas sensoriais calmantes"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.novaautism.app",
+              "evidence": "Animações calmantes, um pote sensorial gravitacional, cronômetros visuais, ideias para espaços tranquilos e ajustes de ambiente — para perfis sensoriais com busca, evitação e mistos."
+            }
+          ]
+        },
+        {
+          "id": "c_7fa858844816e827c44f07260cce6179f48341c7826cce65824a0b9b1deb961a",
+          "name": "Acessar funções em crises",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDL": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar rapidamente funções em crises"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.amh.sotto",
+              "evidence": "• Bloco de Configurações Rápidas do Parceiro Sotto: Inicialização direta em menos de 3 segundos para crises, diretamente da área de notificações do Android"
+            }
+          ]
+        },
+        {
+          "id": "c_e763dff0a60100a890909ea0f57d33dd7fce03573943daf8dd496bc8157f955b",
+          "name": "Acessar guia sobre sensibilidade à rejeição",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar guia sobre sensibilidade à rejeição"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.fruhji.unstuck",
+              "evidence": "24 textos curtos e próximos sobre disfunção executiva, cegueira temporal, sensibilidade à rejeição, hiperfoco, dinheiro e PHDA, e mais."
+            }
+          ]
+        },
+        {
+          "id": "c_1b563f48db769240ae1e879b8abf6eb6e435a6b1d465b7e3b5a94e1eb797170e",
+          "name": "Acessar plano de crise",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar plano de crise e cartão de emergência offline"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.autism.pro",
+              "evidence": "- Plano de crise + cartão de emergência: configure uma vez, use quando precisar (offline)"
+            }
+          ]
+        },
+        {
+          "id": "c_2b42949475ddb9e85c9db01b03c0e2346cf604ad83b88603486876adde4fad54",
+          "name": "Acessar sons calmantes",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar ruído branco e paisagens sonoras cósmicas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.timtomstudio.adhdoit",
+              "evidence": "• Ruído branco e paisagens sonoras cósmicas"
+            }
+          ]
+        },
+        {
+          "id": "c_9808b428a1ad51c36baab1b58c15836bb1f3864b45e9546df48519a4049b921f",
+          "name": "Acessar sons calmantes e grounding",
+          "parent_id": "cat_b9a1daa5ed4cd07d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar sons calmantes e grounding"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.dfjtecnologia.menteequilibrada",
+              "evidence": "• Kit de Regulação Sensorial: sons calmantes (ruído branco, marrom, tom 432Hz, chuva, binaural) e grounding dos 5 sentidos para crises."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Comunicação aumentativa e acessibilidade",
+      "features": [
+        {
+          "id": "c_999074adcc1b0bd96049104128a91ffedb0270f6916d3c367ea49c854e7fa608",
+          "name": "Acessar grade de vocabulário AAC",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDL": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar grade de vocabulário simplificada"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.avazapp.international.lite",
+              "evidence": "- Explore uma grade de vocabulário maior e descomplicada, de 60 a 117 imagens por tela, para uma comunicação mais clara."
+            }
+          ]
+        },
+        {
+          "id": "c_a576c21a9009fe5ea228bfe9c1c27d8a775401b12f70970a114d11fd6ebe0eb4",
+          "name": "Acessar guias visuais",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar pictogramas e guias visuais"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "cl.autistapp.autistapp",
+              "evidence": "Pictogramas e Guias de Apoio: Auxílios visuais para facilitar a compreensão e a comunicação."
+            }
+          ]
+        },
+        {
+          "id": "c_dd59c28a265890612e2d8711cf2c5c22ce4769e7624378a56b6119f8ec2b0a0d",
+          "name": "Acessar pictogramas CAA",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "DISGRAFIA": 1,
+            "TDC": 1
+          },
+          "source_names": [
+            "Acessar pictogramas de CAA"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "be.evotonomia",
+              "evidence": "→ Pictogramas de CAA (Comunicação Aumentativa e Alternativa), código Fitzgerald, planejamento visual TEACCH, análise de tarefas, autonomia infantil, TEA (Transtorno do Espectro Autista), autismo, dislexia, educação especial, terapia ocupaci"
+            }
+          ]
+        },
+        {
+          "id": "c_3251ada31066ac43ba0deb596c9743c571d3ee2122bcdf5270328ca5a8e5ff77",
+          "name": "Acessar recursos de acessibilidade",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "DISLEXIA": 1
+          },
+          "source_names": [
+            "Acessar recursos de acessibilidade para dislexia e TDAH"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "vn.com.misa.soundify",
+              "evidence": "O Soundify ajuda usuários com dislexia, TDAH ou deficiência visual, transformando palavras escritas em palavras faladas."
+            }
+          ]
+        },
+        {
+          "id": "c_05c440e9aaa7d912d9ae3cd3f9b78ab59cf29c293a3d93ae2892851fdc96fb95",
+          "name": "Acessar sinais simplificados",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDC": 1
+          },
+          "source_names": [
+            "Acessar sinais simplificados"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.garage94.sign4me",
+              "evidence": "O aplicativo fornece uma revisão sistemática de sinais simplificados relacionados ao vocabulário básico, para crianças com autismo ou outro transtorno do neurodesenvolvimento."
+            }
+          ]
+        },
+        {
+          "id": "c_30524192bf17dce3364af9c11d4f5c06dec9254f98ccbecb86f275ff84b9dff7",
+          "name": "Gerar pictogramas por entrada",
+          "parent_id": "cat_f14c4fdb08721420",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar pictogramas por entrada de texto ou voz"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.pictogpt.app",
+              "evidence": "Basta digitar ou falar o que você precisa — e seu filho vê instantaneamente."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Avaliação, acompanhamento e progresso",
+      "features": [
+        {
+          "id": "c_01ae5319e53394f97fb83d209c8805fe023de28e8471c3e96369c341309130d2",
+          "name": "Acessar questionários de triagem",
+          "parent_id": "cat_428eedfc1e28fa73",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDC": 1
+          },
+          "source_names": [
+            "Acessar questionários de triagem para condições específicas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.base6a14ed9626dd0fe022fc30ae.app",
+              "evidence": "• Questionários de triagem — Ferramentas de triagem completas e baseadas em evidências para TDAH, autismo, dislexia, dispraxia e condições relacionadas."
+            }
+          ]
+        },
+        {
+          "id": "c_2aeabb6f270b8c4e86320eb78064adeeae11ae94bd32bc5e55a72d406ca76d78",
+          "name": "Acessar questionários validados",
+          "parent_id": "cat_428eedfc1e28fa73",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1,
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar questionários validados para condições neurodivergentes"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "org.spicyminds.sylva",
+              "evidence": "O Sylva inclui mais de 65 questionários de avaliação gratuitos e validados para autismo, TDAH, ansiedade, depressão e condições relacionadas - os mesmos testes validados usados ​​pelo NHS (Serviço Nacional de Saúde do Reino Unido)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Terapia, saúde e suporte profissional",
+      "features": [
+        {
+          "id": "c_27f2e85ec50e6e7f7fcdcd112fa691969d24231ca13c206ec49186dd9d3363f6",
+          "name": "Acessar aconselhamento",
+          "parent_id": "cat_3ee6ed314dfc333d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar aconselhamento de especialistas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.focusgenie",
+              "evidence": "- Aconselhamento de especialistas, incluindo TCC (Terapia Cognitiva Comportamental) para promover rotinas de longo prazo"
+            }
+          ]
+        },
+        {
+          "id": "c_479e9e21ee1da78a3c736d79084e54062aae9d43db17cf572429603161ffa3df",
+          "name": "Acessar apoio especializado",
+          "parent_id": "cat_3ee6ed314dfc333d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDL": 1
+          },
+          "source_names": [
+            "Acessar apoio para transtorno do espectro autista"
+          ],
+          "needs_review": true,
+          "examples": [
+            {
+              "appId": "com.alntq.tkhatb.app948520808448",
+              "evidence": "Apoio para necessidades especiais: Orientação personalizada para ajudar a melhorar as habilidades de comunicação de crianças com transtornos do espectro autista ou dificuldades de aprendizagem."
+            }
+          ]
+        },
+        {
+          "id": "c_998f3af69b75d88d8cf9265fdef6a9580b206156770d7baeaa633d588c6842f3",
+          "name": "Acessar relatórios de terapias",
+          "parent_id": "cat_3ee6ed314dfc333d",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TEA": 1
+          },
+          "source_names": [
+            "Acessar relatórios de terapias inseridos pelos profissionais"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.titatherapy.tita_flutter",
+              "evidence": "A família poderá visualizar as execuções das terapias através de imagens e vídeos que serão  armazenados pelos profissionais diretamente na plataforma, e ter acesso aos relatórios das terapias  que serão inseridos pelos mesmos ao final de c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Apoio a familiares e cuidadores",
+      "features": [
+        {
+          "id": "c_31ce1481fa00a2b9cc7fc473b03e853215a55d593a5e88c94519a229c68ae8a7",
+          "name": "Acessar treinamento parental",
+          "parent_id": "cat_ef890655c1a2a2e7",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDC": 1
+          },
+          "source_names": [
+            "Acessar programas de treinamento parental com estratégias práticas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.base6a14ed9626dd0fe022fc30ae.app",
+              "evidence": "• Programas de treinamento para pais — Acesse programas guiados, incluindo treinamento para pais de crianças com TDAH, TCC para pais e TCC para adolescentes, com estratégias práticas para casa e escola."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Recursos escolares e colaboração",
+      "features": []
+    },
+    {
+      "name": "Criação, personalização e registro de conteúdo",
+      "features": []
+    },
+    {
+      "name": "Jogos, simulações e entretenimento",
+      "features": [
+        {
+          "id": "c_921d844b593405c65b274f7c6d62dc3d73ac74f7cab731b49f973057c3f5841a",
+          "name": "Acessar recompensas aleatórias",
+          "parent_id": "cat_04277dfe80af07e0",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar recompensas aleatórias via roda da fortuna"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.ursx.neuros",
+              "evidence": "Gire a Roda da Fortuna para ganhar uma recompensa real."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Interação social e comunidade",
+      "features": [
+        {
+          "id": "c_7d77fd6d7285cbdf0413494499cea7c0b1e4910814cd02f4940bca682dd02667",
+          "name": "Acessar simulação de presença social",
+          "parent_id": "cat_4348cc5cce109342",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Acessar simulação de presença social para motivação"
+          ],
+          "needs_review": true,
+          "examples": [
+            {
+              "appId": "com.forgeai.novastack.adhd",
+              "evidence": "O body double aparece com calma durante a sessão, como alguém na mesa ao lado, sem encher."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Utilidades e funcionalidades gerais",
+      "features": [
+        {
+          "id": "c_94dbe57394bf28ba62dd2d29b9d5b9cdfa80d8f39ffe5df03504dc5acbf25dcd",
+          "name": "Abrir app vinculado",
+          "parent_id": "cat_5e8d76bdc55f692a",
+          "parent_relationship_proposed": false,
+          "selection": "variability candidate; not a mandatory/optional constraint",
+          "prevalence_band": "specialized",
+          "technically_complete_apps": 1,
+          "observed_apps_including_incomplete": 1,
+          "prevalence_among_technically_complete_apps": 0.001681,
+          "groups": {
+            "TDAH": 1
+          },
+          "source_names": [
+            "Abrir aplicativo vinculado com um toque",
+            "Abrir aplicativos a partir de tarefas"
+          ],
+          "needs_review": false,
+          "examples": [
+            {
+              "appId": "com.daylink.app",
+              "evidence": "Toque na tarefa, o aplicativo abre."
+            },
+            {
+              "appId": "com.daylink.app",
+              "evidence": "Abra aplicativos a partir de suas tarefas com um único toque."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outros / revisar",
+      "features": []
+    }
+  ],
+  "relationships": [
+    {
+      "type": "category_contains",
+      "parent_id": "cat_7ff873b31e50bfd1",
+      "parent_name": "Comunicação e linguagem",
+      "child_id": "c_3920651577a24a79dc94dfacb31d9809ed967222f311fdb0d285fea3bce50a19",
+      "child_name": "Acessar exercícios de fala e vocabulário",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_4ff92d3b556db252",
+      "parent_name": "Aprendizagem e conteúdo educacional",
+      "child_id": "c_fb78db36968bfa343eeaad3dad7f2cfaa74ce72fc09a24d5e2642aec5af86744",
+      "child_name": "Acessar atividades estruturadas",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_4ff92d3b556db252",
+      "parent_name": "Aprendizagem e conteúdo educacional",
+      "child_id": "c_b680604b188f5f9d28177be480640f6e331cbf1f26098822da4cd3012e892917",
+      "child_name": "Acessar sistema fonético",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_4ff92d3b556db252",
+      "parent_name": "Aprendizagem e conteúdo educacional",
+      "child_id": "c_3b05d77e29f7d27e055292ae56f82c6ace8a7ede8eb0fb043b519a891f2cc4ab",
+      "child_name": "Acessar ferramentas de apoio à aprendizagem",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_7e6489c1f1e18d87",
+      "parent_name": "Atenção, memória e habilidades cognitivas",
+      "child_id": "c_a175a253129a8085c847c81f51575c3b66cf0888a85ae5064a004c281c05461d",
+      "child_name": "Acessar guia sobre hiperfoco",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_6b294ec5443b370eaff3f51d6eabce3ee87fcc830e82b47075c8af49d24ccce6",
+      "child_name": "Acessar biblioteca de estratégias",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_bfdc3b6f10a9cd7af79f3db2809b41921035e479373c5c76022ff8b886f856cf",
+      "child_name": "Acessar guia sobre disfunção executiva",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_dece395c0c14fa5fb905dceb57befbf593ac8432ecfb624700815b60cae3c20b",
+      "child_name": "Acessar guia sobre cegueira temporal",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_df295b22078051ff41b4886d56379e1cb5281d471b3c775f28bf19a29c1e5277",
+      "child_name": "Acessar guia sobre gestão financeira",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_d1b3a8023023a509c5cd8a6ccda95759878882717aa75597b1a72f1961795cb4",
+      "child_name": "Acessar plano do dia",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_7a88f497f1f4f6851692d2a740b51a84d35890cbd4d11979b03d599ae7835240",
+      "child_name": "Acessar rotinas estruturadas",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_c00716131d65aa4d36a61d75d732471e37a327f917390098d1eb5b8a5e66d2e9",
+      "child_name": "Acessar biblioteca de recursos",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_4af67f4e59f01d0400b6a1794860c074aab58b4fd09a9d47e1d3341a1664eb64",
+      "child_name": "Acessar roteiros de situações",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_2f4e87becf66c278",
+      "parent_name": "Organização, rotinas e planejamento",
+      "child_id": "c_bcfda80912b4fb0dbd545e876d46e745bca5cf98ab138d68731aad498729fdee",
+      "child_name": "Acessar playbooks TDAH",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_7fa858844816e827c44f07260cce6179f48341c7826cce65824a0b9b1deb961a",
+      "child_name": "Acessar funções em crises",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_8f7734b742ac91583ab4708766899e3d61d682bdc70468461a8a31c63c72d18b",
+      "child_name": "Acessar atividades sensoriais",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_1b563f48db769240ae1e879b8abf6eb6e435a6b1d465b7e3b5a94e1eb797170e",
+      "child_name": "Acessar plano de crise",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_9808b428a1ad51c36baab1b58c15836bb1f3864b45e9546df48519a4049b921f",
+      "child_name": "Acessar sons calmantes e grounding",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_e763dff0a60100a890909ea0f57d33dd7fce03573943daf8dd496bc8157f955b",
+      "child_name": "Acessar guia sobre sensibilidade à rejeição",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_a51801a8bec5ccd895c73aed4d558b7c2f7e4359333b8863fb4a30b180a160ed",
+      "child_name": "Acessar afirmações",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_20a69af6f20d3bf315543ced9eea7590b539ad2cd17b1ff69c56ad163f3720f1",
+      "child_name": "Acessar ferramentas sensoriais calmantes",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_6d1cb00d8f08cfdcc241c2d27985936924560c96c5778b0c7de9d8e36995fa95",
+      "child_name": "Acessar auxiliares de tranquilidade",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_2b42949475ddb9e85c9db01b03c0e2346cf604ad83b88603486876adde4fad54",
+      "child_name": "Acessar sons calmantes",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_b9a1daa5ed4cd07d",
+      "parent_name": "Regulação emocional e sensorial",
+      "child_id": "c_26b94ea3face89e7fdfc3a194c80bd192baed5dbc23bcb7ed09cb0c94ad5d9cd",
+      "child_name": "Acessar ferramentas de regulação emocional",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_dd59c28a265890612e2d8711cf2c5c22ce4769e7624378a56b6119f8ec2b0a0d",
+      "child_name": "Acessar pictogramas CAA",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_a576c21a9009fe5ea228bfe9c1c27d8a775401b12f70970a114d11fd6ebe0eb4",
+      "child_name": "Acessar guias visuais",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_999074adcc1b0bd96049104128a91ffedb0270f6916d3c367ea49c854e7fa608",
+      "child_name": "Acessar grade de vocabulário AAC",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_05c440e9aaa7d912d9ae3cd3f9b78ab59cf29c293a3d93ae2892851fdc96fb95",
+      "child_name": "Acessar sinais simplificados",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_30524192bf17dce3364af9c11d4f5c06dec9254f98ccbecb86f275ff84b9dff7",
+      "child_name": "Gerar pictogramas por entrada",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_f14c4fdb08721420",
+      "parent_name": "Comunicação aumentativa e acessibilidade",
+      "child_id": "c_3251ada31066ac43ba0deb596c9743c571d3ee2122bcdf5270328ca5a8e5ff77",
+      "child_name": "Acessar recursos de acessibilidade",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_428eedfc1e28fa73",
+      "parent_name": "Avaliação, acompanhamento e progresso",
+      "child_id": "c_01ae5319e53394f97fb83d209c8805fe023de28e8471c3e96369c341309130d2",
+      "child_name": "Acessar questionários de triagem",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_428eedfc1e28fa73",
+      "parent_name": "Avaliação, acompanhamento e progresso",
+      "child_id": "c_2aeabb6f270b8c4e86320eb78064adeeae11ae94bd32bc5e55a72d406ca76d78",
+      "child_name": "Acessar questionários validados",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_3ee6ed314dfc333d",
+      "parent_name": "Terapia, saúde e suporte profissional",
+      "child_id": "c_479e9e21ee1da78a3c736d79084e54062aae9d43db17cf572429603161ffa3df",
+      "child_name": "Acessar apoio especializado",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_3ee6ed314dfc333d",
+      "parent_name": "Terapia, saúde e suporte profissional",
+      "child_id": "c_27f2e85ec50e6e7f7fcdcd112fa691969d24231ca13c206ec49186dd9d3363f6",
+      "child_name": "Acessar aconselhamento",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_3ee6ed314dfc333d",
+      "parent_name": "Terapia, saúde e suporte profissional",
+      "child_id": "c_998f3af69b75d88d8cf9265fdef6a9580b206156770d7baeaa633d588c6842f3",
+      "child_name": "Acessar relatórios de terapias",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_ef890655c1a2a2e7",
+      "parent_name": "Apoio a familiares e cuidadores",
+      "child_id": "c_31ce1481fa00a2b9cc7fc473b03e853215a55d593a5e88c94519a229c68ae8a7",
+      "child_name": "Acessar treinamento parental",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_04277dfe80af07e0",
+      "parent_name": "Jogos, simulações e entretenimento",
+      "child_id": "c_921d844b593405c65b274f7c6d62dc3d73ac74f7cab731b49f973057c3f5841a",
+      "child_name": "Acessar recompensas aleatórias",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_4348cc5cce109342",
+      "parent_name": "Interação social e comunidade",
+      "child_id": "c_7d77fd6d7285cbdf0413494499cea7c0b1e4910814cd02f4940bca682dd02667",
+      "child_name": "Acessar simulação de presença social",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    },
+    {
+      "type": "category_contains",
+      "parent_id": "cat_5e8d76bdc55f692a",
+      "parent_name": "Utilidades e funcionalidades gerais",
+      "child_id": "c_94dbe57394bf28ba62dd2d29b9d5b9cdfa80d8f39ffe5df03504dc5acbf25dcd",
+      "child_name": "Abrir app vinculado",
+      "needs_review": false,
+      "note": "Categoria atribuída na etapa de normalização; conferir amostras."
+    }
+  ],
+  "global_consolidation": [],
+  "structure_cycle_conflicts": []
+}
