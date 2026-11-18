@@ -42,7 +42,10 @@ Use somente a descrição, não o grupo de busca. A regra de classificação é:
 Retorne exatamente um objeto JSON com:
 decision: relevant, not_relevant ou uncertain;
 reason: justificativa curta;
-evidence: trecho literal da descrição que sustenta a decisão (vazio somente para uncertain).
+evidence: um único trecho contínuo da descrição, copiado exatamente como está (sem reticências,
+sem juntar partes distantes e com no máximo 300 caracteres). Para relevant, deve mostrar o
+público-alvo ou a funcionalidade direcionada. Para not_relevant, cite o trecho que mostra o uso
+geral ou incidental, ou deixe vazio se não houver. Vazio também para uncertain;
 Não invente nem parafraseie a evidência.'''
 CLASSIFICATION_SCHEMA = {'type':'object','additionalProperties':False,'required':['decision','reason','evidence'],
     'properties':{'decision':{'type':'string','enum':['relevant','not_relevant','uncertain']},
@@ -347,15 +350,21 @@ def _fold(text):
 
 
 def locate_evidence(evidence, description):
-    """Find the evidence in the description, ignoring spacing/quote/case differences.
-    Returns (start,end) in the ORIGINAL text, or None."""
-    trimmed=re.sub(r'^\s*(\.{3}|…)\s*|\s*(\.{3}|…)\s*$','',evidence)
-    needle,_=_fold(trimmed)
-    if len(needle)<10:return None
+    """Evidence may be several literal fragments joined by '...'. Each must appear, in order.
+    Returns (start,end) in the ORIGINAL text covering them, or None."""
+    pieces=[p for p in re.split(r'\s*(?:\.{3}|…)\s*',evidence) if p.strip()]
+    if not pieces:return None
     haystack,index=_fold(description)
-    pos=haystack.find(needle)
-    if pos<0:return None
-    return index[pos],index[pos+len(needle)-1]+1
+    cursor=0;first=last=None
+    for piece in pieces:
+        needle,_=_fold(piece)
+        if len(needle)<10:return None      # too short to verify
+        pos=haystack.find(needle,cursor)
+        if pos<0:return None
+        if first is None:first=index[pos]
+        last=index[pos+len(needle)-1]+1
+        cursor=pos+len(needle)
+    return first,last
 
 def resolve_classification(content, description):
     payload=json.loads(content)
@@ -374,8 +383,10 @@ def resolve_classification(content, description):
         if span:
             start,end=span
             evidence=description[start:end]   # always the real original text
-    if decision!='uncertain' and start<0:
-        raise ValueError('Evidência de classificação ausente ou não encontrada na descrição.')
+    if evidence.strip() and start<0:
+        raise ValueError('Evidência de classificação não encontrada na descrição.')
+    if decision=='relevant' and start<0:
+        raise ValueError('Decisão relevant exige evidência literal da descrição.')
     return {'decision':decision,'reason':reason.strip(),'evidence':evidence,
             'evidence_start':start,'evidence_end':end}
 
