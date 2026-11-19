@@ -1,0 +1,20 @@
+{
+  "apps": 3141,
+  "batch_size": 20,
+  "feature_rows": 2200,
+  "input_dir": "/home/a2650517/tea-scrapper/analysis/lote-3141-v4",
+  "input_hashes": {
+    "corpus.jsonl": "d2cca9eb2264bc336e2df4bc4a5626687efe51a11ed47377463c880ee7edd4e0",
+    "extractions.jsonl": "ab6c0f30be4bbe7bf52d2669f4b856dbeb4bb32c8b92cda7900c200ae3cc70ee",
+    "funcionalidades.csv": "a2de6bb8eccdd5dfa29fddea470573e03d28ddbe69c399c1a0e0650ab64a691a"
+  },
+  "technically_complete_apps": 595,
+  "unique_source_features": 2155,
+  "version": "foda-llm-v1",
+  "batches_total": 108,
+  "batches_done": 1,
+  "batches_pending": 107,
+  "batches_error": 0,
+  "model_calls_required": 106,
+  "model_calls_made": 1
+}

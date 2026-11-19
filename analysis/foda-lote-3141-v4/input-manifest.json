@@ -10,5 +10,5 @@
   "feature_rows": 2200,
   "unique_source_features": 2155,
   "technically_complete_apps": 595,
-  "batch_size": 10
+  "batch_size": 20
 }

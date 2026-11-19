@@ -1,0 +1,16 @@
+{
+  "apps_in_corpus": 3141,
+  "technically_complete_apps": 595,
+  "feature_rows": 2200,
+  "unique_source_features": 2155,
+  "canonical_features": 2039,
+  "batches_total": 108,
+  "batches_complete": 108,
+  "source_features_needing_review": 960,
+  "global_concepts_proposed": 0,
+  "parent_relationships_proposed": 0,
+  "structure_cycles_rejected": 0,
+  "apps_with_features": 480,
+  "method_note": "Frequências descrevem funcionalidades anunciadas nas descrições. Prevalência é calculada entre apps tecnicamente completos; não prova que o recurso exista no produto. A normalização não valida semanticamente a extração de origem. Nenhuma relação obrigatória, exclusão ou dependência foi inferida.",
+  "model_complete": true
+}
