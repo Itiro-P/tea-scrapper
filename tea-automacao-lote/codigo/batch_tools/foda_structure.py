@@ -35,6 +35,15 @@ def _norm(value: str) -> str:
     ascii_text = "".join(char for char in decomposed if not unicodedata.combining(char))
     return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", ascii_text)).strip()
 
+def reconcile_categories(rows) -> dict[str, str]:
+    """feature_id -> categoria, dando UMA categoria a cada nome canônico (a mais votada vence)."""
+    votes: dict[str, Counter] = defaultdict(Counter)
+    for row in rows:
+        if row["canonical_name"] and row["category"]:
+            votes[_norm(row["canonical_name"])][row["category"]] += 1
+    winner = {name: sorted(c.items(), key=lambda kv: (-kv[1], kv[0]))[0][0] for name, c in votes.items()}
+    return {row["feature_id"]: winner[_norm(row["canonical_name"])]
+            for row in rows if row["canonical_name"] and row["category"]}
 
 def _sha(value: str) -> str:
     return hashlib.sha256(value.encode("utf-8")).hexdigest()
@@ -72,9 +81,10 @@ def _token_similarity(left: str, right: str) -> float:
 
 
 def _source_concepts(db: sqlite3.Connection) -> list[dict]:
-    rows = db.execute(
+    rows = [dict(r) for r in db.execute(
         "SELECT * FROM source_features WHERE canonical_name IS NOT NULL AND category IS NOT NULL"
-    ).fetchall()
+    )]
+    category_of = reconcile_categories(rows)
     app_ids_by_source: dict[str, set[str]] = defaultdict(set)
     examples_by_source: dict[str, list[dict]] = defaultdict(list)
     for source_row in db.execute(
@@ -90,7 +100,7 @@ def _source_concepts(db: sqlite3.Connection) -> list[dict]:
             })
     grouped: dict[tuple[str, str], dict] = {}
     for row in rows:
-        category = row["category"]
+        category = category_of[row["feature_id"]]
         name = row["canonical_name"].strip()
         key = (category, _norm(name))
         concept = grouped.setdefault(key, {
@@ -116,6 +126,22 @@ def _source_concepts(db: sqlite3.Connection) -> list[dict]:
         result.append(concept)
     return sorted(result, key=lambda item: (item["category"], _norm(item["name"]), item["id"]))
 
+def _alias_payload(payload):
+    """Ids curtos por lote: copiar hash de 66 caracteres é a causa dos erros de ID."""
+    to_alias, back = {}, {}
+
+    def alias(real_id):
+        if real_id not in to_alias:
+            short = f"k{len(to_alias) + 1}"
+            to_alias[real_id], back[short] = short, real_id
+        return to_alias[real_id]
+
+    shown = [{
+        "id": alias(t["id"]), "name": t["name"], "category": t["category"], "apps": t["apps"],
+        "evidence_examples": t["evidence_examples"],
+        "candidates": [{"id": alias(c["id"]), "name": c["name"]} for c in t["candidates"]],
+    } for t in payload]
+    return shown, back
 
 def _candidates(concepts: list[dict]) -> dict[str, list[dict]]:
     by_category: dict[str, list[dict]] = defaultdict(list)
@@ -147,11 +173,9 @@ def prepare_structure(out: Path, batch_size: int = 50) -> dict:
         db.row_factory = sqlite3.Row
         try:
             _ensure_tables(db)
-            pending = db.execute(
-                "SELECT COUNT(*) FROM batches WHERE state IN ('pending','running')"
-            ).fetchone()[0]
+            pending = db.execute("SELECT COUNT(*) FROM batches WHERE state!='complete'").fetchone()[0]
             if pending:
-                raise ValueError(f"Conclua os {pending} lotes pendentes de normalização antes da estrutura.")
+                raise ValueError(f"Conclua os {pending} lotes de normalização pendentes ou com erro antes da estrutura.")
             concepts = _source_concepts(db)
             if not concepts:
                 raise ValueError("Nenhum conceito canônico disponível; rode a normalização e exporte.")
@@ -166,7 +190,7 @@ def prepare_structure(out: Path, batch_size: int = 50) -> dict:
                     "category": concept["category"],
                     "apps": concept["apps"],
                     "source_ids": concept["source_ids"],
-                    "evidence_examples": concept["evidence"],
+                    "evidence_examples": [{"source_name": e["source_name"], "evidence": e["evidence"]} for e in concept["evidence"]],
                     "candidates": [{"id": other["id"], "name": other["name"]} for other in allowed],
                 }
                 by_category[concept["category"]].append(item)
@@ -322,7 +346,8 @@ def run_structure(out: Path, model: str, base_url: str = "http://127.0.0.1:11434
                     attempt_started = time.monotonic()
                     stamp = __import__("datetime").datetime.now(__import__("datetime").timezone.utc).isoformat()
                     try:
-                        user = _canonical({"targets": payload})
+                        shown, back = _alias_payload(payload)
+                        user = _canonical({"targets": shown})
                         body = {
                             "model": identity["name"],
                             "messages": [
@@ -334,14 +359,21 @@ def run_structure(out: Path, model: str, base_url: str = "http://127.0.0.1:11434
                             "keep_alive": "10m",
                             "options": {"temperature": 0, "seed": 42, "num_ctx": NUM_CTX, "num_predict": num_predict},
                         }
+                        if last_error:
+                            body["messages"].append({"role": "user", "content":
+                                "A resposta anterior foi rejeitada: " + last_error[:160]
+                                + ". Corrija e retorne um item para cada id alvo, no formato JSON."})
                         if (len((PROMPT + user).encode("utf-8")) // 3) + num_predict + 1024 > NUM_CTX:
                             raise ValueError("Entrada excede contexto; reduza structure-batch-size em pasta nova.")
-                        raw = active_client.chat(body, None, None)
+                        raw = active_client.chat(body, lambda event: None, None)
                         if not isinstance(raw, dict) or not isinstance(raw.get("message"), dict):
                             raise ValueError("Resposta Ollama inválida.")
                         if raw.get("done") is not True or raw.get("done_reason") in {"length", "max_tokens"}:
                             raise ValueError("Resposta truncada; reduza structure-batch-size ou aumente num-predict.")
-                        result = _decode(raw["message"].get("content", ""), payload)
+                        result = _decode(raw["message"].get("content", ""), shown)
+                        result = [{**i, "id": back[i["id"]], "canonical_id": back[i["canonical_id"]],
+                                   "parent_id": back[i["parent_id"]] if i["parent_id"] else None}
+                                  for i in result]
                         attempts.append((stamp, time.monotonic() - attempt_started, "complete",
                                          _canonical(raw), None))
                         break
@@ -495,6 +527,7 @@ def proposals(out: Path) -> dict:
                 source_id for member in members for source_id in concepts[member].get("source_ids", [])
             }),
             "needs_review": True,
+            "large_merge": len(members) > 6,
             "note": "Fusão global proposta pelo LLM; requer validação.",
         })
     return {
