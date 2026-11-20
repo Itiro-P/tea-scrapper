@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import csv
 import json
+import math
 import random
 import re
 import sqlite3
@@ -69,31 +70,73 @@ def _write_csv(path: Path, fields: list[str], rows: list[dict[str, Any]]) -> Non
             temp.unlink()
 
 
-def _allocation(strata: dict[str, list[dict]], requested: int) -> dict[str, int]:
+def _allocation(strata: dict[str, list[dict]], requested: int, min_per_stratum: int = 2) -> dict[str, int]:
+    """Square-root allocation with a minimum floor per stratum to prevent high weights on rare domains."""
+    strata = {k: v for k, v in strata.items() if v}
     population = sum(len(items) for items in strata.values())
+
+    if population == 0:
+        raise ValueError("População total nos estratos é zero.")
     if requested < 1:
         raise ValueError("sample-size deve ser positivo.")
     if requested > population:
         raise ValueError(f"sample-size ({requested}) excede os {population} apps disponíveis.")
-    if requested < len(strata):
+
+    # Piso efetivo por estrato (respeita o tamanho máximo se o estrato tiver menos itens que min_per_stratum)
+    floors = {key: min(len(items), min_per_stratum) for key, items in strata.items()}
+    min_required = sum(floors.values())
+
+    if requested < min_required:
         raise ValueError(
-            f"sample-size precisa ser pelo menos {len(strata)} para incluir todos os estratos."
+            f"sample-size ({requested}) é menor que o mínimo necessário ({min_required}) "
+            f"para cobrir os {len(strata)} estratos com piso de {min_per_stratum}."
         )
-    exact = {key: requested * len(items) / population for key, items in strata.items()}
-    allocated = {key: min(len(strata[key]), int(value)) for key, value in exact.items()}
-    remaining = requested - sum(allocated.values())
-    order = sorted(strata, key=lambda key: (-(exact[key] - int(exact[key])), key))
-    while remaining:
+
+    # Pesos pela raiz quadrada do tamanho de cada estrato
+    sqrt_weights = {key: math.sqrt(len(items)) for key, items in strata.items()}
+    total_sqrt = sum(sqrt_weights.values())
+
+    allocated: dict[str, int] = {}
+    for key, items in strata.items():
+        raw_val = requested * (sqrt_weights[key] / total_sqrt)
+        val = max(floors[key], min(len(items), int(round(raw_val))))
+        allocated[key] = val
+
+    # Ajuste fino para garantir que sum(allocated.values()) == requested
+    diff = requested - sum(allocated.values())
+    while diff != 0:
         changed = False
-        for key in order:
-            if allocated[key] < len(strata[key]):
-                allocated[key] += 1
-                remaining -= 1
-                changed = True
-                if remaining == 0:
-                    break
+        if diff > 0:
+            # Adiciona nos estratos que ainda possuem elementos disponíveis
+            candidates = sorted(
+                strata,
+                key=lambda k: (len(strata[k]) - allocated[k], -allocated[k]),
+                reverse=True,
+            )
+            for key in candidates:
+                if allocated[key] < len(strata[key]):
+                    allocated[key] += 1
+                    diff -= 1
+                    changed = True
+                    if diff == 0:
+                        break
+        else:
+            # Remove dos maiores estratos que estão acima do seu piso mínimo
+            candidates = sorted(
+                strata,
+                key=lambda k: allocated[k] - floors[k],
+                reverse=True,
+            )
+            for key in candidates:
+                if allocated[key] > floors[key]:
+                    allocated[key] -= 1
+                    diff += 1
+                    changed = True
+                    if diff == 0:
+                        break
         if not changed:
-            raise ValueError("Não foi possível alocar a amostra aos estratos.")
+            raise ValueError("Não foi possível equilibrar a alocação da amostra aos estratos.")
+
     return allocated
 
 
@@ -110,7 +153,8 @@ def _vocabulary_rows(matrix_path: Path) -> list[dict[str, Any]]:
 
 
 def create_sample(out: Path, sample_size: int, seed: int = 42,
-                  output: Path | None = None, scope: str = "complete") -> dict:
+                  output: Path | None = None, scope: str = "complete",
+                  min_stratum_size: int = 1, min_per_stratum: int = 2) -> dict:
     out = out.resolve()
     checkpoint = out / "foda-checkpoint.sqlite3"
     matrix_path = out / "app-feature-matrix.csv"
@@ -158,7 +202,7 @@ def create_sample(out: Path, sample_size: int, seed: int = 42,
                 raise ValueError(f"corpus.jsonl:{line_number}: appId inválido ou duplicado.")
             corpus[app_id] = record
 
-    # Stratum = the rarest group of the app, so small groups are not swallowed by large ones.
+    # Stratum = the rarest group of the app, with fallback if domain has too few elements.
     group_counts = Counter(g for app in apps for g in json.loads(app["groups_json"]))
     strata: dict[str, list[dict]] = {}
     for app in apps:
@@ -167,28 +211,40 @@ def create_sample(out: Path, sample_size: int, seed: int = 42,
         if record is None:
             raise ValueError(f"App ausente do corpus: {app_id}.")
         groups = json.loads(app["groups_json"])
-        stratum = min(groups, key=lambda g: (group_counts[g], g)) if groups else "UNKNOWN"
-        strata.setdefault(stratum, []).append({
+        sorted_groups = sorted(groups, key=lambda g: (group_counts[g], g)) if groups else ["UNKNOWN"]
+
+        chosen_stratum = "UNKNOWN"
+        for g in sorted_groups:
+            if group_counts[g] >= min_stratum_size or g == sorted_groups[-1]:
+                chosen_stratum = g
+                break
+
+        strata.setdefault(chosen_stratum, []).append({
             "appId": app_id,
-            "stratum": stratum,
+            "stratum": chosen_stratum,
             "title": app["title"],
             "description": str(record.get("description") or ""),
             "technical_complete": bool(app["technical_complete"]),
             "extraction_status": app["extraction_status"],
         })
 
-    allocated = _allocation(strata, sample_size)
+    strata = {k: v for k, v in strata.items() if v}
+
+    allocated = _allocation(strata, sample_size, min_per_stratum=min_per_stratum)
     rng = random.Random(seed)
     rows = []
     for stratum in sorted(strata):
         population_n = len(strata[stratum])
-        selected = rng.sample(strata[stratum], allocated[stratum])
-        weight = population_n / allocated[stratum]
+        sample_n_stratum = allocated.get(stratum, 0)
+        if sample_n_stratum <= 0:
+            continue
+        selected = rng.sample(strata[stratum], sample_n_stratum)
+        weight = population_n / sample_n_stratum
         for item in selected:
             rows.append({
                 **item,
                 "population_n": population_n,
-                "sample_n": allocated[stratum],
+                "sample_n": sample_n_stratum,
                 "sample_weight": f"{weight:.8f}",
                 "reviewer1_features_json": "", "reviewer2_features_json": "",
                 "adjudicated_features_json": "", "adjudicated_complete": "",
