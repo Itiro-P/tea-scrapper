@@ -1,0 +1,4303 @@
+{
+  "date": "2026-11-23",
+  "source_commit": "99b6ca2a536b06f1683850a771cc15266bd4063b",
+  "source_reference_sha256": "15ddffe544c5ffbbc04516832fda1a6c604fb316ddd66e1519c8a645a0bab48c",
+  "reviewer2_id": "revisor2",
+  "annotation_kind": "AI annotation; requires human adjudication",
+  "blinding": "Initial inspection exposed reviewer1 for first 3 rows; subsequent annotation used a separate title/description-only file and the shared vocabulary. Prior conversation included some examples from this corpus. Not a fully blind independent human review.",
+  "annotation_scope": "Advertised current capabilities explicitly directed to neurodivergent needs, under provided annotation protocol. Not an inspection of installed applications.",
+  "annotations": [
+    {
+      "index": 1,
+      "appId": "brain.training.games.puzzle.iq.test.logic.memory",
+      "title": "BrainGain - Jogos de Cérebro",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "a9f93a0968d8919fb8e12de38bee9d2cfd2f0d87c1a4272d3df35802f5ca7b02",
+      "reviewer1_visible_during_initial_inspection": true,
+      "features": [
+        {
+          "name": "Realizar tarefas de atenção e controle de impulsos para TDAH",
+          "description_of_capacity": "Realizar tarefas de atenção e controle de impulsos para TDAH",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Teste de TDAH e atenção: explore tarefas inspiradas em teste de TDAH para observar foco, concentração e controle de impulsos.",
+          "start": 1537,
+          "end": 1662
+        },
+        {
+          "name": "Treinar atenção e memória com jogos rápidos",
+          "description_of_capacity": "Jogar jogos de atenção e memória de trabalho para TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 374,
+          "evidence": "Jogos de TDAH para foco: pratique com jogos de TDAH voltados a atenção, memória de trabalho e concentração",
+          "start": 1740,
+          "end": 1846
+        }
+      ],
+      "annotation_note": "App geral: incluídas somente as duas capacidades explicitamente direcionadas ao TDAH. Não equivale a teste diagnóstico. Critério por capacidade pode divergir da triagem por finalidade central do app.",
+      "protected_source_row_sha256": "c578fdfdb7c4d0325505d03b56b26cb7e4144c078961067edd900d53b456bb14",
+      "original_notes": "Itiro-P: Não é focado em TDAH."
+    },
+    {
+      "index": 2,
+      "appId": "com.Dygie.Lusha",
+      "title": "Lusha: TDAH Tarefas e Conduta",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2ec12eb93e7ab41ae190d45d92af95757eca7ade20db61527fd6a771046e06ba",
+      "reviewer1_visible_during_initial_inspection": true,
+      "features": [
+        {
+          "name": "Obter orientações para cuidadores",
+          "description_of_capacity": "Acessar orientações parentais para TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 10,
+          "evidence": "integrando orientações baseadas em programas de saúde mental como o programa Barkley",
+          "start": 232,
+          "end": 316
+        },
+        {
+          "name": "Compartilhar progresso terapêutico com profissionais",
+          "description_of_capacity": "Compartilhar progresso terapêutico com profissionais",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Acompanhe e compartilhe seu progresso com profissionais de saúde por meio do painel do Lusha",
+          "start": 430,
+          "end": 522
+        },
+        {
+          "name": "Receber orientações comportamentais",
+          "description_of_capacity": "Receber orientações cognitivo-comportamentais em jogo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1954,
+          "evidence": "oferecendo conselhos práticos baseados em abordagens cognitivo-comportamentais",
+          "start": 848,
+          "end": 926
+        },
+        {
+          "name": "Gerenciar rotina diária",
+          "description_of_capacity": "Gerenciar rotinas diárias",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1313,
+          "evidence": "auxilia na gestão das rotinas diárias",
+          "start": 962,
+          "end": 999
+        },
+        {
+          "name": "Recompensar conclusão de tarefas",
+          "description_of_capacity": "Receber recompensas no jogo por tarefas reais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 202,
+          "evidence": "As tarefas e mudanças de comportamento realizadas na \"vida real\" são associadas a recompensas no jogo",
+          "start": 1174,
+          "end": 1275
+        }
+      ],
+      "annotation_note": "A descrição contextualiza as capacidades no apoio ao TDAH. Benefícios emocionais não viraram funções isoladas; limite de tela tratado como controle parental genérico.",
+      "protected_source_row_sha256": "10e0f30512eef0caf22eea0a7a04f74bafe7958d411240fe464004993f5f7eb5",
+      "original_notes": ""
+    },
+    {
+      "index": 3,
+      "appId": "com.hedgehogacademy.memoryattentionlite",
+      "title": "Memória: jogos infatis",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5bf0b4571a5b81309c9c80f1b25278869d3cb3aba33fec808519018c5be7d77d",
+      "reviewer1_visible_during_initial_inspection": true,
+      "features": [
+        {
+          "name": "Jogos de memória",
+          "description_of_capacity": "Jogar jogos de memória visual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 145,
+          "evidence": "Os jogos são orientados para o treino e para o melhoramento da memória visual da criança.",
+          "start": 593,
+          "end": 682
+        },
+        {
+          "name": "Praticar jogos para atenção",
+          "description_of_capacity": "Jogar jogos de atenção",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 338,
+          "evidence": "Os jogos destinados ao treino da atenção melhoram a observação e a concentração ao mesmo tempo em que diminuem a impulsividade da criança.",
+          "start": 1093,
+          "end": 1231
+        },
+        {
+          "name": "Ajustar dificuldade dos jogos",
+          "description_of_capacity": "Escolher dificuldade dos jogos cognitivos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 923,
+          "evidence": "Cada jogo incluído no pacote tem 4 níveis de dificuldade",
+          "start": 1453,
+          "end": 1509
+        }
+      ],
+      "annotation_note": "Contexto: a descrição recomenda explicitamente esses jogos a crianças com déficit de atenção e hiperatividade. Jogos específicos agregados por capacidade, sem tratar melhora alegada como eficácia comprovada.",
+      "protected_source_row_sha256": "9f9ee369af52ae0cec5e9dd6f06974f3a629cb5e90ce2ec649759abb15097f65",
+      "original_notes": ""
+    },
+    {
+      "index": 4,
+      "appId": "net.alladapt.app124576",
+      "title": "Alladapt",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1114ad4c230bdbad379d8b252816a805a614cc9f6924c62c67d327e27c342644",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Adaptar atividades automaticamente",
+          "description_of_capacity": "Adaptar atividades de aprendizagem automaticamente",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 33,
+          "evidence": "Adaptar atividades automaticamente",
+          "start": 370,
+          "end": 404
+        },
+        {
+          "name": "Criar conteúdos visuais interativos",
+          "description_of_capacity": "Criar conteúdos visuais e interativos adaptados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 83,
+          "evidence": "Criar conteúdos visuais e interativos",
+          "start": 407,
+          "end": 444
+        },
+        {
+          "name": "Registrar atividades e evolução terapêutica e escolar",
+          "description_of_capacity": "Registrar atividades e evolução terapêutica e escolar",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Professores e terapeutas registram atividades e evoluções",
+          "start": 652,
+          "end": 709
+        },
+        {
+          "name": "Acompanhar desenvolvimento da criança em tempo real",
+          "description_of_capacity": "Acompanhar desenvolvimento da criança em tempo real",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Os pais acompanham tudo em tempo real pelo controle parental, com visão completa do desenvolvimento.",
+          "start": 796,
+          "end": 896
+        }
+      ],
+      "annotation_note": "Capacidades no contexto explícito de aprendizagem para crianças autistas; acompanhamento tem finalidade escolar/terapêutica específica.",
+      "protected_source_row_sha256": "3e4968d9c730530f20a58f0c88d1841bdd89c248631a789479f1faf69a92a6ca",
+      "original_notes": ""
+    },
+    {
+      "index": 5,
+      "appId": "com.aac.autism.cards",
+      "title": "AAC Autism Communication Cards",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1cdb800dbb2e04e318ffa3f08deb212fb1954424766888e6499d34b4952abe87",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Codificacao por cores gramatical",
+          "description_of_capacity": "Identificar categorias de cartões por cores Fitzgerald",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 575,
+          "evidence": "Sistema Fitzgerald Key: Bordas coloridas nos cartões ajudam os usuários a identificar categorias e classes gramaticais",
+          "start": 373,
+          "end": 491
+        },
+        {
+          "name": "Bloquear edição das pranchas de comunicação",
+          "description_of_capacity": "Bloquear edição das pranchas de comunicação",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Defina uma senha para bloquear os recursos de edição. Permita que seu filho se comunique livremente sem o risco de exclusões acidentais.",
+          "start": 579,
+          "end": 715
+        },
+        {
+          "name": "Compor frases com cartões",
+          "description_of_capacity": "Construir frases com cartões",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 578,
+          "evidence": "Construtor de Frases Avançado: Adicione até 3 cartões ao painel inferior animado.",
+          "start": 717,
+          "end": 798
+        },
+        {
+          "name": "Exibir sequências em tela cheia",
+          "description_of_capacity": "Exibir sequências de cartões em tela cheia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 676,
+          "evidence": "Exiba sequências de cartões em modo de tela cheia para uma comunicação visual mais clara.",
+          "start": 923,
+          "end": 1012
+        },
+        {
+          "name": "Editar cartões de comunicação",
+          "description_of_capacity": "Personalizar cartões e categorias de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 859,
+          "evidence": "Carregue suas próprias fotos, crie categorias personalizadas e reorganize tudo para atender às suas necessidades.",
+          "start": 1332,
+          "end": 1445
+        },
+        {
+          "name": "Converter texto em fala",
+          "description_of_capacity": "Reproduzir fala sintetizada",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 631,
+          "evidence": "Síntese de fala de alta qualidade",
+          "start": 1467,
+          "end": 1500
+        },
+        {
+          "name": "Destacar cartões durante a reprodução da fala",
+          "description_of_capacity": "Destacar cartões durante a reprodução da fala",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "bordas destacadas durante a reprodução",
+          "start": 1522,
+          "end": 1560
+        },
+        {
+          "name": "Configurar agendas visuais",
+          "description_of_capacity": "Salvar rotinas e agendas visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1070,
+          "evidence": "Salve rotinas e agendas visuais na tela \"Cadeias de ações\" para suporte diário.",
+          "start": 1585,
+          "end": 1664
+        },
+        {
+          "name": "Ajustar visibilidade e cores para reduzir sobrecarga",
+          "description_of_capacity": "Ajustar rótulos e cores para reduzir sobrecarga sensorial",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1612,
+          "evidence": "Oculte/exiba rótulos e ative/desative esquemas de cores para reduzir a sobrecarga sensorial.",
+          "start": 1699,
+          "end": 1791
+        }
+      ],
+      "annotation_note": "Personalização e bloqueio incluídos porque a descrição os vincula concretamente ao quadro assistivo de CAA e à prevenção de exclusões durante a comunicação.",
+      "protected_source_row_sha256": "082f8c2e68dd14fdb30423c8fcf70c4cf62f99f5d4d96a638db70777fb403202",
+      "original_notes": ""
+    },
+    {
+      "index": 6,
+      "appId": "com.cognifit.android.dyslexia",
+      "title": "Dislexia - Pesquisa Cognitiva",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "568b509a84bc61c702a25f0f80b660101a6bffb02dba10e80cf1f93a1ee3a686",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Participar de pesquisas cognitivas sobre dislexia",
+          "description_of_capacity": "Participar de pesquisas cognitivas sobre dislexia",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Este aplicativo foi criado para pessoas que desejam participar de estudos científicos relacionados à dislexia.",
+          "start": 0,
+          "end": 110
+        },
+        {
+          "name": "Avaliar habilidades cognitivas relacionadas à dislexia",
+          "description_of_capacity": "Avaliar habilidades cognitivas relacionadas à dislexia",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "ferramentas digitais que ajudam a avaliar e tratar pessoas que vivem com esse distúrbio",
+          "start": 1210,
+          "end": 1297
+        },
+        {
+          "name": "Realizar estimulação cognitiva relacionada à dislexia",
+          "description_of_capacity": "Realizar estimulação cognitiva relacionada à dislexia",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Para participar de pesquisas concentradas na avaliação e estimulação cognitiva relacionadas à dislexia",
+          "start": 1426,
+          "end": 1528
+        }
+      ],
+      "annotation_note": "Não inferidos testes específicos, diagnóstico, eficácia ou mecanismos de tratamento além das ferramentas anunciadas.",
+      "protected_source_row_sha256": "618c63c0c3392a32afb40897f6049b17cfe36375827950a7aa06e1f2e9ec56f0",
+      "original_notes": ""
+    },
+    {
+      "index": 7,
+      "appId": "com.hugomeninoaguiar.mymobileapp",
+      "title": "Lira - TDAH & Autismo Feminino",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2077cfd7005f9853e2dd1c44f801e681be71c59ff03539fd7f0a1a92770fd65c",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Registrar energia diária",
+          "description_of_capacity": "Registrar energia e capacidade diariamente",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1838,
+          "evidence": "Registrar sua energia e capacidade diariamente",
+          "start": 1151,
+          "end": 1197
+        },
+        {
+          "name": "Identificar padrões de energia e ciclo",
+          "description_of_capacity": "Identificar padrões de energia e ciclo menstrual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 433,
+          "evidence": "Identificar padrões ao longo dos dias, semanas e fases do ciclo menstrual",
+          "start": 1200,
+          "end": 1273
+        },
+        {
+          "name": "Receber recomendações personalizadas",
+          "description_of_capacity": "Receber recomendações personalizadas para autorregulação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1957,
+          "evidence": "Receber recomendações personalizadas com base nos seus registros",
+          "start": 1358,
+          "end": 1422
+        },
+        {
+          "name": "Reconhecer sinais de burnout",
+          "description_of_capacity": "Reconhecer sinais de burnout e sobrecarga",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1811,
+          "evidence": "Reconhecer sinais precoces de burnout e sobrecarga",
+          "start": 1425,
+          "end": 1475
+        },
+        {
+          "name": "Gestão de sobrecarga sensorial",
+          "description_of_capacity": "Usar ferramentas para sobrecarga e sensibilidade sensorial",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1706,
+          "evidence": "Utilizar ferramentas práticas para lidar com sobrecarga e sensibilidade sensorial",
+          "start": 1542,
+          "end": 1623
+        },
+        {
+          "name": "Explorar espaço guiado de autoconhecimento neurodivergente",
+          "description_of_capacity": "Explorar espaço guiado de autoconhecimento neurodivergente",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "O Mundo Interior é um espaço guiado e visual que ajuda você a desenvolver consciência sobre seu sistema nervoso, seus ritmos de energia e suas necessidades",
+          "start": 1674,
+          "end": 1829
+        }
+      ],
+      "annotation_note": "Acompanhamento específico de energia e autorregulação em mulheres com TDAH/autismo; não classificado como diagnóstico.",
+      "protected_source_row_sha256": "2e1c765fadf963368d5e469b2471cbf16bfd0a07133556f8c846cf870d7469f0",
+      "original_notes": ""
+    },
+    {
+      "index": 8,
+      "appId": "com.reaction.time.reflex",
+      "title": "Brain Games - Memory & Focus",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "422b474e33112fca27414110d74bfe6e5b30ad98ced33e53e9f1ecb33da09e55",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Acessar jogos para TDAH",
+          "description_of_capacity": "Jogar jogos de atenção sustentada e controle de impulsos para TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 251,
+          "evidence": "Nossos jogos para TDAH oferecem suporte estruturado que ajuda a desenvolver atenção sustentada e controle de impulsos",
+          "start": 1332,
+          "end": 1449
+        }
+      ],
+      "annotation_note": "Incluída a capacidade explicitamente direcionada ao TDAH. Demais treinos, plano diário e métricas são descritos para uso geral.",
+      "protected_source_row_sha256": "4a216a90d7200e94bd49f8a4e3d8a05da6a65f69694fd8d06554751c2b489488",
+      "original_notes": ""
+    },
+    {
+      "index": 9,
+      "appId": "app.indiex.dyscalculia",
+      "title": "Discalculia: Números e Cálculo",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "0c4dd2fe06848cbea5219be24f099eb17f815ac7ab755c15f38fc53d7e93cac2",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ensinar matemática básica",
+          "description_of_capacity": "Praticar senso numérico, contagem e cálculo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 100,
+          "evidence": "Treino de senso numérico, contagem, cálculo e memória de trabalho",
+          "start": 766,
+          "end": 831
+        },
+        {
+          "name": "Treinar memória de trabalho",
+          "description_of_capacity": "Praticar memória de trabalho em atividades matemáticas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 378,
+          "evidence": "Treino de senso numérico, contagem, cálculo e memória de trabalho",
+          "start": 766,
+          "end": 831
+        },
+        {
+          "name": "Adaptar exercícios à dificuldade",
+          "description_of_capacity": "Adaptar dificuldade dos exercícios matemáticos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 36,
+          "evidence": "Dificuldade adaptativa que responde ao jeito de jogar",
+          "start": 653,
+          "end": 706
+        },
+        {
+          "name": "Reforçar aprendizado por repetição espaçada",
+          "description_of_capacity": "Revisar matemática por repetição espaçada",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 207,
+          "evidence": "Sistema de repetição espaçada para fixar o aprendizado",
+          "start": 709,
+          "end": 763
+        }
+      ],
+      "annotation_note": "Contexto de apoio a dificuldades numéricas/discalculia. Painel genérico de evolução e mascote não foram listados separadamente.",
+      "protected_source_row_sha256": "d1ea92a6eb74590c05bf1502b1314b6d44c6018caea73c31b36c1c4965b6a6e9",
+      "original_notes": ""
+    },
+    {
+      "index": 10,
+      "appId": "co.uk.rowansoftware.dyslexiabrowser",
+      "title": "Dyslexia Web Browser",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "6e28207abe222c4ef369a4ef563a7e5b85f3e6b1272a58990949e014660a10a3",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Aplicar sobreposições de cor",
+          "description_of_capacity": "Aplicar sobreposição colorida à leitura na web",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1618,
+          "evidence": "Aplique tons coloridos a qualquer página da web para reduzir o estresse visual",
+          "start": 307,
+          "end": 385
+        },
+        {
+          "name": "Modo para dislexia",
+          "description_of_capacity": "Usar modo de leitura adaptado à dislexia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 723,
+          "evidence": "Elimine a poluição visual e reformate qualquer artigo em uma visualização de leitura limpa e personalizável.",
+          "start": 627,
+          "end": 735
+        },
+        {
+          "name": "Ajustar tamanho da fonte e cores",
+          "description_of_capacity": "Ajustar fonte e cores para leitura acessível",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 538,
+          "evidence": "defina sua cor de texto, cor de fundo, largura da linha e tamanho da fonte preferidos",
+          "start": 780,
+          "end": 865
+        },
+        {
+          "name": "Ajustar espaçamento do texto",
+          "description_of_capacity": "Ajustar espaçamento entre palavras e linhas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 534,
+          "evidence": "Controles de espaçamento entre palavras e linhas",
+          "start": 1772,
+          "end": 1820
+        },
+        {
+          "name": "Leitura de páginas em voz alta",
+          "description_of_capacity": "Ouvir páginas da web em voz alta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 808,
+          "evidence": "Ouça qualquer página da web em voz alta.",
+          "start": 953,
+          "end": 993
+        }
+      ],
+      "annotation_note": "Ajustes de apresentação incluídos por vínculo explícito à dislexia e ao estresse visual, sem incluir assinatura ou compra.",
+      "protected_source_row_sha256": "dd66d426f2ab061ed27a12860a03c3e8579db9095cc44213d4b8651d62b39aeb",
+      "original_notes": ""
+    },
+    {
+      "index": 11,
+      "appId": "com.avaz.readerapp",
+      "title": "Dyslexia Reader by MDA",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "0ff82d1b8c41ed796e66dddf6b00cb19ca5bfc8cff7c218db6476b6e304581eb",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Importar livros por PDF ou fotografia",
+          "description_of_capacity": "Importar livros por PDF ou fotografia",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "os alunos podem ler seus livros didáticos importando PDFs ou tirando fotos dos livros",
+          "start": 461,
+          "end": 546
+        },
+        {
+          "name": "Converter texto em fala",
+          "description_of_capacity": "Ouvir texto por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 631,
+          "evidence": "Recurso de texto para fala de alta qualidade",
+          "start": 1286,
+          "end": 1330
+        },
+        {
+          "name": "Destacar texto sincronizado com leitura em voz alta",
+          "description_of_capacity": "Destacar texto sincronizado com a leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 89,
+          "evidence": "Destaque de texto sincronizado",
+          "start": 1373,
+          "end": 1403
+        },
+        {
+          "name": "Aplicar máscara de tela para foco",
+          "description_of_capacity": "Usar máscara de foco na leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 259,
+          "evidence": "Máscara de tela para auxiliar no foco",
+          "start": 1333,
+          "end": 1370
+        },
+        {
+          "name": "Usar dicas fonéticas",
+          "description_of_capacity": "Receber dicas fonológicas e visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 240,
+          "evidence": "Dicas para encontros consonantais iniciais, intermediários e finais",
+          "start": 2581,
+          "end": 2648
+        },
+        {
+          "name": "Aplicar sobreposições de cor",
+          "description_of_capacity": "Aplicar sobreposições coloridas para leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1618,
+          "evidence": "Sobreposições coloridas para auxiliar leitores com Síndrome de Irlen",
+          "start": 1460,
+          "end": 1528
+        },
+        {
+          "name": "Dividir palavras em sílabas",
+          "description_of_capacity": "Dividir palavras em sílabas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 93,
+          "evidence": "Divisão de palavras em sílabas",
+          "start": 1531,
+          "end": 1561
+        },
+        {
+          "name": "Analisar estrutura frasal",
+          "description_of_capacity": "Analisar frases em unidades sintáticas menores",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 45,
+          "evidence": "O recurso Construir ajuda a analisar as frases do texto e a focar nas unidades sintáticas menores.",
+          "start": 2690,
+          "end": 2788
+        },
+        {
+          "name": "Alternar leitura por página, frase ou palavra",
+          "description_of_capacity": "Alternar leitura por página, frase ou palavra",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "A visualização de palavra mostra apenas uma palavra",
+          "start": 3071,
+          "end": 3122
+        },
+        {
+          "name": "Leitura focada sem distrações",
+          "description_of_capacity": "Remover imagens de fundo para ler sem distrações",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 310,
+          "evidence": "Use o modo Texto Simples para remover as imagens de fundo e mostrar apenas o texto.",
+          "start": 3161,
+          "end": 3244
+        },
+        {
+          "name": "Acompanhar leitura com o dedo",
+          "description_of_capacity": "Acompanhar leitura com ponteiro reposicionável",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 30,
+          "evidence": "O ícone de lápis na página de leitura ajuda a acompanhar as palavras que estão sendo lidas.",
+          "start": 3463,
+          "end": 3554
+        },
+        {
+          "name": "Ajustar velocidade da leitura",
+          "description_of_capacity": "Ajustar velocidade de leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 798,
+          "evidence": "Velocidade e progresso configuráveis",
+          "start": 1607,
+          "end": 1643
+        }
+      ],
+      "annotation_note": "Funcionalidades assistivas de leitura no contexto de dislexia. Download genérico, modo offline, assinatura e compartilhamento não listados.",
+      "protected_source_row_sha256": "29f3d4b50e94fed99ca4739a8b44f8cc73e86624fbdecd522c6aecc56cd34e6a",
+      "original_notes": ""
+    },
+    {
+      "index": 12,
+      "appId": "com.bgadjjdffi.bddjbgadjjdffi",
+      "title": "Dystinct Magazine",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "4370a4185cc88df3955c8f9f9db353e9957df2b06361003675273f191fa54cff",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler conteúdo e entrevistas sobre dificuldades de aprendizagem",
+          "description_of_capacity": "Ler conteúdo e entrevistas sobre dificuldades de aprendizagem",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Temos entrevistas e conteúdo exclusivo dentro da revista, dando a você uma visão fantástica sobre o mundo das dificuldades de aprendizagem - dislexia, discalculia, disgrafia e dispraxia.",
+          "start": 1090,
+          "end": 1276
+        },
+        {
+          "name": "Consultar conselhos especializados sobre dificuldades de aprendizagem",
+          "description_of_capacity": "Consultar conselhos especializados sobre dificuldades de aprendizagem",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Conselhos de especialistas: informações baseadas em evidências de especialistas qualificados no campo de dificuldades de aprendizagem",
+          "start": 2137,
+          "end": 2270
+        },
+        {
+          "name": "Consultar avaliações de recursos para dificuldades de aprendizagem",
+          "description_of_capacity": "Consultar avaliações de recursos para dificuldades de aprendizagem",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Avaliações de produtos / serviços: avaliações imparciais e conselhos de pais de crianças com dificuldades de aprendizagem e especialistas",
+          "start": 2383,
+          "end": 2520
+        }
+      ],
+      "annotation_note": "Leitura de revista temática, sem inferir envio de histórias, consulta individual a profissionais ou eficácia terapêutica.",
+      "protected_source_row_sha256": "bd71ec3bba0ddd663f4e34dc5209896bcc9c2f7daa2f11a4625e7eb48980e83d",
+      "original_notes": "Itiro-P: Revista digital informativa, sem funcionalidades assistivas diretas no app."
+    },
+    {
+      "index": 13,
+      "appId": "de.kaasahealth.namagi",
+      "title": "Namagi - Deutsch meistern",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "19659e3f963f023d696a50bc024fb744def2e76d98834c2b5b335441bd0c791e",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Treinar leitura e ortografia",
+          "description_of_capacity": "Praticar leitura e ortografia em jogos adaptados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 226,
+          "evidence": "Incentivamos e treinamos precisamente as áreas em que seu filho ainda tem dificuldades (leitura, ortografia, ortografia combinada).",
+          "start": 664,
+          "end": 795
+        },
+        {
+          "name": "Detectar risco de dificuldades de leitura",
+          "description_of_capacity": "Realizar triagem de dificuldades de leitura e ortografia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 420,
+          "evidence": "o CODY-D 1-4 avalia de forma confiável o risco de dificuldades de leitura e ortografia em crianças do ensino fundamental",
+          "start": 1022,
+          "end": 1142
+        },
+        {
+          "name": "Gerar plano de treinamento individualizado",
+          "description_of_capacity": "Obter plano de treino individualizado pela avaliação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 128,
+          "evidence": "Os resultados levam a um plano de treinamento individualizado.",
+          "start": 1144,
+          "end": 1206
+        },
+        {
+          "name": "Ajustar dificuldade ao ritmo da criança",
+          "description_of_capacity": "Adaptar treino ao ritmo de aprendizagem",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 39,
+          "evidence": "o treinamento de alemão com o Mestre Cody se adapta 100% ao ritmo de aprendizagem do seu filho",
+          "start": 1962,
+          "end": 2056
+        },
+        {
+          "name": "Acompanhar progresso de aprendizagem para responsáveis",
+          "description_of_capacity": "Acompanhar progresso de aprendizagem para responsáveis",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "uma área dedicada aos pais mantêm você atualizado sobre o progresso de aprendizagem dele",
+          "start": 2492,
+          "end": 2580
+        }
+      ],
+      "annotation_note": "Triagem não equivale a diagnóstico. O acompanhamento está vinculado ao treino de leitura/ortografia; recompensa genérica não separada.",
+      "protected_source_row_sha256": "7986bdae363afc196009afe25a1fa303cc552346a89ed9dca4b76c4a82662a0a",
+      "original_notes": ""
+    },
+    {
+      "index": 14,
+      "appId": "net.smileandlearn.library",
+      "title": "Smile and Learn Educação",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "d0e6755e71de23431208df719efa2be50b65cebc46c0162ca3044cb50751e837",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Pictogramas em histórias",
+          "description_of_capacity": "Ler histórias com pictogramas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 173,
+          "evidence": "as histórias incluem pictogramas para apoiar a compreensão leitora e ajudar crianças com diferentes necessidades educacionais, como autismo, TDAH, síndrome de Down ou deficiência intelectual.",
+          "start": 2034,
+          "end": 2225
+        }
+      ],
+      "annotation_note": "App educacional geral: incluído o recurso com vínculo explícito à neurodivergência. Demais jogos, idiomas e configurações não são explicitamente adaptados a uma condição no texto.",
+      "protected_source_row_sha256": "6994bd8fa8366c53ef59b832517ef61dff97d6a62f81910d1b4a6043955ae462",
+      "original_notes": ""
+    },
+    {
+      "index": 15,
+      "appId": "org.changedyslexia.newdytective",
+      "title": "Dytective para la dislexia",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "0f2c79bae96630b96df1d64bdaa03c6e71791c3fff3095501dc50c8853bd0b7e",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar leitura e escrita com jogos personalizados",
+          "description_of_capacity": "Praticar leitura e escrita com jogos personalizados",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "42.000 jogos são personalizados com base em seus pontos fortes e fracos",
+          "start": 605,
+          "end": 676
+        },
+        {
+          "name": "Detectar risco de dificuldades de leitura",
+          "description_of_capacity": "Realizar triagem de dificuldades de leitura e escrita",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 420,
+          "evidence": "teste de triagem Dytective, que permite detectar em apenas 15 minutos se você corre o risco de desenvolver dificuldades de leitura e escrita",
+          "start": 1081,
+          "end": 1221
+        },
+        {
+          "name": "Gerar relatório para especialistas",
+          "description_of_capacity": "Gerar relatórios de exercícios de leitura e escrita",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 429,
+          "evidence": "personalização automática de exercícios e à geração automática de relatórios",
+          "start": 1880,
+          "end": 1956
+        }
+      ],
+      "annotation_note": "Triagem de risco, sem diagnóstico. Relatórios contextualizados no trabalho escolar/terapêutico de alfabetização.",
+      "protected_source_row_sha256": "9ceda707b7d0aa09ec25e34f4bca0e614db438db32c87e8f2eec974932288923",
+      "original_notes": ""
+    },
+    {
+      "index": 16,
+      "appId": "be.evotonomia",
+      "title": "Evotonomia",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2a653280b318ea12b906a87374296bd2597cf3317a1b4366d3390cac12f75983",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Dividir rotinas em etapas ilustradas",
+          "description_of_capacity": "Criar rotinas personalizadas divididas em etapas ilustradas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 664,
+          "evidence": "Dividir cada rotina em etapas e subetapas ilustradas.",
+          "start": 591,
+          "end": 644
+        },
+        {
+          "name": "Usar pictogramas categorizados",
+          "description_of_capacity": "Consultar pictogramas categorizados pelo código Fitzgerald",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 782,
+          "evidence": "Biblioteca exclusiva com mais de 250 pictogramas categorizados de acordo com o código Fitzgerald",
+          "start": 825,
+          "end": 921
+        },
+        {
+          "name": "Criar agenda com pictogramas",
+          "description_of_capacity": "Criar agenda semanal com pictogramas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1105,
+          "evidence": "Crie sua agenda semanal usando pictogramas.",
+          "start": 1093,
+          "end": 1136
+        },
+        {
+          "name": "Ajustar dificuldade, ordem, tempo e pictogramas das tarefas",
+          "description_of_capacity": "Ajustar dificuldade, ordem, tempo e pictogramas das tarefas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Ajuste cada missão: dificuldade, ordem rigorosa, cronômetro, pictograma",
+          "start": 1538,
+          "end": 1609
+        },
+        {
+          "name": "Gerenciar sistema de recompensas",
+          "description_of_capacity": "Configurar recompensas para realização de rotinas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1702,
+          "evidence": "Recompensas configuráveis",
+          "start": 1681,
+          "end": 1706
+        },
+        {
+          "name": "Praticar habilidades da vida diária",
+          "description_of_capacity": "Jogar atividades contextuais da vida diária",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1424,
+          "evidence": "Minijogos contextuais: data, estação do ano, clima, escolha de roupa, humor",
+          "start": 1753,
+          "end": 1828
+        },
+        {
+          "name": "Jogos de memória",
+          "description_of_capacity": "Jogar jogo da memória configurável",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 145,
+          "evidence": "Jogo da memória configurável",
+          "start": 1831,
+          "end": 1859
+        },
+        {
+          "name": "Criar agendas visuais imprimíveis",
+          "description_of_capacity": "Exportar programação visual semanal para impressão",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1111,
+          "evidence": "Exporte a programação semanal em PDF para impressão",
+          "start": 1911,
+          "end": 1962
+        },
+        {
+          "name": "Exportar dados para profissionais de saúde",
+          "description_of_capacity": "Exportar anotações do perfil da criança",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 7,
+          "evidence": "Exporte as anotações do perfil da criança",
+          "start": 1965,
+          "end": 2006
+        }
+      ],
+      "annotation_note": "Rotinas, jogos e registros contextualizados como apoio à autonomia de crianças neurodivergentes. Idiomas, armazenamento, senha e funcionamento offline não incluídos.",
+      "protected_source_row_sha256": "0355c6ff4da74a7a51adea5e31f2dd952f16875e87a259b6ca0f4803c5e931e7",
+      "original_notes": ""
+    },
+    {
+      "index": 17,
+      "appId": "com.hms.disleksi",
+      "title": "AUTO TRAIN BRAIN",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2984075202420b600d16daa2ae443fd0bfeb39136f793dd9749cd6e40edb47b1",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Realizar neurofeedback",
+          "description_of_capacity": "Realizar neurofeedback",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "pode realizar neurofeedback e aprendizagem multissensorial",
+          "start": 308,
+          "end": 366
+        },
+        {
+          "name": "Realizar aprendizagem multissensorial",
+          "description_of_capacity": "Realizar aprendizagem multissensorial",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "pode realizar neurofeedback e aprendizagem multissensorial",
+          "start": 308,
+          "end": 366
+        }
+      ],
+      "annotation_note": "Capacidades explicitamente anunciadas para dislexia; ganhos alegados não tratados como eficácia demonstrada.",
+      "protected_source_row_sha256": "09d89efef9ce3349ebe7bbe2df880a423c1337d1155831587f4b009f8a942633",
+      "original_notes": ""
+    },
+    {
+      "index": 18,
+      "appId": "com.imagiration.readingteacher",
+      "title": "ReadingBuddy: Read Aloud Books",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5e42faaa14847edaf7a3a605199a2862ecd6e44bd7e4c855234f87af692cefcf",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler livros de rotinas diárias adaptados a necessidades especiais",
+          "description_of_capacity": "Ler livros de rotinas diárias adaptados a necessidades especiais",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Crianças com necessidades especiais encontrarão uma variedade de livros de rimas que as preparam para as atividades diárias: Rotina de dormir, Modos no restaurante, Vestir-se, Playground e muito mais",
+          "start": 1005,
+          "end": 1204
+        }
+      ],
+      "annotation_note": "App de leitura geral. Incluído o conteúdo específico de preparação para rotinas; leitura em voz alta, velocidades e destaque são gerais no texto e não foram automaticamente estendidos a neurodivergência.",
+      "protected_source_row_sha256": "fafe7f11bceac407ceda41dfbb58360ffc5af65574acb7063e4a44b98f7bb2a1",
+      "original_notes": ""
+    },
+    {
+      "index": 19,
+      "appId": "com.plotkids.domlexia",
+      "title": "Aprender a Ler: Domlexia",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "a95bbbd1985db39693bcafa9264d0c67595611aa7bd021817c32ba04562678fb",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Treinar relação letras e sons",
+          "description_of_capacity": "Associar sons e letras em jogos de alfabetização",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 232,
+          "evidence": "Ele ouve o som, escolhe a letra e aprende a ler.",
+          "start": 1654,
+          "end": 1702
+        },
+        {
+          "name": "Sessões curtas de alfabetização",
+          "description_of_capacity": "Praticar alfabetização em sessões curtas para TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 217,
+          "evidence": "Com TDAH, as sessões curtas de leiturinha ajudam.",
+          "start": 1006,
+          "end": 1055
+        },
+        {
+          "name": "Consultar relatório de dificuldades na leitura",
+          "description_of_capacity": "Consultar relatório de dificuldades na leitura",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "o relatório premium mostra onde ele tropeça ao ler",
+          "start": 570,
+          "end": 620
+        }
+      ],
+      "annotation_note": "Fonética no contexto explícito de dislexia. Sessões curtas são recurso mencionado para TDAH; preço premium excluído da anotação.",
+      "protected_source_row_sha256": "fa3a2e4d5ed20bc78818d79a5d8d3a03492bb97da88cc3a2f16d6d005104fe55",
+      "original_notes": ""
+    },
+    {
+      "index": 20,
+      "appId": "com.poppins.poppinslearning",
+      "title": "Poppins Learning: Dyslexia",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "ab7dce36b761ca71f2019049bacb3bbe00e9b0c61b43a508b5587bca3db09a84",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar consciência fonológica",
+          "description_of_capacity": "Praticar consciência fonológica com jogos rítmicos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 177,
+          "evidence": "Jogos rítmicos desenvolvem a consciência fonológica e a decodificação",
+          "start": 922,
+          "end": 991
+        },
+        {
+          "name": "Treinar relação letras e sons",
+          "description_of_capacity": "Praticar relação entre letras e sons e leitura de palavras",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 232,
+          "evidence": "Jogos de linguagem escrita fortalecem o conhecimento da relação entre letras e sons e a leitura de palavras",
+          "start": 1015,
+          "end": 1122
+        }
+      ],
+      "annotation_note": "Capacidades de alfabetização para dislexia; prática diária e limite de tela não duplicados como funcionalidades autônomas.",
+      "protected_source_row_sha256": "c44ac90e41014b65d2d91eecd68450114d5946cce36baf18b7ae3b911545992d",
+      "original_notes": ""
+    },
+    {
+      "index": 21,
+      "appId": "com.spencerlearning.ultimatephonics",
+      "title": "Ultimate Phonics Reading App",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "46fe4745f9aae536b64d647eaa8a74177d2118cbef5e285ef4e57ccf83cbfa06",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar fonética e decodificação",
+          "description_of_capacity": "Praticar leitura por decodificação fonética",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 184,
+          "evidence": "Tem listas de palavras e frases excelentes decodificáveis, tudo quebrado e soou.",
+          "start": 1472,
+          "end": 1552
+        },
+        {
+          "name": "Buscar lições por fonogramas",
+          "description_of_capacity": "Buscar lições por fonogramas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "um recurso Localizar que lhe permite olhar para cima lições correspondentes aos fonogramas",
+          "start": 1577,
+          "end": 1667
+        }
+      ],
+      "annotation_note": "Vínculo explícito a dislexia e Orton-Gillingham. Listas de leitura e busca fonética são capacidades; eficácia alegada não é resultado validado.",
+      "protected_source_row_sha256": "74a183b685ce35ec32e5d595b88e1d622431ca98b955b0b77cabab8e7949a94f",
+      "original_notes": ""
+    },
+    {
+      "index": 22,
+      "appId": "app.replit.reviseuk",
+      "title": "Revise Right",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "879b4aaf12351f3ebfbd06e2bcbf2ce60ca71025517398166d34bfbeaddc27c2",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Modo para dislexia",
+          "description_of_capacity": "Usar modo de leitura para dislexia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 723,
+          "evidence": "Modo para dislexia para melhor legibilidade",
+          "start": 995,
+          "end": 1038
+        },
+        {
+          "name": "Reproduzir audio de conteudo",
+          "description_of_capacity": "Ouvir conteúdo de revisão por áudio",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 753,
+          "evidence": "Suporte de áudio para alunos com necessidades visuais ou de leitura",
+          "start": 1040,
+          "end": 1107
+        }
+      ],
+      "annotation_note": "Incluídos somente recursos assistivos específicos; simulados, bancos de questões e previsão de notas são gerais.",
+      "protected_source_row_sha256": "10df895d99ba2b33c933e323a21b78fe541a4be022dc62abd39676a195ca0e36",
+      "original_notes": ""
+    },
+    {
+      "index": 23,
+      "appId": "com.edsistive.rawaan",
+      "title": "Rawaan : Dyslexia-Urdu Remedy",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "4fe4e3cf37f8a9abda9d315e2da8a9bbb91769aed3cb0876f759849e9a8200b7",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar leitura, escrita e linguagem em urdu por jogos",
+          "description_of_capacity": "Praticar leitura, escrita e linguagem em urdu por jogos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Rawaan oferece uma experiência de jogo envolvente que ajuda a melhorar as habilidades de leitura, escrita e linguagem.",
+          "start": 171,
+          "end": 289
+        },
+        {
+          "name": "Ajustar dificuldade conforme desempenho",
+          "description_of_capacity": "Adaptar dificuldade do treino de alfabetização em tempo real",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 40,
+          "evidence": "Com adaptação em tempo real, Rawaan apresenta um ambiente cada vez mais desafiador",
+          "start": 290,
+          "end": 372
+        }
+      ],
+      "annotation_note": "Contexto de dislexia explicitado. Não inferido mecanismo terapêutico nem eficácia a partir de marketing.",
+      "protected_source_row_sha256": "ca2f5793cc7d69fa5e8194b420dbd7eb23d1f18a81fa19587fd3c8f93148b3c4",
+      "original_notes": ""
+    },
+    {
+      "index": 24,
+      "appId": "com.gingersoftware.writer",
+      "title": "Ginger Writer, Grammar Speller",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "b5f41ceab8129a4dece9c50af67b3fa6d20dbd781eb8d5e524f77c5bd1bc8a74",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Corrigir gramática, ortografia, pontuação e sintaxe",
+          "description_of_capacity": "Corrigir gramática, ortografia, pontuação e sintaxe",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Ginger corrige todos os tipos de erros, de gramática e ortografia a pontuação e sintaxe",
+          "start": 135,
+          "end": 222
+        },
+        {
+          "name": "Reformular frases",
+          "description_of_capacity": "Reformular frases",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Deixe a magia da IA ​​de Ginger sugerir alternativas inspiradoras para transmitir sua mensagem",
+          "start": 949,
+          "end": 1043
+        },
+        {
+          "name": "Converter texto em fala",
+          "description_of_capacity": "Ouvir texto por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 631,
+          "evidence": "Leitor de texto - texto de voz humana em fala.",
+          "start": 1567,
+          "end": 1613
+        }
+      ],
+      "annotation_note": "Dislexia consta expressamente entre os públicos. Incluídas capacidades centrais assistivas de escrita/leitura; tradução, compartilhamento e dicionário pessoal gerais excluídos. Caso de fronteira para adjudicação de público múltiplo.",
+      "protected_source_row_sha256": "45327a860ab1a1d666c9c308b4ae26518d9dc3022251f6217e8f0460b13602d9",
+      "original_notes": ""
+    },
+    {
+      "index": 25,
+      "appId": "com.levinlabs.cadenceApp",
+      "title": "Cedar: Read Aloud Books & PDFs",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "087f73cea0eced05f309b0838d78e41eaddff50fd827fae12216a045d53ce676",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler documentos em voz alta",
+          "description_of_capacity": "Ouvir documentos e páginas da web por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 719,
+          "evidence": "O Cedar lê qualquer coisa em voz alta com uma voz natural — PDFs, ebooks, artigos, até mesmo uma página que você fotografa",
+          "start": 0,
+          "end": 122
+        },
+        {
+          "name": "Destacar texto sincronizado com leitura em voz alta",
+          "description_of_capacity": "Destacar palavras sincronizadas com a fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 89,
+          "evidence": "Destaque palavra por palavra que acompanha a voz exatamente",
+          "start": 1094,
+          "end": 1153
+        },
+        {
+          "name": "Fotografar texto para leitura em voz alta",
+          "description_of_capacity": "Fotografar texto para leitura em voz alta",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Páginas impressas — fotografe uma página e ouça a leitura",
+          "start": 632,
+          "end": 689
+        },
+        {
+          "name": "Ajustar velocidade da leitura",
+          "description_of_capacity": "Ajustar velocidade da leitura em voz alta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 798,
+          "evidence": "Marcadores, velocidade ajustável e temporizador",
+          "start": 1438,
+          "end": 1485
+        }
+      ],
+      "annotation_note": "Assistência de leitura vinculada expressamente a dislexia/TDAH no texto; organização da biblioteca e temas genéricos excluídos.",
+      "protected_source_row_sha256": "5029be9a6dc6cd3599e89f5f1555519e06ab5d2f6e7401d1c88bf9984e54472a",
+      "original_notes": ""
+    },
+    {
+      "index": 26,
+      "appId": "com.liba.voicetext",
+      "title": "ListenAI: Texto para Áudio Ler",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "f7e7abfc2e5f796dc58f0d5040084e4fa0c3b33d794af3c952743fe09d749248",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler documentos em voz alta",
+          "description_of_capacity": "Ouvir documentos e páginas da web por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 719,
+          "evidence": "Seu conversor de PDF para áudio completo. Ouça sem esforço:",
+          "start": 944,
+          "end": 1003
+        },
+        {
+          "name": "Fotografar texto para leitura em voz alta",
+          "description_of_capacity": "Fotografar texto para leitura em voz alta",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Use la câmera OCR para escanear livros físicos.",
+          "start": 1344,
+          "end": 1391
+        },
+        {
+          "name": "Destacar texto durante leitura",
+          "description_of_capacity": "Destacar texto durante a leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 802,
+          "evidence": "Com realce de texto e velocidades ajustáveis, oferece auxílio essencial para baixa visão e dificuldades de aprendizado.",
+          "start": 1810,
+          "end": 1929
+        },
+        {
+          "name": "Ajustar velocidade da leitura",
+          "description_of_capacity": "Ajustar velocidade de leitura em voz alta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 798,
+          "evidence": "Com realce de texto e velocidades ajustáveis, oferece auxílio essencial para baixa visão e dificuldades de aprendizado.",
+          "start": 1810,
+          "end": 1929
+        }
+      ],
+      "annotation_note": "O texto anuncia assistente dedicado à dislexia. Podcasts, ditado para reuniões, exportação MP3 e offline descritos para uso geral não incluídos.",
+      "protected_source_row_sha256": "d7037fbc189832cb564d364cef8518b024372c2f6ff87e73ad7e64df2652593d",
+      "original_notes": ""
+    },
+    {
+      "index": 27,
+      "appId": "com.paper2audio.paper2audio",
+      "title": "Paper2Audio - Text to Speech",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1bf5c0ebf0e43689d12f643ac0b093a31f3f09f77d1c8b2a36a13e06de419b75",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler documentos em voz alta",
+          "description_of_capacity": "Ouvir documentos por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 719,
+          "evidence": "inclusive para pessoas com deficiência visual ou dificuldades de aprendizagem como dislexia ou TDAH",
+          "start": 1161,
+          "end": 1260
+        },
+        {
+          "name": "Resumir elementos visuais durante leitura em voz alta",
+          "description_of_capacity": "Resumir elementos visuais durante leitura em voz alta",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Resume equações, códigos, tabelas e figuras em linguagem simples",
+          "start": 1324,
+          "end": 1388
+        },
+        {
+          "name": "Omitir elementos desnecessários na leitura em voz alta",
+          "description_of_capacity": "Omitir elementos desnecessários na leitura em voz alta",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Nosso leitor de texto ignora a informação irrelevante e se concentra apenas no conteúdo importante",
+          "start": 1569,
+          "end": 1667
+        },
+        {
+          "name": "Destacar texto sincronizado com leitura em voz alta",
+          "description_of_capacity": "Destacar palavras sincronizadas com áudio",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 89,
+          "evidence": "destaque de palavras em sincronia com o áudio",
+          "start": 1871,
+          "end": 1916
+        },
+        {
+          "name": "Ajustar velocidade da leitura",
+          "description_of_capacity": "Ajustar velocidade da leitura em voz alta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 798,
+          "evidence": "controle de velocidade de reprodução de 0,5x a 4,0x",
+          "start": 2370,
+          "end": 2421
+        },
+        {
+          "name": "Usar fontes adequadas para disléxicos",
+          "description_of_capacity": "Usar fontes para dislexia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 775,
+          "evidence": "fontes adequadas para disléxicos",
+          "start": 2690,
+          "end": 2722
+        },
+        {
+          "name": "Usar leitores de tela",
+          "description_of_capacity": "Usar leitores de tela",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Compatível com leitores de tela",
+          "start": 2656,
+          "end": 2687
+        }
+      ],
+      "annotation_note": "Capacidades centrais da leitura assistida, explicitamente destinada também a dislexia/TDAH. Anotações, sumário e exportação gerais não incluídos.",
+      "protected_source_row_sha256": "2403ad41b6aa23c526b9ec1ffbbdb8ad924e1c77296363d4bc16bcc726ebda21",
+      "original_notes": ""
+    },
+    {
+      "index": 28,
+      "appId": "com.scaleup.listenx",
+      "title": "ListenMe - Texto em Voz",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5cc3729c8ee4a28e4e8c115ab1b320da53febdb167c65e8e4a620649ada126b5",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler documentos em voz alta",
+          "description_of_capacity": "Ouvir textos e documentos por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 719,
+          "evidence": "Texto em Fala (TTS) – Transforme qualquer texto em áudio claro e natural.",
+          "start": 1054,
+          "end": 1127
+        },
+        {
+          "name": "Importar ou digitalizar conteúdo para leitura em voz alta",
+          "description_of_capacity": "Importar ou digitalizar conteúdo para leitura em voz alta",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Adicione conteúdo digitando, enviando arquivos (PDF, DOC, TXT), escaneando documentos ou compartilhando links.",
+          "start": 1158,
+          "end": 1268
+        },
+        {
+          "name": "Ajustar velocidade da leitura",
+          "description_of_capacity": "Ajustar velocidade da leitura em voz alta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 798,
+          "evidence": "Controle de velocidade – Reduza ou aumente a velocidade do áudio conforme seu ritmo.",
+          "start": 1271,
+          "end": 1355
+        }
+      ],
+      "annotation_note": "A leitura por áudio está explicitamente vinculada ao apoio a dislexia/TDAH. Funcionar offline e exportar MP3 são conveniências gerais.",
+      "protected_source_row_sha256": "f339c15231c4fdc33d544be2a42225cd49849509ac57d40d67cf6df52e7367f8",
+      "original_notes": ""
+    },
+    {
+      "index": 29,
+      "appId": "com.wordsmart.wordsmart",
+      "title": "WordSmart Kids",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2b5fd4e55b13d544d05e196387f10c3efc2c0da2880a942f3e82136cdb622230",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar alfabetização multissensorial",
+          "description_of_capacity": "Praticar alfabetização multissensorial",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Tarefas divertidas de alfabetização usando som, visão e tato.",
+          "start": 618,
+          "end": 679
+        },
+        {
+          "name": "Treinar relação letras e sons",
+          "description_of_capacity": "Praticar relações entre fonemas e letras",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 232,
+          "evidence": "CVC e palavras visuais, rastreamento de letras para auxiliar na correspondência entre forma e som.",
+          "start": 818,
+          "end": 916
+        },
+        {
+          "name": "Aprender leitura e ortografia",
+          "description_of_capacity": "Praticar ortografia e rimas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 56,
+          "evidence": "Vogais longas e curtas, dísticos rimados, atividades de ortografia.",
+          "start": 919,
+          "end": 986
+        },
+        {
+          "name": "Praticar atenção plena",
+          "description_of_capacity": "Praticar atenção plena para controle de impulsos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1778,
+          "evidence": "Atividades de atenção plena para ajudar a preparar o cérebro e auxiliar no controle dos impulsos.",
+          "start": 989,
+          "end": 1086
+        },
+        {
+          "name": "Realizar avaliação antes e depois do treino de alfabetização",
+          "description_of_capacity": "Realizar avaliação antes e depois do treino de alfabetização",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Feedback do Processo, pré e pós-teste.",
+          "start": 1182,
+          "end": 1220
+        }
+      ],
+      "annotation_note": "Público com dificuldades de aprendizagem/dislexia explícito. Personalização sem mecanismo descrito, avatares e compartilhamento gerais não separados.",
+      "protected_source_row_sha256": "92287a7ae35158b0337584b76b6e502145ca00f657c062bd484f3df461e87473",
+      "original_notes": ""
+    },
+    {
+      "index": 30,
+      "appId": "de.whysoseriousgames.prosodiya",
+      "title": "Prosodiya - Lesen u. Schreiben",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2049a3cfced4e0ac92770deb486f1cf21cf081db6e7e1e0c61b8ecd312121388",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Dividir palavras em sílabas",
+          "description_of_capacity": "Dividir palavras em sílabas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 93,
+          "evidence": "Você pratica a divisão de palavras individuais em sílabas",
+          "start": 230,
+          "end": 287
+        },
+        {
+          "name": "Reconhecer sílaba tônica nas palavras",
+          "description_of_capacity": "Reconhecer sílaba tônica nas palavras",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "o reconhecimento da sílaba tônica",
+          "start": 290,
+          "end": 323
+        },
+        {
+          "name": "Praticar regras ortográficas associadas ao ritmo da fala",
+          "description_of_capacity": "Praticar regras ortográficas associadas ao ritmo da fala",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Eles então aprendem como conectar esses recursos rítmicos linguísticos com regras ortográficas.",
+          "start": 325,
+          "end": 420
+        },
+        {
+          "name": "Ajustar dificuldade conforme desempenho",
+          "description_of_capacity": "Adaptar treino ao desempenho individual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 40,
+          "evidence": "Ajuste contínuo ao nível de desempenho individual de cada criança",
+          "start": 1347,
+          "end": 1412
+        }
+      ],
+      "annotation_note": "Capacidades para dificuldades de leitura e ortografia; metas e justificativa de pesquisa não tratadas como funções adicionais.",
+      "protected_source_row_sha256": "a8f92cbc1b1810bf6e8d61f51ad690da8b83655600ab3c6b1a8e3767e160efbe",
+      "original_notes": ""
+    },
+    {
+      "index": 31,
+      "appId": "voicedream.reader",
+      "title": "Legere Reader",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "b0933f4590ae6a878ed755a5ca28a6f927cdaa187d03925b76460cc53e02f7c4",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler documentos em voz alta",
+          "description_of_capacity": "Ouvir documentos por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 719,
+          "evidence": "Com conversão de texto em fala avançada",
+          "start": 88,
+          "end": 127
+        },
+        {
+          "name": "Destacar texto sincronizado com leitura em voz alta",
+          "description_of_capacity": "Destacar palavras e linhas sincronizadas com áudio",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 89,
+          "evidence": "Destaque sincronizado de palavras e linhas",
+          "start": 1418,
+          "end": 1460
+        },
+        {
+          "name": "Selecionar voz e ajustar velocidade de leitura",
+          "description_of_capacity": "Selecionar voz e ajustar velocidade de leitura",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Altera a voz e a velocidade de leitura (50-700 palavras por minuto) em tempo real",
+          "start": 1174,
+          "end": 1255
+        },
+        {
+          "name": "Reduzir área de texto e usar rolagem automática para foco",
+          "description_of_capacity": "Reduzir área de texto e usar rolagem automática para foco",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Melhore o foco com área de texto reduzida e rolagem automática",
+          "start": 1464,
+          "end": 1526
+        },
+        {
+          "name": "Alterar fonte para OpenDyslexia",
+          "description_of_capacity": "Usar fonte OpenDyslexia e ajustar espaçamento da leitura",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 548,
+          "evidence": "Fonte personalizável, incluindo fonte OpenDyslexia",
+          "start": 1530,
+          "end": 1580
+        }
+      ],
+      "annotation_note": "Leitura sincronizada explicitamente vinculada à dislexia. Pastas, nuvens, compra de vozes e exportação gerais não incluídas; restrição do destaque com vozes integradas preservada como limitação da descrição.",
+      "protected_source_row_sha256": "17dbb6f6fe66443727f78aeaebd94d1cb711222e9cea15c202e618d429171517",
+      "original_notes": ""
+    },
+    {
+      "index": 32,
+      "appId": "app.oneflow",
+      "title": "Procrastinação OneFlow: Ação",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "d176e4bfd85e8f4b4ec8ce488790baa1a14ceac016713f6b38f15c97f60bfe55",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Exibir uma tarefa por vez",
+          "description_of_capacity": "Executar rotina mostrando uma tarefa por vez",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 285,
+          "evidence": "Abra o app e veja apenas uma coisa: a tarefa que precisa ser feita agora.",
+          "start": 269,
+          "end": 342
+        },
+        {
+          "name": "Avançar automaticamente etapas com temporizador",
+          "description_of_capacity": "Avançar automaticamente etapas com temporizador",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "O timer comeca. Os passos avancam automaticamente.",
+          "start": 482,
+          "end": 532
+        },
+        {
+          "name": "Gerar cronograma via IA",
+          "description_of_capacity": "Gerar cronograma e durações de tarefas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1295,
+          "evidence": "A IA atribui horarios e duracoes, organizando tudo em uma ordem executavel.",
+          "start": 914,
+          "end": 989
+        },
+        {
+          "name": "Criar rotinas recorrentes",
+          "description_of_capacity": "Repetir rotinas diárias em ordem fixa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1142,
+          "evidence": "Defina o que voce faz de manha e a noite, trave a ordem.",
+          "start": 1114,
+          "end": 1170
+        },
+        {
+          "name": "Usar temporizador de foco",
+          "description_of_capacity": "Usar temporizador de concentração",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1530,
+          "evidence": "Timer de concentracao / Modo foco",
+          "start": 1553,
+          "end": 1586
+        },
+        {
+          "name": "Receber guia por voz para rotinas",
+          "description_of_capacity": "Receber guia por voz para rotinas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Guia por voz",
+          "start": 1617,
+          "end": 1629
+        }
+      ],
+      "annotation_note": "Capacidades centrais para dificuldade de iniciar tarefas; TDAH é público explícito. Widgets, calendário e lembretes genéricos não incluídos.",
+      "protected_source_row_sha256": "ee3f9d4c836a01fd5692a6460c08a8f6884cd87489b0102c3f3d566654dba211",
+      "original_notes": ""
+    },
+    {
+      "index": 33,
+      "appId": "com.achulkov.mindvortex",
+      "title": "Agenda TDAH: Mind Vortex",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "07ac4e77c44caec2d45e9ce6221c57a6bcff707c1fe439dadb73df1573fd50d1",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Organizar anotações em tarefas",
+          "description_of_capacity": "Converter ideias e anotações em tarefas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1384,
+          "evidence": "Transforme-os em tarefas e escolha as 3 prioridades de hoje.",
+          "start": 181,
+          "end": 241
+        },
+        {
+          "name": "Definir prioridades diárias máximas",
+          "description_of_capacity": "Priorizar tarefas do dia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1167,
+          "evidence": "escolha as 3 prioridades de hoje",
+          "start": 208,
+          "end": 240
+        },
+        {
+          "name": "Usar timer Pomodoro",
+          "description_of_capacity": "Usar temporizador Pomodoro com pausas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1532,
+          "evidence": "Concentre-se em uma tarefa com sessões de 15 a 50 minutos. Os avisos de pausa ajudam você a descansar",
+          "start": 243,
+          "end": 344
+        },
+        {
+          "name": "Configurar rotinas diárias",
+          "description_of_capacity": "Criar e ajustar rotinas diárias por etapa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1090,
+          "evidence": "Crie rotinas diárias, acompanhe sua constância e veja quanto tempo leva cada etapa.",
+          "start": 383,
+          "end": 466
+        },
+        {
+          "name": "Registrar pensamentos e lições",
+          "description_of_capacity": "Registrar pensamentos em diário",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 893,
+          "evidence": "Registre ideias, pensamentos e lembretes.",
+          "start": 139,
+          "end": 180
+        }
+      ],
+      "annotation_note": "Agenda explicitamente pensada também para TDAH. Sincronização, tema e histórico genérico excluídos.",
+      "protected_source_row_sha256": "27d5e018d353c8e67dcc5ed8186469c6a16bf604b9ca90e182558e280b09a5d0",
+      "original_notes": ""
+    },
+    {
+      "index": 34,
+      "appId": "com.activitylogger.release1",
+      "title": "ADHD Journal",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "0bf19098ac9bc913e41e6583223434a172b0c3330da7c0fcc8882106bdb2d430",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Registrar sintomas e humor",
+          "description_of_capacity": "Rastrear sintomas de TDAH e estados emocionais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 483,
+          "evidence": "Ele permite rastrear sintomas de TDAH, estados emocionais, classificação de eventos e taxas de sucesso/falha em um só lugar.",
+          "start": 183,
+          "end": 307
+        },
+        {
+          "name": "Registrar eventos de comportamento",
+          "description_of_capacity": "Registrar eventos e pensamentos relacionados ao TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 471,
+          "evidence": "Você pode registrar eventos, pensamentos, como se sente sobre eles, quaisquer lições aprendidas, planos, eventos relacionados ao TDAH e muito mais.",
+          "start": 308,
+          "end": 455
+        }
+      ],
+      "annotation_note": "Não inferida comunicação com terapeuta: texto só diz que o diário pode ser útil nas sessões. Senha genérica excluída.",
+      "protected_source_row_sha256": "72df3fe8dc5037e5850c14b44f9dcafec0e2a3674cb8e6ca6078468549392d12",
+      "original_notes": ""
+    },
+    {
+      "index": 35,
+      "appId": "com.adhd.planner.taches.tasks.routine.easy",
+      "title": "ADHD Planner - Routine & Tasks",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "ba0e4fdb61aead256b867fd5e5b06fff7df0d4d2eb3486a1a34eb7a109b272d6",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Dividir tarefas complexas em etapas",
+          "description_of_capacity": "Dividir tarefas complexas em etapas de rotinas visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1199,
+          "evidence": "Divida tarefas complexas em etapas gerenciáveis",
+          "start": 766,
+          "end": 813
+        },
+        {
+          "name": "Iniciar rotina com meditação guiada",
+          "description_of_capacity": "Iniciar rotina com meditação guiada curta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1723,
+          "evidence": "meditação de boas-vindas de 15 segundos",
+          "start": 1032,
+          "end": 1071
+        },
+        {
+          "name": "Registrar nível de energia",
+          "description_of_capacity": "Registrar energia para ajustar carga de trabalho",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 476,
+          "evidence": "Registre seus níveis de energia regularmente para identificar padrões e ajustar sua carga de trabalho",
+          "start": 1263,
+          "end": 1364
+        },
+        {
+          "name": "Ativar modo sem distrações",
+          "description_of_capacity": "Executar rotina em modo visual sem distrações",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1623,
+          "evidence": "Ative o modo de tela cheia ao trabalhar em rotinas ativas.",
+          "start": 1399,
+          "end": 1457
+        }
+      ],
+      "annotation_note": "Rotinas visuais e redução de carga cognitiva explicitamente para TDAH/disfunção executiva. Painel de conquistas genérico excluído.",
+      "protected_source_row_sha256": "fd16c893b3ca70022ff8e5559bd6f4955177e28baec60a8ac5271f824e76d9a0",
+      "original_notes": ""
+    },
+    {
+      "index": 36,
+      "appId": "com.appsfy.neuroboost",
+      "title": "NeuroSpark - ADHD Brain Breaks",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "66adbe20a920e8a9a9a4656aaf61783faf8484836444ef5815b6674ab9cd6814",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar movimentos transversais",
+          "description_of_capacity": "Praticar movimentos transversais guiados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1784,
+          "evidence": "Movimentos transversais",
+          "start": 555,
+          "end": 578
+        },
+        {
+          "name": "Treino de atenção ocular",
+          "description_of_capacity": "Praticar rastreamento ocular e sacadas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 382,
+          "evidence": "Rastreamento ocular e sacadas",
+          "start": 635,
+          "end": 664
+        },
+        {
+          "name": "Praticar fluxo de leitura rápido",
+          "description_of_capacity": "Praticar leitura rápida para reduzir distrações",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 337,
+          "evidence": "Fluxo de leitura rápido para reduzir distrações",
+          "start": 695,
+          "end": 742
+        },
+        {
+          "name": "Praticar padrões com os dedos para memória de trabalho",
+          "description_of_capacity": "Praticar padrões com os dedos para memória de trabalho",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Tapeçaria com os dedos e padrões para memória de trabalho",
+          "start": 743,
+          "end": 800
+        },
+        {
+          "name": "Praticar respiração quadrada",
+          "description_of_capacity": "Praticar respiração quadrada",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Respiração em caixa",
+          "start": 801,
+          "end": 820
+        },
+        {
+          "name": "Praticar técnicas de relaxamento",
+          "description_of_capacity": "Praticar relaxamento muscular",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1790,
+          "evidence": "relaxamento muscular para acalmar",
+          "start": 823,
+          "end": 856
+        },
+        {
+          "name": "Criar planos personalizados",
+          "description_of_capacity": "Obter plano de exercícios personalizado",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1131,
+          "evidence": "Plano pessoal: criado automaticamente a partir dos seus objetivos",
+          "start": 941,
+          "end": 1006
+        }
+      ],
+      "annotation_note": "Microssessões explicitamente projetadas para TDAH. Não endossada a alegação de sincronização entre hemisférios; anota-se o movimento anunciado. Estatísticas e lembretes gerais excluídos.",
+      "protected_source_row_sha256": "6d7dc0af3aa61e1291370a98771f147162006e89705a9f8c31cca40dd6078bb1",
+      "original_notes": ""
+    },
+    {
+      "index": 37,
+      "appId": "com.christianbraglia.bluemonkey",
+      "title": "BlueMonkey: ADHD AI Planner",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "234ce9e5fa8de58cef32f1e6147f3a8af9db421a3103d7674833a59d64aef3e4",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Bloquear aplicativos que distraem",
+          "description_of_capacity": "Bloquear aplicativos e limitar tempo de redes sociais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1045,
+          "evidence": "Bloqueie os aplicativos que consomem seu dia. Defina um limite de tempo de tela para redes sociais",
+          "start": 541,
+          "end": 639
+        },
+        {
+          "name": "Cronômetro pomodoro adaptado",
+          "description_of_capacity": "Usar temporizador Pomodoro visual para TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 275,
+          "evidence": "Um cronômetro Pomodoro visual feito para cérebros com TDAH que precisam ver o tempo passar.",
+          "start": 868,
+          "end": 959
+        },
+        {
+          "name": "Dividir tarefa em microetapas com IA",
+          "description_of_capacity": "Dividir tarefas complexas em microetapas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1195,
+          "evidence": "Cole qualquer tarefa complexa e obtenha de 4 a 6 microetapas em segundos.",
+          "start": 1117,
+          "end": 1190
+        },
+        {
+          "name": "Definir prioridade de tarefas",
+          "description_of_capacity": "Priorizar tarefas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1165,
+          "evidence": "Três níveis de prioridade: Alta, Média e Baixa",
+          "start": 1398,
+          "end": 1444
+        },
+        {
+          "name": "Converter pensamentos em tarefas",
+          "description_of_capacity": "Converter pensamentos em tarefas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1104,
+          "evidence": "o Blue organiza a bagunça em tarefas para você",
+          "start": 1710,
+          "end": 1756
+        },
+        {
+          "name": "Configurar rotinas diárias",
+          "description_of_capacity": "Criar rotinas diárias com cronogramas personalizados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1090,
+          "evidence": "Crie rotinas matinais, vespertinas e noturnas com cronogramas diários personalizados.",
+          "start": 1777,
+          "end": 1862
+        },
+        {
+          "name": "Reproduzir sons para foco",
+          "description_of_capacity": "Ouvir música para foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 360,
+          "evidence": "música para foco",
+          "start": 2180,
+          "end": 2196
+        }
+      ],
+      "annotation_note": "Recursos centrais para procrastinação, cegueira temporal e disfunção executiva explicitados. Conquistas, sequência e análises genéricas excluídas; funções Pro disponíveis por assinatura são atuais, não futuras.",
+      "protected_source_row_sha256": "9839728df25806aef4376a90ad60170782de8e642c77695ac08606330933e011",
+      "original_notes": ""
+    },
+    {
+      "index": 38,
+      "appId": "com.dopahop.android",
+      "title": "DopaHop: ADHD tasks & focus",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "56a92499f06ad941b40a132e2b27f822a45b58dffd5a3f03108be5ca12047818",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Usar cronômetro visual de foco",
+          "description_of_capacity": "Usar temporizador visual de foco com uma tarefa por vez",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 388,
+          "evidence": "O Hop seleciona uma tarefa por vez para que você não precise decidir duas vezes.",
+          "start": 470,
+          "end": 550
+        },
+        {
+          "name": "Organizar tarefas por cômodo com temporizadores",
+          "description_of_capacity": "Organizar tarefas por cômodo com temporizadores",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Tarefas curtas por cômodo com temporizadores.",
+          "start": 607,
+          "end": 652
+        },
+        {
+          "name": "Converter notas em listas de tarefas",
+          "description_of_capacity": "Converter pensamentos em listas de tarefas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1103,
+          "evidence": "Converta em lista de tarefas ou de compras com um único deslize.",
+          "start": 959,
+          "end": 1023
+        },
+        {
+          "name": "Acompanhar humor e energia diários",
+          "description_of_capacity": "Registrar humor e energia diariamente",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1597,
+          "evidence": "Check-in diário de 10 segundos (humor + energia + etiquetas).",
+          "start": 1057,
+          "end": 1118
+        },
+        {
+          "name": "Executar rotina passo a passo com timer",
+          "description_of_capacity": "Executar rotinas guiadas com cronômetro visual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1251,
+          "evidence": "Corredor passo a passo com pausa e cronômetro visual.",
+          "start": 1268,
+          "end": 1321
+        },
+        {
+          "name": "Lembrete de medicação",
+          "description_of_capacity": "Receber lembretes de medicamentos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1931,
+          "evidence": "Lembrete de Medicamentos",
+          "start": 1355,
+          "end": 1379
+        },
+        {
+          "name": "Registrar medicamentos",
+          "description_of_capacity": "Registrar tomadas e histórico de doses",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1962,
+          "evidence": "Agendamentos de repetição, histórico de doses",
+          "start": 1435,
+          "end": 1480
+        },
+        {
+          "name": "Rastrear frequência de tarefas esquecidas",
+          "description_of_capacity": "Consultar quando realizou tarefas esquecidas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 449,
+          "evidence": "Rastreadores de \"Quando foi a última vez que fiz isso?\" para tarefas que você esquece",
+          "start": 1601,
+          "end": 1686
+        },
+        {
+          "name": "Dividir tarefas em pequenas etapas",
+          "description_of_capacity": "Dividir tarefas em pequenas etapas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1215,
+          "evidence": "Divida em 3 a 5 pequenas etapas concretas.",
+          "start": 1809,
+          "end": 1851
+        },
+        {
+          "name": "Reproduzir sons para foco",
+          "description_of_capacity": "Ouvir sons para foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 360,
+          "evidence": "14 Sons para Foco",
+          "start": 1916,
+          "end": 1933
+        },
+        {
+          "name": "Praticar respiração quadrada",
+          "description_of_capacity": "Praticar respiração quadrada",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Se sentindo sobrecarregado? Uma respiração quadrada 4-4-4-4",
+          "start": 2128,
+          "end": 2187
+        }
+      ],
+      "annotation_note": "Capacidades contextualizadas no apoio ao TDAH. Medicamentos: apenas lembrete/registro, sem orientação de dose. Biometria, temas, exportação, anúncios e mascote excluídos.",
+      "protected_source_row_sha256": "619e3d86c4510ca84fafaa48bfb655b783e54e3da8d7aa141f9a2bf720d87910",
+      "original_notes": ""
+    },
+    {
+      "index": 39,
+      "appId": "com.dottedcircle.bulletjournal",
+      "title": "OrganizeMe: ADHD BulletJournal",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2246e72732d62948933cef6a719f51d3ebe522a79e08ba312426214ebcea9de9",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Dividir metas em etapas via IA",
+          "description_of_capacity": "Dividir objetivos em etapas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1183,
+          "evidence": "ele dividirá instantaneamente as tarefas em etapas gerenciáveis",
+          "start": 987,
+          "end": 1050
+        },
+        {
+          "name": "Priorizar tarefas automaticamente",
+          "description_of_capacity": "Priorizar tarefas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1432,
+          "evidence": "Ele as prioriza de forma inteligente",
+          "start": 1224,
+          "end": 1260
+        },
+        {
+          "name": "Receber sugestões de tarefas",
+          "description_of_capacity": "Receber sugestões personalizadas de tarefas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1462,
+          "evidence": "Receba sugestões de tarefas personalizadas com base em seus hábitos e objetivos",
+          "start": 1321,
+          "end": 1400
+        },
+        {
+          "name": "Capturar pensamentos por voz",
+          "description_of_capacity": "Capturar tarefas e pensamentos por voz",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 570,
+          "evidence": "Fale sobre suas tarefas, ideias e anotações",
+          "start": 1471,
+          "end": 1514
+        },
+        {
+          "name": "Organizar pensamentos em diário digital",
+          "description_of_capacity": "Organizar pensamentos em diário digital",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Organize seus pensamentos, tarefas e anotações",
+          "start": 1801,
+          "end": 1847
+        },
+        {
+          "name": "Rastrear tempo em tarefas",
+          "description_of_capacity": "Registrar uso do tempo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1450,
+          "evidence": "Entenda para onde seu tempo é gasto",
+          "start": 2232,
+          "end": 2267
+        },
+        {
+          "name": "Monitorar construção de hábitos",
+          "description_of_capacity": "Monitorar hábitos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1374,
+          "evidence": "Rastreador de Hábitos",
+          "start": 2292,
+          "end": 2313
+        },
+        {
+          "name": "Usar timer Pomodoro",
+          "description_of_capacity": "Usar temporizador Pomodoro",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1532,
+          "evidence": "Temporizador de Foco (Pomodoro)",
+          "start": 2374,
+          "end": 2405
+        },
+        {
+          "name": "Acompanhar humor e energia diários",
+          "description_of_capacity": "Monitorar humor e energia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1597,
+          "evidence": "Monitore seu humor, níveis de energia",
+          "start": 2612,
+          "end": 2649
+        }
+      ],
+      "annotation_note": "App expressamente voltado ao TDAH e à disfunção executiva. Benefícios, depoimentos e planejamento/lembretes genéricos sem mecanismo adicional não separados.",
+      "protected_source_row_sha256": "eda263a55f9cf42431aba6a9bb0101fa84553e24ffe70a210844cf6faf817c8a",
+      "original_notes": ""
+    },
+    {
+      "index": 40,
+      "appId": "com.forgehut.ebbi",
+      "title": "Ebbi: Planner TDAH e Timer",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1d17495e3ae489608bd5572b524934e2219fa01091eebe498c4008dd1fe5173b",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Gerar cronograma automático",
+          "description_of_capacity": "Gerar agenda com horários e durações calculados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1294,
+          "evidence": "Ele transforma a lista de tarefas em agenda do dia com horários calculados.",
+          "start": 509,
+          "end": 584
+        },
+        {
+          "name": "Replanejar agenda dinamicamente",
+          "description_of_capacity": "Recalcular agenda ao alterar duração das tarefas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1478,
+          "evidence": "Mude uma duração e o resto se ajusta.",
+          "start": 756,
+          "end": 793
+        },
+        {
+          "name": "Dividir tarefas longas em blocos menores",
+          "description_of_capacity": "Dividir tarefas longas em blocos com pausas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1227,
+          "evidence": "Tarefas de 25 minutos ou mais se dividem em blocos menores com um reset curto entre eles",
+          "start": 860,
+          "end": 948
+        },
+        {
+          "name": "Criar tarefas por ditado de voz",
+          "description_of_capacity": "Ditar lista de tarefas para montar plano",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 651,
+          "evidence": "dite sua lista com Ditar sua lista",
+          "start": 1146,
+          "end": 1180
+        },
+        {
+          "name": "Exibir contagem regressiva para tarefa",
+          "description_of_capacity": "Visualizar tarefa atual em contagem regressiva",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1258,
+          "evidence": "A tela de foco mostra a tarefa atual em contagem regressiva num anel",
+          "start": 1260,
+          "end": 1328
+        },
+        {
+          "name": "Usar paisagens sonoras para foco",
+          "description_of_capacity": "Ouvir paisagens sonoras para foco e calma",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1893,
+          "evidence": "Se o som ajuda a se acalmar, há 12 paisagens sonoras mais Silêncio",
+          "start": 1665,
+          "end": 1731
+        },
+        {
+          "name": "Registrar tempo estimado versus real",
+          "description_of_capacity": "Comparar duração planejada e real por tarefa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 487,
+          "evidence": "os minutos planejados ao lado dos que ela durou",
+          "start": 1983,
+          "end": 2030
+        }
+      ],
+      "annotation_note": "Mecanismos explicitamente ligados à cegueira temporal/TDAH. Comparação de tempo específica dessa necessidade incluída; estatísticas gerais, backup e cadastro excluídos.",
+      "protected_source_row_sha256": "364ee49ac8de010f8b68a6642d367b590bd5dd9d6ec027ac0d24be6c6e15f276",
+      "original_notes": ""
+    },
+    {
+      "index": 41,
+      "appId": "com.gentlefocus.app",
+      "title": "Gentle Focus - ADHD Pomodoro",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "7847c146f84f4bf7b5a4928f47d500d56e54f1f4a4f746e53d73652679cdba7d",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Usar temporizador de foco",
+          "description_of_capacity": "Usar temporizador de foco flexível",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1530,
+          "evidence": "Escolha sessões de 5 a mais de 60 minutos",
+          "start": 599,
+          "end": 640
+        },
+        {
+          "name": "Ativar pausas automáticas",
+          "description_of_capacity": "Fazer pausas automáticas entre sessões de foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1033,
+          "evidence": "Pausas automáticas evitam o esgotamento",
+          "start": 643,
+          "end": 682
+        },
+        {
+          "name": "Reproduzir sons para foco",
+          "description_of_capacity": "Ouvir sons ambientes para foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 360,
+          "evidence": "Reduza as distrações com sons de fundo relaxantes",
+          "start": 834,
+          "end": 883
+        },
+        {
+          "name": "Feedback auditivo suave",
+          "description_of_capacity": "Receber sinalização sonora suave no fim da sessão",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1682,
+          "evidence": "Sons suaves sinalizam o término da sessão",
+          "start": 761,
+          "end": 802
+        },
+        {
+          "name": "Interface sem distrações sensoriais",
+          "description_of_capacity": "Usar interface de foco sem excesso de estímulos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1729,
+          "evidence": "O Gentle Focus adota uma abordagem mais suave, com recursos visuais relaxantes, sons ambientes relaxantes e lembretes gentis",
+          "start": 393,
+          "end": 517
+        }
+      ],
+      "annotation_note": "App explicitamente para TDAH e sensibilidade a estímulos. Estatísticas, modo escuro, offline e contagem de usuários não incluídos.",
+      "protected_source_row_sha256": "e6c19cb81dfac886efea879e406d0174f13f1d717c3cad227fc42f29f4037ffd",
+      "original_notes": ""
+    },
+    {
+      "index": 42,
+      "appId": "com.gobias.adhdcoach",
+      "title": "ADHD Coach: Focus & Tasks",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "cc9ba25f29fae97651b0096d80dcc0e0f9f827cd2e25ed497ab432edb7e2111c",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Realizar sessões de foco com primeiro passo opcional",
+          "description_of_capacity": "Realizar sessões de foco com primeiro passo opcional",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Adicione um primeiro passo opcional para facilitar o início.",
+          "start": 353,
+          "end": 413
+        },
+        {
+          "name": "Registrar distrações durante sessão",
+          "description_of_capacity": "Registrar distrações durante sessões de foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 354,
+          "evidence": "Toque em uma distração quando ela acontecer ou escreva a sua própria.",
+          "start": 540,
+          "end": 609
+        },
+        {
+          "name": "Iniciar tarefa com cronômetro",
+          "description_of_capacity": "Iniciar foco a partir de tarefa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1335,
+          "evidence": "inicie uma sessão de foco diretamente de uma tarefa",
+          "start": 794,
+          "end": 845
+        },
+        {
+          "name": "Revisar padrões de distração e duração das sessões",
+          "description_of_capacity": "Revisar padrões de distração e duração das sessões",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Revise sessões, padrões de distração e progresso semanal.",
+          "start": 1115,
+          "end": 1172
+        },
+        {
+          "name": "Construir habitat virtual por sessões de foco",
+          "description_of_capacity": "Construir habitat virtual por sessões de foco",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Construa um ninho aconchegante, vegetação, um lago, uma lanterna e flores com foco.",
+          "start": 880,
+          "end": 963
+        }
+      ],
+      "annotation_note": "Contexto explícito de apoio ao início e sustentação de tarefas no TDAH. Habitat ligado a sessões entra como reforço gamificado; backup e compra excluídos.",
+      "protected_source_row_sha256": "8f2e7367daca9b63ee82bfa88611401cc079378be4c825517c035ea363e4ff91",
+      "original_notes": ""
+    },
+    {
+      "index": 43,
+      "appId": "com.habitomic.android",
+      "title": "Habitomic:ADHD-Friendly Habits",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "fd161a61c8a01315845a1af2c0ab325940656a514ca2f2eb973cefadeed0b3fd",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Receber sugestões de hábitos personalizadas com IA",
+          "description_of_capacity": "Receber sugestões de hábitos personalizadas com IA",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Receba sugestões com tecnologia de IA adaptadas ao seu tipo de personalidade e objetivos.",
+          "start": 1330,
+          "end": 1419
+        },
+        {
+          "name": "Planejar rotinas diárias",
+          "description_of_capacity": "Planejar rotinas diárias",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1418,
+          "evidence": "Planeje da manhã à noite",
+          "start": 1560,
+          "end": 1584
+        },
+        {
+          "name": "Dividir objetivos em subtarefas",
+          "description_of_capacity": "Dividir objetivos em tarefas menores",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1188,
+          "evidence": "Divida grandes objetivos em tarefas menores.",
+          "start": 1657,
+          "end": 1701
+        },
+        {
+          "name": "Gamificação de recompensas",
+          "description_of_capacity": "Receber recompensas por completar hábitos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 938,
+          "evidence": "suba de nível conforme você completa hábitos e ganhe recompensas",
+          "start": 1895,
+          "end": 1959
+        },
+        {
+          "name": "Usar temporizador de foco",
+          "description_of_capacity": "Usar temporizador de foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1530,
+          "evidence": "nosso temporizador de foco",
+          "start": 2017,
+          "end": 2043
+        },
+        {
+          "name": "Bloquear distrações no modo foco",
+          "description_of_capacity": "Bloquear distrações no modo foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1050,
+          "evidence": "bloqueadores de distração",
+          "start": 2046,
+          "end": 2071
+        },
+        {
+          "name": "Configurar lembretes por hábito",
+          "description_of_capacity": "Receber lembretes de hábitos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1083,
+          "evidence": "Defina lembretes suaves para nunca se esquecer de um hábito.",
+          "start": 2163,
+          "end": 2223
+        }
+      ],
+      "annotation_note": "Contexto de TDAH com mecanismos explícitos para sobrecarga, início e esquecimento. Sequências/estatísticas genéricas não listadas separadamente.",
+      "protected_source_row_sha256": "dc4dbcf6e6a390193bc0ec706cad98bb12c5d5664ba72364ecdcc539f82887c8",
+      "original_notes": ""
+    },
+    {
+      "index": 44,
+      "appId": "com.kj2148496975.app",
+      "title": "TDAHYou",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "b0fecefb942558f616dfac1cbbe7527bacf5225495af7a6d0e00b7342f0289f4",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [],
+      "annotation_note": "Descrição informa apenas reprodução de vídeos, atualização e alertas genéricos. O nome TDAHYou não demonstra capacidade dirigida à neurodivergência; [] significa nenhuma capacidade elegível identificada no texto, não ausência de funções no produto.",
+      "protected_source_row_sha256": "4be60e2ce93cd48a8415e2cf998c5e451d2f098b3c954b867ee44ce2fafc6b2f",
+      "original_notes": "Itiro-P: Apenas reprodutor de vídeo genérico na descrição."
+    },
+    {
+      "index": 45,
+      "appId": "com.oneabsolute.priorityone",
+      "title": "Priority One: AI Daily Planner",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "23a1f99f62d9210915dd35be08c9a5724b492f3c05d386af1af50cc9ae5229af",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Capturar tarefas por voz",
+          "description_of_capacity": "Capturar tarefas por voz ou texto",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 571,
+          "evidence": "Fale ou digite tudo o que está em sua mente — tarefas, reuniões, compromissos, preocupações.",
+          "start": 328,
+          "end": 420
+        },
+        {
+          "name": "Gerar cronograma via IA",
+          "description_of_capacity": "Gerar agenda diária priorizada com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1295,
+          "evidence": "A IA prioriza suas tarefas, agrupa trabalhos relacionados, protege seus horários de pico de concentração e cria um plano diário realista",
+          "start": 579,
+          "end": 715
+        },
+        {
+          "name": "Exibir uma tarefa por vez",
+          "description_of_capacity": "Mostrar uma tarefa por vez no modo foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 285,
+          "evidence": "Modo foco — uma tarefa na tela por vez, nada mais",
+          "start": 1219,
+          "end": 1268
+        },
+        {
+          "name": "Replanejar agenda dinamicamente",
+          "description_of_capacity": "Replanejar dia a partir de alterações por voz",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1478,
+          "evidence": "diga o que mudou e a IA reescreve o restante do seu dia",
+          "start": 1540,
+          "end": 1595
+        }
+      ],
+      "annotation_note": "Estrutura automática explicitamente dirigida também a pessoas com TDAH. Calendário, dados locais, companheiro e lembretes genéricos não separados.",
+      "protected_source_row_sha256": "99d73d196473da630a2212affa69059dd776410dcdf9277400ba9326ef719d48",
+      "original_notes": ""
+    },
+    {
+      "index": 46,
+      "appId": "com.smarttoolsdev.nextstep",
+      "title": "Foco e Tarefas TDAH",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "c7e7eb6e806931e3107ee9e5595b3d239de78e1393c267475c00a401f0206e46",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Dividir tarefas em pequenos passos",
+          "description_of_capacity": "Dividir tarefas em pequenos passos físicos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1216,
+          "evidence": "Divida-a em passos físicos pequenos que você realmente consiga começar",
+          "start": 606,
+          "end": 676
+        },
+        {
+          "name": "Exibir próximo passo",
+          "description_of_capacity": "Mostrar apenas o próximo passo em modo foco",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1268,
+          "evidence": "Entre no modo de foco: um passo, tela cheia, nada mais",
+          "start": 698,
+          "end": 752
+        },
+        {
+          "name": "Usar temporizador de foco",
+          "description_of_capacity": "Usar temporizador de foco calmo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1530,
+          "evidence": "Temporizador de foco calmo",
+          "start": 1025,
+          "end": 1051
+        },
+        {
+          "name": "Adiar passos sem culpa",
+          "description_of_capacity": "Reordenar ou adiar etapas da tarefa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1602,
+          "evidence": "Pular por enquanto — mova um passo para o final sem culpa quando não estiver pronto",
+          "start": 1195,
+          "end": 1278
+        }
+      ],
+      "annotation_note": "Mecanismos explícitos para paralisia de tarefas/TDAH. Não inferida IA nem presença de outra pessoa a partir da metáfora body doubling.",
+      "protected_source_row_sha256": "82cfcc66a3b10ae3e825f20b0b504826e21923f0f8130b3f31278a35965d7909",
+      "original_notes": ""
+    },
+    {
+      "index": 47,
+      "appId": "fr.stableminds.tdah",
+      "title": "TDAH – Dépistage Médical",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "92713368523d39da0a963f0b6268408e59a987adbf0b62a3db09ec06fed4333f",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Receber orientações específicas para TDAH",
+          "description_of_capacity": "Consultar orientações sobre triagem e tratamento de TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1956,
+          "evidence": "Explica o processo, da triagem ao acompanhamento do tratamento, em linguagem simples.",
+          "start": 233,
+          "end": 318
+        },
+        {
+          "name": "Responder perguntas de elegibilidade para consulta de TDAH",
+          "description_of_capacity": "Responder perguntas de elegibilidade para consulta de TDAH",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Ajuda você a verificar sua elegibilidade antes de agendar uma consulta, com algumas perguntas de orientação",
+          "start": 322,
+          "end": 429
+        },
+        {
+          "name": "Preparar solicitação de consulta pré-preenchida",
+          "description_of_capacity": "Preparar solicitação de consulta pré-preenchida",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Prepara uma mensagem de solicitação de consulta pré-preenchida",
+          "start": 462,
+          "end": 524
+        },
+        {
+          "name": "Redirecionar solicitação de consulta ao Doctolib",
+          "description_of_capacity": "Redirecionar solicitação de consulta ao Doctolib",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "o aplicativo simplesmente redireciona você para lá e prepara sua mensagem.",
+          "start": 1362,
+          "end": 1436
+        }
+      ],
+      "annotation_note": "Orientação/elegibilidade, sem realizar diagnóstico nem agendar internamente. Criptografia e exclusão de dados gerais não incluídas.",
+      "protected_source_row_sha256": "fa13e8f5bd05da43cee71ffe3dbd116d676f0348edba23f7a036decf8fdaf506",
+      "original_notes": ""
+    },
+    {
+      "index": 48,
+      "appId": "io.mindist.noise",
+      "title": "ADHD Noise: Green, Brown, Pink",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "f42b43ac14b7475f90a24a2f39e5deeeab234aee2a6f13ee9b057de8da1ecae8",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Reproduzir sons de concentração",
+          "description_of_capacity": "Ouvir ruídos coloridos para concentração no TDAH",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1861,
+          "evidence": "Ruído verde, ruído marrom, ruído rosa e o clássico ruído branco",
+          "start": 200,
+          "end": 263
+        },
+        {
+          "name": "Regulação sensorial por paisagens sonoras",
+          "description_of_capacity": "Ouvir paisagens sonoras para dormir",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1852,
+          "evidence": "Sons para dormir: chuva, ventilador e paisagens sonoras ambientes",
+          "start": 325,
+          "end": 390
+        }
+      ],
+      "annotation_note": "Sons explicitamente projetados para TDAH; benefícios anunciados não tratados como eficácia clínica verificada.",
+      "protected_source_row_sha256": "3c0af6b9608e9dc15d277aaa7465c9347ec1e9df038b14584d8b7e7a4c455536",
+      "original_notes": ""
+    },
+    {
+      "index": 49,
+      "appId": "super.planner.todolist.task.reminder",
+      "title": "Super Planner: Rotina TDAH IA",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "7a45268d2f6696c1f3f30ba7ed70501f9aa529494669ef8b9038c29b0eb947d4",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Criar tarefas por voz e texto com detecção automática de datas",
+          "description_of_capacity": "Criar tarefas por voz e texto com detecção automática de datas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Crie tarefas facilmente com texto ou voz — a IA detecta automaticamente tarefas, datas e locais.",
+          "start": 620,
+          "end": 716
+        },
+        {
+          "name": "Dividir metas em etapas via IA",
+          "description_of_capacity": "Dividir objetivos em etapas com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1183,
+          "evidence": "A IA transforma grandes metas em etapas simples, ideal para mentes com TDAH.",
+          "start": 740,
+          "end": 816
+        }
+      ],
+      "annotation_note": "Incluídos mecanismos centrais explicitamente úteis ao TDAH. Humor, biscoito da sorte, tom da IA, tema, notificações e backup descritos genericamente excluídos.",
+      "protected_source_row_sha256": "5b1ae9139cfdd5ad9b7dc3b573231df88c209dae5ea709feb85c83d897ddec1b",
+      "original_notes": ""
+    },
+    {
+      "index": 50,
+      "appId": "com.PambuDev.galexia",
+      "title": "GALEXIA Mejora Fluidez Lectora",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1acfb4d296ee0afc1b11d4bd6b9eb92af67af3c7b7009c1f077385f1db994ead",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar fluência na leitura",
+          "description_of_capacity": "Praticar fluência de leitura em jogos de intervenção",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 183,
+          "evidence": "24 sessões de jogo, nas quais realizarás várias atividades e mini-jogos que irão potenciar a aprendizagem e melhorar a fluência de leitura",
+          "start": 1122,
+          "end": 1260
+        },
+        {
+          "name": "Configurar parâmetros de treinamento",
+          "description_of_capacity": "Personalizar parâmetros de treino por usuário",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1918,
+          "evidence": "personalize os parâmetros de treinamento para cada usuário",
+          "start": 332,
+          "end": 390
+        },
+        {
+          "name": "Registrar sessões e atividades de intervenção",
+          "description_of_capacity": "Registrar sessões e atividades de intervenção",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "grave as sessões e atividades",
+          "start": 392,
+          "end": 421
+        },
+        {
+          "name": "Acompanhar evolução do paciente",
+          "description_of_capacity": "Monitorar progresso de leitura e fala por profissional",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 400,
+          "evidence": "um modo para profissionais monitorarem o progresso de alunos e pacientes na melhora da fluência de leitura e dificuldades de fala",
+          "start": 182,
+          "end": 311
+        },
+        {
+          "name": "Preparar sessões de treino",
+          "description_of_capacity": "Preparar sessões seguintes com recursos de estímulo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1948,
+          "evidence": "prepare as sessões seguintes com os recursos de estímulo para trabalhar",
+          "start": 424,
+          "end": 495
+        }
+      ],
+      "annotation_note": "Anotadas capacidades do programa para dislexia, sem confirmar alegações de tratamento/validação científica. Gravar sessões entendido como registrar, sem inferir gravação de áudio/vídeo.",
+      "protected_source_row_sha256": "7af003a11fa35b7eb889764a4910602f8f454a4ccb78cf97f035501aa541810d",
+      "original_notes": ""
+    },
+    {
+      "index": 51,
+      "appId": "com.SensoryPlayApps.SensoryFishFree",
+      "title": "Sensory Baby Toddler Learning",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "876d989b0cc26e251d6b1a19a5d5b8996f69203f64c352d3887aa79fc63edd8d",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Feedback multimodal em jogos",
+          "description_of_capacity": "Explorar causa e efeito por toque com vibração, som e imagens",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 934,
+          "evidence": "Conforme seu bebê toca a tela, ele recebe um feedback instantâneo de vibração, efeitos sonoros e bolhas",
+          "start": 2566,
+          "end": 2669
+        },
+        {
+          "name": "Controlar movimento na tela",
+          "description_of_capacity": "Controlar movimento de peixes com multitoque",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 926,
+          "evidence": "Controle para onde os peixes nadam, incluindo suporte multitoque",
+          "start": 650,
+          "end": 714
+        },
+        {
+          "name": "Girar mundo virtual com dispositivo",
+          "description_of_capacity": "Controlar cenário sensorial pelo giroscópio",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 940,
+          "evidence": "conforme o dispositivo é girado, o mundo do jogo gira junto com ele",
+          "start": 740,
+          "end": 807
+        },
+        {
+          "name": "Selecionar efeitos visuais interativos",
+          "description_of_capacity": "Escolher efeitos, cenários e peixes sensoriais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1866,
+          "evidence": "Escolha entre vários efeitos que são criados sempre que a tela do jogo é tocada",
+          "start": 422,
+          "end": 501
+        }
+      ],
+      "annotation_note": "Jogo sensorial explicitamente recomendado também ao autismo. Nenhuma alegação de benefício clínico validada; bloqueio de tela genérico não separado.",
+      "protected_source_row_sha256": "df7835c1af6bb2ef24fb228d9c9cd05be0cb1009143d84d2cb65d54ea40b5c66",
+      "original_notes": ""
+    },
+    {
+      "index": 52,
+      "appId": "com.dmwaresolutions.meuabinha",
+      "title": "Comunicação Infantil: Autismo",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "168db42d93b55ba36052ca28df42edc43eeff8d9ecc2e8bb81fcc496976816d3",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Acessar comunicação aumentativa",
+          "description_of_capacity": "Usar comunicação alternativa com recursos visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 509,
+          "evidence": "utilizando recursos visuais, comunicação alternativa e economia de fichas",
+          "start": 118,
+          "end": 191
+        },
+        {
+          "name": "Sistema de recompensa com fichas",
+          "description_of_capacity": "Usar economia de fichas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1498,
+          "evidence": "utilizando recursos visuais, comunicação alternativa e economia de fichas",
+          "start": 118,
+          "end": 191
+        }
+      ],
+      "annotation_note": "Descrição curta, mas nomeia capacidades atuais para autismo. Não inferidos pictogramas, voz, cadastro de crianças ou mecanismos de fichas não descritos.",
+      "protected_source_row_sha256": "9cecc2fd7685cbb517e7452904791e439b248aeb330416d80a7c132ea043ed02",
+      "original_notes": ""
+    },
+    {
+      "index": 53,
+      "appId": "com.imagiration.sita",
+      "title": "Speech Therapy 5 –Record Words",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "94e7fde1012dc0d2ce861d9576b667ebb32d20864c6bebd12f5afc137fe19b09",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Gravar vídeos de palavras e frases modelo",
+          "description_of_capacity": "Gravar vídeos de palavras e frases modelo",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Pais e terapeutas gravam vídeos de palavras e frases modelo.",
+          "start": 735,
+          "end": 795
+        },
+        {
+          "name": "Praticar pronúncia imitando vídeos modelo",
+          "description_of_capacity": "Praticar pronúncia imitando vídeos modelo",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "exercícios que incentivam as crianças a espelhar a pronúncia das palavras",
+          "start": 828,
+          "end": 901
+        },
+        {
+          "name": "Medir similaridade vocal com modelo via IA",
+          "description_of_capacity": "Comparar vocalização da criança ao modelo com IA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 438,
+          "evidence": "Um algoritmo proprietário de IA mede a semelhança entre as palavras do modelo e as vocalizações das crianças.",
+          "start": 903,
+          "end": 1012
+        },
+        {
+          "name": "Recompensar melhorias na pronúncia",
+          "description_of_capacity": "Receber reforços proporcionais à melhora de pronúncia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1961,
+          "evidence": "As melhorias são recompensadas com reforços e PlayTime.",
+          "start": 1013,
+          "end": 1068
+        },
+        {
+          "name": "Criar vocabulário personalizado",
+          "description_of_capacity": "Personalizar vocabulário de modelos de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 655,
+          "evidence": "Você e o terapeuta de seu filho criam um vocabulário de modelagem de sua escolha e em seu dialeto!",
+          "start": 1529,
+          "end": 1627
+        }
+      ],
+      "annotation_note": "Anotado apenas Speech Therapy Step 5. Funcionalidades de Step 1–4 e MITA são de outros apps, mesmo descritas no mesmo texto. Não validada eficácia alegada.",
+      "protected_source_row_sha256": "d8f914322252f12123ab6a274b853dab925f6e0f637db6b967343a3eca0e86b0",
+      "original_notes": ""
+    },
+    {
+      "index": 54,
+      "appId": "com.lucrumst.setka",
+      "title": "SETKA: цифровой витамин",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1d0579397ef218b162a46b279905341fd5fc0f3513abfe3540af5428e75468e8",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Reproduzir padrões visuais com música",
+          "description_of_capacity": "Reproduzir padrões visuais com música",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Reproduza qualquer padrão sonoro e visual. Apenas ouça e observe.",
+          "start": 3609,
+          "end": 3674
+        }
+      ],
+      "annotation_note": "Capacidade audiovisual anunciada para uma lista que inclui TDAH/TEA; caso de fronteira de menção incidental. Não transformadas alegações de neuroterapia, sinestesia, cura ou ausência de contraindicações em funções ou fatos clínicos.",
+      "protected_source_row_sha256": "af9c3ac0cf2e9144e5fb8c2fce2ce1b63b7b8c5c232e529b8fdf623c04ae69b1",
+      "original_notes": ""
+    },
+    {
+      "index": 55,
+      "appId": "com.phonegap.matraquinha",
+      "title": "Matraquinha: Autismo",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "31550b55fa7b4301542f3e9cc7113dcd139f201637a96e62c28ab6af0a5f4e75",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Comunicar por imagens com voz",
+          "description_of_capacity": "Comunicar necessidades tocando em imagens com fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 593,
+          "evidence": "Com um simples toque nas imagens da tela, o app fala por ele!",
+          "start": 872,
+          "end": 933
+        },
+        {
+          "name": "Criar rotinas visuais passo a passo",
+          "description_of_capacity": "Criar rotinas visuais passo a passo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 648,
+          "evidence": "Crie rotinas visuais passo a passo para as atividades diárias",
+          "start": 1201,
+          "end": 1262
+        },
+        {
+          "name": "Adicionar fotos familiares aos recursos visuais",
+          "description_of_capacity": "Personalizar comunicação com fotografias familiares",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 827,
+          "evidence": "Tire e adicione fotos reais do quarto dela, do brinquedo favorito ou do cachorrinho de vocês",
+          "start": 1520,
+          "end": 1612
+        },
+        {
+          "name": "Expressar emoções, dor e pedidos de ajuda por pranchas",
+          "description_of_capacity": "Expressar emoções, dor e pedidos de ajuda por pranchas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "pranchas rápidas para situações de emergência",
+          "start": 1713,
+          "end": 1758
+        },
+        {
+          "name": "Ler histórias em quadrinhos sobre autismo",
+          "description_of_capacity": "Ler histórias em quadrinhos sobre autismo",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Histórias em quadrinhos divertidas com o André, o personagem autista da Turma da Mônica",
+          "start": 2127,
+          "end": 2214
+        },
+        {
+          "name": "Aprender cores e números em atividades lúdicas",
+          "description_of_capacity": "Aprender cores e números em atividades lúdicas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "seções lúdicas para ensinar cores e números",
+          "start": 2224,
+          "end": 2267
+        },
+        {
+          "name": "Adaptar interface para limitações motoras e visuais",
+          "description_of_capacity": "Ajustar visualização dos cartões às necessidades motoras e visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 524,
+          "evidence": "Escolha a visualização em lista ou grade, do jeito que for mais confortável para as características motoras e visuais do seu filho.",
+          "start": 2288,
+          "end": 2419
+        }
+      ],
+      "annotation_note": "Funções de CAA e aprendizagem para autismo; não afirmar prevenção comprovada de crises. Idiomas não listados como adaptação específica.",
+      "protected_source_row_sha256": "348af9d94a43b6bc08d037a5c1e7352516671f712ec64807c8fd4bcbb8808dcd",
+      "original_notes": ""
+    },
+    {
+      "index": 56,
+      "appId": "br.com.autigames.autigames",
+      "title": "Autigames",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "bf0242ac219b0eb0107ca830feac85e709e1791038197b203b863d2299983a11",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Praticar comunicação social",
+          "description_of_capacity": "Praticar comunicação e interação social com diálogos e histórias",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 815,
+          "evidence": "Por meio de diálogos interativos, histórias guiadas e minigames lúdicos",
+          "start": 194,
+          "end": 265
+        },
+        {
+          "name": "Praticar reconhecimento de emoções",
+          "description_of_capacity": "Praticar reconhecimento e expressão de emoções",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 189,
+          "evidence": "reconhecimento e expressão de emoções",
+          "start": 353,
+          "end": 390
+        }
+      ],
+      "annotation_note": "Capacidades descritas nos jogos para TEA, sem inferir relatórios, ajustes de dificuldade ou mecanismos de participação dos responsáveis não especificados.",
+      "protected_source_row_sha256": "b8e53820fc4da08c45858390ba4dc108b24abe4bb09e27d379f32db420517565",
+      "original_notes": ""
+    },
+    {
+      "index": 57,
+      "appId": "br.edu.unisagrado.comunicamais",
+      "title": "Comunica+",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "bb2880a43a6963ab7ef97ff2d9c6ccfb7bef241e0db709271ab80723d4864149",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Comunicar por toque e áudio",
+          "description_of_capacity": "Comunicar necessidades e emoções por pictogramas com áudio",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 602,
+          "evidence": "o aplicativo permite que o usuário expresse necessidades básicas, emoções, saudações e conceitos educacionais tocando em pictogramas organizados por categorias.",
+          "start": 242,
+          "end": 402,
+          "context_evidence": "Cada imagem conta com apoio sonoro, facilitando a compreensão e a interação."
+        },
+        {
+          "name": "Acessar pictogramas CAA",
+          "description_of_capacity": "Acessar pictogramas de conceitos de aprendizagem",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 516,
+          "evidence": "subcategorias que auxiliam na expressão de necessidades, emoções, saudações, letras, números, cores e outros conceitos básicos.",
+          "start": 1357,
+          "end": 1484
+        }
+      ],
+      "annotation_note": "CAA com áudio explicitamente para dificuldades de comunicação, incluindo TEA. Offline, tecnologia Flutter e privacidade não são capacidades neuroespecíficas.",
+      "protected_source_row_sha256": "3c211fb46573c7207efe112b36d3c8886bb9516b9524a997774308a1f572e58c",
+      "original_notes": ""
+    },
+    {
+      "index": 58,
+      "appId": "com.avazapp.international.lite",
+      "title": "Avaz AAC",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "c862e98ecb48f6a1c41c62d4fe769c8a7a7a9d3fa64140d997cbb89733c62990",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Formar frases com texto para fala",
+          "description_of_capacity": "Construir frases por imagens e síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 691,
+          "evidence": "permite aos usuários formar frases e se expressar com facilidade e rapidez",
+          "start": 2157,
+          "end": 2231
+        },
+        {
+          "name": "Manter palavras centrais acessíveis em todas as telas",
+          "description_of_capacity": "Manter palavras centrais acessíveis em todas as telas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Mantenha acesso ininterrupto às palavras principais em todas as telas",
+          "start": 925,
+          "end": 994
+        },
+        {
+          "name": "Configurar tom de voz",
+          "description_of_capacity": "Selecionar tons emocionais para a voz",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 612,
+          "evidence": "Personalize sua voz com uma seleção de tons, incluindo excitação, frustração, sarcasmo, tristeza e curiosidade",
+          "start": 1063,
+          "end": 1173
+        },
+        {
+          "name": "Adicionar GIFs às mensagens",
+          "description_of_capacity": "Adicionar GIFs às mensagens de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 526,
+          "evidence": "Adicione GIFs dinâmicos às mensagens",
+          "start": 1280,
+          "end": 1316
+        },
+        {
+          "name": "Carregar áudio personalizado no comunicador",
+          "description_of_capacity": "Carregar áudio personalizado no comunicador",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Carregue arquivos de áudio personalizados para uma experiência de comunicação personalizada",
+          "start": 1357,
+          "end": 1448
+        },
+        {
+          "name": "Ajustar tamanho das grades de vocabulário",
+          "description_of_capacity": "Ajustar tamanho de grades de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 540,
+          "evidence": "Ajuste os tamanhos das grades para obter uma visibilidade mais clara",
+          "start": 1465,
+          "end": 1533
+        },
+        {
+          "name": "Organizar pastas para planejamento motor",
+          "description_of_capacity": "Personalizar localização e palavras das pranchas para planejamento motor",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1390,
+          "evidence": "Garanta um planejamento motor consistente vinculando uma pasta dentro de qualquer conjunto de páginas",
+          "start": 1610,
+          "end": 1711
+        }
+      ],
+      "annotation_note": "Contexto de CAA explícito. Upload de áudio incluído na mesma personalização multimídia e documentado pelo texto; não inferida gravação. YouTube, backups e temas gerais excluídos.",
+      "protected_source_row_sha256": "0610e3f4071544d811992056df51161149d50fd54ed3c688e5ae776c94ef890f",
+      "original_notes": ""
+    },
+    {
+      "index": 59,
+      "appId": "com.brightn.prod",
+      "title": "Brightn: AI Wellness Plans",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "03a395810a44e5d2d758c9122ad11bf9d7830a0e968d09a55d452a40f162e954",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Manter diário com reflexões de IA adaptadas à neurodiversidade",
+          "description_of_capacity": "Manter diário com reflexões de IA adaptadas à neurodiversidade",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Diário com IA – Escreva, fale ou escaneie suas entradas de diário.",
+          "start": 2210,
+          "end": 2276,
+          "context_evidence": "Neurodiversidade – Apoio claro e estruturado, sem sobrecarga sensorial."
+        },
+        {
+          "name": "Acessar apoio estruturado para neurodiversidade",
+          "description_of_capacity": "Receber apoio estruturado sem sobrecarga sensorial",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1569,
+          "evidence": "Neurodiversidade – Apoio claro e estruturado, sem sobrecarga sensorial.",
+          "start": 1288,
+          "end": 1359
+        }
+      ],
+      "annotation_note": "Aplicativo geral com adaptação de IA explícita para neurodiversidade. Medicamentos, companheiro personalizável, hábitos com recompensas e lista de tarefas aparecem também como Próximos recursos: excluídos por disponibilidade contraditória. Humor e planos gerais não adicionados sem vínculo específico.",
+      "protected_source_row_sha256": "4d8ef5774b6110f2f684f266136b2479fe5f0844e969cae13a1d95d268fd747f",
+      "original_notes": ""
+    },
+    {
+      "index": 60,
+      "appId": "com.gusinc.talktableta",
+      "title": "TalkTablet PRO Autism & Stroke",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "71480821da50da6764191a3f855f4ce005c33c9b4857382f8bc7b8d49eb2dfe3",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Comunicar por botões",
+          "description_of_capacity": "Falar por botões de palavras e frases",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 588,
+          "evidence": "Fale tocando em botões que contêm palavras ou frases predefinidas",
+          "start": 1256,
+          "end": 1321
+        },
+        {
+          "name": "Digitar texto em teclado interno",
+          "description_of_capacity": "Acrescentar texto digitado às frases de CAA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 660,
+          "evidence": "Adicione texto aleatório a frases usando o teclado integrado na tela",
+          "start": 1324,
+          "end": 1392
+        },
+        {
+          "name": "Criar vocabulário personalizado",
+          "description_of_capacity": "Criar vocabulários personalizados de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 655,
+          "evidence": "crie um novo vocabulário de seu próprio design",
+          "start": 1653,
+          "end": 1699
+        },
+        {
+          "name": "Criar pranchas de comunicação",
+          "description_of_capacity": "Criar e personalizar pranchas de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 645,
+          "evidence": "Adicione botões, páginas ou novos vocabulários",
+          "start": 1966,
+          "end": 2012
+        },
+        {
+          "name": "Ajustar tamanho das grades de vocabulário",
+          "description_of_capacity": "Ajustar tamanho da grade de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 540,
+          "evidence": "Cada tamanho de grade (botões / página) pode ser aumentado ou diminuído",
+          "start": 1757,
+          "end": 1828
+        },
+        {
+          "name": "Usar previsão de palavras para AAC",
+          "description_of_capacity": "Usar previsão de palavras para alfabetização",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 786,
+          "evidence": "Transição para a alfabetização com previsão de palavras",
+          "start": 1884,
+          "end": 1939
+        },
+        {
+          "name": "Adicionar símbolos personalizados",
+          "description_of_capacity": "Adicionar símbolos e fotografias aos botões",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 833,
+          "evidence": "ou tire fotos com a câmera, use fotos de seu álbum ou adicione imagens do Google a seus botões",
+          "start": 2173,
+          "end": 2267
+        },
+        {
+          "name": "Bloquear edição das pranchas de comunicação",
+          "description_of_capacity": "Bloquear edição das pranchas de comunicação",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Previna a edição indesejada habilitando uma senha para a área de edição",
+          "start": 2641,
+          "end": 2712
+        },
+        {
+          "name": "Prevenir toques acidentais",
+          "description_of_capacity": "Evitar toques repetidos indesejados com atraso configurado",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 2028,
+          "evidence": "Evite toques repetidos indesejados de botões com o recurso \"Tap Delay\"",
+          "start": 2716,
+          "end": 2786
+        },
+        {
+          "name": "Gravar vozes ou sons personalizados",
+          "description_of_capacity": "Gravar vozes ou sons para comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 876,
+          "evidence": "use a função de gravação de áudio incluída para gravar vozes ou sons",
+          "start": 2858,
+          "end": 2926
+        },
+        {
+          "name": "Compartilhar pranchas e vocabulários de comunicação",
+          "description_of_capacity": "Compartilhar pranchas e vocabulários de comunicação",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Compartilhe botões, páginas ou vocabulários inteiros SEM FIO com outros usuários TalkTablet.",
+          "start": 2930,
+          "end": 3022
+        }
+      ],
+      "annotation_note": "Personalização, bloqueio e compartilhamento são explicitamente de pranchas assistivas, não recursos genéricos. Backup e uso offline excluídos. Não inferida compatibilidade com relógios, expressamente negada.",
+      "protected_source_row_sha256": "1d5d1df5dc780f64e3a327f71a13f34e8d53235e18ce1455a72cab63b12fab41",
+      "original_notes": ""
+    },
+    {
+      "index": 61,
+      "appId": "com.martintavera.hablemostea",
+      "title": "HablemosTEA: Comunicação TEA",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5306cd792bd1986196cd0c626082b076327e45613293dee53ff85d24f49951eb",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Expressar necessidades via pictogramas",
+          "description_of_capacity": "Expressar necessidades e emoções por pictogramas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 684,
+          "evidence": "Mais de 1.000 pictogramas claros e fáceis de identificar para expressar necessidades, emoções e escolhas",
+          "start": 606,
+          "end": 710
+        },
+        {
+          "name": "Adicionar fotos familiares aos recursos visuais",
+          "description_of_capacity": "Personalizar comunicador com fotos familiares",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 827,
+          "evidence": "Personalize o comunicador adicionando fotos reais de familiares",
+          "start": 933,
+          "end": 996
+        },
+        {
+          "name": "Jogar minijogos de atenção, lógica e aprendizagem",
+          "description_of_capacity": "Jogar minijogos de atenção, lógica e aprendizagem",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Mais de 30 minijogos interativos desenvolvidos especialmente para estimular a atenção, o raciocínio lógico e a aprendizagem",
+          "start": 1066,
+          "end": 1189
+        },
+        {
+          "name": "Baixar pictogramas e recursos visuais para impressão",
+          "description_of_capacity": "Baixar pictogramas e recursos visuais para impressão",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Baixe pictogramas e recursos visuais em PDF para continuar o aprendizado em casa, na escola ou durante terapias.",
+          "start": 1252,
+          "end": 1364
+        },
+        {
+          "name": "Visualizar rotinas passo a passo",
+          "description_of_capacity": "Executar rotinas por sequências visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1554,
+          "evidence": "Apoie a rotina diária com sequências visuais passo a passo",
+          "start": 1396,
+          "end": 1454
+        },
+        {
+          "name": "Acessar zona de calma sensorial",
+          "description_of_capacity": "Usar zona de calma para ansiedade e superestimulação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1593,
+          "evidence": "uma “Zona de Calma” dedicada para auxiliar em momentos de ansiedade ou superestimulação",
+          "start": 1457,
+          "end": 1544
+        },
+        {
+          "name": "Gerar frases com texto e fala",
+          "description_of_capacity": "Construir frases com teclado visual e voz",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 700,
+          "evidence": "Monte frases completas que o aplicativo lerá em voz alta",
+          "start": 1579,
+          "end": 1635
+        }
+      ],
+      "annotation_note": "Recursos para autismo; idiomas, segurança genérica e categorias como organização do comunicador não duplicados.",
+      "protected_source_row_sha256": "5e681cec3f06159a6e231d9fad8742186f64b6fb84cec9b79b8c61e6eb9007d8",
+      "original_notes": ""
+    },
+    {
+      "index": 62,
+      "appId": "it.alessandrolarocca.android.speechtosymbol",
+      "title": "Speech To Symbol",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "57e37b109eb9a0073c1ebc866efc6461a26f6f3a70cec10472657e3d658296d0",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Converter fala em símbolos",
+          "description_of_capacity": "Converter fala em símbolos de CAA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 627,
+          "evidence": "O aplicativo traduz imediatamente suas palavras em símbolos.",
+          "start": 439,
+          "end": 499
+        },
+        {
+          "name": "Personalizar símbolos de comunicação",
+          "description_of_capacity": "Alterar e personalizar símbolos com imagens",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 740,
+          "evidence": "Adicione uma imagem ou seu símbolo favorito para representar substantivos, itens pessoais, palavras complexas, verbos conjugados",
+          "start": 585,
+          "end": 713
+        },
+        {
+          "name": "Compartilhar mensagens em símbolos",
+          "description_of_capacity": "Compartilhar mensagens em símbolos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Compartilhe mensagens em símbolos em qualquer aplicativo de mensagens instantâneas",
+          "start": 773,
+          "end": 855
+        }
+      ],
+      "annotation_note": "CAA receptiva: converter voz em símbolo não equivale a produzir fala. Compartilhamento de mensagens simbólicas é explicitamente assistivo.",
+      "protected_source_row_sha256": "0e8d1b3c9969a9a4f54fd9ff3eb2a62993325449d4c9b7e180f40a4e404c3945",
+      "original_notes": ""
+    },
+    {
+      "index": 63,
+      "appId": "cl.autistapp.autistapp",
+      "title": "AutistApp",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "2dfeba326776440adf962955d4dd8f9a42e7f181fdfd5091d119477a29cc984f",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Acessar pictogramas visuais",
+          "description_of_capacity": "Consultar pictogramas e guias de comunicação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 517,
+          "evidence": "Pictogramas e Guias de Apoio: Auxílios visuais para facilitar a compreensão e a comunicação.",
+          "start": 406,
+          "end": 498
+        },
+        {
+          "name": "Ferramentas de autorregulação",
+          "description_of_capacity": "Usar recursos de autorregulação para estresse e ansiedade",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1688,
+          "evidence": "Ferramentas para Autorregulação: Técnicas e recursos para gerenciar o estresse e a ansiedade.",
+          "start": 499,
+          "end": 592
+        },
+        {
+          "name": "Consultar direitos e leis sobre autismo",
+          "description_of_capacity": "Consultar direitos e leis sobre autismo",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Informação Legal: Conhecimento essencial sobre direitos e leis relacionadas ao autismo.",
+          "start": 593,
+          "end": 680
+        },
+        {
+          "name": "Registrar emoções diárias",
+          "description_of_capacity": "Registrar emoções diariamente",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1837,
+          "evidence": "Registro Diário de Emoções: Uma maneira simples de manter um diário emocional.",
+          "start": 681,
+          "end": 759
+        },
+        {
+          "name": "Gerenciar lista de tarefas",
+          "description_of_capacity": "Organizar tarefas diárias",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1311,
+          "evidence": "Listas de tarefas personalizáveis para organizar o dia a dia.",
+          "start": 791,
+          "end": 852
+        },
+        {
+          "name": "Consultar informações sobre autismo",
+          "description_of_capacity": "Consultar informações sobre autismo",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Guias de Informação sobre Autismo: Informações atualizadas e úteis sobre o autismo.",
+          "start": 853,
+          "end": 936
+        },
+        {
+          "name": "Acessar cartões de apoio à comunicação",
+          "description_of_capacity": "Usar cartões de apoio ao mutismo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 508,
+          "evidence": "Cartões de Mutismo Sazonal / Seletivo: Ferramentas de apoio para situações de comunicação difíceis.",
+          "start": 937,
+          "end": 1036
+        },
+        {
+          "name": "Consultar oportunidades de emprego adaptadas",
+          "description_of_capacity": "Consultar oportunidades de emprego adaptadas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Banco de Empregos: Conexão com oportunidades de trabalho adaptadas.",
+          "start": 1037,
+          "end": 1104
+        },
+        {
+          "name": "Gerenciar rotina diária",
+          "description_of_capacity": "Gerenciar rotina diária",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1313,
+          "evidence": "Rotinas: Adicione e gerencie sua rotina diária.",
+          "start": 1105,
+          "end": 1152
+        },
+        {
+          "name": "Consultar profissionais e serviços inclusivos",
+          "description_of_capacity": "Consultar profissionais e serviços inclusivos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Conecte-se com escolas, centros médicos, profissionais, lojas e serviços com foco inclusivo.",
+          "start": 1174,
+          "end": 1266
+        }
+      ],
+      "annotation_note": "App dedicado à autonomia autista. Agenda de consultas genérica não incluída; não inferido áudio nos pictogramas. Preservada a expressão estranha Mutismo Sazonal / Seletivo apenas como termo da fonte, sem validar diagnóstico.",
+      "protected_source_row_sha256": "2426e8b5ebd18fdfa316ad96c1787f86d3351f391043b6661052b36bd057beb9",
+      "original_notes": ""
+    },
+    {
+      "index": 64,
+      "appId": "co.littlelabs.littletimer",
+      "title": "Little Timer: Hatch Countdown",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "4f688138c5e788c1bc32be7ba8596b84bc4286ffb502fec04355d813c18b903c",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Exibir contagem regressiva visual",
+          "description_of_capacity": "Visualizar tempo restante com contagem regressiva animada",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1260,
+          "evidence": "Seu filho observa a contagem regressiva em torno de um ovo que se quebra.",
+          "start": 1100,
+          "end": 1173
+        },
+        {
+          "name": "Experimentar recompensa positiva ao fim do tempo",
+          "description_of_capacity": "Sinalizar fim de atividade com música suave e animal surpresa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 932,
+          "evidence": "Uma música alegre toca em vez de um alarme estridente",
+          "start": 1252,
+          "end": 1305
+        },
+        {
+          "name": "Alerta de transição por voz",
+          "description_of_capacity": "Receber lembretes de voz nas transições",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1017,
+          "evidence": "Lembretes de voz amigáveis",
+          "start": 1638,
+          "end": 1664
+        }
+      ],
+      "annotation_note": "Mecanismo explicitamente desenvolvido para transições em crianças neurodivergentes. Cenários, fotos e compra de animais não separados como funções específicas.",
+      "protected_source_row_sha256": "c4039e3dacf95d1f6004fe4ae2e8d2226e346791cc421dc0aa6ab092c8e5ab5a",
+      "original_notes": ""
+    },
+    {
+      "index": 65,
+      "appId": "com.Worldwide.count123",
+      "title": "Contando o Autismo 123",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "43f7dbd71156ac46a6cac4605c01daef86aa0db5b5cb70adbd06850dc1ee1439",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Associar números a quantidades",
+          "description_of_capacity": "Associar números de 1 a 20 a quantidades",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 63,
+          "evidence": "cada número é associado a uma quantidade de satélites",
+          "start": 491,
+          "end": 544
+        },
+        {
+          "name": "Jogar quebra-cabeças numéricos",
+          "description_of_capacity": "Jogar quebra-cabeças numéricos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "um quebra-cabeça de números é apresentado como bônus.",
+          "start": 904,
+          "end": 957
+        },
+        {
+          "name": "Jogos de memória",
+          "description_of_capacity": "Jogar jogos da memória com números",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 145,
+          "evidence": "Esses níveis extras incluem quebra-cabeça de girar e jogo da memória.",
+          "start": 997,
+          "end": 1066
+        },
+        {
+          "name": "Ajustar dificuldade de aprendizagem",
+          "description_of_capacity": "Escolher fase e dificuldade de aprendizagem numérica",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 41,
+          "evidence": "o usuário pode escolher qualquer fase para jogar",
+          "start": 1395,
+          "end": 1443
+        }
+      ],
+      "annotation_note": "Aprendizagem numérica explicitamente para crianças autistas; não inferida avaliação diagnóstica nem dificuldade adaptativa automática.",
+      "protected_source_row_sha256": "da05208e0d2681491688842ca5b08914e95d37e25c947b5bcabcf96ed63f6930",
+      "original_notes": ""
+    },
+    {
+      "index": 66,
+      "appId": "com.audhd.app",
+      "title": "AuDHD: Gabay sa Autism at ADHD",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "a9af5ec9d8ce2dadadbbb349b85f1a551345768491278e3742bdefcc2e789a13",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Acessar atividades sensoriais com tempo",
+          "description_of_capacity": "Seguir atividades sensoriais com cronômetro e instruções",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1570,
+          "evidence": "Jogos sensoriais com cronômetros. Cada um inclui uma explicação e um lembrete de segurança",
+          "start": 396,
+          "end": 486
+        },
+        {
+          "name": "Exibir cronograma visual diário",
+          "description_of_capacity": "Organizar dia com cronograma visual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1261,
+          "evidence": "Cronograma visual com imagens para as atividades do dia.",
+          "start": 519,
+          "end": 575
+        },
+        {
+          "name": "Registrar comportamento modelo ABC",
+          "description_of_capacity": "Registrar antecedentes, comportamento e consequências",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 464,
+          "evidence": "Registre o que aconteceu antes, o que a criança fez e o que aconteceu depois.",
+          "start": 690,
+          "end": 767
+        },
+        {
+          "name": "Identificar preferências sensoriais",
+          "description_of_capacity": "Preencher lista de preferências e evitação sensorial",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1712,
+          "evidence": "Descubra quais sensações a criança busca ou evita.",
+          "start": 867,
+          "end": 917
+        },
+        {
+          "name": "Consultar marcos de desenvolvimento por idade",
+          "description_of_capacity": "Consultar marcos de desenvolvimento por idade",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Lista de marcos de desenvolvimento por idade",
+          "start": 946,
+          "end": 990
+        },
+        {
+          "name": "Gerenciar sistema de recompensas",
+          "description_of_capacity": "Recompensar atividades com estrelas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1702,
+          "evidence": "um sistema de recompensas com estrelas",
+          "start": 993,
+          "end": 1031
+        },
+        {
+          "name": "Gerar relatórios clínicos em PDF",
+          "description_of_capacity": "Gerar relatório em PDF para consulta pediátrica",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 431,
+          "evidence": "Tudo o que você registra é gerado em PDF",
+          "start": 1052,
+          "end": 1092
+        }
+      ],
+      "annotation_note": "Observação e apoio em casa para autismo/TDAH. Não inferido diagnóstico; biometria, offline e privacidade excluídos.",
+      "protected_source_row_sha256": "ed51035c96cded222dddf967fa5fbbce65b971ae937141b7ec125b8e897a2be2",
+      "original_notes": ""
+    },
+    {
+      "index": 67,
+      "appId": "com.azatkooman.speakeasy",
+      "title": "SpeakEasy AAC",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "167dba4282e517236cb012ee78902b21a740e1ea09e51f9c812a29b133b8a7ec",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Comunicar por imagem com fala",
+          "description_of_capacity": "Comunicar-se por cartões com síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 592,
+          "evidence": "Embora ofereçamos conversão de texto em fala integrada",
+          "start": 1024,
+          "end": 1078
+        },
+        {
+          "name": "Criar cartões com fotos reais",
+          "description_of_capacity": "Criar cartões de comunicação com fotos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 636,
+          "evidence": "Use a câmera para tirar fotos de objetos reais",
+          "start": 783,
+          "end": 829
+        },
+        {
+          "name": "Gravar vozes de familiares nos cartões",
+          "description_of_capacity": "Gravar vozes familiares para cartões",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 875,
+          "evidence": "Pais ou responsáveis ​​podem gravar áudio para qualquer cartão.",
+          "start": 1110,
+          "end": 1173
+        },
+        {
+          "name": "Criar perfis de usuário",
+          "description_of_capacity": "Criar perfis com quadros de comunicação individualizados",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1996,
+          "evidence": "Crie perfis distintos com idade, configurações e quadros personalizados para cada um.",
+          "start": 1613,
+          "end": 1698
+        }
+      ],
+      "annotation_note": "Perfis explícitos para fonoaudiólogos e famílias com múltiplos usuários. Offline e armazenamento local não anotados como função neuroespecífica.",
+      "protected_source_row_sha256": "b2aa49f271782934d487a332c698eaf4b6feeb687093b3ebde3ffdb1a5d03b79",
+      "original_notes": ""
+    },
+    {
+      "index": 68,
+      "appId": "com.centerforautism.logbook",
+      "title": "Autism Data: Skills® LogBook",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "3913cd9af743b5ffab4eaf864156509a05001d95620219cfb915712cd056c7fe",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Coletar dados de tratamento ABA",
+          "description_of_capacity": "Coletar dados de intervenções ABA em tempo real",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 413,
+          "evidence": "coleta eficiente e precisa em tempo real dados de análise comportamental aplicada tratamento (ABA)",
+          "start": 162,
+          "end": 260
+        },
+        {
+          "name": "Acompanhar evolução do paciente",
+          "description_of_capacity": "Acompanhar resultados e progresso de intervenções ABA",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 400,
+          "evidence": "resultados e acompanhamento de progresso imediato",
+          "start": 273,
+          "end": 322
+        },
+        {
+          "name": "Integrar atividades e metas à avaliação e currículo ABA",
+          "description_of_capacity": "Integrar atividades e metas à avaliação e currículo ABA",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "completa integração com a avaliação ABA mais abrangente e currículo para o tratamento do autismo",
+          "start": 368,
+          "end": 464
+        },
+        {
+          "name": "Atualizar programas de intervenção",
+          "description_of_capacity": "Atualizar programas de intervenção",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Atualizações de programação instantâneas",
+          "start": 964,
+          "end": 1004
+        }
+      ],
+      "annotation_note": "Software profissional para autismo/ABA; programa interpretado como programação terapêutica, não desenvolvimento de software. Offline e sincronização gerais excluídos; eficácia não validada.",
+      "protected_source_row_sha256": "3e02c41a3c1c4b3dd0302581fd58d1294489fb1655c923614bfd946599c7b7f6",
+      "original_notes": ""
+    },
+    {
+      "index": 69,
+      "appId": "com.dokye.abcautismo",
+      "title": "ABC Autismo",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5c31be94528978d9b5c8fa946b481e4d0a642ac3f9c8ed795104a781fb5b53a6",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Realizar atividades pedagógicas baseadas em TEACCH",
+          "description_of_capacity": "Realizar atividades pedagógicas baseadas em TEACCH",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Utilizando fundamentos da metodologia TEACCH",
+          "start": 151,
+          "end": 195
+        },
+        {
+          "name": "Ajustar dificuldade de aprendizagem",
+          "description_of_capacity": "Escolher níveis de dificuldade das atividades",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 41,
+          "evidence": "possui 4 níveis de dificuldade e 40 fases interativas",
+          "start": 418,
+          "end": 471
+        },
+        {
+          "name": "Avaliar aprendizagem por atividades pedagógicas",
+          "description_of_capacity": "Avaliar aprendizagem por atividades pedagógicas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Utilizado por professores, psicólogos e terapeutas para avaliar crianças autistas.",
+          "start": 474,
+          "end": 556
+        }
+      ],
+      "annotation_note": "Não inferido teste diagnóstico, relatório automático ou teor específico das fases. Avaliação entendida no contexto pedagógico anunciado.",
+      "protected_source_row_sha256": "49d9343be123267827fde4e92077d9893a702df2726dbaa5194cc8b33420634a",
+      "original_notes": ""
+    },
+    {
+      "index": 70,
+      "appId": "com.edsistive.east",
+      "title": "EAST - Early Autism Screening",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "b294916770b175780fd7ae89fa3b2f54048500f4cca16d4536dcd6f0c453c1ff",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Realizar triagem precoce de autismo com atividades interativas",
+          "description_of_capacity": "Realizar triagem precoce de autismo com atividades interativas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Pais e professores podem administrar o teste de triagem",
+          "start": 300,
+          "end": 355
+        },
+        {
+          "name": "Visualizar resultados de triagem",
+          "description_of_capacity": "Consultar análise de resultados e marcadores de autismo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 503,
+          "evidence": "identificar facilmente marcadores de autismo usando nossa análise de resultados inteligente.",
+          "start": 358,
+          "end": 450
+        }
+      ],
+      "annotation_note": "Triagem não equivale a diagnóstico. Não confirmadas afirmações de eficácia ou validade clínica da loja.",
+      "protected_source_row_sha256": "3758156c628f6c5c251c3f78b902b5e3e4d28e954e6732353cf26175facd3ffb",
+      "original_notes": ""
+    },
+    {
+      "index": 71,
+      "appId": "com.iabuzz.apk.ConnectTheDotsAll",
+      "title": "Jogo Alfabetos - Jogo Números",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "5da16ca614f3e0a18f92bee52320899932f0dcdb3e53b77d0061585bf719e81d",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Conectar números e letras sequenciais por toque",
+          "description_of_capacity": "Conectar números e letras sequenciais por toque",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "toque nos pontos ou arraste e desenhe linhas para conectar números sequenciais (123) e letras maiúsculas (ABC) ou minúsculas (abc).",
+          "start": 1093,
+          "end": 1224
+        },
+        {
+          "name": "Ouvir pronúncia de números e letras",
+          "description_of_capacity": "Ouvir pronúncia de números e letras",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "cada ponto pronuncia o número ou letra",
+          "start": 1227,
+          "end": 1265
+        },
+        {
+          "name": "Receber dicas visuais e auditivas",
+          "description_of_capacity": "Receber dicas visuais e retorno sobre sequência incorreta",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 199,
+          "evidence": "o próximo ponto na sequência começa a piscar após um intervalo de 4 segundos",
+          "start": 1431,
+          "end": 1507
+        },
+        {
+          "name": "Ajustar dificuldade dos jogos",
+          "description_of_capacity": "Escolher dificuldade de atividades de conectar pontos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 923,
+          "evidence": "Modo fácil e difícil com menos e mais pontos",
+          "start": 1651,
+          "end": 1695
+        }
+      ],
+      "annotation_note": "Atividade pedagógica explicitamente indicada também ao autismo. Vídeos sobre animais, cores dos pontos e idiomas não listados separadamente.",
+      "protected_source_row_sha256": "f6ddbecaa2fd70d50e1c0f4453c79cc5f4fd247c6185fa8b2493859c721def35",
+      "original_notes": ""
+    },
+    {
+      "index": 72,
+      "appId": "com.kdonn.classroomvisualprompts",
+      "title": "Autism Visuals",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "0faadce78514d81423cf3e3e9e369b80fbc50f045913454c134ded772b91c0f2",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Exibir dicas visuais de ações, rotinas e sentimentos em sala",
+          "description_of_capacity": "Exibir dicas visuais de ações, rotinas e sentimentos em sala",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "dicas visuais simples para ações, rotinas e sentimentos em sala de aula",
+          "start": 68,
+          "end": 139
+        }
+      ],
+      "annotation_note": "Não inferidos criação/edição de pictogramas, agendamento nem síntese de fala; descrição apenas anuncia mostrar auxílios visuais para autismo.",
+      "protected_source_row_sha256": "3888657684c6934266676711c415d8c7c0ca8673b56888d9e891c65bb852d5fa",
+      "original_notes": ""
+    },
+    {
+      "index": 73,
+      "appId": "com.kgf.kids.learning.alphabets.tracing",
+      "title": "ABC Kids : Autism Learning",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "1848044bc631aacf9d3b6bf264cf04bb167dabfd6e0954dfe7e355497e735c80",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Traçar letras com áudio guiado",
+          "description_of_capacity": "Traçar letras ouvindo sua pronúncia",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 220,
+          "evidence": "As crianças traçam as letras passo a passo enquanto ouvem a pronúncia correta.",
+          "start": 1177,
+          "end": 1255
+        },
+        {
+          "name": "Associar letras a objetos",
+          "description_of_capacity": "Associar letras a objetos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 62,
+          "evidence": "Combinar letras com objetos",
+          "start": 1290,
+          "end": 1317
+        },
+        {
+          "name": "Aprender pares de letras",
+          "description_of_capacity": "Associar letras maiúsculas e minúsculas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 58,
+          "evidence": "Compreender pares de letras",
+          "start": 1404,
+          "end": 1431
+        },
+        {
+          "name": "Ensinar sons das letras",
+          "description_of_capacity": "Praticar sons das letras",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 105,
+          "evidence": "Aprender os sons das letras",
+          "start": 1507,
+          "end": 1534
+        },
+        {
+          "name": "Colorir e desenhar em atividades do alfabeto",
+          "description_of_capacity": "Colorir e desenhar em atividades do alfabeto",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Desenvolver a criatividade através da coloração e do desenho",
+          "start": 1027,
+          "end": 1087
+        },
+        {
+          "name": "Músicas e poemas para memorização",
+          "description_of_capacity": "Ouvir músicas e poemas do alfabeto",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 156,
+          "evidence": "Desfrutar de músicas suaves e poemas",
+          "start": 1603,
+          "end": 1639
+        },
+        {
+          "name": "Interface de baixa carga sensorial",
+          "description_of_capacity": "Aprender em interface previsível de baixa estimulação",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1726,
+          "evidence": "Distrações mínimas e animações suaves",
+          "start": 645,
+          "end": 682
+        }
+      ],
+      "annotation_note": "Contexto explícito de aprendizagem adaptada ao autismo. Reconhecimento, criatividade e coordenação motora como benefícios, não funções adicionais.",
+      "protected_source_row_sha256": "22061673dd9b5fcc08fef6da381976b6623fd8eb91a432ef38b5fd3a4af82b80",
+      "original_notes": ""
+    },
+    {
+      "index": 74,
+      "appId": "com.lorenzomoreno.pictogramagenda",
+      "title": "PictogramAgenda",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "88431c2a894ba53db837d40604aa48f02cf8e6ab6dd444b9efa8e2b13eed03c2",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Criar agenda com pictogramas",
+          "description_of_capacity": "Criar e ordenar agenda visual com pictogramas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1105,
+          "evidence": "PictogramAgenda permite configurar e ordenar uma sequência de imagens",
+          "start": 1154,
+          "end": 1223
+        },
+        {
+          "name": "Avançar tarefa com destaque visual",
+          "description_of_capacity": "Avançar tarefas com destaque visual da tarefa atual",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1039,
+          "evidence": "mostrando a tarefa atual destacada",
+          "start": 1532,
+          "end": 1566
+        },
+        {
+          "name": "Importar imagens e pictogramas da ARASAAC",
+          "description_of_capacity": "Importar imagens e pictogramas da ARASAAC",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Opção de download direto de pictogramas do site da ARASAAC.",
+          "start": 1938,
+          "end": 1997
+        },
+        {
+          "name": "Riscar pictogramas para cancelar tarefa",
+          "description_of_capacity": "Marcar visualmente tarefas canceladas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1482,
+          "evidence": "Permite riscar pictogramas, para enfatizar o fato de que uma tarefa NÃO será realizada.",
+          "start": 2170,
+          "end": 2257
+        },
+        {
+          "name": "Salvar rotinas em etapas com horários",
+          "description_of_capacity": "Salvar e reutilizar agendas visuais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1483,
+          "evidence": "Permite salvar e carregar os agendamentos gerados para uso posterior.",
+          "start": 2378,
+          "end": 2447
+        },
+        {
+          "name": "Gerar fala a partir de pictogramas",
+          "description_of_capacity": "Ouvir títulos dos pictogramas por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 694,
+          "evidence": "opção de ler os títulos dos pictogramas",
+          "start": 2512,
+          "end": 2551
+        },
+        {
+          "name": "Programar agenda com timer",
+          "description_of_capacity": "Programar avanço automático com início e duração de pictogramas",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1434,
+          "evidence": "Possibilidade de programar o avanço automático de uma agenda",
+          "start": 2604,
+          "end": 2664
+        },
+        {
+          "name": "Adicionar notas aos pictogramas",
+          "description_of_capacity": "Adicionar notas aos pictogramas",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Os pictogramas podem incorporar notas de “memorando”.",
+          "start": 2727,
+          "end": 2780
+        }
+      ],
+      "annotation_note": "Recursos atuais de agenda assistiva; não confundir tarefas não mencionadas com ausentes no aplicativo. Reordenação incluída na criação, sem duplicar.",
+      "protected_source_row_sha256": "6a7e10dea86af93d331843bd72e2355f0d253d624344a3fa82c5aecfeee82b7c",
+      "original_notes": ""
+    },
+    {
+      "index": 75,
+      "appId": "com.pecs.pecstalk.lite",
+      "title": "PECSTalk™ Lite ",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "e5f89df13b4f64f66162642ebc1be5004d6d4bb2678588c9e053d19e16efd105",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Acessar comunicação aumentativa",
+          "description_of_capacity": "Usar comunicação aumentativa e alternativa",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 509,
+          "evidence": "O PECSTalk™ é o aplicativo CAA apropriado para seu filho ou aluno?",
+          "start": 0,
+          "end": 66
+        }
+      ],
+      "annotation_note": "Descrição anuncia teste atual limitado de aplicativo CAA, mas não explica mecanismo. Mantida apenas capacidade ampla anunciada; não inferidos método PECS, cartões, voz ou recursos completos da versão paga. Caso de baixa especificidade para adjudicação.",
+      "protected_source_row_sha256": "7f13889712fdd072d5972bc9b999c9cfc2de72a6c2718f31c5902aaf766013d9",
+      "original_notes": ""
+    },
+    {
+      "index": 76,
+      "appId": "io.tippytalk.community",
+      "title": "TippyTalk Mobile",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "fb29b8dc73b1455adc9c5dbdd53312b8741c6c9e5a450dfd2aa549c912177af8",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Selecionar ilustrações para formar frases",
+          "description_of_capacity": "Construir frases selecionando ilustrações",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 759,
+          "evidence": "O TippyTalker seleciona ilustrações para criar uma frase simples.",
+          "start": 950,
+          "end": 1015
+        },
+        {
+          "name": "Enviar mensagens via pictogramas",
+          "description_of_capacity": "Enviar mensagens pictóricas a familiares e amigos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 668,
+          "evidence": "usam instruções pictóricas para enviar mensagens a amigos e familiares em seus telefones celulares.",
+          "start": 340,
+          "end": 439
+        },
+        {
+          "name": "Receber respostas em vídeo, fotos, áudio ou texto",
+          "description_of_capacity": "Receber respostas em vídeo, fotos, áudio ou texto",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Eles então respondem com vídeo, fotos, áudio ou texto para serem lidos em voz alta.",
+          "start": 440,
+          "end": 523
+        },
+        {
+          "name": "Leitura de mensagens em voz alta",
+          "description_of_capacity": "Ler mensagens em voz alta por síntese de fala",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 713,
+          "evidence": "as mensagens podem ser lidas em voz alta para qualquer pessoa na sala com elas",
+          "start": 600,
+          "end": 678
+        },
+        {
+          "name": "Personalizar símbolos de comunicação",
+          "description_of_capacity": "Personalizar ilustrações do comunicador",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 740,
+          "evidence": "personaliza o aplicativo com ilustrações das coisas favoritas do TippyTalker",
+          "start": 787,
+          "end": 863
+        },
+        {
+          "name": "Gerenciar comunidade privada de comunicação",
+          "description_of_capacity": "Gerenciar comunidade privada de comunicação",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Os gerentes convidam amigos e familiares para a comunidade TippyTalker.",
+          "start": 1820,
+          "end": 1891
+        }
+      ],
+      "annotation_note": "Comunicação bidirecional assistiva explícita; compartilhar mensagens não é a conveniência genérica excluída pelo protocolo.",
+      "protected_source_row_sha256": "7e4a195bca3c6b9a17a71872e809c4aecf07b5e43a59a314fcd169be9c5e1cf3",
+      "original_notes": ""
+    },
+    {
+      "index": 77,
+      "appId": "pkar.AutyzmTest",
+      "title": "AutismTest",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "f86700358705a3eead12385e2842376ad9bbe533137e87a437cc3e24cc2a0662",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Responder questionário Autism-Spectrum Quotient",
+          "description_of_capacity": "Responder questionário Autism-Spectrum Quotient",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "versão computadorizada do teste Autism-Spectrum Quotient",
+          "start": 22,
+          "end": 78
+        }
+      ],
+      "annotation_note": "Não inferidos diagnóstico, relatório, pontuação ou adequação clínica: a única capacidade anunciada é disponibilizar o questionário.",
+      "protected_source_row_sha256": "ea8aba46551eea118e4c9d0c5ca1e5b102ae03b5cbae6c7da766060ac21813fe",
+      "original_notes": ""
+    },
+    {
+      "index": 78,
+      "appId": "uk.co.mymolehillmountain.autistica",
+      "title": "Molehill Mountain",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "240f23ec9ca5317f4b84a3623ddcd1363ccfa0bfb01b33c8f23ac69adfb3e4f8",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Registrar preocupações e situações desencadeadoras de ansiedade",
+          "description_of_capacity": "Registrar preocupações e situações desencadeadoras de ansiedade",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "permite que você rastreie suas preocupações e identifique as situações que desencadeiam sua ansiedade.",
+          "start": 991,
+          "end": 1093
+        },
+        {
+          "name": "Visualizar padrões de check-ins",
+          "description_of_capacity": "Visualizar gráficos de check-ins de ansiedade",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 500,
+          "evidence": "Seus check-ins diários são plotados em um gráfico",
+          "start": 1094,
+          "end": 1143
+        },
+        {
+          "name": "Consultar check-ins anteriores para reconhecer gatilhos",
+          "description_of_capacity": "Consultar check-ins anteriores para reconhecer gatilhos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "você também pode exibir um check-in anterior para ajudá-lo a identificar gatilhos recorrentes",
+          "start": 1193,
+          "end": 1286
+        },
+        {
+          "name": "Acessar dicas de ansiedade",
+          "description_of_capacity": "Consultar dicas de manejo de ansiedade adaptadas ao autismo",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1572,
+          "evidence": "adicionamos dezenas de mini-dicas extras para cobrir muitas das causas comuns de ansiedade e estresse em pessoas autistas",
+          "start": 1527,
+          "end": 1648
+        },
+        {
+          "name": "Realizar exercícios de TCC",
+          "description_of_capacity": "Realizar atividades interativas de TCC",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 1950,
+          "evidence": "O aplicativo também possui atividades CBT interativas que você pode usar a qualquer momento.",
+          "start": 1749,
+          "end": 1841
+        }
+      ],
+      "annotation_note": "Acompanhamento de ansiedade e gatilhos explicitamente voltado a pessoas autistas; histórico e gráfico aqui são específicos, não estatísticas genéricas. Texto institucional não anotado como função.",
+      "protected_source_row_sha256": "d7fa04400542982432746e875c315bfa135b686193097d067521b4abcc4d1f90",
+      "original_notes": ""
+    },
+    {
+      "index": 79,
+      "appId": "com.surfacing.app",
+      "title": "Surfacing: Symptom Tracker",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "7aab7ef97cf9f0739a5eeaeea54296cb907c650c94a2fea4240152320fe3aaa2",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Registrar episódios, sintomas, intensidade e gatilhos",
+          "description_of_capacity": "Registrar episódios, sintomas, intensidade e gatilhos",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Tipo de episódio, intensidade (1-10) e descrição",
+          "start": 1093,
+          "end": 1141
+        },
+        {
+          "name": "Registrar estratégias de enfrentamento e sua utilidade",
+          "description_of_capacity": "Registrar estratégias de enfrentamento e sua utilidade",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Estratégias de enfrentamento e se elas ajudaram",
+          "start": 1200,
+          "end": 1247
+        },
+        {
+          "name": "Organizar registros por condição de neurodesenvolvimento",
+          "description_of_capacity": "Organizar registros por condição de neurodesenvolvimento",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Neurodesenvolvimento: TDAH, autismo, síndrome de Tourette e transtornos de tiques",
+          "start": 1908,
+          "end": 1989
+        },
+        {
+          "name": "Visualizar padrões comportamentais",
+          "description_of_capacity": "Consultar padrões temporais de sintomas e gatilhos",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 499,
+          "evidence": "Frequência e padrões dos episódios",
+          "start": 2735,
+          "end": 2769
+        },
+        {
+          "name": "Exportar dados para profissionais de saúde",
+          "description_of_capacity": "Exportar relatório de sintomas para profissionais",
+          "vocabulary_source": "provided",
+          "provided_vocabulary_row": 7,
+          "evidence": "Exporte um relatório completo e criptografado em segundos.",
+          "start": 3218,
+          "end": 3276
+        }
+      ],
+      "annotation_note": "App multitransdiagnóstico com grupo de neurodesenvolvimento explicitamente suportado. Monitoramento/relatórios de sintomas não são estatísticas genéricas de uso. Não inferido diagnóstico nem concordância com a taxonomia clínica da loja.",
+      "protected_source_row_sha256": "6cae0adbb1ca1e5fc7d075c643a4d297d24ff191b91cd11276de2e062842bafa",
+      "original_notes": ""
+    },
+    {
+      "index": 80,
+      "appId": "it.latouretteeme.ticcami",
+      "title": "Ticcami",
+      "reviewer2_id": "revisor2",
+      "description_sha256": "cd01764886f47f19e2860615dd9f69b4f4d66c292281eedd997f3a83f5484ba7",
+      "reviewer1_visible_during_initial_inspection": false,
+      "features": [
+        {
+          "name": "Ler artigos sobre Tourette e neurodiversidade",
+          "description_of_capacity": "Ler artigos sobre Tourette e neurodiversidade",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Artigos sobre Tourette e neurodiversidade.",
+          "start": 393,
+          "end": 435
+        },
+        {
+          "name": "Ouvir podcasts sobre Tourette",
+          "description_of_capacity": "Ouvir podcasts sobre Tourette",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "ouça podcasts e descubra as atividades da associação",
+          "start": 228,
+          "end": 280
+        },
+        {
+          "name": "Acessar materiais informativos e eventos da associação",
+          "description_of_capacity": "Acessar materiais informativos e eventos da associação",
+          "vocabulary_source": "proposed_new",
+          "provided_vocabulary_row": null,
+          "evidence": "Uma Área de Membros com materiais informativos, eventos",
+          "start": 537,
+          "end": 592
+        }
+      ],
+      "annotation_note": "Informação temática para Tourette, sem inferir tratamento ou aconselhamento médico personalizado. Associação, perfil, favoritos e notificações genéricas excluídos.",
+      "protected_source_row_sha256": "2b565955e918046147bdf27f8f6579743fb5ba687ec1cfe03b17a13a98e82985",
+      "original_notes": ""
+    }
+  ],
+  "protected_fields": [
+    "appId",
+    "stratum",
+    "population_n",
+    "sample_n",
+    "sample_weight",
+    "title",
+    "description",
+    "technical_complete",
+    "extraction_status",
+    "reviewer1_features_json",
+    "adjudicated_features_json",
+    "adjudicated_complete",
+    "reviewer1_id",
+    "adjudicator_id"
+  ],
+  "initial_annotation_file_sha256": "7e5bdbdb6c7f6880485f0b71413a560ee14191a70b6d29437030b537375302ce",
+  "annotation_labels_frozen_before_full_reviewer1_comparison": true,
+  "evidence_corrections_after_comparison": [
+    {
+      "appId": "com.liba.voicetext",
+      "feature_index_1based": 1,
+      "reason": "Substituído trecho apenas de público-alvo por trecho que descreve conversão de PDF em áudio. Rótulo não alterado."
+    }
+  ],
+  "annotation_status": "second annotation filled; all human adjudications pending",
+  "summary": {
+    "apps": 80,
+    "reviewer1_associations": 165,
+    "reviewer2_associations": 351,
+    "reviewer1_empty_arrays": 4,
+    "reviewer2_empty_arrays": 1,
+    "provided_vocabulary_associations": 255,
+    "new_label_associations": 96,
+    "new_distinct_labels": 93,
+    "pending_adjudications": 80,
+    "sample_population": 595,
+    "strata": {
+      "AHSD": {
+        "population_n": 10,
+        "sample_n": 4
+      },
+      "DI": {
+        "population_n": 9,
+        "sample_n": 4
+      },
+      "DISCALCULIA": {
+        "population_n": 36,
+        "sample_n": 7
+      },
+      "DISGRAFIA": {
+        "population_n": 26,
+        "sample_n": 6
+      },
+      "DISLEXIA": {
+        "population_n": 70,
+        "sample_n": 10
+      },
+      "TDAH": {
+        "population_n": 212,
+        "sample_n": 18
+      },
+      "TDC": {
+        "population_n": 25,
+        "sample_n": 6
+      },
+      "TDL": {
+        "population_n": 38,
+        "sample_n": 7
+      },
+      "TEA": {
+        "population_n": 166,
+        "sample_n": 16
+      },
+      "TOURETTE": {
+        "population_n": 3,
+        "sample_n": 2
+      }
+    },
+    "all_labels_exactly_match_reviewer1_after_case_accent_normalization_apps": 1,
+    "semantic_agreement_measured": false,
+    "precision_recall_f1_computed": false
+  },
+  "reviewer2_labels_sha256": "f5f0bae333d9d18bf62c423b0f70f41651611d3067ca7d92f1eefc2f05283a7b",
+  "original_auxiliary_sha256": {
+    "desmet-reference-template-protocolo.txt": "c274decedf94a158e25becfadfe500fbc94be7c26ac2d5ee8a5dd85fa9c3c257",
+    "desmet-reference-template-vocabulario.csv": "8cb8354f4617b7f85e74c7dfdc9dcc8e0d5aca602102f92b9fc30a083ab8bf60"
+  },
+  "methodology": {
+    "annotation_assistance": "A segunda anotação foi elaborada com apoio do ChatGPT, conforme autorizado na tarefa. O identificador na tabela é neutro: revisor2. A adjudicação permanece pendente.",
+    "identity_note": "O identificador da coluna foi alterado por preferência da usuária; respostas, evidências e decisões não mudaram."
+  }
+}
