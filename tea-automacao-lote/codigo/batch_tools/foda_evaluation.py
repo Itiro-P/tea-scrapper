@@ -53,6 +53,46 @@ def _prf(tp: float, fp: float, fn: float) -> tuple[float, float, float]:
     f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
     return precision, recall, f1
 
+_STOP = {"de", "da", "do", "das", "dos", "para", "com", "e", "em", "a", "o", "as", "os", "por",
+         "ao", "aos", "na", "no", "nas", "nos", "um", "uma", "ou", "que", "se", "pelo", "pela"}
+
+
+def _stems(text: str) -> frozenset[str]:
+    """Radicais de 5 letras das palavras de conteúdo (o texto já vem sem acento e em minúsculas)."""
+    return frozenset(w[:5] for w in re.findall(r"[a-z0-9]+", text) if w not in _STOP and len(w) > 2)
+
+
+def _align(reference: set[str], other: set[str], threshold: float):
+    """Pareamento guloso um-para-um por Jaccard de radicais. Devolve (pares, fp, fn)."""
+    stems = {text: _stems(text) for text in (*reference, *other)}
+    scored = []
+    for ref in reference:
+        for oth in other:
+            union = stems[ref] | stems[oth]
+            score = len(stems[ref] & stems[oth]) / len(union) if union else 0.0
+            if score >= threshold:
+                scored.append((score, ref, oth))
+    scored.sort(key=lambda item: (-item[0], item[1], item[2]))
+    used_ref, used_oth, pairs = set(), set(), []
+    for score, ref, oth in scored:
+        if ref in used_ref or oth in used_oth:
+            continue
+        used_ref.add(ref)
+        used_oth.add(oth)
+        pairs.append((ref, oth, score))
+    return pairs, len(other) - len(pairs), len(reference) - len(pairs)
+
+
+def _aligned_score(rows, threshold: float) -> dict:
+    """rows: lista de (peso, referência, outro)."""
+    tp = fp = fn = 0.0
+    for weight, reference, other in rows:
+        pairs, extra, missing = _align(reference, other, threshold)
+        tp += len(pairs) * weight
+        fp += extra * weight
+        fn += missing * weight
+    precision, recall, f1 = _prf(tp, fp, fn)
+    return {"tp": tp, "fp": fp, "fn": fn, "precision": precision, "recall": recall, "f1": f1}
 
 def _write_csv(path: Path, fields: list[str], rows: list[dict[str, Any]]) -> None:
     if path.exists():
@@ -283,13 +323,15 @@ def _feature_set(value: str, field: str, app_id: str) -> set[str]:
     return normalized
 
 
-def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str = "complete") -> dict:
+def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str = "complete", threshold: float = 0.5) -> dict:
     out = out.resolve()
     reference = reference.resolve()
     checkpoint = out / "foda-checkpoint.sqlite3"
     matrix_path = out / "app-feature-matrix.csv"
     if scope not in {"complete", "all"}:
         raise ValueError("scope deve ser 'complete' ou 'all'.")
+    if not 0 < threshold <= 1:
+        raise ValueError("threshold deve estar em (0, 1].")
     if not checkpoint.is_file() or not matrix_path.is_file():
         raise ValueError("Checkpoint ou app-feature-matrix.csv ausente; conclua run e export primeiro.")
     with sqlite3.connect(checkpoint) as db:
@@ -308,6 +350,7 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
         raise ValueError("Referência humana vazia.")
     reference_ids: set[str] = set()
     reviewer_pairs: list[tuple[set[str], set[str]]] = []
+    reviewer_sets: dict[str, tuple[set[str], set[str]]] = {}
     actual_sample_counts: Counter[str] = Counter()
     for row in ref_rows:
         app_id = (row.get("appId") or "").strip()
@@ -331,6 +374,7 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
         reviewer2 = _feature_set(row.get("reviewer2_features_json") or "", "reviewer2_features_json", app_id)
         _feature_set(row.get("adjudicated_features_json") or "", "adjudicated_features_json", app_id)
         reviewer_pairs.append((reviewer1, reviewer2))
+        reviewer_sets[app_id] = (reviewer1, reviewer2)
 
     predictions: dict[str, set[str]] = {}
     vocabulary: set[str] = set()
@@ -367,6 +411,8 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
             "weight": population_n / sample_n,
             "gold": gold,
             "predicted": predictions.get(app_id, set()),
+            "r1": reviewer_sets[app_id][0],
+            "r2": reviewer_sets[app_id][1],
         })
 
     weighted_tp = weighted_fp = weighted_fn = 0.0
@@ -401,12 +447,47 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
     for key, values in sorted(per_stratum.items()):
         p, r, f = _prf(values["tp"], values["fp"], values["fn"])
         stratum_reports[key] = {**values, "precision": p, "recall": r, "f1": f}
+    comparisons = {
+        "pipeline_vs_adjudicated": ("gold", "predicted"),
+        "reviewer1_vs_adjudicated": ("gold", "r1"),
+        "reviewer2_vs_adjudicated": ("gold", "r2"),
+        "reviewer1_vs_reviewer2": ("r1", "r2"),   # teto humano
+    }
+
+    def aligned_block(level: float) -> dict:
+        return {name: _aligned_score([(i["weight"], i[a], i[b]) for i in evaluated], level)
+                for name, (a, b) in comparisons.items()}
+
+    scores = aligned_block(threshold)
+    ceiling = scores["reviewer1_vs_reviewer2"]["f1"]
+    aligned_by_stratum = {}
+    for name in sorted({i["stratum"] for i in evaluated}):
+        rows = [(i["weight"], i["gold"], i["predicted"]) for i in evaluated if i["stratum"] == name]
+        entry = _aligned_score(rows, threshold)
+        entry["sample_n"] = len(rows)
+        entry["reportable"] = len(rows) >= 5
+        aligned_by_stratum[name] = entry
+    aligned = {
+        "method": "Pareamento guloso um-para-um por Jaccard de radicais (5 letras, sem stopwords); aproximação automática.",
+        "threshold": threshold,
+        "scores": scores,
+        "pipeline_f1_relative_to_inter_rater_f1": round(scores["pipeline_vs_adjudicated"]["f1"] / ceiling, 4) if ceiling else None,
+        "sensitivity_f1": {str(level): {name: value["f1"] for name, value in aligned_block(level).items()}
+                        for level in (0.3, 0.4, 0.5, 0.6)},
+        "per_stratum_pipeline_vs_adjudicated": aligned_by_stratum,
+    }
+    pair_rows = []
+    for item in evaluated:
+        pairs, _, _ = _align(item["gold"], item["predicted"], threshold)
+        pair_rows += [{"appId": item["appId"], "gold": g, "pipeline": p, "similarity": f"{s:.2f}",
+                    "alignment_correct": ""} for g, p, s in pairs]
     result = {
         "protocol": "DESMET case study; human-adjudicated reference; app-level set match after accent/case normalization",
         "scope": scope,
         "reference_file": str(reference),
         "sample_apps": len(evaluated),
         "population_estimate": sum(meta[0] for meta in strata_meta.values()),
+        "aligned": aligned,
         "weighted_micro": {
             "tp": weighted_tp, "fp": weighted_fp, "fn": weighted_fn,
             "precision": precision, "recall": recall, "f1": f1,
@@ -441,6 +522,9 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
         ],
     }
     output = (report or out / "desmet-report.json").resolve()
+    pairs_path = output.with_name(output.stem + "-pares.csv")
+    if pairs_path.exists():
+        raise FileExistsError(f"Arquivo já existe; não será sobrescrito: {pairs_path}")
     if output.exists():
         raise FileExistsError(f"Relatório já existe; não será sobrescrito: {output}")
     output.parent.mkdir(parents=True, exist_ok=True)
@@ -451,5 +535,7 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
     finally:
         if temp.exists():
             temp.unlink()
+    _write_csv(pairs_path, ["appId", "gold", "pipeline", "similarity", "alignment_correct"], pair_rows)
+    result["aligned_pairs_file"] = str(pairs_path)
     result["report"] = str(output)
     return result

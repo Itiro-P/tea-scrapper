@@ -890,6 +890,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--retry-errors", action="store_true")
     p = sub.add_parser("structure-status", help="Consultar o progresso da estrutura global.")
     p.add_argument("--out", type=Path, required=True)
+    p.add_argument("--threshold", type=float, default=0.5)
     args = parser.parse_args(argv)
     try:
         if args.command == "prepare":
@@ -902,7 +903,7 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "sample":
             result = create_sample(args.out, args.sample_size, args.seed, args.output, args.scope)
         elif args.command == "evaluate":
-            result = evaluate(args.out, args.reference, args.report, args.scope)
+            result = evaluate(args.out, args.reference, args.report, args.scope, args.threshold)
         elif args.command == "structure-prepare":
             result = prepare_structure(args.out, args.batch_size)
         elif args.command == "structure-run":
