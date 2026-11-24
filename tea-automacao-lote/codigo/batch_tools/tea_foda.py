@@ -877,6 +877,7 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--out", type=Path, required=True)
     p.add_argument("--reference", type=Path, required=True)
     p.add_argument("--report", type=Path)
+    p.add_argument("--threshold", type=float, default=0.5)
     p = sub.add_parser("structure-prepare", help="Criar consolidação semântica global e lotes de hierarquia.")
     p.add_argument("--out", type=Path, required=True)
     p.add_argument("--batch-size", type=int, default=50)
@@ -890,7 +891,6 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--retry-errors", action="store_true")
     p = sub.add_parser("structure-status", help="Consultar o progresso da estrutura global.")
     p.add_argument("--out", type=Path, required=True)
-    p.add_argument("--threshold", type=float, default=0.5)
     args = parser.parse_args(argv)
     try:
         if args.command == "prepare":

@@ -1,9 +1,176 @@
 {
   "protocol": "DESMET case study; human-adjudicated reference; app-level set match after accent/case normalization",
   "scope": "complete",
-  "reference_file": "/home/itiro/repos/tea-scrapper/analysis/foda-lote-3141-v4/desmet-reference-template.csv",
+  "reference_file": "/home/a2650517/tea-scrapper/analysis/foda-lote-3141-v4/desmet-reference-template.csv",
   "sample_apps": 80,
   "population_estimate": 595,
+  "aligned": {
+    "method": "Pareamento guloso um-para-um por Jaccard de radicais (5 letras, sem stopwords); aproximação automática.",
+    "threshold": 0.5,
+    "scores": {
+      "pipeline_vs_adjudicated": {
+        "tp": 1017.5992063492065,
+        "fp": 1140.9603174603178,
+        "fn": 1743.4087301587301,
+        "precision": 0.47142513103057776,
+        "recall": 0.3685607682954523,
+        "f1": 0.41369458374437684
+      },
+      "reviewer1_vs_adjudicated": {
+        "tp": 794.4226190476192,
+        "fp": 820.3948412698413,
+        "fn": 1966.5853174603178,
+        "precision": 0.4919581553765476,
+        "recall": 0.2877292051729441,
+        "f1": 0.36309612336176034
+      },
+      "reviewer2_vs_adjudicated": {
+        "tp": 2692.3968253968255,
+        "fp": 5.0,
+        "fn": 68.61111111111111,
+        "precision": 0.9981463609829583,
+        "recall": 0.9751499768603022,
+        "f1": 0.9865141713885242
+      },
+      "reviewer1_vs_reviewer2": {
+        "tp": 730.8115079365081,
+        "fp": 1966.5853174603178,
+        "fn": 884.0059523809522,
+        "precision": 0.27093214504283963,
+        "recall": 0.45256601807664154,
+        "f1": 0.33894953242818937
+      }
+    },
+    "pipeline_f1_relative_to_inter_rater_f1": 1.2205,
+    "sensitivity_f1": {
+      "0.3": {
+        "pipeline_vs_adjudicated": 0.4641289118365194,
+        "reviewer1_vs_adjudicated": 0.4112085883116836,
+        "reviewer2_vs_adjudicated": 0.9865141713885242,
+        "reviewer1_vs_reviewer2": 0.38777172262620574
+      },
+      "0.4": {
+        "pipeline_vs_adjudicated": 0.4374779690110194,
+        "reviewer1_vs_adjudicated": 0.40534302825408003,
+        "reviewer2_vs_adjudicated": 0.9865141713885242,
+        "reviewer1_vs_reviewer2": 0.38181963746390374
+      },
+      "0.5": {
+        "pipeline_vs_adjudicated": 0.41369458374437684,
+        "reviewer1_vs_adjudicated": 0.36309612336176034,
+        "reviewer2_vs_adjudicated": 0.9865141713885242,
+        "reviewer1_vs_reviewer2": 0.33894953242818937
+      },
+      "0.6": {
+        "pipeline_vs_adjudicated": 0.3742747418593227,
+        "reviewer1_vs_adjudicated": 0.3110043638025661,
+        "reviewer2_vs_adjudicated": 0.9865141713885242,
+        "reviewer1_vs_reviewer2": 0.2860893475344122
+      }
+    },
+    "per_stratum_pipeline_vs_adjudicated": {
+      "AHSD": {
+        "tp": 5.0,
+        "fp": 10.0,
+        "fn": 32.5,
+        "precision": 0.3333333333333333,
+        "recall": 0.13333333333333333,
+        "f1": 0.19047619047619044,
+        "sample_n": 4,
+        "reportable": false
+      },
+      "DI": {
+        "tp": 20.25,
+        "fp": 13.5,
+        "fn": 22.5,
+        "precision": 0.6,
+        "recall": 0.47368421052631576,
+        "f1": 0.5294117647058824,
+        "sample_n": 4,
+        "reportable": false
+      },
+      "DISCALCULIA": {
+        "tp": 82.28571428571428,
+        "fp": 82.28571428571429,
+        "fn": 87.42857142857144,
+        "precision": 0.5,
+        "recall": 0.48484848484848475,
+        "f1": 0.4923076923076923,
+        "sample_n": 7,
+        "reportable": true
+      },
+      "DISGRAFIA": {
+        "tp": 26.0,
+        "fp": 56.33333333333333,
+        "fn": 56.33333333333333,
+        "precision": 0.31578947368421056,
+        "recall": 0.31578947368421056,
+        "f1": 0.31578947368421056,
+        "sample_n": 6,
+        "reportable": true
+      },
+      "DISLEXIA": {
+        "tp": 28.0,
+        "fp": 49.0,
+        "fn": 259.0,
+        "precision": 0.36363636363636365,
+        "recall": 0.0975609756097561,
+        "f1": 0.15384615384615385,
+        "sample_n": 10,
+        "reportable": true
+      },
+      "TDAH": {
+        "tp": 435.7777777777777,
+        "fp": 588.888888888889,
+        "fn": 683.1111111111112,
+        "precision": 0.425287356321839,
+        "recall": 0.38947368421052625,
+        "f1": 0.40659340659340654,
+        "sample_n": 18,
+        "reportable": true
+      },
+      "TDC": {
+        "tp": 37.5,
+        "fp": 79.16666666666667,
+        "fn": 62.5,
+        "precision": 0.3214285714285714,
+        "recall": 0.375,
+        "f1": 0.34615384615384615,
+        "sample_n": 6,
+        "reportable": true
+      },
+      "TDL": {
+        "tp": 92.2857142857143,
+        "fp": 54.28571428571429,
+        "fn": 92.28571428571429,
+        "precision": 0.6296296296296295,
+        "recall": 0.5,
+        "f1": 0.5573770491803278,
+        "sample_n": 7,
+        "reportable": true
+      },
+      "TEA": {
+        "tp": 290.5,
+        "fp": 207.5,
+        "fn": 435.75,
+        "precision": 0.5833333333333334,
+        "recall": 0.4,
+        "f1": 0.4745762711864407,
+        "sample_n": 16,
+        "reportable": true
+      },
+      "TOURETTE": {
+        "tp": 0.0,
+        "fp": 0.0,
+        "fn": 12.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "sample_n": 2,
+        "reportable": false
+      }
+    }
+  },
   "weighted_micro": {
     "tp": 836.8630952380952,
     "fp": 1321.6964285714282,
@@ -44,11 +211,11 @@
         1
       ],
       [
-        "registrar atividades e evolucao terapeutica e escolar",
+        "acompanhar desenvolvimento da crianca em tempo real",
         1
       ],
       [
-        "acompanhar desenvolvimento da crianca em tempo real",
+        "registrar atividades e evolucao terapeutica e escolar",
         1
       ],
       [
@@ -56,11 +223,11 @@
         1
       ],
       [
-        "realizar estimulacao cognitiva relacionada a dislexia",
+        "avaliar habilidades cognitivas relacionadas a dislexia",
         1
       ],
       [
-        "avaliar habilidades cognitivas relacionadas a dislexia",
+        "realizar estimulacao cognitiva relacionada a dislexia",
         1
       ],
       [
@@ -72,11 +239,11 @@
         1
       ],
       [
-        "alternar leitura por pagina frase ou palavra",
+        "importar livros por pdf ou fotografia",
         1
       ],
       [
-        "importar livros por pdf ou fotografia",
+        "alternar leitura por pagina frase ou palavra",
         1
       ],
       [
@@ -84,11 +251,11 @@
         1
       ],
       [
-        "ler conteudo e entrevistas sobre dificuldades de aprendizagem",
+        "consultar avaliacoes de recursos para dificuldades de aprendizagem",
         1
       ],
       [
-        "consultar avaliacoes de recursos para dificuldades de aprendizagem",
+        "ler conteudo e entrevistas sobre dificuldades de aprendizagem",
         1
       ],
       [
@@ -128,11 +295,11 @@
         1
       ],
       [
-        "reformular frases",
+        "corrigir gramatica ortografia pontuacao e sintaxe",
         1
       ],
       [
-        "corrigir gramatica ortografia pontuacao e sintaxe",
+        "reformular frases",
         1
       ],
       [
@@ -152,19 +319,19 @@
         1
       ],
       [
-        "realizar avaliacao antes e depois do treino de alfabetizacao",
-        1
-      ],
-      [
         "praticar alfabetizacao multissensorial",
         1
       ],
       [
-        "praticar regras ortograficas associadas ao ritmo da fala",
+        "realizar avaliacao antes e depois do treino de alfabetizacao",
         1
       ],
       [
         "reconhecer silaba tonica nas palavras",
+        1
+      ],
+      [
+        "praticar regras ortograficas associadas ao ritmo da fala",
         1
       ],
       [
@@ -176,11 +343,11 @@
         1
       ],
       [
-        "avancar automaticamente etapas com temporizador",
+        "receber guia por voz para rotinas",
         1
       ],
       [
-        "receber guia por voz para rotinas",
+        "avancar automaticamente etapas com temporizador",
         1
       ],
       [
@@ -196,15 +363,15 @@
         1
       ],
       [
+        "revisar padroes de distracao e duracao das sessoes",
+        1
+      ],
+      [
         "construir habitat virtual por sessoes de foco",
         1
       ],
       [
         "realizar sessoes de foco com primeiro passo opcional",
-        1
-      ],
-      [
-        "revisar padroes de distracao e duracao das sessoes",
         1
       ],
       [
