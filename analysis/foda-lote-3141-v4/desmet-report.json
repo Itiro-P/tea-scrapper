@@ -1,0 +1,342 @@
+{
+  "protocol": "DESMET case study; human-adjudicated reference; app-level set match after accent/case normalization",
+  "scope": "complete",
+  "reference_file": "/home/itiro/repos/tea-scrapper/analysis/foda-lote-3141-v4/desmet-reference-template.csv",
+  "sample_apps": 80,
+  "population_estimate": 595,
+  "weighted_micro": {
+    "tp": 836.8630952380952,
+    "fp": 1321.6964285714282,
+    "fn": 1924.144841269842,
+    "precision": 0.38769516708122154,
+    "recall": 0.30310057576166965,
+    "f1": 0.3402181602299208
+  },
+  "unweighted_macro_app": {
+    "precision": 0.3279877067377067,
+    "recall": 0.27900477994227996,
+    "f1": 0.27817747407820936
+  },
+  "exact_app_match": 0.025,
+  "inter_rater_agreement": {
+    "exact_set_match": 0.025,
+    "mean_jaccard": 0.14982951076701076,
+    "apps": 80
+  },
+  "gold_out_of_vocabulary": {
+    "distinct_labels": 92,
+    "occurrences": 95,
+    "top_labels": [
+      [
+        "bloquear edicao das pranchas de comunicacao",
+        2
+      ],
+      [
+        "fotografar texto para leitura em voz alta",
+        2
+      ],
+      [
+        "praticar respiracao quadrada",
+        2
+      ],
+      [
+        "realizar tarefas de atencao e controle de impulsos para tdah",
+        1
+      ],
+      [
+        "registrar atividades e evolucao terapeutica e escolar",
+        1
+      ],
+      [
+        "acompanhar desenvolvimento da crianca em tempo real",
+        1
+      ],
+      [
+        "destacar cartoes durante a reproducao da fala",
+        1
+      ],
+      [
+        "realizar estimulacao cognitiva relacionada a dislexia",
+        1
+      ],
+      [
+        "avaliar habilidades cognitivas relacionadas a dislexia",
+        1
+      ],
+      [
+        "participar de pesquisas cognitivas sobre dislexia",
+        1
+      ],
+      [
+        "explorar espaco guiado de autoconhecimento neurodivergente",
+        1
+      ],
+      [
+        "alternar leitura por pagina frase ou palavra",
+        1
+      ],
+      [
+        "importar livros por pdf ou fotografia",
+        1
+      ],
+      [
+        "consultar conselhos especializados sobre dificuldades de aprendizagem",
+        1
+      ],
+      [
+        "ler conteudo e entrevistas sobre dificuldades de aprendizagem",
+        1
+      ],
+      [
+        "consultar avaliacoes de recursos para dificuldades de aprendizagem",
+        1
+      ],
+      [
+        "acompanhar progresso de aprendizagem para responsaveis",
+        1
+      ],
+      [
+        "praticar leitura e escrita com jogos personalizados",
+        1
+      ],
+      [
+        "ajustar dificuldade ordem tempo e pictogramas das tarefas",
+        1
+      ],
+      [
+        "realizar aprendizagem multissensorial",
+        1
+      ],
+      [
+        "realizar neurofeedback",
+        1
+      ],
+      [
+        "ler livros de rotinas diarias adaptados a necessidades especiais",
+        1
+      ],
+      [
+        "consultar relatorio de dificuldades na leitura",
+        1
+      ],
+      [
+        "buscar licoes por fonogramas",
+        1
+      ],
+      [
+        "praticar leitura escrita e linguagem em urdu por jogos",
+        1
+      ],
+      [
+        "reformular frases",
+        1
+      ],
+      [
+        "corrigir gramatica ortografia pontuacao e sintaxe",
+        1
+      ],
+      [
+        "usar leitores de tela",
+        1
+      ],
+      [
+        "resumir elementos visuais durante leitura em voz alta",
+        1
+      ],
+      [
+        "omitir elementos desnecessarios na leitura em voz alta",
+        1
+      ],
+      [
+        "importar ou digitalizar conteudo para leitura em voz alta",
+        1
+      ],
+      [
+        "realizar avaliacao antes e depois do treino de alfabetizacao",
+        1
+      ],
+      [
+        "praticar alfabetizacao multissensorial",
+        1
+      ],
+      [
+        "praticar regras ortograficas associadas ao ritmo da fala",
+        1
+      ],
+      [
+        "reconhecer silaba tonica nas palavras",
+        1
+      ],
+      [
+        "reduzir area de texto e usar rolagem automatica para foco",
+        1
+      ],
+      [
+        "selecionar voz e ajustar velocidade de leitura",
+        1
+      ],
+      [
+        "avancar automaticamente etapas com temporizador",
+        1
+      ],
+      [
+        "receber guia por voz para rotinas",
+        1
+      ],
+      [
+        "praticar padroes com os dedos para memoria de trabalho",
+        1
+      ],
+      [
+        "organizar tarefas por comodo com temporizadores",
+        1
+      ],
+      [
+        "organizar pensamentos em diario digital",
+        1
+      ],
+      [
+        "construir habitat virtual por sessoes de foco",
+        1
+      ],
+      [
+        "realizar sessoes de foco com primeiro passo opcional",
+        1
+      ],
+      [
+        "revisar padroes de distracao e duracao das sessoes",
+        1
+      ],
+      [
+        "receber sugestoes de habitos personalizadas com ia",
+        1
+      ],
+      [
+        "preparar solicitacao de consulta pre preenchida",
+        1
+      ],
+      [
+        "redirecionar solicitacao de consulta ao doctolib",
+        1
+      ],
+      [
+        "responder perguntas de elegibilidade para consulta de tdah",
+        1
+      ],
+      [
+        "criar tarefas por voz e texto com deteccao automatica de datas",
+        1
+      ]
+    ],
+    "note": "Rótulos adjudicados que não existem no vocabulário do pipeline. Podem ser falhas reais de extração ou só diferença de redação; revise antes de interpretar o recall."
+  },
+  "per_stratum": {
+    "AHSD": {
+      "population_n": 10.0,
+      "sample_n": 4.0,
+      "tp": 2.0,
+      "fp": 4.0,
+      "fn": 13.0,
+      "precision": 0.3333333333333333,
+      "recall": 0.13333333333333333,
+      "f1": 0.19047619047619044
+    },
+    "DI": {
+      "population_n": 9.0,
+      "sample_n": 4.0,
+      "tp": 8.0,
+      "fp": 7.0,
+      "fn": 11.0,
+      "precision": 0.5333333333333333,
+      "recall": 0.42105263157894735,
+      "f1": 0.47058823529411764
+    },
+    "DISCALCULIA": {
+      "population_n": 36.0,
+      "sample_n": 7.0,
+      "tp": 11.0,
+      "fp": 21.0,
+      "fn": 22.0,
+      "precision": 0.34375,
+      "recall": 0.3333333333333333,
+      "f1": 0.3384615384615385
+    },
+    "DISGRAFIA": {
+      "population_n": 26.0,
+      "sample_n": 6.0,
+      "tp": 6.0,
+      "fp": 13.0,
+      "fn": 13.0,
+      "precision": 0.3157894736842105,
+      "recall": 0.3157894736842105,
+      "f1": 0.3157894736842105
+    },
+    "DISLEXIA": {
+      "population_n": 70.0,
+      "sample_n": 10.0,
+      "tp": 4.0,
+      "fp": 7.0,
+      "fn": 37.0,
+      "precision": 0.36363636363636365,
+      "recall": 0.0975609756097561,
+      "f1": 0.15384615384615385
+    },
+    "TDAH": {
+      "population_n": 212.0,
+      "sample_n": 18.0,
+      "tp": 27.0,
+      "fp": 60.0,
+      "fn": 68.0,
+      "precision": 0.3103448275862069,
+      "recall": 0.28421052631578947,
+      "f1": 0.2967032967032967
+    },
+    "TDC": {
+      "population_n": 25.0,
+      "sample_n": 6.0,
+      "tp": 7.0,
+      "fp": 21.0,
+      "fn": 17.0,
+      "precision": 0.25,
+      "recall": 0.2916666666666667,
+      "f1": 0.2692307692307692
+    },
+    "TDL": {
+      "population_n": 38.0,
+      "sample_n": 7.0,
+      "tp": 14.0,
+      "fp": 13.0,
+      "fn": 20.0,
+      "precision": 0.5185185185185185,
+      "recall": 0.4117647058823529,
+      "f1": 0.45901639344262296
+    },
+    "TEA": {
+      "population_n": 166.0,
+      "sample_n": 16.0,
+      "tp": 27.0,
+      "fp": 21.0,
+      "fn": 43.0,
+      "precision": 0.5625,
+      "recall": 0.38571428571428573,
+      "f1": 0.45762711864406785
+    },
+    "TOURETTE": {
+      "population_n": 3.0,
+      "sample_n": 2.0,
+      "tp": 0.0,
+      "fp": 0.0,
+      "fn": 8.0,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  },
+  "limitations": [
+    "Acurácia é relativa à descrição e à referência humana, não ao comportamento do app instalado.",
+    "Com scope='complete', mede só a extração sobre apps já classificados como relevantes; a acurácia do classificador de relevância precisa de avaliação própria.",
+    "Equivalência semântica é pontuada por rótulo após normalização de acento/caixa; o vocabulário compartilhado reduz, mas não elimina, diferenças de redação.",
+    "A amostra e seus pesos precisam representar o universo definido; a estimativa não cobre apps excluídos da população.",
+    "DESMET avalia o processo e a evidência; métricas não tornam o modelo FODA semanticamente completo por si sós."
+  ]
+}
