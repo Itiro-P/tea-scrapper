@@ -8,10 +8,10 @@ import random
 import re
 import sqlite3
 import unicodedata
-from collections import Counter, defaultdict
+from collections import defaultdict
+import csv
 from pathlib import Path
-from typing import Any
-
+from typing import Dict, Set, DefaultDict, Any
 
 REFERENCE_FIELDS = [
     "appId", "stratum", "population_n", "sample_n", "sample_weight", "title", "description",
@@ -540,107 +540,189 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
     result["report"] = str(output)
     return result
 
-def desmet_matrix(out: Path):
-    features_info = {}
-
-    prop_path = out / "structure-proposals.json"
+def desmet_matrix(out: Path) -> Dict[str, Any]:
+    # 1. Carregar mapeamentos do structure-proposals.json
     proposals_data = None
+    prop_path = out / "structure-proposals.json"
     if prop_path.exists():
         with prop_path.open(encoding="utf-8-sig") as stream:
             proposals_data = json.load(stream)
 
+    id_to_proposal_feat = {}
+    name_to_proposal_id = {}
+    feature_categories = {}
+
     if proposals_data:
         for feat in proposals_data.get("features", []):
-            feat_name = feat.get("name")
-            if feat_name:
-                features_info[feat_name] = {
-                    "id": feat.get("id", ""),
-                    "category": feat.get("category", "Geral"),
-                    "model_count": 0,
+            feat_id = feat.get("id", "").strip()
+            feat_name = feat.get("name", "").strip()
+            category = feat.get("category", "Geral").strip()
+            if feat_id and feat_name:
+                id_to_proposal_feat[feat_id] = {
+                    "name": feat_name,
+                    "category": category if category else "Geral",
                 }
+                name_to_proposal_id[feat_name] = feat_id
+            if feat_name:
+                feature_categories[feat_name] = category if category else "Geral"
+            if feat_id:
+                feature_categories[feat_id] = category if category else "Geral"
 
-    # 2. Carregar dados do foda-model.json (caso exista e complemente)
+    # Carregar contagens do foda-model.json (opcional)
     foda_path = out / "foda-model.json"
+    foda_model_counts = {}
     if foda_path.exists():
         with foda_path.open(encoding="utf-8-sig") as stream:
             foda_data = json.load(stream)
-            for category in foda_data.get("feature_model", []):
-                cat_name = category.get("name", "Sem Categoria")
-                for feat in category.get("features", []):
-                    feat_name = feat.get("name")
+            for cat_obj in foda_data.get("feature_model", []):
+                cat_name = cat_obj.get("name", "Sem Categoria").strip()
+                for feat in cat_obj.get("features", []):
+                    feat_id = feat.get("id", "").strip()
+                    feat_name = feat.get("name", "").strip()
+                    model_count = feat.get("observed_apps_including_incomplete", 0)
+                    if feat_id:
+                        foda_model_counts[feat_id] = model_count
+                        if cat_name and feat_id not in feature_categories:
+                            feature_categories[feat_id] = cat_name
                     if feat_name:
-                        if feat_name not in features_info:
-                            features_info[feat_name] = {
-                                "id": feat.get("id", ""),
-                                "category": cat_name,
-                                "model_count": feat.get(
-                                    "observed_apps_including_incomplete", 0
-                                ),
-                            }
-                        else:
-                            # Atualiza metadados se necessário
-                            features_info[feat_name]["model_count"] = feat.get(
-                                "observed_apps_including_incomplete", 0
-                            )
-                            if not features_info[feat_name]["category"] or features_info[
-                                feat_name
-                            ]["category"] == "Geral":
-                                features_info[feat_name]["category"] = cat_name
+                        foda_model_counts[feat_name] = model_count
+                        if cat_name and feat_name not in feature_categories:
+                            feature_categories[feat_name] = cat_name
 
-    # 3. Ler a matriz de aplicativos e features
+    # 2. Ler app-feature-matrix.csv como fonte primária
     matrix_path = out / "app-feature-matrix.csv"
+    if not matrix_path.exists() or matrix_path.stat().st_size == 0:
+        print(f"Aviso: O arquivo '{matrix_path}' não existe ou está vazio.")
+        return {
+            "status": "error",
+            "message": f"Arquivo de entrada {matrix_path.name} está vazio ou ausente.",
+        }
 
-    app_features_map = defaultdict(set)
-    feature_occurrences = defaultdict(int)
+    features_info: Dict[str, Dict[str, Any]] = {}
+    app_features_map: DefaultDict[str, Set[str]] = defaultdict(set)
+    feature_occurrences: DefaultDict[str, int] = defaultdict(int)
 
-    if matrix_path.exists() and matrix_path.stat().st_size > 0:
-        with matrix_path.open(encoding="utf-8-sig", newline="") as stream:
-            reader = csv.DictReader(stream)
-            for row in reader:
-                app_id = (row.get("appId") or "").strip()
-                feat_name = (row.get("feature") or "").strip()
-                cat_name = (row.get("category") or "").strip()
-                feat_id = (row.get("feature_id") or "").strip()
+    # Estruturas para análise por Categoria (Domínio de Feature)
+    domain_features_map: DefaultDict[str, Set[str]] = defaultdict(set)
+    app_domain_features_map: DefaultDict[str, DefaultDict[str, Set[str]]] = defaultdict(lambda: defaultdict(set))
 
-                if not app_id or not feat_name:
-                    continue
+    # Estruturas para análise por Grupo de Neurodivergência (Domínio de Grupo)
+    neuro_group_features_map: DefaultDict[str, Set[str]] = defaultdict(set)
+    app_neuro_group_features_map: DefaultDict[str, DefaultDict[str, Set[str]]] = defaultdict(lambda: defaultdict(set))
 
-                # Associa a feature ao aplicativo
-                app_features_map[app_id].add(feat_name)
-                feature_occurrences[feat_name] += 1
+    # Mapeamento de grupos de neurodivergência por feature (para multi-domínio/grupo)
+    feature_neuro_groups: DefaultDict[str, Set[str]] = defaultdict(set)
 
-                # Se a feature ainda não estiver mapeada, cadastra com os dados da linha
-                if feat_name not in features_info:
-                    features_info[feat_name] = {
-                        "id": feat_id,
-                        "category": cat_name if cat_name else "Geral",
-                        "model_count": 0,
-                    }
-                elif not features_info[feat_name]["id"] and feat_id:
-                    # Se faltava o ID, preenche com o da linha do CSV
-                    features_info[feat_name]["id"] = feat_id
+    # Grupos de neurodivergência gerais
+    neuro_total_apps: DefaultDict[str, Set[str]] = defaultdict(set)
+    neuro_feature_occurrences: DefaultDict[str, DefaultDict[str, int]] = (
+        defaultdict(lambda: defaultdict(int))
+    )
 
-    # 4. Ordenar as features: maior ocorrência primeiro, depois por ordem alfabética
+    # Ocorrências de Categorias de Features
+    category_occurrences: DefaultDict[str, int] = defaultdict(int)
+    category_total_apps: DefaultDict[str, Set[str]] = defaultdict(set)
+
+    row_count = 0
+    with matrix_path.open(encoding="utf-8-sig", newline="") as stream:
+        reader = csv.DictReader(stream)
+        for row in reader:
+            row_count += 1
+            app_id = (row.get("appId") or "").strip()
+            feat_id = (row.get("feature_id") or "").strip()
+            raw_feat_name = (row.get("feature") or "").strip()
+            cat_name = (row.get("category") or "").strip()
+            groups_str = (row.get("groups") or "").strip()
+
+            if not app_id:
+                continue
+
+            # Mapeia e normaliza nome/ID com base no structure-proposals.json
+            canonical_name = raw_feat_name
+            canonical_id = feat_id
+
+            if feat_id in id_to_proposal_feat:
+                canonical_name = id_to_proposal_feat[feat_id]["name"]
+                if not canonical_id:
+                    canonical_id = feat_id
+            elif raw_feat_name in name_to_proposal_id:
+                canonical_id = name_to_proposal_id[raw_feat_name]
+
+            if not canonical_name:
+                continue
+
+            # Determinar a categoria da feature
+            feat_cat = "Geral"
+            if cat_name:
+                feat_cat = cat_name.split("|")[0].strip()
+            elif canonical_name in feature_categories:
+                feat_cat = feature_categories[canonical_name]
+            elif canonical_id in feature_categories:
+                feat_cat = feature_categories[canonical_id]
+
+            # Processar grupos de neurodivergência (coluna groups)
+            groups_list = []
+            if groups_str:
+                for g in groups_str.split("|"):
+                    g_clean = g.strip()
+                    if g_clean:
+                        groups_list.append(g_clean)
+                        feature_neuro_groups[canonical_name].add(g_clean)
+            if not groups_list:
+                groups_list = ["Geral"]
+                feature_neuro_groups[canonical_name].add("Geral")
+
+            # Atualizar mapas gerais
+            app_features_map[app_id].add(canonical_name)
+            feature_occurrences[canonical_name] += 1
+
+            # Mapeamentos por Categoria (Domínio 1)
+            domain_features_map[feat_cat].add(canonical_name)
+            app_domain_features_map[feat_cat][app_id].add(canonical_name)
+            category_occurrences[feat_cat] += 1
+            category_total_apps[feat_cat].add(app_id)
+
+            # Mapeamentos por Grupo de Neurodivergência (Domínio 2)
+            for group in groups_list:
+                neuro_total_apps[group].add(app_id)
+                neuro_feature_occurrences[group][canonical_name] += 1
+                neuro_group_features_map[group].add(canonical_name)
+                app_neuro_group_features_map[group][app_id].add(canonical_name)
+
+            # Registrar metadados da feature
+            if canonical_name not in features_info:
+                features_info[canonical_name] = {
+                    "id": canonical_id,
+                    "category": feat_cat,
+                    "model_count": foda_model_counts.get(
+                        canonical_id, foda_model_counts.get(canonical_name, 0)
+                    ),
+                }
+
+    if row_count == 0 or not feature_occurrences:
+        return {
+            "status": "error",
+            "message": "Nenhum dado válido encontrado no CSV de entrada.",
+        }
+
+    # Criar a pasta dedicada 'desmet' dentro do diretório de saída
+    desmet_dir = out / "desmet"
+    desmet_dir.mkdir(parents=True, exist_ok=True)
+
     sorted_features = sorted(
         features_info.keys(), key=lambda f: (-feature_occurrences[f], f.lower())
     )
     sorted_apps = sorted(app_features_map.keys())
+    total_apps = len(sorted_apps) if sorted_apps else 1
 
-    # 5. Gerar a Matriz Cruzada no formato largo (App x Feature) para o DESMET
-    desmet_matrix_path = out / "desmet-app-feature-matrix.csv"
+    # 3. Gerar a Matriz Cruzada Global no formato largo (App x Feature)
+    desmet_matrix_path = desmet_dir / "desmet-app-feature-matrix.csv"
     with desmet_matrix_path.open("w", encoding="utf-8-sig", newline="") as stream:
         writer = csv.writer(stream)
-
-        # Cabeçalho: appId seguido de todas as features ordenadas
         writer.writerow(["appId"] + sorted_features)
-
-        # Linha de resumo com o total de ocorrências por feature
         writer.writerow(
-            ["TOTAL_OCORRENCIAS"]
-            + [feature_occurrences[f] for f in sorted_features]
+            ["TOTAL_OCORRENCIAS"] + [feature_occurrences[f] for f in sorted_features]
         )
-
-        # Linhas preenchidas com 'x' onde o app possui a feature
         for app_id in sorted_apps:
             app_feats = app_features_map[app_id]
             row = [app_id] + [
@@ -648,9 +730,8 @@ def desmet_matrix(out: Path):
             ]
             writer.writerow(row)
 
-    # 6. Gerar o ranking de features com os IDs corretos
-    ranking_path = out / "desmet-features-ranking.csv"
-    total_apps = len(sorted_apps) if sorted_apps else 1
+    # 4. Gerar o ranking geral de features
+    ranking_path = desmet_dir / "desmet-features-ranking.csv"
     with ranking_path.open("w", encoding="utf-8-sig", newline="") as stream:
         writer = csv.writer(stream)
         writer.writerow([
@@ -661,7 +742,6 @@ def desmet_matrix(out: Path):
             "Ocorrencias",
             "Prevalencia_%",
         ])
-
         for idx, feat in enumerate(sorted_features, start=1):
             occ = feature_occurrences[feat]
             pct = round((occ / total_apps) * 100, 2)
@@ -669,8 +749,161 @@ def desmet_matrix(out: Path):
             fid = features_info[feat].get("id", "")
             writer.writerow([idx, fid, feat, cat, occ, f"{pct}%"])
 
+    # 5. Gerar ranking detalhado por Grupo de Neurodivergência (coluna groups)
+    neuro_ranking_path = desmet_dir / "desmet-neurodivergence-ranking.csv"
+    with neuro_ranking_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Neurodivergencia_Grupo",
+            "Rank_No_Grupo",
+            "Feature_ID",
+            "Feature",
+            "Ocorrencias_Neste_Grupo",
+            "Total_Apps_Neste_Grupo",
+            "Prevalencia_No_Grupo_%",
+        ])
+
+        for neuro in sorted(neuro_feature_occurrences.keys()):
+            feats_in_neuro = neuro_feature_occurrences[neuro]
+            total_apps_neuro = len(neuro_total_apps[neuro]) or 1
+
+            sorted_neuro_feats = sorted(
+                feats_in_neuro.keys(),
+                key=lambda f: (-feats_in_neuro[f], f.lower()),
+            )
+
+            for r_idx, feat in enumerate(sorted_neuro_feats, start=1):
+                occ_neuro = feats_in_neuro[feat]
+                pct_neuro = round((occ_neuro / total_apps_neuro) * 100, 2)
+                fid = features_info[feat].get("id", "")
+
+                writer.writerow([
+                    neuro,
+                    r_idx,
+                    fid,
+                    feat,
+                    occ_neuro,
+                    total_apps_neuro,
+                    f"{pct_neuro}%",
+                ])
+
+    # 6. Gerar relatório de ocorrência das categorias de features nos aplicativos
+    categories_ranking_path = desmet_dir / "desmet-categories-ranking.csv"
+    sorted_categories = sorted(
+        category_occurrences.keys(),
+        key=lambda c: (-category_occurrences[c], c.lower()),
+    )
+    with categories_ranking_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Rank",
+            "Categoria",
+            "Total_Ocorrencias_Features",
+            "Apps_Distintos_Com_Categoria",
+            "Prevalencia_Apps_%",
+        ])
+        for idx, cat in enumerate(sorted_categories, start=1):
+            occ_cat = category_occurrences[cat]
+            apps_count = len(category_total_apps[cat])
+            pct_apps = round((apps_count / total_apps) * 100, 2)
+            writer.writerow([
+                idx,
+                cat,
+                occ_cat,
+                apps_count,
+                f"{pct_apps}%",
+            ])
+
+    # 7. Gerar relatório de features que aparecem em mais de um domínio/grupo de neurodivergência
+    multi_domain_path = desmet_dir / "desmet-multi-domain-features.csv"
+    with multi_domain_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Feature_ID",
+            "Feature",
+            "Total_Grupos_Neurodivergencia",
+            "Grupos_Neurodivergencia",
+        ])
+
+        for feat in sorted_features:
+            groups = feature_neuro_groups[feat]
+            if len(groups) > 1:
+                fid = features_info[feat].get("id", "")
+                writer.writerow([
+                    fid,
+                    feat,
+                    len(groups),
+                    " | ".join(sorted(groups)),
+                ])
+
+    # 8. Avaliação de Cobertura por Categoria de Features
+    category_evaluation_path = desmet_dir / "desmet-category-evaluation-scores.csv"
+    with category_evaluation_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Categoria",
+            "appId",
+            "Features_Presentes_Na_Categoria",
+            "Total_Features_Da_Categoria",
+            "Indice_Cobertura_Na_Categoria_%",
+        ])
+
+        for domain in sorted_categories:
+            domain_feats = sorted(domain_features_map[domain], key=lambda f: f.lower())
+            total_domain_feats = len(domain_feats) or 1
+            apps_in_domain = sorted(app_domain_features_map[domain].keys())
+
+            for app_id in apps_in_domain:
+                app_domain_feats = app_domain_features_map[domain][app_id]
+                matched_count = len(app_domain_feats)
+                coverage_domain_pct = round((matched_count / total_domain_feats) * 100, 2)
+
+                writer.writerow([
+                    domain,
+                    app_id,
+                    matched_count,
+                    total_domain_feats,
+                    f"{coverage_domain_pct}%",
+                ])
+
+    # 9. Avaliação de Cobertura por Grupo de Neurodivergência
+    neuro_evaluation_path = desmet_dir / "desmet-neurodivergence-evaluation-scores.csv"
+    with neuro_evaluation_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Neurodivergencia_Grupo",
+            app_id_header := "appId",
+            "Features_Presentes_No_Grupo",
+            "Total_Features_Do_Grupo",
+            "Indice_Cobertura_No_Grupo_%",
+        ])
+
+        for neuro_group in sorted(neuro_group_features_map.keys()):
+            group_feats = sorted(neuro_group_features_map[neuro_group], key=lambda f: f.lower())
+            total_group_feats = len(group_feats) or 1
+            apps_in_group = sorted(app_neuro_group_features_map[neuro_group].keys())
+
+            for app_id in apps_in_group:
+                app_group_feats = app_neuro_group_features_map[neuro_group][app_id]
+                matched_count = len(app_group_feats)
+                coverage_group_pct = round((matched_count / total_group_feats) * 100, 2)
+
+                writer.writerow([
+                    neuro_group,
+                    app_id,
+                    matched_count,
+                    total_group_feats,
+                    f"{coverage_group_pct}%",
+                ])
+
     return {
         "status": "success",
+        "output_dir": str(desmet_dir),
         "desmet_matrix_path": str(desmet_matrix_path),
         "ranking_path": str(ranking_path),
+        "neuro_ranking_path": str(neuro_ranking_path),
+        "categories_ranking_path": str(categories_ranking_path),
+        "multi_domain_path": str(multi_domain_path),
+        "category_evaluation_path": str(category_evaluation_path),
+        "neuro_evaluation_path": str(neuro_evaluation_path),
     }
