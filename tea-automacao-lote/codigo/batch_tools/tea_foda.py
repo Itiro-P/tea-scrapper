@@ -16,7 +16,7 @@ from typing import Any
 import unicodedata
 
 from batch_core import Client, exclusive
-from foda_evaluation import create_sample, evaluate
+from foda_evaluation import create_sample, evaluate, desmet_matrix
 from ollama_transport import OllamaDeadlineError, OllamaRequestError
 from foda_structure import prepare_structure, proposals as structure_proposals, run_structure, structure_status, reconcile_categories
 
@@ -891,6 +891,8 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--retry-errors", action="store_true")
     p = sub.add_parser("structure-status", help="Consultar o progresso da estrutura global.")
     p.add_argument("--out", type=Path, required=True)
+    p = sub.add_parser("desmet-matrix", help="Criar tabela app x feature para desmet e ocorrência de cada feature.")
+    p.add_argument("--out", type=Path, required=True)
     args = parser.parse_args(argv)
     try:
         if args.command == "prepare":
@@ -911,6 +913,8 @@ def main(argv: list[str] | None = None) -> int:
                                    args.num_predict, args.limit, args.retry_errors)
         elif args.command == "structure-status":
             result = structure_status_for_path(args.out)
+        elif args.command == "desmet-matrix":
+            result = desmet_matrix(args.out)
         else:
             result = export(args.out)
         print(json.dumps(result, ensure_ascii=False, indent=2, allow_nan=False))

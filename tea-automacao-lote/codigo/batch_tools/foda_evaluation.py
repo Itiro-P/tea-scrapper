@@ -8,7 +8,7 @@ import random
 import re
 import sqlite3
 import unicodedata
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
@@ -539,3 +539,138 @@ def evaluate(out: Path, reference: Path, report: Path | None = None, scope: str 
     result["aligned_pairs_file"] = str(pairs_path)
     result["report"] = str(output)
     return result
+
+def desmet_matrix(out: Path):
+    features_info = {}
+
+    prop_path = out / "structure-proposals.json"
+    proposals_data = None
+    if prop_path.exists():
+        with prop_path.open(encoding="utf-8-sig") as stream:
+            proposals_data = json.load(stream)
+
+    if proposals_data:
+        for feat in proposals_data.get("features", []):
+            feat_name = feat.get("name")
+            if feat_name:
+                features_info[feat_name] = {
+                    "id": feat.get("id", ""),
+                    "category": feat.get("category", "Geral"),
+                    "model_count": 0,
+                }
+
+    # 2. Carregar dados do foda-model.json (caso exista e complemente)
+    foda_path = out / "foda-model.json"
+    if foda_path.exists():
+        with foda_path.open(encoding="utf-8-sig") as stream:
+            foda_data = json.load(stream)
+            for category in foda_data.get("feature_model", []):
+                cat_name = category.get("name", "Sem Categoria")
+                for feat in category.get("features", []):
+                    feat_name = feat.get("name")
+                    if feat_name:
+                        if feat_name not in features_info:
+                            features_info[feat_name] = {
+                                "id": feat.get("id", ""),
+                                "category": cat_name,
+                                "model_count": feat.get(
+                                    "observed_apps_including_incomplete", 0
+                                ),
+                            }
+                        else:
+                            # Atualiza metadados se necessário
+                            features_info[feat_name]["model_count"] = feat.get(
+                                "observed_apps_including_incomplete", 0
+                            )
+                            if not features_info[feat_name]["category"] or features_info[
+                                feat_name
+                            ]["category"] == "Geral":
+                                features_info[feat_name]["category"] = cat_name
+
+    # 3. Ler a matriz de aplicativos e features
+    matrix_path = out / "app-feature-matrix.csv"
+
+    app_features_map = defaultdict(set)
+    feature_occurrences = defaultdict(int)
+
+    if matrix_path.exists() and matrix_path.stat().st_size > 0:
+        with matrix_path.open(encoding="utf-8-sig", newline="") as stream:
+            reader = csv.DictReader(stream)
+            for row in reader:
+                app_id = (row.get("appId") or "").strip()
+                feat_name = (row.get("feature") or "").strip()
+                cat_name = (row.get("category") or "").strip()
+                feat_id = (row.get("feature_id") or "").strip()
+
+                if not app_id or not feat_name:
+                    continue
+
+                # Associa a feature ao aplicativo
+                app_features_map[app_id].add(feat_name)
+                feature_occurrences[feat_name] += 1
+
+                # Se a feature ainda não estiver mapeada, cadastra com os dados da linha
+                if feat_name not in features_info:
+                    features_info[feat_name] = {
+                        "id": feat_id,
+                        "category": cat_name if cat_name else "Geral",
+                        "model_count": 0,
+                    }
+                elif not features_info[feat_name]["id"] and feat_id:
+                    # Se faltava o ID, preenche com o da linha do CSV
+                    features_info[feat_name]["id"] = feat_id
+
+    # 4. Ordenar as features: maior ocorrência primeiro, depois por ordem alfabética
+    sorted_features = sorted(
+        features_info.keys(), key=lambda f: (-feature_occurrences[f], f.lower())
+    )
+    sorted_apps = sorted(app_features_map.keys())
+
+    # 5. Gerar a Matriz Cruzada no formato largo (App x Feature) para o DESMET
+    desmet_matrix_path = out / "desmet-app-feature-matrix.csv"
+    with desmet_matrix_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+
+        # Cabeçalho: appId seguido de todas as features ordenadas
+        writer.writerow(["appId"] + sorted_features)
+
+        # Linha de resumo com o total de ocorrências por feature
+        writer.writerow(
+            ["TOTAL_OCORRENCIAS"]
+            + [feature_occurrences[f] for f in sorted_features]
+        )
+
+        # Linhas preenchidas com 'x' onde o app possui a feature
+        for app_id in sorted_apps:
+            app_feats = app_features_map[app_id]
+            row = [app_id] + [
+                "x" if feat in app_feats else "" for feat in sorted_features
+            ]
+            writer.writerow(row)
+
+    # 6. Gerar o ranking de features com os IDs corretos
+    ranking_path = out / "desmet-features-ranking.csv"
+    total_apps = len(sorted_apps) if sorted_apps else 1
+    with ranking_path.open("w", encoding="utf-8-sig", newline="") as stream:
+        writer = csv.writer(stream)
+        writer.writerow([
+            "Rank",
+            "Feature_ID",
+            "Feature",
+            "Categoria",
+            "Ocorrencias",
+            "Prevalencia_%",
+        ])
+
+        for idx, feat in enumerate(sorted_features, start=1):
+            occ = feature_occurrences[feat]
+            pct = round((occ / total_apps) * 100, 2)
+            cat = features_info[feat].get("category", "Geral")
+            fid = features_info[feat].get("id", "")
+            writer.writerow([idx, fid, feat, cat, occ, f"{pct}%"])
+
+    return {
+        "status": "success",
+        "desmet_matrix_path": str(desmet_matrix_path),
+        "ranking_path": str(ranking_path),
+    }
