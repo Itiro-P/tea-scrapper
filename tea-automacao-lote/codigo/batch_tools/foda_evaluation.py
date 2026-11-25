@@ -8,7 +8,7 @@ import random
 import re
 import sqlite3
 import unicodedata
-from collections import defaultdict
+from collections import defaultdict, Counter
 import csv
 from pathlib import Path
 from typing import Dict, Set, DefaultDict, Any

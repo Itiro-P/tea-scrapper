@@ -1,0 +1,557 @@
+﻿Feature_ID,Feature,Total_Grupos_Neurodivergencia,Grupos_Neurodivergencia
+c_3190e4dc48da3327917031fd4f47954570e64478e22089556fea3e1c8cc367ac,Gravar voz personalizada,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_843ab020690c701e811eba68c57baac901742d881bec781da8babc12ee3f68c1,Dividir tarefas grandes em etapas menores,2,TDAH | TEA
+c_0c091ef9578043bd0860ee1e2541df4d2e3634fb4e3856ea28de833ea07a193b,Medir semelhança vocal,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_9c1852dfcf5a014281d02d91313db60afcfb7ec4420aac08e8e320ae09717e17,Criar pranchas de comunicação,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_a26ff2d55344fc3de4b291f9263233416399d37879672bf1cb4102ee82766e80,Criar rotinas visuais passo a passo,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_c13d44ec20c7e5dac0bc0fd7811e54bcd560b08bec85c2c47ad2e854de77a8c5,Simplificar tomada de decisao,2,TDAH | TEA
+c_e553b55e864a9248edefe6207dc93b1ed58cfc7ace8f1d7f88a7b310c7dbfd64,Acessar comunicação aumentativa,2,TDL | TEA
+c_2d6938399ee5dd2c42303cacf3724c649174469fd078e6cca7f79f30309b33f8,Acessibilidade visual e motora,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_95be14afa7d678a608494d9e5f9030c9ecc5b39eddd5b33ad0fc206fbfeb8ad6,Adicionar símbolos personalizados,2,TDL | TEA
+c_930cb45169651643859ecb19a6951b0c8e80266f977ef4630264c0560385114f,Ajustar velocidade e tom da voz,2,DISLEXIA | TEA
+c_9d850214b3091253bbbdc3fba2558078431df679a2a4b3a130817ed641a45428,Aprender fala por modelagem de vídeo,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_b020bdaa6734b6b82a9cd70059767fa51457e56dbc9a9b7015e7638b08304552,Converter texto em fala,4,DISGRAFIA | DISLEXIA | TDAH | TEA
+c_a7627d97f42d8a397b693da90c7470b86407f169f865fded346523f2f8132aa1,Criar cartões personalizados com fotos reais,2,TDL | TEA
+c_0b50dd61105d2ff9be3d0b283fbfb48c7801fa341a105b887e258c8459d56c47,Criar cronogramas visuais personalizados,2,TDC | TEA
+c_9876fdd9ba2bbb3d7b6d9ae430412d186e576a23d2283c8c3e21775cfb7c3cb0,Criar rotinas visuais,4,DISLEXIA | TDAH | TDC | TEA
+c_bd6a71c1fa9432ec286a15a2c877bdad705efe9940c75e90a1e8029560acaaa0,Destaque de palavras na leitura,2,DISLEXIA | TDAH
+c_467980e6a3d2769edf0c0c237a792754edd39e9b72bdafda9797afc809210041,Dividir tarefas em passos gerenciáveis,2,TDAH | TEA
+c_4a7381ca67c363994248726b1e27eb1a82912b949716d5f0f2da31afae0deaea,Executar tarefas passo a passo,2,TDAH | TEA
+c_9ba60e1c4aeb85093e4ce47fbe31aae1b9bf49c3e82c6d3acc8aae54b727b50f,Interface livre de distrações,2,TDAH | TEA
+c_a05096e6b00450e77faed067f5d5d9c2a160a67b315289687ba25c7f57f84319,Layout livre de distrações,2,TDAH | TEA
+c_56ac4756e96b6fba232a106bc5426785165208115c2b780dac0a213de6a56c5d,Personalizar pranchas com fotos reais,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_c0cbe2b77b0e6d8860c66265937ba4d4a452c2b4ac3cf026b80fc2864a413454,Priorizar tarefas automaticamente,2,TDAH | TEA
+c_15a1699fc5241378763139a8286c5fcf6d4b319357bcdb91631ba1865c882371,Selecionar fonte OpenDyslexic,2,DISGRAFIA | DISLEXIA
+c_e8b1d3f47e8802f7893fc14e4f4edde77b833f65768a57c12e26abee82a0b91a,Usar fonte OpenDyslexic,3,DISGRAFIA | DISLEXIA | TDAH
+c_1c14036d8048ced3279f954c0ab24d3e2b0632d3508096ed639bc28c1eb90c17,Acessar atividades educacionais,2,TDAH | TEA
+c_8f7734b742ac91583ab4708766899e3d61d682bdc70468461a8a31c63c72d18b,Acessar atividades sensoriais,2,TDAH | TEA
+c_ea3ed86074c2bebd7d8ccf350522017c36d1a7a19e5ca95dca03a1dcb9599e67,Acessar ferramentas para dislexia,3,DISCALCULIA | DISGRAFIA | TDC
+c_20a69af6f20d3bf315543ced9eea7590b539ad2cd17b1ff69c56ad163f3720f1,Acessar ferramentas sensoriais calmantes,2,TDC | TEA
+c_a81f8912ce8ecb7780282dc91f79caa25ecd33414c633da5a9f7b776279c2961,Acessar flashcards e exercícios de fala,2,TDL | TEA
+c_9d310f3ded2b2e2df6a722734559e0bde2d614628b4ddeff0ab2f76e02a4cbfa,Acessar grade de vocabulário,2,TDL | TEA
+c_0993a3288faed48b494d2d56b2c67041b20024f6ca6cd48ef5094242854b266b,Acessar histórias com gestão de emoções,3,DISLEXIA | TDAH | TEA
+c_01ab2a874a47a4fd5f4ade88719eb753d44d8fe1a69adc3cdd0076dd59506c1f,Acessar Histórias Sociais,3,DISLEXIA | TDAH | TEA
+c_abfef907775ee4726527390de00004cf7a0dbe1240df335391c9276f47d113c2,Acessar histórico de frases faladas,4,DI | DISLEXIA | TDL | TEA
+c_c54627f9df9923162088e2d33fbb2b2158e284c8685481e6735cf61d8f850730,Acessar jogos baseados em terapia ABA,2,TDL | TEA
+c_5227791d3abff023a614b79b90995c29f5a4b998502f805f47d65f219a28611f,Acessar jogos de correspondência assistida,2,TDL | TEA
+c_23a92f8527d0c934ce36fc0e13e560477b9ba1a16e2b842b73e1b86205e4c94d,Acessar jogos de desenho,2,TDL | TEA
+c_7ebec0c4f3a621caf3a7f2bc8380c48d3c254d7eabb6e3eb3b379a03cca046ee,Acessar jogos de escolha,2,TDL | TEA
+c_88fe5e5265c9c1aed4dfbe581646f4175273a276478ee682e756300f15de3efe,Acessar jogos de memória e lógica adaptados ao TDAH,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_efb4cd49985b1b1bb43cfad8114dd9c711d5dd994bb9466b10826389d0aeb2f8,Acessar jogos de ordenação,2,TDL | TEA
+c_e42fc4f660815c4e40f79eaf6c5e03e6c18880818c335c12b4c6bb6980ddff74,Acessar jogos de som,2,TDL | TEA
+c_8d0c6193aa030f18b7f4c993c6e3a974af54aeb508c25cefdc5bc0c0c286e777,Acessar jogos educativos específicos para Síndrome de Down,2,TDL | TEA
+c_1aa7d59ab9053279f1d3c90b9e34db0353ce5d36813ce72aea8d5e0f9ac83f2f,Acessar jogos para TDAH,2,DI | TDAH
+c_1933d5d6592f558c1fe3255de9c14f93436e3ee64c68df76573c131f1b7947f4,Acessar jogos relaxantes,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_89a8e3082fe525c2da131c1acaae90638dd33cb1cee64b93cf3a9f84a650e7f5,Acessar mapa cognitivo,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_9d6364a700f6729132672fb47492eb795980c31c8617c17d413fac2f28cbb5be,Acessar materiais AAC,2,TDL | TEA
+c_bd34f123f9d2d012a5f09770228a3c65c16b7fe5693d516acc67d361ff9a560f,Acessar modelagem em vídeo,2,TDL | TEA
+c_b3d8e74851f9774f724c18b41c8a363153de04fea8886b1f26ffd0e2292c72ee,Acessar pausas sensoriais,2,TDL | TEA
+c_2fa0e39529368ae8c76dbabcd3edf078007776431f76ff2b307290bf7cd9a483,Acessar pictogramas de CAA,2,DISGRAFIA | TDC
+c_edc3e943b3bff2a2b9e82f451a5ccd6077b189d3d14b03ace81760c1066650b6,Acessar questionários validados para condições neurodivergentes,2,TDAH | TEA
+c_3f36f4def34262337fd614c2e1e12fd3ca05320c6729ee0cad87415cae6557c6,Acessar rapidamente funções em crises,2,TDL | TEA
+c_395d489bf6c9db74ac5e5d3cf630536fb73c5f764a56fd61d10c6efcf9e4389c,Acessar roteiros para situações comuns,2,TDC | TEA
+c_9808b428a1ad51c36baab1b58c15836bb1f3864b45e9546df48519a4049b921f,Acessar sons calmantes e grounding,2,TDAH | TEA
+c_35248d37e457094627360e2a11ad11952b3f1dabd56e67c58f22ce9259288420,Acessar vídeos modelo,2,TDL | TEA
+c_f37e4fd1718e7822fa3f19a51f7b6941725f5e4220841f8a3c9caf4f5ec195e6,Acompanhar aprimoramento da fala,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_cf2eda7233c1b351ef432023b426a4c3d97b7f1befec3d2a49ef11e818292d56,Acompanhar evolução dos pacientes,2,TDL | TEA
+c_dc6808ff32f692f0eddb9edeabe125639931c2fee8286fc662eb4a3cb53920e8,Acompanhar humor com sistema de cores,2,TDAH | TEA
+c_2a5c469fafdf7eff4b4e4a4d233919eb6617474174f73c04793282459a422c96,Acompanhar leitura com destaque palavra por palavra,2,DISLEXIA | TDAH
+c_141a209b0a5f46b7ec9ca01e08a543b592a3e62c28755b4cd3d684345afe9579,Acompanhar leitura com o dedo,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_d14998a8fd795dee446f598086286266cb77ebbb5a43d1da655c1f59e036be5a,Acompanhar leitura com áudio sincronizado,2,DISLEXIA | TDAH
+c_0f4fabcb03ff3b2c7908c44da12a15e0279bdb4ee3eae29929e5c8ee69443744,Acompanhar marcos de desenvolvimento,2,TDAH | TEA
+c_750ce601628e0b65553dcad1dcb367e3aa9876525f8250cfa702066e6bdae094,Acompanhar palavras durante a leitura,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_0a6d6ab404d7e143af726d377a4a79fe87d805520497412b98ef5cf04fba4e70,Acompanhar resultados de avaliação ao longo do tempo,2,TDAH | TEA
+c_86fb5d359641ef0c5c93ad041692e204625a40f7234d62a4918aada7c0ae494d,Acompanhar ritmo individual do usuário,2,TDAH | TEA
+c_49518f6db4032d9849c0662d0017f79a65276beea1737a2849a175f950b91083,Acompanhar rotina diária com lembretes e recompensas,2,TDL | TEA
+c_7ddd522daad0bb76daf8f1c2f25bed610e936b51bfd66b25ceac127924804073,Adaptar apresentação do texto para TDAH e dislexia,2,DISLEXIA | TDAH
+c_7aaa001b43c90659e8ab23763ce5823ba6f88cb83bd2f8b8a96c79621bc1151a,Adaptar atividades automaticamente,7,AHSD | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_954616731b403c858cf900c1d90c5c6e2483f05d9750714cfe5f756da8e23956,Adaptar conteúdo ao desempenho,2,DISLEXIA | TDC
+c_b27d819a632f84f66e79876962a047a807ddaac92b86795ee4260e669dfcb578,Adaptar exercícios ao nível de dificuldade,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_bfcbc42faf09d3ad139d2430fbf4cb9f0645eb0a691ded3a67eb4310e464b42f,Adaptar o app às preferências sensoriais,2,TDAH | TEA
+c_d75b4e1ff3fa7ef8b45d7d798626a76d7c308bdf47726b4fd74372e9793096ee,Adaptar planejamento às dificuldades iniciais,2,TDAH | TEA
+c_b563c872a2048c34fbaf86a4f749f9ef75a477a9a563024749b3d81469d1fbf1,Adaptar sugestões de palavras ao estilo de fala,2,TDL | TEA
+c_bddef83edd0a9c82b38fdc9f10ea9b7c2c0e852cf503c3f3d2e7dc66fb3e8902,Adaptar-se a mudanças na rotina,2,TDAH | TEA
+c_9a0c6971d29a70ce2b3fe7adecab0829a85d3f47f593414fa47ff41fbd4b5244,Adicionar GIFs às mensagens,2,TDL | TEA
+c_2418dc1c3bcf0d97aab36e6773c264c0e5a883c002b08909d5b3f0bbee362c0d,Adicionar imagens personalizadas,2,TDC | TEA
+c_0a9ddf00153fa3584735b37f1b123ecc49d88eae5fe34c4792219326ce9e2e5a,Adicionar ou gravar áudio nos cartões e atividades,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_abbd009c40fa09c824fc67ffcd806ea6ffa262068a8f6863a5b0ec0ef58717f3,Adicionar tarefas por voz ou captura,2,TDAH | TEA
+c_7d17aeb58623ea3b5b4330261ae4fe91e2c90b9138f2b96a01b6455452f0c9d0,Ajustar dificuldade ao ritmo da criança,2,TDL | TEA
+c_1547b8ab194a5957da3b9dde62821ef6abd248a1baaa46b0bf44110f2f6c6128,Ajustar dificuldade conforme desempenho,5,DISCALCULIA | DISLEXIA | TDAH | TDC | TEA
+c_481223ce329ae568c1b513700a89bf1a49d15386230d54110cba745a7badec21,Ajustar dificuldade do currículo,8,AHSD | DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_99d5305e96427f6a9ea59b8394a4a95d7e20265aeb269d78ab0e631b1ea86c79,Ajustar espaçamento entre letras,2,DISGRAFIA | DISLEXIA
+c_1ecbb4c947ed061e93d3b612c035f46808523cff9ac3dee3fc2f25b7b5f413fd,Ajustar fonte para legibilidade,3,DISLEXIA | TDAH | TEA
+c_694e441018347a1b038a74e521be303e19888f7915bf8fa4bbdae9c469140273,Ajustar ordem rigorosa das missões,2,DISGRAFIA | TDC
+c_fc80f283d6949fdb74c4f37f24fa1c2dd9f2b2e888c874affb47eebfc69e6e0e,Ajustar planejamento à energia disponível,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_64f67aad4c90557955017301b6212e1da8321ce95e25cee561b2ab2ecb9c5f3e,Ajustar tamanho da grade para acessibilidade motora,2,TDL | TEA
+c_a93c5f29432c561e6a0243ffb4f779ec1ac7d4db8f9b1660b212e12a5039ad42,Ajustar tamanho das grades de vocabulário,2,TDL | TEA
+c_3a7c511d0d683e36ab9eae002f05a9c9d5b945b77bef60f699c2b7888ec879ec,Alerta sonoro de atenção,2,TDL | TEA
+c_f4e95bf160a0cc1b5abc57210f23342292830237b11a731600ebbff564c51f6d,Alterar palavras associadas,2,TDC | TEA
+c_e300939a5bc81ac1b41f530bbb48a972ff9b168c3579c0a40d3a6d091ea413cd,Alternar entre modos claro e escuro,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_965e401fb8804b74e32eaed812fe5138aec62d360a77e136c6cfcd48de7f1fbd,Alvos de toque grandes para motricidade,2,TDL | TEA
+c_0dc29cc449085ea53c53a4a23001b8af95487da88e4ea9cd5e2b96b0bef7c084,Analisar cegueira temporal,2,TDAH | TEA
+c_ea109a54f62c18d4d7119ea0318d1762bdb66d355dd6f0737bf55c7f4a889b7a,Analisar estrutura frasal,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_4c4fc3c53a8dffa2c22733c7dc18e55b54d34c095658fd86a201c0048f0498f9,Ancoragem visual de letras,2,DISLEXIA | TDAH
+c_7e92b1327dfacbe090e67fa95137deaf7ddb3f745b8c4d08ecfd60eb5f6b9816,Análise de tarefas,2,DISGRAFIA | TDC
+c_2586a31602927ee3eb44bcf48fe7812e97afabc6bb581855894fb03f30926014,Aplicar máscara de foco,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_40f570d41c691767d7b6b0fae4efabbeb68901608a1d2b8d6e94f95399f268fa,Aplicar sobreposições coloridas,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_afb696cfb759d12ca7c25055243f0c0f243c9ee7d7c50e9af1a300c241b2b7d5,Apoiar compartilhamento e revezamento,2,TDAH | TEA
+c_1cd3f60983629de63c41df8c522a97a0786463988f8a9c879334a29f83d8197d,Apoiar higiene e desfralde,2,TDAH | TEA
+c_ade78ffeb06d1904d8d7bbca095fe32d250e3d2dcb455ff2119bcf776b8ac5ab,Aprender habilidades sociais com histórias,2,TDL | TEA
+c_fc7966c3d99752f3cdbb635cd2e38fa39ebd308f7f20d4edfada64c11fb9d52d,Aprender leitura com fonética,2,DISCALCULIA | DISLEXIA
+c_e50bb8a64605fd65a966b9b0400e1b9eff67906f22db5e57cab9223d8b2a4694,Aprender leitura e ortografia,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_74dacadf242313276000f791375a706e9ab1650b8914950ac8ff1f485961601e,Aprender letras números e formas,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_26f75558fc55c59c98f6a8a2376c1a9b62a22f946b7707c75016e9c9e0e69514,Aprender linguagem corporal,2,TDAH | TEA
+c_f7ec73458294ad5971403a0b2d5a61928a082b3546824f3a3ee6b32c79ed2243,Aprender linguagem por frases inteiras,2,TDL | TEA
+c_c6b0cc22eed889fd19e053fbeb1a16ce42a418de7ab1e66d7d38e2f4d3debe6b,Aprender matemática básica,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_3936189ffc53e0c791a078c53c2d1ac76a166368f70574de0f7d86103130e6d8,Aprender por imitação em vídeo,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_74f10e1df355fbdd42e93e80e359252f6b5e3ba3b6ac9cc46641c8f698942a42,Aprender sem pressão de tempo,3,DISCALCULIA | DISLEXIA | TDC
+c_cff55591bc81597e3ec73d92ac26419101697e86f821a7ace603ea4a3650aaa5,Aprendizagem multissensorial,3,DISGRAFIA | DISLEXIA | TDC
+c_77775407879019769a032866b497d3d8ca6341cbafd6dcfdc195d18b5be44893,Apresentar opções de escolha,2,TDL | TEA
+c_2d86008e39d061bbe9a890addf6c091b738f5fd2f640a6c52d6fd2ae5a8b5b76,Apresentação adaptada para sensibilidade sensorial,2,TDAH | TEA
+c_43ee3591756a61d46b65dd55856ea077f0c0c9e5af7cfd0b6d469ef1577b9aab,Aprimorar alfabetização com jogos,5,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC | TDL
+c_1cbc84ed63937293ed6932cbe49fdfecdf1e953e58b4a4fc610cefaa9ecec76d,Aprimorar memória e habilidades cognitivas,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_111d675bfe186730d4b45ff59b44d2c3a87c28106fcf31ad92b85efb1c0c5b7b,Associar tarefas reais a recompensas no jogo,8,AHSD | DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_9dea492009273d4f99064766d172c474fdbe3a6cd05305a0100ebfeba9bab1f9,Ativar fala enquanto digita,2,DISGRAFIA | DISLEXIA
+c_47deb395931b9e93364138b8d75172b781fd20d677a774a032ff1990e4b4a502,Ativar modo em maiúsculas,2,DISCALCULIA | DISLEXIA
+c_4442100ee7a74ffce67236d47743d11ab0ee015154286c7752dcfd8022bed8ed,Ativar modo foco para transições,2,TDAH | TEA
+c_98aee93042381fc343e23b288eb4c446ea039f42d66046bf09eef7f95bfc0fd4,Atividades de reconhecimento e coordenação,2,TDAH | TEA
+c_facdbc0502d61c1519be608e17ae711f1c1273d85d9af2ea1f61530adf5fa557,Atividades e jogos de leitura,3,DISLEXIA | TDAH | TDC
+c_14914278dc0eea6bb6a7981e1029c6edadf70c62d69cfa928133b272621d6faf,Atribuir cronômetro emoji tarefas,2,TDAH | TEA
+c_86c89c22dfcecda715c8be814bb22a1cb127ea4044bbd3288dc6f6479e41d8f0,Atribuir áudio objetos físicos,2,TDL | TEA
+c_18f6a9e0ae94fc9241bff4d4cfd099eb51bac47841be5cc74db82273094eff4d,Autoavaliação de TDAH,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_522154ddbbc2d49e72aa8ef7fff23c246ac9c71362784d9072ae43a0c68f0157,Autoavaliações cognitivas,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_5deec43ea6deecfd00562bfee86d25a3ef60595ba1b52e2735268981a15ddd6e,Automação de tarefas pendentes,2,TDAH | TEA
+c_8b04366d3eb16fb9df2259d216213fa2a6d53b8b374589eabac050c71a52afe4,Auxílio para estudos,2,DISLEXIA | TDAH
+c_7304ebd8cac15a0a13c4330b1e965551e8507e27b4f2d72c58e4be03b1f74aa2,Avaliar coordenação óculo-manual,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_385f43e352d201b44a7e4d1b89ed4f52c1d5290232ead237bbb784a9b8a05d66,Avaliar função de monitoramento,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_a8d762151611874663cfc5a257d623fbfa91e1f7cbffacea480db42297c471be,Avaliar memória operacional,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_a1ebc82459a88adef0f49257344fb4b23080dae1bc60599c3ba20561dea41b47,Avaliar memória visual,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_cc74994ea27256f3abebc2886af8d9714cdfff443d24597ee3cfc13625f79cb4,Avaliar pronúncia,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_a80cd1207b0af8ef6f2d32691f852dae8275944f1f06ad8f0393fb47a00800ac,Avaliação de atenção focada,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_10ccdd73d43d0cefdb8666888a30f685f71417b2001c73d2e0c004d706d2014c,Avaliação de compreensão e fala,2,TDL | TEA
+c_68dce33bb1d7776a092c2800f9118ede2f35ce1f933af1b7dafdc7d439ee6182,Avaliação de inibição,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_c909f0ea3d22fb2d1ea8f5fe5e80e1cb810a89c526db53cb4debe379c8749bd6,Avaliação de planejamento,6,DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TEA
+c_5dffbc3a7d9f53edfccdd84e66b1965cc50b7ff6f0a366a5ab8270e2e8df1082,Bloquear aplicativos e sites,2,TDAH | TEA
+c_8ac17099203d3fb7bc0b2bf77f4f7ebc3ef2012b1d94b53c4fd17b3dab5abb0e,"Bloquear apps, sites ou redes sociais",2,DISLEXIA | TDAH
+c_09f5325d05524449906e641d1452297595c6abe3b14153e47606dde567774fb1,Bloquear distrações automaticamente,2,TDAH | TEA
+c_50e801b96a3e75d8161d8a3fa2c787250d3422f53ef0969c97f9b801de3a3f02,Bloquear distrações preventivamente,2,TDAH | TEA
+c_9167ebcf8d6f0fac9646c9479c74643b14314b09ecff9ffae0f4baa5bdfe15db,Bloquear navegação para outros apps,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_bb8b96d875253a79afd2e534d4b411ee77ca41a6ed4507a22081c5e3ea3fbebc,Bloquear outros aplicativos,2,TDAH | TEA
+c_9f6be68daa1cc14f63ae0bc04f7be826dc9658f703040c065a3e03f9926ae449,Bloquear saída do jogo,2,TDC | TEA
+c_066f107529779c205449024ba47f7b0684e9ee5c5ff2ea92be9a0fe5a6dddcb0,Brain dump de tarefas,2,TDAH | TEA
+c_db5efd81b91bf0c2be566176f248d55284af8d91b7fc515eef372461c5339e84,Brincadeira independente ou guiada,2,TDL | TEA
+c_75ca7fac31fd92dad290ee1b5c447ec32980b82bf5f05371e07bc1bbd61ef24d,Calcular gorjetas,3,DISCALCULIA | DISGRAFIA | TDC
+c_20ee95ac5a8b8cf31745a60d29dcc1d234d8eb24af7928655dfb2bd571269ea5,Carregar áudio personalizado,2,TDL | TEA
+c_a594031fd2a952ddba7ecef70ce72cd839c907c91f723f1edbed8928738eb413,Categorizar objetos,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_4af4be578d341bcb6c17f1d49236cc21523a760bf195792d591ee4730d9b5a07,Classificar objetos,2,TDAH | TEA
+c_b47c3bf673a7f30fe70560e632d5feaa891a57b1dc10e1a000431e6e4c183fca,Classificar tarefas por impacto energético,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_7ece05df71e6a067ffbd1b283dafc763250cc2c5151dd3cfaf6c59795b6aed37,Combinar imagens e frases para comunicação,3,TDC | TDL | TEA
+c_6da38b75cb0b830888431e30ef80024bb6d4e558fd9ce50155d895a94b92eae3,Comparar números instantaneamente,3,DISCALCULIA | DISGRAFIA | TDC
+c_28d30171f9c021c7904b4301e6b011e4bc421a5607f4947456fcaebe218d9da2,Comparar opções para tomada de decisão,2,TDAH | TEA
+c_630906e60659ef0ca9c4169d3b2d706955b82b8a4e95f37814bf4799a93b8a91,Comparar preços e números,3,DISCALCULIA | DISGRAFIA | TDC
+c_e4fbef09cebc8a634d3924fff6771c5012c5717cc40b0c7f70f1f4ddd3fd7b23,Compreender emoções,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_df6a9dd6cf4bed249e1f29c56dc298803e0b4514629f2ebc4f579c60ebf743c8,Comunicar com blocos de toque,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_d309c994e28c39d0e1e67414d885414b818a3db4a39c5e5914ee2dc7c912c1bf,Comunicar com botões grandes,2,TDL | TEA
+c_911ffcc61e5eb0061488c75880d801360a85eb61af35f96e33140fc0f4d602b8,Comunicar com toque em imagens,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_78a18b07092fe3f319ef27d51a38f562d656ab9124a177657eec7840aaabbaed,Comunicar com toque único,3,DISLEXIA | TDL | TEA
+c_4e445413f5ff597932ae6bbbfa369b709161c63db44b3c1eee214b1faa24778c,Comunicar por CAA,2,TDL | TEA
+c_cdef68b4e73ba65c8331640192f89554b7180de91eeb84e54d61b275105bfad3,Comunicar por piscar de olhos,4,TDAH | TDC | TDL | TEA
+c_04b4a575f881d6a13d4993ab07505ae9356855b10c32c6b66359d1fcbd133c35,Comunicar por reconhecimento facial,4,TDAH | TDC | TDL | TEA
+c_bb5aa5a0d8c9fac4449070951b6c33373455fd9bc1370562c25c7b5ef2b3ef79,Comunicar por toque alternativo,2,TDL | TEA
+c_17f9e879656614a7e4d5fc858b7fc4c7e80a2f3393059137b92488f568228091,Comunicar-se através de desenho,2,TDL | TEA
+c_bbfafe06a79476244c9098dfb06af708d35af65b94888a412b8c1ff27b321523,Comunicar-se por cartões AAC,2,TDAH | TEA
+c_4440a51a942f9e84afa85c89640802b716e340da8acb7b8d55a78c65a4bee99d,Comunicar-se por meio de prancha com voz,2,TDL | TEA
+c_b8e90c6606b82c0120c213af99d9273e631957db963746783d063a07312ac5e6,Comunicar-se por meio de símbolos e voz sintetizada,2,TDL | TEA
+c_9a0cfa3a4b47ca57c54269ff3e5219fc4aa4acb33ed7979a45e7029d85746ec3,Comunicar-se tocando em botões,2,TDL | TEA
+c_430071ba8a6e79455f9250f57063ca2f24cb1a187c00685b0066393f202b5c79,Comunicar-se usando palavras centrais,2,TDL | TEA
+c_5e9dbec94fab9413cb9b4c10eba50d87e21bb19eb366e978074bb6b84143d3e4,Conectar teclado bluetooth e criar atalhos,4,DI | DISLEXIA | TDL | TEA
+c_e9e2330ec149ff1cb49309aa7bdb25d74c61bfc328f2a90e7e7af176873823af,Configurar acessibilidade sensorial,2,TDL | TEA
+c_aee87f56bd978280651b9f837891698b31a17fadec9eb1cc8852298d970b5858,Configurar bloqueio suave gradual,2,TDAH | TEA
+c_e9dbf47a41b5a880d0c138af44246de1ff88c45661a36f4f031d412520af1ff4,Configurar cronômetro para missões,2,DISGRAFIA | TDC
+c_271d87a029f803e911b9af6047fefe0947678641cc8ecb467bf10a333873b737,Configurar feedback tátil,2,TDL | TEA
+c_3eeaf355306507ddc373a41f996c8b86a0b78abcf0b8b6c1b5e3cda690ab1ba7,Configurar lembretes com estímulos sensoriais,2,TDAH | TEA
+c_94be4dcb4038e22a387b868310893103ffd0f5b3741845a3a2b2577bc4bd2235,Configurar modo sem pressão de tempo,2,DISCALCULIA | TEA
+c_b150cda0275de7b8e0900e078e17a4907977620207a2c04cf0c96869eee0a28b,Configurar pranchas multilíngues,3,TDAH | TDL | TEA
+c_812042d8019a00410c00f035e32524dd594d9aa7652ec75e454c9aefe199f888,Consciência do sistema nervoso,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_d19187357c21175b108c451c47f11f940688bb1634896f6cac8c466d736c8020,Construir orações com cartões,2,TDC | TEA
+c_69a0a259dcde1af8e4cb34a05c9708f9065b4bd34c3e22a14b7bb07bdabd95d2,Construtor de frases para CAA,2,TDC | TEA
+c_c7feef0b49e7753018d4600f55366dd7377793b72e57398dc96829d20264c4c8,Controlar tempo de tela com pausas,8,AHSD | DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_abf86be98558d7d6de5d1c37710cb9c36e0ca2c3ee98ee386f755b6af6618419,Conversar com IA de acolhimento,2,TDAH | TEA
+c_92121da658b28aae59883368fc8e5e4482b72a86671079aac3b0016909ced216,Conversão analógico para digital,3,DISCALCULIA | DISGRAFIA | TDC
+c_438cff4e468fd9d0ee7a47dfd8fa881206fbe41f4142bfc02b0712429590977f,Conversão de texto em fala,2,TDL | TEA
+c_27155006a3e0656789191ba3342c5d3f2f9be49005ce365e0dbd97750e5528fe,Converter fala em símbolos,2,TDL | TEA
+c_1c77c58079d0c4e880fc7b86425c5ece4bed67f9e13078c33bd6fd92e5966ee7,Converter horas de AM/PM para formato 24 horas,3,DISCALCULIA | DISGRAFIA | TDC
+c_ab11d20ae026d70e866238d5aab61fba1880e02c1ff491190e2c6bc8b84d0c71,Converter imagens em fala,2,DISLEXIA | TDAH
+c_25b1aa9152fb753f450410d5f16b10c749cbe8c27b15dec926c41a4b740d7310,Converter texto em áudio,2,DISLEXIA | TDAH
+c_b02ba72e0339cc17fd861c4a9585986b2354234fa80adcd726c2c01684fefc69,Converter texto para fonte otimizada,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_efc2c91de7ef553bca822826f275d26f9c6dd39f212a76952701dfdcf1acc50e,Copiar resumo neurológico para profissional,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_9102d138698899030efbd0c5769ca948e1f77b0480c498a12fb8452a825160ff,Criar agenda semanal com pictogramas,2,DISGRAFIA | TDC
+c_44605a7c45ed2aa0afa86e832e67aead01a9097d5e9e6b2813e454868c3a5206,Criar agenda visual com ícones ou fotos,2,TDAH | TEA
+c_048673e9663b0bc31ebd52a8031d6c249fe7fdb07977a0b63c91cf7e3b6f0597,Criar agendas visuais imprimíveis,2,TDAH | TEA
+c_9bad1b4790be2ffc5515a093fadc5737dc559e0875455c394e64774f0c8079e9,Criar atividades adaptadas ilimitadamente,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_e0b5e28f8e042f6a168e359a82a988a9f6231bf6ade894c0f7f943e5ff5a0b4a,Criar atividades interativas personalizadas,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_ccf400360fa7cd1596cbe78ebbf3f3f1122266c4fa3ff6035b0494a22a1ddffb,Criar cartões personalizados com fotos,4,TDAH | TDC | TDL | TEA
+c_0716502d26ab721300fb7d6f7c1237aa4d231b98c1cf5eeda6907ecb75c7314f,Criar cartões visuais para rotinas,2,TDAH | TEA
+c_e419dc19e5cc4d830b913872f095edbf5d146c87484b67124a68c6dcfb98f188,Criar categorias de quadros de comunicação,3,TDAH | TDL | TEA
+c_f850fd05b871c75a94ec580025e3640ea49cd146264aeaeb42a03f738b16d39d,Criar conteúdos visuais e interativos,7,AHSD | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_ce20fa5acd787c71cbcaaa332e59c9741ccd81228398da2f74a09ce247215f10,Criar cronograma visual,2,TDAH | TEA
+c_081b4bce7fb81ae1d2bea9cc05b9d4fd957c948227836a66a5a1b11b955b3ae8,Criar lembretes personalizados,2,TDAH | TEA
+c_7e01be79ffeb52edfc4b5349af7e48beade8c16930cac8a733574282e24bf400,Criar lista de tarefas a partir de entrada,2,TDAH | TEA
+c_ccf6c1fc8a6b8ec405524ce901bb77b4f46620de5baea3a99bb92de6602ba23c,Criar modelos de tarefas,2,TDAH | TEA
+c_8573c0ee3b353724b776dec11952bcc7e2eb63695706160d23929055e9153b25,Criar quadro de comunicação,3,TDAH | TDL | TEA
+c_9fd7fdff9f06d5ee79d991058d2804cc9c13d8b5376d282ab986d09e43f735f3,Criar questionários de estudo,2,DISLEXIA | TDAH
+c_5d35510278be0667f7ed44d4f07454db3a392f4a28f68137a1030627d3f7547f,Criar rotinas com cronômetro,2,TDAH | TEA
+c_d61f53e46ce41e9d1ed096ef961b8c722ae0f8ba1ef4b521b6023b2b5050f925,Criar rotinas com passos flexíveis,2,TDAH | TEA
+c_12228c5966c042bdb8205368e55fea33da9620704b0407cbade40d8b9caaf338,Criar rotinas guiadas,2,TDAH | TEA
+c_a915a13585c77646ab8bbd8a34c81fa238b851fff4c6ff005748cc48cb74e432,Criar rotinas multi etapas,2,TDAH | TEA
+c_c12731d217ecc3de58aacf6da8e66ed1ef80f8cfdf9aef2513ca01714a8110b6,Criar rotinas para TDAH e autismo,2,TDAH | TEA
+c_b098ea1840632f345f33a580c7a58783153accabc6efbb4269132922d687215d,Criar sequências visuais para rotina,4,DISLEXIA | TDAH | TDL | TEA
+c_742452465d0efb1ae6a234f2af211d78778dd636d47db0fadf02a3b0f9418d35,Criar símbolos personalizados,4,DISLEXIA | TDAH | TDC | TEA
+c_d04557ad25b54abf621e22eb7ff9e15e9030299fac57a42e8f8bacbc4a236a89,Criar tarefas com multimídia,4,DISLEXIA | TDAH | TDC | TEA
+c_d85c5469f41902769a5183b3e953edd64635fe4311a375f239d3e03b48672064,Criar vocabulário personalizado,2,TDL | TEA
+c_3c9035da493ea01a9f934551ebbc0443f4509b97cfc37872bdcdf85503fe5083,Desfazer ação acidental,4,DI | DISLEXIA | TDL | TEA
+c_80fddcc9b4db90504a928be34da6ec80c47cca0cc3acb1daa7b473649904361c,Design de baixo estímulo sensorial,2,TDL | TEA
+c_68a4e0b8f071e96167d2f242a950ee204e4f7b10edfcad0f8ab4d816b47787f0,Destacar texto sincronizado durante a leitura,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_530da6351550e9ab77e3f24d0911d02b7589e79586a2ce267350d5e1ee8c9e2c,Detalhar tarefas com IA,2,TDAH | TEA
+c_aae2111a92de0ad0723114217d12f508811603e71e6a837e90e6884cdaa4b15e,Detectar risco de dificuldades de leitura e ortografia,2,DISCALCULIA | DISLEXIA
+c_c2e28d7ffaa123fa39114e490253f7d846020a2e98651710f4f01e9aafef042d,Dicas visuais para tarefas,2,TDAH | TEA
+c_9edb4af58a02f65856f4e13ef4fd0c18bba969ee0754ea02d8b568f37d42b542,Disponibilizar licenças para pacientes,2,TDL | TEA
+c_485c03e95c485e797f39d13b61902cc52b17676c383277156c5697f31e37e3da,Ditado por voz multilíngue,3,DISCALCULIA | DISGRAFIA | TDC
+c_722c4722fc84763e5b99ee42ff53fa481b1fe1d345690cdab6b16b432ec8dece,Ditar texto por voz,2,DISLEXIA | TDAH
+c_a1305a8b7f93a099eb7fd3f1014af1ef6a6069218ed3c7e1fd3723048f13a9ef,Dividir palavras em sílabas,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_52da224b7a7fe1aa96f0b6c3fa0fdd57ce02e7fcfa50fdddb4b027af0f145bc1,Dividir rotina em etapas ilustradas,2,DISGRAFIA | TDC
+c_aa27cf65885fe0f5c08bb9d134f97db72da00ca80c95c47208742da0243f4440,Dividir tarefas em micro passos via IA,2,TDAH | TEA
+c_8a8bbf71ffa12bd2c33a3b9a3e90d56daac72b566060524549214579af0aa852,Dividir tarefas em passos menores,2,TDAH | TEA
+c_de9c2143097554c18af75e697051b06f03e413a0c1b77a2e8c79a3512ec2d513,Dividir tarefas grandes em etapas pequenas,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_95abd53898accee972df7f7a3e467105ec3a0eb6c086165e82f9cdcdc0321e2e,Enviar lembretes para cegueira temporal,2,TDAH | TEA
+c_5caa8a9c6cba58a9bcf52eba2f7b6df007364cbb17e7626ffee53370102e2118,Enviar mensagem em silencio,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_a08e7d003601ca87c55b1a600cd6c8eb0c96ab1e53626827ced7f6be749230ab,Escrever equações com teclado acessível,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_6b53b66c02d8aba4061c55aedcf653d5418508fb9217c2345dcbc5351acd9e65,Estimar tempo para tarefas,2,TDAH | TEA
+c_fa41bcb3406e4ae68db7a9e0737dc2399ffe6f4f713df77baded5f2ec81f0d39,Estimular comunicação social,2,TDL | TEA
+c_06b40978b5ad55f5aae94f458d3da2097ca027fc6399c7476cdd1a7df762557c,Estimular produção sonora,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_66aecce1f50be1c9b0633e21844e7cc13d9e6c071c1d455d4987b5a816c2d443,Estruturar rotina diária,2,TDAH | TEA
+c_730981554b99c8856656ecca988d551c257a8b9803a0d0747d0c71f547741328,Evitar cegueira temporal,2,TDAH | TEA
+c_68ce66be53890ab60ef1bc82cff21460e35ea047a53379da319ff7007195a430,Evitar ecolalia e confusão de papéis,2,TDL | TEA
+c_0f0d3a9d54b55c811787dbaa456377a3908182cf0770075544fb7fe72422d9b2,Evitar sobrecarga sensorial,2,TDL | TEA
+c_5cd23188404af9992b4448507ebb8528b8cd8ba22237aa8bc5a8e468868aeac2,Evitar superestimulação visual,2,TDL | TEA
+c_717ce8ececaf96508f63ec39db02247aae72f052d4f305d0a43652bda8ad89bc,Evitar toque duplo,4,DI | DISLEXIA | TDL | TEA
+c_03581d454b484e9e8345a0033fc1584473ee59e3663e03a629309b2ecf6cf3c4,Executar respiração guiada e mindfulness,2,TDAH | TEA
+c_d76b0bf88aefd6abbe44df2e0979bb122a498af8d5a322b70371d6a989b1652c,Exercícios de repetição,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_365e0fa7866ca326359e9147d042b25555816fd4906e7e628a997fd9bdff8596,Exercícios de terapia cognitiva e linguagem,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_073425f22c97676b10ebccf6f8ba202c0a0b697133b6c15348576d51e65d45f4,Exibir apenas a próxima tarefa,2,TDAH | TEA
+c_e3401d94a1bc54b14c2318eeb4b3287833502cd15da630631ae108869d1d5408,Exibir cartão de emergência não verbal,2,TDL | TEA
+c_333939174420118879d4a48d1125b60d27ef0efd983aeaf4a2a2c7beff93c690,Exibir cartões gigantes para comunicação,2,TDL | TEA
+c_b48af5d1bc06cecb1beff926ae929c488080fd4b70dcf56fdc9c5e950af0bc09,Exibir dicas como palavras que rimam e imagens,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_e7631331b71c5fa88291e862e7968ee17bea904b17362d8002299b2377238bd3,Exibir famílias de palavras baseadas em sílabas,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_454ba9467a87afc9a85e6e651d804a7dec2fb8b579bc3f76daa23d263645b400,Exibir interações previsíveis com feedback,2,TDL | TEA
+c_b8e64c042599df3f703cc23000c994eb64f3f7ea7bf19f84e53d08c4dd7c3069,Exibir mensagem em tela cheia com fonte grande,4,DI | DISLEXIA | TDL | TEA
+c_99fac7a649932df71e8bfdc98b4f1ab8bf8e862c270507685b3b3f82a4d7ac92,Exibir palavras sequencialmente em velocidade controlada,2,DISLEXIA | TDAH
+c_78d0345ca4576e0e6ea13439cc6c48353f6afb1feaa9a15d5a80a89f432082e5,Exibir texto com adaptação DYS,3,DISCALCULIA | DISGRAFIA | TDC
+c_7b01d6900b042149cc806f1e212340fb120b0575219e9561d0d8615943c8b680,Exibir texto em tela cheia para legibilidade,2,TDL | TEA
+c_07424b7d5b9774293bd898c01a20bde725038f722fbc9fbff91612f12bb64e94,Experimentar recompensa positiva ao fim do tempo,2,TDAH | TEA
+c_28adaee5ce04b89e3b0922130713cf17279d77271603920a5a9a4943aab3d614,Explorar ambientes 3D interativos,2,TDL | TEA
+c_27ba44992ad3b211b4179f43a8fc03d1ad9a84acdd28ef228cd4e1a928478e5f,Exportar estratégias como PDF,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_82bce63fb96d00af399c7e5f38826173821f596bec4b527ffd5c65b17f9fd9c6,Exportar pranchas no formato OBF,3,DISLEXIA | TDL | TEA
+c_ff0016fd5bb3a4666487fd84b5d5027617f0665b95f7653a8e02e3f5c3706e3a,Expressar emoções e necessidades,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_b57c8bfa7febb21cfb59405d171959c363c99bd70ad57de76791f92fabf07333,Expressar necessidades com frases completas,2,TDL | TEA
+c_a9becaa35443d8b8b1ccba38fa01dfa420c23f2d51f1f284042e71583cd883e1,Extrair tarefas do conteúdo gravado,2,DISLEXIA | TDAH
+c_820f170318e5635315785281939d05bb7fa3a8b2b88ce7f78f6faa025e9a9b67,Extrair texto de imagens para leitura,3,DISGRAFIA | DISLEXIA | TDAH
+c_3be8fb824c43e5615e625e2d57df8185b2ae5f0c2a93407154a22f591dc985b8,Facilitar adormecimento,2,TDAH | TEA
+c_52d04fc6f0010b55a14c3b81a7d93bbbf6c1ee22ca7051d99f1cd5ac21d9ff75,Facilitar atenção e foco,2,DISLEXIA | TDC
+c_98904cae065c7f5a7e5e18d1ce6df92b6b841913ef98e2c08fff597b82e91b03,Facilitar transições de rotina,2,TDAH | TEA
+c_3c0f83c402f2f60bedb58f05c5662f5aa1937d320b7e15532ec73c362172b43e,Facilitar transições e reduzir crises,4,DISLEXIA | TDAH | TDC | TEA
+c_0463ae9ab68285dc302d2c475699410ead855e4b0fee8f03cdef126fb03022ec,Facilitar transições entre atividades,2,TDAH | TEA
+c_c1cf5e6df5e2aea2a5d6f78e11fc3a541c6f92ba4ea768f54d919efc166af4af,Favorecer comunicação e expressão diária,4,DISLEXIA | TDAH | TDC | TEA
+c_fdadc36ae1eb52cb65e4359f4dae7ec7259574e23066885f73d1d2dd358fb1f2,Ferramentas para sobrecarga sensorial,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_67c97bc283cf4334b652587d9d95efe7c558ed2229de7ef3b0baa62e1de38258,Filtrar ferramentas por necessidade,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_0b18662e4f29d31ce555fb1c654dd1bfa25c16d98f5f113c8dcecb9c289c1e8b,Foco com áudio,2,TDAH | TEA
+c_346b70c4e73f4c73347a310cbcb7cc33194903999fcd6135475f70a369e3d8cb,Fonte OpenDyslexic,3,DISCALCULIA | DISLEXIA | TDC
+c_2b367e483a2917842691401c1ca15bd8d14c924aa62d535fe07b3f0e585fe83d,Fonte para dislexia,2,DISCALCULIA | DISLEXIA
+c_b257cacf3d98c349b45927b0ef1a0d422b4e6e8b16ed5282d1d28d4dd713f32b,Formar frases com blocos visuais,2,TDL | TEA
+c_4a8bf089f58bfedc9c20c4296b5f48f2f466f8b60d55b28e6159ec96e21acb38,Formação progressiva de frases,2,TDL | TEA
+c_8cd90f9a9e7b4e364ae57c2895b8ab4f0b73baf60e57d356bf43a846bd38b6cd,Fortalecer relação letras e sons com jogos,2,DISGRAFIA | DISLEXIA
+c_9af6dbe9e72924d5ac41f62743cf7e98c0b67f06535ba8bc421a90da9da23e1a,Gamificar rotina com cronômetro imersivo,2,TDAH | TEA
+c_85b179e82fcdd12cdd6c07a9209b1c46a2857ed7f0be16069603d08ad00b7555,Gerar fala a partir de pictogramas,4,DISLEXIA | TDC | TDL | TEA
+c_1fc4c7a08486fddb325ea3b90e977d1727adfb0be64e335bdfbd599cbb804086,Gerar fala a partir de texto,4,DI | DISLEXIA | TDL | TEA
+c_caeb4b0def64cd5efa6586d880c315ce93bae4ae3f37719d2d399fcb71cf4b8f,Gerar fala a partir de toque na tela,2,TDL | TEA
+c_ad8d844e7b9635cdddb8af74b20bf532c62e0de689de3ade86812775ae9faf7a,Gerar fala espontânea com texto rápido,2,TDL | TEA
+c_7c93346a105683cd22edf9af4180c4535783f0b88332ca68d0fcb7404caa39bd,Gerar frases com texto e fala,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_3e727b7e876622a93f0baf490ebab4a3ed5ec5a8a1721a8951826e0fdbd10de6,Gerar perfil de pontos fortes e necessidades,2,TDAH | TEA
+c_09841358c5025d067e7c5887875f836bd61b88284c7bb62b95f7042f93650e25,Gerar plano de treinamento individualizado,2,DISCALCULIA | DISLEXIA
+c_76b3992440583d07a3ba532fbef57f86bc140e73d418e4af0560f17a4dbe65c7,Gerar resumos claros de conteúdo capturado,2,DISLEXIA | TDAH
+c_bd7efda653eb6c41f2132f628a93da4b33d14b33040f1e9d1ec9899c2cad9410,Gerar saída de voz a partir do texto,3,TDAH | TDL | TEA
+c_7877f3678601b13342095e8149c71ac8070c1654c1d8ef7fe54ed038874d2d84,Gerenciar agenda e rotina,2,TDAH | TEA
+c_0dde9e8f83e21b1f93cc0bdb9bfb291840b0dc6798410ca0ece06d7fe19eaac7,Gerenciar múltiplas conversas,4,DI | DISLEXIA | TDL | TEA
+c_cad33509bdbf79ddcfecedd8921b6fdda22183819d1a6e43ad3489d3c6851811,Gerenciar perfis de usuário,4,DI | DISLEXIA | TDL | TEA
+c_0408e7e61dea4202b402120a9e865ea242e48334160ba427cf8bfa067a0105c6,Gerenciar perfis terapêuticos,2,DISLEXIA | TEA
+c_02e61017fc041328e57e514338239b4ccc0bd743762e131da4731d7da872c46c,Gerenciar tempos de calma,2,TDAH | TEA
+c_71c325747f9fed0c12bda947ae13b8d46a3f9033b681f8b99e2d77ef370735e1,Gestão do tempo e sequências,4,DISLEXIA | TDAH | TDC | TEA
+c_63e0101ee1b3cb75213061c709df30a21caef5e3e529fab19d4808667225a92e,Girar texto para visualização,4,DI | DISLEXIA | TDL | TEA
+c_2f2f001c5220b1c24e14cad517e6dc90b27dc7580ab297482199bb5d8384fe5e,Gravar conversas e pensamentos,2,DISLEXIA | TDAH
+c_ad895d253a59fe7a73fd21ae44159de68f7a95036534396903907cb8ba6f1c2b,Gravar e importar voz,4,DI | DISLEXIA | TDL | TEA
+c_03622431a0dd46a944b50361f86c686f58ea26cb507ca214a5307667b9dc20d1,Gravar instruções em áudio,4,DISLEXIA | TDAH | TDC | TEA
+c_e304773da57864bbd8d338135fc9c9bd045a405f993d4a38e6eecfad4de3a152,Gravar modelo de fala,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_12cb1cc141627ed8743f4c007705e7eafd95a15455e02df51febcc64b6f5632b,Habilidades de vida real,2,TDAH | TEA
+c_d4cdb1ab09f7b2172ac6f149141583be853db8da46d70bb1892248d90ed1c627,Histórias sociais com dicas multimodais,8,AHSD | DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_509e69b58690702725bac779427949d49619cb922ab5c3ab74d73649fb990ae0,Identificar categorias gramaticais por cores,3,DI | TDL | TEA
+c_409a0ce62e950a0eafd7943cb7c61ce0f808c9163e5059bd0426f62b2f521fd1,Identificar emoções em três passos,2,TDAH | TEA
+c_9053bdbc25241923375bf9175a1776daec6b545962ddf71db7882934dc474821,Identificar padrões de energia e ciclo menstrual,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_bd03623a840de8a39b2d9952d0239d18ca8456753603ad4046cde9da034a9199,Identificar preferências sensoriais,2,TDAH | TEA
+c_e941c4bd989bf519ef31438956d740691960e38423c628c72f6de23b668f1402,Identificar problemas por toque em crise,2,TDL | TEA
+c_bdd12eff27621ff39fe6aeae311a35721f23b9eb713a36e3af6c56684596659c,Identificar semelhanças e diferenças,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_98f01b2ee30520df45579b06470d4432ffd466d6e119dce623cc5fe233a2bd1c,Incentivar vocalização por estímulos sutis,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_7b5a872498aff795e9397b6e1ea272c642e12bdf62a5668da37e96de613b0df8,Interagir com elementos sensoriais,2,TDC | TEA
+c_b0e7d9cada8dd3aba7042607ec93a3db56891e8fe90268bee382cf4ebc712ef4,Interagir com giroscópio,2,TDC | TEA
+c_6f2006d1150986f920aa242a5755888d3ebdc5c61cfc2228377deae27229e73d,Interagir com objetos virtuais,2,TDL | TEA
+c_06ac3cd874aef05efbe5e6dfb7c4726039135a8995dee93dcc9afafdad3f8a08,Interagir com personagens usando a voz,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_58a013b55969965df93463b77b839db90fc7babe68f9dbe48404fe45794fc516,Interagir com voz para controle visual,4,DISLEXIA | TDC | TDL | TEA
+c_72bea26fcc73585dafb49cd9281e4025f1547647b80d3ba990a1db3d8a0d47e6,Interagir por toque em dispositivos sem tela,2,TDL | TEA
+c_2665e60fa8b0b88e4162870c08c610a047ff794523059fbcd816200f004eaf68,Interface acessível para limitações motoras e visuais,4,DISLEXIA | TDAH | TDC | TEA
+c_cf82bd66f810d8ecc67f8087357cc2d32e5a27f14f63d1d7447a3915407a6ec8,Interface visual acessível,2,DISLEXIA | TDC
+c_e67403a3a2ae6f240f4a10e3a561b9bc2d3bbaa928d76b8cc4e06221a36686da,Interpretar humor e intenção de mensagens,2,TDAH | TEA
+c_cc35a2bd502f986bacd854e11383aee10dd6149ce764ee59de8cc06629ed4ef3,Ir diretamente para páginas específicas,2,TDL | TEA
+c_06e8e19fc6f1c16772c873619420a47834ed5839ba10cb080a3f3cdb8b3d8301,Jogar em grupo multijogador,2,DISLEXIA | TEA
+c_ab1f65f3fff13244ecf39156ba204c5ecf2da3ee532c86cfd88aa1f0e3a6910e,Jogos calmos para lidar com estresse,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_c70bc3414d1ef18d19d31d7f57e9911561ad47e759a0b75bf9b739e147a177f3,Jogos curtos para vencer procrastinação,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_3bd7dcc567f661a890c3790c55a1a50e6f1e8885bfd8365a35586d39b7c1dcac,Jogos de habilidades diárias,2,TDAH | TEA
+c_5fd568db55c95faa63967938514d80b0b343eb45883b3b686ef72c1f84913136,Jogos de reação para reduzir impulsividade,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_f9a15390b88dbdf502870c23d3f5dad0bf817bc939d90997117d9111b4eb69f3,Jogos educativos,2,DISLEXIA | TDC
+c_17d29950ad23539c44d19d4690912e410c56a033a91484699e31ef3de5613736,Jogos para fortalecer habilidades sociais,2,TDL | TEA
+c_b1fc66d5ac4182fcaff233841e30324fd5060c9ef966d2159f74381f2ab6c5cf,Jogos para melhorar foco e atenção,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_ac4624732b0f176cb1f933ab3faaa978d71144167a439c4c3b183f515ae58f83,Leitura com feedback fonético,4,DISGRAFIA | DISLEXIA | TDC | TDL
+c_5bd6f04a55a0295ee2ba23cfb63dc803b27f953abf43515f0a8e3c7687db62e5,Leitura de textos por voz,2,DISLEXIA | TDAH
+c_46156d64780161ac8e494e4960d271fc85eab873474b4b489d332902d8a5e499,Leitura palavra por palavra,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_bcf48f970dec5347b07ed26478f28f28977d142db555fa59efdfcad3223c0982,Lembretes de movimento e pausas,2,TDAH | TEA
+c_4c0f5d5284506f4b2a5b73a3971a9cfccc574a6ff6a05563153ffe67fade3785,Lembretes gentis,2,TDAH | TEA
+c_5980d3af51cab2457e569b2662b814d7d957be41a6eeab2252440bd47b1b4f13,Lembretes progressivos visuais e falados,2,TDAH | TEA
+c_4bcc3c182de8be7c8aa1f48c59d5c994386bf330f0ce7a3749f670913f37e3aa,Ler com apoio para dislexia,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_9ccd8422a9afd055a2127e4681d9e4edfbeef2ffe1bd217d10ebaafcce63b622,Ler com destaque visual de linha,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_c00ddd25b54021386f50d06e910ecaf3b305936a184f09524dc2af42042c31be,Ler com sincronia texto áudio,2,DISLEXIA | TDAH
+c_33c3b02334a46c4883a329a3db3e1caf6b793192763efbafd82fc73da432904f,Limite automático de tempo de tela,2,DISGRAFIA | DISLEXIA
+c_ee7611a70f6fbddb147cf2faede7e9a9749890c27aa574294c568d57450a568c,Manter acesso contínuo a palavras principais,2,TDL | TEA
+c_f0b7e5bf46c567840a0cd039316c5802ad8be7e6a7f4e2a17124eef350cda3a7,Manter concentração e paciência na espera,2,TDAH | TEA
+c_e63cc466a1ff6595e1724074c530f41186a21896444a810472364032eff1a079,Manter criança envolvida com personagens animados,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_9e867b724683a250c7d89b255fd6c4daac4898bf4e8c33afdf0803dc04c65690,Manter foco na frase atual com régua interativa,2,DISLEXIA | TDAH
+c_4dbd43b54190e1d4310ba97eafcb3f97561df26522a90cdb82b02da091071b6b,Modelagem de respostas,2,TDL | TEA
+c_a881b9f51f229e6ad1e22002066776218c1ae59fa85ab6cd643de1fc6c505e12,Modo tela cheia seguro,3,DISLEXIA | TDL | TEA
+c_8d8ec7e351fcddaf79a4a7f0b0ca992ddebbd1e6780adcad72aee59ee6600de8,Monitorar atenção com cronômetro,2,TDAH | TEA
+c_56d54e30f7e8e0552f033058c1bde59fa4fef28c77aae259a6da2affd48a3b0e,Monitorar influencia de sono e emocoes,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_501f5e103eb809778dde1791b57121930d5d2b9e5c5626091c1f81b0577b90cb,Montar frases com cartões,3,DI | TDL | TEA
+c_6174706415a872d53ea76dcc395768f702fa6440198c06821726df09f9171051,Montar frases para leitura de voz,4,DISLEXIA | TDAH | TDL | TEA
+c_62bd215158aa48cb0e8237b73e1c13333f5fb7b42d118658e4304982a1c88770,Montar frases tocando em imagens,4,DISLEXIA | TDC | TDL | TEA
+c_801f305414a91b9eb8cb73bc65b88d769bb33b754b920c2ed8b78ada017d1282,Mudar cor dos botões individuais,4,DI | DISLEXIA | TDL | TEA
+c_cf0cfb1e5117309966aa522ae64f8727b1e032b7a21d072275b55c8a4c149904,Navegar na web com ferramentas adaptadas,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_9d91d0f41c25c0b3f41699f8882b09a95cc99fb1b58f999b5a2a58176c2569fe,Neurofeedback,3,DISGRAFIA | DISLEXIA | TDC
+c_3f5b03817e4d1278ba63f95fbb56dba98cc753f4e783ad510cc601ac3ac34001,Níveis de fala estruturados progressivos,2,TDL | TEA
+c_ba7fe80659f7864d75bdf9d56ee207adc13fc018548bd7e046acabb6e2f55cdf,Observar contagem regressiva visual,2,TDAH | TEA
+c_7e2bbebb16af5893b62039699c830ae081f46de54d80ed79dfba8baf0e04bdd5,Observar modelagem de vídeo em tempo real,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_982d4399180d0d0f5204621149b88152c849763679a7227e6d0033799f29a3ee,Observar vídeos de modelos para aprendizado,4,DISLEXIA | TDC | TDL | TEA
+c_d45c17b1d197b0a0627974b2eb8e264a2ba6a754ba8f9cc278a73677e4dc4103,Obter dicas para palavras difíceis,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_8b5ea167771307e4cd679cefd824b531fd4781c69052f0429940a8eb1414eaa1,Obter linguagem para descrever sentimentos,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_0f41de58b85d14afb5e46e367b2fb4d88fbf03ecd06fc3c466b5ffe9a672a68b,Obter sugestões baseadas no humor,2,TDAH | TEA
+c_a72ba76f2498fbd95f0133c43a72e30fa2132ccb9193d7c64e1e60cef1af7faa,Ocultar rótulos e ajustar esquemas de cores para reduzir sobrecarga sensorial,3,DI | TDL | TEA
+c_d0810d50fdf9ce1d94275337e4dbb6cd02cdf51179be1267ce28d0e4a49ef7f8,Oferecer apoio à memória no dia a dia,2,DISLEXIA | TDAH
+c_0d23b1fe6687c548ce2550f94b8a970460ed4275f66d3c2c19abd647668fce56,Oferecer baixa estimulação sensorial,2,TDAH | TEA
+c_3170c10bf920d11d109d5dcbeb234c099389d5ac2b6fbab0bdceb8baf327434a,Oferecer design intuitivo para apoio ao foco,2,TDAH | TEA
+c_20c4195a96bcc261a5cf475aaf18d2bf73d72213418339ebd39cf123fad0ca20,Oferecer interface simples e intuitiva,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_ce3d88312ba752252f106b5dff1bd4bb7440bb4e64e06dff177579535eecf04a,Oferecer ritmo calmo e visuais claros,2,TDL | TEA
+c_ba1554bc937ea85a3f71fbf9e213252bd932934b2c53f49d35faf89d80710717,Organizar despejo cerebral em lista de ações,2,TDAH | TEA
+c_64ee7207e10ebd70168d625430e7e9debb97aec0ba299c343c49ce15c686cf4a,Organizar pranchas por ambiente,4,TDAH | TDC | TDL | TEA
+c_e6bac68d47eb05d930f36b077387a4d3b75c44695dbd38cf789a1e05979e0a3c,Organizar rotina semanal visualmente,2,TDAH | TEA
+c_d8b3706b31f5f0bd1d7c336f99be0413e018d6d183e91252bd2dee93287a8e27,Orientação passo a passo,4,DISLEXIA | TDAH | TDC | TEA
+c_9d849b2c55b289c4169d642cec346c81fee9583c28b0703e1fee06b2db54b5d8,Ouvir documentos enquanto faz outras tarefas,2,DISLEXIA | TDAH
+c_9705110e938ff523b738f0dd69a344da6664cd9f97ec56e10f45807e33758018,Ouvir explicações em voz alta,3,DISCALCULIA | DISLEXIA | TDC
+c_b5f3e614477e0670754e554f2f3abcc9dae9278b7694c81f5c4c9abf7c590896,Ouvir frases com conversão de texto em fala,2,DISCALCULIA | DISGRAFIA
+c_7683dad6e8cb6c4df28c823d78fd9205729cac1d474f8f6834c19c643991fcf8,Ouvir frases completas ao tocar cartões,2,TDL | TEA
+c_711377b022bd722da5bb350140df7978676808c2d8bfe85c466ccb81daa5f14e,Ouvir palavra ao tocar imagem,5,DISCALCULIA | DISLEXIA | TDAH | TDC | TEA
+c_8543a3e8f683b90988033e2f83adb586f82aa28af547a13a4b6ca4f37845bd27,Ouvir pronúncia de voz real,3,TDAH | TDL | TEA
+c_4a4eb1be163af0ad05b6141af1a3527bd980d624ffadfe5b820b70c5a3d86112,Ouvir pronúncia de voz real nos cartões,3,TDAH | TDL | TEA
+c_4432a3943b010928f0a76e5911db27e8e0dcd5a0a7f13d47284130e9f5253746,Ouvir páginas em voz alta,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_1f4fa7ce039187825df9d0c7f9c1755557e9f9ce671ec9b3059bae007640d218,Ouvir som alegre em vez de alarme estridente,2,TDAH | TEA
+c_6e4b1fcedfd6765e4cc4c40a0dc290e24b89fa1ed8d00605a2e8d99947ef8627,Ouvir texto enquanto lê,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_785045253fe7aa727af55f9cb48e7fe6b6449c4af177b436e54d045300efdf5c,Ouvir texto lido em voz alta,2,DISGRAFIA | DISLEXIA
+c_049e64f402d6594506948ee8d7c25a7594018e6d0938574ee515efb6477abb2b,Permitir autorregulação emocional,2,TDAH | TEA
+c_00703274835801b278587eb9dc97fc5033fe11282399a10d9d204f5d9d7c4c55,Permitir escolha de temas divertidos,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_ef34326c01848e144a63c4c012654e56eec9944104e2c0c20941f71e2669faa6,Personalizar acessibilidade visual,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_5154542367ec47c9a8002ce3df82a3ad4e7911c59b4d3e6bcda4172d0d7ee8aa,Personalizar botões de comunicação,3,TDAH | TDL | TEA
+c_0b64d8b74af9ebfa5660f1a7bea2cf71cfcd23ec425962680d6475518e545be0,Personalizar conjuntos de flashcards,3,TDAH | TDL | TEA
+c_b9785519fa39f1282fd134327d0ab88309473c54b46c20fe5f273251a894d2e1,Personalizar dificuldade de aprendizagem,8,AHSD | DI | DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_6a407ef3c0d4443b782235bad876ec8adfcfbe9b2ff1b793c5cad35055c247c8,Personalizar fontes e cores,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_f8cb88cd52b56dfb4872ee45fc8cd56a9b9e4290227bc36b1fa1fd25a442fdff,Personalizar interface para necessidades sensoriais,2,TDL | TEA
+c_1f1ae5c45f8f86b433110a5cd7ec5bbcd5e91546defab9fe88f38bd1b4cd4ef6,Personalizar parâmetros de treinamento,3,DISLEXIA | TDAH | TDC
+c_d67135d44db078c3e8e556917eef35bc6a5053bddc6233d432e63997fcea2ebe,Personalizar pranchas e atividades com recursos multimídia,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_76df76b5ca5c7920f392f7828b90c7144563b43a4a17ac6bfbb2214d2d76f604,Personalizar rotinas com ícones animados,2,TDAH | TEA
+c_8eda4e9bab4c4d4039cc8c8f16eb195f37f15d0b2b6dbb539ceb020a2a6b50df,Personalizar temas visuais,2,TDL | TEA
+c_9a5c0f9f5c54fb10c221bf4a7011e7f9770df392b81f1d50956e760e97684e52,Personalizar tom de voz expressivo,2,TDL | TEA
+c_fd3d8623aff316d429eb36e7d9df36a2a17651361af98a1116e93b71741c233a,Personalizar tons de voz,2,TDAH | TEA
+c_2fecf8f96dd1d5f22d637024aaf4792fb55152fd13708725f93a4acbfb15ab91,Pesquisar banco de memória,2,DISLEXIA | TDAH
+c_7c29bfd3a5c92c6cd322edc8b3ed5da2af41baf524086e63c39d1f78b1a5ac67,Pictogramas para apoio visual,2,DISCALCULIA | TEA
+c_b68ecb42bf840e1625d3ee189661a4596822f59b5750ada264945f40b7e48db2,Planejamento diário,2,DISLEXIA | TDAH
+c_cea7c8c80f2957d1161c4998dbaf54120a79d7b455a29ac7939eb8180aaf7e17,Planejamento visual TEACCH,2,DISGRAFIA | TDC
+c_12306996a71e8b80f936d55b7378ef8ebc868018beeda26c45d74b593051b1d5,Planejar considerando energia e regulação,2,TDAH | TEA
+c_2d3975e94120ae5eb3a7e6b8d44c83647bf69de4de68133a5548571d0133f7f2,Planejar considerando preferências pessoais,2,TDAH | TEA
+c_74656e3af7ef6c359aab1e3e5eb1f34fc047ea7d553d0fa5f79306fd8fcb9a18,Planejar dia com linha do tempo visual,2,TDAH | TEA
+c_6144e26bc56b2d033959eb1c61e4b23255799d159494a5dbdf238794df6851f1,Planejar rotinas diárias com agenda visual,2,TDL | TEA
+c_30e60d92e299c5d5b84da1dfd8374dd943e1d4da352d8ff76793da4182672e5e,Praticar articulação de palavras,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_4e968bb4e8331c29b67d01b81d2afd2cbd3fb259f189ef806e2599a42b8caa4f,Praticar associação de imagens,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_af3cdc5fd34bb7d1ff3aeb84d1d4027c1480ebd0558f95f95ecec315372dcaa6,Praticar consciência fonológica,2,DISGRAFIA | DISLEXIA
+c_bbbe2620461789acece818df7b809e39a04e147148206f29d36e1aa31b86c262,Praticar consciência fonológica e decodificação,2,DISGRAFIA | DISLEXIA
+c_af71e37d67eba47454940b7b328481284e27f2a45c73f15ca8dabed0204810ff,Praticar contato visual e respeito à vez,2,TDAH | TEA
+c_f6e06fef8f0464bf9c46b8964a7f338b7ab7ab2442517058d2d8fe53f8b71d98,Praticar escrita guiada com feedback imediato,2,DISCALCULIA | DISLEXIA
+c_92af2ed5ed44dd813fa6c3695f7537c9a1f1ac719ce38d4f6066aed95f3fa2b8,Praticar exercícios de fala guiados,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_1e483ae6aea8d634f5482234f4fce38a39a0d0a92bf92de3b7eca744fe825d9c,Praticar fala com reconhecimento de voz,2,TDL | TEA
+c_6f11443776a26987ace5e728b87c76ba8a851772e647be8f5cec198d0fe0fc54,Praticar fala e articulação,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_cd84890476853c22c492f12a261d5f4f1d94937be15aa99dcd1c8a1e7ebdfcc5,Praticar fluência na leitura,2,DISGRAFIA | DISLEXIA
+c_fe6dc7976192ab4405c59e66c5d7fb90f9097099f9b514499c39511579357e52,Praticar fonética e decodificação,2,DISGRAFIA | DISLEXIA
+c_487b684f0304f52e7d15b6883f13372ec16ab4c644ca3dfa33bc38a8fd067ffc,Praticar frases funcionais para comunicação básica,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_7c8400282915bdf3235b8e066cfdf811d17373554eba7284a7ce3420326d0ff4,Praticar habilidades da vida diária em cenários cotidianos,2,TDL | TEA
+c_ccaa9541639d28d45c2ce02d0d2655c3edf936504f160fe9c3595813d95bbdb7,Praticar jogos para atenção e memória de trabalho,3,AHSD | DI | TDAH
+c_2429760e6c151d15b74d2024f563ee20829c3fd644bf6ec11d9d965e703ca63b,Praticar leitura em voz alta com gravação,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_273814b89f6b950578bc980af599153511f14e31a98ae3e919b9c2a8d3c10229,Praticar paciência e transições,2,TDAH | TEA
+c_d7b220b06d0c453f191c1f4d653f6f3d677a0a0cb56ee94a093ce4a3ff5ec9e0,Praticar reconhecimento de emoções por histórias,2,TDL | TEA
+c_1467ced817d6b9e9b49ef0a754d29a07b90b26610ec2c5f1f752f502ed0369ab,Praticar respostas sociais em cenários,2,TDL | TEA
+c_5cc6f06583dae26a554296c1a8ea4a4a2017255900003152fe1ff23384104f07,Praticar tracejamento para escrita,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_555d5857a4130b3f7c711c9dd7375f5876cfffdbbe4bc8f8a9ce1e5ef441e495,Preparar sessões terapêuticas,3,DISLEXIA | TDAH | TDC
+c_0dc6cd5da7e822c7e17784ec54be40a75b4fed740e5c3d839d558df0ec76ab76,Prevenir toques acidentais,2,TDL | TEA
+c_92f2a381d37eb849243ad449ece965b953300c1b74aecf7cff29b3b693087fbf,Previsão de texto avançada,2,TDL | TEA
+c_8e50eff5f97aa86872453230281fed222d7fd41add8cb4e4afcb85096f6d5b5d,Priorizar lista de tarefas,2,TDAH | TEA
+c_c2e928a043d27361d982bfd1f59bc29005c99acc37c78f909a475ea823bb32a9,Pular linhas em branco automaticamente,2,DISLEXIA | TDAH
+c_8dd576e4ebdbf220156f0896aa144461425447e4d216755ddfe8ad7e91d87471,Quebra-cabeças antiestresse,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_685fe23eed11492af9e9d0d51bdf3c8f0d56d1af558aba5c552a562139faf4f5,Rastrear energia diária,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_fd5d9f81bea81c019e219159ed54661eb01faea2ff56146795b4d9293d5e5b7e,Rastrear hábitos com progresso visual,2,TDAH | TEA
+c_6764a632d3b04312f75dfcb3c8a344c4a6d723c036f8eb94db0e7b564078e748,Realizar teste de triagem para dislexia,5,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC | TDL
+c_f6fc0c905a3ace62193cf4766d71ed5fc23d076cf16b41a5731c7782c43006a9,Receber ajuda para iniciar tarefas,2,TDAH | TEA
+c_1e3426e3f51c64731d4eb1275ae35b50a5a0c82b58539ac144d34bc6264099c3,Receber alertas de atenção multimodais,2,TDL | TEA
+c_f10852284d41a02be1b3022e56b79c1926c02e9471c558eec4f05f17e4bac708,Receber dicas de rotina via IA,2,TDAH | TEA
+c_93f4d6468022d5c62d479c74d174548038101d99dc51626ad2180cf61650920e,Receber dicas diárias adaptadas,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_9212855c680ff5b039abea397c8877be693e94b8a6add1ff59dbeb4e86a357f2,Receber efeitos sonoros ao tocar,2,TDC | TEA
+c_a29976c33574e8138d2d01e03f29e5bf674f5d6b2613bc99a674bc9ac2641822,Receber feedback visual de término de tarefa,2,TDAH | TEA
+c_622cf3922c448e7704763ca4c86f19e75afac4d4f152aad06b80c7eedc055f8e,Receber feedback visual imediato ao emitir som,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_cb61bbf3a32f2c0f9459c55ce4c8dac348173e7f41fd13f86ba7237a896fb9b5,Receber orientações imediatas durante crises,2,TDC | TEA
+c_250ed0bcc786f0fdb82ee7f15800fa7f8d45af0829213805cc7858c35cf38d36,Receber recomendações personalizadas para o dia a dia,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_8a656d29a49445c75a618ae23603ebdcdd302fe5c0014c6e02ed72a49fa453b8,Receber vibração ao tocar na tela,2,TDC | TEA
+c_ba669075435fa6cbb0e966930ffca5037c41aff661c81247c1ede3a29ee04fb8,Recompensar desempenho em quebra-cabeças,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_87cde3e4c00b29797fad2b19da0468d03e9ade9131395e4fbe724bca04413ac3,Recompensar melhorias articulares,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_87b10181d2f98aca8353be60c969e091a929a86be566200a9bdef7539e633a66,Recompensar melhorias com tempo de jogo,3,DISGRAFIA | TDC | TDL
+c_5848cfd0d36f986d1f37bd1893170c58e584f8a297961a857d2295ea22590431,Recompensar melhorias na articulação,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_e0dab10acd43756126fcf9cd63811682871a16c4629d2e8ee6e486de2d56c489,Recompensar melhorias na pronúncia,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_b7d76064e49e45ceb818f86a5a4f1d7abefd13d344a5f8aa409b1ef399f04f57,Reconhecer padrões de energia,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_8ff6f2de2662d62361abc1b05d48854767588c03eea0bfaf261bfe5802c1bc0f,Reconhecer sinais precoces de burnout e sobrecarga,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_1b8fd1a3a5ea5684b7ce4c90446494dd1fd68cc5eb065370aa58fb32082615d9,Reconhecer sons,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_c264428f725b972cfe8c3ac56da13f298414e24be0d8e30ccf24f09c47fd4275,Recursos visuais claros e cores suaves,2,TDAH | TEA
+c_ce5e9e38aff44839e4639c7bf1487f14ad37c260fafacbc3e846877b78aa2657,Reduzir ansiedade através da antecipação visual,4,DISLEXIA | TDAH | TDC | TEA
+c_baa24dac1689358867376b5c367b5322ffbb2bf79d6dab2cefb7cb26fc981b81,Reduzir erros de leitura,3,DISGRAFIA | DISLEXIA | TDC
+c_97852e70c561d64483742cc516f7bc74320f1f4424b6acd43c96228b3ae6b49e,Reduzir sobrecarga cognitiva,2,DISLEXIA | TDAH
+c_afb99e63d7d9c65d3c960efd37e4060eb062991420dbb5f19ae06ad0fe928ad9,Reduzir sobrecarga sensorial,3,DI | TDL | TEA
+c_ecce8611a8329d7b8fcedd6688dbf70635745b816f0800c4fa7ffa61f0870bd2,Reduzir sobrecarga visual,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_1fc19e472ea5e4793eacb3dacaf0d75481ffd8f799ea2e940c44ccfd33fee236,Redução de carga cognitiva na navegação,2,TDAH | TEA
+c_402b155ae839973785692e8da83f2ad0c5c3a36bb41ca4166e8c9bba29d5a6ec,Reescrever textos para ajustar tom e formalidade,2,TDAH | TEA
+c_5bcef3b59dc415577667342ffad881ec0f11b90a65a12ba42d0223df46c2f9bc,Reestruturar pensamentos ansiosos,2,TDAH | TEA
+c_ff1500bb8ece1feaeab3a948688970562d79afb2eddea9f32d05e943190f552f,Reformatar texto para leitura limpa,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_53e564f971159c9de3405641e01bfd3aa532e3b3f708b370ef33fb3a52d54856,Reforçar aprendizado por repetição espaçada,2,DISCALCULIA | DISLEXIA
+c_9b40284a10ca0d563c782a1758b0db9bcf8fbd5e8223b7bfa0224966bd5213ae,Reforçar competências sociais e autoestima,4,DISLEXIA | TDAH | TDC | TEA
+c_9b5a05ee807525bcee7b9677aafb6b51d07e93e41d60c8a0893e5f96b9fcb786,Registrar classificações diárias da fala,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_30dbe07f9ddb74f0ec210a126004201f4df03a64b25c51f561a7cc048d816e87,Registrar comportamento modelo ABC,2,TDAH | TEA
+c_07be0c57082e790c106f7766ae625dc3add02dc6a9ad81819d3061580b3eec52,Registrar emoções atuais,2,TDL | TEA
+c_43cf8d46b498fba9b34ad0e091d62cab3dd3fe69f4bf2145f4d30eba89a024d7,Registrar energia diária,5,DI | DISLEXIA | TDAH | TDL | TEA
+c_6181c1898ff7eccb0995851884e6d48e8202100d79b6c1f516032b7607d219b5,Registrar gatilhos de dor e emoções,2,TDL | TEA
+c_e07fcd29938d4c2599fc5a4147f99aec527ad174e8101fb1f80cb3eac064344d,Registrar nível de energia,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_5e5126a274e32de926a18f3b8fc86d5f74985498d6a9a9637a912f0b57e52948,Regulação da atenção,2,DI | TDAH
+c_e0739d57d1f0c214e99eb0aeec4568bba0db45c21f2bd8f10b2331b39d28351c,Regulação sensorial por design,2,TDAH | TEA
+c_3258c468d67660e28b22d7b0d03597e2c903b1ebfa1f933f125ea91b398d1f20,Reorganizar linha do tempo visual,4,DISLEXIA | TDAH | TDC | TEA
+c_d4b144e11ea1dae80281e7836431784d8dd5e3dbae0fd1f358fd3ed7b77e5f5a,Repetição espaçada de palavras,3,DISCALCULIA | DISLEXIA | TDC
+c_ab539ab95583da0dea711ba900b5153c76dd6d48d98fca8fd8d2d36586e7de10,Reposicionar ponteiro de leitura,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_d31d9cd0e9dff8ba44495d23006e75d90ea759b6b999225d2000f89686259dfb,Reproduzir vídeos do YouTube,2,TDL | TEA
+c_f3e99d1f0d375e898e46c11b5a71ad83305751b40abdc7619e8c86fe51954ac4,Reproduzir áudio dos cartões,2,TDL | TEA
+c_52e893ba17d673090dbe97c62f23ac2ff7c077cd0635095f41639dfe5cd6521d,Respiração guiada,2,TDL | TEA
+c_1de9b049c40e8d1cb9506343851f2b3a6a448b167d547123817a61410fa1ab0e,Salvar estratégias pessoais,4,DISCALCULIA | DISLEXIA | TDAH | TDC
+c_4f1259e871c6bce84416e95188bf65649fd4bbf242a85a42dbb2dce9cba4f9f9,Salvar frases frequentes para acesso rápido,4,DISLEXIA | TDC | TDL | TEA
+c_05b36862d753068ff10cf8362b5648f2e26fd3df7489cf69a936603e9d8b303d,Seguir abordagem estruturada com recompensa,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_0842c56afee5b941d76ad3978f7b7f7128c84f0711dbf7719e91d747b5e6bead,Seguir pistas visuais e sonoras para regulação sensorial,2,TDAH | TEA
+c_9ac87af5064ad9afd0a510af734d8a3bff4f62d7712a8b774f9651fcfdf70082,Selecionar cenas temáticas do jogo,2,TDC | TEA
+c_4904c3f540ad3b5641645032d13b55aad201930d0abec5394578f9e1c71de2ec,Selecionar elementos visuais contrastantes,2,TDC | TEA
+c_bf4d5ebdb0f71aa65aeb0cd872559adea184628e18534ff02f40242a86174adc,Selecionar estilo de coaching,2,TDAH | TEA
+c_79843d1fda893649dafc7cd1461ab278d56036cd118eb847b0e145235b72a9d6,Selecionar estímulos visuais interativos,2,TDC | TEA
+c_4b0d8fcdec39f101c3d089e1f9e8c879b41a0117a1f964cd698dcad77260a22e,Selecionar fundos visuais,2,TDC | TEA
+c_97b0e7abb1f892c77fe7bb5ed280720f1e16075e3cc90b53b0e9b070ea143aa3,Selecionar múltiplos tipos de peixes simultaneamente,2,TDC | TEA
+c_4490a6d727eee74def5161373c3bb837d2ff061889a222b2c1285bfb2847f0ad,Selecionar novos jogos automaticamente,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_35007035bf1ca3844a9e682e6a117bbad71ac516f8caced0365b527d4335d8f0,Selecionar símbolos do conjunto amora,4,DI | DISLEXIA | TDL | TEA
+c_9b52808a457449f5764df9c3ffbdf4ff01bca0fa175d93e88a748e81948f6a89,Selecionar tipos de perguntas para prática cognitiva e linguística,2,DISLEXIA | TEA
+c_ca61006bca335dba03b2470734445e545cc25c287d7fe90d8af3b1f56133fc2b,Selecionar vozes naturais,2,TDL | TEA
+c_c9cc92bef5260fb8112fec4df1401b716acdad60bad9ef0f153720112eaa52e7,Senso de lógica,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_fc07fc91f8a9abfce5d74ffe5c713983ffcf868156e193cc071db32c5e8057ae,Separar linhas com tons alternados,2,DISLEXIA | TDAH
+c_c009e678e8e9b7e9a59b6dce86fad7c71bd2ec2ad89c0255318dc78c750b6a1f,Sequenciamento de ações,2,TDAH | TEA
+c_32eabd624986f3086b3ac52cce9cd4e4fe7792f180d0fe432676cde1963ba8b6,Sessões curtas com feedback,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_ecc6f95395aa182b8e1ad31d7cf7d022df18c9bffd42a913483a2a07a52a07f5,Sessões curtas de alfabetização,4,DISGRAFIA | DISLEXIA | TDC | TDL
+c_d61c9e4b73943a1d4e5ec9f287753b3de41a8c77da775d836ad4370efe566020,Simplificar explicações,2,TDAH | TEA
+c_596d0c5d360d421ed26682f0c4acfd6b367e1ef7c5d1507f6aae62055d410b93,Sintetizar voz ajustável,4,DISLEXIA | TDAH | TDC | TEA
+c_7c194140971a2a1c275480438459da5ac937d5e87a1ac019f3ec20f8c5a911d2,Solicitar ajuda para iniciar tarefas,2,TDAH | TEA
+c_7ebf5aed34917dd7d835435912f9cb0f67cc0a5e7eabeb1731e6a03eaa276cff,Som atenção tela principal,4,DI | DISLEXIA | TDL | TEA
+c_3272eea3cf88289e431894a7fa7f7273f5505ddc96abf781bfc0403e11541237,Sortear atividades saudáveis,2,TDAH | TEA
+c_3d73c03cc5b66318991bf54848d6f5e9b5e40b2ea904c6cab49b09f00331311f,Teste de foco e impulsividade,3,AHSD | DI | TDAH
+c_8df2b8dac29441e2ea9711db5d72c205f2ce049fadff13508afa0e71eb46c3dc,Texto em negrito,2,DISCALCULIA | DISLEXIA
+c_dd7b94ae97269b12e538ef2aade834a0285cfddb9a0644bed1eaf6fd8eed1790,Texto para fala com controle de velocidade,2,DISLEXIA | TDAH
+c_e1d2717a28e7bd01cb8fe969010fd2715b4ac240fbf79711994addbd11a7c6b0,Timer para sessões focadas,2,TDAH | TEA
+c_64bfb7105356b22363e02b8e89517ec2efc725d08ffe384727b3ba5e5c5ccc4c,Transcrever automaticamente gravações de áudio,2,DISLEXIA | TDAH
+c_ff6a45469aea81496d8d57caefbbc23d74fddcd897de9ce384389e3fe034df3d,Transcrever notas de voz,3,DISCALCULIA | DISGRAFIA | TDC
+c_44b89a34e9d73ca845147bdfc7fa521e67d9e7e4001b63caa3bc938d4cb5274e,Traçar letras com o dedo,2,DISCALCULIA | DISGRAFIA
+c_cba86624f62d4877c3ecdda56d5207316e3b3fe41c63cb32bc3d151ef752bbfb,Treinamento de leitura e escrita,2,DISCALCULIA | DISLEXIA
+c_0cf754ec42591102d18e6e711e703f2edd5258c63228d1ba93e65d643383446c,Treinar articulação de sons,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_f2b61a41a7c437b164a2ac6a6d4df6066785cf2e2b52f61d7db37729155f1854,Treinar flexibilidade cognitiva,2,TDAH | TEA
+c_cb03c54703c7cbf3f0d653ef9af5ec5afa80800cc01588c16a5cef6021ad8b49,Treinar flexibilidade cognitiva com jogos,2,TDL | TEA
+c_04a203ffccd3c1ca0e3eaad86f7ef446e43f764c8cd6b1baa8d90bba7ef65a3f,Treinar fonética estruturada,6,DISGRAFIA | DISLEXIA | TDAH | TDC | TDL | TEA
+c_e4b853748c34f7c829fb43897244211db4e8e65f923170f385313962b33098b1,Treinar leitura e ortografia,2,DISCALCULIA | DISLEXIA
+c_5f83368f67eaad315c5d6070fcb3b87740ff33fc6722c6969121aa3c7cdb975d,Treinar memória de trabalho visual,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_bc9f08573f03e9a4a7a88d25a66e8f8fe128e11645995ca7b78eb97f6cf1c8bd,Treinar percepção visual simultânea,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_730e394f4aa3d5a6b8f89df4c9d5863092fc1e5465b8af84e66912d0e32e6940,Treinar resolução de problemas,5,DISLEXIA | TDAH | TDC | TDL | TEA
+c_4db4b4eb15a4578d68e1f26d87a3b1c0c198961a6eeaa94e8084cf5e88ccc660,Treinar volume com feedback visual,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_5be067e56480bb496ab0b02a62893ba3378918405fd9fcccb20e9e291f4e74b7,Treino de velocidade de leitura,3,DISGRAFIA | DISLEXIA | TDC
+c_47fca94c986f67b59d78f8028c99c0ec2a944884bf6424a9a03adda7c25feb47,Treino diário personalizado baseado em objetivos,5,AHSD | DI | DISLEXIA | TDAH | TEA
+c_c5839c2936d676fe40168c901f6b8d44edba815fa7115d544e07a984a1eb2dd7,Técnicas de discriminação visual e auditiva,2,TDL | TEA
+c_2314bdd9dfb73068a0cd654ef569758f84f7d19b6d1493cc3e4c4b188962c987,Usar botões sim/não persistentes,2,TDL | TEA
+c_66bb12dfb4ef726bda5df6aa0ae36a8891c9255f66452d95d3a687b03b010b63,Usar botões táteis grandes com feedback háptico,2,TDL | TEA
+c_9c8c19fe8ba338ae614c19f44a18f37394aeced94926f8a8ca8cb60da02baa60,Usar cartões de comunicação com imagens,2,TDAH | TEA
+c_2c949edec1ed98bf6c7cb384a8c7f8b19af53d786ad830741a6c20c282e75720,Usar codificação por cores gramatical,2,TDL | TEA
+c_4d05de77d95cb00b15c9afa0475141d7fdb59bd2146ca80c59b7142217c818aa,Usar como auxiliar de leitura escolar,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_f63f9acd179129047597a701c120750e158f0c3de188609027174aff0504a0b6,Usar como ferramenta de apoio a documentos,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDAH
+c_3d0207e62bb5ec9e4b0636a317d76c6984e15a56baeb3b646ea8e3080fa0f29c,Usar comunicador sobreposto em outros apps,2,TDL | TEA
+c_baaa5652d65c4c8434cf5f9f3787ab701f0e22fad71a9892bd0800b8cf3f12d5,Usar cronômetro de foco durante a rotina,2,TDAH | TEA
+c_ccb18e65f497bd1f7fb1531cae47b649da9135d7bd717967960b3d393f27b289,Usar cronômetro imersivo para foco,2,TDAH | TEA
+c_0ad4e226ee61c6d9eb2f38561aa97172ed5726bf03ee773e7ccc09aabcfb5eed,Usar dicas de encontros consonantais,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_0dd377364095f03eea4514de8539c55ef475c57e75b66a0ec3787b2788ec3be5,Usar dicas de rimas e famílias,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_4abf3a075bf87ca507ea1a4754997c614c363a8d0b2f7296ace373d51ff344c0,Usar exercícios de respiração,2,TDAH | TEA
+c_522a5e754bfc4088a7c9dd116d3f7bf16daa0c303471489acd34de86c0920734,Usar feedback auditivo atrasado,4,DISGRAFIA | DISLEXIA | TDL | TEA
+c_6b0088b51eaab2cd0e4db2ee127b9bfbb55a9b8128f950277a6e5c158084b90b,Usar fontes adequadas para disléxicos,2,DISLEXIA | TDAH
+c_8334f51d7e9c4fb32d3cc5fb638c2cd73fd6479caf0328ddbe513a9ae0ff9d4d,Usar fotos pessoais nos cartões,4,DISLEXIA | TDC | TDL | TEA
+c_9cc00d84941853bb6c398008cfd6a8b2775e7a087b2accf7a67ba1af62e98ee6,Usar gamificação de meditação,2,TDAH | TEA
+c_b4f4fe1d007c14882bdfb060bcab00776f69b221e4aa51705d955e454498713b,Usar layout baseado em palavras-chave de CAA,2,TDL | TEA
+c_5006ac5cb7e1a898ec54156271e1b191390f637295dc46167977c07ebe2df7f8,Usar mecanismo simples de arraste e solte,6,DI | DISLEXIA | TDAH | TDC | TDL | TEA
+c_e27fb61d76c3894a244d3c63ff847224cb82a8aa50c6bc149307ca3b5562ebc1,Usar papel milimetrado digital,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_55cb7d73cc436451a73075c322ec199276ac351a963c0f354a5079555ede99a0,Usar pictogramas categorizados,2,DISGRAFIA | TDC
+c_ab8808d968e450e3e875aa03057f65be212f0a32ce9bf7b3cd82856ebd5e3a9a,Usar planejamento assistido por IA,2,TDAH | TEA
+c_b026aa4bbb5142975f9b3d0c22815128383ce0365cfb57545518ef7e38f9411e,Usar prancha digital para comunicação,2,TDL | TEA
+c_aca325d8c6e069ac7ca5edb3958b61ad0626c91b54c63ddeb2b93dca4bbef36a,Usar previsão de palavras,2,TDL | TEA
+c_a127bd4416f0af5149c9cc8ec9f0bcb7525d07c60b877ddbb79cda6a4b84ba64,Usar previsão de palavras adaptada,2,DISGRAFIA | DISLEXIA
+c_681b79963a79ff654013e10b6e5d70cea4d4e22489f28d9d4cfbe942b37af196,Usar quadro de comunicação CAA,2,DISCALCULIA | DISGRAFIA
+c_d699a5e70a1ef2fcfdd3073cf3fd5378847a2eba72f893ee2e7e94ce00d8c64a,Usar sobreposições coloridas para leitura,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_93d723a8e92f28fd00b3fb25d130bca415705addb7d6e32c65348fd32f1caf4c,Usar símbolos matemáticos personalizáveis,4,DISCALCULIA | DISGRAFIA | DISLEXIA | TDC
+c_ffe68dcba0d95e138831d18a5e4679cbc780efe4843c3ffe99d8b77e8f4aaed7,Usar tema pastel para sensibilidade sensorial,2,TDL | TEA
+c_feae95a6f2c3fb4248a8c5cec593b0a9b027d615c2f70773bbf08a1c7642445a,Usar temas calibrados para reduzir estresse visual,2,DISLEXIA | TDAH
+c_2221313823865d9818c88ef091604b92639981ab48f345021f0d27f5164d9059,Usar verificador ortográfico e preditor,3,DISCALCULIA | DISGRAFIA | TDC
+c_1587aff1cbd7d6153a3c68fb1b662b48f47efa6ddc5d135da6ce312dc29fecbf,Usar voz para interagir com personagens,4,DISLEXIA | TDC | TDL | TEA
+c_b4359ff41f53c7fdc45cc55d27dd441c031f79e732b44606e109dbf8feec05fa,Varredura vocal para navegação,5,DISGRAFIA | DISLEXIA | TDC | TDL | TEA
+c_a8c65ae0156936bc1d1075c9438fed8d4453a3810a91fc21dd8cc4f32be18e49,Verificar relevância de sites,2,TDAH | TEA
+c_3799c907980b161db3a1dcd622addf45996be9ccfcd97b89eeaae482f2571788,Verificar valor de desconto,3,DISCALCULIA | DISGRAFIA | TDC
+c_468661d927f915b62c1a096e569013b021fe5893f1244ba619decbff08d7fb57,Vincular pastas para planejamento motor,2,TDL | TEA
+c_e779c13b9ce44507786b14f0512d538f53dfa8d597ebb67bad468acd279b644f,Visualizar agenda semanal com cores,2,TDAH | TEA
+c_59c68738d6acda604806b6f051764835b44b8b5c47aa61215354e893f42ef99f,Visualizar animações de conclusão,2,TDAH | TEA
+c_26c3ae6bc1aeca2b2be7ca045365fa3f43289184c1ac1b788b3f77f8b99a9fd3,Visualizar contagem regressiva temporal,2,TDL | TEA
+c_eda0e63f2ce0ec07a869b62e4c166450d19ff3597bfbcb998b86d3f6a60f8124,Visualizar conteúdo lado a lado,3,DISCALCULIA | DISGRAFIA | TDC
+c_9ec92f47632179723d76e2f8338471b36405dda59c2a1ebdda596aba9bffd2e4,Visualizar cronograma diário com imagens,2,TDAH | TEA
+c_6eab767af9bf04c29e0233296de43e27b7aaa924ce28cac7b08e9e2ae02e4b1e,Visualizar evento atual,4,DISLEXIA | TDAH | TDC | TEA
+c_22652a7582e486bb8b3816826ced787b274f6fbb560f7ff62b281a3cf306775b,Visualizar passagem do tempo,2,TDAH | TEA
+c_0fdc99ace48c8a16db0a27c5037c4e499a05b6cbf1c5a0a09dd78f32ee2063bc,Visualizar progresso de hábitos,2,TDAH | TEA
+c_5fc4064ff04429ef6501720f62e539a6dd641097bfcc9583bae29b7eee446066,Visualizar sequências de cartões em tela cheia,3,DI | TDL | TEA
+c_c928da55786a4d1857a1cdcbb5317eb3264c4ed8dcd5f98ccab19aa0472ba2f8,Visualizar transições temporais,2,TDAH | TEA
+c_b90a73ff54fe0be2d9fa1d1e363f3c92a23b1a27e0f44857d5429067cf8adfa2,Zona de calma sensorial,4,DISLEXIA | TDAH | TDL | TEA
+c_332fe568e979d3b39918e7094b97836a4a8ea64591538907dba349f29dd23197,Áudio para relaxamento,2,TDAH | TEA
